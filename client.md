@@ -61,7 +61,7 @@
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | 你确定要停止并放弃录制的语音吗？ | 録音を中止し、ボイスメッセージを破棄してもよろしいですか？ |
 | android | chat_audio_discard_warning_title | Discard Voice message | Buang pesan Suara | Buang mesej Suara | 放弃录制语音 | ボイスメッセージを破棄する |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 |
-| android | chat_delete_message | Delete %1$d message? |     |     | 删除 %1$d 条消息吗? |     |
+| android | chat_delete_message | Delete %1$d message? |     |     |     |     |
 | android | chat_delete_message.count | Delete %1$d messages? | Hapus %1$d pesan? | Padamkan %1$d mesej? | 删除 %1$d 条消息吗? |     |
 | android | chat_delete_url | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 |     |     |
 | android | chat_group_call_end | Group call has ended |     |     | 群组语音已结束 | グループ通話が終了しました 通話時間: %1$s |
