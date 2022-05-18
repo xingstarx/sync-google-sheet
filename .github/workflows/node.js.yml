@@ -29,3 +29,14 @@ jobs:
     - run: |
         npm install
         node convert.js
+
+    - name: Commit files
+      run: |
+        git config --local user.email "touge1027@gmail.com"
+        git config --local user.name "tougee"
+        git commit -m "Update client.md" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: script
