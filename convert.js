@@ -68,7 +68,7 @@ export const getHeaderLineBreak = (columnWidths) => {
   for (let width of columnWidths) {
     // Add three to account for padding on both sides of data and leading |
     width += 3
-    output += "|".padEnd(width, "-")
+    output += "|".padEnd(4, "-")
   }
   output += "|\n"
   return output
@@ -91,7 +91,7 @@ export const markdownTables = async (input, outputPath) => {
         let element = columns[columnIndex][rowIndex] || ""
         element = element.toString()
         const columnWidth = columnWidths[columnIndex]
-        output += `| ${element.padEnd(columnWidth, " ")} `
+        output += `| ${element.padEnd(3, " ")} `
         if (columnIndex === columns.length - 1) {
           output += "|\n"
         }
