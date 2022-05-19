@@ -942,7 +942,7 @@
 | mobile | hold_to_record_audio | Hold to record, release to send | Tahan untuk merekam, lepaskan untuk mengirim | Tahan untuk merakam, lepaskan untuk hantar | 长按说话，松手发送 | 長押しして録音、離して送信 |
 | mobile | Hour | %d Hour |     |     | %d 小时 |     |
 | mobile | Hour.count | %d Hours | %d Jam | %d Jam | %d 小时 |     |
-| mobile | Immediately | Immediately |     |     | 立即启动 | すぐに |
+| mobile | Immediately | Immediately |     |     | 立刻  | すぐに |
 | mobile | in_connecting | Connecting… | Menyambungkan… | Menyambung… | 正在连接… | …に接続中 |
 | mobile | Incoming_voice_call | Incoming voice call | Panggilan suara masuk | Panggilan suara masuk | 语音通话来电 | 音声通話を受信中 |
 | mobile | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
