@@ -61,7 +61,7 @@
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | 你确定要停止并放弃录制的语音吗？ | 録音を中止し、ボイスメッセージを破棄してもよろしいですか？ |
 | android | chat_audio_discard_warning_title | Discard Voice message | Buang pesan Suara | Buang mesej Suara | 放弃录制语音 | ボイスメッセージを破棄する |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 |
-| android | chat_delete_message | Delete %1$d message? |     |     | 删除 %1$d 条消息吗? |     |
+| android | chat_delete_message | Delete %1$d message? |     |     |     |     |
 | android | chat_delete_message.count | Delete %1$d messages? | Hapus %1$d pesan? | Padamkan %1$d mesej? | 删除 %1$d 条消息吗? |     |
 | android | chat_delete_url | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 |     |     |
 | android | chat_group_call_end | Group call has ended |     |     | 群组语音已结束 | グループ通話が終了しました 通話時間: %1$s |
@@ -409,7 +409,7 @@
 | iOS | Authorized | Authorized |     |     | 已授权 | 許可しました |
 | iOS | auto_back_up_hint | Automatically back up to iCloud only over Wi-Fi. |     |     | 只会在 Wi-Fi 下自动备份聊天记录。 | Wi-Fiの使用時に自動でiCloudにバックアップする |
 | iOS | Auto_Backup | Auto Backup |     |     | 自动备份 | 自動バックアップ |
-| iOS | Automatic | Automatic |     |     | 自动的 | 自動モード |
+| iOS | Automatic | Automatic |     |     | 自动  | 自動モード |
 | iOS | Back_Up_Now | Back Up Now |     |     | 立即备份 | 今すぐバックアップ |
 | iOS | backup_disable_hint | Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive. |     |     | 需要登录 iCloud 来备份你的聊天记录。 设置 > iCloud > 打开 iCloud 云盘。 | iCloudにサインインしてバックアップを行う 設定 > iCloud > iCloudドライブをオンにする. |
 | iOS | Balance | Balance |     |     | 余额  | 残高  |
@@ -668,607 +668,607 @@
 | iOS | Your_PIN_has_been_changed | Your PIN has been changed |     |     | 修改密码 | PINが変更されました |
 | iOS | Deposit_at_least | Deposit at least %@ %@ for the first time. |     |     | 首次充值至少 %@ %@！ | 最初の入金は%@ %@ 以上に指定してください |
 | iOS | assets_title | Assets |     |     | 资产  | 資産  |
-| mobile | No_transactions | No transactions | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
-| mobile | disable_disappearing_message | %1$s disabled disappearing message |     |     | %1$s 禁用了限时消息 |     |
-| mobile | Off | Off |     |     | 关闭  | オフ  |
-| mobile | About | About | Tentang | Mengenai | 关于  | Mixinについて |
-| mobile | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
-| mobile | access_your_apps_list | access your apps list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的应用列表 | アプリリストへのアクセス |
-| mobile | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
-| mobile | access_your_collectibles | access your collectibles |     |     | 访问你的 NFT 列表 | コレクションへのアクセス |
-| mobile | access_your_contacts_list | access your contacts list | mengakses daftar kontak Anda | akses senarai kenalan anda | 访问你的联系人列表 | 連絡先情報へのアクセス |
-| mobile | access_your_snapshots | access your snapshots | mengakses snapshot Anda | akses gambar anda | 访问你的转账记录 | トランザクションの記録 |
-| mobile | Account | Account | Akun | Akaun | 账号  | アカウント |
-| mobile | Add | Add |     |     | 添加  | 追加  |
-| mobile | Add_address | Add address | Tambahkan alamat | Tambah alamat | 添加地址 | アドレスを追加 |
-| mobile | Add_bot | Add Bot | Tambahkan Bot | Tambah Bot | 添加机器人 | Myロボに追加 |
-| mobile | Add_circle | Add Circle | Tambahkan Lingkaran | Tambah Lingkaran | 添加圈子 | 新しいリストを作成 |
-| mobile | Add_Contact | Add Contact | Tambahkan Kontak | Tambah Kenalan | 添加联系人 | 友だちを追加 |
-| mobile | Add_conversations | Add Conversations | Tambahkan Percakapan | Tambah Perbualan | 添加会话 | 会話を追加する |
-| mobile | Add_emergency_contact | Add emergency contact | Tambahkan kontak darurat | Tambahkan kenalan kecemasan | 添加紧急联系人 | 緊急連絡先を追加 |
-| mobile | Add_memo | Add Memo | Tambahkan Memo | Tambah Memo | 点击添加 Memo（备注） | メモを追加する |
-| mobile | Add_participants | Add Participants | Tambahkan Peserta | Tambah Peserta | 添加成员 | メンバーを追加 |
-| mobile | Add_Sticker | Add Sticker |     |     | 添加贴纸 | スタンプを追加する |
-| mobile | Add_stickers | Add Stickers |     |     | 添加所有表情 | スタンプを追加 |
-| mobile | Add_Tag | Add Tag | Tambahkan Tag | Tambah Tag | 点击添加 Tag（标签） | タグを追加する |
-| mobile | Added | Added |     |     | 已添加 | 追加済 |
-| mobile | Address | Address | Alamat | Alamat | 地址  | アドレス |
-| mobile | Admin | Admin | admin | pentadbir | 管理员 | サブリーダー |
-| mobile | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
-| mobile | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
-| mobile | alert_key_contact_contact_message | sent you a contact | berbagi kontak | berkongsi kenalan | 分享了一个联系人 | 連絡先が届きました |
-| mobile | alert_key_contact_data_message | sent you a file | mengirim file | hantar fail | 发送一个文件 | ファイルが届きました |
-| mobile | alert_key_contact_image_message | sent you a photo | mengirimi Anda foto | menghantar foto kepada anda | 发送一张照片 | 画像が届きました |
-| mobile | alert_key_contact_live_message | sent you a live stream | mengirimi Anda siaran langsung | menghantar anda secara langsung | 发送一个直播 | ライブ配信が届きました |
-| mobile | alert_key_contact_location_message | sent you a location | mengirim lokasi | hantar lokasi | 发送了一个位置 | 位置情報が届きました |
-| mobile | alert_key_contact_post_message | sent you a post | mengirim postingan | hantar kiriman | 发送了一篇文章 | 投稿が届きました |
-| mobile | alert_key_contact_sticker_message | sent you a sticker | mengirimi Anda stiker | hantarkan pelekat kepada anda | 发送一张贴纸 | スタンプが届きました |
-| mobile | alert_key_contact_text_message | sent you a message | mengirimi Anda pesan | menghantar mesej kepada anda | 发送一条消息 | メッセージが届きました |
-| mobile | alert_key_contact_transcript_message | sent you an transcript |     |     | 分享一个聊天记录 | メッセージ履歴が共有されました |
-| mobile | alert_key_contact_transfer_message | sent you a transfer | mengirimi Anda transfer | menghantar pindahan kepada anda | 发送一笔转账 | 送金が届きました |
-| mobile | alert_key_contact_video_message | sent you a video | mengirimi Anda video | menghantar video kepada anda | 发送一个视频 | 動画が届きました |
-| mobile | alert_key_group_audio_call_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 | %1$s秒後にコードを再送する |
-| mobile | alert_key_group_audio_message | %1$s sent an audio | %1$s mengirim audio | %1$s hantarkan audio | %1$s 发送一条语音 | %1$sが音声を送信しました |
-| mobile | alert_key_group_contact_message | %1$s sent a contact | %1$s membagikan kontak | %1$s berkongsi kenalan | %1$s 分享了一个联系人 | %1$sが連絡先を送信しました |
-| mobile | alert_key_group_data_message | %1$s sent a file | %1$s mengirim file | %1$s hantar fail | %1$s 发送一个文件 | %1$sがファイルを送信しました |
-| mobile | alert_key_group_image_message | %1$s sent a photo | %1$s mengirim foto | %1$s hantar foto | %1$s 发送一张照片 | %1$sが画像を送信しました |
-| mobile | alert_key_group_live_message | %1$s sent a live stream | %1$s mengirim siaran langsung | %1$s menghantar siaran langsung | %1$s 发送一个直播 | %1$sがライブ配信を送信しました |
-| mobile | alert_key_group_location_message | %1$s sent a location | %1$s mengirim lokasi | %1$s hantar lokasi | %1$s 发送一个位置 | %1$sが位置情報を送信しました |
-| mobile | alert_key_group_post_message | %1$s sent a post | %1$s mengirim postingan | %1$s hantar kiriman | %1$s 发送一篇文章 | %1$sが投稿を送信しました |
-| mobile | alert_key_group_sticker_message | %1$s sent a sticker | %1$s mengirim stiker | %1$s hantarkan pelekat | %1$s 发送一张贴纸 | %1$sがスタンプを送信しました |
-| mobile | alert_key_group_text_message | %1$s sent a message | %1$s mengirim pesan | %1$s hantar mesej | %1$s 发送一条消息 | %1$sがメッセージを送信しました |
-| mobile | alert_key_group_transcript_message | %1$s sent a transcript |     |     | %1$s 分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |
-| mobile | alert_key_group_video_message | %1$s sent a video | %1$s mengirim video | %1$s hantar video | %1$s 发送一个视频 | %1$sが動画を送信しました |
-| mobile | All | All | Semua | Semua | 全部  | すべて |
-| mobile | All_Conversations | All Conversations | Semua Percakapan | Semua Perbualan | 所有会话 | すべてのチャット |
-| mobile | All_Transactions | All Transactions | Semua Transaksi | Semua Urus Niaga | 所有交易 | 全てのトランザクション |
-| mobile | Amount | Amount | Jumlah | Jumlah | 金额  | 数量  |
-| mobile | app_card_shareable_false | The card has been set to not allow sharing |     |     | 包含不允许转发的卡片 | このカードを共有することはできません |
-| mobile | App_not_found | App not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
-| mobile | Appearance | Appearance | Tampilan | Penampilan | 外观  | 言語とテーマ |
-| mobile | Apply | Apply | Terapkan | Guna | 应用  | 適用  |
-| mobile | Asset_Key | Asset Key | Kode Aset | Kunci Aset | 资产标识 | 資産キー |
-| mobile | Asset_not_found | Asset not found. |     |     | 找不到该资产 | 資産が存在しません |
-| mobile | ASSETS | ASSETS | ASET | ASET | 资产  | 資産  |
-| mobile | Audio | Audio | Audio | Audio | 语音  | 音声  |
-| mobile | Audios | Audios |     |     | 音频  | 音声  |
-| mobile | auth_assets_more | %1$s and more | %1$s dan lainnya | %1$s dan banyak lagi | %1$s 等 | %1$sなど |
-| mobile | auth_messages_represent_description | allow bot to send messages represent of you | Izinkan bot untuk mengirim pesan yang mewakili Anda | benarkan bot menghantar mesej mewakili anda | 允许机器人代表你发消息 | 通知を許可する |
-| mobile | auth_profile_content | %1$s, %2$s, profile photo | %1$s, %2$s, foto profil | %1$s, %2$s, foto profil | %1$s, %2$s, 头像 | %1$s, %2$s, プロフィール画像 |
-| mobile | authorization | authorization | otorisasi | keizinan | 授权  | 認証  |
-| mobile | Authorizations | Authorizations | Otorisasi | Kebenaran | 授权  | 許可  |
-| mobile | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded |     |     | 媒体自动下载设定，所有语音消息将自动下载。 | 音声品質を維持するため、ボイスメッセージは常に自動ダウンロードされます |
-| mobile | Auto_Lock | Auto-Lock |     |     | 自动锁定 | 自動ロック |
-| mobile | Back_To_Chat | Back To Chat | Kembali Ke Obrolan | Kembali Ke Sembang | 返回聊天 | チャットに戻る |
-| mobile | Backing_Up | Backing Up... |     |     | 正在备份... | バックアップしています... |
-| mobile | Block | Block | Blokir | Sekat | 屏蔽用户 | ブロック |
-| mobile | block_tip | Blocked users can't send you messages or add you to groups. | Pengguna yang diblokir tidak dapat mengirimi Anda pesan atau menambahkan Anda ke grup. | Pengguna yang disekat tidak dapat mengirim anda pesan atau menambahkan anda ke kumpulan. | 被屏蔽的用户不能给你发送消息或者邀请你加入群聊 | ブロックされたユーザーはあなたを追加したりチャットに招待することができません |
-| mobile | Blocked | Blocked | Diblokir | Disekat | 已屏蔽 | ブロック中のユーザー |
-| mobile | Blocked_Users | Blocked Users |     |     | 屏蔽名单 |     |
-| mobile | bot_empty_tip | Please add your favorite bot first. | Harap tambahkan bot favorit Anda terlebih dahulu. | Sila masukkan bot kegemaran anda terlebih dahulu. | 可以添加你喜欢的机器人 | 最初にお気に入りのロボを追加してください。 |
-| mobile | bots_title | Bots | Bot | Bot | 机器人 | Myロボ一覧 |
-| mobile | BOTS | BOTS | BOT | BOT | 机器人 | ロボ  |
-| mobile | Call | Call |     |     | 语音  | 応答なし |
-| mobile | Call_declined | Call declined | Panggilan ditolak | Panggilan ditolak | 对方已拒绝 |     |
-| mobile | call_encryption_description | No one outside of this call can view or listen to it. Not even Mixin. |     |     | 除了参与通话的人，其他人包含Mixin在内都无法听取或查看。 | この通話はE2E暗号化されています。 |
-| mobile | call_encryption_title | This call is secured with end-to-end encryption |     |     | 此通话使用端对端加密进行保护 | 通話に失敗しました |
-| mobile | Call_failed | Call failed | Panggilan gagal | Panggilan gagal | 呼叫失败 | 現在別の通話をしています。終了してから始めてください。 |
-| mobile | call_on_another_call_hint | You are already on another call. Try after it was ended. |     |     | 无法在 Mixin 通话时拨打电话 | 通話を最小化するためには、Mixinの権限を許可してください。 |
-| mobile | Calling | Calling… | Memanggil… | Memanggil… | 正在呼叫… | カメラ |
-| mobile | Camera | Camera | Kamera | Kamera | 相机  | QRコードが見つかりません |
-| mobile | Cancel | Cancel | Batal | Batal | 取消  | キャンセル |
-| mobile | Cancel_Floating | Cancel Floating |     | Batal Terapung | 取消浮窗 | Floatingをキャンセル |
-| mobile | Canceled | Cancelled | Dibatalkan | Dibatalkan | 已取消 |     |
-| mobile | Canceled_by_caller | Cancelled by caller | Panggilan Dibatalkan oleh penelepon | Panggilan Dibatalkan oleh pemanggil | 对方已取消 | 不在着信 |
-| mobile | Cant_receive_the_code | Can't receive the code? | Tidak dapat menerima kode? | Tidak dapat menerima kod? | 接收不到验证码? | コードが届きませんか？ |
-| mobile | Chain | Chain | Chain | Rantai | 所属公链 | チェーン |
-| mobile | Change | Change | Ubah | Ubah | 更改  | 変更  |
-| mobile | Change_Amount | Change Amount | Ubah Jumlah | Tukar Jumlah | 修改金额 | 数量を変更 |
-| mobile | Change_emergency_contact | Change emergency contact | Ubah kontak darurat | Tukar kenalan kecemasan | 修改紧急联系人 | 緊急連絡先を変更する |
-| mobile | Change_Number_Instead | Change Number Instead |     |     | 仅修改手机号码 | 電話番号を変更 |
-| mobile | Change_Phone_Number | Change Phone Number | Ubah Nomor Telepon | Tukar Nombor Telefon | 修改手机号 | 電話番号を変更 |
-| mobile | Change_PIN | Change PIN | Ubah PIN | Tukar PIN | 修改 PIN | PINを変更する |
-| mobile | Change_PIN_successfully | Change PIN successfully | Berhasil mengubah PIN | Penukaran PIN berjaya | PIN 修改成功 | PINの変更が完了しました。 |
-| mobile | Change_Profile_Photo_with_Camera | Change Profile Photo with Camera | Ubah Foto Profil dengan Kamera | Tukar Foto Profil dengan Kamera | 更换头像（相机） | プロフィール画像を撮影 |
-| mobile | Change_Profile_Photo_with_Library | Change Profile Photo with Library | Ubah Foto Profil dengan Koleksi | Tukar Foto Profil dengan Perpustakaan | 更换头像（相册） | プロフィール画像を選択 |
-| mobile | chat_app_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
-| mobile | Chat_Backup | Chat Backup |     |     | 聊天记录备份 |     |
-| mobile | chat_call_duration | Duration %1$s | Durasi: %1$s | Tempoh: %1$s | 通话时长 %1$s | 通話時間 %1$s |
-| mobile | chat_call_warning_voice | Can't record voice messages during a Mixin call. | Tidak dapat merekam pesan suara selama panggilan Mixin. | Tidak dapat merakam mesej suara semasa panggilan Mixin. | 无法在 Mixin 通话时录制语音消息 | 通話中にボイスメッセージを録音することはできません。 |
-| mobile | chat_decryption_failed | This message decryption failed, please upgrade Mixin to the latest version. |     |     | 此信息解密失败，请将 Mixin 升级到最新版本。 | メッセージの解読に失敗しました。Mixinを最新バージョンにアップデートしてください。 |
-| mobile | chat_group_add | %1$s added %2$s | %1$s menambahkan %2$s | %1$s menambahkan %2$s | %1$s添加了%2$s | %1$sが%2$sを追加しました |
-| mobile | chat_group_call_cancel | %1$s has canceled group call | %1$s telah membatalkan panggilan grup | %1$s telah membatalkan panggilan kumpulan | %1$s 已取消群组语音 | %1$sグループ通話をキャンセルしました |
-| mobile | chat_group_call_decline | %1$s has declined group call | %1$s telah menolak panggilan grup | %1$s telah menolak panggilan kumpulan | %1$s 已拒绝群组语音 | グループ通話が終了しました |
-| mobile | chat_group_call_invite | %1$s has invited you to a group call | %1$s telah mengundang Anda ke panggilan grup | %1$s telah menjemput anda ke panggilan kumpulan | %1$s 邀请你加入群组语音 | %1$sからグループ通話の招待がきています |
-| mobile | chat_group_exit | %1$s left | %1$s keluar | Tinggal %1$s | %1$s离开了群组 | %1$sが退出しました |
-| mobile | chat_group_join | %1$s joined the group via invite link | %1$s bergabung dengan grup melalui tautan undangan | %1$s menyertai kumpulan melalui pautan jemputan | %1$s通过邀请链接加入群组 | %1$sが招待リンクから参加しました |
-| mobile | chat_group_remove | %1$s removed %2$s | %1$s menghapus %2$s | %1$s mengalih keluar %2$s | %1$s移除了%2$s | %1$sが%2$sを退出させました |
-| mobile | chat_not_support | This type of message is not supported, please upgrade Mixin to the latest version. %1$s. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. %1$s. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. %1$s. | 不支持此类型消息。请升级 Mixin 查看。 %1$s。 | チャットが読み込めません Mixinをアップデートしてください %1$s. |
-| mobile | chat_on_mixin_content | Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search %1$s to add me as a friend. |     | Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari %1$s untuk menambahkan saya sebagai rakan. | 快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 %1$s 加我好友。 | さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、%1$sを検索して私と友達になりましょう。 |
-| mobile | chat_pin_message | %1$s pinned %2$s |     |     | %1$s置顶了%2$s | %1$sは%2$sをピン留めしました |
-| mobile | chat_recall_delete_alert | Messages you selected will be deleted for everyone on the latest version of Mixin in this chat. | Pesan yang Anda pilih akan dihapus untuk semua orang pada versi Mixin terbaru dalam obrolan ini. | Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini. | 所有使用最新版本 Mixin Messenger 的设备都将删除被选中的消息 | 選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。 |
-| mobile | chat_waiting | Waiting for %1$s to get online and establish an encrypted session. %2$s. | Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s. | Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s. | 等待%1$s上线后建立加密会话。%2$s。 | %1$sが参加し暗号化セッションが開始するまで待機しています… %2$s. |
-| mobile | CHATS | CHATS | OBROLAN | SEMBANG | 会话  | チャット |
-| mobile | circle_bottom | Create circle for different  groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建 圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
-| mobile | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
-| mobile | circle_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
-| mobile | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
-| mobile | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
-| mobile | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
-| mobile | circle_title | %1$s's Circles | Lingkaran %1$s | Lingkaran %1$s | %1$s的圈子 |     |
-| mobile | Circles | Circles | Lingkaran | Lingkaran | 圈子  |     |
-| mobile | Clear | Clear | Bersihkan | Kosong | 清理  | クリア |
-| mobile | Clear_chat | Clear Chat | Bersihkan Obrolan | Kosongkan Sembang | 清除聊天记录 | チャットをクリア |
-| mobile | Close | Close |     |     | 关闭  | 閉じる |
-| mobile | Combine_and_forward | Combine and forward |     |     | 合并转发 | 転送を結合する |
-| mobile | Confirm | Confirm | Konfirmasi | Sahkan | 确认  | 許可する |
-| mobile | Connecting | Connecting | Menyambungkan | Menyambung | 正在连接 | 接続中 |
-| mobile | Connection_unstable | Connection unstable |     |     | 当前通话网络不佳 | 権限不足です |
-| mobile | Contact | Contact | Kontak | Kenalan | 联系人 | 連絡先 |
-| mobile | contact_count | %1$d contact |     |     | %1$d位联系人 |     |
-| mobile | contact_count.count | %1$d contacts | %1$d kontak | %1$d kenalan | %1$d位联系人 |     |
-| mobile | Contact_Developer | Contact Developer |     | Hubungi Pembangun | 联系开发者 | デベロッパーへ連絡 |
-| mobile | contact_invite_content | Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger . | Hai, saya menggunakan Mixin Messenger untuk mengobrol. Unduh di sini: https://mixin.one/messenger . | Hei, saya menggunakan Mixin Messenger untuk sembang. Muat turun di sini: https://mixin.one/messenger . | 我正在使用 Mixin 聊天。\n 下载：https://mixin.one | Mixinを使いませんか？ ここからダウンロード: https://mixin.one/messenger |
-| mobile | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s |
-| mobile | contact_mobile | Mobile: %1$s | Seluler: %1$s | Mudah alih: %1$s | 手机: %1$s | モバイル: %1$s |
-| mobile | contact_share_apps_title | %1$s's Shared Apps | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的应用 | %1$s\のシェアしたロボ |
-| mobile | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
-| mobile | content_audio | [Audio] | [Audio] | [Audio] | [语音] | [音声] |
-| mobile | content_contact | [Contact] | [Kontak] | [Hubungi] | [联系人] | [連絡先] |
-| mobile | content_file | [File] | [File] | [Fail] | [文件] | [ファイル] |
-| mobile | content_live | [Live] | [Siaran Langsung] | [Langsung] | [直播] | [ライブ] |
-| mobile | content_location | [Location] | [Lokasi] | [Lokasi] | [位置] | [位置情報] |
-| mobile | content_photo | [Photo] | [Foto] | [Foto] | [照片] | [画像] |
-| mobile | content_post | [Post] | [Postingan] | [Catatan] | [文章] | [投稿] |
-| mobile | content_sticker | [Sticker] | [Stiker] | [Pelekat] | [贴纸] | [スタンプ] |
-| mobile | content_transcript | [Transcript] |     |     | [聊天记录] | [メッセージ履歴] |
-| mobile | content_transfer | [Transfer] | [Transfer] | [Pindah] | [转账] | [送金] |
-| mobile | content_video | [Video] | [Video] | [Video] | [视频] | [動画] |
-| mobile | content_voice | [Voice call] | [Panggilan suara] | [Panggilan suara] | [语音电话] | [音声通話] |
-| mobile | Continue | Continue | Lanjutkan | Teruskan | 继续  | 続ける |
-| mobile | Continue_Open_URL | Continue Open URL | Lanjutkan Buka URL | Terus Buka URL | 继续访问 | URLを開く |
-| mobile | Conversation | Conversation | Percakapan | Perbualan | 会话  | 受信制限 |
-| mobile | Conversation_not_found | Conversation not found. |     |     | 找不到该会话 | 会話が見つかりません |
-| mobile | conversation_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 |
-| mobile | Copy | Copy | Salin | Salinan | 复制  | コピー |
-| mobile | Copy_invite | Copy Invite Link | Salin Tautan | Salin pautan | 复制邀请链接 | リンクをコピーする |
-| mobile | Copy_link | Copy Link |     | Salin pautan | 复制链接 | リンクをコピー |
-| mobile | Create | Create | Buat | Buat | 创建  | 作成  |
-| mobile | created_this_group | %1$s created this group |     |     | %1$s创建了这个群组 | %1$sがグループを作成しました |
-| mobile | Currency | Currency | Mata uang | Mata Wang | 货币  | 通貨  |
-| mobile | Custom_Time | Custom Time |     |     | 自定义时间 |     |
-| mobile | Data_and_Storage_Usage | Data and Storage Usage | Penggunaan Data dan Penyimpanan | Penggunaan Data dan Storan | 数据与存储空间 |     |
-| mobile | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 |
-| mobile | Date | Date | Tanggal | Tarikh | 日期  | 日付  |
-| mobile | date_format_date | MMM dd, yyyy | TTT bb, tttt | BBB hh, tttt | yyyy年MM月dd日 | MMM dd, yyyy |
-| mobile | Declined | Declined | Ditolak | Menolak | 已拒绝 |     |
-| mobile | Delete | Delete |     |     | 删除  | 削除  |
-| mobile | delete_account_hint | Delete your account info and profile photo |     |     | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |
-| mobile | Delete_address | Delete address | Hapus alamat | Padamkan alamat | 删除地址 | アドレスを削除 |
-| mobile | Delete_emergency_contact | Delete emergency contact | Hapus kontak darurat | Padamkan kenalan kecemasan | 删除紧急联系人 | 緊急連絡先を削除 |
-| mobile | Delete_for_everyone | Delete for Everyone | Hapus untuk Semua Orang | Padamkan untuk Semua Orang | 撤回  | 全員のチャットから削除 |
-| mobile | Delete_for_me | Delete for me | Hapus untuk saya | Padamkan untuk saya | 删除  | あなたのチャットから削除 |
-| mobile | Delete_my_account | Delete My Account |     |     | 注销账户 | アカウント削除 |
-| mobile | Delete_Synced_Contact | Delete Synced Contacts | Hapus Kontak yang Disinkronkan | Padam Kenalan yang selaraskan | 删除已同步的通讯录 | 同期済みの連絡先を削除する |
-| mobile | Delete_withdraw_Address | Delete %1$s Address | Hapus Alamat %1$s | Padamkan Alamat %1$s | 删除 %1$s 地址 | %1$sアドレスを削除 |
-| mobile | Deposit | Deposit | Deposit | Deposit | 充值  | 入金  |
-| mobile | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | 注意：首次充值建议小额尝试！地址 和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 |     |
-| mobile | deposit_attention | Please try a small amount for the first deposit. | Harap coba jumlah kecil untuk deposit pertama. | Cuba sedikit untuk deposit pertama. | 首次充值建议小额尝试！ | 注意: 最初は必ず少額で入金テストをしてください。 |
-| mobile | deposit_confirmation | Deposit will arrive %1$d block confirmation |     |     | 充值到账需要 %1$d 个区块确认。 |     |
-| mobile | deposit_confirmation.count | Deposit will arrive %1$d block confirmations | Deposit akan tiba setelah setidaknya %1$d konfirmasi block | Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan | 充值到账需要 %1$d 个区块确认。 |     |
-| mobile | deposit_reserve | Deposit at least %1$s for the first time. | Deposit minimal %1$s untuk pertama kali. | Deposit sekurang-kurangnya %1$s untuk pertama kalinya. | 首次充值至少 %1$s ！ |     |
-| mobile | deposit_tip_btc | This address only supports BTC. | Alamat ini hanya mendukung BTC. | Alamat ini hanya menyokong BTC. | 该充值地址仅支持 BTC。 | このアドレスはビットコインのみサポートしています。 |
-| mobile | deposit_tip_common | This address only supports %1$s. | Alamat ini hanya mendukung %1$s. | Alamat ini hanya menyokong %1$s. | 该充值地址仅支持 %1$s。 | このアドレスは%1$sのみサポートしています。 |
-| mobile | deposit_tip_eos | This address supports all base on EOS tokens. | Alamat ini mendukung semua token berbasis EOS, seperti EOS, IQ, dll. | Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll. | 支持所有基于 EOS 发行的代币。 |     |
-| mobile | deposit_tip_eth | This address supports all ERC-20 tokens, such as ETH, XIN, etc. | Alamat ini mendukung semua token ERC-20, seperti ETH, XIN, dll. | Alamat ini menyokong semua token ERC-20, seperti ETH, XIN, dll. | 支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。 |     |
-| mobile | deposit_tip_trx | This address supports all TRC-10 and TRC-20 tokens. | Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll. | Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll. | 支持 TRX 和所有符合 TRC-10 TRC-20 标准的代币。 |     |
-| mobile | desktop_on_hint | You have your desktop logged in |     |     | 桌面版已登入 |     |
-| mobile | desktop_upgrade | Please upgrade Mixin Messenger Desktop to the latest version. | Harap tingkatkan Mixin Messenger Desktop ke versi terbaru. | Sila tingkatkan Mixin Messenger Desktop kepada versi terkini. | 请升级 Mixin Messenger 桌面端至最新版！ | デスクトップ版Mixinを最新バージョンにアップデートしてください。 |
-| mobile | detect_qr_tip | Detected a Mixin QR code, tap to recognize | Mendeteksi kode QR Mixin, ketuk untuk mengenali | Mengesan kod QR Mixin, ketuk untuk mengenali | 检测到一个 Mixin 二维码，点击识别 | Mixin QRコードを検出しました、タップしてアクセスします |
-| mobile | Developer | Developer | Pengembang | Pemaju | 开发者 | 開発者情報 |
-| mobile | disappearing_message | Disappearing Messages |     |     | 限时消息 |     |
-| mobile | disappearing_message_hint | When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to learn more. |     |     | 启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以了解更多。 |     |
-| mobile | Dismiss_as_Admin | Dismiss as Admin | Singkirkan admin | Ketepikan pentadbir | 撤销管理员身份 | サブリーダー権限を解除 |
-| mobile | Done | Done | Selesai | Selesai | 完成  | 完了  |
-| mobile | Duplicate_Transfer_Confirmation | Duplicate Transfer Confirmation | Konfirmasi Transfer Ganda | Pengesahan Pemindahan Pendua | 重复转账确认 | 二重送金の確認 |
-| mobile | Duplicate_Withdraw_Confirmation | Duplicate Withdraw Confirmation | Konfirmasi Penarikan Ganda | Pengesahan Pengunduran Pendua | 重复提现确认 | 二重出金の確認 |
-| mobile | edit_address | Edit %1$s Address |     |     | 修改 %1$s 地址 | %1$sアドレスを修正 |
-| mobile | Edit_Biography | Edit Biography | Edit Biografi | Edit Biografi | 修改简介 | 自己紹介文を変更 |
-| mobile | Edit_Circle_Name | Edit Circle Name | Edit Nama Lingkaran | Edit Nama Lingkaran | 编辑名称 | リスト名を編集 |
-| mobile | Edit_Conversations | Edit Conversations | Edit Percakapan | Edit Perbualan | 管理圈子 | リストを編集 |
-| mobile | Edit_Group_Description | Edit Group Description | Edit deskripsi grup | Edit keterangan kumpulan | 编辑群公告 | グループアナウンス |
-| mobile | Edit_group_name | Edit Group Name | Edit Nama | Edit Nama | 编辑名称 | グループ名を変更 |
-| mobile | Edit_Name | Edit Name | Edit Nama | Edit Nama | 修改昵称 | 名前を変更 |
-| mobile | Emergency_Contact | Emergency Contact | Kontak darurat | Kenalan kecemasan | 紧急联系人 | 緊急連絡先 |
-| mobile | empty_info | You can chat with contacts who have Mixin installed on their phone. | Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka | Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka | 你可以与你的 Mixin 好友一起聊天。 | Mixinをダウンロードしている人と\nいつでもチャットが可能です。 |
-| mobile | Enable_Emergency_Contact | Enable Emergency Contact | Aktifkan Kontak Darurat | Bolehkan Kenalan Kecemasan | 启用紧急联系人 | 緊急連絡先を有効にする |
-| mobile | End_to_End_Encryption | End-to-end Encrypted | Terenkripsi end-to-end | Disulitkan | 端到端加密 | エンドツーエンド暗号化 |
-| mobile | Enter_PIN_to_delete_account | Enter your PIN to delete your account |     |     | 输入你的 PIN 以注销你的账户 | PINコードを入力してください |
-| mobile | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | Masukkan ID Mixin kontak darurat Anda | Masukkan ID Mixin kenalan kecemasan anda | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください |
-| mobile | Enter_your_phone_number | Enter your phone number | Masukkan nomor ponsel Anda | Masukkan nombor telefon bimbit anda | 输入你的手机号码 | 電話番号を入力して下さい |
-| mobile | Enter_your_PIN | Enter your PIN | Masukkan PIN Anda | Masukkan PIN anda | 输入你的 PIN | PINを入力してください |
-| mobile | Enter_your_PIN_to_continue | Enter your PIN to continue |     |     | 输入你的 PIN 以继续 | PINコードを入力してください |
-| mobile | error_blockchain | ERROR %1$d: Blockchain not in sync, please try again later. | KESALAHAN %1$d: Blockchain tidak sinkron, coba lagi nanti. | RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 %1$d：区块链同步异常，请稍后重试 | エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
-| mobile | error_connection_timeout | Network connection timeout, please try again | Batas waktu sambungan jaringan | Tamat masa sambungan rangkaian | 网络连接超时 | ネットワーク接続がタイムアウトしました |
-| mobile | error_full_group | ERROR %1$d: The group chat is full. | KESALAHAN %1$d: Obrolan grup sudah penuh. | RALAT %1$d: Kumpulan sembang penuh. | 错误 %1$d：群组已满 | エラー %1$d: グループチャットが満員です |
-| mobile | error_insufficient_balance | ERROR %1$d: Insufficient balance | KESALAHAN %1$d: Saldo tidak cukup | RALAT %1$d: Baki tidak mencukupi | 错误 %1$d：余额不足 | エラー %1$d: 残高が不足しています |
-| mobile | error_insufficient_transaction_fee_with_amount | ERROR %1$d: Insufficient transaction fee. Please make sure your wallet has %2$s as fee |     |     | 错误 %1$d：手续费不足。请确保钱包至少有 %2$s 当作手续费。 | エラー%1$d：早期手数料が不足しています。ウォレット内に%2$sが保管されているか確認してください。 |
-| mobile | error_invalid_address_plain | ERROR %1$d: Invalid address format. | KESALAHAN %1$d: Format alamat tidak valid. | RALAT %1$d: Format alamat tidak sah. | 错误 %1$d：地址格式错误。 | エラー%1$d：無効なアドレス形式です。 |
-| mobile | error_invalid_emergency_contact | ERROR %1$d: Invalid emergency contact | KESALAHAN %1$d: Kontak darurat tidak valid | RALAT %1$d: Kenalan kecemasan tidak sah | 错误 %1$d：紧急联系人不正确 | エラー %1$d: 緊急連絡先が無効です |
-| mobile | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
-| mobile | error_phone_invalid_format | ERROR %1$d: Invalid phone number | KESALAHAN %1$d: Nomor telepon tidak valid | RALAT %1$d: Nombor telefon tidak sah | 错误 %1$d：手机号码不合法 | エラー %1$d: 電話番号が無効です |
-| mobile | error_phone_sms_delivery | ERROR %1$d: Failed to deliver SMS | KESALAHAN %1$d: Gagal mengirim SMS | RALAT %1$d: Gagal menghantar SMS | 错误 %1$d：发送短信失败 | エラー %1$d: SMSの送信に失敗しました |
-| mobile | error_phone_verification_code_expired | ERROR %1$d: Expired phone verification code | KESALAHAN %1$d: Kode verifikasi telepon sudah tidak berlaku | RALAT %1$d: Kod pengesahan telefon yang telah tamat tempoh | 错误 %1$d：验证码已过期 | エラー %1$d: 電話番号認証コードが期限切れです |
-| mobile | error_phone_verification_code_invalid | ERROR %1$d: Invalid phone verification code | KESALAHAN %1$d: Kode verifikasi telepon tidak valid | RALAT %1$d: Kod pengesahan telefon tidak sah | 错误 %1$d：验证码错误 | エラー %1$d: 電話番号認証コードが無効です |
-| mobile | error_pin_check_too_many_request | You have tried more than 5 times, please wait at least 24 hours to try again. | Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi. | Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi. | 你已经尝试了超过5次，请等待24小时后再次尝试。 | 入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。 |
-| mobile | error_pin_incorrect | ERROR %1$d: PIN incorrect | KESALAHAN %1$d: PIN salah | RALAT %1$d: PIN tidak betul | 错误 %1$d：PIN 不正确 | エラー %1$d: PINが間違っています |
-| mobile | error_pin_incorrect_with_times | ERROR %1$d: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later. |     |     | 错误 %1$d：PIN 不正确。你还有%2$d次机会，使用完需等待24小时后再次尝试。 |     |
-| mobile | error_pin_incorrect_with_times.count | ERROR %1$d: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later. | KESALAHAN %1$d: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT %1$d: PIN tidak betul. Anda masih mempunyai %2$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 %1$d：PIN 不正确。你还有%2$d次机会，使用完需等待24小时后再次尝试。 |     |
-| mobile | error_recaptcha_is_invalid | ERROR %1$d: Recaptcha is invalid | KESALAHAN %1$d: Recaptcha tidak valid | RALAT %1$d: Recaptcha tidak sah | 错误 %1$d：验证失败 | エラー %1$d: Recaptchaが無効です |
-| mobile | error_too_many_friends | ERROR %1$d: Too many friends |     |     | 错误 %1$d：好友数已达上限 |     |
-| mobile | error_too_many_request | ERROR %1$d: Rate limit exceeded | KESALAHAN %1$d: Batas nilai terlampaui | RALAT %1$d: Had kadar melebihi | 错误 %1$d：请求过于频繁 | エラー %1$d: レート制限を超過しています |
-| mobile | error_too_many_stickers | ERROR %1$d: Too many stickers | KESALAHAN %1$d: Terlalu banyak stiker | RALAT %1$d: Terlalu banyak pelekat | 错误 %1$d：贴纸数已达上限 | エラー %1$d: スタンプが多すぎます |
-| mobile | error_too_small_transfer_amount | ERROR %1$d: Transfer amount is too small | KESALAHAN %1$d: Jumlahnya terlalu kecil | RALAT %1$d: Jumlahnya terlalu kecil | 错误 %1$d：转账金额太小 | エラー %1$d: 数量が少なすぎます |
-| mobile | error_too_small_withdraw_amount | ERROR %1$d: Withdraw amount too small | KESALAHAN %1$d: Jumlah penarikan dana terlalu kecil | RALAT %1$d: Jumlah penarikan terlalu kecil | 错误 %1$d：提现金额太小 | エラー %1$d: 出金額が小さすぎます |
-| mobile | error_transfer_is_already_paid | ERROR %1$d: Transfer is already paid. |     |     | 错误 %1$d：转账已被支付 |     |
-| mobile | error_used_phone | ERROR %1$d: This phone number is already associated with another account. | KESALAHAN %1$d: Ponsel digunakan oleh orang lain. | RALAT %1$d: Telefon digunakan oleh orang lain. | 错误 %1$d：电话号码已经被占用。 | エラー%1$d：携帯が第三者によって利用されています。 |
-| mobile | error_withdrawal_memo_format_incorrect | ERROR %1$d: Withdrawal memo format incorrect. | KESALAHAN %1$d: Format memo penarikan salah. | RALAT %1$d: Penarikan format memo tidak betul. | ERROR %1$d: 提现备注格式不正确 | エラー %1$d: 出金メモの形式が正しくありません。 |
-| mobile | Everybody | Everybody | Semua orang | Semua orang | 任何人 | 全員  |
-| mobile | Exit_Group | Exit Group | Keluar dari Grup | Keluar Kumpulan | 退出群组 | グループから退出 |
-| mobile | Expired | Expired | Tidak berlaku | Tamat tempoh | 已过期 | 期限切れ |
-| mobile | Export_failed | Export failed |     |     | 导出失败 |     |
-| mobile | Fee | Fee | Biaya | Bayaran | 手续费 | 手数料 |
-| mobile | Feedback | Feedback |     | Maklum balas | 反馈  | フィードバック |
-| mobile | File | File | File | Fail | 文件  | ファイル |
-| mobile | Files | Files | File | Fail | 文档  | ファイル |
-| mobile | Filter | Filter | Filter | Penapis | 筛选  | フィルター |
-| mobile | FILTER_BY | FILTER BY | FILTER BERDASARKAN | DITAPIS DENGAN | 筛选  | 絞り込み: |
-| mobile | Floating | Floating |     | Terapung | 浮窗  | Floating |
-| mobile | Follow_us_on_facebook | Follow us on Facebook | Ikuti kami di Facebook | Ikuti kami di Facebook | 关注我们的 Facebook | Facebookをフォロー |
-| mobile | Follow_us_on_twitter | Follow us on Twitter | Ikuti kami di Twitter | Ikuti kami di Twitter | 关注我们的 Twitter | Twitterをフォロー |
-| mobile | Forward | Forward | Teruskan | Ke hadapan | 转发  | 転送  |
-| mobile | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | 这是最后一次确认 PIN，记住：密码丢失将永远无法找回！ | 最終確認となります。もう一度PINを確認してください。PINを忘れた場合、復元はできません。 |
-| mobile | From | From |     |     | 来自  |     |
-| mobile | Get_a_new_wallet | Get a new wallet |     |     | 创建钱包 | 仮想通貨ウォレットを入手 |
-| mobile | Got_it | Got it | OK  | Faham | 知道了 | 確認  |
-| mobile | Group_Call | Group Call | Panggilan Grup | Panggilan Berkumpulan | 群组语音 | グループ通話 |
-| mobile | group_call_end_with_duration | Group call ended, duration: %1$s | Panggilan grup berakhir, durasi: %1$s | Panggilan kumpulan berakhir, tempoh: %1$s | 群组语音结束，时长 %1$s | グループ通話は終了しました。通話時間：%1$s |
-| mobile | Group_call_participants_limit_hint | Group calling allows up to %1$d participants to call each other |     |     | 支持最多%1$d人同时通话 | グループ通話の上限は %1$d人です |
-| mobile | Group_Name | Group Name | Nama Grup | Nama kumpulan | 群组名称 | グループ名 |
-| mobile | Groups_In_Common | Groups In Common |     |     | 共同群组 | 共通のグループ |
-| mobile | Help_center | Help center | Pusat bantuan | Pusat bantuan | 帮助中心 | ヘルプセンター |
-| mobile | Hidden_Assets | Hidden Assets | Aset Tersembunyi | Aset Tersembunyi | 隐藏资产 | 非表示資産 |
-| mobile | Hide | Hide | Sembunyikan | Sembunyii | 隐藏  | 非表示 |
-| mobile | hold_to_record_audio | Hold to record, release to send | Tahan untuk merekam, lepaskan untuk mengirim | Tahan untuk merakam, lepaskan untuk hantar | 长按说话，松手发送 | 長押しして録音、離して送信 |
-| mobile | Hour | %d Hour |     |     | %d 小时 |     |
-| mobile | Hour.count | %d Hours | %d Jam | %d Jam | %d 小时 |     |
-| mobile | Immediately | Immediately |     |     | 立即启动 | すぐに |
-| mobile | in_connecting | Connecting… | Menyambungkan… | Menyambung… | 正在连接… | …に接続中 |
-| mobile | Incoming_voice_call | Incoming voice call | Panggilan suara masuk | Panggilan suara masuk | 语音通话来电 | 音声通話を受信中 |
-| mobile | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
-| mobile | Invalid_payment_link | Invalid payment link | Pembayaran tidak valid | Pembayaran tidak sah | 无效支付信息 | 支払いが無効です |
-| mobile | Invalid_QR_Code | Invalid QR-Code |     |     | 无效的二维码 |     |
-| mobile | invite_info | Anyone with Mixin can follow this link to join this group. Only share it with people you trust. | Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya. | Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai. | Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。 | リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。 |
-| mobile | Invite_to_Group_via_Link | Invite to Group via Link | Undang ke Grup melalui Tautan | Jemput ke Kumpulan melalui Pautan | 群邀请链接 | リンクを使って招待する |
-| mobile | Join_group | Join Group |     |     | 加入群组 |     |
-| mobile | Joined_in | Joined in %1$s | Bergabung di %1$s | Menyertai %1$s | %1$s 加入 | %1$sからMixinを利用しています |
-| mobile | Label | Label | Label | Label | 标题  | ラベル |
-| mobile | landing_delete_content | Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled. |     |     | 您的账户将于 %1$s 被删除，如果您继续登录，删除您账户的请求将被取消。 | バージョンが古いです (%1$s) 最新版んMixinにアップデートしてください。 |
-| mobile | landing_validation_title | Enter the 4-digit code sent to you at %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | 请输入发送至以下号码的 4 位验证码： %1$s | %1$sに送信された4桁のコードを入力してください |
-| mobile | Language | Language | Bahasa | Bahasa | 语言  | 言語  |
-| mobile | Large_Amount_Confirmation | Large Amount Confirmation | Konfirmasi Jumlah Besar | Pengesahan Jumlah Besar | 大额转账确认 | 送金時の確認 |
-| mobile | Large_Amount_Confirmation_with_symbol | Large Amount Confirmation(%1$s) | Konfirmasi Jumlah Besar(%1$s) | Pengesahan Jumlah Besar(%1$s) | 大额转账确认(%1$s) | 確認する金額(%1$s) |
-| mobile | Later | Later | Nanti | Kemudian | 稍后  | 後で  |
-| mobile | Learn_More | Learn More | Pelajari Selengkapnya | Ketahui Lebih Lanjut | 了解更多 | もっとみる |
-| mobile | Line_busy | Line busy | Jaringan sibuk | Talian sibuk | 忙线未接听 | 不在着信 |
-| mobile | Line_busy_remote | Line busy | Jaringan sibuk | Talian sibuk | 对方忙 | 不在着信 |
-| mobile | Live | Live | Siaran Langsung | Langsung | 直播  | ライブ配信 |
-| mobile | live_shareable_false | The live has been set to not allow sharing |     |     | 包含不允许转发的直播 | このライブ配信を共有することはできません |
-| mobile | Location | Location | Lokasi | Lokasi | 位置  | 位置情報 |
-| mobile | location_empty | There were no results for "%1$s"\nTry new search | Tidak ada hasil untuk "%1$s"\nCoba pencarian baru | Tidak ada hasil untuk "%1$s" Cuba carian baru | 找不到 "%1$s"\n换个名字试试吧 | "%1$s"の検索結果はありませんでした。\nもう一度検索してください。 |
-| mobile | Log_in | Log in | Masuk | Log masuk | 登录  |     |
-| mobile | log_out_from_desktop | Log out from desktop |     |     | 从桌面版退出 | デスクトップ版からログアウト |
-| mobile | login_and_abort_account_deletion | Continue to log in and abort account deletion |     |     | 继续登录并放弃删除账户 | そのままログインし、アカウント削除をキャンセルします |
-| mobile | Logs | Logs | Log | Log | 日志  | ログ  |
-| mobile | Lost_your_mobile_number | Lost your mobile number? | Kehilangan nomor ponsel Anda? | Kehilangan nombor telefon bimbit anda? | 手机丢失? | 電話番号をお忘れですか？ |
-| mobile | Make_group_admin | Make group admin | Jadikan admin grup | Buat pentadbir kumpulan | 设定为群组管理员 | サブリーダー権限を付与 |
-| mobile | manage_all_your_apps | mange all your apps | mengelola semua aplikasi Anda | urus semua aplikasi anda | 管理你所有的应用 | 全アプリの管理 |
-| mobile | manage_all_your_circles | manage all your circles |     | urus semua lingkaran anda | 管理你所有的圈子 | リストの編集 |
-| mobile | Manage_Apps | Manage Apps | Mengelola Aplikasi | Urus Aplikasi | 管理应用 | アプリの管理 |
-| mobile | Media | Media | Media | Media | 媒体  | メディア |
-| mobile | Memo | Memo | Memo | Memo | 备注  | メモ  |
-| mobile | message_e2ee | Messages to this conversation are encrypted end-to-end, tap for more info. | Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya. | Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut. | 此对话中的消息使用端对端加密。点击了解更多。 | この会話へのメッセージはエンドツーエンドで暗号化されています。詳細はタップしてください。 |
-| mobile | Message_not_found | Message not found | Pesan tidak ditemukan | Mesej tidak dijumpai | 找不到该消息 | メッセージが見つかりません |
-| mobile | Message_sent | Message sent | Berhasil dikirim | Pesanan dihantar | 消息已发送 | 送信完了 |
-| mobile | Messages | Messages |     |     | 消息  |     |
-| mobile | Minute | %d Minute |     |     | %d 分钟 |     |
-| mobile | Minute.count | %d Minutes | %d Menit | %d Minit | %d 分钟 |     |
-| mobile | Mixin | Mixin | Mixin | Mixin | Mixin |     |
-| mobile | Mixin_Locked | Mixin Locked |     |     | Mixin 已锁定 | Mixinはロックされています |
-| mobile | Mixin_Messenger_Desktop | Mixin Messenger Desktop | Mixin Messenger Desktop | Desktop Mixin Messenger | Mixin Messenger 桌面 |     |
-| mobile | More | More | Lebih banyak | Lebih banyak lagi | 更多  | もっとみる |
-| mobile | Multisig_by_PIN | Multisig by PIN | Multisig dengan PIN | Multisig dengan PIN | 通过 PIN 签名 | PINでマルチシグを使用する |
-| mobile | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません。 |
-| mobile | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 |
-| mobile | Multisig_Transaction | Multisig Transaction | Transaksi Multisig | Transaksi Multisig | 多重签名交易 | マルチシグトランザクション |
-| mobile | Mute | Mute | Bisukan | Senyap | 静音通知 | ミュート |
-| mobile | Mute_until | Until %1$s | Hingga %1$s | Sehingga %1$s | 直到 %1$s | %1$sまで |
-| mobile | My_Contacts | My Contacts | Kontak Saya | Kenalan Saya | 我的联系人 | 友だち限定 |
-| mobile | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID: %1$s |     |
-| mobile | My_QR_Code | My QR Code | Kode QR saya | Kod QR saya | 我的二维码 | マイQRコード |
-| mobile | My_shared_apps | My shared apps | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的应用 | おすすめロボをプロフィールに追加 |
-| mobile | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
-| mobile | NA  | N/A | N/A | N/A | 暂无价格 | なし  |
-| mobile | Name | Name | Nama | Nama | 名称  | 名前  |
-| mobile | Need_help | Need help? | Butuh bantuan? | Perlukan bantuan? | 需要帮助？ | ヘルプが必要ですか？ |
-| mobile | Never | Never | Jangan pernah | Tidak pernah | 从未备份 | ない  |
-| mobile | New_Group | New Group | Grup Baru | Kumpulan Baharu | 新建群组 | グループを作成 |
-| mobile | New_Group_Chat | New Group Chat | Obrolan Grup Baru | Kumpulan Sembang Baharu | 新群聊 | 新しいグループを作成 |
-| mobile | new_wallet_hint | Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency. |     |     | 创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。 | 簡単に仮想通貨をやり取りできるウォレットを作成しよう！ |
-| mobile | Next | Next | Berikutnya | Seterusnya | 下一步 | 次へ  |
-| mobile | NO_APPS | NO APPS | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
-| mobile | NO_AUDIO | NO AUDIO | TIDAK ADA SUARA | TIADA AUDIO | 没有音频 | 音声がありません |
-| mobile | NO_AUTHORIZATIONS | NO_AUTHORIZATIONS | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
-| mobile | No_blocked_users | No blocked users | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
-| mobile | NO_FILE | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
-| mobile | No_hidden_asset | No hidden assets | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
-| mobile | No_logs | No logs | Tidak ada log | Tiada log | 没有日志 | ログがありません |
-| mobile | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
-| mobile | No_Memo | No Memo | Tanpa Memo | Tiada Memo | 没有 Memo（备注） | メモなし |
-| mobile | No_network_connection | No network connection | Tidak ada sambungan jaringan | Tiada sambungan rangkaian | 无网络连接 | ネットワーク接続がありません |
-| mobile | NO_POST | NO POST | TIDAK ADA POSTINGAN | TIADA POST | 没有文章 | 投稿がありません |
-| mobile | No_result | No result | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
-| mobile | NO_STICKERS | NO STICKERS |     |     | 还未添加任何表情 | ステッカーはありません |
-| mobile | No_tag | No Tag | Tanpa Tag | Tiada Tag | 点击不使用 Tag（标签） | タグなし |
-| mobile | Nobody | Nobody | Tak seorangpun | Tiada siapa | 没有人 | なし  |
-| mobile | None | None | Tidak ada | Tiada | 无   | なし  |
-| mobile | Not_found | Not found | Tidak ditemukan | Tidak ditemui | 没有找到相应的消息 |     |
-| mobile | Notification_and_Confirmation | Notification and Confirmation | Notifikasi dan Konfirmasi | Pemberitahuan dan Pengesahan | 通知和确认 | 通知・送金確認 |
-| mobile | notification_content | Don't miss messages from your friends. | Jangan lewatkan pesan dari teman Anda. | Jangan terlepas mesej daripada rakan anda. | 不再遗漏好友的消息。 | 友達からのメッセージを見逃さないで！ |
-| mobile | OK  | OK  | OK  | okey | 好的  | OK  |
-| mobile | one_hour | 1 Hour | 1 Jam | 1 jam | 1 小时 | 1時間 |
-| mobile | one_week | 1 Week | 1 Minggu | 1 minggu | 1 星期 | 1週間 |
-| mobile | one_year | 1 Year | 1 Tahun | 1 tahun | 1 年 | 1年間 |
-| mobile | Open | Open | Buka | Buka | 打开  | ブラウザで開く |
-| mobile | Open_Home_page | Open Home page | Buka Beranda | Buka laman Utama | 打开主页 | ロボHOME |
-| mobile | Open_in_browser | Open in browser | Buka di browser | Buka dalam pelayar | 在浏览器中打开 | ブラウザで開く |
-| mobile | Open_Link | Open Link: %1$s |     |     | 打开链接：%1$s |     |
-| mobile | Owner | Owner | pemilik | pemilik | 群主  | リーダー |
-| mobile | Participants | Participants | Peserta | Peserta | 成员  |     |
-| mobile | pay_paid | This payment link has already been paid by someone, you can not make a duplicate payment. | Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda. | Pautan pembayaran ini telah dibayar oleh seseorang, anda tidak boleh membuat pembayaran pendua. | 此付款链接已由某人支付，您无法进行重复付款。 | この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。 |
-| mobile | Pay_with_PIN | Pay with PIN | Bayar dengan PIN | Bayar dengan PIN | 用 PIN 支付 | PINで支払う |
-| mobile | Pay_with_PIN_interval | Pay with PIN interval | Bayar dengan interval PIN | Bayar dengan selang PIN | 支付 PIN 使用间隔 | PINコードの再確認間隔 |
-| mobile | pending_confirmation | %1$d/%2$d confirmation |     |     | %1$d/%2$d 区块确认数 |     |
-| mobile | pending_confirmation.count | %1$d/%2$d confirmations | %1$d/%2$d konfirmasi | %1$d/%2$d pengesahan | %1$d/%2$d 区块确认数 |     |
-| mobile | Permissions | Permissions | Izin | Kebenaran | 权限列表 | 許可  |
-| mobile | Phone_call | Phone call | Panggilan telepon | Panggilan telefon | 电话呼叫 | 通話  |
-| mobile | Phone_Contact | Phone Contacts | Kontak Telepon | Kenalan Telefon | 手机联系人 | 連絡帳と同期 |
-| mobile | Phone_Contacts | Phone Contacts | Kontak Telepon | Kenalan Telefon | 手机通讯录 | 連絡帳設定 |
-| mobile | Phone_Number | Phone Number | Nomor Telepon | Nombor telefon | 手机号码 | 電話番号からの追加 |
-| mobile | Phone_number_change | Phone number change | Perubahan nomor telepon | Tukar nombor telefon | 修改手机号 | 電話番号変更 |
-| mobile | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
-| mobile | Photo | Photo | Foto | Foto | 照片  | 写真  |
-| mobile | Photos | Photos | Foto | Foto | 照片  | 画像  |
-| mobile | pin_title | Pin |     |     | 置顶  | ピン留め |
-| mobile | PIN | PIN | PIN | PIN | PIN | PIN |
-| mobile | PIN_change | PIN change | Perubahan PIN | Tukar PIN | 修改 PIN | PIN変更 |
-| mobile | pin_check_tip | You'll be asked for it periodically to help you remember it. | Anda akan ditanya secara berkala untuk membantu Anda mengingatnya. | Anda akan diminta tentang ia secara berkala untuk membantu anda mengingatnya. | 定期输入 PIN 有助于记住该 PIN | 安全のため、定期的にPINコードを確認します。 |
-| mobile | pin_confirm_again_hint | Please confirm your 6 digit PIN again |     |     | 请再次确认您的 6 位 PIN | 3度目となりますが、もう一度PINを確認してください |
-| mobile | pin_confirm_hint | Please confirm the 6 digit PIN and remember it |     |     | 确认 6 位数字 PIN 并牢记它 | PINを確実に記憶してください。ウォレットを失った場合、復元することはできません |
-| mobile | PIN_incorrect | PIN incorrect | PIN salah | PIN tidak betul | PIN 错误 | PINが違います |
-| mobile | pin_lost_hint | If lost, there is no way to recover your wallet. |     |     | 如果忘记，你的钱包将无法找回。 |     |
-| mobile | pinned_message_title | %1$d Pinned Message |     |     | %1$d条置顶消息 |     |
-| mobile | pinned_message_title.count | %1$d Pinned Messages |     |     | %1$d条置顶消息 |     |
-| mobile | Playlist | Playlist |     | Senarai main | 播放列表 | プレイリスト |
-| mobile | Post | Post | Postingan | Kirim | 文章  |     |
-| mobile | Privacy | Privacy | Privasi | Privasi | 隐私  | プライバシー |
-| mobile | Privacy_Policy | Privacy Policy | Kebijakan Privasi | Dasar Privasi | 隐私政策 | プライバシーポリシー |
-| mobile | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
-| mobile | profile_share_app_hint | If you want to share an app, add it to your contacts first |     |     | 如果您希望分享应用，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
-| mobile | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料(必须) | プロフィール |
-| mobile | QR_Code | QR Code |     | kod QR | 二维码 |     |
-| mobile | QR_Code_not_found | QR Code not found | Kode Qr tidak ditemukan | Kod Qr tidak dijumpai | 未发现二维码 | QRコードが見つかりません |
-| mobile | Raw | Raw | Raw | Mentah | 其他  | その他 |
-| mobile | Read_Apps | Read Apps | Membaca Aplikasi | Aplikasi baca | 查看应用 | アプリを読み取る |
-| mobile | Read_Assets | Read Assets | Membaca Aset | Baca Aset | 查看资产 | ウォレット機能連携 |
-| mobile | Read_Circles | Read Circles |     | Lingkaran Baca | 查看圈子 | リストの識別 |
-| mobile | Read_Collectibles | Read Collectibles |     |     | 查看 NFT | コレクションを読む |
-| mobile | Read_Contacts | Read Contacts | Membaca Kontak | Baca Kenalan | 查看联系人 | 連絡先を読み取る |
-| mobile | Read_Snapshots | Read Snapshots | Membaca Snapshot | Baca Syot kilat | 查看转账记录 | トランザクション |
-| mobile | Rebate | Rebate | Potongan harga | Rebat | 退款  | 払い戻し |
-| mobile | RECEIVE | RECEIVE | Terima | Terima | 转入  | 入金  |
-| mobile | Receive_Money | Receive Money | Terima uang | Terima Wang | 我的收款码 | 仮想通貨を受け取る |
-| mobile | Receiver | Receiver | Penerima | Penerima | 至   |     |
-| mobile | recent_chats | CHATS | OBROLAN | SEMBANG | 最近聊天 | チャット |
-| mobile | Recent_searches | Recent searches |     | Carian terkini | 最近搜索 | 最近の検索 |
-| mobile | Refresh | Refresh | Muat ulang | Segarkan | 刷新  | 更新  |
-| mobile | Reload | Reload |     | Muat semula | 重新载入 | リロード |
-| mobile | Remove_all | Remove All |     | Keluarkan semua | 全部删除 | 全部クリア |
-| mobile | Remove_all_floats | Remove all floats? |     | Alih keluar semua apungan? | 确定删除全部浮窗？ | Floatを全部クリアしますか？ |
-| mobile | Remove_Bot | Remove Bot | Hapus Bot | Keluarkan Bot | 删除机器人 | Myロボから削除 |
-| mobile | Remove_Contact | Remove Contact | Hapus kontak | Buang kenalan | 删除联系人 | 連絡先を削除 |
-| mobile | Remove_emergency_contact | Remove emergency contact | Hapus kontak darurat | Alih keluar kenalan kecemasan | 移除紧急联系人 | 緊急連絡先を削除する |
-| mobile | Remove_emergency_contact_confirmation | Remove emergency contact? | Hapus kontak darurat? | Alih keluar kenalan kecemasan? | 确定移除紧急联系人？ | 緊急連絡先を削除しますか？ |
-| mobile | Remove_Stickers | Remove Stickers |     |     | 移除所有表情 | ステッカーの削除 |
-| mobile | Reply | Reply |     |     | 回复  | 返信  |
-| mobile | Report | Report | Laporkan | Lapor | 举报  | 報告  |
-| mobile | Report_and_block | Report and block? |     |     | 举报并屏蔽？ | 報告してブロックしますか? |
-| mobile | Represent_Messages | Represent Messages | Mewakili Pesan | Wakilkan Mesej | 代发消息 | ロボからの通知 |
-| mobile | Resend_code | Resend code | Kirim ulang kode | Hantar semula kod | 重发验证码 | コードを再送する |
-| mobile | Resend_code_in | Resend code in %1$d s | Kirim ulang kode dalam %1$d d | Hantar semula kod dalam %1$d s | %1$d 秒后重新发送验证码 | %1$d秒後にコードを再送 |
-| mobile | Reset_Link | Reset Link |     |     | 重置邀请链接 | リンクを取り消す |
-| mobile | Restore | Restore |     |     | 恢复  | 復元  |
-| mobile | Restoring | Restoring... |     |     | 正在恢复... | …の復元を準備中 |
-| mobile | Revoke_access | Revoke access | Cabut akses | Batal akses | 取消授权 | アクセスを取り消す |
-| mobile | Revoke_access_with | Revoke access %1$s? | Cabut akses %1$s? | Batalkan akses %1$s? | 取消 %1$s 授权? | アクセス%1$sを取り消しますか？ |
-| mobile | Revoke_multisig_transaction | Revoke Multisig Transaction | Cabut Transaksi Multisig | Batalkan Urus Niaga Multisig | 撤销多重签名交易 | マルチシグトランザクションを取り消す |
-| mobile | Save | Save | Simpan | Jimat | 保存  | 保存  |
-| mobile | Save_image | Save Image | Simpan Gambar | Menyimpan imej | 保存图片 | 画像を保存する |
-| mobile | Say_Hi | Say Hi | Katakan Hai | Ucap hai | 打招呼 | こんにちは |
-| mobile | scam_warning | Warning: Many users reported this account as a scam. Please be careful, especially if it asks you for money | Peringatan: Banyak pengguna yang melaporkan akun ini sebagai scam. Harap berhati-hati, terutama jika meminta uang Anda | Amaran: Ramai pengguna melaporkan akaun ini sebagai penipuan. Sila berhati-hati, terutamanya jika ia meminta wang kepada anda | 警告：此账号被大量用户举报，请谨防网络诈骗，注意个人财产安全 | 警告：たくさん報告されているユーザーです、詐欺に気をつけてください |
-| mobile | scan_code_add_me | Scan the QR code to add me on Mixin | Pindai kode QR untuk menambahkan saya di Mixin | Imbas kod QR untuk menambahkan saya di Mixin | 用 Mixin 扫描二维码加我为联系人 | QRコードをスキャンして私をMixinで追加してください。 |
-| mobile | Scan_QR_Code | Scan QR Code | Pindai Kode QR | Imbas Kod QR | 扫描二维码 | QRコードをスキャン |
-| mobile | Screen_Lock | Screen Lock | Kunci Layar | Kunci skrin | 锁屏  | 画面ロック |
-| mobile | Search | Search | Cari | Cari | 搜索  | 検索  |
-| mobile | Search_Conversation | Search Conversation | Cari Percakapan | Cari Perbualan | 搜索聊天记录 | メッセージを検索 |
-| mobile | Search_GIPHY | Search GIPHY | Cari GIPHY | Cari GIPHY | 搜索 GIPHY | GIPHYを検索する |
-| mobile | search_placeholder_asset | Name, Symbol |     |     | 名称, 符号 | 名前、シンボル |
-| mobile | search_placeholder_number | Search Mixin ID or phone number:  |     |     | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |
-| mobile | search_related_message | %1$d related message |     |     | %1$d 条相关的消息 |     |
-| mobile | search_related_message.count | %1$d related messages | %1$d pesan terkait | %1$d mesej berkaitan | %1$d 条相关的消息 |     |
-| mobile | Security | Security | Keamanan | Keselamatan | 安全  | セキュリティ |
-| mobile | Select | Select | Pilih | Pilih | 选择  | 選択  |
-| mobile | Select_Emergency_Contact | Select Emergency Contact | Pilih Kontak Darurat | Pilih Kenalan Kecemasan | 选择紧急联系人 | 緊急連絡先を選択する |
-| mobile | Send | Send | Kirim | Hantar | 发送  | 送る  |
-| mobile | Send_Message | Send Message | Kirim Pesan | Menghantar mesej | 发消息 | メッセージを送る |
-| mobile | Send_This_Location | Send This Location | Kirim Lokasi Ini | Hantar Lokasi Ini | 发送这个位置 |     |
-| mobile | send_to | Send to %1$s | Kirim ke %1$s | Hantar ke %1$s | 发送给 %1$s | %1$sへ送金 |
-| mobile | Send_Without_Sound | Send Without Sound |     |     | 静音发送 | 通知音を鳴らさずに送信する |
-| mobile | Send_your_Current_Location | Send your Current Location | Kirim Lokasi Anda Saat Ini | Hantarkan Lokasi Semasa Anda | 发送您当前的位置 | 現在地を送信 |
-| mobile | Senders | Senders | Pengirim | Pengirim | 交易发起人 | 送信者 |
-| mobile | Set | Set |     |     | 设置  |     |
-| mobile | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s |     |     | %1$s将限时消息设置为 %2$s |     |
-| mobile | Set_new_PIN | Set a new PIN | Buat PIN baru | Tetapkan PIN baru | 设置新的 PIN | 新しいPINを設定 |
-| mobile | Set_PIN_successfully | Set PIN successfully | Berhasil membuat PIN | Penetapan PIN berjaya | PIN 设置成功 | PINの設定が完了しました。 |
-| mobile | setting_auth_access | Approved: %1$s, Last Accessed: %2$s | Disetujui: %1$s, Terakhir Diakses: %2$s | Diluluskan: %1$s, Akses Terakhir: %2$s | 授权时间：%1$s, 上次访问：%2$s | 許可: %1$s, 最終アクセス: %2$s |
-| mobile | setting_auth_search_hint | Mixin ID, Name | Mixin ID, Nama | Mixin ID, Nama | Mixin ID, 昵称 | Mixin ID, 名前 |
-| mobile | setting_conversation_group_tip | Who can add me to groups. | Siapa yang dapat menambahkan saya ke grup. | Siapa yang boleh menambahkan saya ke kumpulan. | 谁能加我进入群组。 | グループチャットに追加可能なユーザー |
-| mobile | setting_conversation_tip | Who can send message to me. | Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya. | Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya. | 你可以限制谁给你发消息。 | メッセージの送信や電話が可能なユーザー |
-| mobile | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to Learn more. |     |     | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文件以了解更多。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はドキュメントをご覧ください。 |
-| mobile | setting_delete_account_send | We will send a 4-digit code to %1$s |     |     | 我们将发送4位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |
-| mobile | setting_delete_account_tip | Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be \n abandoned along with the wallet and cannot be recovered. |     |     | 你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被\n弃用无法找回。 | Mixinウォレット内に仮想通貨が残っています。アカウントを削除すると、仮想通貨を引き出すことができませんが、よろしいでしょうか？ |
-| mobile | setting_desktop_confirm | Confirm login to Mixin Messenger Desktop | Konfirmasikan masuk ke Mixin Messenger Desktop |  Sahkan log masuk ke Desktop Mixin Messenger | 确认登录 Mixin Messenger 桌面端 | デスクトップ版Mixinへの\nログインを確認 |
-| mobile | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
-| mobile | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
-| mobile | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读紧急联系人了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
-| mobile | setting_emergency_pin_tip | Your emergency contact is protected by PIN | Kontak darurat Anda dilindungi dengan PIN | Kenalan kecemasan anda dilindungi oleh PIN | 紧急联系人经支付 PIN 加密保护 | あなたの緊急連絡先はPINにより保護されています。 |
-| mobile | setting_emergency_send_code | Enter the 4-digit code sent to Mixin ID: %1$s | Masukkan kode 4 digit yang dikirim ke ID Mixin: %1$s | Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s | 请输入发送至以下 Mixin ID 的 4 位验证码：%1$s | 相手のMixinに送信された4桁のコードを入力してください：%1$s |
-| mobile | setting_emergency_set_message | Confirm to set Mixin ID %1$s as your emergency contact? Please note that the other party must add you as a contact to set up successfully. | Konfirmasikan untuk menetapkan ID Mixin %1$s sebagai kontak darurat Anda? Harap perhatikan bahwa pihak lain harus menambahkan Anda sebagai kontak agar berhasil ditetapkan. | Sahkan untuk menetapkan Mixin ID %1$s sebagai kenalan kecemasan anda? Sila maklum bahawa pihak lain mesti menambahkan anda sebagai kenalan untuk berjaya disiapkan. | 确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！ | （Mixin ID %1$s）を緊急連絡先としてて設定しますか？緊急連絡先登録の設定は相互の友だち登録が必要です。 |
-| mobile | setting_emergency_warning | Attention: the Emergency Contact cannot help you to recover PIN | Perhatian: Kontak Darurat tidak dapat membantu Anda memulihkan PIN | Perhatian: Kontak Kecemasan tidak dapat membantu anda memulih semula PIN | 注意：紧急联系人无法帮助找回支付 PIN | 注意：PINコードは復元できません 如何なる場合においてもご自身で管理してください |
-| mobile | setting_mobile_contact_warning | This will remove your contacts from the Mixin servers. | Ini akan menghapus kontak Anda dari server Mixin. | Ini akan mengalih keluar kenalan anda dari pelayan Mixin. | 确定删除已同步到 Mixin 服务器的通讯录？ | これにより、Mixinサーバーから連絡先が削除されます。 |
-| mobile | setting_notification_transfer_summary | Display notifications when receiving a transfer greater than or equal to %1$s. |     |     | 收到不少于 %1$s 转账时显示通知 | %1$s以上を受け取った時に通知する |
-| mobile | setting_privacy_tip | Change who can add you to conversation and groups. | Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup. | Tukar siapa yang boleh menambahkan anda ke perbualan dan kumpulan. | 谁可以给你发消息或邀请你加入群聊。 | あなた宛のメッセージや通話を制限 |
-| mobile | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息 (%2$s)? |     |
-| mobile | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 (%2$s)? |     |
-| mobile | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗 | %1$s以上の送金時に確認画面を表示する |
-| mobile | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s |     |     | 当转账金额大于 %1$s 时显示确认弹窗 | %1$s以上の送金時に確認画面を表示する |
-| mobile | Settings | Settings | Pengaturan | Tetapan | 设置  | 設定  |
-| mobile | Share | Share | Bagikan | Berkongsi | 分享  | 共有  |
-| mobile | Share_Contact | Share Contact |     |     | 分享他的名片 | 連絡先を共有 |
-| mobile | Share_Link | Share Link | Bagikan Tautan | Kongsi pautan | 分享邀请链接 | リンクをシェアする |
-| mobile | share_message_description | Are you sure you want to send a %2$s from %1$s ? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
-| mobile | share_message_description_empty | Are you sure you want to send the %1$s ? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
-| mobile | Share_This_App | Share This App |     | Kongsi Aplikasi Ini | 分享应用 | このアプリをシェアする |
-| mobile | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
-| mobile | Show | Show | Tampilkan | Tunjuk | 显示  | 表示  |
-| mobile | Sign_in | Sign in | Masuk | Log masuk | 登录  | ログイン |
-| mobile | Sign_with_emergency_contact | Sign in with emergency contact | Masuk dengan kontak darurat | Log masuk dengan kenalan kecemasan | 通过紧急联系人登录 | 緊急連絡先でログイン |
-| mobile | Sign_with_phone_number | Sign in with phone number | Masuk dengan nomor telepon | Log masuk dengan nombor telefon | 通过手机号登录 | 電話番号でログイン |
-| mobile | Skip | Skip | LEWATI | LANGKAU | 跳过  |     |
-| mobile | Slide_to_cancel | Slide to Cancel | Geser untuk Membatalkan | Slaid untuk Batal | 滑动取消 | スライドしてキャンセル |
-| mobile | Sort_by | Sort by |     |     | 顺序  |     |
-| mobile | Start_Messaging | Start Messaging | Mulai Mengirim Pesan | Mulakan Pemesejan | 开始聊天 | メッセージを開始 |
-| mobile | Status | Status | Status | Status | 交易状态 | ステータス |
-| mobile | Sticker | Sticker | Stiker | Pelekat | 贴纸  | スタンプ |
-| mobile | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1K以上800KB未満、 幅と高さは64から512ピクセルである必要があります |
-| mobile | Sticker_Store | Sticker Store |     |     | 表情商店 | ステッカーストア |
-| mobile | stickers_count | %d stickers |     |     | %d 个表情 |     |
-| mobile | Stop_Playing | Stop Playing |     | Berhenti bermain | 停止播放 | 再生を止める |
-| mobile | Stop_playing_this_list | Stop playing this list? |     |     | 确定要停止并关闭播放列表？ | 再生を止めて、プレイリストを閉じますか？ |
-| mobile | Storage_Usage | Storage Usage | Penggunaan Penyimpanan | Penggunaan Storan | 储存空间 | ストレージ使用率 |
-| mobile | stranger_hint | This sender is not in your contacts |     |     | 对方不是你的联系人 | 連絡先にない相手からのメッセージです |
-| mobile | Suspicious_Link | Suspicious Link | Tautan yang Mencurigakan | Pautan yang mencurigakan | 可疑链接 | 不審なリンクです |
-| mobile | Symbol | Symbol | Simbol | Simbol | 符号  | シンボル |
-| mobile | symbol_withdrawal | %1$s Withdrawal |     |     | %1$s 提现 | %1$s 出金 |
-| mobile | syncs_contact_hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. | Mixin menyinkronkan buku alamat Anda ke server Mixin untuk membantu Anda terhubung dengan pengguna Mixin yang lain. | Mixin selaraskan buku alamat anda ke pelayan Mixin untuk membantu anda berhubung dengan pengguna Mixin yang lain. | 同步通讯录到 Mixin 发现更多好友。 | あなたの連絡帳をMixinと同期し、他のMixinユーザーと連携します。 |
-| mobile | Tag | Tag | Tag | Tag | Tag（标签） | タグ  |
-| mobile | Tap_to_join | Tap to join | Ketuk untuk bergabung | Ketuk untuk sertai | 点击加入 | タップしてプ通話参加 |
-| mobile | Terms_of_Service | Terms of Service | Ketentuan Layanan | Terma Perkhidmatan | 服务条款 | 利用規約 |
-| mobile | TEXT_QR_CODE | TEXT QR CODE | KODE QR TEKS | KOD QR TEKS | 文本二维码 | テキストQRコード |
-| mobile | The_code_is_incorrect | The code is incorrect. |     |     | 验证码不正确 | 入力したコードは正しくありません。 |
-| mobile | third_pin_confirm_hint | It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost. |     |     | 很少看到第三次确认吧！所以请牢记，密码丢失是无法找回的。 |     |
-| mobile | This_message_was_deleted | This message was deleted | Pesan ini telah dihapus | Mesej ini telah dipadamkan | 此消息已撤回 | このメッセージは削除されています |
-| mobile | Time | Time | Waktu | Masa | 时间  | 日時  |
-| mobile | title_participants | %1$d Participant |     |     | %1$d 成员 |     |
-| mobile | title_participants.count | %1$d Participants | %1$d peserta | %1$d peserta | %1$d 成员 |     |
-| mobile | To  | To  |     |     | 至   |     |
-| mobile | Today | Today | Hari ini | Hari ini | 今天  | 今日  |
-| mobile | Transaction | Transaction | Transaksi | Urus Niaga | 交易详情 | トランザクション |
-| mobile | transaction_Hash | Transaction Hash | Hash Transaksi | Urus niaga Cincangan | 交易哈希 | トランザクションハッシュ |
-| mobile | Transaction_Id | Transaction Id | ID Transaksi | Id Urus Niaga | 交易编号 | トランザクションID |
-| mobile | Transaction_Type | Transaction Type | Jenis Transaksi | Jenis Transaksi | 交易类型 | トランザクションタイプ |
-| mobile | Transactions | Transactions | Transaksi | Urus Niaga | 转账记录 | もらった・あげたコイン💰 |
-| mobile | Transactions_CANNOT_be_deleted | Transactions CANNOT be deleted |     |     | 转账记录不会被删除 | トランザクション履歴を削除することはできません |
-| mobile | Transcript | Transcript |     |     | 聊天记录 | メッセージ履歴 |
-| mobile | Transfer | Transfer | Transfer | Pindah | 转账  | 送金  |
-| mobile | Transfer_Amount_count_down | Transfer Amount(%1$s) | Jumlah Transfer(%1$s) | Jumlah Pindahan(%1$s) | 转账金额(%1$s) | 通知金額(%1$s) |
-| mobile | transfer_memo | Memo (optional) |     |     | 备注（可选） |     |
-| mobile | Transfer_Notifications | Transfer Notifications | Notifikasi Transfer | Pindahkan Pemberitahuan | 转账通知 | コインの受取通知 |
-| mobile | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin |     |     | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |
-| mobile | transfer_to | Transfer to %1$s | Transfer ke %1$s | Pindahkan ke %1$s | 转账给 %1$s | 送金する%1$s |
-| mobile | Transfer_to_Mixin_address | Transfer to Mixin address | Transfer ke alamat Mixin | Pindahkan ke alamat Mixin | 给主网地址转账 | Mixinのアドレスへ送金する |
-| mobile | Transfer_to_user_or_bot | Transfer to user or bot | Transfer ke pengguna atau bot | Pindahkan ke pengguna atau bot | 给用户或机器人转账 |     |
-| mobile | Trending | Trending |     | Sohor Kini | 热门资产 | トレンド |
-| mobile | Try_Again | Try Again | Coba lagi | Cuba lagi | 请重试 | もう一度試す |
-| mobile | Turn_On_Notifications | Turn On Notifications | Aktifkan Notifikasi | Hidupkan Pemberitahuan | 打开通知 | 通知をオンにする |
-| mobile | Unblock | Unblock | Batal Blokir | Buka sekatan | 解除屏蔽 | ブロックを解除 |
-| mobile | Unmute | Unmute | Suarakan | Nyahsenyap | 取消静音 | ミュート解除 |
-| mobile | Unnamed_location | Unnamed location | Lokasi tanpa nama | Lokasi tidak dinamakan | 未命名地点 | 名前のない場所 |
-| mobile | Unpin | Unpin |     |     | 取消置顶 | ピン留めを止める |
-| mobile | Unpin_All_Messages | Unpin All Messages |     |     | 取消所有置顶消息 | 全てのメッセージのピン留めを解除する |
-| mobile | unpin_all_messages_confirmation | Are you sure you want to unpin all messages? |     |     | 确定取消置顶所有消息么？ |     |
-| mobile | Unread_messages | Unread messages |     |     | 未读消息 | 新しいメッセージ |
-| mobile | Update | Update | Perbarui | Kemas kini | 升级  | アップデート |
-| mobile | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin |     |
-| mobile | Upgrade_Database | Upgrade Database | Tingkatkan Database | Naik taraf Pangkalan Data | 数据库升级 | データベースをアップグレード |
-| mobile | Upgrading | Upgrading | Meningkatkan | Menaik taraf | 升级中... |     |
-| mobile | Upload_Mobile_Contacts | Upload Mobile Contacts |     |     | 上传通讯录找好友 | 連絡先をアップロードする |
-| mobile | User_not_found | User not found | Pengguna tidak ditemukan | Pengguna tidak ditemui | 找不到这个用户 | アップロード失敗 |
-| mobile | value_now | value now %1$s |     | nilai sekarang %1$s | 价值 %1$s | 現在価格 %1$s |
-| mobile | value_then | value then %1$s |     | nilai maka %1$s | 当时价值 %1$s | 当時の価格 %1$s |
-| mobile | Verify | Verify | Verifikasikan | Sahkan | 验证  | 生体認証で認証 |
-| mobile | Verify_PIN | Verify PIN | Verifikasikan PIN | Sahkan PIN | 验证 PIN | 認証中… |
-| mobile | Version_Update | Version Update | Periksa Pembaruan | Kemas kini Versi | 版本更新 |     |
-| mobile | Video | Video | Video | Video | 视频  | 動画  |
-| mobile | Videos | Videos | Video | Video | 视频  | 動画  |
-| mobile | View_Authorization | View Authorization |     |     | 查看授权 | みる  |
-| mobile | View_emergency_contact | View emergency contact | Lihat kontak darurat | Lihat kenalan kecemasan | 查看紧急联系人 | 緊急連絡先を確認 |
-| mobile | View_Wallet | View Wallet |     |     | 查看钱包 | ウォレットを確認 |
-| mobile | Waiting | Waiting | Menunggu | Menunggu | 等待中 | 待機中 |
-| mobile | Wallet | Wallet | Wallet | Dompet | 钱包  | ウォレット |
-| mobile | wallet_password_not_equal | The PIN is not the same twice, please try again. | PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi. | PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi. | PIN 不一致, 请重新输入 | PINが一致しません、もう一度お試しください。 |
-| mobile | wallet_password_set_pin_desc | Set a 6 digit PIN to create your first digital wallet, read the document to learn more. | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk mempelajari lebih lanjut. | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk mengetahui lebih lanjut. | 设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以了解更多。 | 6桁のPINを作成してください、詳しくはこちら |
-| mobile | wallet_password_unsafe | The PIN is too simple and insecure. | PIN-nya terlalu sederhana dan tidak aman. | PIN terlalu mudah dan tidak selamat. | PIN 过于简单不安全 | PINをより複雑な数字に変更してください |
-| mobile | wallet_pin_pay_interval_tips | For the security of your assets, you need to verify your PIN for the specified interval. | Untuk keamanan aset, Anda harus memverifikasi PIN Anda untuk interval yang ditentukan. | Untuk keselamatan aset anda, anda perlu mengesahkan PIN anda untuk selang waktu yang ditentukan. | 为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时已然需要支付 PIN | セキュリティ保護のため、PINコードの定期的な再確認が必要です。 |
-| mobile | wallet_pin_tops_desc | Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more. |     |     | 注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，\n阅读文档以了解更多。 | PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。詳しくはドキュメントをご覧ください。 |
-| mobile | wallet_refresh_address_failed | The withdrawal fee has been changed and the refresh fails, please try again. |     |     | 手续费已变更且刷新失败，请重试。 | 出金手数料が変更され、更新に失敗しました。もう一度やり直してください。 |
-| mobile | wallet_transaction_continue_count_down | Continue (%1$d) | Lanjutkan (%1$d) | Teruskan (%1$d) | 继续 （%1$d） | 続ける (%1$d) |
-| mobile | wallet_transaction_tip | Are you sure you want to transfer %3$s worth %2$s to %1$s ？ | Yakin ingin mentransfer %3$s senilai %2$s ke %1$s？ | Adakah anda pasti mahu memindahkan %3$s bernilai %2$s ke %1$s？ | 确定给 %1$s 转价值 %2$s 的 %3$s ？ | %1$sへ%2$s相当の%3$sを送金してもよろしいですか？ |
-| mobile | wallet_transactions_asset_key_warning | Asset key is NOT a deposit address! | Kode aset BUKAN alamat deposit! | Kunci aset BUKAN alamat deposit! | 资产标识不是充值地址！ | 資産キーは入金アドレスではありません！ |
-| mobile | wallet_transfer_recent_tip | You have already transferred %3$s to %2$s %1$s. Do you want to transfer it again? | Anda telah mentransfer %3$s ke %2$s %1$s. Ingin mentransfernya lagi? | Anda telah memindahkan %3$s ke %2$s %1$s. Adakah anda mahu memindahkannya lagi? | 你已经在 %1$s 给 %2$s 转账了 %3$s，确认还要再转一次吗？ | あなたは%1$sに同額の送金を%2$sへ送っています。再度%3$sを送金しますか？ |
-| mobile | wallet_withdrawal_changed | The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed  with the request? |     |     | 手续费已从 %1$s 变更为 %2$s，要更新手续费并继续提现吗？ | 出金手数料が%1$sから%2$sへ変更されました。このまま出金を行いますか？ |
-| mobile | wallet_withdrawal_recent_tip | You have already withdrawn %3$s to %2$s %1$s, Do you want to withdraw it again? | Anda telah menarik %3$s ke %2$s %1$s, Anda ingin menariknya lagi? | Anda telah menarik balik %3$s ke %2$s %1$s, Adakah anda mahu menariknya semula? | 你已经在 %1$s 提现 %3$s 到 %2$s，确认还要再提一次吗？ | あなたは%1$sに同額の出金を%2$sへ送っています。再度%3$sを出金しますか？ |
-| mobile | web_cannot_reached_desc | %1$s took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page. |     | %1$s mengambil masa terlalu lama untuk beri maklum balas. Sila periksa rangkaian anda dan cuba tukar 4G, Wi-Fi atau VPN untuk memuat semula halaman. | 无法访问 %1$s，请检查你的网络并尝试切换 4G、Wi-Fi 或 VPN 后重新载入页面。 | %1$s 接続に時間がかかり過ぎています、ネットワーク設定を確認してページをリロードしてください。 |
-| mobile | web_cannot_reached_title | This webpage can't be reached |     | Laman web ini tidak dapat dicapai | 无法访问此网页 | アクセスできません |
-| mobile | web_suspicious_link_tips | The link is not in the corresponding resource patterns. | Tautan tidak dalam pola sumber daya yang sesuai. | Pautan tidak terdapat dalam corak sumber yang sesuai. | 该链接不在对应的机器人域名白名单内。 | リンクは対応するリソースパターンにありません。 |
-| mobile | Whats_your_name | What's your name? | Siapa nama Anda? | Siapa nama awak? | 你的名字? | お名前は何ですか？ |
-| mobile | withdraw_Address | Address | Alamat | Alamat | 提现地址 | アドレス送金 |
-| mobile | Withdrawal | Withdraw | Penarikan | Pengeluaran | 提现  | 出金  |
-| mobile | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 |     |
-| mobile | withdrawal_addr_new | New %1$s Address | Alamat %1$s Baru | Alamat %1$s Baharu | 新 %1$s 地址 | 新しい%1$sアドレス |
-| mobile | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、メモを追加できます。 |
-| mobile | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、タグを追加できます。 |
-| mobile | withdrawal_addr_tag | Destination Tag or ID Number or notes. If not, you can set it No Tag. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Tag. | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Tag（标签）。 | PINを入力してアドレスを保存 |
-| mobile | withdrawal_address_tips | For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered! | Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil. | Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan! | 首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！ | 最初の出金は必ず少額で行ってください。アドレスが間違っていると資産は失われます。 |
-| mobile | withdrawal_label | Label (e.g. exchanges, wallets, etc.) | Label (mis. Kurs, wallet, dll.) | Label (contohnya pertukaran, dompet, dll.) | 地址名称，例如 OceanOne | ラベル (例. 取引所, ウォレットなど) |
-| mobile | withdrawal_memo | Memo | Memo | Memo | Memo（备注） | メモ  |
-| mobile | withdrawal_minimum_amount | Minimum withdraw amount is %1$s %2$s | Jumlah penarikan minimum adalah %1$s %2$s | Jumlah pengeluaran minimum ialah %1$s %2$s | 提现金额最小 %1$s %2$s | 最小出金額は %1$s %2$sです |
-| mobile | withdrawal_minimum_reserve | Minimum reserve:  |     |     | 最少保留数量： | 最低準備金  |
-| mobile | withdrawal_minimum_withdrawal | Minimum withdrawal:  |     |     | 最小提现数量： | 最低出金額： |
-| mobile | withdrawal_network_fee | Network fee:  |     |     | 网络手续费： | ネットワーク手数料： |
-| mobile | withdrawal_no_memo | No Memo | Tanpa Memo | Tiada Memo | 点击不使用 Memo（备注） | メモなし |
-| mobile | withdrawal_to | Withdraw to %1$s | Penarikan ke %1$s | Pengeluaran ke %1$s | 提现到 %1$s | %1$sへ出金 |
-| mobile | Write_Circles | Write Circles |     | Tulis Lingkaran | 管理圈子 |     |
-| mobile | You | You | Anda | Anda | 你   | 自分  |
-| mobile | You_deleted_this_message | You deleted this message | Anda menghapus pesan ini | Anda memadamkan mesej ini | 你撤回了一条消息 | このメッセージを削除しました。 |
-| mobile | You_have_left_the_group | You have left the group |     |     | 你不在此群组 | あなたはもうこのグループの参加者ではありません |
+| android, iOS | No_transactions | No transactions | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
+| android, iOS | disable_disappearing_message | %1$s disabled disappearing message |     |     | %1$s 禁用了限时消息 |     |
+| android, iOS | Off | Off |     |     | 关闭  | オフ  |
+| android, iOS | About | About | Tentang | Mengenai | 关于  | Mixinについて |
+| android, iOS | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
+| android, iOS | access_your_apps_list | access your apps list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的应用列表 | アプリリストへのアクセス |
+| android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
+| android, iOS | access_your_collectibles | access your collectibles |     |     | 访问你的 NFT 列表 | コレクションへのアクセス |
+| android, iOS | access_your_contacts_list | access your contacts list | mengakses daftar kontak Anda | akses senarai kenalan anda | 访问你的联系人列表 | 連絡先情報へのアクセス |
+| android, iOS | access_your_snapshots | access your snapshots | mengakses snapshot Anda | akses gambar anda | 访问你的转账记录 | トランザクションの記録 |
+| android, iOS | Account | Account | Akun | Akaun | 账号  | アカウント |
+| android, iOS | Add | Add |     |     | 添加  | 追加  |
+| android, iOS | Add_address | Add address | Tambahkan alamat | Tambah alamat | 添加地址 | アドレスを追加 |
+| android, iOS | Add_bot | Add Bot | Tambahkan Bot | Tambah Bot | 添加机器人 | Myロボに追加 |
+| android, iOS | Add_circle | Add Circle | Tambahkan Lingkaran | Tambah Lingkaran | 添加圈子 | 新しいリストを作成 |
+| android, iOS | Add_Contact | Add Contact | Tambahkan Kontak | Tambah Kenalan | 添加联系人 | 友だちを追加 |
+| android, iOS | Add_conversations | Add Conversations | Tambahkan Percakapan | Tambah Perbualan | 添加会话 | 会話を追加する |
+| android, iOS | Add_emergency_contact | Add emergency contact | Tambahkan kontak darurat | Tambahkan kenalan kecemasan | 添加紧急联系人 | 緊急連絡先を追加 |
+| android, iOS | Add_memo | Add Memo | Tambahkan Memo | Tambah Memo | 点击添加 Memo（备注） | メモを追加する |
+| android, iOS | Add_participants | Add Participants | Tambahkan Peserta | Tambah Peserta | 添加成员 | メンバーを追加 |
+| android, iOS | Add_Sticker | Add Sticker |     |     | 添加贴纸 | スタンプを追加する |
+| android, iOS | Add_stickers | Add Stickers |     |     | 添加所有表情 | スタンプを追加 |
+| android, iOS | Add_Tag | Add Tag | Tambahkan Tag | Tambah Tag | 点击添加 Tag（标签） | タグを追加する |
+| android, iOS | Added | Added |     |     | 已添加 | 追加済 |
+| android, iOS | Address | Address | Alamat | Alamat | 地址  | アドレス |
+| android, iOS | Admin | Admin | admin | pentadbir | 管理员 | サブリーダー |
+| android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
+| android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
+| android, iOS | alert_key_contact_contact_message | sent you a contact | berbagi kontak | berkongsi kenalan | 分享了一个联系人 | 連絡先が届きました |
+| android, iOS | alert_key_contact_data_message | sent you a file | mengirim file | hantar fail | 发送一个文件 | ファイルが届きました |
+| android, iOS | alert_key_contact_image_message | sent you a photo | mengirimi Anda foto | menghantar foto kepada anda | 发送一张照片 | 画像が届きました |
+| android, iOS | alert_key_contact_live_message | sent you a live stream | mengirimi Anda siaran langsung | menghantar anda secara langsung | 发送一个直播 | ライブ配信が届きました |
+| android, iOS | alert_key_contact_location_message | sent you a location | mengirim lokasi | hantar lokasi | 发送了一个位置 | 位置情報が届きました |
+| android, iOS | alert_key_contact_post_message | sent you a post | mengirim postingan | hantar kiriman | 发送了一篇文章 | 投稿が届きました |
+| android, iOS | alert_key_contact_sticker_message | sent you a sticker | mengirimi Anda stiker | hantarkan pelekat kepada anda | 发送一张贴纸 | スタンプが届きました |
+| android, iOS | alert_key_contact_text_message | sent you a message | mengirimi Anda pesan | menghantar mesej kepada anda | 发送一条消息 | メッセージが届きました |
+| android, iOS | alert_key_contact_transcript_message | sent you an transcript |     |     | 分享一个聊天记录 | メッセージ履歴が共有されました |
+| android, iOS | alert_key_contact_transfer_message | sent you a transfer | mengirimi Anda transfer | menghantar pindahan kepada anda | 发送一笔转账 | 送金が届きました |
+| android, iOS | alert_key_contact_video_message | sent you a video | mengirimi Anda video | menghantar video kepada anda | 发送一个视频 | 動画が届きました |
+| android, iOS | alert_key_group_audio_call_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 | %1$s秒後にコードを再送する |
+| android, iOS | alert_key_group_audio_message | %1$s sent an audio | %1$s mengirim audio | %1$s hantarkan audio | %1$s 发送一条语音 | %1$sが音声を送信しました |
+| android, iOS | alert_key_group_contact_message | %1$s sent a contact | %1$s membagikan kontak | %1$s berkongsi kenalan | %1$s 分享了一个联系人 | %1$sが連絡先を送信しました |
+| android, iOS | alert_key_group_data_message | %1$s sent a file | %1$s mengirim file | %1$s hantar fail | %1$s 发送一个文件 | %1$sがファイルを送信しました |
+| android, iOS | alert_key_group_image_message | %1$s sent a photo | %1$s mengirim foto | %1$s hantar foto | %1$s 发送一张照片 | %1$sが画像を送信しました |
+| android, iOS | alert_key_group_live_message | %1$s sent a live stream | %1$s mengirim siaran langsung | %1$s menghantar siaran langsung | %1$s 发送一个直播 | %1$sがライブ配信を送信しました |
+| android, iOS | alert_key_group_location_message | %1$s sent a location | %1$s mengirim lokasi | %1$s hantar lokasi | %1$s 发送一个位置 | %1$sが位置情報を送信しました |
+| android, iOS | alert_key_group_post_message | %1$s sent a post | %1$s mengirim postingan | %1$s hantar kiriman | %1$s 发送一篇文章 | %1$sが投稿を送信しました |
+| android, iOS | alert_key_group_sticker_message | %1$s sent a sticker | %1$s mengirim stiker | %1$s hantarkan pelekat | %1$s 发送一张贴纸 | %1$sがスタンプを送信しました |
+| android, iOS | alert_key_group_text_message | %1$s sent a message | %1$s mengirim pesan | %1$s hantar mesej | %1$s 发送一条消息 | %1$sがメッセージを送信しました |
+| android, iOS | alert_key_group_transcript_message | %1$s sent a transcript |     |     | %1$s 分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |
+| android, iOS | alert_key_group_video_message | %1$s sent a video | %1$s mengirim video | %1$s hantar video | %1$s 发送一个视频 | %1$sが動画を送信しました |
+| android, iOS | All | All | Semua | Semua | 全部  | すべて |
+| android, iOS | All_Conversations | All Conversations | Semua Percakapan | Semua Perbualan | 所有会话 | すべてのチャット |
+| android, iOS | All_Transactions | All Transactions | Semua Transaksi | Semua Urus Niaga | 所有交易 | 全てのトランザクション |
+| android, iOS | Amount | Amount | Jumlah | Jumlah | 金额  | 数量  |
+| android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 包含不允许转发的卡片 | このカードを共有することはできません |
+| android, iOS | App_not_found | App not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
+| android, iOS | Appearance | Appearance | Tampilan | Penampilan | 外观  | 言語とテーマ |
+| android, iOS | Apply | Apply | Terapkan | Guna | 应用  | 適用  |
+| android, iOS | Asset_Key | Asset Key | Kode Aset | Kunci Aset | 资产标识 | 資産キー |
+| android, iOS | Asset_not_found | Asset not found. |     |     | 找不到该资产 | 資産が存在しません |
+| android, iOS | ASSETS | ASSETS | ASET | ASET | 资产  | 資産  |
+| android, iOS | Audio | Audio | Audio | Audio | 语音  | 音声  |
+| android, iOS | Audios | Audios |     |     | 音频  | 音声  |
+| android, iOS | auth_assets_more | %1$s and more | %1$s dan lainnya | %1$s dan banyak lagi | %1$s 等 | %1$sなど |
+| android, iOS | auth_messages_represent_description | allow bot to send messages represent of you | Izinkan bot untuk mengirim pesan yang mewakili Anda | benarkan bot menghantar mesej mewakili anda | 允许机器人代表你发消息 | 通知を許可する |
+| android, iOS | auth_profile_content | %1$s, %2$s, profile photo | %1$s, %2$s, foto profil | %1$s, %2$s, foto profil | %1$s, %2$s, 头像 | %1$s, %2$s, プロフィール画像 |
+| android, iOS | authorization | authorization | otorisasi | keizinan | 授权  | 認証  |
+| android, iOS | Authorizations | Authorizations | Otorisasi | Kebenaran | 授权  | 許可  |
+| android, iOS | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded |     |     | 媒体自动下载设定，所有语音消息将自动下载。 | 音声品質を維持するため、ボイスメッセージは常に自動ダウンロードされます |
+| android, iOS | Auto_Lock | Auto-Lock |     |     | 自动锁定 | 自動ロック |
+| android, iOS | Back_To_Chat | Back To Chat | Kembali Ke Obrolan | Kembali Ke Sembang | 返回聊天 | チャットに戻る |
+| android, iOS | Backing_Up | Backing Up... |     |     | 正在备份... | バックアップしています... |
+| android, iOS | Block | Block | Blokir | Sekat | 屏蔽用户 | ブロック |
+| android, iOS | block_tip | Blocked users can't send you messages or add you to groups. | Pengguna yang diblokir tidak dapat mengirimi Anda pesan atau menambahkan Anda ke grup. | Pengguna yang disekat tidak dapat mengirim anda pesan atau menambahkan anda ke kumpulan. | 被屏蔽的用户不能给你发送消息或者邀请你加入群聊 | ブロックされたユーザーはあなたを追加したりチャットに招待することができません |
+| android, iOS | Blocked | Blocked | Diblokir | Disekat | 已屏蔽 | ブロック中のユーザー |
+| android, iOS | Blocked_Users | Blocked Users |     |     | 屏蔽名单 |     |
+| android, iOS | bot_empty_tip | Please add your favorite bot first. | Harap tambahkan bot favorit Anda terlebih dahulu. | Sila masukkan bot kegemaran anda terlebih dahulu. | 可以添加你喜欢的机器人 | 最初にお気に入りのロボを追加してください。 |
+| android, iOS | bots_title | Bots | Bot | Bot | 机器人 | Myロボ一覧 |
+| android, iOS | BOTS | BOTS | BOT | BOT | 机器人 | ロボ  |
+| android, iOS | Call | Call |     |     | 语音  | 応答なし |
+| android, iOS | Call_declined | Call declined | Panggilan ditolak | Panggilan ditolak | 对方已拒绝 |     |
+| android, iOS | call_encryption_description | No one outside of this call can view or listen to it. Not even Mixin. |     |     | 除了参与通话的人，其他人包含Mixin在内都无法听取或查看。 | この通話はE2E暗号化されています。 |
+| android, iOS | call_encryption_title | This call is secured with end-to-end encryption |     |     | 此通话使用端对端加密进行保护 | 通話に失敗しました |
+| android, iOS | Call_failed | Call failed | Panggilan gagal | Panggilan gagal | 呼叫失败 | 現在別の通話をしています。終了してから始めてください。 |
+| android, iOS | call_on_another_call_hint | You are already on another call. Try after it was ended. |     |     | 无法在 Mixin 通话时拨打电话 | 通話を最小化するためには、Mixinの権限を許可してください。 |
+| android, iOS | Calling | Calling… | Memanggil… | Memanggil… | 正在呼叫… | カメラ |
+| android, iOS | Camera | Camera | Kamera | Kamera | 相机  | QRコードが見つかりません |
+| android, iOS | Cancel | Cancel | Batal | Batal | 取消  | キャンセル |
+| android, iOS | Cancel_Floating | Cancel Floating |     | Batal Terapung | 取消浮窗 | Floatingをキャンセル |
+| android, iOS | Canceled | Cancelled | Dibatalkan | Dibatalkan | 已取消 |     |
+| android, iOS | Canceled_by_caller | Cancelled by caller | Panggilan Dibatalkan oleh penelepon | Panggilan Dibatalkan oleh pemanggil | 对方已取消 | 不在着信 |
+| android, iOS | Cant_receive_the_code | Can't receive the code? | Tidak dapat menerima kode? | Tidak dapat menerima kod? | 接收不到验证码? | コードが届きませんか？ |
+| android, iOS | Chain | Chain | Chain | Rantai | 所属公链 | チェーン |
+| android, iOS | Change | Change | Ubah | Ubah | 更改  | 変更  |
+| android, iOS | Change_Amount | Change Amount | Ubah Jumlah | Tukar Jumlah | 修改金额 | 数量を変更 |
+| android, iOS | Change_emergency_contact | Change emergency contact | Ubah kontak darurat | Tukar kenalan kecemasan | 修改紧急联系人 | 緊急連絡先を変更する |
+| android, iOS | Change_Number_Instead | Change Number Instead |     |     | 仅修改手机号码 | 電話番号を変更 |
+| android, iOS | Change_Phone_Number | Change Phone Number | Ubah Nomor Telepon | Tukar Nombor Telefon | 修改手机号 | 電話番号を変更 |
+| android, iOS | Change_PIN | Change PIN | Ubah PIN | Tukar PIN | 修改 PIN | PINを変更する |
+| android, iOS | Change_PIN_successfully | Change PIN successfully | Berhasil mengubah PIN | Penukaran PIN berjaya | PIN 修改成功 | PINの変更が完了しました。 |
+| android, iOS | Change_Profile_Photo_with_Camera | Change Profile Photo with Camera | Ubah Foto Profil dengan Kamera | Tukar Foto Profil dengan Kamera | 更换头像（相机） | プロフィール画像を撮影 |
+| android, iOS | Change_Profile_Photo_with_Library | Change Profile Photo with Library | Ubah Foto Profil dengan Koleksi | Tukar Foto Profil dengan Perpustakaan | 更换头像（相册） | プロフィール画像を選択 |
+| android, iOS | chat_app_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
+| android, iOS | Chat_Backup | Chat Backup |     |     | 聊天记录备份 |     |
+| android, iOS | chat_call_duration | Duration %1$s | Durasi: %1$s | Tempoh: %1$s | 通话时长 %1$s | 通話時間 %1$s |
+| android, iOS | chat_call_warning_voice | Can't record voice messages during a Mixin call. | Tidak dapat merekam pesan suara selama panggilan Mixin. | Tidak dapat merakam mesej suara semasa panggilan Mixin. | 无法在 Mixin 通话时录制语音消息 | 通話中にボイスメッセージを録音することはできません。 |
+| android, iOS | chat_decryption_failed | This message decryption failed, please upgrade Mixin to the latest version. |     |     | 此信息解密失败，请将 Mixin 升级到最新版本。 | メッセージの解読に失敗しました。Mixinを最新バージョンにアップデートしてください。 |
+| android, iOS | chat_group_add | %1$s added %2$s | %1$s menambahkan %2$s | %1$s menambahkan %2$s | %1$s添加了%2$s | %1$sが%2$sを追加しました |
+| android, iOS | chat_group_call_cancel | %1$s has canceled group call | %1$s telah membatalkan panggilan grup | %1$s telah membatalkan panggilan kumpulan | %1$s 已取消群组语音 | %1$sグループ通話をキャンセルしました |
+| android, iOS | chat_group_call_decline | %1$s has declined group call | %1$s telah menolak panggilan grup | %1$s telah menolak panggilan kumpulan | %1$s 已拒绝群组语音 | グループ通話が終了しました |
+| android, iOS | chat_group_call_invite | %1$s has invited you to a group call | %1$s telah mengundang Anda ke panggilan grup | %1$s telah menjemput anda ke panggilan kumpulan | %1$s 邀请你加入群组语音 | %1$sからグループ通話の招待がきています |
+| android, iOS | chat_group_exit | %1$s left | %1$s keluar | Tinggal %1$s | %1$s离开了群组 | %1$sが退出しました |
+| android, iOS | chat_group_join | %1$s joined the group via invite link | %1$s bergabung dengan grup melalui tautan undangan | %1$s menyertai kumpulan melalui pautan jemputan | %1$s通过邀请链接加入群组 | %1$sが招待リンクから参加しました |
+| android, iOS | chat_group_remove | %1$s removed %2$s | %1$s menghapus %2$s | %1$s mengalih keluar %2$s | %1$s移除了%2$s | %1$sが%2$sを退出させました |
+| android, iOS | chat_not_support | This type of message is not supported, please upgrade Mixin to the latest version. %1$s. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. %1$s. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. %1$s. | 不支持此类型消息。请升级 Mixin 查看。 %1$s。 | チャットが読み込めません Mixinをアップデートしてください %1$s. |
+| android, iOS | chat_on_mixin_content | Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search %1$s to add me as a friend. |     | Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari %1$s untuk menambahkan saya sebagai rakan. | 快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 %1$s 加我好友。 | さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、%1$sを検索して私と友達になりましょう。 |
+| android, iOS | chat_pin_message | %1$s pinned %2$s |     |     | %1$s置顶了%2$s | %1$sは%2$sをピン留めしました |
+| android, iOS | chat_recall_delete_alert | Messages you selected will be deleted for everyone on the latest version of Mixin in this chat. | Pesan yang Anda pilih akan dihapus untuk semua orang pada versi Mixin terbaru dalam obrolan ini. | Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini. | 所有使用最新版本 Mixin Messenger 的设备都将删除被选中的消息 | 選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。 |
+| android, iOS | chat_waiting | Waiting for %1$s to get online and establish an encrypted session. %2$s. | Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s. | Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s. | 等待%1$s上线后建立加密会话。%2$s。 | %1$sが参加し暗号化セッションが開始するまで待機しています… %2$s. |
+| android, iOS | CHATS | CHATS | OBROLAN | SEMBANG | 会话  | チャット |
+| android, iOS | circle_bottom | Create circle for different  groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建 圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
+| android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
+| android, iOS | circle_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
+| android, iOS | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
+| android, iOS | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
+| android, iOS | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
+| android, iOS | circle_title | %1$s's Circles | Lingkaran %1$s | Lingkaran %1$s | %1$s的圈子 |     |
+| android, iOS | Circles | Circles | Lingkaran | Lingkaran | 圈子  |     |
+| android, iOS | Clear | Clear | Bersihkan | Kosong | 清理  | クリア |
+| android, iOS | Clear_chat | Clear Chat | Bersihkan Obrolan | Kosongkan Sembang | 清除聊天记录 | チャットをクリア |
+| android, iOS | Close | Close |     |     | 关闭  | 閉じる |
+| android, iOS | Combine_and_forward | Combine and forward |     |     | 合并转发 | 転送を結合する |
+| android, iOS | Confirm | Confirm | Konfirmasi | Sahkan | 确认  | 許可する |
+| android, iOS | Connecting | Connecting | Menyambungkan | Menyambung | 正在连接 | 接続中 |
+| android, iOS | Connection_unstable | Connection unstable |     |     | 当前通话网络不佳 | 権限不足です |
+| android, iOS | Contact | Contact | Kontak | Kenalan | 联系人 | 連絡先 |
+| android, iOS | contact_count | %1$d contact |     |     | %1$d位联系人 |     |
+| android, iOS | contact_count.count | %1$d contacts | %1$d kontak | %1$d kenalan | %1$d位联系人 |     |
+| android, iOS | Contact_Developer | Contact Developer |     | Hubungi Pembangun | 联系开发者 | デベロッパーへ連絡 |
+| android, iOS | contact_invite_content | Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger . | Hai, saya menggunakan Mixin Messenger untuk mengobrol. Unduh di sini: https://mixin.one/messenger . | Hei, saya menggunakan Mixin Messenger untuk sembang. Muat turun di sini: https://mixin.one/messenger . | 我正在使用 Mixin 聊天。\n 下载：https://mixin.one | Mixinを使いませんか？ ここからダウンロード: https://mixin.one/messenger |
+| android, iOS | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s |
+| android, iOS | contact_mobile | Mobile: %1$s | Seluler: %1$s | Mudah alih: %1$s | 手机: %1$s | モバイル: %1$s |
+| android, iOS | contact_share_apps_title | %1$s's Shared Apps | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的应用 | %1$s\のシェアしたロボ |
+| android, iOS | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
+| android, iOS | content_audio | [Audio] | [Audio] | [Audio] | [语音] | [音声] |
+| android, iOS | content_contact | [Contact] | [Kontak] | [Hubungi] | [联系人] | [連絡先] |
+| android, iOS | content_file | [File] | [File] | [Fail] | [文件] | [ファイル] |
+| android, iOS | content_live | [Live] | [Siaran Langsung] | [Langsung] | [直播] | [ライブ] |
+| android, iOS | content_location | [Location] | [Lokasi] | [Lokasi] | [位置] | [位置情報] |
+| android, iOS | content_photo | [Photo] | [Foto] | [Foto] | [照片] | [画像] |
+| android, iOS | content_post | [Post] | [Postingan] | [Catatan] | [文章] | [投稿] |
+| android, iOS | content_sticker | [Sticker] | [Stiker] | [Pelekat] | [贴纸] | [スタンプ] |
+| android, iOS | content_transcript | [Transcript] |     |     | [聊天记录] | [メッセージ履歴] |
+| android, iOS | content_transfer | [Transfer] | [Transfer] | [Pindah] | [转账] | [送金] |
+| android, iOS | content_video | [Video] | [Video] | [Video] | [视频] | [動画] |
+| android, iOS | content_voice | [Voice call] | [Panggilan suara] | [Panggilan suara] | [语音电话] | [音声通話] |
+| android, iOS | Continue | Continue | Lanjutkan | Teruskan | 继续  | 続ける |
+| android, iOS | Continue_Open_URL | Continue Open URL | Lanjutkan Buka URL | Terus Buka URL | 继续访问 | URLを開く |
+| android, iOS | Conversation | Conversation | Percakapan | Perbualan | 会话  | 受信制限 |
+| android, iOS | Conversation_not_found | Conversation not found. |     |     | 找不到该会话 | 会話が見つかりません |
+| android, iOS | conversation_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 |
+| android, iOS | Copy | Copy | Salin | Salinan | 复制  | コピー |
+| android, iOS | Copy_invite | Copy Invite Link | Salin Tautan | Salin pautan | 复制邀请链接 | リンクをコピーする |
+| android, iOS | Copy_link | Copy Link |     | Salin pautan | 复制链接 | リンクをコピー |
+| android, iOS | Create | Create | Buat | Buat | 创建  | 作成  |
+| android, iOS | created_this_group | %1$s created this group |     |     | %1$s创建了这个群组 | %1$sがグループを作成しました |
+| android, iOS | Currency | Currency | Mata uang | Mata Wang | 货币  | 通貨  |
+| android, iOS | Custom_Time | Custom Time |     |     | 自定义时间 |     |
+| android, iOS | Data_and_Storage_Usage | Data and Storage Usage | Penggunaan Data dan Penyimpanan | Penggunaan Data dan Storan | 数据与存储空间 |     |
+| android, iOS | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 |
+| android, iOS | Date | Date | Tanggal | Tarikh | 日期  | 日付  |
+| android, iOS | date_format_date | MMM dd, yyyy | TTT bb, tttt | BBB hh, tttt | yyyy年MM月dd日 | MMM dd, yyyy |
+| android, iOS | Declined | Declined | Ditolak | Menolak | 已拒绝 |     |
+| android, iOS | Delete | Delete |     |     | 删除  | 削除  |
+| android, iOS | delete_account_hint | Delete your account info and profile photo |     |     | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |
+| android, iOS | Delete_address | Delete address | Hapus alamat | Padamkan alamat | 删除地址 | アドレスを削除 |
+| android, iOS | Delete_emergency_contact | Delete emergency contact | Hapus kontak darurat | Padamkan kenalan kecemasan | 删除紧急联系人 | 緊急連絡先を削除 |
+| android, iOS | Delete_for_everyone | Delete for Everyone | Hapus untuk Semua Orang | Padamkan untuk Semua Orang | 撤回  | 全員のチャットから削除 |
+| android, iOS | Delete_for_me | Delete for me | Hapus untuk saya | Padamkan untuk saya | 删除  | あなたのチャットから削除 |
+| android, iOS | Delete_my_account | Delete My Account |     |     | 注销账户 | アカウント削除 |
+| android, iOS | Delete_Synced_Contact | Delete Synced Contacts | Hapus Kontak yang Disinkronkan | Padam Kenalan yang selaraskan | 删除已同步的通讯录 | 同期済みの連絡先を削除する |
+| android, iOS | Delete_withdraw_Address | Delete %1$s Address | Hapus Alamat %1$s | Padamkan Alamat %1$s | 删除 %1$s 地址 | %1$sアドレスを削除 |
+| android, iOS | Deposit | Deposit | Deposit | Deposit | 充值  | 入金  |
+| android, iOS | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | 注意：首次充值建议小额尝试！地址 和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 |     |
+| android, iOS | deposit_attention | Please try a small amount for the first deposit. | Harap coba jumlah kecil untuk deposit pertama. | Cuba sedikit untuk deposit pertama. | 首次充值建议小额尝试！ | 注意: 最初は必ず少額で入金テストをしてください。 |
+| android, iOS | deposit_confirmation | Deposit will arrive %1$d block confirmation |     |     | 充值到账需要 %1$d 个区块确认。 |     |
+| android, iOS | deposit_confirmation.count | Deposit will arrive %1$d block confirmations | Deposit akan tiba setelah setidaknya %1$d konfirmasi block | Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan | 充值到账需要 %1$d 个区块确认。 |     |
+| android, iOS | deposit_reserve | Deposit at least %1$s for the first time. | Deposit minimal %1$s untuk pertama kali. | Deposit sekurang-kurangnya %1$s untuk pertama kalinya. | 首次充值至少 %1$s ！ |     |
+| android, iOS | deposit_tip_btc | This address only supports BTC. | Alamat ini hanya mendukung BTC. | Alamat ini hanya menyokong BTC. | 该充值地址仅支持 BTC。 | このアドレスはビットコインのみサポートしています。 |
+| android, iOS | deposit_tip_common | This address only supports %1$s. | Alamat ini hanya mendukung %1$s. | Alamat ini hanya menyokong %1$s. | 该充值地址仅支持 %1$s。 | このアドレスは%1$sのみサポートしています。 |
+| android, iOS | deposit_tip_eos | This address supports all base on EOS tokens. | Alamat ini mendukung semua token berbasis EOS, seperti EOS, IQ, dll. | Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll. | 支持所有基于 EOS 发行的代币。 |     |
+| android, iOS | deposit_tip_eth | This address supports all ERC-20 tokens, such as ETH, XIN, etc. | Alamat ini mendukung semua token ERC-20, seperti ETH, XIN, dll. | Alamat ini menyokong semua token ERC-20, seperti ETH, XIN, dll. | 支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。 |     |
+| android, iOS | deposit_tip_trx | This address supports all TRC-10 and TRC-20 tokens. | Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll. | Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll. | 支持 TRX 和所有符合 TRC-10 TRC-20 标准的代币。 |     |
+| android, iOS | desktop_on_hint | You have your desktop logged in |     |     | 桌面版已登入 |     |
+| android, iOS | desktop_upgrade | Please upgrade Mixin Messenger Desktop to the latest version. | Harap tingkatkan Mixin Messenger Desktop ke versi terbaru. | Sila tingkatkan Mixin Messenger Desktop kepada versi terkini. | 请升级 Mixin Messenger 桌面端至最新版！ | デスクトップ版Mixinを最新バージョンにアップデートしてください。 |
+| android, iOS | detect_qr_tip | Detected a Mixin QR code, tap to recognize | Mendeteksi kode QR Mixin, ketuk untuk mengenali | Mengesan kod QR Mixin, ketuk untuk mengenali | 检测到一个 Mixin 二维码，点击识别 | Mixin QRコードを検出しました、タップしてアクセスします |
+| android, iOS | Developer | Developer | Pengembang | Pemaju | 开发者 | 開発者情報 |
+| android, iOS | disappearing_message | Disappearing Messages |     |     | 限时消息 |     |
+| android, iOS | disappearing_message_hint | When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to learn more. |     |     | 启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以了解更多。 |     |
+| android, iOS | Dismiss_as_Admin | Dismiss as Admin | Singkirkan admin | Ketepikan pentadbir | 撤销管理员身份 | サブリーダー権限を解除 |
+| android, iOS | Done | Done | Selesai | Selesai | 完成  | 完了  |
+| android, iOS | Duplicate_Transfer_Confirmation | Duplicate Transfer Confirmation | Konfirmasi Transfer Ganda | Pengesahan Pemindahan Pendua | 重复转账确认 | 二重送金の確認 |
+| android, iOS | Duplicate_Withdraw_Confirmation | Duplicate Withdraw Confirmation | Konfirmasi Penarikan Ganda | Pengesahan Pengunduran Pendua | 重复提现确认 | 二重出金の確認 |
+| android, iOS | edit_address | Edit %1$s Address |     |     | 修改 %1$s 地址 | %1$sアドレスを修正 |
+| android, iOS | Edit_Biography | Edit Biography | Edit Biografi | Edit Biografi | 修改简介 | 自己紹介文を変更 |
+| android, iOS | Edit_Circle_Name | Edit Circle Name | Edit Nama Lingkaran | Edit Nama Lingkaran | 编辑名称 | リスト名を編集 |
+| android, iOS | Edit_Conversations | Edit Conversations | Edit Percakapan | Edit Perbualan | 管理圈子 | リストを編集 |
+| android, iOS | Edit_Group_Description | Edit Group Description | Edit deskripsi grup | Edit keterangan kumpulan | 编辑群公告 | グループアナウンス |
+| android, iOS | Edit_group_name | Edit Group Name | Edit Nama | Edit Nama | 编辑名称 | グループ名を変更 |
+| android, iOS | Edit_Name | Edit Name | Edit Nama | Edit Nama | 修改昵称 | 名前を変更 |
+| android, iOS | Emergency_Contact | Emergency Contact | Kontak darurat | Kenalan kecemasan | 紧急联系人 | 緊急連絡先 |
+| android, iOS | empty_info | You can chat with contacts who have Mixin installed on their phone. | Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka | Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka | 你可以与你的 Mixin 好友一起聊天。 | Mixinをダウンロードしている人と\nいつでもチャットが可能です。 |
+| android, iOS | Enable_Emergency_Contact | Enable Emergency Contact | Aktifkan Kontak Darurat | Bolehkan Kenalan Kecemasan | 启用紧急联系人 | 緊急連絡先を有効にする |
+| android, iOS | End_to_End_Encryption | End-to-end Encrypted | Terenkripsi end-to-end | Disulitkan | 端到端加密 | エンドツーエンド暗号化 |
+| android, iOS | Enter_PIN_to_delete_account | Enter your PIN to delete your account |     |     | 输入你的 PIN 以注销你的账户 | PINコードを入力してください |
+| android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | Masukkan ID Mixin kontak darurat Anda | Masukkan ID Mixin kenalan kecemasan anda | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください |
+| android, iOS | Enter_your_phone_number | Enter your phone number | Masukkan nomor ponsel Anda | Masukkan nombor telefon bimbit anda | 输入你的手机号码 | 電話番号を入力して下さい |
+| android, iOS | Enter_your_PIN | Enter your PIN | Masukkan PIN Anda | Masukkan PIN anda | 输入你的 PIN | PINを入力してください |
+| android, iOS | Enter_your_PIN_to_continue | Enter your PIN to continue |     |     | 输入你的 PIN 以继续 | PINコードを入力してください |
+| android, iOS | error_blockchain | ERROR %1$d: Blockchain not in sync, please try again later. | KESALAHAN %1$d: Blockchain tidak sinkron, coba lagi nanti. | RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 %1$d：区块链同步异常，请稍后重试 | エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
+| android, iOS | error_connection_timeout | Network connection timeout, please try again | Batas waktu sambungan jaringan | Tamat masa sambungan rangkaian | 网络连接超时 | ネットワーク接続がタイムアウトしました |
+| android, iOS | error_full_group | ERROR %1$d: The group chat is full. | KESALAHAN %1$d: Obrolan grup sudah penuh. | RALAT %1$d: Kumpulan sembang penuh. | 错误 %1$d：群组已满 | エラー %1$d: グループチャットが満員です |
+| android, iOS | error_insufficient_balance | ERROR %1$d: Insufficient balance | KESALAHAN %1$d: Saldo tidak cukup | RALAT %1$d: Baki tidak mencukupi | 错误 %1$d：余额不足 | エラー %1$d: 残高が不足しています |
+| android, iOS | error_insufficient_transaction_fee_with_amount | ERROR %1$d: Insufficient transaction fee. Please make sure your wallet has %2$s as fee |     |     | 错误 %1$d：手续费不足。请确保钱包至少有 %2$s 当作手续费。 | エラー%1$d：早期手数料が不足しています。ウォレット内に%2$sが保管されているか確認してください。 |
+| android, iOS | error_invalid_address_plain | ERROR %1$d: Invalid address format. | KESALAHAN %1$d: Format alamat tidak valid. | RALAT %1$d: Format alamat tidak sah. | 错误 %1$d：地址格式错误。 | エラー%1$d：無効なアドレス形式です。 |
+| android, iOS | error_invalid_emergency_contact | ERROR %1$d: Invalid emergency contact | KESALAHAN %1$d: Kontak darurat tidak valid | RALAT %1$d: Kenalan kecemasan tidak sah | 错误 %1$d：紧急联系人不正确 | エラー %1$d: 緊急連絡先が無効です |
+| android, iOS | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
+| android, iOS | error_phone_invalid_format | ERROR %1$d: Invalid phone number | KESALAHAN %1$d: Nomor telepon tidak valid | RALAT %1$d: Nombor telefon tidak sah | 错误 %1$d：手机号码不合法 | エラー %1$d: 電話番号が無効です |
+| android, iOS | error_phone_sms_delivery | ERROR %1$d: Failed to deliver SMS | KESALAHAN %1$d: Gagal mengirim SMS | RALAT %1$d: Gagal menghantar SMS | 错误 %1$d：发送短信失败 | エラー %1$d: SMSの送信に失敗しました |
+| android, iOS | error_phone_verification_code_expired | ERROR %1$d: Expired phone verification code | KESALAHAN %1$d: Kode verifikasi telepon sudah tidak berlaku | RALAT %1$d: Kod pengesahan telefon yang telah tamat tempoh | 错误 %1$d：验证码已过期 | エラー %1$d: 電話番号認証コードが期限切れです |
+| android, iOS | error_phone_verification_code_invalid | ERROR %1$d: Invalid phone verification code | KESALAHAN %1$d: Kode verifikasi telepon tidak valid | RALAT %1$d: Kod pengesahan telefon tidak sah | 错误 %1$d：验证码错误 | エラー %1$d: 電話番号認証コードが無効です |
+| android, iOS | error_pin_check_too_many_request | You have tried more than 5 times, please wait at least 24 hours to try again. | Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi. | Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi. | 你已经尝试了超过5次，请等待24小时后再次尝试。 | 入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。 |
+| android, iOS | error_pin_incorrect | ERROR %1$d: PIN incorrect | KESALAHAN %1$d: PIN salah | RALAT %1$d: PIN tidak betul | 错误 %1$d：PIN 不正确 | エラー %1$d: PINが間違っています |
+| android, iOS | error_pin_incorrect_with_times | ERROR %1$d: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later. |     |     | 错误 %1$d：PIN 不正确。你还有%2$d次机会，使用完需等待24小时后再次尝试。 |     |
+| android, iOS | error_pin_incorrect_with_times.count | ERROR %1$d: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later. | KESALAHAN %1$d: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT %1$d: PIN tidak betul. Anda masih mempunyai %2$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 %1$d：PIN 不正确。你还有%2$d次机会，使用完需等待24小时后再次尝试。 |     |
+| android, iOS | error_recaptcha_is_invalid | ERROR %1$d: Recaptcha is invalid | KESALAHAN %1$d: Recaptcha tidak valid | RALAT %1$d: Recaptcha tidak sah | 错误 %1$d：验证失败 | エラー %1$d: Recaptchaが無効です |
+| android, iOS | error_too_many_friends | ERROR %1$d: Too many friends |     |     | 错误 %1$d：好友数已达上限 |     |
+| android, iOS | error_too_many_request | ERROR %1$d: Rate limit exceeded | KESALAHAN %1$d: Batas nilai terlampaui | RALAT %1$d: Had kadar melebihi | 错误 %1$d：请求过于频繁 | エラー %1$d: レート制限を超過しています |
+| android, iOS | error_too_many_stickers | ERROR %1$d: Too many stickers | KESALAHAN %1$d: Terlalu banyak stiker | RALAT %1$d: Terlalu banyak pelekat | 错误 %1$d：贴纸数已达上限 | エラー %1$d: スタンプが多すぎます |
+| android, iOS | error_too_small_transfer_amount | ERROR %1$d: Transfer amount is too small | KESALAHAN %1$d: Jumlahnya terlalu kecil | RALAT %1$d: Jumlahnya terlalu kecil | 错误 %1$d：转账金额太小 | エラー %1$d: 数量が少なすぎます |
+| android, iOS | error_too_small_withdraw_amount | ERROR %1$d: Withdraw amount too small | KESALAHAN %1$d: Jumlah penarikan dana terlalu kecil | RALAT %1$d: Jumlah penarikan terlalu kecil | 错误 %1$d：提现金额太小 | エラー %1$d: 出金額が小さすぎます |
+| android, iOS | error_transfer_is_already_paid | ERROR %1$d: Transfer is already paid. |     |     | 错误 %1$d：转账已被支付 |     |
+| android, iOS | error_used_phone | ERROR %1$d: This phone number is already associated with another account. | KESALAHAN %1$d: Ponsel digunakan oleh orang lain. | RALAT %1$d: Telefon digunakan oleh orang lain. | 错误 %1$d：电话号码已经被占用。 | エラー%1$d：携帯が第三者によって利用されています。 |
+| android, iOS | error_withdrawal_memo_format_incorrect | ERROR %1$d: Withdrawal memo format incorrect. | KESALAHAN %1$d: Format memo penarikan salah. | RALAT %1$d: Penarikan format memo tidak betul. | ERROR %1$d: 提现备注格式不正确 | エラー %1$d: 出金メモの形式が正しくありません。 |
+| android, iOS | Everybody | Everybody | Semua orang | Semua orang | 任何人 | 全員  |
+| android, iOS | Exit_Group | Exit Group | Keluar dari Grup | Keluar Kumpulan | 退出群组 | グループから退出 |
+| android, iOS | Expired | Expired | Tidak berlaku | Tamat tempoh | 已过期 | 期限切れ |
+| android, iOS | Export_failed | Export failed |     |     | 导出失败 |     |
+| android, iOS | Fee | Fee | Biaya | Bayaran | 手续费 | 手数料 |
+| android, iOS | Feedback | Feedback |     | Maklum balas | 反馈  | フィードバック |
+| android, iOS | File | File | File | Fail | 文件  | ファイル |
+| android, iOS | Files | Files | File | Fail | 文档  | ファイル |
+| android, iOS | Filter | Filter | Filter | Penapis | 筛选  | フィルター |
+| android, iOS | FILTER_BY | FILTER BY | FILTER BERDASARKAN | DITAPIS DENGAN | 筛选  | 絞り込み: |
+| android, iOS | Floating | Floating |     | Terapung | 浮窗  | Floating |
+| android, iOS | Follow_us_on_facebook | Follow us on Facebook | Ikuti kami di Facebook | Ikuti kami di Facebook | 关注我们的 Facebook | Facebookをフォロー |
+| android, iOS | Follow_us_on_twitter | Follow us on Twitter | Ikuti kami di Twitter | Ikuti kami di Twitter | 关注我们的 Twitter | Twitterをフォロー |
+| android, iOS | Forward | Forward | Teruskan | Ke hadapan | 转发  | 転送  |
+| android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | 这是最后一次确认 PIN，记住：密码丢失将永远无法找回！ | 最終確認となります。もう一度PINを確認してください。PINを忘れた場合、復元はできません。 |
+| android, iOS | From | From |     |     | 来自  |     |
+| android, iOS | Get_a_new_wallet | Get a new wallet |     |     | 创建钱包 | 仮想通貨ウォレットを入手 |
+| android, iOS | Got_it | Got it | OK  | Faham | 知道了 | 確認  |
+| android, iOS | Group_Call | Group Call | Panggilan Grup | Panggilan Berkumpulan | 群组语音 | グループ通話 |
+| android, iOS | group_call_end_with_duration | Group call ended, duration: %1$s | Panggilan grup berakhir, durasi: %1$s | Panggilan kumpulan berakhir, tempoh: %1$s | 群组语音结束，时长 %1$s | グループ通話は終了しました。通話時間：%1$s |
+| android, iOS | Group_call_participants_limit_hint | Group calling allows up to %1$d participants to call each other |     |     | 支持最多%1$d人同时通话 | グループ通話の上限は %1$d人です |
+| android, iOS | Group_Name | Group Name | Nama Grup | Nama kumpulan | 群组名称 | グループ名 |
+| android, iOS | Groups_In_Common | Groups In Common |     |     | 共同群组 | 共通のグループ |
+| android, iOS | Help_center | Help center | Pusat bantuan | Pusat bantuan | 帮助中心 | ヘルプセンター |
+| android, iOS | Hidden_Assets | Hidden Assets | Aset Tersembunyi | Aset Tersembunyi | 隐藏资产 | 非表示資産 |
+| android, iOS | Hide | Hide | Sembunyikan | Sembunyii | 隐藏  | 非表示 |
+| android, iOS | hold_to_record_audio | Hold to record, release to send | Tahan untuk merekam, lepaskan untuk mengirim | Tahan untuk merakam, lepaskan untuk hantar | 长按说话，松手发送 | 長押しして録音、離して送信 |
+| android, iOS | Hour | %d Hour |     |     | %d 小时 |     |
+| android, iOS | Hour.count | %d Hours | %d Jam | %d Jam | %d 小时 |     |
+| android, iOS | Immediately | Immediately |     |     | 立刻  | すぐに |
+| android, iOS | in_connecting | Connecting… | Menyambungkan… | Menyambung… | 正在连接… | …に接続中 |
+| android, iOS | Incoming_voice_call | Incoming voice call | Panggilan suara masuk | Panggilan suara masuk | 语音通话来电 | 音声通話を受信中 |
+| android, iOS | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
+| android, iOS | Invalid_payment_link | Invalid payment link | Pembayaran tidak valid | Pembayaran tidak sah | 无效支付信息 | 支払いが無効です |
+| android, iOS | Invalid_QR_Code | Invalid QR-Code |     |     | 无效的二维码 |     |
+| android, iOS | invite_info | Anyone with Mixin can follow this link to join this group. Only share it with people you trust. | Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya. | Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai. | Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。 | リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。 |
+| android, iOS | Invite_to_Group_via_Link | Invite to Group via Link | Undang ke Grup melalui Tautan | Jemput ke Kumpulan melalui Pautan | 群邀请链接 | リンクを使って招待する |
+| android, iOS | Join_group | Join Group |     |     | 加入群组 |     |
+| android, iOS | Joined_in | Joined in %1$s | Bergabung di %1$s | Menyertai %1$s | %1$s 加入 | %1$sからMixinを利用しています |
+| android, iOS | Label | Label | Label | Label | 标题  | ラベル |
+| android, iOS | landing_delete_content | Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled. |     |     | 您的账户将于 %1$s 被删除，如果您继续登录，删除您账户的请求将被取消。 | バージョンが古いです (%1$s) 最新版んMixinにアップデートしてください。 |
+| android, iOS | landing_validation_title | Enter the 4-digit code sent to you at %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | 请输入发送至以下号码的 4 位验证码： %1$s | %1$sに送信された4桁のコードを入力してください |
+| android, iOS | Language | Language | Bahasa | Bahasa | 语言  | 言語  |
+| android, iOS | Large_Amount_Confirmation | Large Amount Confirmation | Konfirmasi Jumlah Besar | Pengesahan Jumlah Besar | 大额转账确认 | 送金時の確認 |
+| android, iOS | Large_Amount_Confirmation_with_symbol | Large Amount Confirmation(%1$s) | Konfirmasi Jumlah Besar(%1$s) | Pengesahan Jumlah Besar(%1$s) | 大额转账确认(%1$s) | 確認する金額(%1$s) |
+| android, iOS | Later | Later | Nanti | Kemudian | 稍后  | 後で  |
+| android, iOS | Learn_More | Learn More | Pelajari Selengkapnya | Ketahui Lebih Lanjut | 了解更多 | もっとみる |
+| android, iOS | Line_busy | Line busy | Jaringan sibuk | Talian sibuk | 忙线未接听 | 不在着信 |
+| android, iOS | Line_busy_remote | Line busy | Jaringan sibuk | Talian sibuk | 对方忙 | 不在着信 |
+| android, iOS | Live | Live | Siaran Langsung | Langsung | 直播  | ライブ配信 |
+| android, iOS | live_shareable_false | The live has been set to not allow sharing |     |     | 包含不允许转发的直播 | このライブ配信を共有することはできません |
+| android, iOS | Location | Location | Lokasi | Lokasi | 位置  | 位置情報 |
+| android, iOS | location_empty | There were no results for "%1$s"\nTry new search | Tidak ada hasil untuk "%1$s"\nCoba pencarian baru | Tidak ada hasil untuk "%1$s" Cuba carian baru | 找不到 "%1$s"\n换个名字试试吧 | "%1$s"の検索結果はありませんでした。\nもう一度検索してください。 |
+| android, iOS | Log_in | Log in | Masuk | Log masuk | 登录  |     |
+| android, iOS | log_out_from_desktop | Log out from desktop |     |     | 从桌面版退出 | デスクトップ版からログアウト |
+| android, iOS | login_and_abort_account_deletion | Continue to log in and abort account deletion |     |     | 继续登录并放弃删除账户 | そのままログインし、アカウント削除をキャンセルします |
+| android, iOS | Logs | Logs | Log | Log | 日志  | ログ  |
+| android, iOS | Lost_your_mobile_number | Lost your mobile number? | Kehilangan nomor ponsel Anda? | Kehilangan nombor telefon bimbit anda? | 手机丢失? | 電話番号をお忘れですか？ |
+| android, iOS | Make_group_admin | Make group admin | Jadikan admin grup | Buat pentadbir kumpulan | 设定为群组管理员 | サブリーダー権限を付与 |
+| android, iOS | manage_all_your_apps | mange all your apps | mengelola semua aplikasi Anda | urus semua aplikasi anda | 管理你所有的应用 | 全アプリの管理 |
+| android, iOS | manage_all_your_circles | manage all your circles |     | urus semua lingkaran anda | 管理你所有的圈子 | リストの編集 |
+| android, iOS | Manage_Apps | Manage Apps | Mengelola Aplikasi | Urus Aplikasi | 管理应用 | アプリの管理 |
+| android, iOS | Media | Media | Media | Media | 媒体  | メディア |
+| android, iOS | Memo | Memo | Memo | Memo | 备注  | メモ  |
+| android, iOS | message_e2ee | Messages to this conversation are encrypted end-to-end, tap for more info. | Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya. | Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut. | 此对话中的消息使用端对端加密。点击了解更多。 | この会話へのメッセージはエンドツーエンドで暗号化されています。詳細はタップしてください。 |
+| android, iOS | Message_not_found | Message not found | Pesan tidak ditemukan | Mesej tidak dijumpai | 找不到该消息 | メッセージが見つかりません |
+| android, iOS | Message_sent | Message sent | Berhasil dikirim | Pesanan dihantar | 消息已发送 | 送信完了 |
+| android, iOS | Messages | Messages |     |     | 消息  |     |
+| android, iOS | Minute | %d Minute |     |     | %d 分钟 |     |
+| android, iOS | Minute.count | %d Minutes | %d Menit | %d Minit | %d 分钟 |     |
+| android, iOS | Mixin | Mixin | Mixin | Mixin | Mixin |     |
+| android, iOS | Mixin_Locked | Mixin Locked |     |     | Mixin 已锁定 | Mixinはロックされています |
+| android, iOS | Mixin_Messenger_Desktop | Mixin Messenger Desktop | Mixin Messenger Desktop | Desktop Mixin Messenger | Mixin Messenger 桌面 |     |
+| android, iOS | More | More | Lebih banyak | Lebih banyak lagi | 更多  | もっとみる |
+| android, iOS | Multisig_by_PIN | Multisig by PIN | Multisig dengan PIN | Multisig dengan PIN | 通过 PIN 签名 | PINでマルチシグを使用する |
+| android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません。 |
+| android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 |
+| android, iOS | Multisig_Transaction | Multisig Transaction | Transaksi Multisig | Transaksi Multisig | 多重签名交易 | マルチシグトランザクション |
+| android, iOS | Mute | Mute | Bisukan | Senyap | 静音通知 | ミュート |
+| android, iOS | Mute_until | Until %1$s | Hingga %1$s | Sehingga %1$s | 直到 %1$s | %1$sまで |
+| android, iOS | My_Contacts | My Contacts | Kontak Saya | Kenalan Saya | 我的联系人 | 友だち限定 |
+| android, iOS | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID: %1$s |     |
+| android, iOS | My_QR_Code | My QR Code | Kode QR saya | Kod QR saya | 我的二维码 | マイQRコード |
+| android, iOS | My_shared_apps | My shared apps | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的应用 | おすすめロボをプロフィールに追加 |
+| android, iOS | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
+| android, iOS | NA  | N/A | N/A | N/A | 暂无价格 | なし  |
+| android, iOS | Name | Name | Nama | Nama | 名称  | 名前  |
+| android, iOS | Need_help | Need help? | Butuh bantuan? | Perlukan bantuan? | 需要帮助？ | ヘルプが必要ですか？ |
+| android, iOS | Never | Never | Jangan pernah | Tidak pernah | 从未备份 | ない  |
+| android, iOS | New_Group | New Group | Grup Baru | Kumpulan Baharu | 新建群组 | グループを作成 |
+| android, iOS | New_Group_Chat | New Group Chat | Obrolan Grup Baru | Kumpulan Sembang Baharu | 新群聊 | 新しいグループを作成 |
+| android, iOS | new_wallet_hint | Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency. |     |     | 创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。 | 簡単に仮想通貨をやり取りできるウォレットを作成しよう！ |
+| android, iOS | Next | Next | Berikutnya | Seterusnya | 下一步 | 次へ  |
+| android, iOS | NO_APPS | NO APPS | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
+| android, iOS | NO_AUDIO | NO AUDIO | TIDAK ADA SUARA | TIADA AUDIO | 没有音频 | 音声がありません |
+| android, iOS | NO_AUTHORIZATIONS | NO_AUTHORIZATIONS | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
+| android, iOS | No_blocked_users | No blocked users | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
+| android, iOS | NO_FILE | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
+| android, iOS | No_hidden_asset | No hidden assets | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
+| android, iOS | No_logs | No logs | Tidak ada log | Tiada log | 没有日志 | ログがありません |
+| android, iOS | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
+| android, iOS | No_Memo | No Memo | Tanpa Memo | Tiada Memo | 没有 Memo（备注） | メモなし |
+| android, iOS | No_network_connection | No network connection | Tidak ada sambungan jaringan | Tiada sambungan rangkaian | 无网络连接 | ネットワーク接続がありません |
+| android, iOS | NO_POST | NO POST | TIDAK ADA POSTINGAN | TIADA POST | 没有文章 | 投稿がありません |
+| android, iOS | No_result | No result | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
+| android, iOS | NO_STICKERS | NO STICKERS |     |     | 还未添加任何表情 | ステッカーはありません |
+| android, iOS | No_tag | No Tag | Tanpa Tag | Tiada Tag | 点击不使用 Tag（标签） | タグなし |
+| android, iOS | Nobody | Nobody | Tak seorangpun | Tiada siapa | 没有人 | なし  |
+| android, iOS | None | None | Tidak ada | Tiada | 无   | なし  |
+| android, iOS | Not_found | Not found | Tidak ditemukan | Tidak ditemui | 没有找到相应的消息 |     |
+| android, iOS | Notification_and_Confirmation | Notification and Confirmation | Notifikasi dan Konfirmasi | Pemberitahuan dan Pengesahan | 通知和确认 | 通知・送金確認 |
+| android, iOS | notification_content | Don't miss messages from your friends. | Jangan lewatkan pesan dari teman Anda. | Jangan terlepas mesej daripada rakan anda. | 不再遗漏好友的消息。 | 友達からのメッセージを見逃さないで！ |
+| android, iOS | OK  | OK  | OK  | okey | 好的  | OK  |
+| android, iOS | one_hour | 1 Hour | 1 Jam | 1 jam | 1 小时 | 1時間 |
+| android, iOS | one_week | 1 Week | 1 Minggu | 1 minggu | 1 星期 | 1週間 |
+| android, iOS | one_year | 1 Year | 1 Tahun | 1 tahun | 1 年 | 1年間 |
+| android, iOS | Open | Open | Buka | Buka | 打开  | ブラウザで開く |
+| android, iOS | Open_Home_page | Open Home page | Buka Beranda | Buka laman Utama | 打开主页 | ロボHOME |
+| android, iOS | Open_in_browser | Open in browser | Buka di browser | Buka dalam pelayar | 在浏览器中打开 | ブラウザで開く |
+| android, iOS | Open_Link | Open Link: %1$s |     |     | 打开链接：%1$s |     |
+| android, iOS | Owner | Owner | pemilik | pemilik | 群主  | リーダー |
+| android, iOS | Participants | Participants | Peserta | Peserta | 成员  |     |
+| android, iOS | pay_paid | This payment link has already been paid by someone, you can not make a duplicate payment. | Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda. | Pautan pembayaran ini telah dibayar oleh seseorang, anda tidak boleh membuat pembayaran pendua. | 此付款链接已由某人支付，您无法进行重复付款。 | この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。 |
+| android, iOS | Pay_with_PIN | Pay with PIN | Bayar dengan PIN | Bayar dengan PIN | 用 PIN 支付 | PINで支払う |
+| android, iOS | Pay_with_PIN_interval | Pay with PIN interval | Bayar dengan interval PIN | Bayar dengan selang PIN | 支付 PIN 使用间隔 | PINコードの再確認間隔 |
+| android, iOS | pending_confirmation | %1$d/%2$d confirmation |     |     | %1$d/%2$d 区块确认数 |     |
+| android, iOS | pending_confirmation.count | %1$d/%2$d confirmations | %1$d/%2$d konfirmasi | %1$d/%2$d pengesahan | %1$d/%2$d 区块确认数 |     |
+| android, iOS | Permissions | Permissions | Izin | Kebenaran | 权限列表 | 許可  |
+| android, iOS | Phone_call | Phone call | Panggilan telepon | Panggilan telefon | 电话呼叫 | 通話  |
+| android, iOS | Phone_Contact | Phone Contacts | Kontak Telepon | Kenalan Telefon | 手机联系人 | 連絡帳と同期 |
+| android, iOS | Phone_Contacts | Phone Contacts | Kontak Telepon | Kenalan Telefon | 手机通讯录 | 連絡帳設定 |
+| android, iOS | Phone_Number | Phone Number | Nomor Telepon | Nombor telefon | 手机号码 | 電話番号からの追加 |
+| android, iOS | Phone_number_change | Phone number change | Perubahan nomor telepon | Tukar nombor telefon | 修改手机号 | 電話番号変更 |
+| android, iOS | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
+| android, iOS | Photo | Photo | Foto | Foto | 照片  | 写真  |
+| android, iOS | Photos | Photos | Foto | Foto | 照片  | 画像  |
+| android, iOS | pin_title | Pin |     |     | 置顶  | ピン留め |
+| android, iOS | PIN | PIN | PIN | PIN | PIN | PIN |
+| android, iOS | PIN_change | PIN change | Perubahan PIN | Tukar PIN | 修改 PIN | PIN変更 |
+| android, iOS | pin_check_tip | You'll be asked for it periodically to help you remember it. | Anda akan ditanya secara berkala untuk membantu Anda mengingatnya. | Anda akan diminta tentang ia secara berkala untuk membantu anda mengingatnya. | 定期输入 PIN 有助于记住该 PIN | 安全のため、定期的にPINコードを確認します。 |
+| android, iOS | pin_confirm_again_hint | Please confirm your 6 digit PIN again |     |     | 请再次确认您的 6 位 PIN | 3度目となりますが、もう一度PINを確認してください |
+| android, iOS | pin_confirm_hint | Please confirm the 6 digit PIN and remember it |     |     | 确认 6 位数字 PIN 并牢记它 | PINを確実に記憶してください。ウォレットを失った場合、復元することはできません |
+| android, iOS | PIN_incorrect | PIN incorrect | PIN salah | PIN tidak betul | PIN 错误 | PINが違います |
+| android, iOS | pin_lost_hint | If lost, there is no way to recover your wallet. |     |     | 如果忘记，你的钱包将无法找回。 |     |
+| android, iOS | pinned_message_title | %1$d Pinned Message |     |     | %1$d条置顶消息 |     |
+| android, iOS | pinned_message_title.count | %1$d Pinned Messages |     |     | %1$d条置顶消息 |     |
+| android, iOS | Playlist | Playlist |     | Senarai main | 播放列表 | プレイリスト |
+| android, iOS | Post | Post | Postingan | Kirim | 文章  |     |
+| android, iOS | Privacy | Privacy | Privasi | Privasi | 隐私  | プライバシー |
+| android, iOS | Privacy_Policy | Privacy Policy | Kebijakan Privasi | Dasar Privasi | 隐私政策 | プライバシーポリシー |
+| android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
+| android, iOS | profile_share_app_hint | If you want to share an app, add it to your contacts first |     |     | 如果您希望分享应用，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
+| android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料(必须) | プロフィール |
+| android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
+| android, iOS | QR_Code_not_found | QR Code not found | Kode Qr tidak ditemukan | Kod Qr tidak dijumpai | 未发现二维码 | QRコードが見つかりません |
+| android, iOS | Raw | Raw | Raw | Mentah | 其他  | その他 |
+| android, iOS | Read_Apps | Read Apps | Membaca Aplikasi | Aplikasi baca | 查看应用 | アプリを読み取る |
+| android, iOS | Read_Assets | Read Assets | Membaca Aset | Baca Aset | 查看资产 | ウォレット機能連携 |
+| android, iOS | Read_Circles | Read Circles |     | Lingkaran Baca | 查看圈子 | リストの識別 |
+| android, iOS | Read_Collectibles | Read Collectibles |     |     | 查看 NFT | コレクションを読む |
+| android, iOS | Read_Contacts | Read Contacts | Membaca Kontak | Baca Kenalan | 查看联系人 | 連絡先を読み取る |
+| android, iOS | Read_Snapshots | Read Snapshots | Membaca Snapshot | Baca Syot kilat | 查看转账记录 | トランザクション |
+| android, iOS | Rebate | Rebate | Potongan harga | Rebat | 退款  | 払い戻し |
+| android, iOS | RECEIVE | RECEIVE | Terima | Terima | 转入  | 入金  |
+| android, iOS | Receive_Money | Receive Money | Terima uang | Terima Wang | 我的收款码 | 仮想通貨を受け取る |
+| android, iOS | Receiver | Receiver | Penerima | Penerima | 至   |     |
+| android, iOS | recent_chats | CHATS | OBROLAN | SEMBANG | 最近聊天 | チャット |
+| android, iOS | Recent_searches | Recent searches |     | Carian terkini | 最近搜索 | 最近の検索 |
+| android, iOS | Refresh | Refresh | Muat ulang | Segarkan | 刷新  | 更新  |
+| android, iOS | Reload | Reload |     | Muat semula | 重新载入 | リロード |
+| android, iOS | Remove_all | Remove All |     | Keluarkan semua | 全部删除 | 全部クリア |
+| android, iOS | Remove_all_floats | Remove all floats? |     | Alih keluar semua apungan? | 确定删除全部浮窗？ | Floatを全部クリアしますか？ |
+| android, iOS | Remove_Bot | Remove Bot | Hapus Bot | Keluarkan Bot | 删除机器人 | Myロボから削除 |
+| android, iOS | Remove_Contact | Remove Contact | Hapus kontak | Buang kenalan | 删除联系人 | 連絡先を削除 |
+| android, iOS | Remove_emergency_contact | Remove emergency contact | Hapus kontak darurat | Alih keluar kenalan kecemasan | 移除紧急联系人 | 緊急連絡先を削除する |
+| android, iOS | Remove_emergency_contact_confirmation | Remove emergency contact? | Hapus kontak darurat? | Alih keluar kenalan kecemasan? | 确定移除紧急联系人？ | 緊急連絡先を削除しますか？ |
+| android, iOS | Remove_Stickers | Remove Stickers |     |     | 移除所有表情 | ステッカーの削除 |
+| android, iOS | Reply | Reply |     |     | 回复  | 返信  |
+| android, iOS | Report | Report | Laporkan | Lapor | 举报  | 報告  |
+| android, iOS | Report_and_block | Report and block? |     |     | 举报并屏蔽？ | 報告してブロックしますか? |
+| android, iOS | Represent_Messages | Represent Messages | Mewakili Pesan | Wakilkan Mesej | 代发消息 | ロボからの通知 |
+| android, iOS | Resend_code | Resend code | Kirim ulang kode | Hantar semula kod | 重发验证码 | コードを再送する |
+| android, iOS | Resend_code_in | Resend code in %1$d s | Kirim ulang kode dalam %1$d d | Hantar semula kod dalam %1$d s | %1$d 秒后重新发送验证码 | %1$d秒後にコードを再送 |
+| android, iOS | Reset_Link | Reset Link |     |     | 重置邀请链接 | リンクを取り消す |
+| android, iOS | Restore | Restore |     |     | 恢复  | 復元  |
+| android, iOS | Restoring | Restoring... |     |     | 正在恢复... | …の復元を準備中 |
+| android, iOS | Revoke_access | Revoke access | Cabut akses | Batal akses | 取消授权 | アクセスを取り消す |
+| android, iOS | Revoke_access_with | Revoke access %1$s? | Cabut akses %1$s? | Batalkan akses %1$s? | 取消 %1$s 授权? | アクセス%1$sを取り消しますか？ |
+| android, iOS | Revoke_multisig_transaction | Revoke Multisig Transaction | Cabut Transaksi Multisig | Batalkan Urus Niaga Multisig | 撤销多重签名交易 | マルチシグトランザクションを取り消す |
+| android, iOS | Save | Save | Simpan | Jimat | 保存  | 保存  |
+| android, iOS | Save_image | Save Image | Simpan Gambar | Menyimpan imej | 保存图片 | 画像を保存する |
+| android, iOS | Say_Hi | Say Hi | Katakan Hai | Ucap hai | 打招呼 | こんにちは |
+| android, iOS | scam_warning | Warning: Many users reported this account as a scam. Please be careful, especially if it asks you for money | Peringatan: Banyak pengguna yang melaporkan akun ini sebagai scam. Harap berhati-hati, terutama jika meminta uang Anda | Amaran: Ramai pengguna melaporkan akaun ini sebagai penipuan. Sila berhati-hati, terutamanya jika ia meminta wang kepada anda | 警告：此账号被大量用户举报，请谨防网络诈骗，注意个人财产安全 | 警告：たくさん報告されているユーザーです、詐欺に気をつけてください |
+| android, iOS | scan_code_add_me | Scan the QR code to add me on Mixin | Pindai kode QR untuk menambahkan saya di Mixin | Imbas kod QR untuk menambahkan saya di Mixin | 用 Mixin 扫描二维码加我为联系人 | QRコードをスキャンして私をMixinで追加してください。 |
+| android, iOS | Scan_QR_Code | Scan QR Code | Pindai Kode QR | Imbas Kod QR | 扫描二维码 | QRコードをスキャン |
+| android, iOS | Screen_Lock | Screen Lock | Kunci Layar | Kunci skrin | 锁屏  | 画面ロック |
+| android, iOS | Search | Search | Cari | Cari | 搜索  | 検索  |
+| android, iOS | Search_Conversation | Search Conversation | Cari Percakapan | Cari Perbualan | 搜索聊天记录 | メッセージを検索 |
+| android, iOS | Search_GIPHY | Search GIPHY | Cari GIPHY | Cari GIPHY | 搜索 GIPHY | GIPHYを検索する |
+| android, iOS | search_placeholder_asset | Name, Symbol |     |     | 名称, 符号 | 名前、シンボル |
+| android, iOS | search_placeholder_number | Search Mixin ID or phone number:  |     |     | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |
+| android, iOS | search_related_message | %1$d related message |     |     | %1$d 条相关的消息 |     |
+| android, iOS | search_related_message.count | %1$d related messages | %1$d pesan terkait | %1$d mesej berkaitan | %1$d 条相关的消息 |     |
+| android, iOS | Security | Security | Keamanan | Keselamatan | 安全  | セキュリティ |
+| android, iOS | Select | Select | Pilih | Pilih | 选择  | 選択  |
+| android, iOS | Select_Emergency_Contact | Select Emergency Contact | Pilih Kontak Darurat | Pilih Kenalan Kecemasan | 选择紧急联系人 | 緊急連絡先を選択する |
+| android, iOS | Send | Send | Kirim | Hantar | 发送  | 送る  |
+| android, iOS | Send_Message | Send Message | Kirim Pesan | Menghantar mesej | 发消息 | メッセージを送る |
+| android, iOS | Send_This_Location | Send This Location | Kirim Lokasi Ini | Hantar Lokasi Ini | 发送这个位置 |     |
+| android, iOS | send_to | Send to %1$s | Kirim ke %1$s | Hantar ke %1$s | 发送给 %1$s | %1$sへ送金 |
+| android, iOS | Send_Without_Sound | Send Without Sound |     |     | 静音发送 | 通知音を鳴らさずに送信する |
+| android, iOS | Send_your_Current_Location | Send your Current Location | Kirim Lokasi Anda Saat Ini | Hantarkan Lokasi Semasa Anda | 发送您当前的位置 | 現在地を送信 |
+| android, iOS | Senders | Senders | Pengirim | Pengirim | 交易发起人 | 送信者 |
+| android, iOS | Set | Set |     |     | 设置  |     |
+| android, iOS | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s |     |     | %1$s将限时消息设置为 %2$s |     |
+| android, iOS | Set_new_PIN | Set a new PIN | Buat PIN baru | Tetapkan PIN baru | 设置新的 PIN | 新しいPINを設定 |
+| android, iOS | Set_PIN_successfully | Set PIN successfully | Berhasil membuat PIN | Penetapan PIN berjaya | PIN 设置成功 | PINの設定が完了しました。 |
+| android, iOS | setting_auth_access | Approved: %1$s, Last Accessed: %2$s | Disetujui: %1$s, Terakhir Diakses: %2$s | Diluluskan: %1$s, Akses Terakhir: %2$s | 授权时间：%1$s, 上次访问：%2$s | 許可: %1$s, 最終アクセス: %2$s |
+| android, iOS | setting_auth_search_hint | Mixin ID, Name | Mixin ID, Nama | Mixin ID, Nama | Mixin ID, 昵称 | Mixin ID, 名前 |
+| android, iOS | setting_conversation_group_tip | Who can add me to groups. | Siapa yang dapat menambahkan saya ke grup. | Siapa yang boleh menambahkan saya ke kumpulan. | 谁能加我进入群组。 | グループチャットに追加可能なユーザー |
+| android, iOS | setting_conversation_tip | Who can send message to me. | Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya. | Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya. | 你可以限制谁给你发消息。 | メッセージの送信や電話が可能なユーザー |
+| android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to Learn more. |     |     | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文件以了解更多。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はドキュメントをご覧ください。 |
+| android, iOS | setting_delete_account_send | We will send a 4-digit code to %1$s |     |     | 我们将发送4位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |
+| android, iOS | setting_delete_account_tip | Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be \n abandoned along with the wallet and cannot be recovered. |     |     | 你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被\n弃用无法找回。 | Mixinウォレット内に仮想通貨が残っています。アカウントを削除すると、仮想通貨を引き出すことができませんが、よろしいでしょうか？ |
+| android, iOS | setting_desktop_confirm | Confirm login to Mixin Messenger Desktop | Konfirmasikan masuk ke Mixin Messenger Desktop |  Sahkan log masuk ke Desktop Mixin Messenger | 确认登录 Mixin Messenger 桌面端 | デスクトップ版Mixinへの\nログインを確認 |
+| android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
+| android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
+| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读紧急联系人了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
+| android, iOS | setting_emergency_pin_tip | Your emergency contact is protected by PIN | Kontak darurat Anda dilindungi dengan PIN | Kenalan kecemasan anda dilindungi oleh PIN | 紧急联系人经支付 PIN 加密保护 | あなたの緊急連絡先はPINにより保護されています。 |
+| android, iOS | setting_emergency_send_code | Enter the 4-digit code sent to Mixin ID: %1$s | Masukkan kode 4 digit yang dikirim ke ID Mixin: %1$s | Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s | 请输入发送至以下 Mixin ID 的 4 位验证码：%1$s | 相手のMixinに送信された4桁のコードを入力してください：%1$s |
+| android, iOS | setting_emergency_set_message | Confirm to set Mixin ID %1$s as your emergency contact? Please note that the other party must add you as a contact to set up successfully. | Konfirmasikan untuk menetapkan ID Mixin %1$s sebagai kontak darurat Anda? Harap perhatikan bahwa pihak lain harus menambahkan Anda sebagai kontak agar berhasil ditetapkan. | Sahkan untuk menetapkan Mixin ID %1$s sebagai kenalan kecemasan anda? Sila maklum bahawa pihak lain mesti menambahkan anda sebagai kenalan untuk berjaya disiapkan. | 确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！ | （Mixin ID %1$s）を緊急連絡先としてて設定しますか？緊急連絡先登録の設定は相互の友だち登録が必要です。 |
+| android, iOS | setting_emergency_warning | Attention: the Emergency Contact cannot help you to recover PIN | Perhatian: Kontak Darurat tidak dapat membantu Anda memulihkan PIN | Perhatian: Kontak Kecemasan tidak dapat membantu anda memulih semula PIN | 注意：紧急联系人无法帮助找回支付 PIN | 注意：PINコードは復元できません 如何なる場合においてもご自身で管理してください |
+| android, iOS | setting_mobile_contact_warning | This will remove your contacts from the Mixin servers. | Ini akan menghapus kontak Anda dari server Mixin. | Ini akan mengalih keluar kenalan anda dari pelayan Mixin. | 确定删除已同步到 Mixin 服务器的通讯录？ | これにより、Mixinサーバーから連絡先が削除されます。 |
+| android, iOS | setting_notification_transfer_summary | Display notifications when receiving a transfer greater than or equal to %1$s. |     |     | 收到不少于 %1$s 转账时显示通知 | %1$s以上を受け取った時に通知する |
+| android, iOS | setting_privacy_tip | Change who can add you to conversation and groups. | Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup. | Tukar siapa yang boleh menambahkan anda ke perbualan dan kumpulan. | 谁可以给你发消息或邀请你加入群聊。 | あなた宛のメッセージや通話を制限 |
+| android, iOS | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息 (%2$s)? |     |
+| android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 (%2$s)? |     |
+| android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s |     |     | 当转账金额大于 %1$s 时显示确认弹窗 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | Settings | Settings | Pengaturan | Tetapan | 设置  | 設定  |
+| android, iOS | Share | Share | Bagikan | Berkongsi | 分享  | 共有  |
+| android, iOS | Share_Contact | Share Contact |     |     | 分享他的名片 | 連絡先を共有 |
+| android, iOS | Share_Link | Share Link | Bagikan Tautan | Kongsi pautan | 分享邀请链接 | リンクをシェアする |
+| android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s ? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
+| android, iOS | share_message_description_empty | Are you sure you want to send the %1$s ? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
+| android, iOS | Share_This_App | Share This App |     | Kongsi Aplikasi Ini | 分享应用 | このアプリをシェアする |
+| android, iOS | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
+| android, iOS | Show | Show | Tampilkan | Tunjuk | 显示  | 表示  |
+| android, iOS | Sign_in | Sign in | Masuk | Log masuk | 登录  | ログイン |
+| android, iOS | Sign_with_emergency_contact | Sign in with emergency contact | Masuk dengan kontak darurat | Log masuk dengan kenalan kecemasan | 通过紧急联系人登录 | 緊急連絡先でログイン |
+| android, iOS | Sign_with_phone_number | Sign in with phone number | Masuk dengan nomor telepon | Log masuk dengan nombor telefon | 通过手机号登录 | 電話番号でログイン |
+| android, iOS | Skip | Skip | LEWATI | LANGKAU | 跳过  |     |
+| android, iOS | Slide_to_cancel | Slide to Cancel | Geser untuk Membatalkan | Slaid untuk Batal | 滑动取消 | スライドしてキャンセル |
+| android, iOS | Sort_by | Sort by |     |     | 顺序  |     |
+| android, iOS | Start_Messaging | Start Messaging | Mulai Mengirim Pesan | Mulakan Pemesejan | 开始聊天 | メッセージを開始 |
+| android, iOS | Status | Status | Status | Status | 交易状态 | ステータス |
+| android, iOS | Sticker | Sticker | Stiker | Pelekat | 贴纸  | スタンプ |
+| android, iOS | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1K以上800KB未満、 幅と高さは64から512ピクセルである必要があります |
+| android, iOS | Sticker_Store | Sticker Store |     |     | 表情商店 | ステッカーストア |
+| android, iOS | stickers_count | %d stickers |     |     | %d 个表情 |     |
+| android, iOS | Stop_Playing | Stop Playing |     | Berhenti bermain | 停止播放 | 再生を止める |
+| android, iOS | Stop_playing_this_list | Stop playing this list? |     |     | 确定要停止并关闭播放列表？ | 再生を止めて、プレイリストを閉じますか？ |
+| android, iOS | Storage_Usage | Storage Usage | Penggunaan Penyimpanan | Penggunaan Storan | 储存空间 | ストレージ使用率 |
+| android, iOS | stranger_hint | This sender is not in your contacts |     |     | 对方不是你的联系人 | 連絡先にない相手からのメッセージです |
+| android, iOS | Suspicious_Link | Suspicious Link | Tautan yang Mencurigakan | Pautan yang mencurigakan | 可疑链接 | 不審なリンクです |
+| android, iOS | Symbol | Symbol | Simbol | Simbol | 符号  | シンボル |
+| android, iOS | symbol_withdrawal | %1$s Withdrawal |     |     | %1$s 提现 | %1$s 出金 |
+| android, iOS | syncs_contact_hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. | Mixin menyinkronkan buku alamat Anda ke server Mixin untuk membantu Anda terhubung dengan pengguna Mixin yang lain. | Mixin selaraskan buku alamat anda ke pelayan Mixin untuk membantu anda berhubung dengan pengguna Mixin yang lain. | 同步通讯录到 Mixin 发现更多好友。 | あなたの連絡帳をMixinと同期し、他のMixinユーザーと連携します。 |
+| android, iOS | Tag | Tag | Tag | Tag | Tag（标签） | タグ  |
+| android, iOS | Tap_to_join | Tap to join | Ketuk untuk bergabung | Ketuk untuk sertai | 点击加入 | タップしてプ通話参加 |
+| android, iOS | Terms_of_Service | Terms of Service | Ketentuan Layanan | Terma Perkhidmatan | 服务条款 | 利用規約 |
+| android, iOS | TEXT_QR_CODE | TEXT QR CODE | KODE QR TEKS | KOD QR TEKS | 文本二维码 | テキストQRコード |
+| android, iOS | The_code_is_incorrect | The code is incorrect. |     |     | 验证码不正确 | 入力したコードは正しくありません。 |
+| android, iOS | third_pin_confirm_hint | It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost. |     |     | 很少看到第三次确认吧！所以请牢记，密码丢失是无法找回的。 |     |
+| android, iOS | This_message_was_deleted | This message was deleted | Pesan ini telah dihapus | Mesej ini telah dipadamkan | 此消息已撤回 | このメッセージは削除されています |
+| android, iOS | Time | Time | Waktu | Masa | 时间  | 日時  |
+| android, iOS | title_participants | %1$d Participant |     |     | %1$d 成员 |     |
+| android, iOS | title_participants.count | %1$d Participants | %1$d peserta | %1$d peserta | %1$d 成员 |     |
+| android, iOS | To  | To  |     |     | 至   |     |
+| android, iOS | Today | Today | Hari ini | Hari ini | 今天  | 今日  |
+| android, iOS | Transaction | Transaction | Transaksi | Urus Niaga | 交易详情 | トランザクション |
+| android, iOS | transaction_Hash | Transaction Hash | Hash Transaksi | Urus niaga Cincangan | 交易哈希 | トランザクションハッシュ |
+| android, iOS | Transaction_Id | Transaction Id | ID Transaksi | Id Urus Niaga | 交易编号 | トランザクションID |
+| android, iOS | Transaction_Type | Transaction Type | Jenis Transaksi | Jenis Transaksi | 交易类型 | トランザクションタイプ |
+| android, iOS | Transactions | Transactions | Transaksi | Urus Niaga | 转账记录 | もらった・あげたコイン💰 |
+| android, iOS | Transactions_CANNOT_be_deleted | Transactions CANNOT be deleted |     |     | 转账记录不会被删除 | トランザクション履歴を削除することはできません |
+| android, iOS | Transcript | Transcript |     |     | 聊天记录 | メッセージ履歴 |
+| android, iOS | Transfer | Transfer | Transfer | Pindah | 转账  | 送金  |
+| android, iOS | Transfer_Amount_count_down | Transfer Amount(%1$s) | Jumlah Transfer(%1$s) | Jumlah Pindahan(%1$s) | 转账金额(%1$s) | 通知金額(%1$s) |
+| android, iOS | transfer_memo | Memo (optional) |     |     | 备注（可选） |     |
+| android, iOS | Transfer_Notifications | Transfer Notifications | Notifikasi Transfer | Pindahkan Pemberitahuan | 转账通知 | コインの受取通知 |
+| android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin |     |     | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |
+| android, iOS | transfer_to | Transfer to %1$s | Transfer ke %1$s | Pindahkan ke %1$s | 转账给 %1$s | 送金する%1$s |
+| android, iOS | Transfer_to_Mixin_address | Transfer to Mixin address | Transfer ke alamat Mixin | Pindahkan ke alamat Mixin | 给主网地址转账 | Mixinのアドレスへ送金する |
+| android, iOS | Transfer_to_user_or_bot | Transfer to user or bot | Transfer ke pengguna atau bot | Pindahkan ke pengguna atau bot | 给用户或机器人转账 |     |
+| android, iOS | Trending | Trending |     | Sohor Kini | 热门资产 | トレンド |
+| android, iOS | Try_Again | Try Again | Coba lagi | Cuba lagi | 请重试 | もう一度試す |
+| android, iOS | Turn_On_Notifications | Turn On Notifications | Aktifkan Notifikasi | Hidupkan Pemberitahuan | 打开通知 | 通知をオンにする |
+| android, iOS | Unblock | Unblock | Batal Blokir | Buka sekatan | 解除屏蔽 | ブロックを解除 |
+| android, iOS | Unmute | Unmute | Suarakan | Nyahsenyap | 取消静音 | ミュート解除 |
+| android, iOS | Unnamed_location | Unnamed location | Lokasi tanpa nama | Lokasi tidak dinamakan | 未命名地点 | 名前のない場所 |
+| android, iOS | Unpin | Unpin |     |     | 取消置顶 | ピン留めを止める |
+| android, iOS | Unpin_All_Messages | Unpin All Messages |     |     | 取消所有置顶消息 | 全てのメッセージのピン留めを解除する |
+| android, iOS | unpin_all_messages_confirmation | Are you sure you want to unpin all messages? |     |     | 确定取消置顶所有消息么？ |     |
+| android, iOS | Unread_messages | Unread messages |     |     | 未读消息 | 新しいメッセージ |
+| android, iOS | Update | Update | Perbarui | Kemas kini | 升级  | アップデート |
+| android, iOS | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin |     |
+| android, iOS | Upgrade_Database | Upgrade Database | Tingkatkan Database | Naik taraf Pangkalan Data | 数据库升级 | データベースをアップグレード |
+| android, iOS | Upgrading | Upgrading | Meningkatkan | Menaik taraf | 升级中... |     |
+| android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts |     |     | 上传通讯录找好友 | 連絡先をアップロードする |
+| android, iOS | User_not_found | User not found | Pengguna tidak ditemukan | Pengguna tidak ditemui | 找不到这个用户 | アップロード失敗 |
+| android, iOS | value_now | value now %1$s |     | nilai sekarang %1$s | 价值 %1$s | 現在価格 %1$s |
+| android, iOS | value_then | value then %1$s |     | nilai maka %1$s | 当时价值 %1$s | 当時の価格 %1$s |
+| android, iOS | Verify | Verify | Verifikasikan | Sahkan | 验证  | 生体認証で認証 |
+| android, iOS | Verify_PIN | Verify PIN | Verifikasikan PIN | Sahkan PIN | 验证 PIN | 認証中… |
+| android, iOS | Version_Update | Version Update | Periksa Pembaruan | Kemas kini Versi | 版本更新 |     |
+| android, iOS | Video | Video | Video | Video | 视频  | 動画  |
+| android, iOS | Videos | Videos | Video | Video | 视频  | 動画  |
+| android, iOS | View_Authorization | View Authorization |     |     | 查看授权 | みる  |
+| android, iOS | View_emergency_contact | View emergency contact | Lihat kontak darurat | Lihat kenalan kecemasan | 查看紧急联系人 | 緊急連絡先を確認 |
+| android, iOS | View_Wallet | View Wallet |     |     | 查看钱包 | ウォレットを確認 |
+| android, iOS | Waiting | Waiting | Menunggu | Menunggu | 等待中 | 待機中 |
+| android, iOS | Wallet | Wallet | Wallet | Dompet | 钱包  | ウォレット |
+| android, iOS | wallet_password_not_equal | The PIN is not the same twice, please try again. | PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi. | PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi. | PIN 不一致, 请重新输入 | PINが一致しません、もう一度お試しください。 |
+| android, iOS | wallet_password_set_pin_desc | Set a 6 digit PIN to create your first digital wallet, read the document to learn more. | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk mempelajari lebih lanjut. | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk mengetahui lebih lanjut. | 设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以了解更多。 | 6桁のPINを作成してください、詳しくはこちら |
+| android, iOS | wallet_password_unsafe | The PIN is too simple and insecure. | PIN-nya terlalu sederhana dan tidak aman. | PIN terlalu mudah dan tidak selamat. | PIN 过于简单不安全 | PINをより複雑な数字に変更してください |
+| android, iOS | wallet_pin_pay_interval_tips | For the security of your assets, you need to verify your PIN for the specified interval. | Untuk keamanan aset, Anda harus memverifikasi PIN Anda untuk interval yang ditentukan. | Untuk keselamatan aset anda, anda perlu mengesahkan PIN anda untuk selang waktu yang ditentukan. | 为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时已然需要支付 PIN | セキュリティ保護のため、PINコードの定期的な再確認が必要です。 |
+| android, iOS | wallet_pin_tops_desc | Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more. |     |     | 注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，\n阅读文档以了解更多。 | PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。詳しくはドキュメントをご覧ください。 |
+| android, iOS | wallet_refresh_address_failed | The withdrawal fee has been changed and the refresh fails, please try again. |     |     | 手续费已变更且刷新失败，请重试。 | 出金手数料が変更され、更新に失敗しました。もう一度やり直してください。 |
+| android, iOS | wallet_transaction_continue_count_down | Continue (%1$d) | Lanjutkan (%1$d) | Teruskan (%1$d) | 继续 （%1$d） | 続ける (%1$d) |
+| android, iOS | wallet_transaction_tip | Are you sure you want to transfer %3$s worth %2$s to %1$s ？ | Yakin ingin mentransfer %3$s senilai %2$s ke %1$s？ | Adakah anda pasti mahu memindahkan %3$s bernilai %2$s ke %1$s？ | 确定给 %1$s 转价值 %2$s 的 %3$s ？ | %1$sへ%2$s相当の%3$sを送金してもよろしいですか？ |
+| android, iOS | wallet_transactions_asset_key_warning | Asset key is NOT a deposit address! | Kode aset BUKAN alamat deposit! | Kunci aset BUKAN alamat deposit! | 资产标识不是充值地址！ | 資産キーは入金アドレスではありません！ |
+| android, iOS | wallet_transfer_recent_tip | You have already transferred %3$s to %2$s %1$s. Do you want to transfer it again? | Anda telah mentransfer %3$s ke %2$s %1$s. Ingin mentransfernya lagi? | Anda telah memindahkan %3$s ke %2$s %1$s. Adakah anda mahu memindahkannya lagi? | 你已经在 %1$s 给 %2$s 转账了 %3$s，确认还要再转一次吗？ | あなたは%1$sに同額の送金を%2$sへ送っています。再度%3$sを送金しますか？ |
+| android, iOS | wallet_withdrawal_changed | The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed  with the request? |     |     | 手续费已从 %1$s 变更为 %2$s，要更新手续费并继续提现吗？ | 出金手数料が%1$sから%2$sへ変更されました。このまま出金を行いますか？ |
+| android, iOS | wallet_withdrawal_recent_tip | You have already withdrawn %3$s to %2$s %1$s, Do you want to withdraw it again? | Anda telah menarik %3$s ke %2$s %1$s, Anda ingin menariknya lagi? | Anda telah menarik balik %3$s ke %2$s %1$s, Adakah anda mahu menariknya semula? | 你已经在 %1$s 提现 %3$s 到 %2$s，确认还要再提一次吗？ | あなたは%1$sに同額の出金を%2$sへ送っています。再度%3$sを出金しますか？ |
+| android, iOS | web_cannot_reached_desc | %1$s took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page. |     | %1$s mengambil masa terlalu lama untuk beri maklum balas. Sila periksa rangkaian anda dan cuba tukar 4G, Wi-Fi atau VPN untuk memuat semula halaman. | 无法访问 %1$s，请检查你的网络并尝试切换 4G、Wi-Fi 或 VPN 后重新载入页面。 | %1$s 接続に時間がかかり過ぎています、ネットワーク設定を確認してページをリロードしてください。 |
+| android, iOS | web_cannot_reached_title | This webpage can't be reached |     | Laman web ini tidak dapat dicapai | 无法访问此网页 | アクセスできません |
+| android, iOS | web_suspicious_link_tips | The link is not in the corresponding resource patterns. | Tautan tidak dalam pola sumber daya yang sesuai. | Pautan tidak terdapat dalam corak sumber yang sesuai. | 该链接不在对应的机器人域名白名单内。 | リンクは対応するリソースパターンにありません。 |
+| android, iOS | Whats_your_name | What's your name? | Siapa nama Anda? | Siapa nama awak? | 你的名字? | お名前は何ですか？ |
+| android, iOS | withdraw_Address | Address | Alamat | Alamat | 提现地址 | アドレス送金 |
+| android, iOS | Withdrawal | Withdraw | Penarikan | Pengeluaran | 提现  | 出金  |
+| android, iOS | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 |     |
+| android, iOS | withdrawal_addr_new | New %1$s Address | Alamat %1$s Baru | Alamat %1$s Baharu | 新 %1$s 地址 | 新しい%1$sアドレス |
+| android, iOS | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、メモを追加できます。 |
+| android, iOS | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、タグを追加できます。 |
+| android, iOS | withdrawal_addr_tag | Destination Tag or ID Number or notes. If not, you can set it No Tag. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Tag. | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Tag（标签）。 | PINを入力してアドレスを保存 |
+| android, iOS | withdrawal_address_tips | For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered! | Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil. | Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan! | 首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！ | 最初の出金は必ず少額で行ってください。アドレスが間違っていると資産は失われます。 |
+| android, iOS | withdrawal_label | Label (e.g. exchanges, wallets, etc.) | Label (mis. Kurs, wallet, dll.) | Label (contohnya pertukaran, dompet, dll.) | 地址名称，例如 OceanOne | ラベル (例. 取引所, ウォレットなど) |
+| android, iOS | withdrawal_memo | Memo | Memo | Memo | Memo（备注） | メモ  |
+| android, iOS | withdrawal_minimum_amount | Minimum withdraw amount is %1$s %2$s | Jumlah penarikan minimum adalah %1$s %2$s | Jumlah pengeluaran minimum ialah %1$s %2$s | 提现金额最小 %1$s %2$s | 最小出金額は %1$s %2$sです |
+| android, iOS | withdrawal_minimum_reserve | Minimum reserve:  |     |     | 最少保留数量： | 最低準備金  |
+| android, iOS | withdrawal_minimum_withdrawal | Minimum withdrawal:  |     |     | 最小提现数量： | 最低出金額： |
+| android, iOS | withdrawal_network_fee | Network fee:  |     |     | 网络手续费： | ネットワーク手数料： |
+| android, iOS | withdrawal_no_memo | No Memo | Tanpa Memo | Tiada Memo | 点击不使用 Memo（备注） | メモなし |
+| android, iOS | withdrawal_to | Withdraw to %1$s | Penarikan ke %1$s | Pengeluaran ke %1$s | 提现到 %1$s | %1$sへ出金 |
+| android, iOS | Write_Circles | Write Circles |     | Tulis Lingkaran | 管理圈子 |     |
+| android, iOS | You | You | Anda | Anda | 你   | 自分  |
+| android, iOS | You_deleted_this_message | You deleted this message | Anda menghapus pesan ini | Anda memadamkan mesej ini | 你撤回了一条消息 | このメッセージを削除しました。 |
+| android, iOS | You_have_left_the_group | You have left the group |     |     | 你不在此群组 | あなたはもうこのグループの参加者ではありません |
