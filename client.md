@@ -409,7 +409,7 @@
 | iOS | Authorized | Authorized |     |     | 已授权 | 許可しました |
 | iOS | auto_back_up_hint | Automatically back up to iCloud only over Wi-Fi. |     |     | 只会在 Wi-Fi 下自动备份聊天记录。 | Wi-Fiの使用時に自動でiCloudにバックアップする |
 | iOS | Auto_Backup | Auto Backup |     |     | 自动备份 | 自動バックアップ |
-| iOS | Automatic | Automatic |     |     | 自动的 | 自動モード |
+| iOS | Automatic | Automatic |     |     | 自动  | 自動モード |
 | iOS | Back_Up_Now | Back Up Now |     |     | 立即备份 | 今すぐバックアップ |
 | iOS | backup_disable_hint | Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive. |     |     | 需要登录 iCloud 来备份你的聊天记录。 设置 > iCloud > 打开 iCloud 云盘。 | iCloudにサインインしてバックアップを行う 設定 > iCloud > iCloudドライブをオンにする. |
 | iOS | Balance | Balance |     |     | 余额  | 残高  |
