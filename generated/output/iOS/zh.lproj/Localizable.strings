@@ -61,7 +61,7 @@
 "app_not_found" = "找不到这个机器人";
 "app_pin_hint" = "可将常用机器人长按拖至此处，可显示于首页";
 "app_update_short_hint" = "请从 App Store 更新 Mixin 至最新版";
-"app_update_tips" = "当前版本（%@）已失效！请点击下方\\"更新\\"从 App Store 更新至最新版。";
+"app_update_tips" = "当前版本（%@）已失效！请点击下方\"更新\"从 App Store 更新至最新版。";
 "appearance" = "外观";
 "apply" = "应用";
 "asset_key" = "资产标识";
@@ -168,7 +168,7 @@
 "clear" = "清理";
 "clear_chat" = "清除聊天记录";
 "clear_contact_chat_confirmation" = "清空与\"%@\"的聊天记录?";
-"clear_group_chat_confirmation" = "清空\\"%@\\"的聊天记录?";
+"clear_group_chat_confirmation" = "清空\"%@\"的聊天记录?";
 "clear_unused_cache" = "清理缓存";
 "cleared" = "已清空";
 "clock_skew_hint" = "请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。";
@@ -691,7 +691,7 @@
 "setting_appearance_language_alert_description" = "前往系统设置修改语言偏好";
 "setting_auth_access" = "授权时间：%1$@, 上次访问：%2$@";
 "setting_auth_search_hint" = "Mixin ID, 昵称";
-"setting_backup_tips" = "Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud.";
+"setting_backup_tips" = "备份你的聊天记录到 iCloud。如果你丢失或者更换手机，你可以在重新安装 Mixin Messenger 时恢复你的聊天记录。注意备份到 iCloud 中的聊天记录不受端对端加密保护！";
 "setting_conversation_group_tip" = "谁能加我进入群组";
 "setting_conversation_tip" = "你可以限制谁给你发消息";
 "setting_delete_account_pin_content" = "如果您继续，您的个人资料和账户信息将在%@被删除。阅读我们的文件以了解更多。";
