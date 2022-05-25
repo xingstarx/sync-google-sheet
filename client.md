@@ -35,7 +35,7 @@
 | android, iOS | Add_memo | Add Memo | Tambahkan Memo | Tambah Memo | 点击添加 Memo（备注） | メモを追加する |
 | android, iOS, Desktop | Add_participants | Add Participants | Tambahkan Peserta | Tambah Peserta | 添加成员 | メンバーを追加 |
 | android | Add_people_hint | Add people by Mixin ID or phone number | ID Mixin atau Nomor telepon | Mixin ID atau Nombor telefon | 通过 Mixin ID 或手机号添加联系人 | Mixin IDまたは電話番号で追加する |
-| android | add_people_search_hint | Mixin ID or Phone number |     |     | Mixin ID 或手机号 | Mixin IDもしくは電話番号 |
+| android, Desktop | add_people_search_hint | Mixin ID or Phone number |     |     | Mixin ID 或手机号 | Mixin IDもしくは電話番号 |
 | android, iOS, Desktop | Add_Sticker | Add Sticker |     |     | 添加贴纸 | スタンプを追加する |
 | android, Desktop | Add_sticker_failed | Add sticker failed | Gagal menambahkan stiker | Penambahan pelekat gagal | 添加贴纸失败 | スタンプの追加に失敗しました |
 | android, iOS, Desktop | Add_stickers | Add Stickers |     |     | 添加所有表情 | スタンプを追加 |
@@ -248,8 +248,8 @@
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
 | android, iOS | circle_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
 | android, iOS | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
-| android, iOS | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
-| android, iOS | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
+| android, iOS, Desktop | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
+| android, iOS, Desktop | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
 | android, iOS, Desktop | circle_title | %1$s's Circles | Lingkaran %1$s | Lingkaran %1$s | %1$s的圈子 |     |
 | android, iOS, Desktop | Circles | Circles | Lingkaran | Lingkaran | 圈子  |     |
 | android, iOS, Desktop | Clear | Clear | Bersihkan | Kosong | 清理  | クリア |
@@ -496,6 +496,7 @@
 | android, Desktop | error_transcript_forward | Please forward all attachments after they have been downloaded |     |     | 请在所有附件下载完成之后再转发 | 添付ファイルはすべてダウンロード後、転送してください。 |
 | android, iOS | error_transfer_is_already_paid | ERROR %1$d: Transfer is already paid. |     |     | 错误 %1$d：转账已被支付 |     |
 | iOS | error_two_parts | ERROR %@: %@ |     |     | 错误 %@: %@ | エラー %@: %@ |
+| android | error_unable_to_open_link | Can't find an app able to open this link.\n%1$s |     |     | 未找到能打开该链接的应用\n%1$s |     |
 | android, Desktop | error_unable_to_open_media | Can't find an app able to open this media. | Tidak dapat menemukan aplikasi yang dapat membuka media ini. | Tidak dapat mencari aplikasi yang dapat buka media ini. | 无法找到能打开该媒体的应用 | メディアを開くことができるアプリがありません |
 | android, Desktop | error_unknown_with_code | ERROR: %1$d | KESALAHAN: %1$d | RALAT: %1$d | 错误：%1$d | エラー: %1$d |
 | android, Desktop | error_unknown_with_message | ERROR: %1$s | KESALAHAN: %1$s | RALAT: %1$s | 错误：%1$s | エラー: %1$s |
@@ -1020,7 +1021,7 @@
 | iOS | setting_appearance_language_alert_description | You can pick a preferred language in settings |     |     | 前往系统设置修改语言偏好 | お使いのiPhoneの設定画面から言語を変更することができます |
 | android, iOS | setting_auth_access | Approved: %1$s, Last Accessed: %2$s | Disetujui: %1$s, Terakhir Diakses: %2$s | Diluluskan: %1$s, Akses Terakhir: %2$s | 授权时间：%1$s, 上次访问：%2$s | 許可: %1$s, 最終アクセス: %2$s |
 | android, iOS, Desktop | setting_auth_search_hint | Mixin ID, Name | Mixin ID, Nama | Mixin ID, Nama | Mixin ID, 昵称 | Mixin ID, 名前 |
-| iOS | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     |     | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
+| iOS, Desktop | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     |     | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
 | android | setting_battery_optimize_title | This will improve reliability for incoming notifications and Mixin calls |     |     | 这将提高 Mixin 通知和呼叫的可靠性。 |     |
 | android | setting_battery_optimize_title_one_ui_below_s | This will improve reliability for incoming notifications and Telegram calls. Tap Settings -> Battery and turn <b>Allow background activity</b> on. |     |     |     |     |
 | android | setting_battery_optimize_title_one_ui_above_s | This will improve reliability for incoming notifications and Telegram calls. Please select <b>Optimised</b> or <b>Unrestricted</b> in Settings > Battery. |     |     |     |     |
@@ -1341,7 +1342,7 @@
 | Desktop | original_image | Original |     |     | 原图  |     |
 | Desktop | edit_image_clear_warning | All changes will be lost. Are you sure you want to exit? |     |     | 退出将会清除此次所有的改动。 |     |
 | Desktop | reset | Reset |     |     | 重置  |     |
-| Desktop | unable_to_open_file | Unable to open file: %1$s |     |     | 无法打开文件:  |     |
+| Desktop | unable_to_open_file | Unable to open file: %1$s |     |     | 无法打开文件：%1$s |     |
 | Desktop | open_log_directory | open log directory |     |     | 打开日志文件夹 |     |
 | Desktop | check_new_version | Check new version |     |     | 检查新版本 |     |
 | Desktop | ignore_this_version | Ignore the new version |     |     | 忽略这次版本更新 |     |
@@ -1362,3 +1363,6 @@
 | Desktop | next_conversation | Next conversation |     |     | 下一个会话 |     |
 | Desktop | toggle_chat_info | Toggle chat info |     |     | 展开/关闭会话信息 |     |
 | Desktop | close_window | Close window |     |     | 关闭窗口 |     |
+| Desktop | send_without_compression | Send without compression |     |     | 发送原始文件 |     |
+| Desktop | share_contact | Share Contact |     |     | 分享联系人 |     |
+| Desktop | new_version_available | New version available |     |     | 发现新版本 |     |
