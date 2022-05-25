@@ -246,7 +246,7 @@
 | android, iOS | circle_bottom | Create circle for different  groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建 圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
 | android | circle_delete_tip | Delete "%1$s" ? | Hapus "%1$s"? | Padamkan "%1$s"? | 确认删除 "%1$s" ? | "%1$s"を削除しますか？ |
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
-| android, iOS | circle_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
+| android, iOS | number_reached_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
 | android, iOS | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
 | android, iOS, Desktop | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
 | android, iOS, Desktop | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
@@ -313,12 +313,12 @@
 | iOS | content_withdrawal | [Withdrawal] |     |     | [提现] | [出金] |
 | android, iOS, Desktop | Continue | Continue | Lanjutkan | Teruskan | 继续  | 続ける |
 | android, iOS | Continue_Open_URL | Continue Open URL | Lanjutkan Buka URL | Terus Buka URL | 继续访问 | URLを開く |
-| android, iOS, Desktop | Conversation | Conversation | Percakapan | Perbualan | 会话  | 受信制限 |
+| android, iOS, Desktop | Conversation | Conversation | Percakapan | Perbualan | 会话  | 会話  |
 | android | conversation_delete_tip | Once deleted, all this chat messages will be cleared | Setelah dihapus, semua pesan obrolan ini akan dibersihkan | Setelah dipadamkan, semua mesej sembang ini akan dihapus | 删除后，将同时清空该聊天的消息记录 | グループを削除すると、今までのやりとりがすべて消去されます。 |
 | android, Desktop | conversation_delete_title | Delete chat: %1$s |     |     | 删除会话：%1$s | チャットを削除する：%1$s |
 | iOS | conversation_has_too_many_circles | The conversation has too many circles |     |     | 已达圈子数上限 | この会話のリスト数を減らしてください |
 | android, iOS | Conversation_not_found | Conversation not found. |     |     | 找不到该会话 | 会話が見つかりません |
-| android, iOS, Desktop | conversation_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 |
+| android, iOS, Desktop | message_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 |
 | iOS | Conversations | Conversations |     |     | 对话  | チャット |
 | iOS | Copied | Copied |     |     | 已复制 | コピーしました |
 | android | copied_to_clipboard | Copied to Clipboard | Salin ke clipboard | Salin ke papan keratan | 已拷贝 | クリップボードにコピー |
@@ -433,7 +433,7 @@
 | iOS | Education | Education |     |     | 教育  | 教育  |
 | android, iOS | Emergency_Contact | Emergency Contact | Kontak darurat | Kenalan kecemasan | 紧急联系人 | 緊急連絡先 |
 | android | Empty_address_book | Empty address book | Buku alamat kosong | Kosongkan buku alamat | 通讯录内容为空 | アドレス帳になにもありません。 |
-| android, iOS | empty_info | You can chat with contacts who have Mixin installed on their phone. | Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka | Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka | 你可以与你的 Mixin 好友一起聊天。 | Mixinをダウンロードしている人と\nいつでもチャットが可能です。 |
+| android, iOS | chat_list_empty_info | You can chat with contacts who have Mixin installed on their phone. | Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka | Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka | 你可以与你的 Mixin 好友一起聊天。 | Mixinをダウンロードしている人と\nいつでもチャットが可能です。 |
 | android | Enable_after_1_minute | Enabled after 1 minute |     |     | 在 1 分钟之后启动 | 1分後に有効化する |
 | android | Enable_after_30_minutes | Enabled after 30 minutes |     |     | 在 30 分钟后启动 | 30分後に有効化する |
 | android | Enable_db_debug | Enable db debug |     | Bolehkan nyahpepijat db | 已开启 db 调试 | Enable db debug |
@@ -460,7 +460,7 @@
 | android, Desktop | error_bad_data | ERROR %1$d: The request data has invalid field | KESALAHAN %1$d: Data permintaan memiliki bidang yang tidak valid | RALAT %1$d: Data permintaan mempunyai medan yang tidak sah | 错误 %1$d：请求数据不合法 | エラー %1$d: リクエストデータが無効です |
 | android, iOS, Desktop | error_blockchain | ERROR %1$d: Blockchain not in sync, please try again later. | KESALAHAN %1$d: Blockchain tidak sinkron, coba lagi nanti. | RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 %1$d：区块链同步异常，请稍后重试 | エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | Batas waktu sambungan jaringan | Tamat masa sambungan rangkaian | 网络连接超时 | ネットワーク接続がタイムアウトしました |
-| android, Desktop | error_favorite_limit | ERROR %1$d: The number has reached the limit. | KESALAHAN %1$d: Jumlahnya telah mencapai batas. | RALAT %1$d: Angka telah mencapai had. | 错误 %1$d: 已达到上限 | エラー %1$d: 数が上限に達しています。 |
+| android, Desktop | error_number_reached_limit | ERROR %1$d: The number has reached the limit. | KESALAHAN %1$d: Jumlahnya telah mencapai batas. | RALAT %1$d: Angka telah mencapai had. | 错误 %1$d: 已达到上限 | エラー %1$d: 数が上限に達しています。 |
 | android, iOS, Desktop | error_full_group | ERROR %1$d: The group chat is full. | KESALAHAN %1$d: Obrolan grup sudah penuh. | RALAT %1$d: Kumpulan sembang penuh. | 错误 %1$d：群组已满 | エラー %1$d: グループチャットが満員です |
 | android, iOS, Desktop | error_insufficient_balance | ERROR %1$d: Insufficient balance | KESALAHAN %1$d: Saldo tidak cukup | RALAT %1$d: Baki tidak mencukupi | 错误 %1$d：余额不足 | エラー %1$d: 残高が不足しています |
 | android, iOS, Desktop | error_insufficient_transaction_fee_with_amount | ERROR %1$d: Insufficient transaction fee. Please make sure your wallet has %2$s as fee |     |     | 错误 %1$d：手续费不足。请确保钱包至少有 %2$s 当作手续费。 | エラー%1$d：早期手数料が不足しています。ウォレット内に%2$sが保管されているか確認してください。 |
@@ -998,7 +998,7 @@
 | android, iOS | Select | Select | Pilih | Pilih | 选择  | 選択  |
 | iOS | Select_a_country_or_region | Select a Country or Region |     |     | 选择一个国家或地区 | 国と地域を選択する |
 | android, iOS | Select_Emergency_Contact | Select Emergency Contact | Pilih Kontak Darurat | Pilih Kenalan Kecemasan | 选择紧急联系人 | 緊急連絡先を選択する |
-| iOS | Select_More_Phots | Select More Photos |     |     | 选择更多照片 | さらに写真を選択する |
+| iOS | Select_More_Photos | Select More Photos |     |     | 选择更多照片 | さらに写真を選択する |
 | iOS | selected_count | %@ Selected |     |     | 选择了%@个消息 | %@のメッセージを選択しています。 |
 | android, iOS, Desktop | Send | Send | Kirim | Hantar | 发送  | 送る  |
 | android | Send_as_file | Send as file |     |     | 按文件发送 | ファイルとして送信する |
