@@ -93,7 +93,7 @@
 | android, iOS | App_not_found | App not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
 | iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. |     |     | 请从 App Store 更新 Mixin 至最新版 | Mixinをアップデートしてください |
-| iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方\"更新\"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
+| iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
 | android | App_version | App version |     |     | 应用版本 | App version |
 | android, iOS, Desktop | Appearance | Appearance | Tampilan | Penampilan | 外观  | 言語とテーマ |
 | android, iOS | Apply | Apply | Terapkan | Guna | 应用  | 適用  |
@@ -254,7 +254,7 @@
 | android, iOS, Desktop | Clear | Clear | Bersihkan | Kosong | 清理  | クリア |
 | android, iOS, Desktop | Clear_chat | Clear Chat | Bersihkan Obrolan | Kosongkan Sembang | 清除聊天记录 | チャットをクリア |
 | iOS | clear_contact_chat_confirmation | Clear chat with "%@"? |     |     | 清空与"%@"的聊天记录? | "%@"のチャットをクリアしますか? |
-| iOS | clear_group_chat_confirmation | Clear "%@" group chat? |     |     | 清空\"%@\"的聊天记录? | "%@"のグループチャットをクリアしますか? |
+| iOS | clear_group_chat_confirmation | Clear "%@" group chat? |     |     | 清空"%@"的聊天记录? | "%@"のグループチャットをクリアしますか? |
 | iOS | Clear_unused_cache | Clear unused cache |     |     | 清理缓存 | データ使用量を軽減 |
 | iOS | Cleared | Cleared |     |     | 已清空 | クリア |
 | android | Clearing | Clearing… | Membersihkan… | Kosongkan… | 正在清理… | クリア中… |
@@ -1020,7 +1020,7 @@
 | iOS | setting_appearance_language_alert_description | You can pick a preferred language in settings |     |     | 前往系统设置修改语言偏好 | お使いのiPhoneの設定画面から言語を変更することができます |
 | android, iOS | setting_auth_access | Approved: %1$s, Last Accessed: %2$s | Disetujui: %1$s, Terakhir Diakses: %2$s | Diluluskan: %1$s, Akses Terakhir: %2$s | 授权时间：%1$s, 上次访问：%2$s | 許可: %1$s, 最終アクセス: %2$s |
 | android, iOS, Desktop | setting_auth_search_hint | Mixin ID, Name | Mixin ID, Nama | Mixin ID, Nama | Mixin ID, 昵称 | Mixin ID, 名前 |
-| iOS, Desktop | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     |     | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
+| iOS, Desktop | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     | 备份你的聊天记录到 iCloud。如果你丢失或者更换手机，你可以在重新安装 Mixin Messenger 时恢复你的聊天记录。注意备份到 iCloud 中的聊天记录不受端对端加密保护！ | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
 | android | setting_battery_optimize_title | This will improve reliability for incoming notifications and Mixin calls |     |     | 这将提高 Mixin 通知和呼叫的可靠性。 |     |
 | android | setting_battery_optimize_title_one_ui_below_s | This will improve reliability for incoming notifications and Telegram calls. Tap Settings -> Battery and turn <b>Allow background activity</b> on. |     |     |     |     |
 | android | setting_battery_optimize_title_one_ui_above_s | This will improve reliability for incoming notifications and Telegram calls. Please select <b>Optimised</b> or <b>Unrestricted</b> in Settings > Battery. |     |     |     |     |
