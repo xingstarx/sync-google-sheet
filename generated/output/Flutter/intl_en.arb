@@ -169,7 +169,7 @@
 "image" : "image",
 "includeFiles" : "Include Files",
 "includeVideos" : "Include Videos",
-"initializing" : "Initializing",
+"initializing" : "Initializing…",
 "inviteInfo" : "Anyone with Mixin can follow this link to join this group. Only share it with people you trust.",
 "inviteToGroupViaLink" : "Invite to Group via Link",
 "joinGroupWithPlus" : "+ Join group",
