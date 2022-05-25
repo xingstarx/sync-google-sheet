@@ -108,7 +108,6 @@
 	<string name="Change_Amount">Tukar Jumlah</string>
 	<string name="Change_emergency_contact">Tukar kenalan kecemasan</string>
 	<string name="Change_Phone_Number">Tukar Nombor Telefon</string>
-	<string name="change_phone_number_successfully">Penukaran nombor telefon berjaya!</string>
 	<string name="Change_PIN">Tukar PIN</string>
 	<string name="Change_PIN_successfully">Penukaran PIN berjaya</string>
 	<string name="Change_Profile_Photo_with_Camera">Tukar Foto Profil dengan Kamera</string>
@@ -625,7 +624,6 @@
 	<string name="setting_desktop_logout_failed">Log keluar desktop gagal.</string>
 	<string name="setting_duplicate_transfer_desc">Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam</string>
 	<string name="setting_emergency_change_mobile">Adakah anda mahu menukar nombor telefon bimbit anda sekarang?</string>
-	<string name="setting_emergency_change_success">Penukaran kenalan kecemasan berjaya</string>
 	<string name="setting_emergency_content">Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda.</string>
 	<string name="setting_emergency_create_success">Buat kenalan kecemasan berjaya</string>
 	<string name="setting_emergency_desc">Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut.</string>

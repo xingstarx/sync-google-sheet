@@ -148,11 +148,11 @@
 	<string name="Change_emergency_contact">修改紧急联系人</string>
 	<string name="Change_Number_Instead">仅修改手机号码</string>
 	<string name="Change_Phone_Number">修改手机号</string>
-	<string name="change_phone_number_successfully">修改手机号成功!</string>
 	<string name="Change_PIN">修改 PIN</string>
 	<string name="Change_PIN_successfully">PIN 修改成功</string>
 	<string name="Change_Profile_Photo_with_Camera">更换头像（相机）</string>
 	<string name="Change_Profile_Photo_with_Library">更换头像（相册）</string>
+	<string name="Changed">已修改</string>
 	<string name="changed_disappearing_message_settings">%1$s 修改了限时消息设置</string>
 	<string name="Changing">正在修改…</string>
 	<string name="chat_app_reception_title">点击按钮使用机器人</string>
@@ -796,7 +796,6 @@
 	<string name="setting_desktop_logout_failed">退出桌面端失败</string>
 	<string name="setting_duplicate_transfer_desc">当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。</string>
 	<string name="setting_emergency_change_mobile">立即修改手机号？</string>
-	<string name="setting_emergency_change_success">修改紧急联系人成功</string>
 	<string name="setting_emergency_content">紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。</string>
 	<string name="setting_emergency_create_success">添加紧急联系人成功</string>
 	<string name="setting_emergency_desc">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读紧急联系人了解更多。</string>

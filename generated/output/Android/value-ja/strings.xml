@@ -140,11 +140,11 @@
 	<string name="Change_emergency_contact">緊急連絡先を変更する</string>
 	<string name="Change_Number_Instead">電話番号を変更</string>
 	<string name="Change_Phone_Number">電話番号を変更</string>
-	<string name="change_phone_number_successfully">電話番号を変更しました!</string>
 	<string name="Change_PIN">PINを変更する</string>
 	<string name="Change_PIN_successfully">PINの変更が完了しました。</string>
 	<string name="Change_Profile_Photo_with_Camera">プロフィール画像を撮影</string>
 	<string name="Change_Profile_Photo_with_Library">プロフィール画像を選択</string>
+	<string name="Changed">変更しました</string>
 	<string name="Changing">変更中…</string>
 	<string name="chat_audio_discard_warning">録音を中止し、ボイスメッセージを破棄してもよろしいですか？</string>
 	<string name="chat_audio_discard_warning_title">ボイスメッセージを破棄する</string>
@@ -682,7 +682,6 @@
 	<string name="setting_desktop_logout_failed">デスクトップ版からのログアウトに失敗しました</string>
 	<string name="setting_duplicate_transfer_desc">6時間以内に同じ人に同額の送金を実行する際、確認を行う。</string>
 	<string name="setting_emergency_change_mobile">新しい電話番号の登録をしますか？</string>
-	<string name="setting_emergency_change_success">緊急連絡先を変更しました</string>
 	<string name="setting_emergency_content">緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。</string>
 	<string name="setting_emergency_create_success">緊急連絡先を作成しました</string>
 	<string name="setting_emergency_desc">登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。</string>

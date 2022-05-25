@@ -691,6 +691,7 @@
 "setting_appearance_language_alert_description" = "前往系统设置修改语言偏好";
 "setting_auth_access" = "授权时间：%1$@, 上次访问：%2$@";
 "setting_auth_search_hint" = "Mixin ID, 昵称";
+"setting_backup_tips" = "Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud.";
 "setting_conversation_group_tip" = "谁能加我进入群组";
 "setting_conversation_tip" = "你可以限制谁给你发消息";
 "setting_delete_account_pin_content" = "如果您继续，您的个人资料和账户信息将在%@被删除。阅读我们的文件以了解更多。";
@@ -744,8 +745,6 @@
 "stop_playing_this_list" = "确定要停止并关闭播放列表？";
 "storage_usage" = "储存空间";
 "stranger_hint" = "对方不是你的联系人";
-"successfully_changed_emergency_contact" = "成功设置紧急联系人";
-"successfully_changed_phone_number" = "更换手机号成功";
 "suspicious_link" = "可疑链接";
 "symbol" = "符号";
 "symbol_withdrawal" = "%@ 提现";

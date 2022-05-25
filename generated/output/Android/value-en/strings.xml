@@ -150,11 +150,11 @@
 	<string name="Change_emergency_contact">Change emergency contact</string>
 	<string name="Change_Number_Instead">Change Number Instead</string>
 	<string name="Change_Phone_Number">Change Phone Number</string>
-	<string name="change_phone_number_successfully">Change phone number successfully!</string>
 	<string name="Change_PIN">Change PIN</string>
 	<string name="Change_PIN_successfully">Change PIN successfully</string>
 	<string name="Change_Profile_Photo_with_Camera">Change Profile Photo with Camera</string>
 	<string name="Change_Profile_Photo_with_Library">Change Profile Photo with Library</string>
+	<string name="Changed">Changed</string>
 	<string name="changed_disappearing_message_settings">%1$s changed disappearing message settings.</string>
 	<string name="Changing">Changing...</string>
 	<string name="chat_app_reception_title">Tap the button to interact with the bot</string>
@@ -815,7 +815,6 @@
 	<string name="setting_desktop_logout_failed">Logout of desktop failed.</string>
 	<string name="setting_duplicate_transfer_desc">Display confirmation dialog when you transfer the same amount to the same person within 6 hours</string>
 	<string name="setting_emergency_change_mobile">Do you want to change your mobile number now?</string>
-	<string name="setting_emergency_change_success">Change emergency contact successfully</string>
 	<string name="setting_emergency_content">The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.</string>
 	<string name="setting_emergency_create_success">Create emergency contact successfully</string>
 	<string name="setting_emergency_desc">When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more.</string>
