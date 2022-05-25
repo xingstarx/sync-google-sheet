@@ -145,7 +145,7 @@
 	<string name="circle_delete_tip">Padamkan \"%1$s\"?</string>
 	<string name="circle_info">Sekiranya anda ingin menapis perbualan, sila
 \ntetapkan lingkaran untuk perbualan terlebih dahulu.</string>
-	<string name="circle_limit">Jumlahnya sudah mencapai had</string>
+	<string name="number_reached_limit">Jumlahnya sudah mencapai had</string>
 	<plurals name="circle_subtitle" tools:ignore="UnusedQuantity">
 		<item quantity="other">%1$d Perbualan</item>
 	</plurals>
@@ -190,7 +190,7 @@
 	<string name="Continue_Open_URL">Terus Buka URL</string>
 	<string name="Conversation">Perbualan</string>
 	<string name="conversation_delete_tip">Setelah dipadamkan, semua mesej sembang ini akan dihapus</string>
-	<string name="conversation_not_support">Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini.</string>
+	<string name="message_not_support">Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini.</string>
 	<string name="copied_to_clipboard">Salin ke papan keratan</string>
 	<string name="Copy">Salinan</string>
 	<string name="Copy_invite">Salin pautan</string>
@@ -250,7 +250,7 @@
 	<string name="Edit_Name">Edit Nama</string>
 	<string name="Emergency_Contact">Kenalan kecemasan</string>
 	<string name="Empty_address_book">Kosongkan buku alamat</string>
-	<string name="empty_info">Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka</string>
+	<string name="chat_list_empty_info">Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka</string>
 	<string name="Enable_db_debug">Bolehkan nyahpepijat db</string>
 	<string name="Enable_Emergency_Contact">Bolehkan Kenalan Kecemasan</string>
 	<string name="Enable_web_debug">Bolehkan laman web nyahpepijat</string>
@@ -264,7 +264,7 @@
 	<string name="error_bad_data">RALAT %1$d: Data permintaan mempunyai medan yang tidak sah</string>
 	<string name="error_blockchain">RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.</string>
 	<string name="error_connection_timeout">Tamat masa sambungan rangkaian</string>
-	<string name="error_favorite_limit">RALAT %1$d: Angka telah mencapai had.</string>
+	<string name="error_number_reached_limit">RALAT %1$d: Angka telah mencapai had.</string>
 	<string name="error_full_group">RALAT %1$d: Kumpulan sembang penuh.</string>
 	<string name="error_insufficient_balance">RALAT %1$d: Baki tidak mencukupi</string>
 	<string name="error_invalid_address_plain">RALAT %1$d: Format alamat tidak sah.</string>

@@ -159,7 +159,7 @@
 "choose_photo" = "选择照片";
 "circle_bottom" = "为不同对话创建 圈子然后在它们之间快速切换";
 "circle_info" = "新建一个圈子可以过滤会话";
-"circle_limit" = "已达到上限";
+"number_reached_limit" = "已达到上限";
 "circle_no_conversation_hint" = "您可以添加联系人或者群组到当前圈子";
 "circle_subtitle" = "%d 会话";
 "circle_subtitle_count" = "%d 会话";
@@ -217,7 +217,7 @@
 "conversation" = "会话";
 "conversation_has_too_many_circles" = "已达圈子数上限";
 "conversation_not_found" = "找不到该会话";
-"conversation_not_support" = "不支持此类型消息。请升级 Mixin 查看。";
+"message_not_support" = "不支持此类型消息。请升级 Mixin 查看。";
 "conversations" = "对话";
 "copied" = "已复制";
 "copy" = "复制";
@@ -301,7 +301,7 @@
 "edit_name" = "修改昵称";
 "education" = "教育";
 "emergency_contact" = "紧急联系人";
-"empty_info" = "你可以与你的 Mixin 好友一起聊天。";
+"chat_list_empty_info" = "你可以与你的 Mixin 好友一起聊天。";
 "enable_emergency_contact" = "启用紧急联系人";
 "enable_face_pay_hint" = "确认钱包密码启用面容支付";
 "enable_pay" = "启用%@支付";
@@ -672,7 +672,7 @@
 "select" = "选择";
 "select_a_country_or_region" = "选择一个国家或地区";
 "select_emergency_contact" = "选择紧急联系人";
-"select_more_phots" = "选择更多照片";
+"select_more_photos" = "选择更多照片";
 "selected_count" = "选择了%@个消息";
 "send" = "发送";
 "send_message" = "发消息";

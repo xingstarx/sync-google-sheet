@@ -159,7 +159,7 @@
 "choose_photo" = "Choose Photo";
 "circle_bottom" = "Create circle for different  groups of chats and quickly switch between them";
 "circle_info" = "Create circles for different groups of chats and quickly switch between them";
-"circle_limit" = "The number has reached the limit";
+"number_reached_limit" = "The number has reached the limit";
 "circle_no_conversation_hint" = "You can add contacts or groups to the current circle";
 "circle_subtitle" = "%d Conversation";
 "circle_subtitle_count" = "%d Conversations";
@@ -217,7 +217,7 @@
 "conversation" = "Conversation";
 "conversation_has_too_many_circles" = "The conversation has too many circles";
 "conversation_not_found" = "Conversation not found.";
-"conversation_not_support" = "This type of message is not supported, please upgrade Mixin to the latest version.";
+"message_not_support" = "This type of message is not supported, please upgrade Mixin to the latest version.";
 "conversations" = "Conversations";
 "copied" = "Copied";
 "copy" = "Copy";
@@ -301,7 +301,7 @@
 "edit_name" = "Edit Name";
 "education" = "Education";
 "emergency_contact" = "Emergency Contact";
-"empty_info" = "You can chat with contacts who have Mixin installed on their phone.";
+"chat_list_empty_info" = "You can chat with contacts who have Mixin installed on their phone.";
 "enable_emergency_contact" = "Enable Emergency Contact";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
 "enable_pay" = "Enable %@ Pay";
@@ -672,7 +672,7 @@
 "select" = "Select";
 "select_a_country_or_region" = "Select a Country or Region";
 "select_emergency_contact" = "Select Emergency Contact";
-"select_more_phots" = "Select More Photos";
+"select_more_photos" = "Select More Photos";
 "selected_count" = "%@ Selected";
 "send" = "Send";
 "send_message" = "Send Message";

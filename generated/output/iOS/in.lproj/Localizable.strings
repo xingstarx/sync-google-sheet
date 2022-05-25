@@ -91,7 +91,7 @@
 "chats" = "OBROLAN";
 "circle_bottom" = "Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya";
 "circle_info" = "Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu.";
-"circle_limit" = "Jumlahnya sudah mencapai batas";
+"number_reached_limit" = "Jumlahnya sudah mencapai batas";
 "circle_subtitle_count" = "%d Percakapan";
 "circle_title" = "Lingkaran %@";
 "circles" = "Lingkaran";
@@ -120,7 +120,7 @@
 "continue" = "Lanjutkan";
 "continue_open_url" = "Lanjutkan Buka URL";
 "conversation" = "Percakapan";
-"conversation_not_support" = "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru.";
+"message_not_support" = "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru.";
 "copy" = "Salin";
 "copy_invite" = "Salin Tautan";
 "create" = "Buat";
@@ -160,7 +160,7 @@
 "edit_group_name" = "Edit Nama";
 "edit_name" = "Edit Nama";
 "emergency_contact" = "Kontak darurat";
-"empty_info" = "Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka";
+"chat_list_empty_info" = "Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka";
 "enable_emergency_contact" = "Aktifkan Kontak Darurat";
 "end_to_end_encryption" = "Terenkripsi end-to-end";
 "enter_your_emergency_contact_mixin_id" = "Masukkan ID Mixin kontak darurat Anda";

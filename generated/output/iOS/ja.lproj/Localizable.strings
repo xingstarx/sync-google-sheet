@@ -153,7 +153,7 @@
 "choose_photo" = "画像を選ぶ";
 "circle_bottom" = "チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう";
 "circle_info" = "最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう";
-"circle_limit" = "数が上限に達しました";
+"number_reached_limit" = "数が上限に達しました";
 "circle_no_conversation_hint" = "連絡先またはグループを\n現在のリストに追加できます。";
 "clear" = "クリア";
 "clear_chat" = "チャットをクリア";
@@ -202,10 +202,10 @@
 "content_withdrawal" = "[出金]";
 "continue" = "続ける";
 "continue_open_url" = "URLを開く";
-"conversation" = "受信制限";
+"conversation" = "会話";
 "conversation_has_too_many_circles" = "この会話のリスト数を減らしてください";
 "conversation_not_found" = "会話が見つかりません";
-"conversation_not_support" = "このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。";
+"message_not_support" = "このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。";
 "conversations" = "チャット";
 "copied" = "コピーしました";
 "copy" = "コピー";
@@ -270,7 +270,7 @@
 "edit_name" = "名前を変更";
 "education" = "教育";
 "emergency_contact" = "緊急連絡先";
-"empty_info" = "Mixinをダウンロードしている人と\nいつでもチャットが可能です。";
+"chat_list_empty_info" = "Mixinをダウンロードしている人と\nいつでもチャットが可能です。";
 "enable_emergency_contact" = "緊急連絡先を有効にする";
 "enable_face_pay_hint" = "PINを確認してFace IDを利用可能にしてください";
 "enable_pay" = "%@の支払いを有効化";
@@ -607,7 +607,7 @@
 "select" = "選択";
 "select_a_country_or_region" = "国と地域を選択する";
 "select_emergency_contact" = "緊急連絡先を選択する";
-"select_more_phots" = "さらに写真を選択する";
+"select_more_photos" = "さらに写真を選択する";
 "selected_count" = "%@のメッセージを選択しています。";
 "send" = "送る";
 "send_message" = "メッセージを送る";

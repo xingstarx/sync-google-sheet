@@ -178,7 +178,7 @@
 	<string name="circle_bottom">チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう</string>
 	<string name="circle_delete_tip">\"%1$s\"を削除しますか？</string>
 	<string name="circle_info">最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう</string>
-	<string name="circle_limit">数が上限に達しました</string>
+	<string name="number_reached_limit">数が上限に達しました</string>
 	<string name="circle_no_conversation_hint">連絡先またはグループを\n現在のリストに追加できます。</string>
 	<string name="Clear">クリア</string>
 	<string name="Clear_chat">チャットをクリア</string>
@@ -219,11 +219,11 @@
 	<string name="content_voice">[音声通話]</string>
 	<string name="Continue">続ける</string>
 	<string name="Continue_Open_URL">URLを開く</string>
-	<string name="Conversation">受信制限</string>
+	<string name="Conversation">会話</string>
 	<string name="conversation_delete_tip">グループを削除すると、今までのやりとりがすべて消去されます。</string>
 	<string name="conversation_delete_title">チャットを削除する：%1$s</string>
 	<string name="Conversation_not_found">会話が見つかりません</string>
-	<string name="conversation_not_support">このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。</string>
+	<string name="message_not_support">このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。</string>
 	<string name="copied_to_clipboard">クリップボードにコピー</string>
 	<string name="Copy">コピー</string>
 	<string name="Copy_invite">リンクをコピーする</string>
@@ -284,7 +284,7 @@
 	<string name="Edit_Name">名前を変更</string>
 	<string name="Emergency_Contact">緊急連絡先</string>
 	<string name="Empty_address_book">アドレス帳になにもありません。</string>
-	<string name="empty_info">Mixinをダウンロードしている人と\nいつでもチャットが可能です。</string>
+	<string name="chat_list_empty_info">Mixinをダウンロードしている人と\nいつでもチャットが可能です。</string>
 	<string name="Enable_after_1_minute">1分後に有効化する</string>
 	<string name="Enable_after_30_minutes">30分後に有効化する</string>
 	<string name="Enable_db_debug">Enable db debug</string>
@@ -306,7 +306,7 @@
 	<string name="error_bad_data">エラー %1$d: リクエストデータが無効です</string>
 	<string name="error_blockchain">エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
 	<string name="error_connection_timeout">ネットワーク接続がタイムアウトしました</string>
-	<string name="error_favorite_limit">エラー %1$d: 数が上限に達しています。</string>
+	<string name="error_number_reached_limit">エラー %1$d: 数が上限に達しています。</string>
 	<string name="error_full_group">エラー %1$d: グループチャットが満員です</string>
 	<string name="error_insufficient_balance">エラー %1$d: 残高が不足しています</string>
 	<string name="error_insufficient_transaction_fee_with_amount">エラー%1$d：早期手数料が不足しています。ウォレット内に%2$sが保管されているか確認してください。</string>
