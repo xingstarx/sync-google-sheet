@@ -115,7 +115,7 @@
 | iOS | auto_back_up_hint | Automatically back up to iCloud only over Wi-Fi. |     |     | 只会在 Wi-Fi 下自动备份聊天记录。 | Wi-Fiの使用時に自動でiCloudにバックアップする |
 | Desktop | backup | Backup |     |     | 备份  |     |
 | iOS, Desktop | Auto_Backup | Auto Backup |     |     | 自动备份 | 自動バックアップ |
-| android, iOS | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded |     |     | 媒体自动下载设定，所有语音消息将自动下载。 | 音声品質を維持するため、ボイスメッセージは常に自動ダウンロードされます |
+| android, iOS | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded. |     |     | 媒体自动下载设定，所有语音消息将自动下载。 | 音声品質を維持するため、ボイスメッセージは常に自動ダウンロードされます |
 | android, iOS | Auto_Lock | Auto-Lock |     |     | 自动锁定 | 自動ロック |
 | iOS | Automatic | Automatic |     |     | 自动  | 自動モード |
 | android | avatar_transition_name | avatar_transition_name | avatar_transition_name | avatar_transition_name |     |     |
@@ -597,7 +597,7 @@
 | android | Incognito_Keyboard | Incognito Keyboard |     | Papan Kekunci Inkognito | 隐身键盘 | シークレットキーボード |
 | android, iOS | Incoming_voice_call | Incoming voice call | Panggilan suara masuk | Panggilan suara masuk | 语音通话来电 | 音声通話を受信中 |
 | iOS | Info | Info |     |     | 信息  | プロフィール |
-| android, iOS, Desktop | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
+| android, iOS, Desktop | Initializing | Initializing… | Memulai... | Memulakan… | 初始化… | 初期化中… |
 | iOS | Insufficient_transaction_fee | Insufficient transaction fee |     |     | 手续费不足 | トランザクション手数料が不足しています |
 | iOS | Interface_style | Interface Style |     |     | 外观  | 画面表示 |
 | iOS | Invalid_candidate | Invalid candidate |     |     | 无效的 Candidate | 無効な候補者 |
@@ -754,31 +754,31 @@
 | android, iOS | new_wallet_hint | Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency. |     |     | 创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。 | 簡単に仮想通貨をやり取りできるウォレットを作成しよう！ |
 | iOS | News | News |     |     | 新闻  | ニュース |
 | android, iOS, Desktop | Next | Next | Berikutnya | Seterusnya | 下一步 | 次へ  |
-| android, iOS | NO_APPS | NO APPS | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
+| android, iOS | NO_APP | NO APP | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
 | android, iOS, Desktop | NO_AUDIO | NO AUDIO | TIDAK ADA SUARA | TIADA AUDIO | 没有音频 | 音声がありません |
-| android, iOS | NO_AUTHORIZATIONS | NO_AUTHORIZATIONS | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
-| android | No_Available_Assets | No Available Assets |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
-| android, iOS | No_blocked_users | No blocked users | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
+| android, iOS | NO_AUTHORIZATION | NO_AUTHORIZATION | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
+| android | No_Available_Asset | No Available Asset |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
+| android, iOS | No_blocked_user | No blocked user | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
 | android, Desktop | No_camera | No camera | Tidak ada kamera | Tiada kamera | 没有相机 | カメラを認識できません |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
-| android | No_deposits | No deposits | Tidak ada deposit | Tiada deposit | 暂无充值记录 | 入金はありません |
-| android | No_fees | No fees | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
+| android | No_deposit | No deposit | Tidak ada deposit | Tiada deposit | 暂无充值记录 | 入金はありません |
+| android | No_fee | No fee | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
 | android, iOS, Desktop | NO_FILE | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
-| android, iOS | No_hidden_asset | No hidden assets | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
+| android, iOS | No_hidden_asset | No hidden asset | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
 | android, Desktop | NO_LINK | NO LINK | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
-| android, iOS | No_logs | No logs | Tidak ada log | Tiada log | 没有日志 | ログがありません |
+| android, iOS | No_log | No log | Tidak ada log | Tiada log | 没有日志 | ログがありません |
 | android, iOS, Desktop | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
 | android | No_media_yet | No media yet | Belum ada media | Belum ada lagi media | 还没有图片或视频 | メディアがありません |
 | android, iOS | No_Memo | No Memo | Tanpa Memo | Tiada Memo | 没有 Memo（备注） | メモなし |
 | android, iOS, Desktop | No_network_connection | No network connection | Tidak ada sambungan jaringan | Tiada sambungan rangkaian | 无网络连接 | ネットワーク接続がありません |
 | android, iOS, Desktop | NO_POST | NO POST | TIDAK ADA POSTINGAN | TIADA POST | 没有文章 | 投稿がありません |
-| android | No_raws | No raws | Tidak ada raw | Tanpa raws | 暂无其他记录 | その他はありません |
-| android | No_rebates | No rebates | Tidak ada rabat | Tiada rebat | 暂无退款记录 | 払い戻しはありません |
+| android | No_raw | No raw | Tidak ada raw | Tanpa raws | 暂无其他记录 | その他はありません |
+| android | No_rebate | No rebate | Tidak ada rabat | Tiada rebat | 暂无退款记录 | 払い戻しはありません |
 | android, iOS | No_result | No result | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
-| android, iOS | NO_STICKERS | NO STICKERS |     |     | 还未添加任何表情 | ステッカーはありません |
+| android, iOS | NO_STICKER | NO STICKER |     |     | 还未添加任何表情 | ステッカーはありません |
 | android, iOS | No_tag | No Tag | Tanpa Tag | Tiada Tag | 点击不使用 Tag（标签） | タグなし |
-| android, iOS | No_transactions | No transactions | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
-| android | No_withdrawals | No withdrawals | Tidak ada penarikan | Tiada pengeluaran | 暂无提现记录 | 出金はありません |
+| android, iOS | No_transaction | No transaction | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
+| android | No_withdrawal | No withdrawal | Tidak ada penarikan | Tiada pengeluaran | 暂无提现记录 | 出金はありません |
 | android, iOS | Nobody | Nobody | Tak seorangpun | Tiada siapa | 没有人 | なし  |
 | android | Nodes | Nodes |     |     | 节点  |     |
 | android, iOS | None | None | Tidak ada | Tiada | 无   | なし  |
@@ -791,7 +791,7 @@
 | android, iOS | Notification_and_Confirmation | Notification and Confirmation | Notifikasi dan Konfirmasi | Pemberitahuan dan Pengesahan | 通知和确认 | 通知・送金確認 |
 | android | notification_channel_description | Shows what music is currently playing in Mixin Messenger |     | Tunjukkan muzik apa yang sedang dimainkan di Mixin Messenger | 显示 Mixin Messenger 中正在播放的音乐 | Mixinで再生中の音楽を表示 |
 | android, iOS, Desktop | notification_content | Don't miss messages from your friends. | Jangan lewatkan pesan dari teman Anda. | Jangan terlepas mesej daripada rakan anda. | 不再遗漏好友的消息。 | 友達からのメッセージを見逃さないで！ |
-| iOS | notification_message_preview_description | Preview message text inside new message notifications |     |     | 在推送通知中显示消息内容。 | 通知でメッセージ内容を表示する |
+| iOS | notification_message_preview_description | Preview message text inside new message notifications. |     |     | 在推送通知中显示消息内容。 | 通知でメッセージ内容を表示する |
 | android, Desktop | Notifications | Notifications | Notifikasi | Pemberitahuan | 通知  | 通知  |
 | iOS, Desktop | now_an_addmin | %@ now an admin |     |     | %@现在是管理员 | %@はサブリーダーです |
 | android | Now_Playing | Now Playing |     | Main sekarang | 正在播放 | 再生中 |
@@ -1029,8 +1029,8 @@
 | android | setting_biometric_error_not_secure | The key NOT resides inside secure hardware (TEE) |     | Kunci TIDAK berada di dalam perkakasan selamat (TEE) | 当前设备不安全 | 鍵はセキュアハードウェア(TEE)内に存在しません。 |
 | android | setting_biometric_error_pin_not_set | The PIN, pattern or password is NOT set or a SIM card is unlocked |     | PIN, corak atau kata laluan TIDAK ditetapkan atau kad SIM tidak terkunci | 当前设备不安全，请设置解锁密码或解锁手势或 SIM 卡锁定 | PIN、パターン、パスワードが設定されていない、またはSIMカードが入っていません |
 | android | setting_biometric_error_rooted | The device has been rooted |     | Peranti telah diakarkan | 当前设备不安全 | デバイスはroot化されています |
-| android, iOS | setting_conversation_group_tip | Who can add me to groups. | Siapa yang dapat menambahkan saya ke grup. | Siapa yang boleh menambahkan saya ke kumpulan. | 谁能加我进入群组 | グループチャットに追加可能なユーザー |
-| android, iOS | setting_conversation_tip | Who can send message to me. | Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya. | Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya. | 你可以限制谁给你发消息 | メッセージの送信や電話が可能なユーザー |
+| android, iOS | setting_conversation_group_tip | Who can add me to groups | Siapa yang dapat menambahkan saya ke grup. | Siapa yang boleh menambahkan saya ke kumpulan. | 谁能加我进入群组 | グループチャットに追加可能なユーザー |
+| android, iOS | setting_conversation_tip | Who can send message to me | Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya. | Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya. | 你可以限制谁给你发消息 | メッセージの送信や電話が可能なユーザー |
 | android | setting_data_mobile | When using mobile data | Saat menggunakan data seluler | Semasa menggunakan data mudah alih | 当使用移动数据时 | モバイル回線 |
 | android | setting_data_title | Media auto-download | Download otomatis media | Muat turun automatik media | 自动下载文件 | 自動ダウンロード設定 |
 | android | setting_data_wifi | When connected on Wi-Fi | Saat tersambung melalui Wi-Fi | Semasa disambungkan di Wi-Fi | 当连接到 Wi-Fi 时 | WiFi利用時 |
@@ -1041,7 +1041,7 @@
 | android | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |     |     |
 | android, iOS | setting_desktop_confirm | Confirm login to Mixin Messenger Desktop | Konfirmasikan masuk ke Mixin Messenger Desktop |  Sahkan log masuk ke Desktop Mixin Messenger | 确认登录 Mixin Messenger 桌面端 | デスクトップ版Mixinへの\nログインを確認 |
 | android | setting_desktop_logout_failed | Logout of desktop failed. | Gagal keluar dari desktop. | Log keluar desktop gagal. | 退出桌面端失败 | デスクトップ版からのログアウトに失敗しました |
-| android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
+| android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours. |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
 | android | setting_emergency_change_mobile | Do you want to change your mobile number now? | Ingin mengubah nomor ponsel Anda sekarang? | Adakah anda mahu menukar nombor telefon bimbit anda sekarang? | 立即修改手机号？ | 新しい電話番号の登録をしますか？ |
 | android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
 | android | setting_emergency_create_success | Create emergency contact successfully | Berhasil membuat kontak darurat | Buat kenalan kecemasan berjaya | 添加紧急联系人成功 | 緊急連絡先を作成しました |
@@ -1059,8 +1059,8 @@
 | android, iOS | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息 (%2$s)? |     |
 | android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 (%2$s)? |     |
 | android | setting_stranger_transfer_desc | Display confirmation dialog when you transfer to stranger |     | Paparkan dialog pengesahan apabila anda berpindah kepada orang asing | 当你给陌生人转账时显示确认弹窗 | 連絡先に追加していないユーザーへの送金を実行する際、確認を行う。 |
-| android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
-| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s. | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s. |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
 | android, iOS | Settings | Settings | Pengaturan | Tetapan | 设置  | 設定  |
 | android, iOS, Desktop | Share | Share | Bagikan | Berkongsi | 分享  | 共有  |
 | Desktop | share_apps | Shared Apps |     |     | 分享的应用 |     |
@@ -1245,7 +1245,7 @@
 | android | wallet_already_shown | %1$s has been shown | %1$s telah ditampilkan | %1$s telah ditunjukkan | 已显示 %1$s | %1$sが表示されました |
 | android | wallet_biometric_invalid | Invalid biometrics state, please reset in wallet setting. | Status biometrik tidak valid, harap reset pada pengaturan wallet. | Keadaan biometrik tidak sah, sila tetapkan semula dalam tetapan dompet. | 生物识别失效，请重新设置。 | 生体認証が無効です。ウォレット設定からリセットしてください。 |
 | android | wallet_biometric_screen_lock_desc | Use your device pattern to continue | Gunakan pola perangkat Anda untuk melanjutkan | Gunakan corak peranti anda untuk meneruskan | 请解锁您的设备以继续 | パターンを使用して続ける |
-| iOS | wallet_enable_biometric_pay | Once enabled, %@ can be used to make quick transfers |     |     | 开启后，转账时可验证%@快速完成付款。 | 一度有効にすると%@を使ってスムーズに送金できます |
+| iOS | wallet_enable_biometric_pay | Once enabled, %@ can be used to make quick transfers. |     |     | 开启后，转账时可验证%@快速完成付款。 | 一度有効にすると%@を使ってスムーズに送金できます |
 | android | wallet_enable_biometric_pay_prompt | Once enabled, biometrics can be used to make quick transfers |     | Setelah dibolehkan, biometrik dapat digunakan untuk melakukan pemindahan cepat | 开启后，转账时可验证生物识别快速完成付款 | 支払い時の生体認証を有効にします |
 | iOS | wallet_hide_asset_confirmation | Are you sure you want to hide %@? |     |     | 您确定要隐藏%@吗？ | 本当に%@を隠しますか? |
 | android | wallet_password_change_tip | Please enter the 6 digit PIN to verify. | Harap masukkan PIN 6 digit untuk memverifikasi. | Sila masukkan PIN 6 digit untuk mengesahkan. | 请输入6位 PIN 来验证 | 認証するために6桁のPINを入力してください。 |
