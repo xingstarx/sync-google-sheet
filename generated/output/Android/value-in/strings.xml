@@ -527,7 +527,7 @@
 	<string name="Retry">COBA LAGI</string>
 	<string name="Retry_upload_failed">Unggahan ulang gagal.</string>
 	<string name="Revoke_access">Cabut akses</string>
-	<string name="Revoke_access_with">Cabut akses %1$s?</string>
+	<string name="setting_revoke_confirmation">Cabut akses %1$s?</string>
 	<string name="Revoke_multisig_transaction">Cabut Transaksi Multisig</string>
 	<string name="Saturday">Sabtu</string>
 	<string name="Save">Simpan</string>

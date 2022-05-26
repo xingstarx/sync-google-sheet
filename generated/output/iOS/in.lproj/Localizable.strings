@@ -644,7 +644,7 @@
 "restoring" = "Restoring...";
 "restoring_progress" = "Restoring %@";
 "revoke_access" = "Cabut akses";
-"revoke_access_with" = "Cabut akses %@?";
+"setting_revoke_confirmation" = "Cabut akses %@?";
 "revoke_multisig_transaction" = "Cabut Transaksi Multisig";
 "room_is_full" = "Room is full";
 "save" = "Simpan";

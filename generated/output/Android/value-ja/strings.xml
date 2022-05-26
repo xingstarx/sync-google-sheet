@@ -622,7 +622,7 @@
 	<string name="Retry">リトライ</string>
 	<string name="Retry_upload_failed">アップロードの再試行に失敗しました。</string>
 	<string name="Revoke_access">アクセスを取り消す</string>
-	<string name="Revoke_access_with">アクセス%1$sを取り消しますか？</string>
+	<string name="setting_revoke_confirmation">アクセス%1$sを取り消しますか？</string>
 	<string name="Revoke_multisig_transaction">マルチシグトランザクションを取り消す</string>
 	<string name="Saturday">土曜日</string>
 	<string name="Save">保存</string>

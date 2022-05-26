@@ -566,7 +566,7 @@
 	<string name="Retry">CUBA SEMULA</string>
 	<string name="Retry_upload_failed">Gagal memuat naik semula.</string>
 	<string name="Revoke_access">Batal akses</string>
-	<string name="Revoke_access_with">Batalkan akses %1$s?</string>
+	<string name="setting_revoke_confirmation">Batalkan akses %1$s?</string>
 	<string name="Revoke_multisig_transaction">Batalkan Urus Niaga Multisig</string>
 	<string name="Saturday">Sabtu</string>
 	<string name="Save">Jimat</string>

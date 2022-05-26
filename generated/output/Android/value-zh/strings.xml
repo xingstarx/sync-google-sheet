@@ -212,7 +212,7 @@
 	<string name="Combine_and_forward">合并转发</string>
 	<string name="Confirm">确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
-	<string name="Confirm_PIN">确认密码</string>
+	<string name="Confirm_PIN">确认 PIN</string>
 	<string name="Connecting">正在连接</string>
 	<string name="Connection_unstable">当前通话网络不佳</string>
 	<string name="Contact">联系人</string>
@@ -361,7 +361,7 @@
 	<string name="error_invalid_address_plain">错误 %1$d：地址格式错误。</string>
 	<string name="error_invalid_code_too_frequent">错误 %1$d：发送验证码太频繁，请稍后再试</string>
 	<string name="error_invalid_emergency_contact">错误 %1$d：紧急联系人不正确</string>
-	<string name="error_invalid_pin_format">错误 %1$d：无效密码格式</string>
+	<string name="error_invalid_pin_format">错误 %1$d：PIN 格式不正确</string>
 	<string name="error_memo_too_long">Memo字符超长，最多为200</string>
 	<string name="error_not_found">错误 %1$d：没有找到相应的信息</string>
 	<string name="error_not_supported_audio_format">不支持的音频格式，请用其他app打开。</string>
@@ -426,7 +426,7 @@
 	<string name="Forward_message">转发消息</string>
 	<string name="Forward_success">转发成功</string>
 	<string name="Forward_to_friend">转发给好友</string>
-	<string name="fourth_pin_confirm_hint">这是最后一次确认 PIN，记住：密码丢失将永远无法找回！</string>
+	<string name="fourth_pin_confirm_hint">这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！</string>
 	<string name="Friday">星期五</string>
 	<string name="From">来自</string>
 	<string name="Get_a_new_wallet">创建钱包</string>
@@ -632,7 +632,7 @@
 	<string name="pay_paid">此付款链接已由某人支付，您无法进行重复付款。</string>
 	<string name="Pay_with_Biometrics">用生物识别支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>
-	<string name="Pay_with_PIN_interval">支付 PIN 使用间隔</string>
+	<string name="Pay_with_PIN_interval">PIN 使用间隔</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d 区块确认数</item>
 		<item quantity="other">%1$d/%2$d 区块确认数</item>
@@ -726,7 +726,7 @@
 	<string name="Retry">重试</string>
 	<string name="Retry_upload_failed">重新上传失败。</string>
 	<string name="Revoke_access">取消授权</string>
-	<string name="Revoke_access_with">取消 %1$s 授权？</string>
+	<string name="setting_revoke_confirmation">取消 %1$s 的授权？</string>
 	<string name="Revoke_multisig_transaction">撤销多重签名交易</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>
@@ -790,7 +790,7 @@
 	<string name="setting_data_wifi">当连接到 Wi-Fi 时</string>
 	<string name="setting_delete_account_content_2">本地信息和备份不会被自动删除</string>
 	<string name="setting_delete_account_pin_content">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以了解更多。</string>
-	<string name="setting_delete_account_send">我们将发送4位验证码到手机 %1$s</string>
+	<string name="setting_delete_account_send">我们将发送 4 位验证码到手机 %1$s</string>
 	<string name="setting_delete_account_tip">你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。</string>
 	<string name="setting_desktop_confirm">确认登录 Mixin Messenger 桌面端</string>
 	<string name="setting_desktop_logout_failed">退出桌面端失败</string>
@@ -798,8 +798,8 @@
 	<string name="setting_emergency_change_mobile">立即修改手机号？</string>
 	<string name="setting_emergency_content">紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。</string>
 	<string name="setting_emergency_create_success">添加紧急联系人成功</string>
-	<string name="setting_emergency_desc">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读文档了解更多。</string>
-	<string name="setting_emergency_pin_tip">紧急联系人经支付 PIN 加密保护</string>
+	<string name="setting_emergency_desc">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档了解更多。</string>
+	<string name="setting_emergency_pin_tip">紧急联系人受 PIN 加密保护</string>
 	<string name="setting_emergency_send_code">请输入发送至以下 Mixin ID 的 4 位验证码：%1$s</string>
 	<string name="setting_emergency_set">设置紧急联系人</string>
 	<string name="setting_emergency_set_message">确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！</string>
@@ -871,7 +871,7 @@
 	<string name="TEXT_QR_CODE">文本二维码</string>
 	<string name="The_code_is_incorrect">验证码不正确</string>
 	<string name="Theme">主题</string>
-	<string name="third_pin_confirm_hint">很少看到第三次确认吧！所以请牢记，密码丢失是无法找回的。</string>
+	<string name="third_pin_confirm_hint">很少看到第三次确认吧！所以请牢记，PIN 丢失是无法找回的。</string>
 	<string name="This_message_was_deleted">此消息已撤回</string>
 	<string name="Thursday">星期四</string>
 	<string name="Time">时间</string>

@@ -741,7 +741,7 @@
 	<string name="Retry">Retry</string>
 	<string name="Retry_upload_failed">Retry upload failed.</string>
 	<string name="Revoke_access">Revoke access</string>
-	<string name="Revoke_access_with">Revoke access %1$s?</string>
+	<string name="setting_revoke_confirmation">Revoke access %1$s?</string>
 	<string name="Revoke_multisig_transaction">Revoke Multisig Transaction</string>
 	<string name="Saturday">Saturday</string>
 	<string name="Save">Save</string>

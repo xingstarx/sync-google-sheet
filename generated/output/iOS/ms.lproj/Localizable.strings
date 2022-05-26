@@ -645,7 +645,7 @@
 "restoring" = "Restoring...";
 "restoring_progress" = "Restoring %@";
 "revoke_access" = "Batal akses";
-"revoke_access_with" = "Batalkan akses %@?";
+"setting_revoke_confirmation" = "Batalkan akses %@?";
 "revoke_multisig_transaction" = "Batalkan Urus Niaga Multisig";
 "room_is_full" = "Room is full";
 "save" = "Jimat";
