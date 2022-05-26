@@ -829,6 +829,8 @@
 "use_touch_pay" = "使用指纹支付";
 "use_touch_withdraw" = "使用指纹提现";
 "user_is_reported" = "已举报";
+"pin_creation" = "创建 PIN";
+"your_pin_has_been_created" = "PIN 已创建";
 "user_not_found" = "找不到这个用户";
 "validation_timed_out" = "验证超时";
 "value_now" = "价值 %@";

@@ -829,6 +829,8 @@
 "use_touch_pay" = "Touch IDで支払う";
 "use_touch_withdraw" = "タッチ認証で出金する";
 "user_is_reported" = "報告しました。";
+"pin_creation" = "PIN creation";
+"your_pin_has_been_created" = "Your PIN has been created";
 "user_not_found" = "アップロード失敗";
 "validation_timed_out" = "認証時間切れ";
 "value_now" = "現在価格 %@";

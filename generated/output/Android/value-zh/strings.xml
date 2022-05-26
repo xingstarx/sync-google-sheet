@@ -944,6 +944,8 @@
 	<string name="Upload_Mobile_Contacts">上传通讯录找好友</string>
 	<string name="Upload_timeout">上传超时</string>
 	<string name="Use_Biometric_Multisig">使用生物识别签名</string>
+	<string name="pin_creation">创建 PIN</string>
+	<string name="your_pin_has_been_created">PIN 已创建</string>
 	<string name="User_not_found">找不到这个用户</string>
 	<string name="value_now">价值 %1$s</string>
 	<string name="value_then">当时价值 %1$s</string>

@@ -958,12 +958,14 @@
 	<string name="Update">Update</string>
 	<string name="update_downloaded">An update has just been downloaded.</string>
 	<string name="Update_Mixin">Update Mixin</string>
-	<string name="update_mixin_description">The current version (%1$s) is no longer avaliable!\nPlease click \"Update\" below to update to the latest version from the Google Play.</string>
+	<string name="update_mixin_description">The current version (%1$s) is no longer available!\nPlease click \"Update\" below to update to the latest version from the Google Play.</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
 	<string name="Upgrading">Upgrading</string>
 	<string name="Upload_Mobile_Contacts">Upload Mobile Contacts</string>
 	<string name="Upload_timeout">Upload timeout</string>
 	<string name="Use_Biometric_Multisig">Use Biometric Multisig</string>
+	<string name="pin_creation">PIN creation</string>
+	<string name="your_pin_has_been_created">Your PIN has been created</string>
 	<string name="User_not_found">User not found</string>
 	<string name="value_now">value now %1$s</string>
 	<string name="value_then">value then %1$s</string>

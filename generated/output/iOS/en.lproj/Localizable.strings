@@ -828,7 +828,9 @@
 "use_touch_multisig" = "Use Touch Multisig";
 "use_touch_pay" = "Use Touch Pay";
 "use_touch_withdraw" = "Use Touch Withdraw";
-"user_is_reported" = "User is reported";
+"user_is_reported" = "User has been reported";
+"pin_creation" = "PIN creation";
+"your_pin_has_been_created" = "Your PIN has been created";
 "user_not_found" = "User not found";
 "validation_timed_out" = "Validation timed out";
 "value_now" = "value now %@";
