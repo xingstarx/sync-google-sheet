@@ -58,22 +58,22 @@
 	<string name="alert_key_contact_transcript_message">分享一个聊天记录</string>
 	<string name="alert_key_contact_transfer_message">发送一笔转账</string>
 	<string name="alert_key_contact_video_message">发送一个视频</string>
-	<string name="alert_key_group_audio_invite_message">%1$s 邀请你进行语音通话</string>
-	<string name="alert_key_group_audio_message">%1$s 发送一条语音</string>
-	<string name="alert_key_group_contact_message">%1$s 分享了一个联系人</string>
-	<string name="alert_key_group_data_message">%1$s 发送一个文件</string>
-	<string name="alert_key_group_image_message">%1$s 发送一张照片</string>
-	<string name="alert_key_group_live_message">%1$s 发送一个直播</string>
-	<string name="alert_key_group_location_message">%1$s 发送一个位置</string>
-	<string name="alert_key_group_post_message">%1$s 发送一篇文章</string>
-	<string name="alert_key_group_sticker_message">%1$s 发送一张贴纸</string>
-	<string name="alert_key_group_text_message">%1$s 发送一条消息</string>
-	<string name="alert_key_group_transcript_message">%1$s 分享一个聊天记录</string>
-	<string name="alert_key_group_video_message">%1$s 发送一个视频</string>
+	<string name="alert_key_group_audio_invite_message">%1$s邀请你进行语音通话</string>
+	<string name="alert_key_group_audio_message">%1$s发送一条语音</string>
+	<string name="alert_key_group_contact_message">%1$s分享了一个联系人</string>
+	<string name="alert_key_group_data_message">%1$s发送一个文件</string>
+	<string name="alert_key_group_image_message">%1$s发送一张照片</string>
+	<string name="alert_key_group_live_message">%1$s发送一个直播</string>
+	<string name="alert_key_group_location_message">%1$s发送一个位置</string>
+	<string name="alert_key_group_post_message">%1$s发送一篇文章</string>
+	<string name="alert_key_group_sticker_message">%1$s发送一张贴纸</string>
+	<string name="alert_key_group_text_message">%1$s发送一条消息</string>
+	<string name="alert_key_group_transcript_message">%1$s分享一个聊天记录</string>
+	<string name="alert_key_group_video_message">%1$s发送一个视频</string>
 	<string name="All">全部</string>
 	<string name="All_Conversations">所有会话</string>
 	<string name="All_Media">全部</string>
-	<string name="All_Transactions">所有交易</string>
+	<string name="All_Transactions">所有交易记录</string>
 	<string name="Amount">金额</string>
 	<string name="an_audio">一条语音</string>
 	<string name="ANSWER">接听</string>
@@ -153,7 +153,7 @@
 	<string name="Change_Profile_Photo_with_Camera">更换头像（相机）</string>
 	<string name="Change_Profile_Photo_with_Library">更换头像（相册）</string>
 	<string name="Changed">已修改</string>
-	<string name="changed_disappearing_message_settings">%1$s 修改了限时消息设置</string>
+	<string name="changed_disappearing_message_settings">%1$s修改了限时消息设置</string>
 	<string name="Changing">正在修改…</string>
 	<string name="chat_bot_reception_title">点击按钮使用机器人</string>
 	<string name="chat_audio_discard_warning">你确定要停止并放弃录制的语音吗？</string>
@@ -196,7 +196,7 @@
 	<string name="circle_info">新建一个圈子可以过滤会话</string>
 	<string name="number_reached_limit">已达到上限</string>
 	<string name="circle_no_conversation_hint">您可以添加联系人或者群组到当前圈子</string>
-	<plurals name="circle_subtitle">
+	<plurals name="circle_subtitle" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 会话</item>
 		<item quantity="other">%1$d 会话</item>
 	</plurals>
@@ -216,18 +216,18 @@
 	<string name="Connecting">正在连接</string>
 	<string name="Connection_unstable">当前通话网络不佳</string>
 	<string name="Contact">联系人</string>
-	<plurals name="contact_count">
+	<plurals name="contact_count" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d位联系人</item>
 		<item quantity="other">%1$d位联系人</item>
 	</plurals>
 	<string name="Contact_Developer">联系开发者</string>
 	<string name="contact_empty_tip">Mixin 需要访问你的通讯录来帮助你更快找到你的朋友。</string>
-	<string name="contact_invite_content">我正在使用 Mixin 聊天。\n 下载：https://mixin.one</string>
-	<string name="contact_mixin_id">Mixin ID： %1$s</string>
-	<string name="contact_mobile">手机： %1$s</string>
+	<string name="contact_invite_content">我正在使用 Mixin 聊天。下载：https://mixin.one/messenger</string>
+	<string name="contact_mixin_id">Mixin ID：%1$s</string>
+	<string name="contact_mobile">手机：%1$s</string>
 	<string name="contact_mute_title">静音通知</string>
 	<string name="contact_new_group_chat_desc">创建一个最多支持 256 人的群</string>
-	<string name="contact_share_bots_title">%1$s 分享的机器人</string>
+	<string name="contact_share_bots_title">%1$s分享的机器人</string>
 	<string name="CONTACTS">联系人</string>
 	<string name="content_audio">[语音]</string>
 	<string name="content_contact">[联系人]</string>
@@ -282,7 +282,7 @@
 	<string name="Deposit">充值</string>
 	<string name="deposit_account_attention">注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。</string>
 	<string name="deposit_attention">首次充值建议小额尝试！</string>
-	<plurals name="deposit_confirmation">
+	<plurals name="deposit_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">充值到账需要 %1$d 个区块确认。</item>
 		<item quantity="other">充值到账需要 %1$d 个区块确认。</item>
 	</plurals>
@@ -374,7 +374,7 @@
 	<string name="error_phone_verification_code_invalid">错误 %1$d：验证码错误</string>
 	<string name="error_pin_check_too_many_request">你已经尝试了超过 5 次，请等待 24 小时后再次尝试。</string>
 	<string name="error_pin_incorrect">错误 %1$d：PIN 不正确</string>
-	<plurals name="error_pin_incorrect_with_times">
+	<plurals name="error_pin_incorrect_with_times" tools:ignore="UnusedQuantity">
 		<item quantity="one">错误 %1$d：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</item>
 		<item quantity="other">错误 %1$d：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</item>
 	</plurals>
@@ -456,7 +456,7 @@
 	<string name="Hidden_Assets">隐藏的资产</string>
 	<string name="Hide">隐藏</string>
 	<string name="hold_to_record_audio">长按说话，松手发送</string>
-	<plurals name="Hour">
+	<plurals name="Hour" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 小时</item>
 		<item quantity="other">%d 小时</item>
 	</plurals>
@@ -484,7 +484,7 @@
 	<string name="landing_enter_mobile_tip">我们不会公开你的手机号码</string>
 	<string name="landing_introduction">点击 \"同意并继续\" 接受 Mixin %1$s和%2$s</string>
 	<string name="landing_invitation_dialog_content">我们将发送4位验证码到手机 %1$s, 请在下一个页面输入</string>
-	<string name="landing_validation_title">请输入发送至以下号码的 4 位验证码： %1$s</string>
+	<string name="landing_validation_title">请输入发送至以下号码的 4 位验证码：%1$s</string>
 	<string name="Language">语言</string>
 	<string name="Large_Amount_Confirmation">大额转账确认</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大额转账确认（%1$s）</string>
@@ -537,7 +537,7 @@
 	<string name="Messages">消息</string>
 	<string name="Messaging_Node">消息节点</string>
 	<string name="Messaging_node_running">消息节点正在运行</string>
-	<plurals name="Minute">
+	<plurals name="Minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 分钟</item>
 		<item quantity="other">%d 分钟</item>
 	</plurals>
@@ -633,7 +633,7 @@
 	<string name="Pay_with_Biometrics">用生物识别支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>
 	<string name="Pay_with_PIN_interval">支付 PIN 使用间隔</string>
-	<plurals name="pending_confirmation">
+	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d 区块确认数</item>
 		<item quantity="other">%1$d/%2$d 区块确认数</item>
 	</plurals>
@@ -657,9 +657,9 @@
 	<string name="PIN_incorrect">PIN 错误</string>
 	<string name="pin_lost_hint">如果忘记，你的钱包将无法找回。</string>
 	<string name="pin_title">置顶</string>
-	<plurals name="pinned_message_title">
-		<item quantity="one">%1$d条置顶消息</item>
-		<item quantity="other">%1$d条置顶消息</item>
+	<plurals name="pinned_message_title" tools:ignore="UnusedQuantity">
+		<item quantity="one">%1$d 条置顶消息</item>
+		<item quantity="other">%1$d 条置顶消息</item>
 	</plurals>
 	<string name="Pinned_Messages">置顶消息</string>
 	<string name="Play">播放</string>
@@ -752,7 +752,7 @@
 	<string name="SEARCH_MESSAGES">搜索消息</string>
 	<string name="search_placeholder_asset">名称, 符号</string>
 	<string name="search_placeholder_number">搜索 Mixin ID 或手机号码：</string>
-	<plurals name="search_related_message">
+	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 条相关的消息</item>
 		<item quantity="other">%1$d 条相关的消息</item>
 	</plurals>
@@ -791,7 +791,7 @@
 	<string name="setting_delete_account_content_2">本地信息和备份不会被自动删除</string>
 	<string name="setting_delete_account_pin_content">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以了解更多。</string>
 	<string name="setting_delete_account_send">我们将发送4位验证码到手机 %1$s</string>
-	<string name="setting_delete_account_tip">你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被\n弃用无法找回。</string>
+	<string name="setting_delete_account_tip">你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。</string>
 	<string name="setting_desktop_confirm">确认登录 Mixin Messenger 桌面端</string>
 	<string name="setting_desktop_logout_failed">退出桌面端失败</string>
 	<string name="setting_duplicate_transfer_desc">当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。</string>
@@ -809,7 +809,7 @@
 	<string name="setting_mobile_contact_warning">确定删除已同步到 Mixin 服务器的通讯录？</string>
 	<string name="setting_notification_transfer_summary">收到不少于 %1$s 转账时显示通知。</string>
 	<string name="setting_privacy_tip">谁可以给你发消息或邀请你加入群聊。</string>
-	<plurals name="setting_storage_clear">
+	<plurals name="setting_storage_clear" tools:ignore="UnusedQuantity">
 		<item quantity="one">清除 %1$d 条消息（%2$s）？</item>
 		<item quantity="other">清除 %1$d 条消息（%2$s）？</item>
 	</plurals>
@@ -875,7 +875,7 @@
 	<string name="This_message_was_deleted">此消息已撤回</string>
 	<string name="Thursday">星期四</string>
 	<string name="Time">时间</string>
-	<plurals name="title_participants">
+	<plurals name="title_participants" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 成员</item>
 		<item quantity="other">%1$d 成员</item>
 	</plurals>
@@ -906,23 +906,23 @@
 	<string name="Type_message">输入消息</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤销</string>
-	<plurals name="unit_day">
+	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">天</item>
 		<item quantity="other">天</item>
 	</plurals>
-	<plurals name="unit_hour">
+	<plurals name="unit_hour" tools:ignore="UnusedQuantity">
 		<item quantity="one">小时</item>
 		<item quantity="other">小时</item>
 	</plurals>
-	<plurals name="unit_minute">
+	<plurals name="unit_minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">分</item>
 		<item quantity="other">分</item>
 	</plurals>
-	<plurals name="unit_second">
+	<plurals name="unit_second" tools:ignore="UnusedQuantity">
 		<item quantity="one">秒</item>
 		<item quantity="other">秒</item>
 	</plurals>
-	<plurals name="unit_week">
+	<plurals name="unit_week" tools:ignore="UnusedQuantity">
 		<item quantity="one">周</item>
 		<item quantity="other">周</item>
 	</plurals>
@@ -978,7 +978,7 @@
 	<string name="wallet_pin_modify_biometrics">请输入 PIN 来修改支付 PIN 使用间隔</string>
 	<string name="wallet_pin_open_biometrics">请输入 PIN 来启用生物识别支付</string>
 	<string name="wallet_pin_pay_interval_tips">为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时已然需要支付 PIN</string>
-	<string name="wallet_pin_tops_desc">注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，\n阅读文档以了解更多。</string>
+	<string name="wallet_pin_tops_desc">注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以了解更多。</string>
 	<string name="wallet_refresh_address_failed">手续费已变更且刷新失败，请重试。</string>
 	<string name="wallet_setting_currency_desc">%1$s（%2$s）</string>
 	<string name="wallet_transaction_continue_count_down">继续 （%1$d）</string>

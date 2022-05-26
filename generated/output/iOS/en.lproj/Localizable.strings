@@ -144,7 +144,7 @@
 "chat_call_duration" = "Duration %@";
 "chat_call_warning_voice" = "Can't record voice messages during a Mixin call.";
 "chat_decryption_failed" = "This message decryption failed, please upgrade Mixin to the latest version.";
-"chat_decryption_failed_hint" = "Waiting for %@ to get online and establish an encrypted session. ";
+"chat_decryption_failed_hint" = "Waiting for %@ to get online and establish an encrypted session.";
 "chat_group_add" = "%1$@ added %2$@";
 "chat_group_call_cancel" = "%@ has canceled group call";
 "chat_group_call_decline" = "%@ has declined group call";
@@ -160,7 +160,6 @@
 "chat_waiting" = "Waiting for %1$@ to get online and establish an encrypted session. %2$@.";
 "chats" = "CHATS";
 "choose_photo" = "Choose Photo";
-"circle_bottom" = "Create circle for different groups of chats and quickly switch between them";
 "circle_info" = "Create circles for different groups of chats and quickly switch between them";
 "number_reached_limit" = "The number has reached the limit";
 "circle_no_conversation_hint" = "You can add contacts or groups to the current circle";
@@ -190,7 +189,7 @@
 "contact_count" = "%d contact";
 "contact_count_count" = "%d contacts";
 "contact_developer" = "Contact Developer";
-"contact_invite_content" = "Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger .";
+"contact_invite_content" = "Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger";
 "contact_mixin_id" = "Mixin ID: %@";
 "contact_mobile" = "Mobile: %@";
 "contact_phone_contact_hint" = "Upload mobile contacts to find other Mixin friends.";
@@ -411,7 +410,7 @@
 "invalid_qr_code" = "Invalid QR-Code";
 "invalid_request_body" = "Invalid request body";
 "invalid_request_data" = "Invalid request data";
-"invalid_sdp" = "Invalid sdp";
+"invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
 "invite_info" = "Anyone with Mixin can follow this link to join this group. Only share it with people you trust.";
@@ -503,7 +502,7 @@
 "next" = "Next";
 "no_bot" = "NO BOT";
 "no_audio" = "NO AUDIO";
-"no_authorization" = "NO_AUTHORIZATION";
+"no_authorization" = "NO AUTHORIZATION";
 "no_blocked_user" = "No blocked user";
 "no_file" = "NO FILE";
 "no_hidden_asset" = "No hidden asset";
@@ -698,7 +697,7 @@
 "setting_conversation_tip" = "Who can send message to me";
 "setting_delete_account_pin_content" = "If you continue, your profile and account details will be delete on %@. read our document to Learn more.";
 "setting_delete_account_send" = "We will send a 4-digit code to %@";
-"setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be \n abandoned along with the wallet and cannot be recovered.";
+"setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.";
 "setting_desktop_confirm" = "Confirm login to Mixin Messenger Desktop";
 "setting_duplicate_transfer_desc" = "Display confirmation dialog when you transfer the same amount to the same person within 6 hours.";
 "setting_emergency_content" = "The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.";
@@ -719,8 +718,8 @@
 "share_contact" = "Share Contact";
 "share_link" = "Share Link";
 "share_log_file" = "Share Log File";
-"share_message_description" = "Are you sure you want to send a %2$@ from %1$@ ?";
-"share_message_description_empty" = "Are you sure you want to send the %@ ?";
+"share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
+"share_message_description_empty" = "Are you sure you want to send the %@?";
 "share_this_bot" = "Share This Bot";
 "share_to" = "Share To";
 "shared_media" = "Shared Media";

@@ -160,7 +160,6 @@
 "chat_waiting" = "%1$@が参加し暗号化セッションが開始するまで待機しています... %2$@.";
 "chats" = "チャット";
 "choose_photo" = "画像を選ぶ";
-"circle_bottom" = "チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう";
 "circle_info" = "最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう";
 "number_reached_limit" = "数が上限に達しました";
 "circle_no_conversation_hint" = "連絡先またはグループを\n現在のリストに追加できます。";
@@ -503,7 +502,7 @@
 "next" = "次へ";
 "no_bot" = "ロボがありません";
 "no_audio" = "音声がありません";
-"no_authorization" = "NO_AUTHORIZATION";
+"no_authorization" = "NO AUTHORIZATION";
 "no_blocked_user" = "ブロック済みのユーザーはいません";
 "no_file" = "ファイルがありません";
 "no_hidden_asset" = "非表示資産はありません";
@@ -719,8 +718,8 @@
 "share_contact" = "連絡先を共有";
 "share_link" = "リンクをシェアする";
 "share_log_file" = "記録ファイルを共有する";
-"share_message_description" = "Are you sure you want to send a %2$@ from %1$@ ?";
-"share_message_description_empty" = "Are you sure you want to send the %@ ?";
+"share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
+"share_message_description_empty" = "Are you sure you want to send the %@?";
 "share_this_bot" = "このアプリをシェアする";
 "share_to" = "共有する";
 "shared_media" = "写真や動画";

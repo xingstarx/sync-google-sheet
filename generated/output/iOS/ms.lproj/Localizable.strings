@@ -144,7 +144,7 @@
 "chat_call_duration" = "Tempoh: %@";
 "chat_call_warning_voice" = "Tidak dapat merakam mesej suara semasa panggilan Mixin.";
 "chat_decryption_failed" = "This message decryption failed, please upgrade Mixin to the latest version.";
-"chat_decryption_failed_hint" = "Waiting for %@ to get online and establish an encrypted session. ";
+"chat_decryption_failed_hint" = "Waiting for %@ to get online and establish an encrypted session.";
 "chat_group_add" = "%1$@ menambahkan %2$@";
 "chat_group_call_cancel" = "%@ telah membatalkan panggilan kumpulan";
 "chat_group_call_decline" = "%@ telah menolak panggilan kumpulan";
@@ -160,8 +160,6 @@
 "chat_waiting" = "Menunggu %1$@ untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$@.";
 "chats" = "SEMBANG";
 "choose_photo" = "Choose Photo";
-"circle_bottom" = "Buat lingkaran untuk kumpulan sembang yang berbeza 
-\ndan beralih antara mereka dengan segera";
 "circle_info" = "Sekiranya anda ingin menapis perbualan, sila
 \ntetapkan lingkaran untuk perbualan terlebih dahulu.";
 "number_reached_limit" = "Jumlahnya sudah mencapai had";
@@ -413,7 +411,7 @@
 "invalid_qr_code" = "Invalid QR-Code";
 "invalid_request_body" = "Invalid request body";
 "invalid_request_data" = "Invalid request data";
-"invalid_sdp" = "Invalid sdp";
+"invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
 "invite_info" = "Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai.";
@@ -700,7 +698,7 @@
 "setting_conversation_tip" = "Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya.";
 "setting_delete_account_pin_content" = "If you continue, your profile and account details will be delete on %@. read our document to Learn more.";
 "setting_delete_account_send" = "We will send a 4-digit code to %@";
-"setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be \n abandoned along with the wallet and cannot be recovered.";
+"setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.";
 "setting_desktop_confirm" = " Sahkan log masuk ke Desktop Mixin Messenger";
 "setting_duplicate_transfer_desc" = "Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam";
 "setting_emergency_content" = "Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda.";
