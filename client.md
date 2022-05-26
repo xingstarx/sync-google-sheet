@@ -15,7 +15,7 @@
 | android | about_version | Version %1$s | Versi %1$s | Versi %1$s | 版本 %1$s | 版本 %1$s |
 | android | Accept | Accept | Terima | Terima | 接听  |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
-| android, iOS | access_your_apps_list | access your apps list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的应用列表 | アプリリストへのアクセス |
+| android, iOS | access_your_bots_list | access your bots list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的机器人列表 | アプリリストへのアクセス |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
 | android, iOS | access_your_collectibles | access your collectibles |     |     | 访问你的 NFT 列表 | コレクションへのアクセス |
 | android, iOS | access_your_contacts_list | access your contacts list | mengakses daftar kontak Anda | akses senarai kenalan anda | 访问你的联系人列表 | 連絡先情報へのアクセス |
@@ -94,7 +94,7 @@
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 该卡片已被设置为不允许转发 | このカードを共有することはできません |
 | android | app_name | Mixin |     |     |     |     |
 | android, iOS | Bot_not_found | Bot not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
-| iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
+| iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. |     |     | 请从 App Store 更新 Mixin 至最新版 | Mixinをアップデートしてください |
 | iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
 | android | App_version | App version |     |     | 应用版本 | App version |
