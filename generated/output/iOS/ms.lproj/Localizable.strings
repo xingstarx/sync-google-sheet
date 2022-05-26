@@ -39,7 +39,7 @@
 "alert_key_contact_transcript_message" = "sent you an transcript";
 "alert_key_contact_transfer_message" = "menghantar pindahan kepada anda";
 "alert_key_contact_video_message" = "menghantar video kepada anda";
-"alert_key_group_audio_call_message" = "%@ invites you to a voice call";
+"alert_key_group_audio_invite_message" = "%@ invites you to a voice call";
 "alert_key_group_audio_message" = "%@ hantarkan audio";
 "alert_key_group_contact_message" = "%@ berkongsi kenalan";
 "alert_key_group_data_message" = "%@ hantar fail";
@@ -51,6 +51,9 @@
 "alert_key_group_text_message" = "%@ hantar mesej";
 "alert_key_group_transcript_message" = "%@ sent a transcript";
 "alert_key_group_video_message" = "%@ hantar video";
+"alert_key_contact_message" = "sent you a message";
+"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
+"alert_key_group_message" = "%@ sent a message";
 "all" = "Semua";
 "all_conversations" = "Semua Perbualan";
 "all_photos" = "All Photos";
@@ -58,7 +61,7 @@
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Jumlah";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
-"app_not_found" = "Aplikasi tidak dijumpai";
+"bot_not_found" = "Aplikasi tidak dijumpai";
 "app_pin_hint" = "You can long press and drag the frequently used robots here to display them on the home";
 "app_update_short_hint" = "Please update Mixin from App Store to continue use the service.";
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
@@ -175,7 +178,7 @@
 "cleared" = "Cleared";
 "clock_skew_hint" = "Please continue to use again after correction. Settings > General > Date & Time > Turn on Set Automatically";
 "close" = "Close";
-"code" = "Code";
+"currency_code" = "Code";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Combine and forward";
 "compress_database" = "Compress Database";
@@ -435,6 +438,7 @@
 "link_recognition_failure" = "Link recognition failure";
 "live" = "Langsung";
 "live_shareable_false" = "The live has been set to not allow sharing";
+"link_shareable_false" = "The link has been set to not allow sharing";
 "live_stream" = "live stream";
 "loading" = "Loading...";
 "locating" = "Locating...";
@@ -499,7 +503,7 @@
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "news" = "News";
 "next" = "Seterusnya";
-"no_app" = "TIADA APLIKASI";
+"no_bot" = "TIADA APLIKASI";
 "no_audio" = "TIADA AUDIO";
 "no_authorization" = "Tiada aplikasi autentik";
 "no_blocked_user" = "Tiada pengguna yang disekat";
@@ -604,7 +608,7 @@
 "qr_code" = "kod QR";
 "qr_code_not_found" = "Kod Qr tidak dijumpai";
 "raw" = "Mentah";
-"read_apps" = "Aplikasi baca";
+"read_bots" = "Aplikasi baca";
 "read_assets" = "Baca Aset";
 "read_circles" = "Lingkaran Baca";
 "read_collectibles" = "Read Collectibles";
@@ -621,7 +625,7 @@
 "reload" = "Muat semula";
 "remove_all" = "Keluarkan semua";
 "remove_all_floats" = "Alih keluar semua apungan?";
-"remove_app_hint" = "Remove app? Chat history will remain on your device";
+"remove_bot_hint" = "Remove bot? Chat history will remain on your device";
 "remove_bot" = "Keluarkan Bot";
 "remove_contact" = "Buang kenalan";
 "remove_contact_hint" = "Remove friend? Chat history will remain on your device";
@@ -635,9 +639,7 @@
 "report_and_block" = "Report and block?";
 "report_title" = "Send the conversation log to developers?";
 "represent_messages" = "Wakilkan Mesej";
-"resend_cod_ in" = "Resend code in %@";
 "resend_code" = "Hantar semula kod";
-"resend_code_in" = "Hantar semula kod dalam %d s";
 "resend_code_pending" = "Hantar semula kod dalam %d s";
 "reset_link" = "Reset Link";
 "restore" = "Restore";
@@ -739,7 +741,6 @@
 "started_group_call" = "%@ has started a group call";
 "status" = "Status";
 "sticker" = "Pelekat";
-"sticker_add_invalid_size" = "Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px.";
 "sticker_add_requirements" = "Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.";
 "sticker_store" = "Sticker Store";
 "stickers_count" = "%d stickers";
@@ -838,7 +839,6 @@
 "verify_pin" = "Sahkan PIN";
 "version_update" = "Kemas kini Versi";
 "video" = "Video";
-"video_saved" = "Video saved.";
 "videos" = "Video";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "Lihat kenalan kecemasan";

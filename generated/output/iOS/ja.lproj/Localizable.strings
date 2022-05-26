@@ -39,7 +39,7 @@
 "alert_key_contact_transcript_message" = "メッセージ履歴が共有されました";
 "alert_key_contact_transfer_message" = "送金が届きました";
 "alert_key_contact_video_message" = "動画が届きました";
-"alert_key_group_audio_call_message" = "%@秒後にコードを再送する";
+"alert_key_group_audio_invite_message" = "%@秒後にコードを再送する";
 "alert_key_group_audio_message" = "%@が音声を送信しました";
 "alert_key_group_contact_message" = "%@が連絡先を送信しました";
 "alert_key_group_data_message" = "%@がファイルを送信しました";
@@ -51,6 +51,9 @@
 "alert_key_group_text_message" = "%@がメッセージを送信しました";
 "alert_key_group_transcript_message" = "%@がメッセージ履歴を共有しました";
 "alert_key_group_video_message" = "%@が動画を送信しました";
+"alert_key_contact_message" = "sent you a message";
+"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
+"alert_key_group_message" = "%@ sent a message";
 "all" = "すべて";
 "all_conversations" = "すべてのチャット";
 "all_photos" = "すべての画像";
@@ -58,7 +61,7 @@
 "allow_manual_report_message" = "マニュアル報告を許可する";
 "amount" = "数量";
 "app_card_shareable_false" = "このカードを共有することはできません";
-"app_not_found" = "アプリが見つかりません";
+"bot_not_found" = "アプリが見つかりません";
 "app_pin_hint" = "よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます";
 "app_update_short_hint" = "Mixinをアップデートしてください";
 "app_update_tips" = "(%@) \"Update\" AppStoreで新しいバージョンを入手してください。";
@@ -173,7 +176,7 @@
 "cleared" = "クリア";
 "clock_skew_hint" = "設定を変更してください。 設定 > 一般 > 日付と時刻 > 自動設定をオン";
 "close" = "閉じる";
-"code" = "コード";
+"currency_code" = "コード";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "転送を結合する";
 "compress_database" = "データの圧縮";
@@ -433,6 +436,7 @@
 "link_recognition_failure" = "リンクの認識に失敗しました";
 "live" = "ライブ配信";
 "live_shareable_false" = "このライブ配信を共有することはできません";
+"link_shareable_false" = "The link has been set to not allow sharing";
 "live_stream" = "ライブ";
 "loading" = "ロード中...";
 "locating" = "位置情報を検索中...";
@@ -497,7 +501,7 @@
 "new_wallet_hint" = "簡単に仮想通貨をやり取りできるウォレットを作成しよう！";
 "news" = "ニュース";
 "next" = "次へ";
-"no_app" = "ロボがありません";
+"no_bot" = "ロボがありません";
 "no_audio" = "音声がありません";
 "no_authorization" = "NO_AUTHORIZATION";
 "no_blocked_user" = "ブロック済みのユーザーはいません";
@@ -602,7 +606,7 @@
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QRコードが見つかりません";
 "raw" = "その他";
-"read_apps" = "アプリを読み取る";
+"read_bots" = "アプリを読み取る";
 "read_assets" = "ウォレット機能連携";
 "read_circles" = "リストの識別";
 "read_collectibles" = "コレクションを読む";
@@ -619,7 +623,7 @@
 "reload" = "リロード";
 "remove_all" = "全部クリア";
 "remove_all_floats" = "Floatを全部クリアしますか？";
-"remove_app_hint" = "アプリを削除しますか? トーク履歴はデバイスから削除されません";
+"remove_bot_hint" = "アプリを削除しますか? トーク履歴はデバイスから削除されません";
 "remove_bot" = "Myロボから削除";
 "remove_contact" = "連絡先を削除";
 "remove_contact_hint" = "友達を削除しますか? トーク履歴はデバイスから削除されません";
@@ -633,9 +637,7 @@
 "report_and_block" = "報告してブロックしますか?";
 "report_title" = "Mixinの開発者へ会話記録を送信しますか?";
 "represent_messages" = "ロボからの通知";
-"resend_cod_ in" = "%@秒後にコードを再送する";
 "resend_code" = "コードを再送する";
-"resend_code_in" = "%d秒後にコードを再送";
 "resend_code_pending" = "%@ 後にコードを再送";
 "reset_link" = "リンクを取り消す";
 "restore" = "復元";
@@ -737,7 +739,6 @@
 "started_group_call" = "%@がグループ通話を開始しました";
 "status" = "ステータス";
 "sticker" = "スタンプ";
-"sticker_add_invalid_size" = "スタンプのサイズは1K以上800KB未満、 幅と高さは64から512ピクセルである必要があります";
 "sticker_add_requirements" = "Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.";
 "sticker_store" = "ステッカーストア";
 "stickers_count" = "%d stickers";
@@ -836,7 +837,6 @@
 "verify_pin" = "認証中...";
 "version_update" = "Version Update";
 "video" = "動画";
-"video_saved" = "動画が保存されました";
 "videos" = "動画";
 "view_authorization" = "みる";
 "view_emergency_contact" = "緊急連絡先を確認";

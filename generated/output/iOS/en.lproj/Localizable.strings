@@ -39,7 +39,7 @@
 "alert_key_contact_transcript_message" = "sent you an transcript";
 "alert_key_contact_transfer_message" = "sent you a transfer";
 "alert_key_contact_video_message" = "sent you a video";
-"alert_key_group_audio_call_message" = "%@ invites you to a voice call";
+"alert_key_group_audio_invite_message" = "%@ invites you to a voice call";
 "alert_key_group_audio_message" = "%@ sent an audio";
 "alert_key_group_contact_message" = "%@ sent a contact";
 "alert_key_group_data_message" = "%@ sent a file";
@@ -51,6 +51,9 @@
 "alert_key_group_text_message" = "%@ sent a message";
 "alert_key_group_transcript_message" = "%@ sent a transcript";
 "alert_key_group_video_message" = "%@ sent a video";
+"alert_key_contact_message" = "sent you a message";
+"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
+"alert_key_group_message" = "%@ sent a message";
 "all" = "All";
 "all_conversations" = "All Conversations";
 "all_photos" = "All Photos";
@@ -58,7 +61,7 @@
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Amount";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
-"app_not_found" = "App not found";
+"bot_not_found" = "Bot not found";
 "app_pin_hint" = "You can long press and drag the frequently used robots here to display them on the home";
 "app_update_short_hint" = "Please update Mixin from App Store to continue use the service.";
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
@@ -157,7 +160,7 @@
 "chat_waiting" = "Waiting for %1$@ to get online and establish an encrypted session. %2$@.";
 "chats" = "CHATS";
 "choose_photo" = "Choose Photo";
-"circle_bottom" = "Create circle for different  groups of chats and quickly switch between them";
+"circle_bottom" = "Create circle for different groups of chats and quickly switch between them";
 "circle_info" = "Create circles for different groups of chats and quickly switch between them";
 "number_reached_limit" = "The number has reached the limit";
 "circle_no_conversation_hint" = "You can add contacts or groups to the current circle";
@@ -173,7 +176,7 @@
 "cleared" = "Cleared";
 "clock_skew_hint" = "Please continue to use again after correction. Settings > General > Date & Time > Turn on Set Automatically";
 "close" = "Close";
-"code" = "Code";
+"currency_code" = "Code";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Combine and forward";
 "compress_database" = "Compress Database";
@@ -433,6 +436,7 @@
 "link_recognition_failure" = "Link recognition failure";
 "live" = "Live";
 "live_shareable_false" = "The live has been set to not allow sharing";
+"link_shareable_false" = "The link has been set to not allow sharing";
 "live_stream" = "live stream";
 "loading" = "Loading...";
 "locating" = "Locating...";
@@ -497,7 +501,7 @@
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "news" = "News";
 "next" = "Next";
-"no_app" = "NO APP";
+"no_bot" = "NO BOT";
 "no_audio" = "NO AUDIO";
 "no_authorization" = "NO_AUTHORIZATION";
 "no_blocked_user" = "No blocked user";
@@ -602,7 +606,7 @@
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QR Code not found";
 "raw" = "Raw";
-"read_apps" = "Read Apps";
+"read_bots" = "Read Bots";
 "read_assets" = "Read Assets";
 "read_circles" = "Read Circles";
 "read_collectibles" = "Read Collectibles";
@@ -619,7 +623,7 @@
 "reload" = "Reload";
 "remove_all" = "Remove All";
 "remove_all_floats" = "Remove all floats?";
-"remove_app_hint" = "Remove app? Chat history will remain on your device";
+"remove_bot_hint" = "Remove bot? Chat history will remain on your device";
 "remove_bot" = "Remove Bot";
 "remove_contact" = "Remove Contact";
 "remove_contact_hint" = "Remove friend? Chat history will remain on your device";
@@ -633,9 +637,7 @@
 "report_and_block" = "Report and block?";
 "report_title" = "Send the conversation log to developers?";
 "represent_messages" = "Represent Messages";
-"resend_cod_ in" = "Resend code in %@";
 "resend_code" = "Resend code";
-"resend_code_in" = "Resend code in %d s";
 "resend_code_pending" = "Resend code in %@";
 "reset_link" = "Reset Link";
 "restore" = "Restore";
@@ -737,7 +739,6 @@
 "started_group_call" = "%@ has started a group call";
 "status" = "Status";
 "sticker" = "Sticker";
-"sticker_add_invalid_size" = "Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px.";
 "sticker_add_requirements" = "Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.";
 "sticker_store" = "Sticker Store";
 "stickers_count" = "%d stickers";
@@ -836,7 +837,6 @@
 "verify_pin" = "Verify PIN";
 "version_update" = "Version Update";
 "video" = "Video";
-"video_saved" = "Video saved.";
 "videos" = "Videos";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "View emergency contact";
@@ -854,7 +854,7 @@
 "wallet_pin_tops_desc" = "Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "wallet_refresh_address_failed" = "The withdrawal fee has been changed and the refresh fails, please try again.";
 "wallet_transaction_continue_count_down" = "Continue (%d)";
-"wallet_transaction_tip" = "Are you sure you want to transfer %3$@ worth %2$@ to %1$@ ？";
+"wallet_transaction_tip" = "Are you sure you want to transfer %3$@ worth %2$@ to %1$@?";
 "wallet_transactions_asset_key_warning" = "Asset key is NOT a deposit address!";
 "wallet_transfer_recent_tip" = "You have already transferred %3$@ to %2$@ %1$@ ago. Do you want to transfer it again?";
 "wallet_withdrawal_changed" = "The withdrawal fee has been changed from %1$@ to %2$@, would you like to proceed  with the request?";
