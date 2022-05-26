@@ -688,9 +688,9 @@
 | android, iOS | Lost_your_mobile_number | Lost your mobile number? | Kehilangan nomor ponsel Anda? | Kehilangan nombor telefon bimbit anda? | 手机丢失？ | 電話番号をお忘れですか？ |
 | android, iOS, Desktop | Make_group_admin | Make group admin | Jadikan admin grup | Buat pentadbir kumpulan | 设定为群组管理员 | サブリーダー権限を付与 |
 | iOS | Manage | Manage |     |     | 管理  | 管理  |
-| android, iOS | manage_all_your_apps | mange all your apps | mengelola semua aplikasi Anda | urus semua aplikasi anda | 管理你所有的应用 | 全アプリの管理 |
+| android, iOS | manage_all_your_bots | mange all your bots | mengelola semua aplikasi Anda | urus semua aplikasi anda | 管理你所有的机器人 | 全アプリの管理 |
 | android, iOS | manage_all_your_circles | manage all your circles |     | urus semua lingkaran anda | 管理你所有的圈子 | リストの編集 |
-| android, iOS | Manage_Apps | Manage Apps | Mengelola Aplikasi | Urus Aplikasi | 管理应用 | アプリの管理 |
+| android, iOS | Manage_Bots | Manage Bots | Mengelola Aplikasi | Urus Aplikasi | 管理机器人 | アプリの管理 |
 | android | Manager_Sticker | Manager Sticker | Stiker Manajer | Pengurus Pelekat | 管理贴纸 | スタンプ管理 |
 | android | Manufacturer | Manufacturer |     |     | 生产商 | Manufacturer |
 | android | Mark_as_read | Mark as read | Tandai sudah dibaca | tanda sebagai telah dibaca | 标记为已读 | 既読  |
@@ -735,7 +735,7 @@
 | android, iOS | My_Contacts | My Contacts | Kontak Saya | Kenalan Saya | 我的联系人 | 友だち限定 |
 | android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID：%1$s |     |
 | android, iOS | My_QR_Code | My QR Code | Kode QR saya | Kod QR saya | 我的二维码 | マイQRコード |
-| android, iOS | My_shared_apps | My shared apps | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的应用 | おすすめロボをプロフィールに追加 |
+| android, iOS | My_shared_bots | My shared bots | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的机器人 | おすすめロボをプロフィールに追加 |
 | android, iOS, Desktop | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
 | android, iOS, Desktop | NA  | N/A | N/A | N/A | 暂无价格 | なし  |
 | android, iOS, Desktop | Name | Name | Nama | Nama | 名称  | 名前  |
@@ -892,7 +892,7 @@
 | android, iOS, Desktop | Privacy_Policy | Privacy Policy | Kebijakan Privasi | Dasar Privasi | 隐私政策 | プライバシーポリシー |
 | android | profile_modify_number | Do you want to change your phone number? | Ingin mengubah nomor telepon Anda? | Adakah anda mahu menukar nombor telefon anda? | 你想要修改手机号码么？ | 電話番号を変更しますか? |
 | android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
-| android, iOS | profile_share_app_hint | If you want to share an app, add it to your contacts first |     |     | 如果您希望分享应用，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
+| android, iOS | profile_share_bot_hint | If you want to share a bot, add it to your contacts first |     |     | 如果您希望分享机器人，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
 | iOS | protect_setting_security_hint | Confirm PIN to protect your settings security. |     |     | 确认钱包密码保护设置安全 | 設定を変更するためPINを入力してください |
 | android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料（必须） | プロフィール |
 | android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
@@ -1074,7 +1074,7 @@
 | android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s ? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
 | android, iOS | share_message_description_empty | Are you sure you want to send the %1$s ? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
 | android | Share_QR_Code | Share QR Code |     |     | 分享二维码 | QRコードを共有 |
-| android, iOS | Share_This_App | Share This App |     | Kongsi Aplikasi Ini | 分享应用 | このアプリをシェアする |
+| android, iOS | Share_This_Bot | Share This Bot |     | Kongsi Aplikasi Ini | 分享机器人 | このアプリをシェアする |
 | android | share_to | Share %1$s to… | Bagikan %1$s ke… | Kongsi %1$s ke… | 分享%1$s到… | %1$sをシェアする |
 | iOS | Share_To | Share To |     |     | 分享给 | 共有する |
 | android, iOS, Desktop | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
