@@ -274,7 +274,7 @@
 | iOS | Compressed | Compressed |     |     | 已压缩 | 圧縮しました |
 | android, iOS, Desktop | Confirm | Confirm | Konfirmasi | Sahkan | 确认  | 許可する |
 | android | Confirm_fingerprint | Confirm fingerprint |     |     | 确认指纹 | 指紋認証の確認 |
-| android | Confirm_PIN | Confirm PIN | Konfirmasikan PIN | Sahkan PIN | 确认密码 | PINを確認 |
+| android | Confirm_PIN | Confirm PIN | Konfirmasikan PIN | Sahkan PIN | 确认 PIN | PINを確認 |
 | iOS | Connected | Connected |     |     | 已连接 | 接続済 |
 | android, iOS | Connecting | Connecting | Menyambungkan | Menyambung | 正在连接 | 接続中 |
 | android, iOS | Connection_unstable | Connection unstable |     |     | 当前通话网络不佳 | 権限不足です |
@@ -440,11 +440,11 @@
 | android | Enable_after_30_minutes | Enabled after 30 minutes |     |     | 在 30 分钟后启动 | 30分後に有効化する |
 | android | Enable_db_debug | Enable db debug |     | Bolehkan nyahpepijat db | 已开启 db 调试 | Enable db debug |
 | android, iOS | Enable_Emergency_Contact | Enable Emergency Contact | Aktifkan Kontak Darurat | Bolehkan Kenalan Kecemasan | 启用紧急联系人 | 緊急連絡先を有効にする |
-| iOS | enable_face_pay_hint | Confirm PIN to enable Face Pay |     |     | 确认钱包密码启用面容支付 | PINを確認してFace IDを利用可能にしてください |
+| iOS | enable_face_pay_hint | Confirm PIN to enable Face Pay |     |     | 输入 PIN 启用面容支付 | PINを確認してFace IDを利用可能にしてください |
 | android | Enable_immediately | Enabled immediately |     |     | 立即启动 | すぐに有効化する |
 | iOS | enable_pay | Enable %@ Pay |     |     | 启用%@支付 | %@の支払いを有効化 |
 | iOS | enable_pay_confirmation | Enable %@ Pay? |     |     | 启用%@支付？ | %@の支払いを有効化しますか？ |
-| iOS | enable_touch_pay_hint | Confirm PIN to enable Touch Pay |     |     | 确认钱包密码启用指纹支付 | PINを確認してTouch IDを利用可能にしてください |
+| iOS | enable_touch_pay_hint | Confirm PIN to enable Touch Pay |     |     | 输入 PIN 启用指纹支付 | PINを確認してTouch IDを利用可能にしてください |
 | android | Enable_web_debug | Enable web debug |     | Bolehkan laman web nyahpepijat | 已开启 Web 调试 | Enable web debug |
 | android | Encrypted | Encrypted |     |     | 端到端加密 | 暗号化 |
 | android, iOS | End_to_End_Encryption | End-to-end Encrypted | Terenkripsi end-to-end | Disulitkan | 端到端加密 | エンドツーエンド暗号化 |
@@ -471,7 +471,7 @@
 | android, iOS, Desktop | error_invalid_address_plain | ERROR %1$d: Invalid address format. | KESALAHAN %1$d: Format alamat tidak valid. | RALAT %1$d: Format alamat tidak sah. | 错误 %1$d：地址格式错误。 | エラー%1$d：無効なアドレス形式です。 |
 | android, Desktop | error_invalid_code_too_frequent | ERROR %1$d: Send verification code too frequent, please try again later. | KESALAHAN %1$d: Terlalu sering mengirim kode verifikasi, coba lagi nanti. | RALAT %1$d: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | 错误 %1$d：发送验证码太频繁，请稍后再试 | エラー %1$d: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 |
 | android, iOS, Desktop | error_invalid_emergency_contact | ERROR %1$d: Invalid emergency contact | KESALAHAN %1$d: Kontak darurat tidak valid | RALAT %1$d: Kenalan kecemasan tidak sah | 错误 %1$d：紧急联系人不正确 | エラー %1$d: 緊急連絡先が無効です |
-| android, Desktop | error_invalid_pin_format | ERROR %1$d: Invalid PIN format.  | KESALAHAN %1$d: Format PIN tidak valid | RALAT %1$d: Format PIN tidak sah | 错误 %1$d：无效密码格式 | エラー %1$d: 無効なPINフォーマットです |
+| android, Desktop | error_invalid_pin_format | ERROR %1$d: Invalid PIN format.  | KESALAHAN %1$d: Format PIN tidak valid | RALAT %1$d: Format PIN tidak sah | 错误 %1$d：PIN 格式不正确 | エラー %1$d: 無効なPINフォーマットです |
 | android | error_memo_too_long | Memo has too many characters, maximum is 200 |     |     | Memo字符超长，最多为200 |     |
 | iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again |     |     | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |
 | android, iOS, Desktop | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
@@ -547,7 +547,7 @@
 | android | Forward_message | Forward message |     |     | 转发消息 | 転送メッセージ |
 | android | Forward_success | Forward success | Berhasil meneruskan | kejayaan hadapan | 转发成功 | 転送成功 |
 | android | Forward_to_friend | Forward to friend | Teruskan ke teman | Teruskan kepada rakan | 转发给好友 | 友達に転送する |
-| android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | 这是最后一次确认 PIN，记住：密码丢失将永远无法找回！ | 最終確認となります。もう一度PINを確認してください。PINを忘れた場合、復元はできません。 |
+| android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | 这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！ | 最終確認となります。もう一度PINを確認してください。PINを忘れた場合、復元はできません。 |
 | android | Friday | Friday | Jumat | Jumaat | 星期五 | 金曜日 |
 | android, iOS, Desktop | From | From |     |     | 来自  |     |
 | Desktop | from_with_colon | From:  |     |     | 来自：  |     |
@@ -830,7 +830,7 @@
 | iOS | Pay_with | Pay with %@ |     |     | %@支付 | %@で支払う |
 | android | Pay_with_Biometrics | Pay with Biometrics | Bayar dengan Biometrik | Bayar dengan Biometrik | 用生物识别支付 | 生体認証で支払う |
 | android, iOS | Pay_with_PIN | Pay with PIN | Bayar dengan PIN | Bayar dengan PIN | 用 PIN 支付 | PINで支払う |
-| android, iOS | Pay_with_PIN_interval | Pay with PIN interval | Bayar dengan interval PIN | Bayar dengan selang PIN | 支付 PIN 使用间隔 | PINコードの再確認間隔 |
+| android, iOS | Pay_with_PIN_interval | Pay with PIN interval | Bayar dengan interval PIN | Bayar dengan selang PIN | PIN 使用间隔 | PINコードの再確認間隔 |
 | iOS | Pay_withdrawal_memo | Amount %@ %@\nFee %@ %@ |     |     | 数量 %@ %@\n手续费 %@ %@ | 額 %@ %@\n手数料 %@ %@ |
 | iOS | Peer_closed | Peer closed |     |     | Peer 已关闭 | ピアが閉じています |
 | iOS | Peer_not_found | Peer not found |     |     | Peer 无效 | ピアが見つかりません |
@@ -893,7 +893,7 @@
 | android | profile_modify_number | Do you want to change your phone number? | Ingin mengubah nomor telepon Anda? | Adakah anda mahu menukar nombor telefon anda? | 你想要修改手机号码么？ | 電話番号を変更しますか? |
 | android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
 | android, iOS | profile_share_bot_hint | If you want to share a bot, add it to your contacts first |     |     | 如果您希望分享机器人，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
-| iOS | protect_setting_security_hint | Confirm PIN to protect your settings security. |     |     | 确认钱包密码保护设置安全 | 設定を変更するためPINを入力してください |
+| iOS | protect_setting_security_hint | Confirm PIN to protect your settings security. |     |     | 确认 PIN 保护设置安全 | 設定を変更するためPINを入力してください |
 | android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料（必须） | プロフィール |
 | android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
 | android | qr_code_camera_code | Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information. | Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya. | Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat. | 打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。 |     |
@@ -956,12 +956,12 @@
 | android | Retry | Retry | COBA LAGI | CUBA SEMULA | 重试  | リトライ |
 | android, Desktop | Retry_upload_failed | Retry upload failed. | Unggahan ulang gagal. | Gagal memuat naik semula. | 重新上传失败。 | アップロードの再試行に失敗しました。 |
 | android, iOS | Revoke_access | Revoke access | Cabut akses | Batal akses | 取消授权 | アクセスを取り消す |
-| android, iOS | Revoke_access_with | Revoke access %1$s? | Cabut akses %1$s? | Batalkan akses %1$s? | 取消 %1$s 授权？ | アクセス%1$sを取り消しますか？ |
+| android, iOS | setting_revoke_confirmation | Revoke access %1$s? | Cabut akses %1$s? | Batalkan akses %1$s? | 取消 %1$s 的授权？ | アクセス%1$sを取り消しますか？ |
 | android, iOS | Revoke_multisig_transaction | Revoke Multisig Transaction | Cabut Transaksi Multisig | Batalkan Urus Niaga Multisig | 撤销多重签名交易 | マルチシグトランザクションを取り消す |
 | iOS | Room_is_full | Room is full |     |     | 房间已满 | ルームが満員です |
 | android | Saturday | Saturday | Sabtu | Sabtu | 星期六 | 土曜日 |
 | android, iOS, Desktop | Save | Save | Simpan | Jimat | 保存  | 保存  |
-| iOS | Save_by_PIN | Save by PIN |     |     | 通过密码保存 | PINで保存 |
+| iOS | Save_by_PIN | Save by PIN |     |     | 通过 PIN 保存 | PINで保存 |
 | android | Save_failure | Save failure | Gagal menyimpan | Simpan kegagalan | 保存失败 | 保存失敗 |
 | android, iOS | Save_image | Save Image | Simpan Gambar | Menyimpan imej | 保存图片 | 画像を保存する |
 | android | Save_success | Save success | Berhasil menyimpan | Simpan kejayaan | 保存成功 | 保存成功 |
@@ -1039,7 +1039,7 @@
 | android | setting_data_wifi | When connected on Wi-Fi | Saat tersambung melalui Wi-Fi | Semasa disambungkan di Wi-Fi | 当连接到 Wi-Fi 时 | WiFi利用時 |
 | android | setting_delete_account_content_2 | Local messages and Backups will not be Deleted automatically |     |     | 本地信息和备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
 | android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to Learn more. |     |     | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以了解更多。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はドキュメントをご覧ください。 |
-| android, iOS | setting_delete_account_send | We will send a 4-digit code to %1$s |     |     | 我们将发送4位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |
+| android, iOS | setting_delete_account_send | We will send a 4-digit code to %1$s |     |     | 我们将发送 4 位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |
 | android, iOS | setting_delete_account_tip | Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered. |     |     | 你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。 | Mixinウォレット内に仮想通貨が残っています。アカウントを削除すると、仮想通貨を引き出すことができませんが、よろしいでしょうか？ |
 | android | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |     |     |
 | android, iOS | setting_desktop_confirm | Confirm login to Mixin Messenger Desktop | Konfirmasikan masuk ke Mixin Messenger Desktop |  Sahkan log masuk ke Desktop Mixin Messenger | 确认登录 Mixin Messenger 桌面端 | デスクトップ版Mixinへの\nログインを確認 |
@@ -1048,8 +1048,8 @@
 | android | setting_emergency_change_mobile | Do you want to change your mobile number now? | Ingin mengubah nomor ponsel Anda sekarang? | Adakah anda mahu menukar nombor telefon bimbit anda sekarang? | 立即修改手机号？ | 新しい電話番号の登録をしますか？ |
 | android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
 | android | setting_emergency_create_success | Create emergency contact successfully | Berhasil membuat kontak darurat | Buat kenalan kecemasan berjaya | 添加紧急联系人成功 | 緊急連絡先を作成しました |
-| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读文档了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
-| android, iOS | setting_emergency_pin_tip | Your emergency contact is protected by PIN | Kontak darurat Anda dilindungi dengan PIN | Kenalan kecemasan anda dilindungi oleh PIN | 紧急联系人经支付 PIN 加密保护 | あなたの緊急連絡先はPINにより保護されています。 |
+| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
+| android, iOS | setting_emergency_pin_tip | Your emergency contact is protected by PIN | Kontak darurat Anda dilindungi dengan PIN | Kenalan kecemasan anda dilindungi oleh PIN | 紧急联系人受 PIN 加密保护 | あなたの緊急連絡先はPINにより保護されています。 |
 | android, iOS | setting_emergency_send_code | Enter the 4-digit code sent to Mixin ID: %1$s | Masukkan kode 4 digit yang dikirim ke ID Mixin: %1$s | Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s | 请输入发送至以下 Mixin ID 的 4 位验证码：%1$s | 相手のMixinに送信された4桁のコードを入力してください：%1$s |
 | android | setting_emergency_set | Set emergency contact | Tetapkan kontak darurat | Tetapkan kenalan kecemasan | 设置紧急联系人 | 緊急連絡先を設定する |
 | android, iOS | setting_emergency_set_message | Confirm to set Mixin ID %1$s as your emergency contact? Please note that the other party must add you as a contact to set up successfully. | Konfirmasikan untuk menetapkan ID Mixin %1$s sebagai kontak darurat Anda? Harap perhatikan bahwa pihak lain harus menambahkan Anda sebagai kontak agar berhasil ditetapkan. | Sahkan untuk menetapkan Mixin ID %1$s sebagai kenalan kecemasan anda? Sila maklum bahawa pihak lain mesti menambahkan anda sebagai kenalan untuk berjaya disiapkan. | 确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！ | （Mixin ID %1$s）を緊急連絡先としてて設定しますか？緊急連絡先登録の設定は相互の友だち登録が必要です。 |
@@ -1135,7 +1135,7 @@
 | android, iOS | TEXT_QR_CODE | TEXT QR CODE | KODE QR TEKS | KOD QR TEKS | 文本二维码 | テキストQRコード |
 | android, iOS | The_code_is_incorrect | The code is incorrect. |     |     | 验证码不正确 | 入力したコードは正しくありません。 |
 | android, Desktop | Theme | Theme | Tema | Tema | 主题  | テーマ |
-| android, iOS | third_pin_confirm_hint | It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost. |     |     | 很少看到第三次确认吧！所以请牢记，密码丢失是无法找回的。 |     |
+| android, iOS | third_pin_confirm_hint | It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost. |     |     | 很少看到第三次确认吧！所以请牢记，PIN 丢失是无法找回的。 |     |
 | android, iOS, Desktop | This_message_was_deleted | This message was deleted | Pesan ini telah dihapus | Mesej ini telah dipadamkan | 此消息已撤回 | このメッセージは削除されています |
 | android | Thursday | Thursday | Kamis | Khamis | 星期四 | 木曜日 |
 | android, iOS, Desktop | Time | Time | Waktu | Masa | 时间  | 日時  |
@@ -1159,7 +1159,7 @@
 | android, iOS, Desktop | Transfer | Transfer | Transfer | Pindah | 转账  | 送金  |
 | android | Transfer_Amount | Transfer Amount | Jumlah Transfer | Jumlah Pindahan | 转账金额 | 送金数量 |
 | android, iOS | Transfer_Amount_count_down | Transfer Amount(%1$s) | Jumlah Transfer(%1$s) | Jumlah Pindahan(%1$s) | 转账金额（%1$s） | 通知金額(%1$s) |
-| iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. Please wait for 24 hours to retry later. |     |     | 错误 20119： 密码不正确。你还有 %@ 次机会尝试，使用完需等待 24 小时后再尝试。 | 間違っています。 |
+| iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. Please wait for 24 hours to retry later. |     |     | 错误 20119： PIN 不正确。你还有 %@ 次机会尝试，使用完需等待 24 小时后再尝试。 | 間違っています。 |
 | android, iOS | transfer_memo | Memo (optional) |     |     | 备注（可选） |     |
 | android, iOS | Transfer_Notifications | Transfer Notifications | Notifikasi Transfer | Pindahkan Pemberitahuan | 转账通知 | コインの受取通知 |
 | android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin |     |     | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |
@@ -1316,7 +1316,7 @@
 | android, iOS | You_have_left_the_group | You have left the group |     |     | 你不在此群组 | あなたはもうこのグループの参加者ではありません |
 | iOS | Your_emergency_contact_has_been_changed | Your emergency contact has been changed |     |     | 修改紧急联系人 | 緊急連絡先が変更されました |
 | iOS | Your_phone_number_has_been_changed | Your phone number has been changed |     |     | 更换手机号 | 電話番号が変更されました |
-| iOS | Your_PIN_has_been_changed | Your PIN has been changed |     |     | 修改密码 | PINが変更されました |
+| iOS | Your_PIN_has_been_changed | Your PIN has been changed |     |     | 修改 PIN | PINが変更されました |
 | Desktop | message_preview | Message Preview |     |     | 消息预览 |     |
 | Desktop | message_preview_description | Preview message text inside new message notifications. |     |     | 预览新消息通知中的消息文本。 |     |
 | Desktop | storage_auto_download_description | Change auto-download settings for medias. |     |     | 更改媒体的自动下载设置。 |     |
