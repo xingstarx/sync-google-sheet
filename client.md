@@ -202,7 +202,7 @@
 | android, iOS | Changed | Changed |     |     | 已修改 | 変更しました |
 | android, iOS | changed_disappearing_message_settings | %1$s changed disappearing message settings. |     |     | %1$s 修改了限时消息设置 |     |
 | android | Changing | Changing... | Mengubah… | Menukar… | 正在修改… | 変更中… |
-| android, iOS, Desktop | chat_app_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
+| android, iOS, Desktop | chat_bot_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | 你确定要停止并放弃录制的语音吗？ | 録音を中止し、ボイスメッセージを破棄してもよろしいですか？ |
 | android | chat_audio_discard_warning_title | Discard Voice message | Buang pesan Suara | Buang mesej Suara | 放弃录制语音 | ボイスメッセージを破棄する |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 |
@@ -290,7 +290,7 @@
 | android, Desktop | contact_mute_title | Mute notifications for… | Matikan notifikasi selama… | Senyapkan pemberitahuan untuk… | 静音通知 | 通知をミュート: |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | Buat obrolan grup dengan maksimal teman | Buat kumpulan sembang dengan sehingga rakan | 创建一个最多支持 256 人的群 | 256人までのグループチャットを作成 |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. |     |     | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |
-| android, iOS | contact_share_apps_title | %1$s's Shared Apps | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的应用 | %1$s\のシェアしたロボ |
+| android, iOS | contact_share_bots_title | %1$s's Shared Bots | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的机器人 | %1$s\のシェアしたロボ |
 | iOS | contact_title | Contacts |     |     | 联系人 | マイページ |
 | android, iOS, Desktop | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
 | android, iOS | content_audio | [Audio] | [Audio] | [Audio] | [语音] | [音声] |
