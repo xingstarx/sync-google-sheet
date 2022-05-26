@@ -15,7 +15,7 @@
 | android | about_version | Version %1$s | Versi %1$s | Versi %1$s | 版本 %1$s | 版本 %1$s |
 | android | Accept | Accept | Terima | Terima | 接听  |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
-| android, iOS | access_your_apps_list | access your apps list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的应用列表 | アプリリストへのアクセス |
+| android, iOS | access_your_bots_list | access your bots list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的机器人列表 | アプリリストへのアクセス |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
 | android, iOS | access_your_collectibles | access your collectibles |     |     | 访问你的 NFT 列表 | コレクションへのアクセス |
 | android, iOS | access_your_contacts_list | access your contacts list | mengakses daftar kontak Anda | akses senarai kenalan anda | 访问你的联系人列表 | 連絡先情報へのアクセス |
@@ -94,7 +94,7 @@
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 该卡片已被设置为不允许转发 | このカードを共有することはできません |
 | android | app_name | Mixin |     |     |     |     |
 | android, iOS | Bot_not_found | Bot not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
-| iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
+| iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. |     |     | 请从 App Store 更新 Mixin 至最新版 | Mixinをアップデートしてください |
 | iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
 | android | App_version | App version |     |     | 应用版本 | App version |
@@ -202,7 +202,7 @@
 | android, iOS | Changed | Changed |     |     | 已修改 | 変更しました |
 | android, iOS | changed_disappearing_message_settings | %1$s changed disappearing message settings. |     |     | %1$s 修改了限时消息设置 |     |
 | android | Changing | Changing... | Mengubah… | Menukar… | 正在修改… | 変更中… |
-| android, iOS, Desktop | chat_app_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
+| android, iOS, Desktop | chat_bot_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | 你确定要停止并放弃录制的语音吗？ | 録音を中止し、ボイスメッセージを破棄してもよろしいですか？ |
 | android | chat_audio_discard_warning_title | Discard Voice message | Buang pesan Suara | Buang mesej Suara | 放弃录制语音 | ボイスメッセージを破棄する |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 |
@@ -290,7 +290,7 @@
 | android, Desktop | contact_mute_title | Mute notifications for… | Matikan notifikasi selama… | Senyapkan pemberitahuan untuk… | 静音通知 | 通知をミュート: |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | Buat obrolan grup dengan maksimal teman | Buat kumpulan sembang dengan sehingga rakan | 创建一个最多支持 256 人的群 | 256人までのグループチャットを作成 |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. |     |     | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |
-| android, iOS | contact_share_apps_title | %1$s's Shared Apps | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的应用 | %1$s\のシェアしたロボ |
+| android, iOS | contact_share_bots_title | %1$s's Shared Bots | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的机器人 | %1$s\のシェアしたロボ |
 | iOS | contact_title | Contacts |     |     | 联系人 | マイページ |
 | android, iOS, Desktop | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
 | android, iOS | content_audio | [Audio] | [Audio] | [Audio] | [语音] | [音声] |
@@ -688,9 +688,9 @@
 | android, iOS | Lost_your_mobile_number | Lost your mobile number? | Kehilangan nomor ponsel Anda? | Kehilangan nombor telefon bimbit anda? | 手机丢失？ | 電話番号をお忘れですか？ |
 | android, iOS, Desktop | Make_group_admin | Make group admin | Jadikan admin grup | Buat pentadbir kumpulan | 设定为群组管理员 | サブリーダー権限を付与 |
 | iOS | Manage | Manage |     |     | 管理  | 管理  |
-| android, iOS | manage_all_your_apps | mange all your apps | mengelola semua aplikasi Anda | urus semua aplikasi anda | 管理你所有的应用 | 全アプリの管理 |
+| android, iOS | manage_all_your_bots | mange all your bots | mengelola semua aplikasi Anda | urus semua aplikasi anda | 管理你所有的机器人 | 全アプリの管理 |
 | android, iOS | manage_all_your_circles | manage all your circles |     | urus semua lingkaran anda | 管理你所有的圈子 | リストの編集 |
-| android, iOS | Manage_Apps | Manage Apps | Mengelola Aplikasi | Urus Aplikasi | 管理应用 | アプリの管理 |
+| android, iOS | Manage_Bots | Manage Bots | Mengelola Aplikasi | Urus Aplikasi | 管理机器人 | アプリの管理 |
 | android | Manager_Sticker | Manager Sticker | Stiker Manajer | Pengurus Pelekat | 管理贴纸 | スタンプ管理 |
 | android | Manufacturer | Manufacturer |     |     | 生产商 | Manufacturer |
 | android | Mark_as_read | Mark as read | Tandai sudah dibaca | tanda sebagai telah dibaca | 标记为已读 | 既読  |
@@ -735,7 +735,7 @@
 | android, iOS | My_Contacts | My Contacts | Kontak Saya | Kenalan Saya | 我的联系人 | 友だち限定 |
 | android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID：%1$s |     |
 | android, iOS | My_QR_Code | My QR Code | Kode QR saya | Kod QR saya | 我的二维码 | マイQRコード |
-| android, iOS | My_shared_apps | My shared apps | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的应用 | おすすめロボをプロフィールに追加 |
+| android, iOS | My_shared_bots | My shared bots | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的机器人 | おすすめロボをプロフィールに追加 |
 | android, iOS, Desktop | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
 | android, iOS, Desktop | NA  | N/A | N/A | N/A | 暂无价格 | なし  |
 | android, iOS, Desktop | Name | Name | Nama | Nama | 名称  | 名前  |
@@ -892,7 +892,7 @@
 | android, iOS, Desktop | Privacy_Policy | Privacy Policy | Kebijakan Privasi | Dasar Privasi | 隐私政策 | プライバシーポリシー |
 | android | profile_modify_number | Do you want to change your phone number? | Ingin mengubah nomor telepon Anda? | Adakah anda mahu menukar nombor telefon anda? | 你想要修改手机号码么？ | 電話番号を変更しますか? |
 | android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
-| android, iOS | profile_share_app_hint | If you want to share an app, add it to your contacts first |     |     | 如果您希望分享应用，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
+| android, iOS | profile_share_bot_hint | If you want to share a bot, add it to your contacts first |     |     | 如果您希望分享机器人，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
 | iOS | protect_setting_security_hint | Confirm PIN to protect your settings security. |     |     | 确认钱包密码保护设置安全 | 設定を変更するためPINを入力してください |
 | android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料（必须） | プロフィール |
 | android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
@@ -1074,7 +1074,7 @@
 | android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s ? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
 | android, iOS | share_message_description_empty | Are you sure you want to send the %1$s ? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
 | android | Share_QR_Code | Share QR Code |     |     | 分享二维码 | QRコードを共有 |
-| android, iOS | Share_This_App | Share This App |     | Kongsi Aplikasi Ini | 分享应用 | このアプリをシェアする |
+| android, iOS | Share_This_Bot | Share This Bot |     | Kongsi Aplikasi Ini | 分享机器人 | このアプリをシェアする |
 | android | share_to | Share %1$s to… | Bagikan %1$s ke… | Kongsi %1$s ke… | 分享%1$s到… | %1$sをシェアする |
 | iOS | Share_To | Share To |     |     | 分享给 | 共有する |
 | android, iOS, Desktop | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
