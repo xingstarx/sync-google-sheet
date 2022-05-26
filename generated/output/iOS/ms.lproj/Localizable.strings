@@ -1,6 +1,6 @@
 "about" = "Mengenai";
 "access_denied" = "Akses dinafikan";
-"access_your_apps_list" = "akses senarai aplikasi anda";
+"access_your_bots_list" = "akses senarai aplikasi anda";
 "access_your_circle_list" = "akses senarai lingkaran anda";
 "access_your_collectibles" = "access your collectibles";
 "access_your_contacts_list" = "akses senarai kenalan anda";
@@ -62,7 +62,7 @@
 "amount" = "Jumlah";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
 "bot_not_found" = "Aplikasi tidak dijumpai";
-"app_pin_hint" = "You can long press and drag the frequently used robots here to display them on the home";
+"bot_pin_hint" = "You can long press and drag the frequently used bots here to display them on the home";
 "app_update_short_hint" = "Please update Mixin from App Store to continue use the service.";
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
 "appearance" = "Penampilan";
@@ -139,7 +139,7 @@
 "change_your_app_language" = "Change your app language";
 "changed" = "Changed";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
-"chat_app_reception_title" = "Tap the button to interact with the bot";
+"chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_backup" = "Chat Backup";
 "chat_call_duration" = "Tempoh: %@";
 "chat_call_warning_voice" = "Tidak dapat merakam mesej suara semasa panggilan Mixin.";
@@ -196,7 +196,7 @@
 "contact_mixin_id" = "Mixin ID: %@";
 "contact_mobile" = "Mudah alih: %@";
 "contact_phone_contact_hint" = "Upload mobile contacts to find other Mixin friends.";
-"contact_share_apps_title" = "Aplikasi Dikongsi %@";
+"contact_share_bots_title" = "Aplikasi Dikongsi %@";
 "contact_title" = "Contacts";
 "contacts" = "KENALAN";
 "content_audio" = "[Audio]";
@@ -456,9 +456,9 @@
 "lost_your_mobile_number" = "Kehilangan nombor telefon bimbit anda?";
 "make_group_admin" = "Buat pentadbir kumpulan";
 "manage" = "Manage";
-"manage_all_your_apps" = "urus semua aplikasi anda";
+"manage_all_your_bots" = "urus semua aplikasi anda";
 "manage_all_your_circles" = "urus semua lingkaran anda";
-"manage_apps" = "Urus Aplikasi";
+"manage_bots" = "Urus Aplikasi";
 "media" = "Media";
 "memo" = "Memo";
 "message_e2ee" = "Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut.";
@@ -489,7 +489,7 @@
 "my_contacts" = "Kenalan Saya";
 "my_mixin_id" = "ID Mixin Saya: %@";
 "my_qr_code" = "Kod QR saya";
-"my_shared_apps" = "Aplikasi kongsi saya";
+"my_shared_bots" = "Aplikasi kongsi saya";
 "my_stickers" = "My Stickers";
 "na" = "N/A";
 "name" = "Nama";
@@ -602,7 +602,7 @@
 "privacy" = "Privasi";
 "privacy_policy" = "Dasar Privasi";
 "profile_photo" = "Gambar profil";
-"profile_share_app_hint" = "If you want to share an app, add it to your contacts first";
+"profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
 "protect_setting_security_hint" = "Confirm PIN to protect your settings security.";
 "public_profile" = "Profil awam (diperlukan)";
 "qr_code" = "kod QR";
@@ -723,7 +723,7 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Adakah anda pasti mahu menghantar %2$@ dari %1$@?";
 "share_message_description_empty" = "Adakah anda pasti mahu menghantar %@?";
-"share_this_app" = "Kongsi Aplikasi Ini";
+"share_this_bot" = "Kongsi Aplikasi Ini";
 "share_to" = "Share To";
 "shared_media" = "Media Berkongsi";
 "shopping" = "Shopping";

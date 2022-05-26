@@ -1,6 +1,6 @@
 "about" = "关于";
 "access_denied" = "禁止访问";
-"access_your_apps_list" = "访问你的应用列表";
+"access_your_bots_list" = "访问你的机器人列表";
 "access_your_circle_list" = "访问你的圈子列表";
 "access_your_collectibles" = "访问你的 NFT 列表";
 "access_your_contacts_list" = "访问你的联系人列表";
@@ -62,7 +62,7 @@
 "amount" = "金额";
 "app_card_shareable_false" = "该卡片已被设置为不允许转发";
 "bot_not_found" = "找不到这个机器人";
-"app_pin_hint" = "可将常用机器人长按拖至此处，可显示于首页";
+"bot_pin_hint" = "可将常用机器人长按拖至此处，可显示于首页";
 "app_update_short_hint" = "请从 App Store 更新 Mixin 至最新版";
 "app_update_tips" = "当前版本（%@）已失效！请点击下方\"更新\"从 App Store 更新至最新版。";
 "appearance" = "外观";
@@ -139,7 +139,7 @@
 "change_your_app_language" = "设置语言";
 "changed" = "已修改";
 "changed_disappearing_message_settings" = "%@ 修改了限时消息设置";
-"chat_app_reception_title" = "点击按钮使用机器人";
+"chat_bot_reception_title" = "点击按钮使用机器人";
 "chat_backup" = "聊天记录备份";
 "chat_call_duration" = "通话时长 %@";
 "chat_call_warning_voice" = "无法在 Mixin 通话时录制语音消息";
@@ -194,7 +194,7 @@
 "contact_mixin_id" = "Mixin ID： %@";
 "contact_mobile" = "手机： %@";
 "contact_phone_contact_hint" = "上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友";
-"contact_share_apps_title" = "%@ 分享的应用";
+"contact_share_bots_title" = "%@ 分享的机器人";
 "contact_title" = "联系人";
 "contacts" = "联系人";
 "content_audio" = "[语音]";
@@ -454,9 +454,9 @@
 "lost_your_mobile_number" = "手机丢失？";
 "make_group_admin" = "设定为群组管理员";
 "manage" = "管理";
-"manage_all_your_apps" = "管理你所有的应用";
+"manage_all_your_bots" = "管理你所有的机器人";
 "manage_all_your_circles" = "管理你所有的圈子";
-"manage_apps" = "管理应用";
+"manage_bots" = "管理机器人";
 "media" = "媒体";
 "memo" = "备注";
 "message_e2ee" = "此对话中的消息使用端对端加密。点击了解更多。";
@@ -487,7 +487,7 @@
 "my_contacts" = "我的联系人";
 "my_mixin_id" = "我的 Mixin ID：%@";
 "my_qr_code" = "我的二维码";
-"my_shared_apps" = "我分享的应用";
+"my_shared_bots" = "我分享的机器人";
 "my_stickers" = "我的表情";
 "na" = "暂无价格";
 "name" = "名称";
@@ -600,7 +600,7 @@
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
 "profile_photo" = "个人头像";
-"profile_share_app_hint" = "如果您希望分享应用，请先添加联系人。";
+"profile_share_bot_hint" = "如果您希望分享机器人，请先添加联系人。";
 "protect_setting_security_hint" = "确认钱包密码保护设置安全";
 "public_profile" = "个人资料（必须）";
 "qr_code" = "二维码";
@@ -721,7 +721,7 @@
 "share_log_file" = "分享日志文件";
 "share_message_description" = "你确定要发送来自%1$@的%2$@？";
 "share_message_description_empty" = "你确定要发送该%@？";
-"share_this_app" = "分享应用";
+"share_this_bot" = "分享机器人";
 "share_to" = "分享给";
 "shared_media" = "媒体内容";
 "shopping" = "购物";

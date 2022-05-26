@@ -1,6 +1,6 @@
 "about" = "About";
 "access_denied" = "Access denied";
-"access_your_apps_list" = "access your apps list";
+"access_your_bots_list" = "access your bots list";
 "access_your_circle_list" = "access your circle list";
 "access_your_collectibles" = "access your collectibles";
 "access_your_contacts_list" = "access your contacts list";
@@ -62,7 +62,7 @@
 "amount" = "Amount";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
 "bot_not_found" = "Bot not found";
-"app_pin_hint" = "You can long press and drag the frequently used robots here to display them on the home";
+"bot_pin_hint" = "You can long press and drag the frequently used bots here to display them on the home";
 "app_update_short_hint" = "Please update Mixin from App Store to continue use the service.";
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
 "appearance" = "Appearance";
@@ -139,7 +139,7 @@
 "change_your_app_language" = "Change your app language";
 "changed" = "Changed";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
-"chat_app_reception_title" = "Tap the button to interact with the bot";
+"chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_backup" = "Chat Backup";
 "chat_call_duration" = "Duration %@";
 "chat_call_warning_voice" = "Can't record voice messages during a Mixin call.";
@@ -194,7 +194,7 @@
 "contact_mixin_id" = "Mixin ID: %@";
 "contact_mobile" = "Mobile: %@";
 "contact_phone_contact_hint" = "Upload mobile contacts to find other Mixin friends.";
-"contact_share_apps_title" = "%@'s Shared Apps";
+"contact_share_bots_title" = "%@'s Shared Bots";
 "contact_title" = "Contacts";
 "contacts" = "CONTACTS";
 "content_audio" = "[Audio]";
@@ -454,9 +454,9 @@
 "lost_your_mobile_number" = "Lost your mobile number?";
 "make_group_admin" = "Make group admin";
 "manage" = "Manage";
-"manage_all_your_apps" = "mange all your apps";
+"manage_all_your_bots" = "mange all your bots";
 "manage_all_your_circles" = "manage all your circles";
-"manage_apps" = "Manage Apps";
+"manage_bots" = "Manage Bots";
 "media" = "Media";
 "memo" = "Memo";
 "message_e2ee" = "Messages to this conversation are encrypted end-to-end, tap for more info.";
@@ -487,7 +487,7 @@
 "my_contacts" = "My Contacts";
 "my_mixin_id" = "My Mixin ID: %@";
 "my_qr_code" = "My QR Code";
-"my_shared_apps" = "My shared apps";
+"my_shared_bots" = "My shared bots";
 "my_stickers" = "My Stickers";
 "na" = "N/A";
 "name" = "Name";
@@ -600,7 +600,7 @@
 "privacy" = "Privacy";
 "privacy_policy" = "Privacy Policy";
 "profile_photo" = "Profile Photo";
-"profile_share_app_hint" = "If you want to share an app, add it to your contacts first";
+"profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
 "protect_setting_security_hint" = "Confirm PIN to protect your settings security.";
 "public_profile" = "Public profile (required)";
 "qr_code" = "QR Code";
@@ -721,7 +721,7 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@ ?";
 "share_message_description_empty" = "Are you sure you want to send the %@ ?";
-"share_this_app" = "Share This App";
+"share_this_bot" = "Share This Bot";
 "share_to" = "Share To";
 "shared_media" = "Shared Media";
 "shopping" = "Shopping";
