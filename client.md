@@ -1203,7 +1203,7 @@
 | android, iOS | Update | Update | Perbarui | Kemas kini | 升级  | アップデート |
 | android | update_downloaded | An update has just been downloaded. | Pembaruan baru saja diunduh. | Kemas kini baru sahaja dimuat turun. | 一个更新刚下载完成。 | アップデータをダウンロード中 |
 | android, iOS | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin |     |
-| android | update_mixin_description | The current version (%1$s) is no longer avaliable!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 |     |
+| android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 |     |
 | android, iOS | Upgrade_Database | Upgrade Database | Tingkatkan Database | Naik taraf Pangkalan Data | 数据库升级 | データベースをアップグレード |
 | android, iOS | Upgrading | Upgrading | Meningkatkan | Menaik taraf | 升级中... |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts |     |     | 上传通讯录找好友 | 連絡先をアップロードする |
@@ -1219,7 +1219,9 @@
 | iOS | Use_touch_multisig | Use Touch Multisig |     |     | 使用指纹签名 | タッチマルチシグを使用 |
 | iOS | Use_touch_pay | Use Touch Pay |     |     | 使用指纹支付 | Touch IDで支払う |
 | iOS | Use_touch_withdraw | Use Touch Withdraw |     |     | 使用指纹提现 | タッチ認証で出金する |
-| iOS | User_is_reported | User is reported |     |     | 已举报 | 報告しました。 |
+| iOS | User_is_reported | User has been reported |     |     | 已举报 | 報告しました。 |
+| android, iOS | pin_creation | PIN creation |     |     | 创建 PIN |     |
+| android, iOS | your_pin_has_been_created | Your PIN has been created |     |     | PIN 已创建 |     |
 | android, iOS, Desktop | User_not_found | User not found | Pengguna tidak ditemukan | Pengguna tidak ditemui | 找不到这个用户 | アップロード失敗 |
 | iOS | Validation_timed_out | Validation timed out |     |     | 验证超时 | 認証時間切れ |
 | android, iOS, Desktop | value_now | value now %1$s |     | nilai sekarang %1$s | 价值 %1$s | 現在価格 %1$s |
