@@ -29,7 +29,7 @@ jobs:
     - uses: montudor/action-zip@v1
       with:
         args: unzip -qq handsaw.zip -d handsaw
-    - run: ./handsaw/handsaw/bin/handsaw gen -i ./client.xlsx -o ./generated
+    - run: ./handsaw/handsaw/bin/handsaw gen -i ./client -o ./generated
 
     - name: Commit files
       run: |
