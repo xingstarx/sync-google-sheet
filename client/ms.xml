@@ -1,4 +1,4 @@
-<resource>
+<resources>
   <string name="About" platform="android, iOS, Desktop">Mengenai</string>
   <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
@@ -428,16 +428,16 @@
   <string name="Next" platform="android, iOS, Desktop">Seterusnya</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">TIADA AUDIO</string>
   <string name="NO_AUTHORIZATION" platform="android, iOS">Tiada aplikasi autentik</string>
-  <string name="No_Available_Asset" platform="android">Tiada Aset Yang Tersedia</string>
-  <string name="No_blocked_user" platform="android, iOS">Tiada pengguna yang disekat</string>
+  <string name="No_Available_Assets" platform="android">Tiada Aset Yang Tersedia</string>
+  <string name="No_blocked_users" platform="android, iOS">Tiada pengguna yang disekat</string>
   <string name="NO_BOT" platform="android, iOS">TIADA APLIKASI</string>
   <string name="No_camera" platform="android, Desktop">Tiada kamera</string>
   <string name="No_deposit" platform="android">Tiada deposit</string>
-  <string name="No_fee" platform="android">Tanpa bayaran</string>
-  <string name="NO_FILE" platform="android, iOS, Desktop">TIADA FAIL</string>
-  <string name="No_hidden_asset" platform="android, iOS">Tiada aset tersembunyi</string>
+  <string name="No_fees" platform="android">Tanpa bayaran</string>
+  <string name="NO_FILES" platform="android, iOS, Desktop">TIADA FAIL</string>
+  <string name="No_hidden_assets" platform="android, iOS">Tiada aset tersembunyi</string>
   <string name="NO_LINK" platform="android, Desktop">TIADA Pautan</string>
-  <string name="No_log" platform="android, iOS">Tiada log</string>
+  <string name="No_logs" platform="android, iOS">Tiada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada lagi media</string>
   <string name="No_Memo" platform="android, iOS">Tiada Memo</string>
@@ -767,4 +767,4 @@
   <string name="Write_Circles" platform="android, iOS, Desktop">Tulis Lingkaran</string>
   <string name="You" platform="android, iOS, Desktop">Anda</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Anda memadamkan mesej ini</string>
-</resource>
+</resources>

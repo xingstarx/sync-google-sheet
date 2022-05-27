@@ -1,4 +1,4 @@
-<resource>
+<resources>
   <string name="a_card" platform="android">a card</string>
   <string name="a_contact" platform="android">a contact</string>
   <string name="a_file" platform="android">a file</string>
@@ -781,18 +781,18 @@
   <string name="next_conversation" platform="Desktop">Next conversation</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">NO AUDIO</string>
   <string name="NO_AUTHORIZATION" platform="android, iOS">NO AUTHORIZATION</string>
-  <string name="No_Available_Asset" platform="android">No Available Asset</string>
-  <string name="No_blocked_user" platform="android, iOS">No blocked user</string>
+  <string name="No_Available_Assets" platform="android">No Available Asset</string>
+  <string name="No_blocked_users" platform="android, iOS">No blocked user</string>
   <string name="NO_BOT" platform="android, iOS">NO BOT</string>
   <string name="No_camera" platform="android, Desktop">No camera</string>
   <string name="no_data" platform="Desktop">No Data</string>
   <string name="No_deposit" platform="android">No deposit</string>
-  <string name="No_fee" platform="android">No fee</string>
-  <string name="NO_FILE" platform="android, iOS, Desktop">NO FILE</string>
-  <string name="No_hidden_asset" platform="android, iOS">No hidden asset</string>
+  <string name="No_fees" platform="android">No fee</string>
+  <string name="NO_FILES" platform="android, iOS, Desktop">NO FILE</string>
+  <string name="No_hidden_assets" platform="android, iOS">No hidden asset</string>
   <string name="No_Items_Selected" platform="iOS">No Items Selected</string>
   <string name="NO_LINK" platform="android, Desktop">NO LINK</string>
-  <string name="No_log" platform="android, iOS">No log</string>
+  <string name="No_logs" platform="android, iOS">No log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">NO MEDIA</string>
   <string name="No_media_yet" platform="android">No media yet</string>
   <string name="No_Memo" platform="android, iOS">No Memo</string>
@@ -924,7 +924,7 @@
   <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
   <string name="profile_share_bot_hint" platform="android, iOS">If you want to share a bot, add it to your contacts first</string>
-  <string name="protect_setting_security_hint" platform="iOS">Confirm PIN to protect your settings security.</string>
+  <string name="change_pin_interval_hint" platform="iOS">Confirm PIN to change interval</string>
   <string name="Public_profile" platform="android, iOS">Public profile (required)</string>
   <string name="QR_Code" platform="android, iOS">QR Code</string>
   <string name="qr_code_camera_code" platform="android">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
@@ -1068,7 +1068,7 @@
   <string name="send_without_compression" platform="Desktop">Send without compression</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">Send Without Sound</string>
   <string name="Send_your_Current_Location" platform="android, iOS">Send your Current Location</string>
-  <string name="send.count" platform="iOS">Send(%1$d )</string>
+  <string name="send.count" platform="iOS">Send(%1$d)</string>
   <string name="Senders" platform="android, iOS">Senders</string>
   <string name="Set" platform="android, iOS">Set</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS">%1$s set disappearing message time to %2$s</string>
@@ -1382,4 +1382,4 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">Your phone number has been changed</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>
-</resource>
+</resources>

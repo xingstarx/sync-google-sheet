@@ -782,18 +782,18 @@
 | Desktop | next_conversation | Next conversation |     |     | 下一个会话 |     |
 | android, iOS, Desktop | NO_AUDIO | NO AUDIO | TIDAK ADA SUARA | TIADA AUDIO | 没有音频 | 音声がありません |
 | android, iOS | NO_AUTHORIZATION | NO AUTHORIZATION | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
-| android | No_Available_Asset | No Available Asset |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
-| android, iOS | No_blocked_user | No blocked user | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
+| android | No_Available_Assets | No Available Asset |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
+| android, iOS | No_blocked_users | No blocked user | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
 | android, iOS | NO_BOT | NO BOT | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
 | android, Desktop | No_camera | No camera | Tidak ada kamera | Tiada kamera | 没有相机 | カメラを認識できません |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
 | android | No_deposit | No deposit | Tidak ada deposit | Tiada deposit | 暂无充值记录 | 入金はありません |
-| android | No_fee | No fee | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
-| android, iOS, Desktop | NO_FILE | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
-| android, iOS | No_hidden_asset | No hidden asset | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
+| android | No_fees | No fee | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
+| android, iOS, Desktop | NO_FILES | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
+| android, iOS | No_hidden_assets | No hidden asset | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
 | iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
 | android, Desktop | NO_LINK | NO LINK | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
-| android, iOS | No_log | No log | Tidak ada log | Tiada log | 没有日志 | ログがありません |
+| android, iOS | No_logs | No log | Tidak ada log | Tiada log | 没有日志 | ログがありません |
 | android, iOS, Desktop | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
 | android | No_media_yet | No media yet | Belum ada media | Belum ada lagi media | 还没有图片或视频 | メディアがありません |
 | android, iOS | No_Memo | No Memo | Tanpa Memo | Tiada Memo | 没有 Memo（备注） | メモなし |
