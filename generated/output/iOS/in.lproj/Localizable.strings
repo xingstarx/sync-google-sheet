@@ -26,6 +26,7 @@
 "admin" = "admin";
 "agree_hint" = "By proceeding, you agree to the %@ and %@.";
 "albums" = "Albums";
+"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
 "alert_key_contact_audio_call_message" = "meminta panggilan audio dengan Anda";
 "alert_key_contact_audio_message" = "mengirim audio";
 "alert_key_contact_contact_message" = "berbagi kontak";
@@ -33,6 +34,7 @@
 "alert_key_contact_image_message" = "mengirimi Anda foto";
 "alert_key_contact_live_message" = "mengirimi Anda siaran langsung";
 "alert_key_contact_location_message" = "mengirim lokasi";
+"alert_key_contact_message" = "sent you a message";
 "alert_key_contact_post_message" = "mengirim postingan";
 "alert_key_contact_sticker_message" = "mengirimi Anda stiker";
 "alert_key_contact_text_message" = "mengirimi Anda pesan";
@@ -46,14 +48,12 @@
 "alert_key_group_image_message" = "%@ mengirim foto";
 "alert_key_group_live_message" = "%@ mengirim siaran langsung";
 "alert_key_group_location_message" = "%@ mengirim lokasi";
+"alert_key_group_message" = "%@ sent a message";
 "alert_key_group_post_message" = "%@ mengirim postingan";
 "alert_key_group_sticker_message" = "%@ mengirim stiker";
 "alert_key_group_text_message" = "%@ mengirim pesan";
 "alert_key_group_transcript_message" = "%@ sent a transcript";
 "alert_key_group_video_message" = "%@ mengirim video";
-"alert_key_contact_message" = "sent you a message";
-"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
-"alert_key_group_message" = "%@ sent a message";
 "all" = "Semua";
 "all_conversations" = "Semua Percakapan";
 "all_photos" = "All Photos";
@@ -61,8 +61,6 @@
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Jumlah";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
-"bot_not_found" = "Aplikasi tidak ditemukan";
-"bot_pin_hint" = "You can long press and drag the frequently used bots here to display them on the home";
 "app_update_short_hint" = "Please update Mixin from App Store to continue use the service.";
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
 "appearance" = "Tampilan";
@@ -99,6 +97,8 @@
 "blocked_users" = "Blocked Users";
 "books" = "Books";
 "bot_empty_tip" = "Harap tambahkan bot favorit Anda terlebih dahulu.";
+"bot_not_found" = "Aplikasi tidak ditemukan";
+"bot_pin_hint" = "You can long press and drag the frequently used bots here to display them on the home";
 "bots" = "BOT";
 "bots_title" = "Bot";
 "business" = "Business";
@@ -139,8 +139,8 @@
 "change_your_app_language" = "Change your app language";
 "changed" = "Changed";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
-"chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_backup" = "Chat Backup";
+"chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_call_duration" = "Durasi: %@";
 "chat_call_warning_voice" = "Tidak dapat merekam pesan suara selama panggilan Mixin.";
 "chat_decryption_failed" = "This message decryption failed, please upgrade Mixin to the latest version.";
@@ -152,6 +152,7 @@
 "chat_group_exit" = "%@ keluar";
 "chat_group_join" = "%@ bergabung dengan grup melalui tautan undangan";
 "chat_group_remove" = "%1$@ menghapus %2$@";
+"chat_list_empty_info" = "Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka";
 "chat_not_support" = "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. %@.";
 "chat_on_mixin_content" = "Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search %@ to add me as a friend.";
 "chat_pin_message" = "%1$@ pinned %2$@";
@@ -161,7 +162,6 @@
 "chats" = "OBROLAN";
 "choose_photo" = "Choose Photo";
 "circle_info" = "Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu.";
-"number_reached_limit" = "Jumlahnya sudah mencapai batas";
 "circle_no_conversation_hint" = "You can add contacts or groups to the current circle";
 "circle_subtitle" = "%d Conversation";
 "circle_subtitle_count" = "%d Percakapan";
@@ -175,7 +175,6 @@
 "cleared" = "Cleared";
 "clock_skew_hint" = "Please continue to use again after correction. Settings > General > Date & Time > Turn on Set Automatically";
 "close" = "Close";
-"currency_code" = "Code";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Combine and forward";
 "compress_database" = "Compress Database";
@@ -219,7 +218,6 @@
 "conversation" = "Percakapan";
 "conversation_has_too_many_circles" = "The conversation has too many circles";
 "conversation_not_found" = "Conversation not found.";
-"message_not_support" = "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru.";
 "conversations" = "Conversations";
 "copied" = "Copied";
 "copy" = "Salin";
@@ -230,6 +228,7 @@
 "create" = "Buat";
 "created_this_group" = "%@ created this group";
 "currency" = "Mata uang";
+"currency_code" = "Code";
 "current_location" = "Current Location";
 "current_selected" = "Current Selected";
 "custom_time" = "Custom Time";
@@ -303,7 +302,6 @@
 "edit_name" = "Edit Nama";
 "education" = "Education";
 "emergency_contact" = "Kontak darurat";
-"chat_list_empty_info" = "Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka";
 "enable_emergency_contact" = "Aktifkan Kontak Darurat";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
 "enable_pay" = "Enable %@ Pay";
@@ -433,9 +431,9 @@
 "line_busy" = "Jaringan sibuk";
 "line_busy_remote" = "Jaringan sibuk";
 "link_recognition_failure" = "Link recognition failure";
+"link_shareable_false" = "The link has been set to not allow sharing";
 "live" = "Siaran Langsung";
 "live_shareable_false" = "The live has been set to not allow sharing";
-"link_shareable_false" = "The link has been set to not allow sharing";
 "live_stream" = "live stream";
 "loading" = "Loading...";
 "locating" = "Locating...";
@@ -461,6 +459,7 @@
 "message_e2ee" = "Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya.";
 "message_encryption_hint" = "Messages between users are protected with an end-to-end encryption";
 "message_not_found" = "Pesan tidak ditemukan";
+"message_not_support" = "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru.";
 "message_preview" = "Message Preview";
 "message_sent" = "Berhasil dikirim";
 "messages" = "Messages";
@@ -500,12 +499,13 @@
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "news" = "News";
 "next" = "Berikutnya";
-"no_bot" = "TIDAK ADA APLIKASI";
 "no_audio" = "TIDAK ADA SUARA";
 "no_authorization" = "Tidak ada aplikasi yang diizinkan";
 "no_blocked_user" = "Tidak ada pengguna yang diblokir";
+"no_bot" = "TIDAK ADA APLIKASI";
 "no_file" = "TIDAK ADA FILE";
 "no_hidden_asset" = "Tidak ada aset tersembunyi";
+"no_items_selected" = "No Items Selected";
 "no_log" = "Tidak ada log";
 "no_media" = "TIDAK ADA MEDIA";
 "no_memo" = "Tanpa Memo";
@@ -523,6 +523,7 @@
 "notification_content" = "Jangan lewatkan pesan dari teman Anda.";
 "notification_message_preview_description" = "Preview message text inside new message notifications.";
 "now_an_addmin" = "%@ now an admin";
+"number_reached_limit" = "Jumlahnya sudah mencapai batas";
 "off" = "Off";
 "ok" = "OK";
 "one_by_one_forward" = "One-by-One Forward";
@@ -567,6 +568,7 @@
 "phone_number_privacy" = "Siapa yang dapat menemukan saya menurut nomor saya";
 "photo" = "Foto";
 "photo_saved" = "Photo saved.";
+"photo_count" = "%d  Photos";
 "photos" = "Foto";
 "pick_from_library" = "Pick from Library";
 "pin" = "PIN";
@@ -574,6 +576,7 @@
 "pin_check_tip" = "Anda akan ditanya secara berkala untuk membantu Anda mengingatnya.";
 "pin_confirm_again_hint" = "Please confirm your 6 digit PIN again";
 "pin_confirm_hint" = "Please confirm the 6 digit PIN and remember it";
+"pin_creation" = "PIN creation";
 "pin_incorrect" = "PIN salah";
 "pin_lost_hint" = "If lost, there is no way to recover your wallet.";
 "pin_title" = "Pin";
@@ -605,8 +608,8 @@
 "qr_code" = "QR Code";
 "qr_code_not_found" = "Kode Qr tidak ditemukan";
 "raw" = "Raw";
-"read_bots" = "Membaca Aplikasi";
 "read_assets" = "Membaca Aset";
+"read_bots" = "Membaca Aplikasi";
 "read_circles" = "Read Circles";
 "read_collectibles" = "Read Collectibles";
 "read_contacts" = "Membaca Kontak";
@@ -622,8 +625,8 @@
 "reload" = "Reload";
 "remove_all" = "Remove All";
 "remove_all_floats" = "Remove all floats?";
-"remove_bot_hint" = "Remove bot? Chat history will remain on your device";
 "remove_bot" = "Hapus Bot";
+"remove_bot_hint" = "Remove bot? Chat history will remain on your device";
 "remove_contact" = "Hapus kontak";
 "remove_contact_hint" = "Remove friend? Chat history will remain on your device";
 "remove_emergency_contact" = "Hapus kontak darurat";
@@ -644,7 +647,6 @@
 "restoring" = "Restoring...";
 "restoring_progress" = "Restoring %@";
 "revoke_access" = "Cabut akses";
-"setting_revoke_confirmation" = "Cabut akses %@?";
 "revoke_multisig_transaction" = "Cabut Transaksi Multisig";
 "room_is_full" = "Room is full";
 "save" = "Simpan";
@@ -675,15 +677,30 @@
 "select_emergency_contact" = "Pilih Kontak Darurat";
 "select_more_photos" = "Select More Photos";
 "selected_count" = "%@ Selected";
+"selected_item" = "Selected 1 Item";
+"selected_item_count" = "Selected %d Items";
+"selected_photo" = "Selected 1 Photo";
+"selected_photo_count" = "Selected %d Photos";
+"selected_video" = "Selected 1 Video";
+"selected_video_count" = "Selected %d Videos";
 "send" = "Kirim";
+"send_as_file" = "Send as File";
+"send_as_files" = "Send as Files";
+"send_item" = "Send 1 Item";
+"send_item_count" = "Send %d Items";
 "send_message" = "Kirim Pesan";
+"send_photo" = "Send 1 Photo";
+"send_photo_count" = "Send %d Photos";
 "send_this_location" = "Kirim Lokasi Ini";
 "send_to" = "Kirim ke %@";
 "send_to_developer" = "Send to Developer";
 "send_to_title" = "Send To";
 "send_verification_code_frequent" = "Send verification code too frequent, please try again later.";
+"send_video" = "Send 1 Video";
+"send_video_count" = "Send %d Videos";
 "send_without_sound" = "Send Without Sound";
 "send_your_current_location" = "Kirim Lokasi Anda Saat Ini";
+"send_count" = "Send(%d )";
 "senders" = "Pengirim";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -709,6 +726,7 @@
 "setting_mobile_contact_warning" = "Ini akan menghapus kontak Anda dari server Mixin.";
 "setting_notification_transfer_summary" = "Display notifications when receiving a transfer greater than or equal to %@.";
 "setting_privacy_tip" = "Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup.";
+"setting_revoke_confirmation" = "Cabut akses %@?";
 "setting_storage_clear" = "Clear %1$d message (%2$@)?";
 "setting_storage_clear_count" = "Hapus %1$d pesan (%2$@)?";
 "setting_transfer_large_summary" = "Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %@";
@@ -828,8 +846,6 @@
 "use_touch_pay" = "Use Touch Pay";
 "use_touch_withdraw" = "Use Touch Withdraw";
 "user_is_reported" = "User has been reported";
-"pin_creation" = "PIN creation";
-"your_pin_has_been_created" = "Your PIN has been created";
 "user_not_found" = "Pengguna tidak ditemukan";
 "validation_timed_out" = "Validation timed out";
 "value_now" = "value now %@";
@@ -893,3 +909,4 @@
 "your_emergency_contact_has_been_changed" = "Your emergency contact has been changed";
 "your_phone_number_has_been_changed" = "Your phone number has been changed";
 "your_pin_has_been_changed" = "Your PIN has been changed";
+"your_pin_has_been_created" = "Your PIN has been created";

@@ -26,6 +26,7 @@
 "admin" = "サブリーダー";
 "agree_hint" = "%@と%@に同意し次へ進む";
 "albums" = "アルバム";
+"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
 "alert_key_contact_audio_call_message" = "グループ通話に招待されました";
 "alert_key_contact_audio_message" = "音声が届きました";
 "alert_key_contact_contact_message" = "連絡先が届きました";
@@ -33,6 +34,7 @@
 "alert_key_contact_image_message" = "画像が届きました";
 "alert_key_contact_live_message" = "ライブ配信が届きました";
 "alert_key_contact_location_message" = "位置情報が届きました";
+"alert_key_contact_message" = "sent you a message";
 "alert_key_contact_post_message" = "投稿が届きました";
 "alert_key_contact_sticker_message" = "スタンプが届きました";
 "alert_key_contact_text_message" = "メッセージが届きました";
@@ -46,14 +48,12 @@
 "alert_key_group_image_message" = "%@が画像を送信しました";
 "alert_key_group_live_message" = "%@がライブ配信を送信しました";
 "alert_key_group_location_message" = "%@が位置情報を送信しました";
+"alert_key_group_message" = "%@ sent a message";
 "alert_key_group_post_message" = "%@が投稿を送信しました";
 "alert_key_group_sticker_message" = "%@がスタンプを送信しました";
 "alert_key_group_text_message" = "%@がメッセージを送信しました";
 "alert_key_group_transcript_message" = "%@がメッセージ履歴を共有しました";
 "alert_key_group_video_message" = "%@が動画を送信しました";
-"alert_key_contact_message" = "sent you a message";
-"alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
-"alert_key_group_message" = "%@ sent a message";
 "all" = "すべて";
 "all_conversations" = "すべてのチャット";
 "all_photos" = "すべての画像";
@@ -61,8 +61,6 @@
 "allow_manual_report_message" = "マニュアル報告を許可する";
 "amount" = "数量";
 "app_card_shareable_false" = "このカードを共有することはできません";
-"bot_not_found" = "アプリが見つかりません";
-"bot_pin_hint" = "よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます";
 "app_update_short_hint" = "Mixinをアップデートしてください";
 "app_update_tips" = "(%@) \"Update\" AppStoreで新しいバージョンを入手してください。";
 "appearance" = "言語とテーマ";
@@ -99,6 +97,8 @@
 "blocked_users" = "Blocked Users";
 "books" = "書籍";
 "bot_empty_tip" = "最初にお気に入りのロボを追加してください。";
+"bot_not_found" = "アプリが見つかりません";
+"bot_pin_hint" = "よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます";
 "bots" = "ロボ";
 "bots_title" = "Myロボ一覧";
 "business" = "ビジネス";
@@ -139,8 +139,8 @@
 "change_your_app_language" = "アプリの言語を変更する";
 "changed" = "変更しました";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
-"chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_backup" = "Chat Backup";
+"chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_call_duration" = "通話時間 %@";
 "chat_call_warning_voice" = "通話中にボイスメッセージを録音することはできません。";
 "chat_decryption_failed" = "メッセージの解読に失敗しました。Mixinを最新バージョンにアップデートしてください。";
@@ -152,6 +152,7 @@
 "chat_group_exit" = "%@が退出しました";
 "chat_group_join" = "%@が招待リンクから参加しました";
 "chat_group_remove" = "%1$@が%2$@を退出させました";
+"chat_list_empty_info" = "Mixinをダウンロードしている人と\nいつでもチャットが可能です。";
 "chat_not_support" = "チャットが読み込めません Mixinをアップデートしてください %@.";
 "chat_on_mixin_content" = "さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、%@を検索して私と友達になりましょう。";
 "chat_pin_message" = "%1$@は%2$@をピン留めしました";
@@ -161,7 +162,6 @@
 "chats" = "チャット";
 "choose_photo" = "画像を選ぶ";
 "circle_info" = "最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう";
-"number_reached_limit" = "数が上限に達しました";
 "circle_no_conversation_hint" = "連絡先またはグループを\n現在のリストに追加できます。";
 "circle_subtitle" = "%d Conversation";
 "circle_subtitle_count" = "%d Conversations";
@@ -175,7 +175,6 @@
 "cleared" = "クリア";
 "clock_skew_hint" = "設定を変更してください。 設定 > 一般 > 日付と時刻 > 自動設定をオン";
 "close" = "閉じる";
-"currency_code" = "コード";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "転送を結合する";
 "compress_database" = "データの圧縮";
@@ -219,7 +218,6 @@
 "conversation" = "会話";
 "conversation_has_too_many_circles" = "この会話のリスト数を減らしてください";
 "conversation_not_found" = "会話が見つかりません";
-"message_not_support" = "このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。";
 "conversations" = "チャット";
 "copied" = "コピーしました";
 "copy" = "コピー";
@@ -230,6 +228,7 @@
 "create" = "作成";
 "created_this_group" = "%@がグループを作成しました";
 "currency" = "通貨";
+"currency_code" = "コード";
 "current_location" = "現在の位置";
 "current_selected" = "現在選択中";
 "custom_time" = "Custom Time";
@@ -303,7 +302,6 @@
 "edit_name" = "名前を変更";
 "education" = "教育";
 "emergency_contact" = "緊急連絡先";
-"chat_list_empty_info" = "Mixinをダウンロードしている人と\nいつでもチャットが可能です。";
 "enable_emergency_contact" = "緊急連絡先を有効にする";
 "enable_face_pay_hint" = "PINを確認してFace IDを利用可能にしてください";
 "enable_pay" = "%@の支払いを有効化";
@@ -433,9 +431,9 @@
 "line_busy" = "不在着信";
 "line_busy_remote" = "不在着信";
 "link_recognition_failure" = "リンクの認識に失敗しました";
+"link_shareable_false" = "The link has been set to not allow sharing";
 "live" = "ライブ配信";
 "live_shareable_false" = "このライブ配信を共有することはできません";
-"link_shareable_false" = "The link has been set to not allow sharing";
 "live_stream" = "ライブ";
 "loading" = "ロード中...";
 "locating" = "位置情報を検索中...";
@@ -461,6 +459,7 @@
 "message_e2ee" = "この会話へのメッセージはエンドツーエンドで暗号化されています。詳細はタップしてください。";
 "message_encryption_hint" = "ユーザー間のメッセージはエンドツーエンドの暗号化によって守られています";
 "message_not_found" = "メッセージが見つかりません";
+"message_not_support" = "このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。";
 "message_preview" = "メッセージ通知の内容表示";
 "message_sent" = "送信完了";
 "messages" = "Messages";
@@ -500,12 +499,13 @@
 "new_wallet_hint" = "簡単に仮想通貨をやり取りできるウォレットを作成しよう！";
 "news" = "ニュース";
 "next" = "次へ";
-"no_bot" = "ロボがありません";
 "no_audio" = "音声がありません";
 "no_authorization" = "NO AUTHORIZATION";
 "no_blocked_user" = "ブロック済みのユーザーはいません";
+"no_bot" = "ロボがありません";
 "no_file" = "ファイルがありません";
 "no_hidden_asset" = "非表示資産はありません";
+"no_items_selected" = "No Items Selected";
 "no_log" = "ログがありません";
 "no_media" = "メディアがありません";
 "no_memo" = "メモなし";
@@ -523,6 +523,7 @@
 "notification_content" = "友達からのメッセージを見逃さないで！";
 "notification_message_preview_description" = "通知でメッセージ内容を表示する";
 "now_an_addmin" = "%@はサブリーダーです";
+"number_reached_limit" = "数が上限に達しました";
 "off" = "オフ";
 "ok" = "OK";
 "one_by_one_forward" = "別々のメッセージとして転送する";
@@ -567,6 +568,7 @@
 "phone_number_privacy" = "あなたを電話番号検索で追加できるユーザー";
 "photo" = "写真";
 "photo_saved" = "画像が保存されました";
+"photo_count" = "%d  Photos";
 "photos" = "画像";
 "pick_from_library" = "ライブラリーから選択する";
 "pin" = "PIN";
@@ -574,6 +576,7 @@
 "pin_check_tip" = "安全のため、定期的にPINコードを確認します。";
 "pin_confirm_again_hint" = "3度目となりますが、もう一度PINを確認してください";
 "pin_confirm_hint" = "PINを確実に記憶してください。ウォレットを失った場合、復元することはできません";
+"pin_creation" = "PIN creation";
 "pin_incorrect" = "PINが違います";
 "pin_lost_hint" = "If lost, there is no way to recover your wallet.";
 "pin_title" = "ピン留め";
@@ -605,8 +608,8 @@
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QRコードが見つかりません";
 "raw" = "その他";
-"read_bots" = "アプリを読み取る";
 "read_assets" = "ウォレット機能連携";
+"read_bots" = "アプリを読み取る";
 "read_circles" = "リストの識別";
 "read_collectibles" = "コレクションを読む";
 "read_contacts" = "連絡先を読み取る";
@@ -622,8 +625,8 @@
 "reload" = "リロード";
 "remove_all" = "全部クリア";
 "remove_all_floats" = "Floatを全部クリアしますか？";
-"remove_bot_hint" = "アプリを削除しますか? トーク履歴はデバイスから削除されません";
 "remove_bot" = "Myロボから削除";
+"remove_bot_hint" = "アプリを削除しますか? トーク履歴はデバイスから削除されません";
 "remove_contact" = "連絡先を削除";
 "remove_contact_hint" = "友達を削除しますか? トーク履歴はデバイスから削除されません";
 "remove_emergency_contact" = "緊急連絡先を削除する";
@@ -644,7 +647,6 @@
 "restoring" = "...の復元を準備中";
 "restoring_progress" = "%@を復元しています";
 "revoke_access" = "アクセスを取り消す";
-"setting_revoke_confirmation" = "アクセス%@を取り消しますか？";
 "revoke_multisig_transaction" = "マルチシグトランザクションを取り消す";
 "room_is_full" = "ルームが満員です";
 "save" = "保存";
@@ -675,15 +677,30 @@
 "select_emergency_contact" = "緊急連絡先を選択する";
 "select_more_photos" = "さらに写真を選択する";
 "selected_count" = "%@のメッセージを選択しています。";
+"selected_item" = "Selected 1 Item";
+"selected_item_count" = "Selected %d Items";
+"selected_photo" = "Selected 1 Photo";
+"selected_photo_count" = "Selected %d Photos";
+"selected_video" = "Selected 1 Video";
+"selected_video_count" = "Selected %d Videos";
 "send" = "送る";
+"send_as_file" = "Send as File";
+"send_as_files" = "Send as Files";
+"send_item" = "Send 1 Item";
+"send_item_count" = "Send %d Items";
 "send_message" = "メッセージを送る";
+"send_photo" = "Send 1 Photo";
+"send_photo_count" = "Send %d Photos";
 "send_this_location" = "Send This Location";
 "send_to" = "%@へ送金";
 "send_to_developer" = "開発者に送信";
 "send_to_title" = "送金";
 "send_verification_code_frequent" = "しばらく経ってから再度送信してください";
+"send_video" = "Send 1 Video";
+"send_video_count" = "Send %d Videos";
 "send_without_sound" = "通知音を鳴らさずに送信する";
 "send_your_current_location" = "現在地を送信";
+"send_count" = "Send(%d )";
 "senders" = "送信者";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -709,6 +726,7 @@
 "setting_mobile_contact_warning" = "これにより、Mixinサーバーから連絡先が削除されます。";
 "setting_notification_transfer_summary" = "%@以上を受け取った時に通知する";
 "setting_privacy_tip" = "あなた宛のメッセージや通話を制限";
+"setting_revoke_confirmation" = "アクセス%@を取り消しますか？";
 "setting_storage_clear" = "Clear %1$d message (%2$@)?";
 "setting_storage_clear_count" = "Clear %1$d messages (%2$@)?";
 "setting_transfer_large_summary" = "%@以上の送金時に確認画面を表示する";
@@ -828,8 +846,6 @@
 "use_touch_pay" = "Touch IDで支払う";
 "use_touch_withdraw" = "タッチ認証で出金する";
 "user_is_reported" = "報告しました。";
-"pin_creation" = "PIN creation";
-"your_pin_has_been_created" = "Your PIN has been created";
 "user_not_found" = "アップロード失敗";
 "validation_timed_out" = "認証時間切れ";
 "value_now" = "現在価格 %@";
@@ -893,3 +909,4 @@
 "your_emergency_contact_has_been_changed" = "緊急連絡先が変更されました";
 "your_phone_number_has_been_changed" = "電話番号が変更されました";
 "your_pin_has_been_changed" = "PINが変更されました";
+"your_pin_has_been_created" = "Your PIN has been created";
