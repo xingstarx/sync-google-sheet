@@ -482,7 +482,7 @@
 | android, Desktop | error_invalid_code_too_frequent | ERROR %1$d: Send verification code too frequent, please try again later. | KESALAHAN %1$d: Terlalu sering mengirim kode verifikasi, coba lagi nanti. | RALAT %1$d: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | 错误 %1$d：发送验证码太频繁，请稍后再试 | エラー %1$d: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 |
 | android, iOS, Desktop | error_invalid_emergency_contact | ERROR %1$d: Invalid emergency contact | KESALAHAN %1$d: Kontak darurat tidak valid | RALAT %1$d: Kenalan kecemasan tidak sah | 错误 %1$d：紧急联系人不正确 | エラー %1$d: 緊急連絡先が無効です |
 | android, Desktop | error_invalid_pin_format | ERROR %1$d: Invalid PIN format.  | KESALAHAN %1$d: Format PIN tidak valid | RALAT %1$d: Format PIN tidak sah | 错误 %1$d：PIN 格式不正确 | エラー %1$d: 無効なPINフォーマットです |
-| android | error_memo_too_long | Memo has too many characters, maximum is 200 |     |     | Memo字符超长，最多为200 |     |
+| android | error_memo_too_long | Memo has too many characters, maximum is 200 |     |     | Memo 字符超长，最多为 200 |     |
 | iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again |     |     | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |
 | android, iOS, Desktop | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
 | android, Desktop | error_not_supported_audio_format | Not supported audio format, please open by other app. | Tidak mendukung format audio, harap buka dengan aplikasi lain. | Tidak disokong format audio, sila buka oleh aplikasi lain. | 不支持的音频格式，请用其他app打开。 | サポートされていないオーディオ形式です。他のアプリで開いてください。 |
@@ -925,7 +925,7 @@
 | android | profile_modify_number | Do you want to change your phone number? | Ingin mengubah nomor telepon Anda? | Adakah anda mahu menukar nombor telefon anda? | 你想要修改手机号码么？ | 電話番号を変更しますか? |
 | android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
 | android, iOS | profile_share_bot_hint | If you want to share a bot, add it to your contacts first |     |     | 如果您希望分享机器人，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
-| iOS | protect_setting_security_hint | Confirm PIN to protect your settings security. |     |     | 确认 PIN 保护设置安全 | 設定を変更するためPINを入力してください |
+| iOS | change_pin_interval_hint | Confirm PIN to change interval |     |     | 输入 PIN 修改使用间隔 | 設定を変更するためPINを入力してください |
 | android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料（必须） | プロフィール |
 | android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
 | android | qr_code_camera_code | Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information. | Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya. | Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat. | 打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。 |     |
@@ -1069,7 +1069,7 @@
 | Desktop | send_without_compression | Send without compression |     |     | 发送原始文件 |     |
 | android, iOS, Desktop | Send_Without_Sound | Send Without Sound |     |     | 静音发送 | 通知音を鳴らさずに送信する |
 | android, iOS | Send_your_Current_Location | Send your Current Location | Kirim Lokasi Anda Saat Ini | Hantarkan Lokasi Semasa Anda | 发送您当前的位置 | 現在地を送信 |
-| iOS | send.count | Send(%1$d ) |     |     | 发送（%1$d） |     |
+| iOS | send.count | Send(%1$d) |     |     | 发送（%1$d） |     |
 | android, iOS | Senders | Senders | Pengirim | Pengirim | 交易发起人 | 送信者 |
 | android, iOS | Set | Set |     |     | 设置  |     |
 | android, iOS | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s |     |     | %1$s将限时消息设置为 %2$s |     |
@@ -1111,14 +1111,14 @@
 | android, iOS | setting_emergency_set_message | Confirm to set Mixin ID %1$s as your emergency contact? Please note that the other party must add you as a contact to set up successfully. | Konfirmasikan untuk menetapkan ID Mixin %1$s sebagai kontak darurat Anda? Harap perhatikan bahwa pihak lain harus menambahkan Anda sebagai kontak agar berhasil ditetapkan. | Sahkan untuk menetapkan Mixin ID %1$s sebagai kenalan kecemasan anda? Sila maklum bahawa pihak lain mesti menambahkan anda sebagai kenalan untuk berjaya disiapkan. | 确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！ | （Mixin ID %1$s）を緊急連絡先としてて設定しますか？緊急連絡先登録の設定は相互の友だち登録が必要です。 |
 | android, iOS | setting_emergency_warning | Attention: the Emergency Contact cannot help you to recover PIN | Perhatian: Kontak Darurat tidak dapat membantu Anda memulihkan PIN | Perhatian: Kontak Kecemasan tidak dapat membantu anda memulih semula PIN | 注意：紧急联系人无法帮助找回支付 PIN | 注意：PINコードは復元できません 如何なる場合においてもご自身で管理してください |
 | android | setting_enable_biometric_pay | Enable Biometric Pay? |     | Bolehkan Bayaran Biometrik? | 开启生物识别支付？ | 生体認証で払いますか? |
-| android | setting_incognito_prompt | Disable keyboard personalized learning |     | Lumpuhkan pembelajaran peribadi papan kekunci | 禁止键盘个性化学习 | 予測変換の自動学習を無効化 |
+| android | setting_incognito_prompt | Disable keyboard personalized learning |     | Lumpuhkan pembelajaran peribadi papan kekunci | 禁止键盘个性化学习。 | 予測変換の自動学習を無効化 |
 | android, iOS | setting_mobile_contact_warning | This will remove your contacts from the Mixin servers. | Ini akan menghapus kontak Anda dari server Mixin. | Ini akan mengalih keluar kenalan anda dari pelayan Mixin. | 确定删除已同步到 Mixin 服务器的通讯录？ | これにより、Mixinサーバーから連絡先が削除されます。 |
 | android, iOS | setting_notification_transfer_summary | Display notifications when receiving a transfer greater than or equal to %1$s. |     |     | 收到不少于 %1$s 转账时显示通知。 | %1$s以上を受け取った時に通知する |
 | android, iOS | setting_privacy_tip | Change who can add you to conversation and groups. | Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup. | Tukar siapa yang boleh menambahkan anda ke perbualan dan kumpulan. | 谁可以给你发消息或邀请你加入群聊。 | あなた宛のメッセージや通話を制限 |
 | android, iOS | setting_revoke_confirmation | Revoke access %1$s? | Cabut akses %1$s? | Batalkan akses %1$s? | 取消 %1$s 的授权？ | アクセス%1$sを取り消しますか？ |
 | android, iOS | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息（%2$s）？ |     |
 | android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息（%2$s）？ |     |
-| android | setting_stranger_transfer_desc | Display confirmation dialog when you transfer to stranger |     | Paparkan dialog pengesahan apabila anda berpindah kepada orang asing | 当你给陌生人转账时显示确认弹窗 | 連絡先に追加していないユーザーへの送金を実行する際、確認を行う。 |
+| android | setting_stranger_transfer_desc | Display confirmation dialog when you transfer to stranger |     | Paparkan dialog pengesahan apabila anda berpindah kepada orang asing | 当你给陌生人转账时显示确认弹窗。 | 連絡先に追加していないユーザーへの送金を実行する際、確認を行う。 |
 | android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s. | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
 | android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s. |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
 | android, iOS | Settings | Settings | Pengaturan | Tetapan | 设置  | 設定  |
@@ -1312,7 +1312,7 @@
 | android | wallet_biometric_invalid | Invalid biometrics state, please reset in wallet setting. | Status biometrik tidak valid, harap reset pada pengaturan wallet. | Keadaan biometrik tidak sah, sila tetapkan semula dalam tetapan dompet. | 生物识别失效，请重新设置。 | 生体認証が無効です。ウォレット設定からリセットしてください。 |
 | android | wallet_biometric_screen_lock_desc | Use your device pattern to continue | Gunakan pola perangkat Anda untuk melanjutkan | Gunakan corak peranti anda untuk meneruskan | 请解锁您的设备以继续 | パターンを使用して続ける |
 | iOS | wallet_enable_biometric_pay | Once enabled, %@ can be used to make quick transfers. |     |     | 开启后，转账时可验证%@快速完成付款。 | 一度有効にすると%@を使ってスムーズに送金できます |
-| android | wallet_enable_biometric_pay_prompt | Once enabled, biometrics can be used to make quick transfers |     | Setelah dibolehkan, biometrik dapat digunakan untuk melakukan pemindahan cepat | 开启后，转账时可验证生物识别快速完成付款 | 支払い時の生体認証を有効にします |
+| android | wallet_enable_biometric_pay_prompt | Once enabled, biometrics can be used to make quick transfers |     | Setelah dibolehkan, biometrik dapat digunakan untuk melakukan pemindahan cepat | 开启后，转账时可验证生物识别快速完成付款。 | 支払い時の生体認証を有効にします |
 | iOS | wallet_hide_asset_confirmation | Are you sure you want to hide %@? |     |     | 您确定要隐藏%@吗？ | 本当に%@を隠しますか? |
 | android | wallet_password_change_tip | Please enter the 6 digit PIN to verify. | Harap masukkan PIN 6 digit untuk memverifikasi. | Sila masukkan PIN 6 digit untuk mengesahkan. | 请输入6位 PIN 来验证 | 認証するために6桁のPINを入力してください。 |
 | android, iOS | wallet_password_not_equal | The PIN is not the same twice, please try again. | PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi. | PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi. | PIN 不一致, 请重新输入 | PINが一致しません、もう一度お試しください。 |
