@@ -651,26 +651,26 @@
   <string name="NO_AUDIO" platform="android, iOS, Desktop">音声がありません</string>
   <string name="No_Available_Assets" platform="android">有効な資産がありません</string>
   <string name="No_blocked_users" platform="android, iOS">ブロック済みのユーザーはいません</string>
-  <string name="NO_BOT" platform="android, iOS">ロボがありません</string>
+  <string name="NO_BOTS" platform="android, iOS">ロボがありません</string>
   <string name="No_camera" platform="android, Desktop">カメラを認識できません</string>
-  <string name="No_deposit" platform="android">入金はありません</string>
+  <string name="No_deposits" platform="android">入金はありません</string>
   <string name="No_fees" platform="android">手数料はありません</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">ファイルがありません</string>
   <string name="No_hidden_assets" platform="android, iOS">非表示資産はありません</string>
-  <string name="NO_LINK" platform="android, Desktop">リンクがありません</string>
+  <string name="NO_LINKS" platform="android, Desktop">リンクがありません</string>
   <string name="No_logs" platform="android, iOS">ログがありません</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">メディアがありません</string>
   <string name="No_media_yet" platform="android">メディアがありません</string>
   <string name="No_Memo" platform="android, iOS">メモなし</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">ネットワーク接続がありません</string>
-  <string name="NO_POST" platform="android, iOS, Desktop">投稿がありません</string>
-  <string name="No_raw" platform="android">その他はありません</string>
-  <string name="No_rebate" platform="android">払い戻しはありません</string>
-  <string name="No_result" platform="android, iOS">結果なし</string>
-  <string name="NO_STICKER" platform="android, iOS">ステッカーはありません</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">投稿がありません</string>
+  <string name="No_raws" platform="android">その他はありません</string>
+  <string name="No_rebates" platform="android">払い戻しはありません</string>
+  <string name="No_results" platform="android, iOS">結果なし</string>
+  <string name="NO_STICKERS" platform="android, iOS">ステッカーはありません</string>
   <string name="No_tag" platform="android, iOS">タグなし</string>
-  <string name="No_transaction" platform="android, iOS">トランザクションはありません</string>
-  <string name="No_withdrawal" platform="android">出金はありません</string>
+  <string name="No_transactions" platform="android, iOS">トランザクションはありません</string>
+  <string name="No_withdrawals" platform="android">出金はありません</string>
   <string name="Nobody" platform="android, iOS">なし</string>
   <string name="None" platform="android, iOS">なし</string>
   <string name="Not_logged_in" platform="android">ログインしていません</string>

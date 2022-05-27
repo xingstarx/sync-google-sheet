@@ -765,32 +765,32 @@
   <string name="Next" platform="android, iOS, Desktop">下一步</string>
   <string name="next_conversation" platform="Desktop">下一个会话</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">没有音频</string>
-  <string name="NO_AUTHORIZATION" platform="android, iOS">没有授权任何机器人</string>
+  <string name="NO_AUTHORIZATIONS" platform="android, iOS">没有授权任何机器人</string>
   <string name="No_Available_Assets" platform="android">没有可用资产</string>
   <string name="No_blocked_users" platform="android, iOS">没有屏蔽任何人</string>
-  <string name="NO_BOT" platform="android, iOS">没有应用</string>
+  <string name="NO_BOTS" platform="android, iOS">没有应用</string>
   <string name="No_camera" platform="android, Desktop">没有相机</string>
   <string name="no_data" platform="Desktop">没有数据</string>
-  <string name="No_deposit" platform="android">暂无充值记录</string>
+  <string name="No_deposits" platform="android">暂无充值记录</string>
   <string name="No_fees" platform="android">暂无手续费记录</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">没有文件</string>
   <string name="No_hidden_assets" platform="android, iOS">没有隐藏的资产</string>
   <string name="No_Items_Selected" platform="iOS">未选定项目</string>
-  <string name="NO_LINK" platform="android, Desktop">没有链接</string>
+  <string name="NO_LINKS" platform="android, Desktop">没有链接</string>
   <string name="No_logs" platform="android, iOS">没有日志</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">没有媒体</string>
   <string name="No_media_yet" platform="android">还没有图片或视频</string>
   <string name="No_Memo" platform="android, iOS">没有 Memo（备注）</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">无网络连接</string>
-  <string name="NO_POST" platform="android, iOS, Desktop">没有文章</string>
-  <string name="No_raw" platform="android">暂无其他记录</string>
-  <string name="No_rebate" platform="android">暂无退款记录</string>
-  <string name="No_result" platform="android, iOS">未找到相关结果</string>
-  <string name="no_result" platform="Desktop">没有结果</string>
-  <string name="NO_STICKER" platform="android, iOS">还未添加任何表情</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">没有文章</string>
+  <string name="No_raws" platform="android">暂无其他记录</string>
+  <string name="No_rebates" platform="android">暂无退款记录</string>
+  <string name="No_results" platform="android, iOS">未找到相关结果</string>
+  <string name="no_results" platform="Desktop">没有结果</string>
+  <string name="NO_STICKERS" platform="android, iOS">还未添加任何表情</string>
   <string name="No_tag" platform="android, iOS">点击不使用 Tag（标签）</string>
-  <string name="No_transaction" platform="android, iOS">暂无转账记录</string>
-  <string name="No_withdrawal" platform="android">暂无提现记录</string>
+  <string name="No_transactions" platform="android, iOS">暂无转账记录</string>
+  <string name="No_withdrawals" platform="android">暂无提现记录</string>
   <string name="Nobody" platform="android, iOS">没有人</string>
   <string name="Nodes" platform="android">节点</string>
   <string name="None" platform="android, iOS">无</string>

@@ -780,32 +780,32 @@
   <string name="Next" platform="android, iOS, Desktop">Next</string>
   <string name="next_conversation" platform="Desktop">Next conversation</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">NO AUDIO</string>
-  <string name="NO_AUTHORIZATION" platform="android, iOS">NO AUTHORIZATION</string>
+  <string name="NO_AUTHORIZATIONS" platform="android, iOS">NO AUTHORIZATION</string>
   <string name="No_Available_Assets" platform="android">No Available Asset</string>
   <string name="No_blocked_users" platform="android, iOS">No blocked user</string>
-  <string name="NO_BOT" platform="android, iOS">NO BOT</string>
+  <string name="NO_BOTS" platform="android, iOS">NO BOT</string>
   <string name="No_camera" platform="android, Desktop">No camera</string>
   <string name="no_data" platform="Desktop">No Data</string>
-  <string name="No_deposit" platform="android">No deposit</string>
+  <string name="No_deposits" platform="android">No deposit</string>
   <string name="No_fees" platform="android">No fee</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">NO FILE</string>
   <string name="No_hidden_assets" platform="android, iOS">No hidden asset</string>
   <string name="No_Items_Selected" platform="iOS">No Items Selected</string>
-  <string name="NO_LINK" platform="android, Desktop">NO LINK</string>
+  <string name="NO_LINKS" platform="android, Desktop">NO LINK</string>
   <string name="No_logs" platform="android, iOS">No log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">NO MEDIA</string>
   <string name="No_media_yet" platform="android">No media yet</string>
   <string name="No_Memo" platform="android, iOS">No Memo</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">No network connection</string>
-  <string name="NO_POST" platform="android, iOS, Desktop">NO POST</string>
-  <string name="No_raw" platform="android">No raw</string>
-  <string name="No_rebate" platform="android">No rebate</string>
-  <string name="No_result" platform="android, iOS">No result</string>
-  <string name="no_result" platform="Desktop">No result</string>
-  <string name="NO_STICKER" platform="android, iOS">NO STICKER</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">NO POST</string>
+  <string name="No_raws" platform="android">No raw</string>
+  <string name="No_rebates" platform="android">No rebate</string>
+  <string name="No_results" platform="android, iOS">No result</string>
+  <string name="no_results" platform="Desktop">No result</string>
+  <string name="NO_STICKERS" platform="android, iOS">NO STICKER</string>
   <string name="No_tag" platform="android, iOS">No Tag</string>
-  <string name="No_transaction" platform="android, iOS">No transaction</string>
-  <string name="No_withdrawal" platform="android">No withdrawal</string>
+  <string name="No_transactions" platform="android, iOS">No transaction</string>
+  <string name="No_withdrawals" platform="android">No withdrawal</string>
   <string name="Nobody" platform="android, iOS">Nobody</string>
   <string name="Nodes" platform="android">Nodes</string>
   <string name="None" platform="android, iOS">None</string>
