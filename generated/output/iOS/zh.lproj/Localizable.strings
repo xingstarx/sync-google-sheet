@@ -738,7 +738,7 @@
 "share_log_file" = "分享日志文件";
 "share_message_description" = "你确定要发送来自%1$@的%2$@？";
 "share_message_description_empty" = "你确定要发送该%@？";
-"share_this_bot" = "分享机器人";
+"share_this_app" = "分享应用";
 "share_to" = "分享给";
 "shared_media" = "媒体内容";
 "shopping" = "购物";

@@ -568,7 +568,7 @@
 "phone_number_privacy" = "あなたを電話番号検索で追加できるユーザー";
 "photo" = "写真";
 "photo_saved" = "画像が保存されました";
-"photo_count" = "%d  Photos";
+"photo_count" = "%d Photos";
 "photos" = "画像";
 "pick_from_library" = "ライブラリーから選択する";
 "pin" = "PIN";
@@ -738,7 +738,7 @@
 "share_log_file" = "記録ファイルを共有する";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
 "share_message_description_empty" = "Are you sure you want to send the %@?";
-"share_this_bot" = "このアプリをシェアする";
+"share_this_app" = "このアプリをシェアする";
 "share_to" = "共有する";
 "shared_media" = "写真や動画";
 "shopping" = "買い物";

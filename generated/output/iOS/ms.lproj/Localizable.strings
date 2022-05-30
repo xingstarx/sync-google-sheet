@@ -569,7 +569,7 @@
 "phone_number_privacy" = "Siapa yang dapat mencari saya dengan nombor saya";
 "photo" = "Foto";
 "photo_saved" = "Photo saved.";
-"photo_count" = "%d  Photos";
+"photo_count" = "%d Photos";
 "photos" = "Foto";
 "pick_from_library" = "Pick from Library";
 "pin" = "PIN";
@@ -739,7 +739,7 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Adakah anda pasti mahu menghantar %2$@ dari %1$@?";
 "share_message_description_empty" = "Adakah anda pasti mahu menghantar %@?";
-"share_this_bot" = "Kongsi Aplikasi Ini";
+"share_this_app" = "Kongsi Aplikasi Ini";
 "share_to" = "Share To";
 "shared_media" = "Media Berkongsi";
 "shopping" = "Shopping";
