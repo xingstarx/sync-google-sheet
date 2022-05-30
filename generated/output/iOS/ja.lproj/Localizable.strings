@@ -154,7 +154,7 @@
 "chat_group_remove" = "%1$@が%2$@を退出させました";
 "chat_list_empty_info" = "Mixinをダウンロードしている人と\nいつでもチャットが可能です。";
 "chat_not_support" = "チャットが読み込めません Mixinをアップデートしてください %@.";
-"chat_on_mixin_content" = "さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、%@を検索して私と友達になりましょう。";
+"chat_on_mixin_content" = "さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、@%@を検索して私と友達になりましょう。";
 "chat_pin_message" = "%1$@は%2$@をピン留めしました";
 "chat_recall_delete_alert" = "選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。";
 "chat_restore_subtitle" = "後から復元できない可能性があります。 メッセージが復元された後にメディアファイルが続けて復元されます。";
@@ -738,7 +738,7 @@
 "share_log_file" = "記録ファイルを共有する";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
 "share_message_description_empty" = "Are you sure you want to send the %@?";
-"share_this_app" = "このアプリをシェアする";
+"invite_a_friend" = "このアプリをシェアする";
 "share_to" = "共有する";
 "shared_media" = "写真や動画";
 "shopping" = "買い物";

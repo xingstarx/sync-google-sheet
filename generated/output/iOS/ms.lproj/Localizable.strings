@@ -154,7 +154,7 @@
 "chat_group_remove" = "%1$@ mengalih keluar %2$@";
 "chat_list_empty_info" = "Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka";
 "chat_not_support" = "Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. %@.";
-"chat_on_mixin_content" = "Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari %@ untuk menambahkan saya sebagai rakan.";
+"chat_on_mixin_content" = "Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari @%@ untuk menambahkan saya sebagai rakan.";
 "chat_pin_message" = "%1$@ pinned %2$@";
 "chat_recall_delete_alert" = "Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini.";
 "chat_restore_subtitle" = "You will not be able to restore later if you decline to restore now. Media files will continue restore in background after messages is restored.";
@@ -739,7 +739,7 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Adakah anda pasti mahu menghantar %2$@ dari %1$@?";
 "share_message_description_empty" = "Adakah anda pasti mahu menghantar %@?";
-"share_this_app" = "Kongsi Aplikasi Ini";
+"invite_a_friend" = "Kongsi Aplikasi Ini";
 "share_to" = "Share To";
 "shared_media" = "Media Berkongsi";
 "shopping" = "Shopping";
