@@ -230,7 +230,7 @@
   <string name="chat_not_support" platform="android, iOS">不支持此类型消息。请升级 Mixin 查看。 %1$s。</string>
   <string name="chat_not_support_uri_on_phone" platform="Desktop">不支持此链接，请在手机上查看。</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">不支持此类型消息，请在手机上查看。</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 %1$s 加我好友。</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 @%1$s 加我好友。</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s置顶了%2$s</string>
   <string name="Chat_pinned" platform="android">会话已置顶</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">所有使用最新版本 Mixin Messenger 的设备都将删除被选中的消息</string>

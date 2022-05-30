@@ -235,7 +235,7 @@
   <string name="chat_not_support_uri_on_phone" platform="Desktop">This type of url is not supported, please check on your phone.</string>
   <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">This type of message is not supported, please check on your phone.</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search %1$s to add me as a friend.</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search @%1$s to add me as a friend.</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s pinned %2$s</string>
   <string name="Chat_pinned" platform="android">Chat pinned</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">Messages you selected will be deleted for everyone on the latest version of Mixin in this chat.</string>

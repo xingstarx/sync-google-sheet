@@ -203,7 +203,7 @@
   <string name="chat_import_fail_content" platform="android">メッセージのインポートに失敗しました。ファイルとして送信しますか？</string>
   <string name="chat_list_empty_info" platform="android, iOS">Mixinをダウンロードしている人と\nいつでもチャットが可能です。</string>
   <string name="chat_not_support" platform="android, iOS">チャットが読み込めません Mixinをアップデートしてください %1$s.</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、%1$sを検索して私と友達になりましょう。</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、@%1$sを検索して私と友達になりましょう。</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$sは%2$sをピン留めしました</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。</string>
   <string name="chat_restore_subtitle" platform="iOS">後から復元できない可能性があります。 メッセージが復元された後にメディアファイルが続けて復元されます。</string>
