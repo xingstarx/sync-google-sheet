@@ -236,7 +236,7 @@
 | Desktop | chat_not_support_uri_on_phone | This type of url is not supported, please check on your phone. |     |     | 不支持此链接，请在手机上查看。 |     |
 | android, Desktop | chat_not_support_url | https://mixinmessenger.zendesk.com/hc/articles/360043776071 | https://mixinmessenger.zendesk.com/hc/articles/360043776071 | https://mixinmessenger.zendesk.com/hc/articles/360043776071 |     |     |
 | Desktop | chat_not_support_view_on_phone | This type of message is not supported, please check on your phone. |     |     | 不支持此类型消息，请在手机上查看。 |     |
-| android, iOS | chat_on_mixin_content | Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search %1$s to add me as a friend. |     | Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari %1$s untuk menambahkan saya sebagai rakan. | 快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 %1$s 加我好友。 | さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、%1$sを検索して私と友達になりましょう。 |
+| android, iOS | chat_on_mixin_content | Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search @%1$s to add me as a friend. |     | Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari @%1$s untuk menambahkan saya sebagai rakan. | 快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 @%1$s 加我好友。 | さあ、Mixinでチャットをしてみましょう！Mixinは安全かつとても簡単に使えます。ビットコインやイーサリアムのような複数の通貨にも対応しています。https://mixin.one/messenger からMixinをダウンロードし、@%1$sを検索して私と友達になりましょう。 |
 | android, iOS, Desktop | chat_pin_message | %1$s pinned %2$s |     |     | %1$s置顶了%2$s | %1$sは%2$sをピン留めしました |
 | android | Chat_pinned | Chat pinned |     |     | 会话已置顶 |     |
 | android, iOS | chat_recall_delete_alert | Messages you selected will be deleted for everyone on the latest version of Mixin in this chat. | Pesan yang Anda pilih akan dihapus untuk semua orang pada versi Mixin terbaru dalam obrolan ini. | Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini. | 所有使用最新版本 Mixin Messenger 的设备都将删除被选中的消息 | 選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。 |
@@ -1132,7 +1132,7 @@
 | android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
 | android, iOS | share_message_description_empty | Are you sure you want to send the %1$s? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
 | android | Share_QR_Code | Share QR Code |     |     | 分享二维码 | QRコードを共有 |
-| android, iOS | Share_This_App | Share This App |     | Kongsi Aplikasi Ini | 分享应用 | このアプリをシェアする |
+| android, iOS | Invite_a_Friend | Invite a Friend |     | Kongsi Aplikasi Ini | 邀请好友 | このアプリをシェアする |
 | android | share_to | Share %1$s to… | Bagikan %1$s ke… | Kongsi %1$s ke… | 分享%1$s到… | %1$sをシェアする |
 | iOS | Share_To | Share To |     |     | 分享给 | 共有する |
 | android, iOS, Desktop | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
