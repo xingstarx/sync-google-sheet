@@ -1,4 +1,4 @@
-<resource>
+<resources>
   <string name="a_card" platform="android">カード</string>
   <string name="a_contact" platform="android">連絡先</string>
   <string name="a_file" platform="android">ファイル</string>
@@ -649,28 +649,28 @@
   <string name="News" platform="iOS">ニュース</string>
   <string name="Next" platform="android, iOS, Desktop">次へ</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">音声がありません</string>
-  <string name="No_Available_Asset" platform="android">有効な資産がありません</string>
-  <string name="No_blocked_user" platform="android, iOS">ブロック済みのユーザーはいません</string>
-  <string name="NO_BOT" platform="android, iOS">ロボがありません</string>
+  <string name="No_Available_Assets" platform="android">有効な資産がありません</string>
+  <string name="No_blocked_users" platform="android, iOS">ブロック済みのユーザーはいません</string>
+  <string name="NO_BOTS" platform="android, iOS">ロボがありません</string>
   <string name="No_camera" platform="android, Desktop">カメラを認識できません</string>
-  <string name="No_deposit" platform="android">入金はありません</string>
-  <string name="No_fee" platform="android">手数料はありません</string>
-  <string name="NO_FILE" platform="android, iOS, Desktop">ファイルがありません</string>
-  <string name="No_hidden_asset" platform="android, iOS">非表示資産はありません</string>
-  <string name="NO_LINK" platform="android, Desktop">リンクがありません</string>
-  <string name="No_log" platform="android, iOS">ログがありません</string>
+  <string name="No_deposits" platform="android">入金はありません</string>
+  <string name="No_fees" platform="android">手数料はありません</string>
+  <string name="NO_FILES" platform="android, iOS, Desktop">ファイルがありません</string>
+  <string name="No_hidden_assets" platform="android, iOS">非表示資産はありません</string>
+  <string name="NO_LINKS" platform="android, Desktop">リンクがありません</string>
+  <string name="No_logs" platform="android, iOS">ログがありません</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">メディアがありません</string>
   <string name="No_media_yet" platform="android">メディアがありません</string>
   <string name="No_Memo" platform="android, iOS">メモなし</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">ネットワーク接続がありません</string>
-  <string name="NO_POST" platform="android, iOS, Desktop">投稿がありません</string>
-  <string name="No_raw" platform="android">その他はありません</string>
-  <string name="No_rebate" platform="android">払い戻しはありません</string>
-  <string name="No_result" platform="android, iOS">結果なし</string>
-  <string name="NO_STICKER" platform="android, iOS">ステッカーはありません</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">投稿がありません</string>
+  <string name="No_raws" platform="android">その他はありません</string>
+  <string name="No_rebates" platform="android">払い戻しはありません</string>
+  <string name="No_results" platform="android, iOS">結果なし</string>
+  <string name="NO_STICKERS" platform="android, iOS">ステッカーはありません</string>
   <string name="No_tag" platform="android, iOS">タグなし</string>
-  <string name="No_transaction" platform="android, iOS">トランザクションはありません</string>
-  <string name="No_withdrawal" platform="android">出金はありません</string>
+  <string name="No_transactions" platform="android, iOS">トランザクションはありません</string>
+  <string name="No_withdrawals" platform="android">出金はありません</string>
   <string name="Nobody" platform="android, iOS">なし</string>
   <string name="None" platform="android, iOS">なし</string>
   <string name="Not_logged_in" platform="android">ログインしていません</string>
@@ -768,7 +768,7 @@
   <string name="Privacy_Policy" platform="android, iOS, Desktop">プライバシーポリシー</string>
   <string name="profile_modify_number" platform="android">電話番号を変更しますか?</string>
   <string name="profile_share_bot_hint" platform="android, iOS">ロボをシェアしたい場合は、先に連絡先に追加してください。</string>
-  <string name="protect_setting_security_hint" platform="iOS">設定を変更するためPINを入力してください</string>
+  <string name="change_pin_interval_hint" platform="iOS">設定を変更するためPINを入力してください</string>
   <string name="Public_profile" platform="android, iOS">プロフィール</string>
   <string name="QR_Code_not_found" platform="android, iOS">QRコードが見つかりません</string>
   <string name="quote" platform="android">引用</string>
@@ -1131,4 +1131,4 @@
   <string name="Your_emergency_contact_has_been_changed" platform="iOS">緊急連絡先が変更されました</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINが変更されました</string>
-</resource>
+</resources>

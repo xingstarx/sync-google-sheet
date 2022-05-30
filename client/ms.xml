@@ -1,4 +1,4 @@
-<resource>
+<resources>
   <string name="About" platform="android, iOS, Desktop">Mengenai</string>
   <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
@@ -427,28 +427,28 @@
   <string name="new_group_name" platform="android">nama kumpulan baharu</string>
   <string name="Next" platform="android, iOS, Desktop">Seterusnya</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">TIADA AUDIO</string>
-  <string name="NO_AUTHORIZATION" platform="android, iOS">Tiada aplikasi autentik</string>
-  <string name="No_Available_Asset" platform="android">Tiada Aset Yang Tersedia</string>
-  <string name="No_blocked_user" platform="android, iOS">Tiada pengguna yang disekat</string>
-  <string name="NO_BOT" platform="android, iOS">TIADA APLIKASI</string>
+  <string name="NO_AUTHORIZATIONS" platform="android, iOS">Tiada aplikasi autentik</string>
+  <string name="No_Available_Assets" platform="android">Tiada Aset Yang Tersedia</string>
+  <string name="No_blocked_users" platform="android, iOS">Tiada pengguna yang disekat</string>
+  <string name="NO_BOTS" platform="android, iOS">TIADA APLIKASI</string>
   <string name="No_camera" platform="android, Desktop">Tiada kamera</string>
-  <string name="No_deposit" platform="android">Tiada deposit</string>
-  <string name="No_fee" platform="android">Tanpa bayaran</string>
-  <string name="NO_FILE" platform="android, iOS, Desktop">TIADA FAIL</string>
-  <string name="No_hidden_asset" platform="android, iOS">Tiada aset tersembunyi</string>
-  <string name="NO_LINK" platform="android, Desktop">TIADA Pautan</string>
-  <string name="No_log" platform="android, iOS">Tiada log</string>
+  <string name="No_deposits" platform="android">Tiada deposit</string>
+  <string name="No_fees" platform="android">Tanpa bayaran</string>
+  <string name="NO_FILES" platform="android, iOS, Desktop">TIADA FAIL</string>
+  <string name="No_hidden_assets" platform="android, iOS">Tiada aset tersembunyi</string>
+  <string name="NO_LINKS" platform="android, Desktop">TIADA Pautan</string>
+  <string name="No_logs" platform="android, iOS">Tiada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada lagi media</string>
   <string name="No_Memo" platform="android, iOS">Tiada Memo</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">Tiada sambungan rangkaian</string>
-  <string name="NO_POST" platform="android, iOS, Desktop">TIADA POST</string>
-  <string name="No_raw" platform="android">Tanpa raws</string>
-  <string name="No_rebate" platform="android">Tiada rebat</string>
-  <string name="No_result" platform="android, iOS">Tiada keputusan</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">TIADA POST</string>
+  <string name="No_raws" platform="android">Tanpa raws</string>
+  <string name="No_rebates" platform="android">Tiada rebat</string>
+  <string name="No_results" platform="android, iOS">Tiada keputusan</string>
   <string name="No_tag" platform="android, iOS">Tiada Tag</string>
-  <string name="No_transaction" platform="android, iOS">Tiada urus niaga</string>
-  <string name="No_withdrawal" platform="android">Tiada pengeluaran</string>
+  <string name="No_transactions" platform="android, iOS">Tiada urus niaga</string>
+  <string name="No_withdrawals" platform="android">Tiada pengeluaran</string>
   <string name="Nobody" platform="android, iOS">Tiada siapa</string>
   <string name="None" platform="android, iOS">Tiada</string>
   <string name="Not_found" platform="android, iOS, Desktop">Tidak ditemui</string>
@@ -767,4 +767,4 @@
   <string name="Write_Circles" platform="android, iOS, Desktop">Tulis Lingkaran</string>
   <string name="You" platform="android, iOS, Desktop">Anda</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Anda memadamkan mesej ini</string>
-</resource>
+</resources>

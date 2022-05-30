@@ -1,4 +1,4 @@
-<resource>
+<resources>
   <string name="About" platform="android, iOS, Desktop">Tentang</string>
   <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
@@ -405,27 +405,27 @@
   <string name="new_group_name" platform="android">nama grup baru</string>
   <string name="Next" platform="android, iOS, Desktop">Berikutnya</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">TIDAK ADA SUARA</string>
-  <string name="NO_AUTHORIZATION" platform="android, iOS">Tidak ada aplikasi yang diizinkan</string>
-  <string name="No_blocked_user" platform="android, iOS">Tidak ada pengguna yang diblokir</string>
-  <string name="NO_BOT" platform="android, iOS">TIDAK ADA APLIKASI</string>
+  <string name="NO_AUTHORIZATIONS" platform="android, iOS">Tidak ada aplikasi yang diizinkan</string>
+  <string name="No_blocked_users" platform="android, iOS">Tidak ada pengguna yang diblokir</string>
+  <string name="NO_BOTS" platform="android, iOS">TIDAK ADA APLIKASI</string>
   <string name="No_camera" platform="android, Desktop">Tidak ada kamera</string>
-  <string name="No_deposit" platform="android">Tidak ada deposit</string>
-  <string name="No_fee" platform="android">Tidak ada biaya</string>
-  <string name="NO_FILE" platform="android, iOS, Desktop">TIDAK ADA FILE</string>
-  <string name="No_hidden_asset" platform="android, iOS">Tidak ada aset tersembunyi</string>
-  <string name="NO_LINK" platform="android, Desktop">TIDAK ADA TAUTAN</string>
-  <string name="No_log" platform="android, iOS">Tidak ada log</string>
+  <string name="No_deposits" platform="android">Tidak ada deposit</string>
+  <string name="No_fees" platform="android">Tidak ada biaya</string>
+  <string name="NO_FILES" platform="android, iOS, Desktop">TIDAK ADA FILE</string>
+  <string name="No_hidden_assets" platform="android, iOS">Tidak ada aset tersembunyi</string>
+  <string name="NO_LINKS" platform="android, Desktop">TIDAK ADA TAUTAN</string>
+  <string name="No_logs" platform="android, iOS">Tidak ada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIDAK ADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada media</string>
   <string name="No_Memo" platform="android, iOS">Tanpa Memo</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">Tidak ada sambungan jaringan</string>
-  <string name="NO_POST" platform="android, iOS, Desktop">TIDAK ADA POSTINGAN</string>
-  <string name="No_raw" platform="android">Tidak ada raw</string>
-  <string name="No_rebate" platform="android">Tidak ada rabat</string>
-  <string name="No_result" platform="android, iOS">Tidak ada hasil</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">TIDAK ADA POSTINGAN</string>
+  <string name="No_raws" platform="android">Tidak ada raw</string>
+  <string name="No_rebates" platform="android">Tidak ada rabat</string>
+  <string name="No_results" platform="android, iOS">Tidak ada hasil</string>
   <string name="No_tag" platform="android, iOS">Tanpa Tag</string>
-  <string name="No_transaction" platform="android, iOS">Tidak ada transaksi</string>
-  <string name="No_withdrawal" platform="android">Tidak ada penarikan</string>
+  <string name="No_transactions" platform="android, iOS">Tidak ada transaksi</string>
+  <string name="No_withdrawals" platform="android">Tidak ada penarikan</string>
   <string name="Nobody" platform="android, iOS">Tak seorangpun</string>
   <string name="None" platform="android, iOS">Tidak ada</string>
   <string name="Not_found" platform="android, iOS, Desktop">Tidak ditemukan</string>
@@ -704,4 +704,4 @@
   <string name="withdrawal_with_PIN" platform="android">Penarikan dengan PIN</string>
   <string name="You" platform="android, iOS, Desktop">Anda</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Anda menghapus pesan ini</string>
-</resource>
+</resources>
