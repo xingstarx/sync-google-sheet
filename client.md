@@ -881,7 +881,7 @@
 | android, iOS | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
 | android, iOS | Photo | Photo | Foto | Foto | 照片  | 写真  |
 | iOS | Photo_saved | Photo saved. |     |     | 图片已成功保存在相册 | 画像が保存されました |
-| iOS | photo.count | %1$d  Photos |     |     | %1$d 张图片 |     |
+| iOS | photo.count | %1$d Photos |     |     | %1$d 张图片 |     |
 | android, iOS, Desktop | Photos | Photos | Foto | Foto | 照片  | 画像  |
 | Desktop | pick_a_conversation | Select a conversation and start sending a message |     |     | 选择一个对话，开始发送信息 |     |
 | iOS | Pick_from_Library | Pick from Library |     |     | 打开相册 | ライブラリーから選択する |
@@ -1132,7 +1132,7 @@
 | android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
 | android, iOS | share_message_description_empty | Are you sure you want to send the %1$s? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
 | android | Share_QR_Code | Share QR Code |     |     | 分享二维码 | QRコードを共有 |
-| android, iOS | Share_This_Bot | Share This Bot |     | Kongsi Aplikasi Ini | 分享机器人 | このアプリをシェアする |
+| android, iOS | Share_This_App | Share This App |     | Kongsi Aplikasi Ini | 分享应用 | このアプリをシェアする |
 | android | share_to | Share %1$s to… | Bagikan %1$s ke… | Kongsi %1$s ke… | 分享%1$s到… | %1$sをシェアする |
 | iOS | Share_To | Share To |     |     | 分享给 | 共有する |
 | android, iOS, Desktop | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
