@@ -781,32 +781,32 @@
 | android, iOS, Desktop | Next | Next | Berikutnya | Seterusnya | 下一步 | 次へ  |
 | Desktop | next_conversation | Next conversation |     |     | 下一个会话 |     |
 | android, iOS, Desktop | NO_AUDIO | NO AUDIO | TIDAK ADA SUARA | TIADA AUDIO | 没有音频 | 音声がありません |
-| android, iOS | NO_AUTHORIZATIONS | NO AUTHORIZATION | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
-| android | No_Available_Assets | No Available Asset |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
-| android, iOS | No_blocked_users | No blocked user | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
-| android, iOS | NO_BOTS | NO BOT | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
+| android, iOS | NO_AUTHORIZATIONS | NO AUTHORIZATIONS | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
+| android | No_Available_Assets | No Available Assets |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
+| android, iOS | No_blocked_users | No blocked users | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
+| android, iOS | NO_BOTS | NO BOTS | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
 | android, Desktop | No_camera | No camera | Tidak ada kamera | Tiada kamera | 没有相机 | カメラを認識できません |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
-| android | No_deposits | No deposit | Tidak ada deposit | Tiada deposit | 暂无充值记录 | 入金はありません |
-| android | No_fees | No fee | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
-| android, iOS, Desktop | NO_FILES | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
-| android, iOS | No_hidden_assets | No hidden asset | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
+| android | No_deposits | No deposits | Tidak ada deposit | Tiada deposit | 暂无充值记录 | 入金はありません |
+| android | No_fees | No fees | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
+| android, iOS, Desktop | NO_FILES | NO FILES | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
+| android, iOS | No_hidden_assets | No hidden assets | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
 | iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
-| android, Desktop | NO_LINKS | NO LINK | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
-| android, iOS | No_logs | No log | Tidak ada log | Tiada log | 没有日志 | ログがありません |
+| android, Desktop | NO_LINKS | NO LINKS | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
+| android, iOS | No_logs | No logs | Tidak ada log | Tiada log | 没有日志 | ログがありません |
 | android, iOS, Desktop | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
 | android | No_media_yet | No media yet | Belum ada media | Belum ada lagi media | 还没有图片或视频 | メディアがありません |
 | android, iOS | No_Memo | No Memo | Tanpa Memo | Tiada Memo | 没有 Memo（备注） | メモなし |
 | android, iOS, Desktop | No_network_connection | No network connection | Tidak ada sambungan jaringan | Tiada sambungan rangkaian | 无网络连接 | ネットワーク接続がありません |
-| android, iOS, Desktop | NO_POSTS | NO POST | TIDAK ADA POSTINGAN | TIADA POST | 没有文章 | 投稿がありません |
-| android | No_raws | No raw | Tidak ada raw | Tanpa raws | 暂无其他记录 | その他はありません |
-| android | No_rebates | No rebate | Tidak ada rabat | Tiada rebat | 暂无退款记录 | 払い戻しはありません |
-| android, iOS | No_results | No result | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
-| Desktop | no_results | No result |     |     | 没有结果 |     |
-| android, iOS | NO_STICKERS | NO STICKER |     |     | 还未添加任何表情 | ステッカーはありません |
+| android, iOS, Desktop | NO_POSTS | NO POSTS | TIDAK ADA POSTINGAN | TIADA POST | 没有文章 | 投稿がありません |
+| android | No_raws | No raws | Tidak ada raw | Tanpa raws | 暂无其他记录 | その他はありません |
+| android | No_rebates | No rebates | Tidak ada rabat | Tiada rebat | 暂无退款记录 | 払い戻しはありません |
+| android, iOS | No_results | No results | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
+| Desktop | no_results | No results |     |     | 没有结果 |     |
+| android, iOS | NO_STICKERS | NO STICKERS |     |     | 还未添加任何表情 | ステッカーはありません |
 | android, iOS | No_tag | No Tag | Tanpa Tag | Tiada Tag | 点击不使用 Tag（标签） | タグなし |
-| android, iOS | No_transactions | No transaction | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
-| android | No_withdrawals | No withdrawal | Tidak ada penarikan | Tiada pengeluaran | 暂无提现记录 | 出金はありません |
+| android, iOS | No_transactions | No transactions | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
+| android | No_withdrawals | No withdrawals | Tidak ada penarikan | Tiada pengeluaran | 暂无提现记录 | 出金はありません |
 | android, iOS | Nobody | Nobody | Tak seorangpun | Tiada siapa | 没有人 | なし  |
 | android | Nodes | Nodes |     |     | 节点  |     |
 | android, iOS | None | None | Tidak ada | Tiada | 无   | なし  |
