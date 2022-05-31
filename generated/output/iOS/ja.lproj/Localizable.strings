@@ -132,6 +132,7 @@
 "change_number_instead" = "電話番号を変更";
 "change_phone_number" = "電話番号を変更";
 "change_pin" = "PINを変更する";
+"change_pin_interval_hint" = "設定を変更するためPINを入力してください";
 "change_pin_successfully" = "PINの変更が完了しました。";
 "change_profile_photo_with_camera" = "プロフィール画像を撮影";
 "change_profile_photo_with_library" = "プロフィール画像を選択";
@@ -411,6 +412,7 @@
 "invalid_sdp" = "無効なsdp";
 "invalid_width" = "無効な横幅";
 "invite" = "招待する";
+"invite_a_friend" = "このアプリをシェアする";
 "invite_info" = "リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。";
 "invite_to_group_via_link" = "リンクを使って招待する";
 "invited_by_stranger" = "招待者はあなたの連絡先に存在しません";
@@ -603,7 +605,6 @@
 "privacy_policy" = "プライバシーポリシー";
 "profile_photo" = "Profile Photo";
 "profile_share_bot_hint" = "ロボをシェアしたい場合は、先に連絡先に追加してください。";
-"change_pin_interval_hint" = "設定を変更するためPINを入力してください";
 "public_profile" = "プロフィール";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QRコードが見つかりません";
@@ -738,7 +739,6 @@
 "share_log_file" = "記録ファイルを共有する";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
 "share_message_description_empty" = "Are you sure you want to send the %@?";
-"invite_a_friend" = "このアプリをシェアする";
 "share_to" = "共有する";
 "shared_media" = "写真や動画";
 "shopping" = "買い物";

@@ -132,6 +132,7 @@
 "change_number_instead" = "Change Number Instead";
 "change_phone_number" = "Change Phone Number";
 "change_pin" = "Change PIN";
+"change_pin_interval_hint" = "Confirm PIN to change interval";
 "change_pin_successfully" = "Change PIN successfully";
 "change_profile_photo_with_camera" = "Change Profile Photo with Camera";
 "change_profile_photo_with_library" = "Change Profile Photo with Library";
@@ -411,6 +412,7 @@
 "invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
+"invite_a_friend" = "Invite a Friend";
 "invite_info" = "Anyone with Mixin can follow this link to join this group. Only share it with people you trust.";
 "invite_to_group_via_link" = "Invite to Group via Link";
 "invited_by_stranger" = "The inviter is not in your contacts";
@@ -603,7 +605,6 @@
 "privacy_policy" = "Privacy Policy";
 "profile_photo" = "Profile Photo";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
-"change_pin_interval_hint" = "Confirm PIN to change interval";
 "public_profile" = "Public profile (required)";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QR Code not found";
@@ -738,7 +739,6 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
 "share_message_description_empty" = "Are you sure you want to send the %@?";
-"invite_a_friend" = "Invite a Friend";
 "share_to" = "Share To";
 "shared_media" = "Shared Media";
 "shopping" = "Shopping";

@@ -132,6 +132,7 @@
 "change_number_instead" = "Change Number Instead";
 "change_phone_number" = "Ubah Nomor Telepon";
 "change_pin" = "Ubah PIN";
+"change_pin_interval_hint" = "Confirm PIN to change interval";
 "change_pin_successfully" = "Berhasil mengubah PIN";
 "change_profile_photo_with_camera" = "Ubah Foto Profil dengan Kamera";
 "change_profile_photo_with_library" = "Ubah Foto Profil dengan Koleksi";
@@ -411,6 +412,7 @@
 "invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
+"invite_a_friend" = "Invite a Friend";
 "invite_info" = "Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya.";
 "invite_to_group_via_link" = "Undang ke Grup melalui Tautan";
 "invited_by_stranger" = "The inviter is not in your contacts";
@@ -603,7 +605,6 @@
 "privacy_policy" = "Kebijakan Privasi";
 "profile_photo" = "Foto Profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
-"change_pin_interval_hint" = "Confirm PIN to change interval";
 "public_profile" = "Profil publik (wajib diisi)";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "Kode Qr tidak ditemukan";
@@ -738,7 +739,6 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Yakin ingin mengirim %2$@ dari %1$@?";
 "share_message_description_empty" = "Yakin ingin mengirim %@?";
-"invite_a_friend" = "Invite a Friend";
 "share_to" = "Share To";
 "shared_media" = "Media Bersama";
 "shopping" = "Shopping";
