@@ -97,7 +97,7 @@
 	<string name="Canceled_by_caller">Panggilan Dibatalkan oleh penelepon</string>
 	<string name="Cant_receive_the_code">Tidak dapat menerima kode?</string>
 	<string name="cant_talk_self">Anda tidak dapat berbicara kepada diri Anda sendiri</string>
-	<string name="Card">ロボ</string>
+	<string name="Card">Kartu</string>
 	<string name="Chain">Chain</string>
 	<string name="Change">Ubah</string>
 	<string name="Change_Amount">Ubah Jumlah</string>
@@ -402,6 +402,7 @@
 	<string name="multisig_state_signed">Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda.</string>
 	<string name="multisig_state_unlocked">Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda.</string>
 	<string name="Multisig_Transaction">Transaksi Multisig</string>
+	<string name="Mute">Bisukan</string>
 	<string name="Mute_until">Hingga %1$s</string>
 	<string name="My_Contacts">Kontak Saya</string>
 	<string name="my_mixin_id">ID Mixin saya: %1$s</string>
@@ -436,6 +437,7 @@
 	<string name="NO_POSTS">TIDAK ADA POSTINGAN</string>
 	<string name="No_raws">Tidak ada raw</string>
 	<string name="No_rebates">Tidak ada rabat</string>
+	<string name="No_results">Tidak ada hasil</string>
 	<string name="No_tag">Tanpa Tag</string>
 	<string name="No_transactions">Tidak ada transaksi</string>
 	<string name="No_withdrawals">Tidak ada penarikan</string>
@@ -457,7 +459,7 @@
 	<string name="Open">Buka</string>
 	<string name="Open_Home_page">Buka Beranda</string>
 	<string name="Open_in_browser">Buka di browser</string>
-	<string name="OTHER">その他</string>
+	<string name="OTHER">LAINNYA</string>
 	<string name="Owner">pemilik</string>
 	<string name="Participants">Peserta</string>
 	<string name="pay_paid">Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda.</string>
@@ -476,14 +478,15 @@
 	<string name="Phone_Number">Nomor Telepon</string>
 	<string name="Phone_number_change">Perubahan nomor telepon</string>
 	<string name="phone_number_privacy">Siapa yang dapat menemukan saya menurut nomor saya</string>
-	<plurals name="Photo" tools:ignore="UnusedQuantity">
-		<item quantity="one">Foto</item>
+	<string name="Photo">Foto</string>
 	<string name="Photos">Foto</string>
 	<string name="PIN">PIN</string>
 	<string name="PIN_change">Perubahan PIN</string>
 	<string name="pin_check_tip">Anda akan ditanya secara berkala untuk membantu Anda mengingatnya.</string>
 	<string name="PIN_incorrect">PIN salah</string>
 	<string name="Please_wait_a_bit">Mohon tunggu sebentar…</string>
+	<string name="POST">POSTINGAN</string>
+	<string name="Post">Postingan</string>
 	<string name="Privacy">Privasi</string>
 	<string name="Privacy_Policy">Kebijakan Privasi</string>
 	<string name="profile_modify_number">Ingin mengubah nomor telepon Anda?</string>
@@ -498,7 +501,7 @@
 	<string name="Read_Snapshots">Membaca Snapshot</string>
 	<string name="Rebate">Potongan harga</string>
 	<string name="Recaptcha_timeout">Batas waktu recaptcha</string>
-	<string name="Receive">入金</string>
+	<string name="RECEIVE">Terima</string>
 	<string name="Receive_Money">Terima uang</string>
 	<string name="Receiver">Penerima</string>
 	<string name="recent_chats">OBROLAN</string>
@@ -596,7 +599,7 @@
 	<string name="Share_Link">Bagikan Tautan</string>
 	<string name="share_message_description">Yakin ingin mengirim %2$s dari %1$s?</string>
 	<string name="share_message_description_empty">Yakin ingin mengirim %1$s?</string>
-	<string name="share_to">共有する</string>
+	<string name="share_to">Bagikan %1$s ke…</string>
 	<string name="Shared_Media">Media Bersama</string>
 	<string name="Show">Tampilkan</string>
 	<string name="Shown">Ditampilkan</string>
@@ -625,7 +628,6 @@
 	<string name="Tag">Tag</string>
 	<string name="Tap_to_join">Ketuk untuk bergabung</string>
 	<string name="Terms_of_Service">Ketentuan Layanan</string>
-	<string name="Text">メッセージ通知の内容表示</string>
 	<string name="TEXT_QR_CODE">KODE QR TEKS</string>
 	<string name="Theme">Tema</string>
 	<string name="This_message_was_deleted">Pesan ini telah dihapus</string>

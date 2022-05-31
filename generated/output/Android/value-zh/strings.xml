@@ -95,6 +95,7 @@
 	<string name="Auto_Lock">自动锁定</string>
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="Backing_Up">正在备份…</string>
+	<string name="Backup">备份</string>
 	<string name="backup_choose_a_folder">请选择用于保存备份的文件夹</string>
 	<string name="Backup_delete">删除备份</string>
 	<string name="backup_des">备份对话记录到外部存储以便在重新安装 Mixin 时还原对话记录，备份到外部存储的对话不会进行加密处理。</string>
@@ -140,6 +141,7 @@
 	<string name="Cant_receive_the_code">接收不到验证码？</string>
 	<string name="cant_talk_self">不能和自己对话</string>
 	<string name="cant_transfer_self">不能给自己转账</string>
+	<string name="Card">卡片</string>
 	<string name="Chain">所属公链</string>
 	<string name="Change">更改</string>
 	<string name="Change_Amount">修改金额</string>
@@ -467,7 +469,6 @@
 	<string name="Invalid_payment_link">无效支付信息</string>
 	<string name="Invalid_QR_Code">无效的二维码</string>
 	<string name="Invalid_sticker_format">贴纸格式不支持</string>
-	<string name="Invite_a_Friend">邀请好友</string>
 	<string name="invite_info">Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。</string>
 	<string name="Invite_people">邀请好友</string>
 	<string name="Invite_to_Group_via_Link">群邀请链接</string>
@@ -550,6 +551,7 @@
 	<string name="multisig_state_signed">您已经对这笔交易进行了签名，您无法再次签名。</string>
 	<string name="multisig_state_unlocked">这笔交易已经被其他人撤销了，您无法再次撤销。</string>
 	<string name="Multisig_Transaction">多重签名交易</string>
+	<string name="Mute">静音通知</string>
 	<string name="Mute_until">直到 %1$s</string>
 	<string name="My_Contacts">我的联系人</string>
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
@@ -591,6 +593,7 @@
 	<string name="NO_POSTS">没有文章</string>
 	<string name="No_raws">暂无其他记录</string>
 	<string name="No_rebates">暂无退款记录</string>
+	<string name="No_results">未找到相关结果</string>
 	<string name="NO_STICKERS">还未添加任何表情</string>
 	<string name="No_tag">点击不使用 Tag（标签）</string>
 	<string name="No_transactions">暂无转账记录</string>
@@ -621,6 +624,7 @@
 	<string name="Open_in_browser">在浏览器中打开</string>
 	<string name="Open_Link">打开链接：%1$s</string>
 	<string name="Operator">运营商</string>
+	<string name="OTHER">其他</string>
 	<string name="Owner">群主</string>
 	<string name="parse_dns_result">解析 DNS 结果</string>
 	<string name="Participants">成员</string>
@@ -643,8 +647,7 @@
 	<string name="Phone_Number">手机号码</string>
 	<string name="Phone_number_change">修改手机号</string>
 	<string name="phone_number_privacy">谁可以通过手机号找到你</string>
-	<plurals name="Photo" tools:ignore="UnusedQuantity">
-		<item quantity="one">照片</item>
+	<string name="Photo">照片</string>
 	<string name="Photos">照片</string>
 	<string name="PIN">PIN</string>
 	<string name="PIN_change">修改 PIN</string>
@@ -655,15 +658,17 @@
 	<string name="PIN_incorrect">PIN 错误</string>
 	<string name="pin_lost_hint">如果忘记，你的钱包将无法找回。</string>
 	<string name="pin_title">置顶</string>
-	<string name="pinned_message_title">%1$d 条置顶消息</string>
 	<plurals name="pinned_message_title" tools:ignore="UnusedQuantity">
+		<item quantity="one">%1$d 条置顶消息</item>
 		<item quantity="other">%1$d 条置顶消息</item>
+	</plurals>
 	<string name="Pinned_Messages">置顶消息</string>
 	<string name="Play">播放</string>
 	<string name="Playback_failed">播放失败</string>
 	<string name="Playlist">播放列表</string>
 	<string name="Please_wait_a_bit">请稍等…</string>
-	<string name="POST">Postingan</string>
+	<string name="POST">文章</string>
+	<string name="Post">文章</string>
 	<string name="Privacy">隐私</string>
 	<string name="Privacy_Policy">隐私政策</string>
 	<string name="profile_modify_number">你想要修改手机号码么？</string>
@@ -683,7 +688,8 @@
 	<string name="Read_Snapshots">查看转账记录</string>
 	<string name="Rebate">退款</string>
 	<string name="Recaptcha_timeout">验证超时</string>
-	<string name="Receive">Terima</string>
+	<string name="Receive">转入</string>
+	<string name="RECEIVE">转入</string>
 	<string name="Receive_Money">我的收款码</string>
 	<string name="Receiver">至</string>
 	<string name="recent_chats">最近聊天</string>
@@ -746,14 +752,16 @@
 	<string name="SEARCH_MESSAGES">搜索消息</string>
 	<string name="search_placeholder_asset">名称, 符号</string>
 	<string name="search_placeholder_number">搜索 Mixin ID 或手机号码：</string>
-	<string name="search_related_message">%1$d 条相关的消息</string>
 	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
+		<item quantity="one">%1$d 条相关的消息</item>
 		<item quantity="other">%1$d 条相关的消息</item>
+	</plurals>
 	<string name="Searching">搜索中</string>
 	<string name="Security">安全</string>
 	<string name="Select">选择</string>
 	<string name="Select_Emergency_Contact">选择紧急联系人</string>
 	<string name="Send">发送</string>
+	<string name="Send_as_file">按文件发送</string>
 	<string name="send_file_group">将 \"%1$s\" 发送给 \"%2$s\"？</string>
 	<string name="Send_Message">发消息</string>
 	<string name="Send_This_Location">发送这个位置</string>
@@ -802,19 +810,23 @@
 	<string name="setting_notification_transfer_summary">收到不少于 %1$s 转账时显示通知。</string>
 	<string name="setting_privacy_tip">谁可以给你发消息或邀请你加入群聊。</string>
 	<string name="setting_revoke_confirmation">取消 %1$s 的授权？</string>
-	<string name="setting_storage_clear">清除 %1$d 条消息（%2$s）？</string>
 	<plurals name="setting_storage_clear" tools:ignore="UnusedQuantity">
+		<item quantity="one">清除 %1$d 条消息（%2$s）？</item>
 		<item quantity="other">清除 %1$d 条消息（%2$s）？</item>
+	</plurals>
 	<string name="setting_stranger_transfer_desc">当你给陌生人转账时显示确认弹窗。</string>
 	<string name="setting_transfer_large_summary">当转账金额大于或等于 %1$s 时显示确认弹窗。</string>
 	<string name="setting_transfer_large_summary_greater">当转账金额大于 %1$s 时显示确认弹窗。</string>
 	<string name="Settings">设置</string>
 	<string name="Share">分享</string>
+	<string name="Share_Contact">分享他的名片</string>
 	<string name="Share_error">分享出错</string>
 	<string name="Share_Link">分享邀请链接</string>
 	<string name="share_message_description">你确定要发送来自%1$s的%2$s？</string>
 	<string name="share_message_description_empty">你确定要发送该%1$s？</string>
 	<string name="Share_QR_Code">分享二维码</string>
+	<string name="Invite_a_Friend">邀请好友</string>
+	<string name="share_to">分享%1$s到…</string>
 	<string name="Shared_Media">媒体内容</string>
 	<string name="Show">显示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
@@ -856,6 +868,7 @@
 	<string name="Tag">Tag（标签）</string>
 	<string name="Tap_to_join">点击加入</string>
 	<string name="Terms_of_Service">服务条款</string>
+	<string name="Text">文字</string>
 	<string name="TEXT_QR_CODE">文本二维码</string>
 	<string name="The_code_is_incorrect">验证码不正确</string>
 	<string name="Theme">主题</string>
@@ -863,9 +876,10 @@
 	<string name="This_message_was_deleted">此消息已撤回</string>
 	<string name="Thursday">星期四</string>
 	<string name="Time">时间</string>
-	<string name="title_participants">%1$d 成员</string>
 	<plurals name="title_participants" tools:ignore="UnusedQuantity">
+		<item quantity="one">%1$d 成员</item>
 		<item quantity="other">%1$d 成员</item>
+	</plurals>
 	<string name="To">至</string>
 	<string name="Today">今天</string>
 	<string name="Touch_the_fingerprint_sensor">触摸指纹传感器</string>
@@ -893,21 +907,26 @@
 	<string name="Type_message">输入消息</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤销</string>
-	<string name="unit_day">天</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
+		<item quantity="one">天</item>
 		<item quantity="other">天</item>
-	<string name="unit_hour">小时</string>
+	</plurals>
 	<plurals name="unit_hour" tools:ignore="UnusedQuantity">
+		<item quantity="one">小时</item>
 		<item quantity="other">小时</item>
-	<string name="unit_minute">分</string>
+	</plurals>
 	<plurals name="unit_minute" tools:ignore="UnusedQuantity">
+		<item quantity="one">分</item>
 		<item quantity="other">分</item>
-	<string name="unit_second">秒</string>
+	</plurals>
 	<plurals name="unit_second" tools:ignore="UnusedQuantity">
+		<item quantity="one">秒</item>
 		<item quantity="other">秒</item>
-	<string name="unit_week">周</string>
+	</plurals>
 	<plurals name="unit_week" tools:ignore="UnusedQuantity">
+		<item quantity="one">周</item>
 		<item quantity="other">周</item>
+	</plurals>
 	<string name="Unknown">未知</string>
 	<string name="Unlock_with_fingerprint">使用指纹解锁</string>
 	<string name="unlock_with_fingerprint_desc">启用后，您需要使用指纹解锁以开启 Mixin。</string>

@@ -121,6 +121,7 @@
 "canceled_by_caller" = "对方已取消";
 "cant_receive_the_code" = "接收不到验证码？";
 "caption_send" = "转出";
+"card" = "卡片";
 "category_chats" = "最近聊天";
 "chain" = "所属公链";
 "change" = "更改";
@@ -131,7 +132,6 @@
 "change_number_instead" = "仅修改手机号码";
 "change_phone_number" = "修改手机号";
 "change_pin" = "修改 PIN";
-"change_pin_interval_hint" = "输入 PIN 修改使用间隔";
 "change_pin_successfully" = "PIN 修改成功";
 "change_profile_photo_with_camera" = "更换头像（相机）";
 "change_profile_photo_with_library" = "更换头像（相册）";
@@ -411,7 +411,6 @@
 "invalid_sdp" = "无效的 SDP";
 "invalid_width" = "宽度无效";
 "invite" = "邀请";
-"invite_a_friend" = "邀请好友";
 "invite_info" = "Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。";
 "invite_to_group_via_link" = "群邀请链接";
 "invited_by_stranger" = "邀请人不是你的联系人";
@@ -461,7 +460,7 @@
 "message_encryption_hint" = "用户之间的消息将受到端对端加密保护";
 "message_not_found" = "找不到该消息";
 "message_not_support" = "不支持此类型消息。请升级 Mixin 查看。";
-"message_preview" = "Message Preview";
+"message_preview" = "显示消息内容";
 "message_sent" = "消息已发送";
 "messages" = "消息";
 "minute" = "%d 分钟";
@@ -479,7 +478,7 @@
 "multisig_state_unlocked" = "这笔交易已经被其他人撤销了，您无法再次撤销。";
 "multisig_transaction" = "多重签名交易";
 "music" = "音乐";
-"mute" = "Mute";
+"mute" = "静音通知";
 "mute_until" = "直到 %@";
 "muted" = "已静音";
 "muted_until" = "已静音至 %@";
@@ -512,7 +511,7 @@
 "no_memo" = "没有 Memo（备注）";
 "no_network_connection" = "无网络连接";
 "no_posts" = "没有文章";
-"no_results" = "No results";
+"no_results" = "未找到相关结果";
 "no_stickers" = "还未添加任何表情";
 "no_tag" = "点击不使用 Tag（标签）";
 "no_transactions" = "暂无转账记录";
@@ -542,6 +541,7 @@
 "operation_failed" = "操作失败，请稍后重试";
 "optimize_database" = "优化查询索引";
 "optimized" = "已优化";
+"other" = "其他";
 "owner" = "群主";
 "participants" = "成员";
 "participants_count" = "%@ 位群组成员";
@@ -567,8 +567,8 @@
 "phone_number_change" = "修改手机号";
 "phone_number_privacy" = "谁可以通过手机号找到你";
 "photo" = "照片";
-"photo_count" = "%d 张图片";
 "photo_saved" = "图片已成功保存在相册";
+"photo_count" = "%d 张图片";
 "photos" = "照片";
 "pick_from_library" = "打开相册";
 "pin" = "PIN";
@@ -595,6 +595,7 @@
 "pinned_message_title" = "%d 条置顶消息";
 "pinned_message_title_count" = "%d 条置顶消息";
 "playlist" = "播放列表";
+"post" = "文章";
 "post_sharing" = "文章";
 "preparing" = "准备...";
 "preparing_progress" = "备份中...（%@）";
@@ -602,6 +603,7 @@
 "privacy_policy" = "隐私政策";
 "profile_photo" = "个人头像";
 "profile_share_bot_hint" = "如果您希望分享机器人，请先添加联系人。";
+"change_pin_interval_hint" = "输入 PIN 修改使用间隔";
 "public_profile" = "个人资料（必须）";
 "qr_code" = "二维码";
 "qr_code_not_found" = "未发现二维码";
@@ -613,6 +615,7 @@
 "read_contacts" = "查看联系人";
 "read_snapshots" = "查看转账记录";
 "rebate" = "退款";
+"receive" = "转入";
 "receive_money" = "我的收款码";
 "receiver" = "至";
 "receivers" = "交易接收人";
@@ -681,8 +684,7 @@
 "selected_video" = "已选择 1 个视频";
 "selected_video_count" = "已选择 %d 个视频";
 "send" = "发送";
-"send_count" = "发送（%d）";
-"send_as_file" = "Send as file";
+"send_as_file" = "发送为文件";
 "send_as_files" = "发送为文件";
 "send_item" = "发送 1 项";
 "send_item_count" = "发送 %d 项";
@@ -698,6 +700,7 @@
 "send_video_count" = "发送 %d 个视频";
 "send_without_sound" = "静音发送";
 "send_your_current_location" = "发送您当前的位置";
+"send_count" = "发送（%d）";
 "senders" = "交易发起人";
 "set" = "设置";
 "set_disappearing_message_time_to" = "%1$@将限时消息设置为 %2$@";
@@ -730,11 +733,13 @@
 "setting_transfer_large_summary_greater" = "当转账金额大于 %@ 时显示确认弹窗。";
 "settings" = "设置";
 "share" = "分享";
-"share_contact" = "Share Contact";
+"share_contact" = "分享他的名片";
 "share_link" = "分享邀请链接";
 "share_log_file" = "分享日志文件";
 "share_message_description" = "你确定要发送来自%1$@的%2$@？";
 "share_message_description_empty" = "你确定要发送该%@？";
+"invite_a_friend" = "邀请好友";
+"share_to" = "分享给";
 "shared_media" = "媒体内容";
 "shopping" = "购物";
 "show" = "显示";
@@ -767,6 +772,7 @@
 "tag" = "Tag（标签）";
 "tap_to_join" = "点击加入";
 "terms_of_service" = "服务条款";
+"text" = "信息";
 "text_confirm_send_code" = "确认你的手机号码 %@";
 "text_qr_code" = "文本二维码";
 "the_code_is_incorrect" = "验证码不正确";

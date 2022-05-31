@@ -121,6 +121,7 @@
 "canceled_by_caller" = "Panggilan Dibatalkan oleh penelepon";
 "cant_receive_the_code" = "Tidak dapat menerima kode?";
 "caption_send" = "SEND";
+"card" = "card";
 "category_chats" = "Chats";
 "chain" = "Chain";
 "change" = "Ubah";
@@ -131,7 +132,6 @@
 "change_number_instead" = "Change Number Instead";
 "change_phone_number" = "Ubah Nomor Telepon";
 "change_pin" = "Ubah PIN";
-"change_pin_interval_hint" = "Confirm PIN to change interval";
 "change_pin_successfully" = "Berhasil mengubah PIN";
 "change_profile_photo_with_camera" = "Ubah Foto Profil dengan Kamera";
 "change_profile_photo_with_library" = "Ubah Foto Profil dengan Koleksi";
@@ -411,7 +411,6 @@
 "invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
-"invite_a_friend" = "Invite a Friend";
 "invite_info" = "Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya.";
 "invite_to_group_via_link" = "Undang ke Grup melalui Tautan";
 "invited_by_stranger" = "The inviter is not in your contacts";
@@ -479,7 +478,7 @@
 "multisig_state_unlocked" = "Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda.";
 "multisig_transaction" = "Transaksi Multisig";
 "music" = "Music";
-"mute" = "Mute";
+"mute" = "Bisukan";
 "mute_until" = "Hingga %@";
 "muted" = "Muted";
 "muted_until" = "Muted until %@";
@@ -512,7 +511,7 @@
 "no_memo" = "Tanpa Memo";
 "no_network_connection" = "Tidak ada sambungan jaringan";
 "no_posts" = "TIDAK ADA POSTINGAN";
-"no_results" = "No results";
+"no_results" = "Tidak ada hasil";
 "no_stickers" = "NO STICKERS";
 "no_tag" = "Tanpa Tag";
 "no_transactions" = "Tidak ada transaksi";
@@ -542,6 +541,7 @@
 "operation_failed" = "The operation failed, please try again later";
 "optimize_database" = "Optimize Database";
 "optimized" = "Optimized";
+"other" = "Other";
 "owner" = "pemilik";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
@@ -567,8 +567,8 @@
 "phone_number_change" = "Perubahan nomor telepon";
 "phone_number_privacy" = "Siapa yang dapat menemukan saya menurut nomor saya";
 "photo" = "Foto";
-"photo_count" = "%d Photos";
 "photo_saved" = "Photo saved.";
+"photo_count" = "%d Photos";
 "photos" = "Foto";
 "pick_from_library" = "Pick from Library";
 "pin" = "PIN";
@@ -595,6 +595,7 @@
 "pinned_message_title" = "%d Pinned Message";
 "pinned_message_title_count" = "%d Pinned Messages";
 "playlist" = "Playlist";
+"post" = "Postingan";
 "post_sharing" = "post";
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
@@ -602,6 +603,7 @@
 "privacy_policy" = "Kebijakan Privasi";
 "profile_photo" = "Foto Profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
+"change_pin_interval_hint" = "Confirm PIN to change interval";
 "public_profile" = "Profil publik (wajib diisi)";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "Kode Qr tidak ditemukan";
@@ -613,6 +615,7 @@
 "read_contacts" = "Membaca Kontak";
 "read_snapshots" = "Membaca Snapshot";
 "rebate" = "Potongan harga";
+"receive" = "Terima";
 "receive_money" = "Terima uang";
 "receiver" = "Penerima";
 "receivers" = "Receivers";
@@ -681,8 +684,7 @@
 "selected_video" = "Selected 1 Video";
 "selected_video_count" = "Selected %d Videos";
 "send" = "Kirim";
-"send_count" = "Send(%d)";
-"send_as_file" = "ファイルとして送信する";
+"send_as_file" = "Send as File";
 "send_as_files" = "Send as Files";
 "send_item" = "Send 1 Item";
 "send_item_count" = "Send %d Items";
@@ -698,6 +700,7 @@
 "send_video_count" = "Send %d Videos";
 "send_without_sound" = "Send Without Sound";
 "send_your_current_location" = "Kirim Lokasi Anda Saat Ini";
+"send_count" = "Send(%d)";
 "senders" = "Pengirim";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -735,6 +738,8 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Yakin ingin mengirim %2$@ dari %1$@?";
 "share_message_description_empty" = "Yakin ingin mengirim %@?";
+"invite_a_friend" = "Invite a Friend";
+"share_to" = "Share To";
 "shared_media" = "Media Bersama";
 "shopping" = "Shopping";
 "show" = "Tampilkan";
@@ -767,6 +772,7 @@
 "tag" = "Tag";
 "tap_to_join" = "Ketuk untuk bergabung";
 "terms_of_service" = "Ketentuan Layanan";
+"text" = "text";
 "text_confirm_send_code" = "Please confirm the phone number %@";
 "text_qr_code" = "KODE QR TEKS";
 "the_code_is_incorrect" = "The code is incorrect.";

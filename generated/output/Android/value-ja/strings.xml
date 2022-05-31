@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 	<string name="a_card">カード</string>
 	<string name="a_contact">連絡先</string>
 	<string name="a_file">ファイル</string>
@@ -94,6 +94,7 @@
 	<string name="Auto_Lock">自動ロック</string>
 	<string name="Back_To_Chat">チャットに戻る</string>
 	<string name="Backing_Up">バックアップしています…</string>
+	<string name="Backup">チャット履歴のバックアップ</string>
 	<string name="backup_choose_a_folder">フォルダを選択してください。バックアップは選択した場所に保存されます。</string>
 	<string name="Backup_delete">バックアップを消去</string>
 	<string name="backup_des">メッセージを外部ストレージにバックアップします。Mixinを再インストールすると、バックアップを元に復元することができます。</string>
@@ -402,7 +403,6 @@
 	<string name="Invalid_Link">リンクが無効です</string>
 	<string name="Invalid_payment_link">支払いが無効です</string>
 	<string name="Invalid_sticker_format">スタンプのフォーマットが無効です。</string>
-	<string name="Invite_a_Friend">このアプリをシェアする</string>
 	<string name="invite_info">リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。</string>
 	<string name="Invite_people">招待する</string>
 	<string name="Invite_to_Group_via_Link">リンクを使って招待する</string>
@@ -555,8 +555,7 @@
 	<string name="Phone_Number">電話番号からの追加</string>
 	<string name="Phone_number_change">電話番号変更</string>
 	<string name="phone_number_privacy">あなたを電話番号検索で追加できるユーザー</string>
-	<plurals name="Photo" tools:ignore="UnusedQuantity">
-		<item quantity="one">写真</item>
+	<string name="Photo">写真</string>
 	<string name="Photos">画像</string>
 	<string name="PIN">PIN</string>
 	<string name="PIN_change">PIN変更</string>
@@ -586,6 +585,7 @@
 	<string name="Read_Snapshots">トランザクション</string>
 	<string name="Rebate">払い戻し</string>
 	<string name="Recaptcha_timeout">Recaptchaがタイムアウトしました</string>
+	<string name="RECEIVE">入金</string>
 	<string name="Receive_Money">仮想通貨を受け取る</string>
 	<string name="recent_chats">チャット</string>
 	<string name="Recent_searches">最近の検索</string>
@@ -651,6 +651,7 @@
 	<string name="Select">選択</string>
 	<string name="Select_Emergency_Contact">緊急連絡先を選択する</string>
 	<string name="Send">送る</string>
+	<string name="Send_as_file">ファイルとして送信する</string>
 	<string name="send_file_group">\"%1$s\"を\"%2$s\"に送りますか？</string>
 	<string name="Send_Message">メッセージを送る</string>
 	<string name="send_to">%1$sへ送金</string>
@@ -703,6 +704,7 @@
 	<string name="Share_error">エラーを共有</string>
 	<string name="Share_Link">リンクをシェアする</string>
 	<string name="Share_QR_Code">QRコードを共有</string>
+	<string name="Invite_a_Friend">このアプリをシェアする</string>
 	<string name="share_to">%1$sをシェアする</string>
 	<string name="Shared_Media">写真や動画</string>
 	<string name="Show">表示</string>
