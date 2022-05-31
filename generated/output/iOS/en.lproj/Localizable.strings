@@ -121,7 +121,6 @@
 "canceled_by_caller" = "Cancelled by caller";
 "cant_receive_the_code" = "Can't receive the code?";
 "caption_send" = "SEND";
-"card" = "card";
 "category_chats" = "Chats";
 "chain" = "Chain";
 "change" = "Change";
@@ -132,6 +131,7 @@
 "change_number_instead" = "Change Number Instead";
 "change_phone_number" = "Change Phone Number";
 "change_pin" = "Change PIN";
+"change_pin_interval_hint" = "Confirm PIN to change interval";
 "change_pin_successfully" = "Change PIN successfully";
 "change_profile_photo_with_camera" = "Change Profile Photo with Camera";
 "change_profile_photo_with_library" = "Change Profile Photo with Library";
@@ -411,6 +411,7 @@
 "invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
+"invite_a_friend" = "Invite a Friend";
 "invite_info" = "Anyone with Mixin can follow this link to join this group. Only share it with people you trust.";
 "invite_to_group_via_link" = "Invite to Group via Link";
 "invited_by_stranger" = "The inviter is not in your contacts";
@@ -541,7 +542,6 @@
 "operation_failed" = "The operation failed, please try again later";
 "optimize_database" = "Optimize Database";
 "optimized" = "Optimized";
-"other" = "Other";
 "owner" = "Owner";
 "participants" = "Participants";
 "participants_count" = "%@ PARTICIPANTS";
@@ -567,8 +567,8 @@
 "phone_number_change" = "Phone number change";
 "phone_number_privacy" = "Who can find me by my number";
 "photo" = "Photo";
-"photo_saved" = "Photo saved.";
 "photo_count" = "%d Photos";
+"photo_saved" = "Photo saved.";
 "photos" = "Photos";
 "pick_from_library" = "Pick from Library";
 "pin" = "PIN";
@@ -595,7 +595,6 @@
 "pinned_message_title" = "%d Pinned Message";
 "pinned_message_title_count" = "%d Pinned Messages";
 "playlist" = "Playlist";
-"post" = "Post";
 "post_sharing" = "post";
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
@@ -603,7 +602,6 @@
 "privacy_policy" = "Privacy Policy";
 "profile_photo" = "Profile Photo";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
-"change_pin_interval_hint" = "Confirm PIN to change interval";
 "public_profile" = "Public profile (required)";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QR Code not found";
@@ -615,7 +613,6 @@
 "read_contacts" = "Read Contacts";
 "read_snapshots" = "Read Snapshots";
 "rebate" = "Rebate";
-"receive" = "RECEIVE";
 "receive_money" = "Receive Money";
 "receiver" = "Receiver";
 "receivers" = "Receivers";
@@ -684,7 +681,8 @@
 "selected_video" = "Selected 1 Video";
 "selected_video_count" = "Selected %d Videos";
 "send" = "Send";
-"send_as_file" = "Send as File";
+"send_count" = "Send(%d)";
+"send_as_file" = "Send as file";
 "send_as_files" = "Send as Files";
 "send_item" = "Send 1 Item";
 "send_item_count" = "Send %d Items";
@@ -700,7 +698,6 @@
 "send_video_count" = "Send %d Videos";
 "send_without_sound" = "Send Without Sound";
 "send_your_current_location" = "Send your Current Location";
-"send_count" = "Send(%d)";
 "senders" = "Senders";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -738,8 +735,6 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
 "share_message_description_empty" = "Are you sure you want to send the %@?";
-"invite_a_friend" = "Invite a Friend";
-"share_to" = "Share To";
 "shared_media" = "Shared Media";
 "shopping" = "Shopping";
 "show" = "Show";
@@ -772,7 +767,6 @@
 "tag" = "Tag";
 "tap_to_join" = "Tap to join";
 "terms_of_service" = "Terms of Service";
-"text" = "text";
 "text_confirm_send_code" = "Please confirm the phone number %@";
 "text_qr_code" = "TEXT QR CODE";
 "the_code_is_incorrect" = "The code is incorrect.";

@@ -121,7 +121,6 @@
 "canceled_by_caller" = "不在着信";
 "cant_receive_the_code" = "コードが届きませんか？";
 "caption_send" = "送金";
-"card" = "ロボ";
 "category_chats" = "チャット";
 "chain" = "チェーン";
 "change" = "変更";
@@ -132,6 +131,7 @@
 "change_number_instead" = "電話番号を変更";
 "change_phone_number" = "電話番号を変更";
 "change_pin" = "PINを変更する";
+"change_pin_interval_hint" = "設定を変更するためPINを入力してください";
 "change_pin_successfully" = "PINの変更が完了しました。";
 "change_profile_photo_with_camera" = "プロフィール画像を撮影";
 "change_profile_photo_with_library" = "プロフィール画像を選択";
@@ -411,6 +411,7 @@
 "invalid_sdp" = "無効なsdp";
 "invalid_width" = "無効な横幅";
 "invite" = "招待する";
+"invite_a_friend" = "このアプリをシェアする";
 "invite_info" = "リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。";
 "invite_to_group_via_link" = "リンクを使って招待する";
 "invited_by_stranger" = "招待者はあなたの連絡先に存在しません";
@@ -541,7 +542,6 @@
 "operation_failed" = "操作が失敗しました。しばらくしてからもう一度お試しください";
 "optimize_database" = "データベースの最適化";
 "optimized" = "最適化済みです";
-"other" = "その他";
 "owner" = "リーダー";
 "participants" = "Participants";
 "participants_count" = "%@人のメンバー";
@@ -567,8 +567,8 @@
 "phone_number_change" = "電話番号変更";
 "phone_number_privacy" = "あなたを電話番号検索で追加できるユーザー";
 "photo" = "写真";
-"photo_saved" = "画像が保存されました";
 "photo_count" = "%d Photos";
+"photo_saved" = "画像が保存されました";
 "photos" = "画像";
 "pick_from_library" = "ライブラリーから選択する";
 "pin" = "PIN";
@@ -595,7 +595,6 @@
 "pinned_message_title" = "%d Pinned Message";
 "pinned_message_title_count" = "%d Pinned Messages";
 "playlist" = "プレイリスト";
-"post" = "Post";
 "post_sharing" = "投稿";
 "preparing" = "準備中...";
 "preparing_progress" = "準備中...(%@)";
@@ -603,7 +602,6 @@
 "privacy_policy" = "プライバシーポリシー";
 "profile_photo" = "Profile Photo";
 "profile_share_bot_hint" = "ロボをシェアしたい場合は、先に連絡先に追加してください。";
-"change_pin_interval_hint" = "設定を変更するためPINを入力してください";
 "public_profile" = "プロフィール";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "QRコードが見つかりません";
@@ -615,7 +613,6 @@
 "read_contacts" = "連絡先を読み取る";
 "read_snapshots" = "トランザクション";
 "rebate" = "払い戻し";
-"receive" = "入金";
 "receive_money" = "仮想通貨を受け取る";
 "receiver" = "Receiver";
 "receivers" = "受取人";
@@ -684,7 +681,8 @@
 "selected_video" = "Selected 1 Video";
 "selected_video_count" = "Selected %d Videos";
 "send" = "送る";
-"send_as_file" = "Send as File";
+"send_count" = "Send(%d)";
+"send_as_file" = "Send as file";
 "send_as_files" = "Send as Files";
 "send_item" = "Send 1 Item";
 "send_item_count" = "Send %d Items";
@@ -700,7 +698,6 @@
 "send_video_count" = "Send %d Videos";
 "send_without_sound" = "通知音を鳴らさずに送信する";
 "send_your_current_location" = "現在地を送信";
-"send_count" = "Send(%d)";
 "senders" = "送信者";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -738,8 +735,6 @@
 "share_log_file" = "記録ファイルを共有する";
 "share_message_description" = "Are you sure you want to send a %2$@ from %1$@?";
 "share_message_description_empty" = "Are you sure you want to send the %@?";
-"invite_a_friend" = "このアプリをシェアする";
-"share_to" = "共有する";
 "shared_media" = "写真や動画";
 "shopping" = "買い物";
 "show" = "表示";
@@ -772,7 +767,6 @@
 "tag" = "タグ";
 "tap_to_join" = "タップしてプ通話参加";
 "terms_of_service" = "利用規約";
-"text" = "メッセージ通知の内容表示";
 "text_confirm_send_code" = "電話番号を確認してください %@";
 "text_qr_code" = "テキストQRコード";
 "the_code_is_incorrect" = "入力したコードは正しくありません。";

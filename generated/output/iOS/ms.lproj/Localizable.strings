@@ -121,7 +121,6 @@
 "canceled_by_caller" = "Panggilan Dibatalkan oleh pemanggil";
 "cant_receive_the_code" = "Tidak dapat menerima kod?";
 "caption_send" = "SEND";
-"card" = "card";
 "category_chats" = "Chats";
 "chain" = "Rantai";
 "change" = "Ubah";
@@ -132,6 +131,7 @@
 "change_number_instead" = "Change Number Instead";
 "change_phone_number" = "Tukar Nombor Telefon";
 "change_pin" = "Tukar PIN";
+"change_pin_interval_hint" = "Confirm PIN to change interval";
 "change_pin_successfully" = "Penukaran PIN berjaya";
 "change_profile_photo_with_camera" = "Tukar Foto Profil dengan Kamera";
 "change_profile_photo_with_library" = "Tukar Foto Profil dengan Perpustakaan";
@@ -412,6 +412,7 @@
 "invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
+"invite_a_friend" = "Kongsi Aplikasi Ini";
 "invite_info" = "Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai.";
 "invite_to_group_via_link" = "Jemput ke Kumpulan melalui Pautan";
 "invited_by_stranger" = "The inviter is not in your contacts";
@@ -479,7 +480,7 @@
 "multisig_state_unlocked" = "Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.";
 "multisig_transaction" = "Transaksi Multisig";
 "music" = "Music";
-"mute" = "Senyap";
+"mute" = "Bisukan";
 "mute_until" = "Sehingga %@";
 "muted" = "Muted";
 "muted_until" = "Muted until %@";
@@ -512,7 +513,7 @@
 "no_memo" = "Tiada Memo";
 "no_network_connection" = "Tiada sambungan rangkaian";
 "no_posts" = "TIADA POST";
-"no_results" = "Tiada keputusan";
+"no_results" = "Tidak ada hasil";
 "no_stickers" = "NO STICKERS";
 "no_tag" = "Tiada Tag";
 "no_transactions" = "Tiada urus niaga";
@@ -542,7 +543,6 @@
 "operation_failed" = "The operation failed, please try again later";
 "optimize_database" = "Optimize Database";
 "optimized" = "Optimized";
-"other" = "Other";
 "owner" = "pemilik";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
@@ -568,8 +568,8 @@
 "phone_number_change" = "Tukar nombor telefon";
 "phone_number_privacy" = "Siapa yang dapat mencari saya dengan nombor saya";
 "photo" = "Foto";
-"photo_saved" = "Photo saved.";
 "photo_count" = "%d Photos";
+"photo_saved" = "Photo saved.";
 "photos" = "Foto";
 "pick_from_library" = "Pick from Library";
 "pin" = "PIN";
@@ -596,7 +596,6 @@
 "pinned_message_title" = "%d Pinned Message";
 "pinned_message_title_count" = "%d Pinned Messages";
 "playlist" = "Senarai main";
-"post" = "Kirim";
 "post_sharing" = "post";
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
@@ -604,7 +603,6 @@
 "privacy_policy" = "Dasar Privasi";
 "profile_photo" = "Gambar profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
-"change_pin_interval_hint" = "Confirm PIN to change interval";
 "public_profile" = "Profil awam (diperlukan)";
 "qr_code" = "kod QR";
 "qr_code_not_found" = "Kod Qr tidak dijumpai";
@@ -616,7 +614,6 @@
 "read_contacts" = "Baca Kenalan";
 "read_snapshots" = "Baca Syot kilat";
 "rebate" = "Rebat";
-"receive" = "Terima";
 "receive_money" = "Terima Wang";
 "receiver" = "Penerima";
 "receivers" = "Receivers";
@@ -685,7 +682,8 @@
 "selected_video" = "Selected 1 Video";
 "selected_video_count" = "Selected %d Videos";
 "send" = "Hantar";
-"send_as_file" = "Send as File";
+"send_count" = "Send(%d)";
+"send_as_file" = "Send as file";
 "send_as_files" = "Send as Files";
 "send_item" = "Send 1 Item";
 "send_item_count" = "Send %d Items";
@@ -701,7 +699,6 @@
 "send_video_count" = "Send %d Videos";
 "send_without_sound" = "Send Without Sound";
 "send_your_current_location" = "Hantarkan Lokasi Semasa Anda";
-"send_count" = "Send(%d)";
 "senders" = "Pengirim";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -739,8 +736,6 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Adakah anda pasti mahu menghantar %2$@ dari %1$@?";
 "share_message_description_empty" = "Adakah anda pasti mahu menghantar %@?";
-"invite_a_friend" = "Kongsi Aplikasi Ini";
-"share_to" = "Share To";
 "shared_media" = "Media Berkongsi";
 "shopping" = "Shopping";
 "show" = "Tunjuk";
@@ -773,7 +768,6 @@
 "tag" = "Tag";
 "tap_to_join" = "Ketuk untuk sertai";
 "terms_of_service" = "Terma Perkhidmatan";
-"text" = "text";
 "text_confirm_send_code" = "Please confirm the phone number %@";
 "text_qr_code" = "KOD QR TEKS";
 "the_code_is_incorrect" = "The code is incorrect.";

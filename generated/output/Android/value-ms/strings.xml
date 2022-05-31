@@ -102,7 +102,7 @@
 	<string name="Cant_receive_the_code">Tidak dapat menerima kod?</string>
 	<string name="cant_talk_self">Anda tidak boleh bercakap dengan diri sendiri</string>
 	<string name="cant_transfer_self">Anda tidak boleh memindahkan diri anda</string>
-	<string name="Card">Kad</string>
+	<string name="Card">Kartu</string>
 	<string name="Chain">Rantai</string>
 	<string name="Change">Ubah</string>
 	<string name="Change_Amount">Tukar Jumlah</string>
@@ -355,6 +355,7 @@
 	<string name="Invalid_Link">Pautan Tidak Sah</string>
 	<string name="Invalid_payment_link">Pembayaran tidak sah</string>
 	<string name="Invalid_sticker_format">Format pelekat tidak sah</string>
+	<string name="Invite_a_Friend">Kongsi Aplikasi Ini</string>
 	<string name="invite_info">Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai.</string>
 	<string name="Invite_people">Jemput Orang</string>
 	<string name="Invite_to_Group_via_Link">Jemput ke Kumpulan melalui Pautan</string>
@@ -426,7 +427,7 @@
 	<string name="multisig_state_signed">Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua.</string>
 	<string name="multisig_state_unlocked">Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.</string>
 	<string name="Multisig_Transaction">Transaksi Multisig</string>
-	<string name="Mute">Senyap</string>
+	<string name="Mute">Bisukan</string>
 	<string name="Mute_until">Sehingga %1$s</string>
 	<string name="My_Contacts">Kenalan Saya</string>
 	<string name="my_mixin_id">ID Mixin Saya: %1$s</string>
@@ -462,7 +463,7 @@
 	<string name="NO_POSTS">TIADA POST</string>
 	<string name="No_raws">Tanpa raws</string>
 	<string name="No_rebates">Tiada rebat</string>
-	<string name="No_results">Tiada keputusan</string>
+	<string name="No_results">Tidak ada hasil</string>
 	<string name="No_tag">Tiada Tag</string>
 	<string name="No_transactions">Tiada urus niaga</string>
 	<string name="No_withdrawals">Tiada pengeluaran</string>
@@ -486,7 +487,7 @@
 	<string name="Open">Buka</string>
 	<string name="Open_Home_page">Buka laman Utama</string>
 	<string name="Open_in_browser">Buka dalam pelayar</string>
-	<string name="OTHER">LAIN</string>
+	<string name="OTHER">LAINNYA</string>
 	<string name="Owner">pemilik</string>
 	<string name="Participants">Peserta</string>
 	<string name="Pause">Jeda sebentar</string>
@@ -506,7 +507,8 @@
 	<string name="Phone_Number">Nombor telefon</string>
 	<string name="Phone_number_change">Tukar nombor telefon</string>
 	<string name="phone_number_privacy">Siapa yang dapat mencari saya dengan nombor saya</string>
-	<string name="Photo">Foto</string>
+	<plurals name="Photo" tools:ignore="UnusedQuantity">
+		<item quantity="one">Foto</item>
 	<string name="Photos">Foto</string>
 	<string name="PIN">PIN</string>
 	<string name="PIN_change">Tukar PIN</string>
@@ -516,8 +518,7 @@
 	<string name="Playback_failed">Main balik gagal</string>
 	<string name="Playlist">Senarai main</string>
 	<string name="Please_wait_a_bit">Sila tunggu sebentar …</string>
-	<string name="POST">KIRIMAN</string>
-	<string name="Post">Kirim</string>
+	<string name="POST">POSTINGAN</string>
 	<string name="Privacy">Privasi</string>
 	<string name="Privacy_Policy">Dasar Privasi</string>
 	<string name="profile_modify_number">Adakah anda mahu menukar nombor telefon anda?</string>
@@ -535,7 +536,6 @@
 	<string name="Read_Snapshots">Baca Syot kilat</string>
 	<string name="Rebate">Rebat</string>
 	<string name="Recaptcha_timeout">Tamat masa Recaptcha</string>
-	<string name="RECEIVE">Terima</string>
 	<string name="Receive_Money">Terima Wang</string>
 	<string name="Receiver">Penerima</string>
 	<string name="recent_chats">SEMBANG</string>
@@ -647,8 +647,7 @@
 	<string name="Share_Link">Kongsi pautan</string>
 	<string name="share_message_description">Adakah anda pasti mahu menghantar %2$s dari %1$s?</string>
 	<string name="share_message_description_empty">Adakah anda pasti mahu menghantar %1$s?</string>
-	<string name="Invite_a_Friend">Kongsi Aplikasi Ini</string>
-	<string name="share_to">Kongsi %1$s ke…</string>
+	<string name="share_to">Bagikan %1$s ke…</string>
 	<string name="Shared_Media">Media Berkongsi</string>
 	<string name="Show">Tunjuk</string>
 	<string name="Shown">Tunjukkan</string>

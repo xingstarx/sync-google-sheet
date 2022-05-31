@@ -97,7 +97,6 @@
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Back To Chat</string>
 	<string name="Backing_Up">Backing Up…</string>
-	<string name="Backup">Backup</string>
 	<string name="backup_choose_a_folder">Choose a folder, backups will be saved to this location</string>
 	<string name="Backup_delete">Backup delete</string>
 	<string name="backup_des">Back up your messages to external storage. You can restore them when you reinstall Mixin. Messages you back up are not protected while in external storage.</string>
@@ -143,7 +142,7 @@
 	<string name="Cant_receive_the_code">Can\'t receive the code?</string>
 	<string name="cant_talk_self">You can\'t talk to yourself</string>
 	<string name="cant_transfer_self">You can\'t transfer to yourself</string>
-	<string name="Card">Card</string>
+	<string name="Card">card</string>
 	<string name="Chain">Chain</string>
 	<string name="Change">Change</string>
 	<string name="Change_Amount">Change Amount</string>
@@ -478,6 +477,7 @@
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
 	<string name="Invalid_sticker_format">Invalid sticker format</string>
+	<string name="Invite_a_Friend">Invite a Friend</string>
 	<string name="invite_info">Anyone with Mixin can follow this link to join this group. Only share it with people you trust.</string>
 	<string name="Invite_people">Invite People</string>
 	<string name="Invite_to_Group_via_Link">Invite to Group via Link</string>
@@ -639,7 +639,7 @@
 	<string name="Open_in_browser">Open in browser</string>
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="Operator">Operator</string>
-	<string name="OTHER">OTHER</string>
+	<string name="OTHER">Other</string>
 	<string name="Owner">Owner</string>
 	<string name="parse_dns_result">Parse DNS result: </string>
 	<string name="Participants">Participants</string>
@@ -662,7 +662,8 @@
 	<string name="Phone_Number">Phone Number</string>
 	<string name="Phone_number_change">Phone number change</string>
 	<string name="phone_number_privacy">Who can find me by my number</string>
-	<string name="Photo">Photo</string>
+	<plurals name="Photo">
+		<item quantity="one">Photo</item>
 	<string name="Photos">Photos</string>
 	<string name="PIN">PIN</string>
 	<string name="PIN_change">PIN change</string>
@@ -673,17 +674,15 @@
 	<string name="PIN_incorrect">PIN incorrect</string>
 	<string name="pin_lost_hint">If lost, there is no way to recover your wallet.</string>
 	<string name="pin_title">Pin</string>
+	<string name="pinned_message_title">%1$d Pinned Message</string>
 	<plurals name="pinned_message_title">
-		<item quantity="one">%1$d Pinned Message</item>
 		<item quantity="other">%1$d Pinned Messages</item>
-	</plurals>
 	<string name="Pinned_Messages">Pinned Messages</string>
 	<string name="Play">Play</string>
 	<string name="Playback_failed">Playback failed</string>
 	<string name="Playlist">Playlist</string>
 	<string name="Please_wait_a_bit">Please wait a bit…</string>
-	<string name="POST">POST</string>
-	<string name="Post">Post</string>
+	<string name="POST">Post</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
 	<string name="profile_modify_number">Do you want to change your phone number?</string>
@@ -703,8 +702,7 @@
 	<string name="Read_Snapshots">Read Snapshots</string>
 	<string name="Rebate">Rebate</string>
 	<string name="Recaptcha_timeout">Recaptcha timeout</string>
-	<string name="Receive">Receive</string>
-	<string name="RECEIVE">RECEIVE</string>
+	<string name="Receive">RECEIVE</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Receiver">Receiver</string>
 	<string name="recent_chats">CHATS</string>
@@ -767,17 +765,15 @@
 	<string name="SEARCH_MESSAGES">SEARCH MESSAGES</string>
 	<string name="search_placeholder_asset">Name, Symbol</string>
 	<string name="search_placeholder_number">Search Mixin ID or phone number: </string>
+	<string name="search_related_message">%1$d related message</string>
 	<plurals name="search_related_message">
-		<item quantity="one">%1$d related message</item>
 		<item quantity="other">%1$d related messages</item>
-	</plurals>
 	<string name="Searching">Searching</string>
 	<string name="secret_url">https://mixin.one/pages/1000007</string>
 	<string name="Security">Security</string>
 	<string name="Select">Select</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
 	<string name="Send">Send</string>
-	<string name="Send_as_file">Send as file</string>
 	<string name="send_file_group">Send \"%1$s\" to \"%2$s\"?</string>
 	<string name="Send_Message">Send Message</string>
 	<string name="Send_This_Location">Send This Location</string>
@@ -829,10 +825,9 @@
 	<string name="setting_notification_transfer_summary">Display notifications when receiving a transfer greater than or equal to %1$s.</string>
 	<string name="setting_privacy_tip">Change who can add you to conversation and groups.</string>
 	<string name="setting_revoke_confirmation">Revoke access %1$s?</string>
+	<string name="setting_storage_clear">Clear %1$d message (%2$s)?</string>
 	<plurals name="setting_storage_clear">
-		<item quantity="one">Clear %1$d message (%2$s)?</item>
 		<item quantity="other">Clear %1$d messages (%2$s)?</item>
-	</plurals>
 	<string name="setting_stranger_transfer_desc">Display confirmation dialog when you transfer to stranger</string>
 	<string name="setting_transfer_large_summary">Show confirmation dialog when transfer greater than or equal to %1$s.</string>
 	<string name="setting_transfer_large_summary_greater">Show confirmation dialog when transfer greater than %1$s.</string>
@@ -844,8 +839,7 @@
 	<string name="share_message_description">Are you sure you want to send a %2$s from %1$s?</string>
 	<string name="share_message_description_empty">Are you sure you want to send the %1$s?</string>
 	<string name="Share_QR_Code">Share QR Code</string>
-	<string name="Invite_a_Friend">Invite a Friend</string>
-	<string name="share_to">Share %1$s to…</string>
+	<string name="share_to">Share To</string>
 	<string name="Shared_Media">Shared Media</string>
 	<string name="Show">Show</string>
 	<string name="Show_in_chat">Show in chat</string>
@@ -887,7 +881,7 @@
 	<string name="Tag">Tag</string>
 	<string name="Tap_to_join">Tap to join</string>
 	<string name="Terms_of_Service">Terms of Service</string>
-	<string name="Text">Text</string>
+	<string name="Text">text</string>
 	<string name="TEXT_QR_CODE">TEXT QR CODE</string>
 	<string name="The_code_is_incorrect">The code is incorrect.</string>
 	<string name="Theme">Theme</string>
@@ -895,10 +889,9 @@
 	<string name="This_message_was_deleted">This message was deleted</string>
 	<string name="Thursday">Thursday</string>
 	<string name="Time">Time</string>
+	<string name="title_participants">%1$d Participant</string>
 	<plurals name="title_participants">
-		<item quantity="one">%1$d Participant</item>
 		<item quantity="other">%1$d Participants</item>
-	</plurals>
 	<string name="To">To</string>
 	<string name="Today">Today</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
@@ -927,26 +920,21 @@
 	<string name="Type_message">Type message</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
+	<string name="unit_day">day</string>
 	<plurals name="unit_day">
-		<item quantity="one">day</item>
 		<item quantity="other">days</item>
-	</plurals>
+	<string name="unit_hour">hour</string>
 	<plurals name="unit_hour">
-		<item quantity="one">hour</item>
 		<item quantity="other">hours</item>
-	</plurals>
+	<string name="unit_minute">minute</string>
 	<plurals name="unit_minute">
-		<item quantity="one">minute</item>
 		<item quantity="other">minutes</item>
-	</plurals>
+	<string name="unit_second">second</string>
 	<plurals name="unit_second">
-		<item quantity="one">second</item>
 		<item quantity="other">seconds</item>
-	</plurals>
+	<string name="unit_week">week</string>
 	<plurals name="unit_week">
-		<item quantity="one">week</item>
 		<item quantity="other">weeks</item>
-	</plurals>
 	<string name="Unknown">Unknown</string>
 	<string name="Unlock_with_fingerprint">Unlock with fingerprint</string>
 	<string name="unlock_with_fingerprint_desc">When enabled, you\'ll need to use fingerprint to open Mixin.</string>
