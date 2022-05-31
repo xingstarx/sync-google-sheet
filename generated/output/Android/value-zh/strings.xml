@@ -578,7 +578,7 @@
 	<string name="NO_AUTHORIZATIONS">没有授权任何机器人</string>
 	<string name="No_Available_Assets">没有可用资产</string>
 	<string name="No_blocked_users">没有屏蔽任何人</string>
-	<string name="NO_BOTS">没有应用</string>
+	<string name="NO_BOTS">没有机器人</string>
 	<string name="No_camera">没有相机</string>
 	<string name="No_deposits">暂无充值记录</string>
 	<string name="No_fees">暂无手续费记录</string>

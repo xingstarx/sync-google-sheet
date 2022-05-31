@@ -502,7 +502,7 @@
 "no_audio" = "没有音频";
 "no_authorizations" = "没有授权任何机器人";
 "no_blocked_users" = "没有屏蔽任何人";
-"no_bots" = "没有应用";
+"no_bots" = "没有机器人";
 "no_files" = "没有文件";
 "no_hidden_assets" = "没有隐藏的资产";
 "no_items_selected" = "未选定项目";
