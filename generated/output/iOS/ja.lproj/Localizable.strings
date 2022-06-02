@@ -87,6 +87,7 @@
 "automatic" = "自動モード";
 "back_to_chat" = "チャットに戻る";
 "back_up_now" = "今すぐバックアップ";
+"background_preview" = "Background Preview";
 "backing_up" = "バックアップしています...";
 "backup_disable_hint" = "iCloudにサインインしてバックアップを行う 設定 > iCloud > iCloudドライブをオンにする.";
 "balance" = "残高";
@@ -140,6 +141,7 @@
 "change_your_app_language" = "アプリの言語を変更する";
 "changed" = "変更しました";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
+"chat_background" = "Chat Background";
 "chat_backup" = "Chat Backup";
 "chat_bot_reception_title" = "Tap the button to interact with the bot";
 "chat_call_duration" = "通話時間 %@";
@@ -390,6 +392,8 @@
 "hold_to_record_audio" = "長押しして録音、離して送信";
 "hour" = "%d Hour";
 "hour_count" = "%d Hours";
+"how_are_you" = "Hi, how are you?";
+"i_am_good" = "I’m good.";
 "image" = "画像";
 "immediately" = "すぐに";
 "in_connecting" = "...に接続中";

@@ -118,7 +118,6 @@
 	<string name="Bot_not_found">アプリが見つかりません</string>
 	<string name="BOTS">ロボ</string>
 	<string name="bots_title">Myロボ一覧</string>
-	<string name="bottom_transfer_stranger_tip">電話</string>
 	<string name="Call">応答なし</string>
 	<string name="call_encryption_description">この通話はE2E暗号化されています。</string>
 	<string name="call_encryption_title">通話に失敗しました</string>
@@ -382,8 +381,6 @@
 	<string name="Group_Name">グループ名</string>
 	<string name="Group_Notice">グループへのお知らせ</string>
 	<string name="Group_Notification">グループ通知</string>
-	<string name="group_pop_menu_message">メッセージを送信</string>
-	<string name="group_pop_menu_remove">グループから退会させる</string>
 	<string name="group_pop_menu_view">詳細%1$s</string>
 	<string name="group_role">サブリーダーに任命されました</string>
 	<string name="Groups_In_Common">共通のグループ</string>

@@ -116,8 +116,6 @@
 "forward" : "転送",
 "groupCantSend" : "参加者ではないため、このグループにメッセージを送ることができません。",
 "groupName" : "グループ名",
-"groupPopMenuMessage" : "メッセージを送信",
-"groupPopMenuRemove" : "グループから退会させる",
 "groupsInCommon" : "共通のグループ",
 "help" : "ヘルプ",
 "helpCenter" : "ヘルプセンター",
