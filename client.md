@@ -160,7 +160,7 @@
 | iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | android, iOS, Desktop | BOTS | BOTS | BOT | BOT | 机器人 | ロボ  |
 | android, iOS | bots_title | Bots | Bot | Bot | 机器人 | Myロボ一覧 |
-| android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! |     | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | 電話  |
+| android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! |     | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ |     |
 | iOS | Business | Business |     |     | 商业  | ビジネス |
 | android, iOS | Call | Call |     |     | 语音  | 応答なし |
 | android, iOS | Call_declined | Call declined | Panggilan ditolak | Panggilan ditolak | 对方已拒绝 |     |
@@ -175,6 +175,10 @@
 | iOS | call_remote_error | The connection failed. Code %@ |     |     | 连接失败。代码 %@ | 切断されました エラーコード%@ |
 | android | call_who | Call %1$s | Hubungi %1$s | Hubungi %1$s | 呼叫 %1$s | %1$sに電話をかける |
 | iOS | Call_with_Mixin | Call with Mixin |     |     | 语音通话 | 音声通話 |
+| iOS | Chat_Background | Chat Background |     |     | 聊天背景 |     |
+| iOS | Background_Preview | Background Preview |     |     | 背景预览 |     |
+| iOS | how_are_you | Hi, how are you? |     |     | 嗨，你好吗？ |     |
+| iOS | i_am_good | I’m good. |     |     | 我很好。 |     |
 | android, iOS | Calling | Calling… | Memanggil… | Memanggil… | 正在呼叫… | カメラ |
 | android, iOS | Camera | Camera | Kamera | Kamera | 相机  | QRコードが見つかりません |
 | android, Desktop | can_not_recognize_qr_code | Can not recognize the QR code | Tidak dapat mengenal kode QR | Tidak dapat mengenali kod QR | 无法识别二维码 |     |
@@ -198,6 +202,7 @@
 | android, iOS | Change_Number_Instead | Change Number Instead |     |     | 仅修改手机号码 | 電話番号を変更 |
 | android, iOS | Change_Phone_Number | Change Phone Number | Ubah Nomor Telepon | Tukar Nombor Telefon | 修改手机号 | 電話番号を変更 |
 | android, iOS | Change_PIN | Change PIN | Ubah PIN | Tukar PIN | 修改 PIN | PINを変更する |
+| iOS | change_pin_interval_hint | Confirm PIN to change interval |     |     | 输入 PIN 修改使用间隔 | 設定を変更するためPINを入力してください |
 | android, iOS | Change_PIN_successfully | Change PIN successfully | Berhasil mengubah PIN | Penukaran PIN berjaya | PIN 修改成功 | PINの変更が完了しました。 |
 | android, iOS | Change_Profile_Photo_with_Camera | Change Profile Photo with Camera | Ubah Foto Profil dengan Kamera | Tukar Foto Profil dengan Kamera | 更换头像（相机） | プロフィール画像を撮影 |
 | android, iOS | Change_Profile_Photo_with_Library | Change Profile Photo with Library | Ubah Foto Profil dengan Koleksi | Tukar Foto Profil dengan Perpustakaan | 更换头像（相册） | プロフィール画像を選択 |
@@ -585,8 +590,8 @@
 | iOS | group_participant_add_full | You can’t add this participant because this group is full. |     |     | 不能再添加成员，群已经满员了！ | グループメンバーが上限に達したため追加できません |
 | iOS | group_participant_add_limit | You can’t add this participant because only add up to 50 at a time. |     |     | 不能再添加成员，一次最多添加 50 个。 | 一度に追加できるメンバーは最大50人です |
 | Desktop | group_participants | Participants |     |     | 群成员 |     |
-| android, Desktop | group_pop_menu_message | Message %1$s | Kirim pesan ke %1$s | Mesej %1$s | 发送消息至 %1$s | メッセージを送信 |
-| android, Desktop | group_pop_menu_remove | Remove %1$s | Hapus %1$s | Alih keluar %1$s | 移除 %1$s | グループから退会させる |
+| android, Desktop | group_pop_menu_message | Message %1$s | Kirim pesan ke %1$s | Mesej %1$s | 发送消息至 %1$s |     |
+| android, Desktop | group_pop_menu_remove | Remove %1$s | Hapus %1$s | Alih keluar %1$s | 移除 %1$s |     |
 | android | group_pop_menu_view | View %1$s | Lihat %1$s | Lihat %1$s | 查看 %1$s | 詳細%1$s |
 | iOS | group_qr_code_prompt | Scan the QR Code to join this group |     |     | 扫描二维码加入群组 | QRコードをスキャンしてこのグループに参加 |
 | android | group_role | You' re now an admin | Anda sekarang adalah admin | Anda sekarang adalah pentadbir | 你现在成为管理员 | サブリーダーに任命されました |
@@ -631,6 +636,7 @@
 | android | Invalid_sticker_format | Invalid sticker format | Format stiker tidak valid | Format pelekat tidak sah | 贴纸格式不支持 | スタンプのフォーマットが無効です。 |
 | iOS | Invalid_width | Invalid width |     |     | 宽度无效 | 無効な横幅 |
 | iOS | Invite | Invite |     |     | 邀请  | 招待する |
+| android, iOS | Invite_a_Friend | Invite a Friend |     | Kongsi Aplikasi Ini | 邀请好友 | このアプリをシェアする |
 | android, iOS, Desktop | invite_info | Anyone with Mixin can follow this link to join this group. Only share it with people you trust. | Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya. | Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai. | Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。 | リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。 |
 | android | Invite_people | Invite People | Undang Orang | Jemput Orang | 邀请好友 | 招待する |
 | android, iOS, Desktop | Invite_to_Group_via_Link | Invite to Group via Link | Undang ke Grup melalui Tautan | Jemput ke Kumpulan melalui Pautan | 群邀请链接 | リンクを使って招待する |
@@ -746,7 +752,7 @@
 | android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 |
 | android, iOS | Multisig_Transaction | Multisig Transaction | Transaksi Multisig | Transaksi Multisig | 多重签名交易 | マルチシグトランザクション |
 | iOS | Music | Music |     |     | 音乐  | 音楽  |
-| android, iOS | Mute | Mute | Bisukan | Senyap | 静音通知 | ミュート |
+| android, iOS | Mute | Mute | Bisukan | Senyap | 静音  | ミュート |
 | Desktop | mute | Mute |     |     | 静音  |     |
 | android, iOS | Mute_until | Until %1$s | Hingga %1$s | Sehingga %1$s | 直到 %1$s | %1$sまで |
 | iOS, Desktop | Muted | Muted |     |     | 已静音 | ミュートされました |
@@ -925,7 +931,6 @@
 | android | profile_modify_number | Do you want to change your phone number? | Ingin mengubah nomor telepon Anda? | Adakah anda mahu menukar nombor telefon anda? | 你想要修改手机号码么？ | 電話番号を変更しますか? |
 | android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
 | android, iOS | profile_share_bot_hint | If you want to share a bot, add it to your contacts first |     |     | 如果您希望分享机器人，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
-| iOS | change_pin_interval_hint | Confirm PIN to change interval |     |     | 输入 PIN 修改使用间隔 | 設定を変更するためPINを入力してください |
 | android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料（必须） | プロフィール |
 | android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
 | android | qr_code_camera_code | Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information. | Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya. | Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat. | 打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。 |     |
@@ -1132,7 +1137,6 @@
 | android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
 | android, iOS | share_message_description_empty | Are you sure you want to send the %1$s? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
 | android | Share_QR_Code | Share QR Code |     |     | 分享二维码 | QRコードを共有 |
-| android, iOS | Invite_a_Friend | Invite a Friend |     | Kongsi Aplikasi Ini | 邀请好友 | このアプリをシェアする |
 | android | share_to | Share %1$s to… | Bagikan %1$s ke… | Kongsi %1$s ke… | 分享%1$s到… | %1$sをシェアする |
 | iOS | Share_To | Share To |     |     | 分享给 | 共有する |
 | android, iOS, Desktop | Shared_Media | Shared Media | Media Bersama | Media Berkongsi | 媒体内容 | 写真や動画 |
