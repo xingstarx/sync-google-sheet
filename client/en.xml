@@ -13,6 +13,8 @@
   <string name="About" platform="android, iOS, Desktop">About</string>
   <string name="about_version" platform="android">Version %1$s</string>
   <string name="Accept" platform="android">Accept</string>
+  <string name="Profile" platform="iOS">Profile</string>
+  <string name="New_Chat" platform="iOS">New Chat</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
