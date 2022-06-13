@@ -20,6 +20,8 @@
   <string name="Add_by_Phone_Contacts" platform="iOS">通过手机通讯录添加</string>
   <string name="Add_by_QR_Code" platform="iOS">通过二维码添加</string>
   <string name="Allow" platform="iOS">允许</string>
+  <string name="Name_or_Phone_number" platform="iOS">姓名或手机号</string>
+  <string name="Search_contacts" platform="iOS">搜索通讯录</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
