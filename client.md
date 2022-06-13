@@ -14,6 +14,17 @@
 | android, iOS, Desktop | About | About | Tentang | Mengenai | 关于  | Mixinについて |
 | android | about_version | Version %1$s | Versi %1$s | Versi %1$s | 版本 %1$s | 版本 %1$s |
 | android | Accept | Accept | Terima | Terima | 接听  |     |
+| iOS | Profile | Profile |     |     | 个人资料 |     |
+| iOS | New_Chat | New Chat |     |     | 新聊天 |     |
+| iOS | No_contacts | No contacts |     |     | 没有联系人 |     |
+| iOS | Add_by_ID_or_Phone_number | Add by Mixin ID or Phone number |     |     | 通过 Mixin ID 或手机号码添加 |     |
+| iOS | Add_by_Phone_Contacts | Add by Phone Contacts |     |     | 通过手机通讯录添加 |     |
+| iOS | Add_by_QR_Code | Add by QR Code |     |     | 通过二维码添加 |     |
+| iOS | Allow | Allow |     |     | 允许  |     |
+| iOS | Name_or_Phone_number | Name or Phone number |     |     | 姓名或手机号 |     |
+| iOS | Search_contacts | Search contacts |     |     | 搜索通讯录 |     |
+| iOS | Access_to_Contacts | Access to Contacts |     |     | 访问通讯录 |     |
+| iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users |     |     | Mixin 将你的通讯录同步到 Mixin 服务器，以帮助你与其他 Mixin 用户联系 |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
 | android, iOS | access_your_bots_list | access your bots list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的机器人列表 | アプリリストへのアクセス |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
