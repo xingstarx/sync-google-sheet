@@ -17,10 +17,11 @@
 | iOS | Profile | Profile |     |     | 个人资料 |     |
 | iOS | New_Chat | New Chat |     |     | 新聊天 |     |
 | iOS | No_contacts | No contacts |     |     | 没有联系人 |     |
-| iOS | add_by_id_or_number | Add by Mixin ID or Phone number |     |     | 通过 Mixin ID 或手机号码添加 |     |
-| iOS | add_by_phone_contact | Add by Phone Contacts |     |     | 通过手机通讯录添加 |     |
-| iOS | add_by_qr_code | Add by QR Code |     |     | 通过二维码添加 |     |
+| iOS | Add_by_ID_or_Phone_number | Add by Mixin ID or Phone number |     |     | 通过 Mixin ID 或手机号码添加 |     |
+| iOS | Add_by_Phone_Contacts | Add by Phone Contacts |     |     | 通过手机通讯录添加 |     |
+| iOS | Add_by_QR_Code | Add by QR Code |     |     | 通过二维码添加 |     |
 | iOS | Allow | Allow |     |     | 允许  |     |
+| iOS | Name_or_Phone_number | Name or Phone number |     |     |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
 | android, iOS | access_your_bots_list | access your bots list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的机器人列表 | アプリリストへのアクセス |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
