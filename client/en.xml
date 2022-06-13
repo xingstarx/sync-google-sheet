@@ -22,6 +22,7 @@
   <string name="Allow" platform="iOS">Allow</string>
   <string name="Name_or_Phone_number" platform="iOS">Name or Phone number</string>
   <string name="Search_contacts" platform="iOS">Search contacts</string>
+  <string name="Access_to_Contacts" platform="iOS">Access to Contacts</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
