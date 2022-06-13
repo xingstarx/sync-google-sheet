@@ -16,9 +16,9 @@
   <string name="Profile" platform="iOS">Profile</string>
   <string name="New_Chat" platform="iOS">New Chat</string>
   <string name="No_contacts" platform="iOS">No contacts</string>
-  <string name="" platform="iOS">Add by Mixin ID or Phone number</string>
-  <string name="" platform="iOS">Add by Phone Contacts</string>
-  <string name="" platform="iOS">Add by QR Code</string>
+  <string name="add_by_id_or_number" platform="iOS">Add by Mixin ID or Phone number</string>
+  <string name="add_by_phone_contact" platform="iOS">Add by Phone Contacts</string>
+  <string name="add_by_qr_code" platform="iOS">Add by QR Code</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
