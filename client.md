@@ -14,8 +14,12 @@
 | android, iOS, Desktop | About | About | Tentang | Mengenai | 关于  | Mixinについて |
 | android | about_version | Version %1$s | Versi %1$s | Versi %1$s | 版本 %1$s | 版本 %1$s |
 | android | Accept | Accept | Terima | Terima | 接听  |     |
-| iOS | Profile | Profile |     |     | 个人主页 |     |
+| iOS | Profile | Profile |     |     | 个人资料 |     |
 | iOS | New_Chat | New Chat |     |     | 新聊天 |     |
+| iOS | No_contacts | No contacts |     |     | 没有联系人 |     |
+| iOS |     | Add by Mixin ID or Phone number |     |     |     |     |
+| iOS |     | Add by Phone Contacts |     |     |     |     |
+| iOS |     | Add by QR Code |     |     |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
 | android, iOS | access_your_bots_list | access your bots list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的机器人列表 | アプリリストへのアクセス |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |

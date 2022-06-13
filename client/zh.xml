@@ -13,8 +13,9 @@
   <string name="About" platform="android, iOS, Desktop">关于</string>
   <string name="about_version" platform="android">版本 %1$s</string>
   <string name="Accept" platform="android">接听</string>
-  <string name="Profile" platform="iOS">个人主页</string>
+  <string name="Profile" platform="iOS">个人资料</string>
   <string name="New_Chat" platform="iOS">新聊天</string>
+  <string name="No_contacts" platform="iOS">没有联系人</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
