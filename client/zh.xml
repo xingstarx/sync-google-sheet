@@ -21,7 +21,7 @@
   <string name="Add_by_QR_Code" platform="iOS">通过二维码添加</string>
   <string name="Allow" platform="iOS">允许</string>
   <string name="Name_or_Phone_number" platform="iOS">姓名或手机号</string>
-  <string name="Search_contacts" platform="iOS">搜索通讯录</string>
+  <string name="Search_contacts" platform="iOS">搜索联系人</string>
   <string name="Access_to_Contacts" platform="iOS">访问通讯录</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin 将你的通讯录同步到 Mixin 服务器，以帮助你与其他 Mixin 用户联系</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>

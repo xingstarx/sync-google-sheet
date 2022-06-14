@@ -22,7 +22,7 @@
 | iOS | Add_by_QR_Code | Add by QR Code |     |     | 通过二维码添加 |     |
 | iOS | Allow | Allow |     |     | 允许  |     |
 | iOS | Name_or_Phone_number | Name or Phone number |     |     | 姓名或手机号 |     |
-| iOS | Search_contacts | Search contacts |     |     | 搜索通讯录 |     |
+| iOS | Search_contacts | Search contacts |     |     | 搜索联系人 |     |
 | iOS | Access_to_Contacts | Access to Contacts |     |     | 访问通讯录 |     |
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users |     |     | Mixin 将你的通讯录同步到 Mixin 服务器，以帮助你与其他 Mixin 用户联系 |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
