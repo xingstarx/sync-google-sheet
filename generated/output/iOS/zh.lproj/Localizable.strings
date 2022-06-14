@@ -677,7 +677,7 @@
 "screen_lock_enable_biometric_hint" = "您需要使用%@来解锁 Mixin。当 Mixin 锁定时，您仍可以接听通话或在通知中回复消息。";
 "screen_lock_unlock" = "通过%@解锁 Mixin";
 "search" = "搜索";
-"search_contacts" = "搜索通讯录";
+"search_contacts" = "搜索联系人";
 "search_conversation" = "搜索聊天记录";
 "search_giphy" = "搜索 GIPHY";
 "search_open_link" = "打开链接：";
