@@ -15,7 +15,7 @@
   <string name="Accept" platform="android">接听</string>
   <string name="Profile" platform="iOS">个人资料</string>
   <string name="New_Chat" platform="iOS">新聊天</string>
-  <string name="No_CONTACTSS" platform="iOS">没有联系人</string>
+  <string name="No_CONTACTS" platform="iOS">没有联系人</string>
   <string name="Add_by_ID_or_Phone_number" platform="iOS">通过 Mixin ID 或手机号码添加</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">通过手机通讯录添加</string>
   <string name="Add_by_QR_Code" platform="iOS">通过二维码添加</string>
