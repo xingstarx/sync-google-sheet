@@ -16,7 +16,7 @@
 | android | Accept | Accept | Terima | Terima | 接听  |     |
 | iOS | Profile | Profile |     |     | 个人资料 |     |
 | iOS | New_Chat | New Chat |     |     | 新聊天 |     |
-| iOS | No_contacts | No contacts |     |     | 没有联系人 |     |
+| iOS | No_CONTACTS | No CONTACTS |     |     | 没有联系人 |     |
 | iOS | Add_by_ID_or_Phone_number | Add by Mixin ID or Phone number |     |     | 通过 Mixin ID 或手机号码添加 |     |
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts |     |     | 通过手机通讯录添加 |     |
 | iOS | Add_by_QR_Code | Add by QR Code |     |     | 通过二维码添加 |     |

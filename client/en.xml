@@ -15,7 +15,7 @@
   <string name="Accept" platform="android">Accept</string>
   <string name="Profile" platform="iOS">Profile</string>
   <string name="New_Chat" platform="iOS">New Chat</string>
-  <string name="No_contacts" platform="iOS">No contacts</string>
+  <string name="No_CONTACTS" platform="iOS">No CONTACTS</string>
   <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
