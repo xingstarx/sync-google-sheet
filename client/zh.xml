@@ -421,7 +421,7 @@
   <string name="Disable_web_debug" platform="android">已关闭 Web 调试</string>
   <string name="Disabled" platform="android">已停用</string>
   <string name="disappearing_message" platform="android, iOS">限时消息</string>
-  <string name="disappearing_message_hint" platform="android, iOS">启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以了解更多。</string>
+  <string name="disappearing_message_hint" platform="android, iOS">启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。</string>
   <string name="disappearing_option_1" platform="android, iOS">30 秒</string>
   <string name="disappearing_option_2" platform="android, iOS">10 分</string>
   <string name="disappearing_option_3" platform="android, iOS">2 小时</string>
@@ -1091,7 +1091,7 @@
   <string name="setting_data_title" platform="android">自动下载文件</string>
   <string name="setting_data_wifi" platform="android">当连接到 Wi-Fi 时</string>
   <string name="setting_delete_account_content_2" platform="android">本地信息和备份不会被自动删除</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以了解更多。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">我们将发送 4 位验证码到手机 %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。</string>
   <string name="setting_desktop_confirm" platform="android, iOS">确认登录 Mixin Messenger 桌面端</string>
@@ -1100,7 +1100,7 @@
   <string name="setting_emergency_change_mobile" platform="android">立即修改手机号？</string>
   <string name="setting_emergency_content" platform="android, iOS">紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。</string>
   <string name="setting_emergency_create_success" platform="android">添加紧急联系人成功</string>
-  <string name="setting_emergency_desc" platform="android, iOS">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档了解更多。</string>
+  <string name="setting_emergency_desc" platform="android, iOS">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档**了解更多**。</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">紧急联系人受 PIN 加密保护</string>
   <string name="setting_emergency_send_code" platform="android, iOS">请输入发送至以下 Mixin ID 的 4 位验证码：%1$s</string>
   <string name="setting_emergency_set" platform="android">设置紧急联系人</string>
@@ -1310,12 +1310,12 @@
   <string name="wallet_password_change_tip" platform="android">请输入6位 PIN 来验证</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN 不一致, 请重新输入</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">设置新的 6 位数字 PIN</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以了解更多。</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以**了解更多**。</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN 过于简单不安全</string>
   <string name="wallet_pin_modify_biometrics" platform="android">请输入 PIN 来修改支付 PIN 使用间隔</string>
   <string name="wallet_pin_open_biometrics" platform="android">请输入 PIN 来启用生物识别支付</string>
   <string name="wallet_pin_pay_interval_tips" platform="android, iOS">为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时已然需要支付 PIN</string>
-  <string name="wallet_pin_tops_desc" platform="android, iOS">注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以了解更多。</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
   <string name="wallet_refresh_address_failed" platform="android, iOS">手续费已变更且刷新失败，请重试。</string>
   <string name="wallet_setting_currency_desc" platform="android">%1$s（%2$s）</string>
   <string name="wallet_transaction_continue_count_down" platform="android, iOS">继续 （%1$d）</string>
