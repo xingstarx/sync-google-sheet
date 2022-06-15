@@ -626,7 +626,7 @@
 	<string name="setting_emergency_change_mobile">Adakah anda mahu menukar nombor telefon bimbit anda sekarang?</string>
 	<string name="setting_emergency_content">Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda.</string>
 	<string name="setting_emergency_create_success">Buat kenalan kecemasan berjaya</string>
-	<string name="setting_emergency_desc">Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut.</string>
+	<string name="setting_emergency_desc">Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk **mengetahui lebih lanjut**.</string>
 	<string name="setting_emergency_pin_tip">Kenalan kecemasan anda dilindungi oleh PIN</string>
 	<string name="setting_emergency_send_code">Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s</string>
 	<string name="setting_emergency_set">Tetapkan kenalan kecemasan</string>
@@ -745,7 +745,7 @@
 	<string name="wallet_password_change_tip">Sila masukkan PIN 6 digit untuk mengesahkan.</string>
 	<string name="wallet_password_not_equal">PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi.</string>
 	<string name="wallet_password_set_new_pin_desc">Sila tetapkan PIN 6 digit baharu.</string>
-	<string name="wallet_password_set_pin_desc">Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk mengetahui lebih lanjut.</string>
+	<string name="wallet_password_set_pin_desc">Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk **mengetahui lebih lanjut**.</string>
 	<string name="wallet_password_unsafe">PIN terlalu mudah dan tidak selamat.</string>
 	<string name="wallet_pin_modify_biometrics">Sila masukkan PIN untuk Ubahsuai Bayar dengan selang PIN</string>
 	<string name="wallet_pin_open_biometrics">Sila masukkan PIN untuk membuka Biometrik</string>
