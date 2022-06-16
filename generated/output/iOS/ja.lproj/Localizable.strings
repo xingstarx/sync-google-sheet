@@ -517,7 +517,7 @@
 "no_authorizations" = "NO AUTHORIZATIONS";
 "no_blocked_users" = "ブロック済みのユーザーはいません";
 "no_bots" = "ロボがありません";
-"no_contacts" = "No CONTACTS";
+"no_contacts" = "NO CONTACTS";
 "no_files" = "ファイルがありません";
 "no_hidden_assets" = "非表示資産はありません";
 "no_items_selected" = "No Items Selected";
@@ -677,7 +677,7 @@
 "screen_lock_enable_biometric_hint" = "Mixinをアンロックするには%@が必要になります。Mixinがロックされている場合でも、通知されたメッセージへの返信や電話の応答は可能です。";
 "screen_lock_unlock" = "Mixinをアンロックするために%@を使用してください";
 "search" = "検索";
-"search_contacts" = "Search contacts";
+"search_contacts" = "Search Contacts";
 "search_conversation" = "メッセージを検索";
 "search_giphy" = "GIPHYを検索する";
 "search_open_link" = "Open Link: ";
