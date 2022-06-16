@@ -15,13 +15,13 @@
   <string name="Accept" platform="android">Accept</string>
   <string name="Profile" platform="iOS">Profile</string>
   <string name="New_Chat" platform="iOS">New Chat</string>
-  <string name="No_CONTACTS" platform="iOS">No CONTACTS</string>
+  <string name="No_CONTACTS" platform="iOS">NO CONTACTS</string>
   <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
   <string name="Allow" platform="iOS">Allow</string>
   <string name="Name_or_Phone_number" platform="iOS">Name or Phone number</string>
-  <string name="Search_contacts" platform="iOS">Search contacts</string>
+  <string name="Search_contacts" platform="iOS">Search Contacts</string>
   <string name="Access_to_Contacts" platform="iOS">Access to Contacts</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
