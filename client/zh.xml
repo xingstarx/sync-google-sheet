@@ -802,7 +802,7 @@
   <string name="NO_POSTS" platform="android, iOS, Desktop">没有文章</string>
   <string name="No_raws" platform="android">暂无其他记录</string>
   <string name="No_rebates" platform="android">暂无退款记录</string>
-  <string name="No_results" platform="android, iOS">未找到相关结果</string>
+  <string name="NO_RESULTS" platform="android, iOS">未找到相关结果</string>
   <string name="no_results" platform="Desktop">没有结果</string>
   <string name="NO_STICKERS" platform="android, iOS">还未添加任何表情</string>
   <string name="No_tag" platform="android, iOS">点击不使用 Tag（标签）</string>

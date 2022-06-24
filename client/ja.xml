@@ -795,7 +795,7 @@
   <string name="NO_POSTS" platform="android, iOS, Desktop">投稿がありません</string>
   <string name="No_raws" platform="android">その他はありません</string>
   <string name="No_rebates" platform="android">払い戻しはありません</string>
-  <string name="No_results" platform="android, iOS">結果なし</string>
+  <string name="NO_RESULTS" platform="android, iOS">結果なし</string>
   <string name="NO_STICKERS" platform="android, iOS">ステッカーはありません</string>
   <string name="No_tag" platform="android, iOS">タグなし</string>
   <string name="No_transactions" platform="android, iOS">トランザクションはありません</string>

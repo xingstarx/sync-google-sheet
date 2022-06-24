@@ -817,7 +817,7 @@
   <string name="NO_POSTS" platform="android, iOS, Desktop">NO POSTS</string>
   <string name="No_raws" platform="android">No raws</string>
   <string name="No_rebates" platform="android">No rebates</string>
-  <string name="No_results" platform="android, iOS">No results</string>
+  <string name="NO_RESULTS" platform="android, iOS">NO RESULTS</string>
   <string name="no_results" platform="Desktop">No results</string>
   <string name="NO_STICKERS" platform="android, iOS">NO STICKERS</string>
   <string name="No_tag" platform="android, iOS">No Tag</string>
