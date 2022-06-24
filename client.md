@@ -818,7 +818,7 @@
 | android, iOS, Desktop | NO_POSTS | NO POSTS | TIDAK ADA POSTINGAN | TIADA POST | 没有文章 | 投稿がありません |
 | android | No_raws | No raws | Tidak ada raw | Tanpa raws | 暂无其他记录 | その他はありません |
 | android | No_rebates | No rebates | Tidak ada rabat | Tiada rebat | 暂无退款记录 | 払い戻しはありません |
-| android, iOS | No_results | No results | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
+| android, iOS | NO_RESULTS | NO RESULTS | Tidak ada hasil | Tiada keputusan | 未找到相关结果 | 結果なし |
 | Desktop | no_results | No results |     |     | 没有结果 |     |
 | android, iOS | NO_STICKERS | NO STICKERS |     |     | 还未添加任何表情 | ステッカーはありません |
 | android, iOS | No_tag | No Tag | Tanpa Tag | Tiada Tag | 点击不使用 Tag（标签） | タグなし |
