@@ -685,7 +685,7 @@
 | android | Link_desktop_success | Link desktop success | Berhasil menautkan desktop | Pautan desktop berjaya | 登录桌面端成功 | デスクトップ版とのリンクに成功しました |
 | iOS | Link_recognition_failure | Link recognition failure |     |     | 链接识别失败 | リンクの認識に失敗しました |
 | iOS | link_shareable_false | The link has been set to not allow sharing |     |     | 该链接已被设置为不允许分享 | このリンクを共有することはできません |
-| android | Links | Links | Tautan | Pautan | 链接  | リンク |
+| android, iOS | Links | Links | Tautan | Pautan | 链接  | リンク |
 | android, iOS, Desktop | Live | Live | Siaran Langsung | Langsung | 直播  | ライブ配信 |
 | android | live_permission | Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode. | Mixin memerlukan akses untuk berada di atas aplikasi lain untuk memutar video dalam mode Gambar-di dalam-Gambar. | Mixin memerlukan akses untuk menarik di atas aplikasi lain untuk memainkan video dalam mod Gambar-dalam-Gambar. | Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。 | Mixinは、ピクチャーインピクチャーモードでビデオを再生するために、他のアプリより上の描画にアクセスする必要があります。 |
 | android, iOS | live_shareable_false | The live has been set to not allow sharing |     |     | 该直播已被设置为不允许转发 | このライブ配信を共有することはできません |
@@ -809,7 +809,7 @@
 | android, iOS, Desktop | NO_FILES | NO FILES | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
 | android, iOS | No_hidden_assets | No hidden assets | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
 | iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
-| android, Desktop | NO_LINKS | NO LINKS | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
+| android, iOS, Desktop | NO_LINKS | NO LINKS | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
 | android, iOS | No_logs | No logs | Tidak ada log | Tiada log | 没有日志 | ログがありません |
 | android, iOS, Desktop | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
 | android | No_media_yet | No media yet | Belum ada media | Belum ada lagi media | 还没有图片或视频 | メディアがありません |

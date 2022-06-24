@@ -671,7 +671,7 @@
   <string name="Link_desktop_success" platform="android">登录桌面端成功</string>
   <string name="Link_recognition_failure" platform="iOS">链接识别失败</string>
   <string name="link_shareable_false" platform="iOS">该链接已被设置为不允许分享</string>
-  <string name="Links" platform="android">链接</string>
+  <string name="Links" platform="android, iOS">链接</string>
   <string name="Live" platform="android, iOS, Desktop">直播</string>
   <string name="live_permission" platform="android">Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。</string>
   <string name="live_shareable_false" platform="android, iOS">该直播已被设置为不允许转发</string>
@@ -793,7 +793,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">没有文件</string>
   <string name="No_hidden_assets" platform="android, iOS">没有隐藏的资产</string>
   <string name="No_Items_Selected" platform="iOS">未选定项目</string>
-  <string name="NO_LINKS" platform="android, Desktop">没有链接</string>
+  <string name="NO_LINKS" platform="android, iOS, Desktop">没有链接</string>
   <string name="No_logs" platform="android, iOS">没有日志</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">没有媒体</string>
   <string name="No_media_yet" platform="android">还没有图片或视频</string>

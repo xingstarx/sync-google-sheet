@@ -669,7 +669,7 @@
   <string name="Link_desktop_success" platform="android">デスクトップ版とのリンクに成功しました</string>
   <string name="Link_recognition_failure" platform="iOS">リンクの認識に失敗しました</string>
   <string name="link_shareable_false" platform="iOS">このリンクを共有することはできません</string>
-  <string name="Links" platform="android">リンク</string>
+  <string name="Links" platform="android, iOS">リンク</string>
   <string name="Live" platform="android, iOS, Desktop">ライブ配信</string>
   <string name="live_permission" platform="android">Mixinは、ピクチャーインピクチャーモードでビデオを再生するために、他のアプリより上の描画にアクセスする必要があります。</string>
   <string name="live_shareable_false" platform="android, iOS">このライブ配信を共有することはできません</string>
@@ -786,7 +786,7 @@
   <string name="No_fees" platform="android">手数料はありません</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">ファイルがありません</string>
   <string name="No_hidden_assets" platform="android, iOS">非表示資産はありません</string>
-  <string name="NO_LINKS" platform="android, Desktop">リンクがありません</string>
+  <string name="NO_LINKS" platform="android, iOS, Desktop">リンクがありません</string>
   <string name="No_logs" platform="android, iOS">ログがありません</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">メディアがありません</string>
   <string name="No_media_yet" platform="android">メディアがありません</string>
