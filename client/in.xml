@@ -346,7 +346,7 @@
   <string name="Line_busy_remote" platform="android, iOS">Jaringan sibuk</string>
   <string name="Link_desktop_failed" platform="android">Gagal menautkan desktsktopop</string>
   <string name="Link_desktop_success" platform="android">Berhasil menautkan desktop</string>
-  <string name="Links" platform="android">Tautan</string>
+  <string name="Links" platform="android, iOS">Tautan</string>
   <string name="Live" platform="android, iOS, Desktop">Siaran Langsung</string>
   <string name="live_permission" platform="android">Mixin memerlukan akses untuk berada di atas aplikasi lain untuk memutar video dalam mode Gambar-di dalam-Gambar.</string>
   <string name="loading_time" platform="android, Desktop">Waktu sistem tidak normal, silakan gunakan lagi setelah perbaikan dilakukan</string>
@@ -413,7 +413,7 @@
   <string name="No_fees" platform="android">Tidak ada biaya</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">TIDAK ADA FILE</string>
   <string name="No_hidden_assets" platform="android, iOS">Tidak ada aset tersembunyi</string>
-  <string name="NO_LINKS" platform="android, Desktop">TIDAK ADA TAUTAN</string>
+  <string name="NO_LINKS" platform="android, iOS, Desktop">TIDAK ADA TAUTAN</string>
   <string name="No_logs" platform="android, iOS">Tidak ada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIDAK ADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada media</string>

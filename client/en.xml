@@ -684,7 +684,7 @@
   <string name="Link_desktop_success" platform="android">Link desktop success</string>
   <string name="Link_recognition_failure" platform="iOS">Link recognition failure</string>
   <string name="link_shareable_false" platform="iOS">The link has been set to not allow sharing</string>
-  <string name="Links" platform="android">Links</string>
+  <string name="Links" platform="android, iOS">Links</string>
   <string name="Live" platform="android, iOS, Desktop">Live</string>
   <string name="live_permission" platform="android">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
   <string name="live_shareable_false" platform="android, iOS">The live has been set to not allow sharing</string>
@@ -808,7 +808,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">NO FILES</string>
   <string name="No_hidden_assets" platform="android, iOS">No hidden assets</string>
   <string name="No_Items_Selected" platform="iOS">No Items Selected</string>
-  <string name="NO_LINKS" platform="android, Desktop">NO LINKS</string>
+  <string name="NO_LINKS" platform="android, iOS, Desktop">NO LINKS</string>
   <string name="No_logs" platform="android, iOS">No logs</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">NO MEDIA</string>
   <string name="No_media_yet" platform="android">No media yet</string>
