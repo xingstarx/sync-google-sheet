@@ -444,6 +444,7 @@
 "line_busy_remote" = "Jaringan sibuk";
 "link_recognition_failure" = "Link recognition failure";
 "link_shareable_false" = "The link has been set to not allow sharing";
+"links" = "Tautan";
 "live" = "Siaran Langsung";
 "live_shareable_false" = "The live has been set to not allow sharing";
 "live_stream" = "live stream";
@@ -521,6 +522,7 @@
 "no_files" = "TIDAK ADA FILE";
 "no_hidden_assets" = "Tidak ada aset tersembunyi";
 "no_items_selected" = "No Items Selected";
+"no_links" = "TIDAK ADA TAUTAN";
 "no_logs" = "Tidak ada log";
 "no_media" = "TIDAK ADA MEDIA";
 "no_memo" = "Tanpa Memo";
