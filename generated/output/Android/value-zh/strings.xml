@@ -594,7 +594,7 @@
 	<string name="NO_POSTS">没有文章</string>
 	<string name="No_raws">暂无其他记录</string>
 	<string name="No_rebates">暂无退款记录</string>
-	<string name="No_results">未找到相关结果</string>
+	<string name="NO_RESULTS">未找到相关结果</string>
 	<string name="NO_STICKERS">还未添加任何表情</string>
 	<string name="No_tag">点击不使用 Tag（标签）</string>
 	<string name="No_transactions">暂无转账记录</string>
