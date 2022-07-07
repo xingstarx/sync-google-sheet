@@ -268,6 +268,9 @@
 	<string name="db_debug_warning">注意：如果执行了有侵害性的 SQL，结果不可逆！</string>
 	<string name="Decline">挂断</string>
 	<string name="Declined">已拒绝</string>
+	<string name="deep_clean">深度清理</string>
+	<string name="deep_cleaning">正在清理…</string>
+	<string name="deep_cleaning_deleted">正在清理，已删除 %1$s</string>
 	<string name="Delete">删除</string>
 	<string name="delete_account_hint">删除你的账户和个人照片</string>
 	<string name="Delete_address">删除地址</string>

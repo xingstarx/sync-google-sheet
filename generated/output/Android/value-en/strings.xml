@@ -274,6 +274,9 @@
 	<string name="Debug_database">Debug database</string>
 	<string name="Decline">Decline</string>
 	<string name="Declined">Declined</string>
+	<string name="deep_clean">Deep clean</string>
+	<string name="deep_cleaning">Cleaning up…</string>
+	<string name="deep_cleaning_deleted">Cleaning up, %1$s deleted</string>
 	<string name="default_time">00:00</string>
 	<string name="Delete">Delete</string>
 	<string name="delete_account_hint">Delete your account info and profile photo</string>
