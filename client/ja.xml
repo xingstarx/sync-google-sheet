@@ -471,43 +471,43 @@
   <string name="error_address_exists" platform="android, Desktop">アドレスが存在しません。アドレスが正常に追加されていることを確認してください。</string>
   <string name="error_address_not_sync" platform="android, Desktop">アドレスの更新に失敗しました。もう一度やり直してください。</string>
   <string name="error_asset_exists" platform="Desktop">資産がありません</string>
-  <string name="error_authentication" platform="android, Desktop">エラー %1$d: サインインをして続ける</string>
-  <string name="error_bad_data" platform="android, Desktop">エラー %1$d: リクエストデータが無効です</string>
-  <string name="error_blockchain" platform="android, iOS, Desktop">エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
+  <string name="error_authentication" platform="android, Desktop">エラー 401: サインインをして続ける</string>
+  <string name="error_bad_data" platform="android, Desktop">エラー 10002: リクエストデータが無効です</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100:ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
-  <string name="error_full_group" platform="android, iOS, Desktop">エラー %1$d: グループチャットが満員です</string>
-  <string name="error_insufficient_balance" platform="android, iOS, Desktop">エラー %1$d: 残高が不足しています</string>
+  <string name="error_full_group" platform="android, iOS, Desktop">エラー 20116: グループチャットが満員です</string>
+  <string name="error_insufficient_balance" platform="android, iOS, Desktop">エラー 20117: 残高が不足しています</string>
   <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">トランザクション手数料が不足しています</string>
   <string name="error_internal_with_msg" platform="iOS">内部エラー: %@</string>
-  <string name="error_invalid_address" platform="android, Desktop">エラー%1$d：無効なアドレス形式です。正しい%2$s %3$s アドレスを入力してください。</string>
-  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">エラー%1$d：無効なアドレス形式です。</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">エラー %1$d: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">エラー %1$d: 緊急連絡先が無効です</string>
-  <string name="error_invalid_pin_format" platform="android, Desktop">エラー %1$d: 無効なPINフォーマットです</string>
+  <string name="error_invalid_address" platform="android, Desktop">エラー30102：無効なアドレス形式です。正しい%2$s %3$s アドレスを入力してください。</string>
+  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">エラー30102：無効なアドレス形式です。</string>
+  <string name="error_invalid_code_too_frequent" platform="android, Desktop">エラー 20129: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">エラー 20130: 緊急連絡先が無効です</string>
+  <string name="error_invalid_pin_format" platform="android, Desktop">エラー 20118: 無効なPINフォーマットです</string>
   <string name="error_memo_too_long" platform="android">メモの上限文字数は200文字です</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。</string>
-  <string name="error_not_found" platform="android, iOS, Desktop">エラー %1$d: 結果なし</string>
+  <string name="error_not_found" platform="android, iOS, Desktop">エラー 404: 結果なし</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">サポートされていないオーディオ形式です。他のアプリで開いてください。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">エラー %1$d: 数が上限に達しています。</string>
-  <string name="error_old_version" platform="android, Desktop">エラー %1$d: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">エラー 20132: 数が上限に達しています。</string>
+  <string name="error_old_version" platform="android, Desktop">エラー 10006: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。</string>
   <string name="error_open_location" platform="android, Desktop">地図アプリがありません</string>
   <string name="error_permission" platform="android, Desktop">必要な権限を開いてください</string>
-  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">エラー %1$d: 電話番号が無効です</string>
-  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">エラー %1$d: SMSの送信に失敗しました</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">エラー 20110: 電話番号が無効です</string>
+  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">エラー 10003: SMSの送信に失敗しました</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">期限切れ</string>
-  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">エラー %1$d: 電話番号認証コードが無効です</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">エラー 20113: 電話番号認証コードが無効です</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">PINが違います</string>
-  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー %1$d: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">エラー%1$d: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">エラー %1$d: Recaptchaが無効です</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー 20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">エラー20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
+  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">エラー 10004: Recaptchaが無効です</string>
   <string name="error_requires_captcha" platform="iOS">Captcha認証が必要です</string>
   <string name="error_server_5xx_code" platform="android, Desktop">サーバーメンテナンス中: %1$d</string>
-  <string name="error_too_many_friends" platform="android, iOS">エラー%1$d: 友だちが多すぎます</string>
-  <string name="error_too_many_request" platform="android, iOS, Desktop">エラー %1$d: レート制限を超過しています</string>
-  <string name="error_too_many_stickers" platform="android, iOS, Desktop">エラー %1$d: スタンプが多すぎます</string>
+  <string name="error_too_many_friends" platform="android, iOS">エラー20128: 友だちが多すぎます</string>
+  <string name="error_too_many_request" platform="android, iOS, Desktop">エラー 429: レート制限を超過しています</string>
+  <string name="error_too_many_stickers" platform="android, iOS, Desktop">エラー 20126: スタンプが多すぎます</string>
   <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">送金数量</string>
-  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">エラー %1$d: 出金額が小さすぎます</string>
+  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">エラー 20127: 出金額が小さすぎます</string>
   <string name="error_transcript_forward" platform="android, Desktop">添付ファイルはすべてダウンロード後、転送してください。</string>
   <string name="error_transfer_is_already_paid" platform="android, iOS">エラー </string>
   <string name="error_two_parts" platform="iOS">エラー %@: %@</string>
@@ -515,7 +515,7 @@
   <string name="error_unable_to_open_media" platform="android, Desktop">メディアを開くことができるアプリがありません</string>
   <string name="error_unknown_with_code" platform="android, Desktop">エラー: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">エラー: %1$s</string>
-  <string name="error_used_phone" platform="android, iOS, Desktop">エラー%1$d：携帯が第三者によって利用されています。</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">エラー20122：携帯が第三者によって利用されています。</string>
   <string name="error_user_invalid_format" platform="android, Desktop">ユーザーIDが無効です</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">メモ</string>
   <string name="Everybody" platform="android, iOS">全員</string>

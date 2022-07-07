@@ -484,53 +484,53 @@
   <string name="error_address_exists" platform="android, Desktop">The address does not exist, please make sure that the address is added successfully</string>
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
   <string name="error_asset_exists" platform="Desktop">Asset does not exist</string>
-  <string name="error_authentication" platform="android, Desktop">ERROR %1$d: Sign in to continue</string>
-  <string name="error_bad_data" platform="android, Desktop">ERROR %1$d: The request data has invalid field</string>
-  <string name="error_blockchain" platform="android, iOS, Desktop">ERROR %1$d: Blockchain not in sync, please try again later.</string>
+  <string name="error_authentication" platform="android, Desktop">ERROR 401: Sign in to continue</string>
+  <string name="error_bad_data" platform="android, Desktop">ERROR 10002: The request data has invalid field</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">ERROR 30100: Blockchain not in sync, please try again later.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Network connection timeout, please try again</string>
-  <string name="error_full_group" platform="android, iOS, Desktop">ERROR %1$d: The group chat is full.</string>
-  <string name="error_insufficient_balance" platform="android, iOS, Desktop">ERROR %1$d: Insufficient balance</string>
-  <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">ERROR %1$d: Insufficient transaction fee. Please make sure your wallet has %2$s as fee</string>
+  <string name="error_full_group" platform="android, iOS, Desktop">ERROR 20116: The group chat is full.</string>
+  <string name="error_insufficient_balance" platform="android, iOS, Desktop">ERROR 20117: Insufficient balance</string>
+  <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %2$s as fee</string>
   <string name="error_internal_with_msg" platform="iOS">Internal error: %@</string>
-  <string name="error_invalid_address" platform="android, Desktop">ERROR %1$d: Invalid address format. Please enter the correct %2$s %3$s address!</string>
-  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR %1$d: Invalid address format.</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">ERROR %1$d: Send verification code too frequent, please try again later.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR %1$d: Invalid emergency contact</string>
-  <string name="error_invalid_pin_format" platform="android, Desktop">ERROR %1$d: Invalid PIN format. </string>
+  <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: Invalid address format. Please enter the correct %2$s %3$s address!</string>
+  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: Invalid address format.</string>
+  <string name="error_invalid_code_too_frequent" platform="android, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Invalid emergency contact</string>
+  <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Invalid PIN format. </string>
   <string name="error_memo_too_long" platform="android">Memo has too many characters, maximum is 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Network connection failed. Check or switch your network and try again</string>
-  <string name="error_not_found" platform="android, iOS, Desktop">ERROR %1$d: Not found</string>
+  <string name="error_not_found" platform="android, iOS, Desktop">ERROR 404: Not found</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Not supported audio format, please open by other app.</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">ERROR %1$d: The number has reached the limit.</string>
-  <string name="error_old_version" platform="android, Desktop">ERROR %1$d: Please update Mixin(%2$s) to continue use the service.</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: The number has reached the limit.</string>
+  <string name="error_old_version" platform="android, Desktop">ERROR 10006: Please update Mixin(%2$s) to continue use the service.</string>
   <string name="error_open_location" platform="android, Desktop">Can't find an map app</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
-  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR %1$d: Invalid phone number</string>
-  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR %1$d: Failed to deliver SMS</string>
-  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR %1$d: Expired phone verification code</string>
-  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR %1$d: Invalid phone verification code</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
+  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
+  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Expired phone verification code</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid phone verification code</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
-  <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR %1$d: PIN incorrect</string>
-  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR %1$d: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later.</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR %1$d: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later.</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">ERROR %1$d: Recaptcha is invalid</string>
+  <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later.</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later.</string>
+  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">ERROR 10004: Recaptcha is invalid</string>
   <string name="error_requires_captcha" platform="iOS">Captcha is required.</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server is under maintenance: %1$d</string>
-  <string name="error_too_many_friends" platform="android, iOS">ERROR %1$d: Too many friends</string>
-  <string name="error_too_many_request" platform="android, iOS, Desktop">ERROR %1$d: Rate limit exceeded</string>
-  <string name="error_too_many_stickers" platform="android, iOS, Desktop">ERROR %1$d: Too many stickers</string>
-  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">ERROR %1$d: Transfer amount is too small</string>
-  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">ERROR %1$d: Withdraw amount too small</string>
+  <string name="error_too_many_friends" platform="android, iOS">ERROR 20128: Too many friends</string>
+  <string name="error_too_many_request" platform="android, iOS, Desktop">ERROR 429: Rate limit exceeded</string>
+  <string name="error_too_many_stickers" platform="android, iOS, Desktop">ERROR 20126: Too many stickers</string>
+  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">ERROR 20120: Transfer amount is too small</string>
+  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">ERROR 20127: Withdraw amount too small</string>
   <string name="error_transcript_forward" platform="android, Desktop">Please forward all attachments after they have been downloaded</string>
-  <string name="error_transfer_is_already_paid" platform="android, iOS">ERROR %1$d: Transfer is already paid.</string>
+  <string name="error_transfer_is_already_paid" platform="android, iOS">ERROR 20125: Transfer is already paid.</string>
   <string name="error_two_parts" platform="iOS">ERROR %@: %@</string>
   <string name="error_unable_to_open_link" platform="android">Can't find an app able to open this link.\n%1$s</string>
   <string name="error_unable_to_open_media" platform="android, Desktop">Can't find an app able to open this media.</string>
   <string name="error_unknown_with_code" platform="android, Desktop">ERROR: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">ERROR: %1$s</string>
-  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR %1$d: This phone number is already associated with another account.</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR 20122: This phone number is already associated with another account.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
-  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR %1$d: Withdrawal memo format incorrect.</string>
+  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>

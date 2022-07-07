@@ -230,41 +230,41 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Masukkan ID Mixin kontak darurat Anda</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nomor ponsel Anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN Anda</string>
-  <string name="error_authentication" platform="android, Desktop">KESALAHAN %1$d: Masuk untuk melanjutkan</string>
-  <string name="error_bad_data" platform="android, Desktop">KESALAHAN %1$d: Data permintaan memiliki bidang yang tidak valid</string>
-  <string name="error_blockchain" platform="android, iOS, Desktop">KESALAHAN %1$d: Blockchain tidak sinkron, coba lagi nanti.</string>
+  <string name="error_authentication" platform="android, Desktop">KESALAHAN 401: Masuk untuk melanjutkan</string>
+  <string name="error_bad_data" platform="android, Desktop">KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Batas waktu sambungan jaringan</string>
-  <string name="error_full_group" platform="android, iOS, Desktop">KESALAHAN %1$d: Obrolan grup sudah penuh.</string>
-  <string name="error_insufficient_balance" platform="android, iOS, Desktop">KESALAHAN %1$d: Saldo tidak cukup</string>
-  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">KESALAHAN %1$d: Format alamat tidak valid.</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">KESALAHAN %1$d: Terlalu sering mengirim kode verifikasi, coba lagi nanti.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">KESALAHAN %1$d: Kontak darurat tidak valid</string>
-  <string name="error_invalid_pin_format" platform="android, Desktop">KESALAHAN %1$d: Format PIN tidak valid</string>
-  <string name="error_not_found" platform="android, iOS, Desktop">KESALAHAN %1$d: Tidak ditemukan</string>
+  <string name="error_full_group" platform="android, iOS, Desktop">KESALAHAN 20116: Obrolan grup sudah penuh.</string>
+  <string name="error_insufficient_balance" platform="android, iOS, Desktop">KESALAHAN 20117: Saldo tidak cukup</string>
+  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">KESALAHAN 30102: Format alamat tidak valid.</string>
+  <string name="error_invalid_code_too_frequent" platform="android, Desktop">KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti.</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">KESALAHAN 20130: Kontak darurat tidak valid</string>
+  <string name="error_invalid_pin_format" platform="android, Desktop">KESALAHAN 20118: Format PIN tidak valid</string>
+  <string name="error_not_found" platform="android, iOS, Desktop">KESALAHAN 404: Tidak ditemukan</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak mendukung format audio, harap buka dengan aplikasi lain.</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">KESALAHAN %1$d: Jumlahnya telah mencapai batas.</string>
-  <string name="error_old_version" platform="android, Desktop">KESALAHAN %1$d: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan.</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">KESALAHAN 20132: Jumlahnya telah mencapai batas.</string>
+  <string name="error_old_version" platform="android, Desktop">KESALAHAN 10006: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat menemukan aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Harap buka izin yang diperlukan</string>
-  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">KESALAHAN %1$d: Nomor telepon tidak valid</string>
-  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">KESALAHAN %1$d: Gagal mengirim SMS</string>
-  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">KESALAHAN %1$d: Kode verifikasi telepon sudah tidak berlaku</string>
-  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">KESALAHAN %1$d: Kode verifikasi telepon tidak valid</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">KESALAHAN 20110: Nomor telepon tidak valid</string>
+  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">KESALAHAN 10003: Gagal mengirim SMS</string>
+  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">KESALAHAN 20114: Kode verifikasi telepon sudah tidak berlaku</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">KESALAHAN 20113: Kode verifikasi telepon tidak valid</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi.</string>
-  <string name="error_pin_incorrect" platform="android, iOS, Desktop">KESALAHAN %1$d: PIN salah</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">KESALAHAN %1$d: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti.</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">KESALAHAN %1$d: Recaptcha tidak valid</string>
+  <string name="error_pin_incorrect" platform="android, iOS, Desktop">KESALAHAN 20119: PIN salah</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">KESALAHAN 20119: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti.</string>
+  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">KESALAHAN 10004: Recaptcha tidak valid</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server sedang dalam pemeliharaan: %1$d</string>
-  <string name="error_too_many_request" platform="android, iOS, Desktop">KESALAHAN %1$d: Batas nilai terlampaui</string>
-  <string name="error_too_many_stickers" platform="android, iOS, Desktop">KESALAHAN %1$d: Terlalu banyak stiker</string>
-  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">KESALAHAN %1$d: Jumlahnya terlalu kecil</string>
-  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">KESALAHAN %1$d: Jumlah penarikan dana terlalu kecil</string>
+  <string name="error_too_many_request" platform="android, iOS, Desktop">KESALAHAN 429: Batas nilai terlampaui</string>
+  <string name="error_too_many_stickers" platform="android, iOS, Desktop">KESALAHAN 20126: Terlalu banyak stiker</string>
+  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">KESALAHAN 20120: Jumlahnya terlalu kecil</string>
+  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">KESALAHAN 20127: Jumlah penarikan dana terlalu kecil</string>
   <string name="error_unable_to_open_media" platform="android, Desktop">Tidak dapat menemukan aplikasi yang dapat membuka media ini.</string>
   <string name="error_unknown_with_code" platform="android, Desktop">KESALAHAN: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">KESALAHAN: %1$s</string>
-  <string name="error_used_phone" platform="android, iOS, Desktop">KESALAHAN %1$d: Ponsel digunakan oleh orang lain.</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">KESALAHAN 20122: Ponsel digunakan oleh orang lain.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">ID pengguna tidak valid</string>
-  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">KESALAHAN %1$d: Format memo penarikan salah.</string>
+  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">KESALAHAN 20131: Format memo penarikan salah.</string>
   <string name="Everybody" platform="android, iOS">Semua orang</string>
   <string name="Exit" platform="android, Desktop">Keluar</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Keluar dari Grup</string>
