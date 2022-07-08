@@ -499,7 +499,7 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">PINが違います</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー 20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">エラー20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">エラー 10004: Recaptchaが無効です</string>
+  <string name="error_recaptcha_is_invalid" platform="android, Desktop">エラー 10004: Recaptchaが無効です</string>
   <string name="error_requires_captcha" platform="iOS">Captcha認証が必要です</string>
   <string name="error_server_5xx_code" platform="android, Desktop">サーバーメンテナンス中: %1$d</string>
   <string name="error_too_many_friends" platform="android, iOS">エラー20128: 友だちが多すぎます</string>
