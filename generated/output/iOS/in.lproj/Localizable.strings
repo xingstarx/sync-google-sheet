@@ -342,7 +342,6 @@
 "error_pin_incorrect" = "KESALAHAN 20119: PIN salah";
 "error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %d chance. Please wait for 24 hours to retry later.";
 "error_pin_incorrect_with_times_count" = "KESALAHAN 20119: PIN salah. Anda masih memiliki %d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti.";
-"error_recaptcha_is_invalid" = "KESALAHAN 10004: Recaptcha tidak valid";
 "error_requires_captcha" = "Captcha is required.";
 "error_too_many_friends" = "ERROR 20128: Too many friends";
 "error_too_many_request" = "KESALAHAN 429: Batas nilai terlampaui";

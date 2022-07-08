@@ -342,7 +342,6 @@
 "error_pin_incorrect" = "ERROR 20119: PIN incorrect";
 "error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %d chance. Please wait for 24 hours to retry later.";
 "error_pin_incorrect_with_times_count" = "ERROR 20119: PIN incorrect. You still have %d chances. Please wait for 24 hours to retry later.";
-"error_recaptcha_is_invalid" = "ERROR 10004: Recaptcha is invalid";
 "error_requires_captcha" = "Captcha is required.";
 "error_too_many_friends" = "ERROR 20128: Too many friends";
 "error_too_many_request" = "ERROR 429: Rate limit exceeded";

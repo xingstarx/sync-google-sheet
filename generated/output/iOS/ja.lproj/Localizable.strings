@@ -342,7 +342,6 @@
 "error_pin_incorrect" = "PINが違います";
 "error_pin_incorrect_with_times" = "エラー 20119: PINが間違っています。あと%d回入力可能です。24時間後に再試行してください。";
 "error_pin_incorrect_with_times_count" = "エラー20119: PINが間違っています。あと%d回入力可能です。24時間後に再試行してください。";
-"error_recaptcha_is_invalid" = "エラー 10004: Recaptchaが無効です";
 "error_requires_captcha" = "Captcha認証が必要です";
 "error_too_many_friends" = "エラー20128: 友だちが多すぎます";
 "error_too_many_request" = "エラー 429: レート制限を超過しています";

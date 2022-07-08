@@ -343,7 +343,6 @@
 "error_pin_incorrect" = "RALAT 20119: PIN tidak betul";
 "error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %d chance. Please wait for 24 hours to retry later.";
 "error_pin_incorrect_with_times_count" = "RALAT 20119: PIN tidak betul. Anda masih mempunyai %d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian.";
-"error_recaptcha_is_invalid" = "RALAT 10004: Recaptcha tidak sah";
 "error_requires_captcha" = "Captcha is required.";
 "error_too_many_friends" = "ERROR 20128: Too many friends";
 "error_too_many_request" = "RALAT 429: Had kadar melebihi";
