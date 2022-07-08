@@ -357,8 +357,7 @@
 	<string name="error_connection_timeout">ネットワーク接続がタイムアウトしました</string>
 	<string name="error_full_group">エラー 20116: グループチャットが満員です</string>
 	<string name="error_insufficient_balance">エラー 20117: 残高が不足しています</string>
-	<string name="error_insufficient_transaction_fee_with_amount">トランザクション手数料が不足しています</string>
-	<string name="error_invalid_address">エラー30102：無効なアドレス形式です。正しい%2$s %3$s アドレスを入力してください。</string>
+	<string name="error_invalid_address">エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。</string>
 	<string name="error_invalid_address_plain">エラー30102：無効なアドレス形式です。</string>
 	<string name="error_invalid_code_too_frequent">エラー 20129: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
 	<string name="error_invalid_emergency_contact">エラー 20130: 緊急連絡先が無効です</string>
@@ -367,7 +366,7 @@
 	<string name="error_not_found">エラー 404: 結果なし</string>
 	<string name="error_not_supported_audio_format">サポートされていないオーディオ形式です。他のアプリで開いてください。</string>
 	<string name="error_number_reached_limit">エラー 20132: 数が上限に達しています。</string>
-	<string name="error_old_version">エラー 10006: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。</string>
+	<string name="error_old_version">エラー 10006: このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。</string>
 	<string name="error_open_location">地図アプリがありません</string>
 	<string name="error_permission">必要な権限を開いてください</string>
 	<string name="error_phone_invalid_format">エラー 20110: 電話番号が無効です</string>
@@ -377,8 +376,8 @@
 	<string name="error_pin_check_too_many_request">入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。</string>
 	<string name="error_pin_incorrect">PINが違います</string>
 	<plurals name="error_pin_incorrect_with_times" tools:ignore="UnusedQuantity">
-		<item quantity="one">エラー 20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</item>
-		<item quantity="other">エラー20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</item>
+		<item quantity="one">エラー 20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</item>
+		<item quantity="other">エラー20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</item>
 	</plurals>
 	<string name="error_recaptcha_is_invalid">エラー 10004: Recaptchaが無効です</string>
 	<string name="error_server_5xx_code">サーバーメンテナンス中: %1$d</string>

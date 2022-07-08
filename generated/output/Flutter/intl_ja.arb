@@ -103,7 +103,6 @@
 "errorConnectionTimeout" : "ネットワーク接続がタイムアウトしました",
 "errorFullGroup" : "エラー 20116: グループチャットが満員です",
 "errorInsufficientBalance" : "エラー 20117: 残高が不足しています",
-"errorInsufficientTransactionFeeWithAmount" : "トランザクション手数料が不足しています",
 "errorInvalidAddress" : "エラー30102：無効なアドレス形式です。正しい{arg0} {arg1} アドレスを入力してください。",
 "errorInvalidAddressPlain" : "エラー30102：無効なアドレス形式です。",
 "errorInvalidCodeTooFrequent" : "エラー 20129: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。",

@@ -364,8 +364,8 @@
 	<string name="error_connection_timeout">Network connection timeout, please try again</string>
 	<string name="error_full_group">ERROR 20116: The group chat is full.</string>
 	<string name="error_insufficient_balance">ERROR 20117: Insufficient balance</string>
-	<string name="error_insufficient_transaction_fee_with_amount">ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %2$s as fee</string>
-	<string name="error_invalid_address">ERROR 30102: Invalid address format. Please enter the correct %2$s %3$s address!</string>
+	<string name="error_insufficient_transaction_fee_with_amount">ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %1$s as fee</string>
+	<string name="error_invalid_address">ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address!</string>
 	<string name="error_invalid_address_plain">ERROR 30102: Invalid address format.</string>
 	<string name="error_invalid_code_too_frequent">ERROR 20129: Send verification code too frequent, please try again later.</string>
 	<string name="error_invalid_emergency_contact">ERROR 20130: Invalid emergency contact</string>
@@ -374,7 +374,7 @@
 	<string name="error_not_found">ERROR 404: Not found</string>
 	<string name="error_not_supported_audio_format">Not supported audio format, please open by other app.</string>
 	<string name="error_number_reached_limit">ERROR 20132: The number has reached the limit.</string>
-	<string name="error_old_version">ERROR 10006: Please update Mixin(%2$s) to continue use the service.</string>
+	<string name="error_old_version">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
 	<string name="error_open_location">Can\'t find an map app</string>
 	<string name="error_permission">Please open the necessary permissions</string>
 	<string name="error_phone_invalid_format">ERROR 20110: Invalid phone number</string>
@@ -384,8 +384,8 @@
 	<string name="error_pin_check_too_many_request">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
 	<string name="error_pin_incorrect">ERROR 20119: PIN incorrect</string>
 	<plurals name="error_pin_incorrect_with_times">
-		<item quantity="one">ERROR 20119: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later.</item>
-		<item quantity="other">ERROR 20119: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later.</item>
+		<item quantity="one">ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later.</item>
+		<item quantity="other">ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later.</item>
 	</plurals>
 	<string name="error_recaptcha_is_invalid">ERROR 10004: Recaptcha is invalid</string>
 	<string name="error_server_5xx_code">Server is under maintenance: %1$d</string>
