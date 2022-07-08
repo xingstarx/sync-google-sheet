@@ -516,7 +516,7 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later.</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later.</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">ERROR 10004: Recaptcha is invalid</string>
+  <string name="error_recaptcha_is_invalid" platform="android, Desktop">ERROR 10004: Recaptcha is invalid</string>
   <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA is invalid</string>
   <string name="error_requires_captcha" platform="iOS">Captcha is required.</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server is under maintenance: %1$d</string>
