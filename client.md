@@ -518,6 +518,7 @@
 | android, iOS, Desktop | error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later. |     |     | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー 20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 |
 | android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later. | KESALAHAN 20119: PIN salah. Anda masih memiliki %1$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT 20119: PIN tidak betul. Anda masih mempunyai %1$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 |
 | android, iOS, Desktop | error_recaptcha_is_invalid | ERROR 10004: Recaptcha is invalid | KESALAHAN 10004: Recaptcha tidak valid | RALAT 10004: Recaptcha tidak sah | 错误 10004：验证失败 | エラー 10004: Recaptchaが無効です |
+| iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid |     |     | 错误 10004：验证失败 |     |
 | iOS | error_requires_captcha | Captcha is required. |     |     | 需要验证码。 | Captcha認証が必要です |
 | android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | Server sedang dalam pemeliharaan: %1$d | Pelayan sedang dalam penyelenggaraan: %1$d | 服务器出错，请稍后重试：%1$d | サーバーメンテナンス中: %1$d |
 | android, iOS | error_too_many_friends | ERROR 20128: Too many friends |     |     | 错误 20128：好友数已达上限 | エラー20128: 友だちが多すぎます |
@@ -534,7 +535,7 @@
 | android, Desktop | error_unknown_with_message | ERROR: %1$s | KESALAHAN: %1$s | RALAT: %1$s | 错误：%1$s | エラー: %1$s |
 | android, iOS, Desktop | error_used_phone | ERROR 20122: This phone number is already associated with another account. | KESALAHAN 20122: Ponsel digunakan oleh orang lain. | RALAT 20122: Telefon digunakan oleh orang lain. | 错误 20122：电话号码已经被占用。 | エラー20122：携帯が第三者によって利用されています。 |
 | android, Desktop | error_user_invalid_format | Invalid user id | ID pengguna tidak valid | Id pengguna tidak sah | 用户数据不合法 | ユーザーIDが無効です |
-| android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR 20131: Withdrawal memo format incorrect. | KESALAHAN 20131: Format memo penarikan salah. | RALAT 20131: Penarikan format memo tidak betul. | ERROR 20131：提现备注格式不正确 | メモ  |
+| android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR 20131: Withdrawal memo format incorrect. | KESALAHAN 20131: Format memo penarikan salah. | RALAT 20131: Penarikan format memo tidak betul. | 错误 20131：提现备注格式不正确 | メモ  |
 | android, iOS | Everybody | Everybody | Semua orang | Semua orang | 任何人 | 全員  |
 | android, Desktop | Exit | Exit | Keluar | Keluar | 退出  | 退出  |
 | iOS | Exit_confirmation | Exit "%@"? |     |     | 退出"%@"？ | "%@"を終了しますか? |
