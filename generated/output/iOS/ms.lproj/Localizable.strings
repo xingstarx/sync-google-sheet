@@ -325,6 +325,7 @@
 "enter_your_pin" = "Masukkan PIN anda";
 "enter_your_pin_to_continue" = "Enter your PIN to continue";
 "error_blockchain" = "RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.";
+"error_captcha_is_invalid" = "ERROR 10004: CAPTCHA is invalid";
 "error_connection_timeout" = "Tamat masa sambungan rangkaian";
 "error_full_group" = "RALAT 20116: Kumpulan sembang penuh.";
 "error_insufficient_balance" = "RALAT 20117: Baki tidak mencukupi";

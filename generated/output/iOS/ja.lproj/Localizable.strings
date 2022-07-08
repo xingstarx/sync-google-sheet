@@ -324,6 +324,7 @@
 "enter_your_pin" = "PINを入力してください";
 "enter_your_pin_to_continue" = "PINコードを入力してください";
 "error_blockchain" = "エラー 30100:ブロックチェーンが同期できていません。後程もう一度お試し下さい。";
+"error_captcha_is_invalid" = "ERROR 10004: CAPTCHA is invalid";
 "error_connection_timeout" = "ネットワーク接続がタイムアウトしました";
 "error_full_group" = "エラー 20116: グループチャットが満員です";
 "error_insufficient_balance" = "エラー 20117: 残高が不足しています";
