@@ -1,4 +1,4 @@
-| 20114 | keys | en  | in  | ms  | zh  | ja  |
+| platform | keys | en  | in  | ms  | zh  | ja  |
 |---|---|---|---|---|---|---|
 | android | a_card | a card |     |     | 一个卡片 | ロボ  |
 | android | a_contact | a contact |     |     | 一个联系人 | 連絡先 |
