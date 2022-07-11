@@ -512,6 +512,7 @@
 | android, iOS, Desktop | error_phone_invalid_format | ERROR 20110: Invalid phone number | KESALAHAN 20110: Nomor telepon tidak valid | RALAT 20110: Nombor telefon tidak sah | 错误 20110：手机号码不合法 | エラー 20110: 電話番号が無効です |
 | android, iOS, Desktop | error_phone_sms_delivery | ERROR 10003: Failed to deliver SMS | KESALAHAN 10003: Gagal mengirim SMS | RALAT 10003: Gagal menghantar SMS | 错误 10003：发送短信失败 | エラー 10003: SMSの送信に失敗しました |
 | android, iOS, Desktop | error_phone_verification_code_expired | ERROR 20114: Expired phone verification code | KESALAHAN 20114: Kode verifikasi telepon sudah tidak berlaku | RALAT 20114: Kod pengesahan telefon yang telah tamat tempoh | 错误 20114：验证码已过期 | 期限切れ |
+| android, iOS | error_expired_authorization_code | ERROR 20121: Expired authorization code |     |     | 错误 20121：授权码已过期 |     |
 | android, iOS, Desktop | error_phone_verification_code_invalid | ERROR 20113: Invalid phone verification code | KESALAHAN 20113: Kode verifikasi telepon tidak valid | RALAT 20113: Kod pengesahan telefon tidak sah | 错误 20113：验证码错误 | エラー 20113: 電話番号認証コードが無効です |
 | android, iOS, Desktop | error_pin_check_too_many_request | You have tried more than 5 times, please wait at least 24 hours to try again. | Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi. | Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi. | 你已经尝试了超过 5 次，请等待 24 小时后再次尝试。 | 入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。 |
 | android, iOS, Desktop | error_pin_incorrect | ERROR 20119: PIN incorrect | KESALAHAN 20119: PIN salah | RALAT 20119: PIN tidak betul | 错误 20119：PIN 不正确 | PINが違います |
@@ -519,7 +520,7 @@
 | android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later. | KESALAHAN 20119: PIN salah. Anda masih memiliki %1$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT 20119: PIN tidak betul. Anda masih mempunyai %1$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー20119: PINが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 |
 | android, Desktop | error_recaptcha_is_invalid | ERROR 10004: Recaptcha is invalid | KESALAHAN 10004: Recaptcha tidak valid | RALAT 10004: Recaptcha tidak sah | 错误 10004：验证失败 | エラー 10004: Recaptchaが無効です |
 | iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid |     |     | 错误 10004：验证失败 |     |
-| iOS | error_requires_captcha | Captcha is required. |     |     | 需要验证码。 | Captcha認証が必要です |
+| iOS | error_requires_captcha | CAPTCHA is required. |     |     | 需要验证码。 | Captcha認証が必要です |
 | android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | Server sedang dalam pemeliharaan: %1$d | Pelayan sedang dalam penyelenggaraan: %1$d | 服务器出错，请稍后重试：%1$d | サーバーメンテナンス中: %1$d |
 | android, iOS | error_too_many_friends | ERROR 20128: Too many friends |     |     | 错误 20128：好友数已达上限 | エラー20128: 友だちが多すぎます |
 | android, iOS, Desktop | error_too_many_request | ERROR 429: Rate limit exceeded | KESALAHAN 429: Batas nilai terlampaui | RALAT 429: Had kadar melebihi | 错误 429：请求过于频繁 | エラー 429: レート制限を超過しています |
