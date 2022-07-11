@@ -512,7 +512,7 @@
 | android, iOS, Desktop | error_phone_invalid_format | ERROR 20110: Invalid phone number | KESALAHAN 20110: Nomor telepon tidak valid | RALAT 20110: Nombor telefon tidak sah | 错误 20110：手机号码不合法 | エラー 20110: 電話番号が無効です |
 | android, iOS, Desktop | error_phone_sms_delivery | ERROR 10003: Failed to deliver SMS | KESALAHAN 10003: Gagal mengirim SMS | RALAT 10003: Gagal menghantar SMS | 错误 10003：发送短信失败 | エラー 10003: SMSの送信に失敗しました |
 | android, iOS, Desktop | error_phone_verification_code_expired | ERROR 20114: Expired phone verification code | KESALAHAN 20114: Kode verifikasi telepon sudah tidak berlaku | RALAT 20114: Kod pengesahan telefon yang telah tamat tempoh | 错误 20114：验证码已过期 | 期限切れ |
-| android, iOS | error_expired_authorization_code |     |     |     |     |     |
+| android, iOS | error_expired_authorization_code | ERROR 20121: Expired authorization code |     |     | 错误 20114：验证码已过期 |     |
 | android, iOS, Desktop | error_phone_verification_code_invalid | ERROR 20113: Invalid phone verification code | KESALAHAN 20113: Kode verifikasi telepon tidak valid | RALAT 20113: Kod pengesahan telefon tidak sah | 错误 20113：验证码错误 | エラー 20113: 電話番号認証コードが無効です |
 | android, iOS, Desktop | error_pin_check_too_many_request | You have tried more than 5 times, please wait at least 24 hours to try again. | Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi. | Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi. | 你已经尝试了超过 5 次，请等待 24 小时后再次尝试。 | 入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。 |
 | android, iOS, Desktop | error_pin_incorrect | ERROR 20119: PIN incorrect | KESALAHAN 20119: PIN salah | RALAT 20119: PIN tidak betul | 错误 20119：PIN 不正确 | PINが違います |

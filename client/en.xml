@@ -511,6 +511,7 @@
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Expired phone verification code</string>
+  <string name="error_expired_authorization_code" platform="android, iOS">ERROR 20121: Expired authorization code</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid phone verification code</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
