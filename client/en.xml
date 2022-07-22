@@ -219,7 +219,7 @@
   <string name="Change_Settings" platform="iOS">Change Settings</string>
   <string name="Change_your_app_language" platform="iOS">Change your app language</string>
   <string name="Changed" platform="android, iOS">Changed</string>
-  <string name="changed_disappearing_message_settings" platform="android, iOS">%1$s changed disappearing message settings.</string>
+  <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s changed disappearing message settings.</string>
   <string name="Changing" platform="android">Changing...</string>
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
@@ -230,8 +230,8 @@
   <string name="chat_call_warning_voice" platform="android, iOS">Can't record voice messages during a Mixin call.</string>
   <string name="chat_decryption_failed" platform="android, iOS">This message decryption failed, please upgrade Mixin to the latest version.</string>
   <string name="chat_decryption_failed_hint" platform="iOS, Desktop">Waiting for %@ to get online and establish an encrypted session.</string>
-  <string name="chat_delete_message" platform="android">Delete %1$d message?</string>
-  <string name="chat_delete_message.count" platform="android">Delete %1$d messages?</string>
+  <string name="chat_delete_message" platform="android, Desktop">Delete %1$d message?</string>
+  <string name="chat_delete_message.count" platform="android, Desktop">Delete %1$d messages?</string>
   <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$s added %2$s</string>
   <string name="chat_group_call_cancel" platform="android, iOS">%1$s has canceled group call</string>
@@ -263,7 +263,7 @@
   <string name="check_trace_failed" platform="android">Check trace info failed, please try again</string>
   <string name="Checking_link" platform="android">Checking link</string>
   <string name="Checking_payment_info" platform="android">Checking payment info</string>
-  <string name="CHOOSE" platform="android">CHOOSE</string>
+  <string name="CHOOSE" platform="android, Desktop">CHOOSE</string>
   <string name="Choose_folder" platform="android">Choose folder</string>
   <string name="Choose_Photo" platform="iOS">Choose Photo</string>
   <string name="circle_bottom" platform="android">Create circle for different groups of chats and quickly switch between them</string>
@@ -286,11 +286,11 @@
   <string name="Click_to_retry" platform="android">Click to retry</string>
   <string name="Click_to_unlock" platform="android">Click to unlock</string>
   <string name="clock_skew_hint" platform="iOS">Please continue to use again after correction. Settings > General > Date &amp; Time > Turn on Set Automatically</string>
-  <string name="Close" platform="android, iOS">Close</string>
+  <string name="Close" platform="android, iOS, Desktop">Close</string>
   <string name="close_window" platform="Desktop">Close window</string>
   <string name="collapse" platform="Desktop">Collapse</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
-  <string name="Combine_and_forward" platform="android, iOS">Combine and forward</string>
+  <string name="Combine_and_forward" platform="android, iOS, Desktop">Combine and forward</string>
   <string name="Compress_Database" platform="iOS">Compress Database</string>
   <string name="Compressed" platform="iOS">Compressed</string>
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
@@ -360,7 +360,7 @@
   <string name="currency_code" platform="iOS">Code</string>
   <string name="Current_Location" platform="iOS">Current Location</string>
   <string name="Current_Selected" platform="iOS">Current Selected</string>
-  <string name="Custom_Time" platform="android, iOS">Custom Time</string>
+  <string name="Custom_Time" platform="android, iOS, Desktop">Custom Time</string>
   <string name="Daily" platform="iOS">Daily</string>
   <string name="Dark" platform="iOS, Desktop">Dark</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Data and Storage Usage</string>
@@ -427,11 +427,11 @@
   <string name="Disable" platform="iOS">Disable</string>
   <string name="disable_biometric_pay_confirmation" platform="iOS">Disable %@ Pay?</string>
   <string name="Disable_db_debug" platform="android">Disable db debug</string>
-  <string name="disable_disappearing_message" platform="android, iOS">%1$s disabled disappearing message</string>
+  <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$s disabled disappearing message</string>
   <string name="Disable_web_debug" platform="android">Disable web debug</string>
   <string name="Disabled" platform="android">Disabled</string>
-  <string name="disappearing_message" platform="android, iOS">Disappearing Messages</string>
-  <string name="disappearing_message_hint" platform="android, iOS">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**.</string>
+  <string name="disappearing_message" platform="android, iOS, Desktop">Disappearing Messages</string>
+  <string name="disappearing_message_hint" platform="android, iOS, Desktop">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**.</string>
   <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
   <string name="disappearing_option_1" platform="android, iOS">30 seconds</string>
   <string name="disappearing_option_2" platform="android, iOS">10 minutes</string>
@@ -822,8 +822,7 @@
   <string name="NO_POSTS" platform="android, iOS, Desktop">NO POSTS</string>
   <string name="No_raws" platform="android">No raws</string>
   <string name="No_rebates" platform="android">No rebates</string>
-  <string name="NO_RESULTS" platform="android, iOS">NO RESULTS</string>
-  <string name="no_results" platform="Desktop">No results</string>
+  <string name="NO_RESULTS" platform="android, iOS, Desktop">NO RESULTS</string>
   <string name="NO_STICKERS" platform="android, iOS">NO STICKERS</string>
   <string name="No_tag" platform="android, iOS">No Tag</string>
   <string name="No_transactions" platform="android, iOS">No transactions</string>
@@ -849,7 +848,7 @@
   <string name="Off" platform="android, iOS">Off</string>
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_PIN" platform="android">Old PIN</string>
-  <string name="One_by_One_Forward" platform="iOS">One-by-One Forward</string>
+  <string name="One_by_One_Forward" platform="iOS, Desktop">One-by-One Forward</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 Hour</string>
   <string name="one_week" platform="android, iOS, Desktop">1 Week</string>
   <string name="one_year" platform="android, iOS, Desktop">1 Year</string>
@@ -1091,8 +1090,8 @@
   <string name="Send_your_Current_Location" platform="android, iOS">Send your Current Location</string>
   <string name="send.count" platform="iOS">Send(%1$d)</string>
   <string name="Senders" platform="android, iOS">Senders</string>
-  <string name="Set" platform="android, iOS">Set</string>
-  <string name="set_disappearing_message_time_to" platform="android, iOS">%1$s set disappearing message time to %2$s</string>
+  <string name="Set" platform="android, iOS, Desktop">Set</string>
+  <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s set disappearing message time to %2$s</string>
   <string name="Set_new_PIN" platform="android, iOS">Set a new PIN</string>
   <string name="Set_PIN" platform="android">Set PIN</string>
   <string name="Set_PIN_successfully" platform="android, iOS">Set PIN successfully</string>
@@ -1261,16 +1260,16 @@
   <string name="Unauthorized" platform="iOS">Unauthorized</string>
   <string name="Unblock" platform="android, iOS, Desktop">Unblock</string>
   <string name="UNDO" platform="android">UNDO</string>
-  <string name="unit_day" platform="android, iOS">day</string>
-  <string name="unit_day.count" platform="android, iOS">days</string>
-  <string name="unit_hour" platform="android, iOS">hour</string>
-  <string name="unit_hour.count" platform="android, iOS">hours</string>
-  <string name="unit_minute" platform="android, iOS">minute</string>
-  <string name="unit_minute.count" platform="android, iOS">minutes</string>
-  <string name="unit_second" platform="android, iOS">second</string>
-  <string name="unit_second.count" platform="android, iOS">seconds</string>
-  <string name="unit_week" platform="android, iOS">week</string>
-  <string name="unit_week.count" platform="android, iOS">weeks</string>
+  <string name="unit_day" platform="android, iOS, Desktop">day</string>
+  <string name="unit_day.count" platform="android, iOS, Desktop">days</string>
+  <string name="unit_hour" platform="android, iOS, Desktop">hour</string>
+  <string name="unit_hour.count" platform="android, iOS, Desktop">hours</string>
+  <string name="unit_minute" platform="android, iOS, Desktop">minute</string>
+  <string name="unit_minute.count" platform="android, iOS, Desktop">minutes</string>
+  <string name="unit_second" platform="android, iOS, Desktop">second</string>
+  <string name="unit_second.count" platform="android, iOS, Desktop">seconds</string>
+  <string name="unit_week" platform="android, iOS, Desktop">week</string>
+  <string name="unit_week.count" platform="android, iOS, Desktop">weeks</string>
   <string name="Unknown" platform="android">Unknown</string>
   <string name="Unknown_artist" platform="iOS">Unknown Artist</string>
   <string name="Unlock_with_fingerprint" platform="android">Unlock with fingerprint</string>
@@ -1403,4 +1402,8 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">Your phone number has been changed</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>
+  <string name="add_to_circle" platform="Desktop">Add to Circle</string>
+  <string name="zoom" platform="Desktop">Zoom</string>
+  <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
+  <string name="disappearing_custom_time_max_warning" platform="Desktop">The maximum time is %1$s.</string>
 </resources>
