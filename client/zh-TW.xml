@@ -306,7 +306,7 @@
   <string name="Contact_Developer" platform="android, iOS">聯繫開發者</string>
   <string name="contact_empty_tip" platform="android">Mixin 需要訪問您的聯繫人以幫助您與 Mixin 上的其他人聯繫。</string>
   <string name="contact_invite_content" platform="android, iOS">嘿，我正在使用 Mixin Messenger 聊天。在這裡下載：https://mixin.one/messenger</string>
-  <string name="contact_mixin_id" platform="android, iOS, Desktop">混合 ID：%1$s</string>
+  <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID：%1$s</string>
   <string name="contact_mobile" platform="android, iOS">手機：%1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">靜音通知…</string>
   <string name="contact_new_group_chat_desc" platform="android">與最多朋友創建群聊</string>
