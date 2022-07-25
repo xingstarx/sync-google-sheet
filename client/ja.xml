@@ -476,7 +476,7 @@
   <string name="Enable_web_debug" platform="android">webデバッグの有効化</string>
   <string name="Encrypted" platform="android">暗号化</string>
   <string name="End_to_End_Encryption" platform="android, iOS">E2E暗号化</string>
-  <string name="English" platform="iOS">日本語</string>
+  <string name="Current_Language" platform="iOS">日本語</string>
   <string name="Enter_new_phone_number" platform="android">新しい電話番号を入力してください</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">アカウントを削除するためにPINコードを入力してください</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
