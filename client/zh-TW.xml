@@ -104,7 +104,7 @@
   <string name="ANSWER" platform="android">回答</string>
   <string name="app_card_share_disallow" platform="Desktop">禁止共享此 URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">該卡已設置為不允許共享</string>
-  <string name="app_name" platform="android">米信</string>
+  <string name="app_name" platform="android">Mixin</string>
   <string name="app_update_short_hint" platform="iOS">請從 App Store 更新 Mixin 以繼續使用該服務。</string>
   <string name="app_update_tips" platform="iOS">當前版本 (%\@) 不再可用！請單擊下面的更新以從 App Store 更新到最新版本。</string>
   <string name="App_version" platform="android">應用版本</string>
@@ -750,8 +750,8 @@
   <string name="minimize" platform="Desktop">最小化</string>
   <string name="Minute" platform="android, iOS">%d 分鐘</string>
   <string name="Minute.count" platform="android, iOS">%d 分鐘</string>
-  <string name="Mixin" platform="android, iOS">米信</string>
-  <string name="Mixin_ID" platform="android">混音 ID</string>
+  <string name="Mixin" platform="android, iOS">Mixin</string>
+  <string name="Mixin_ID" platform="android">Mixin ID</string>
   <string name="mixin_id_or_phone" platform="iOS">Mixin ID, 電話號碼</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixin 鎖定</string>
   <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger 桌面版</string>
