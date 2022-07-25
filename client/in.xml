@@ -113,7 +113,7 @@
   <string name="chat_audio_warning" platform="android">Anda tidak dapat memutar audio jika Anda sedang memutar audio lain.</string>
   <string name="chat_call_duration" platform="android, iOS">Durasi: %1$s</string>
   <string name="chat_call_warning_voice" platform="android, iOS">Tidak dapat merekam pesan suara selama panggilan Mixin.</string>
-  <string name="chat_delete_message.count" platform="android">Hapus %1$d pesan?</string>
+  <string name="chat_delete_message.count" platform="android, Desktop">Hapus %1$d pesan?</string>
   <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$s menambahkan %2$s</string>
   <string name="chat_group_call_cancel" platform="android, iOS">%1$s telah membatalkan panggilan grup</string>
@@ -422,7 +422,7 @@
   <string name="NO_POSTS" platform="android, iOS, Desktop">TIDAK ADA POSTINGAN</string>
   <string name="No_raws" platform="android">Tidak ada raw</string>
   <string name="No_rebates" platform="android">Tidak ada rabat</string>
-  <string name="NO_RESULTS" platform="android, iOS">Tidak ada hasil</string>
+  <string name="NO_RESULTS" platform="android, iOS, Desktop">Tidak ada hasil</string>
   <string name="No_tag" platform="android, iOS">Tanpa Tag</string>
   <string name="No_transactions" platform="android, iOS">Tidak ada transaksi</string>
   <string name="No_withdrawals" platform="android">Tidak ada penarikan</string>

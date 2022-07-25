@@ -217,7 +217,7 @@
   <string name="Change_Settings" platform="iOS">更改设置</string>
   <string name="Change_your_app_language" platform="iOS">设置语言</string>
   <string name="Changed" platform="android, iOS">已修改</string>
-  <string name="changed_disappearing_message_settings" platform="android, iOS">%1$s修改了限时消息设置</string>
+  <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s修改了限时消息设置</string>
   <string name="Changing" platform="android">正在修改…</string>
   <string name="chat_audio_discard_warning" platform="android">你确定要停止并放弃录制的语音吗？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放弃录制语音</string>
@@ -228,7 +228,7 @@
   <string name="chat_call_warning_voice" platform="android, iOS">无法在 Mixin 通话时录制语音消息</string>
   <string name="chat_decryption_failed" platform="android, iOS">此信息解密失败，请将 Mixin 升级到最新版本。</string>
   <string name="chat_decryption_failed_hint" platform="iOS, Desktop">等待%@上线后建立加密会话。</string>
-  <string name="chat_delete_message.count" platform="android">删除 %1$d 条消息吗？</string>
+  <string name="chat_delete_message.count" platform="android, Desktop">删除 %1$d 条消息吗？</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$s添加了%2$s</string>
   <string name="chat_group_call_cancel" platform="android, iOS">%1$s已取消群组语音</string>
   <string name="chat_group_call_decline" platform="android, iOS">%1$s已拒绝群组语音</string>
@@ -258,7 +258,7 @@
   <string name="check_trace_failed" platform="android">检查支付信息失败，请重试</string>
   <string name="Checking_link" platform="android">正在检查链接</string>
   <string name="Checking_payment_info" platform="android">请检查支付信息</string>
-  <string name="CHOOSE" platform="android">选择</string>
+  <string name="CHOOSE" platform="android, Desktop">选择</string>
   <string name="Choose_folder" platform="android">选择文件夹</string>
   <string name="Choose_Photo" platform="iOS">选择照片</string>
   <string name="circle_bottom" platform="android">为不同对话创建圈子然后在它们之间快速切换</string>
@@ -281,11 +281,11 @@
   <string name="Click_to_retry" platform="android">点击重试</string>
   <string name="Click_to_unlock" platform="android">点击解锁</string>
   <string name="clock_skew_hint" platform="iOS">请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。</string>
-  <string name="Close" platform="android, iOS">关闭</string>
+  <string name="Close" platform="android, iOS, Desktop">关闭</string>
   <string name="close_window" platform="Desktop">关闭窗口</string>
   <string name="collapse" platform="Desktop">折叠</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
-  <string name="Combine_and_forward" platform="android, iOS">合并转发</string>
+  <string name="Combine_and_forward" platform="android, iOS, Desktop">合并转发</string>
   <string name="Compress_Database" platform="iOS">压缩数据库</string>
   <string name="Compressed" platform="iOS">已压缩</string>
   <string name="Confirm" platform="android, iOS, Desktop">确认</string>
@@ -355,7 +355,7 @@
   <string name="currency_code" platform="iOS">货币代码</string>
   <string name="Current_Location" platform="iOS">当前位置</string>
   <string name="Current_Selected" platform="iOS">当前选择</string>
-  <string name="Custom_Time" platform="android, iOS">自定义时间</string>
+  <string name="Custom_Time" platform="android, iOS, Desktop">自定义时间</string>
   <string name="Daily" platform="iOS">每天</string>
   <string name="Dark" platform="iOS, Desktop">深色</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">数据与存储空间</string>
@@ -420,11 +420,11 @@
   <string name="Disable" platform="iOS">禁用</string>
   <string name="disable_biometric_pay_confirmation" platform="iOS">确定暂停使用%@支付？</string>
   <string name="Disable_db_debug" platform="android">已关闭 db 调试</string>
-  <string name="disable_disappearing_message" platform="android, iOS">%1$s禁用了限时消息</string>
+  <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$s禁用了限时消息</string>
   <string name="Disable_web_debug" platform="android">已关闭 Web 调试</string>
   <string name="Disabled" platform="android">已停用</string>
-  <string name="disappearing_message" platform="android, iOS">限时消息</string>
-  <string name="disappearing_message_hint" platform="android, iOS">启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。</string>
+  <string name="disappearing_message" platform="android, iOS, Desktop">限时消息</string>
+  <string name="disappearing_message_hint" platform="android, iOS, Desktop">启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。</string>
   <string name="disappearing_option_1" platform="android, iOS">30 秒</string>
   <string name="disappearing_option_2" platform="android, iOS">10 分</string>
   <string name="disappearing_option_3" platform="android, iOS">2 小时</string>
@@ -807,8 +807,7 @@
   <string name="NO_POSTS" platform="android, iOS, Desktop">没有文章</string>
   <string name="No_raws" platform="android">暂无其他记录</string>
   <string name="No_rebates" platform="android">暂无退款记录</string>
-  <string name="NO_RESULTS" platform="android, iOS">未找到相关结果</string>
-  <string name="no_results" platform="Desktop">没有结果</string>
+  <string name="NO_RESULTS" platform="android, iOS, Desktop">未找到相关结果</string>
   <string name="NO_STICKERS" platform="android, iOS">还未添加任何表情</string>
   <string name="No_tag" platform="android, iOS">点击不使用 Tag（标签）</string>
   <string name="No_transactions" platform="android, iOS">暂无转账记录</string>
@@ -834,7 +833,7 @@
   <string name="Off" platform="android, iOS">关闭</string>
   <string name="OK" platform="android, iOS">好的</string>
   <string name="Old_PIN" platform="android">验证旧的 PIN</string>
-  <string name="One_by_One_Forward" platform="iOS">逐条转发</string>
+  <string name="One_by_One_Forward" platform="iOS, Desktop">逐条转发</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 小时</string>
   <string name="one_week" platform="android, iOS, Desktop">1 星期</string>
   <string name="one_year" platform="android, iOS, Desktop">1 年</string>
@@ -1075,8 +1074,8 @@
   <string name="Send_your_Current_Location" platform="android, iOS">发送您当前的位置</string>
   <string name="send.count" platform="iOS">发送（%1$d）</string>
   <string name="Senders" platform="android, iOS">交易发起人</string>
-  <string name="Set" platform="android, iOS">设置</string>
-  <string name="set_disappearing_message_time_to" platform="android, iOS">%1$s将限时消息设置为 %2$s</string>
+  <string name="Set" platform="android, iOS, Desktop">设置</string>
+  <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s将限时消息设置为 %2$s</string>
   <string name="Set_new_PIN" platform="android, iOS">设置新的 PIN</string>
   <string name="Set_PIN" platform="android">设置 PIN</string>
   <string name="Set_PIN_successfully" platform="android, iOS">PIN 设置成功</string>
@@ -1243,16 +1242,16 @@
   <string name="Unauthorized" platform="iOS">未授权</string>
   <string name="Unblock" platform="android, iOS, Desktop">解除屏蔽</string>
   <string name="UNDO" platform="android">撤销</string>
-  <string name="unit_day" platform="android, iOS">天</string>
-  <string name="unit_day.count" platform="android, iOS">天</string>
-  <string name="unit_hour" platform="android, iOS">小时</string>
-  <string name="unit_hour.count" platform="android, iOS">小时</string>
-  <string name="unit_minute" platform="android, iOS">分</string>
-  <string name="unit_minute.count" platform="android, iOS">分</string>
-  <string name="unit_second" platform="android, iOS">秒</string>
-  <string name="unit_second.count" platform="android, iOS">秒</string>
-  <string name="unit_week" platform="android, iOS">周</string>
-  <string name="unit_week.count" platform="android, iOS">周</string>
+  <string name="unit_day" platform="android, iOS, Desktop">天</string>
+  <string name="unit_day.count" platform="android, iOS, Desktop">天</string>
+  <string name="unit_hour" platform="android, iOS, Desktop">小时</string>
+  <string name="unit_hour.count" platform="android, iOS, Desktop">小时</string>
+  <string name="unit_minute" platform="android, iOS, Desktop">分</string>
+  <string name="unit_minute.count" platform="android, iOS, Desktop">分</string>
+  <string name="unit_second" platform="android, iOS, Desktop">秒</string>
+  <string name="unit_second.count" platform="android, iOS, Desktop">秒</string>
+  <string name="unit_week" platform="android, iOS, Desktop">周</string>
+  <string name="unit_week.count" platform="android, iOS, Desktop">周</string>
   <string name="Unknown" platform="android">未知</string>
   <string name="Unknown_artist" platform="iOS">未知艺术家</string>
   <string name="Unlock_with_fingerprint" platform="android">使用指纹解锁</string>
@@ -1382,4 +1381,8 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">更换手机号</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已创建</string>
+  <string name="add_to_circle" platform="Desktop">添加到圈子</string>
+  <string name="zoom" platform="Desktop">缩放</string>
+  <string name="bring_all_to_front" platform="Desktop">前置所有窗口</string>
+  <string name="disappearing_custom_time_max_warning" platform="Desktop">最高设置 %1$s</string>
 </resources>
