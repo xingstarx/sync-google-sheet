@@ -167,6 +167,8 @@
 	<string name="chat_decryption_failed">Не удалось расшифровать это сообщение, обновите Mixin до последней версии.</string>
 	<plurals name="chat_delete_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">Удалить %1$d сообщение?</item>
+		<item quantity="few">Удалить %1$d сообщения?</item>
+		<item quantity="many">Удалить %1$d сообщения?</item>
 		<item quantity="other">Удалить %1$d сообщения?</item>
 	</plurals>
 	<string name="chat_delete_url">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
@@ -203,6 +205,8 @@
 	<string name="circle_no_conversation_hint">Вы можете добавлять контакты или группы в текущий круг</string>
 	<plurals name="circle_subtitle" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d чат</item>
+		<item quantity="few">%1$d чаты</item>
+		<item quantity="many">%1$d чаты</item>
 		<item quantity="other">%1$d чаты</item>
 	</plurals>
 	<string name="circle_title">Круги пользователя %1$s</string>
@@ -223,6 +227,8 @@
 	<string name="Contact">Контакт</string>
 	<plurals name="contact_count" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d контакт</item>
+		<item quantity="few">%1$d контакты</item>
+		<item quantity="many">%1$d контакты</item>
 		<item quantity="other">%1$d контакты</item>
 	</plurals>
 	<string name="Contact_Developer">Связаться с разработчиком</string>
@@ -293,6 +299,8 @@
 	<string name="deposit_attention">Пожалуйста, попробуйте небольшую сумму для первого депозита.</string>
 	<plurals name="deposit_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">Депозит придет %1$d подтверждение блокировки</item>
+		<item quantity="few">Депозит получит %1$d подтверждения блокировки</item>
+		<item quantity="many">Депозит получит %1$d подтверждения блокировки</item>
 		<item quantity="other">Депозит получит %1$d подтверждения блокировки</item>
 	</plurals>
 	<string name="deposit_memo_notice">Памятка требуется, или вы потеряете свои монеты.</string>
@@ -386,6 +394,8 @@
 	<string name="error_pin_incorrect">ОШИБКА 20119: Неверный PIN-код</string>
 	<plurals name="error_pin_incorrect_with_times" tools:ignore="UnusedQuantity">
 		<item quantity="one">ОШИБКА 20119: Неверный PIN-код. У вас еще есть шанс %1$d. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</item>
+		<item quantity="few">ОШИБКА 20119: Неверный PIN-код. У вас еще есть %1$d шансов. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</item>
+		<item quantity="many">ОШИБКА 20119: Неверный PIN-код. У вас еще есть %1$d шансов. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</item>
 		<item quantity="other">ОШИБКА 20119: Неверный PIN-код. У вас еще есть %1$d шансов. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</item>
 	</plurals>
 	<string name="error_recaptcha_is_invalid">ОШИБКА 10004: Recaptcha недействительна</string>
@@ -469,6 +479,8 @@
 	<string name="hold_to_record_audio">Удерживайте, чтобы записать, отпустите, чтобы отправить</string>
 	<plurals name="Hour" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d час</item>
+		<item quantity="few">%d часы</item>
+		<item quantity="many">%d часы</item>
 		<item quantity="other">%d часы</item>
 	</plurals>
 	<string name="I_know">Я знаю</string>
@@ -520,6 +532,8 @@
 	<string name="Location">Расположение</string>
 	<plurals name="location_accurate" tools:ignore="UnusedQuantity">
 		<item quantity="one">Точность до %1$d метра</item>
+		<item quantity="few">Точность до %1$d метра</item>
+		<item quantity="many">Точность до %1$d метра</item>
 		<item quantity="other">Точность до %1$d метра</item>
 	</plurals>
 	<string name="location_distance_away">%1$s %2$s осталось</string>
@@ -557,6 +571,8 @@
 	<string name="Messaging_node_running">Узел обмена сообщениями работает</string>
 	<plurals name="Minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d минута</item>
+		<item quantity="few">%d минуты</item>
+		<item quantity="many">%d минуты</item>
 		<item quantity="other">%d минуты</item>
 	</plurals>
 	<string name="Mixin">Mixin</string>
@@ -655,6 +671,8 @@
 	<string name="Pay_with_PIN_interval">Оплата с интервалом PIN</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d подтверждение</item>
+		<item quantity="few">%1$d/%2$d подтверждения</item>
+		<item quantity="many">%1$d/%2$d подтверждения</item>
 		<item quantity="other">%1$d/%2$d подтверждения</item>
 	</plurals>
 	<string name="permission_audio">Разрешить записывать звук?</string>
@@ -680,6 +698,8 @@
 	<string name="pin_title">Pin</string>
 	<plurals name="pinned_message_title" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d закрепленное сообщение</item>
+		<item quantity="few">%1$d закрепленных сообщений</item>
+		<item quantity="many">%1$d закрепленных сообщений</item>
 		<item quantity="other">%1$d закрепленных сообщений</item>
 	</plurals>
 	<string name="Pinned_Messages">Закрепленные сообщения</string>
@@ -774,6 +794,8 @@
 	<string name="search_placeholder_number">Найдите Mixin ID или номер телефона: </string>
 	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d связанное сообщение</item>
+		<item quantity="few">%1$d похожие сообщения</item>
+		<item quantity="many">%1$d похожие сообщения</item>
 		<item quantity="other">%1$d похожие сообщения</item>
 	</plurals>
 	<string name="Searching">Идет поиск</string>
@@ -836,6 +858,8 @@
 	<string name="setting_revoke_confirmation">Отозвать доступ %1$s?</string>
 	<plurals name="setting_storage_clear" tools:ignore="UnusedQuantity">
 		<item quantity="one">Удалить %1$d сообщение (%2$s)?</item>
+		<item quantity="few">Удалить %1$d сообщения (%2$s)?</item>
+		<item quantity="many">Удалить %1$d сообщения (%2$s)?</item>
 		<item quantity="other">Удалить %1$d сообщения (%2$s)?</item>
 	</plurals>
 	<string name="setting_stranger_transfer_desc">Отображать диалоговое окно подтверждения при передаче незнакомцу</string>
@@ -901,6 +925,8 @@
 	<string name="Time">Время</string>
 	<plurals name="title_participants" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d участник</item>
+		<item quantity="few">%1$d участников</item>
+		<item quantity="many">%1$d участников</item>
 		<item quantity="other">%1$d участников</item>
 	</plurals>
 	<string name="To">В</string>
@@ -933,22 +959,32 @@
 	<string name="UNDO">ОТМЕНИТЬ</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">день</item>
+		<item quantity="few">дни</item>
+		<item quantity="many">дни</item>
 		<item quantity="other">дни</item>
 	</plurals>
 	<plurals name="unit_hour" tools:ignore="UnusedQuantity">
 		<item quantity="one">час</item>
+		<item quantity="few">часы</item>
+		<item quantity="many">часы</item>
 		<item quantity="other">часы</item>
 	</plurals>
 	<plurals name="unit_minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">минута</item>
+		<item quantity="few">минуты</item>
+		<item quantity="many">минуты</item>
 		<item quantity="other">минуты</item>
 	</plurals>
 	<plurals name="unit_second" tools:ignore="UnusedQuantity">
 		<item quantity="one">секунда</item>
+		<item quantity="few">секунды</item>
+		<item quantity="many">секунды</item>
 		<item quantity="other">секунды</item>
 	</plurals>
 	<plurals name="unit_week" tools:ignore="UnusedQuantity">
 		<item quantity="one">неделя</item>
+		<item quantity="few">недели</item>
+		<item quantity="many">недели</item>
 		<item quantity="other">недели</item>
 	</plurals>
 	<string name="Unknown">Неизвестный</string>
