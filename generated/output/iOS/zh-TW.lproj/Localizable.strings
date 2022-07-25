@@ -198,7 +198,7 @@
 "contact_count_count" = "%d 位聯繫人";
 "contact_developer" = "聯繫開發者";
 "contact_invite_content" = "嘿，我正在使用 Mixin Messenger 聊天。在這裡下載：https://mixin.one/messenger";
-"contact_mixin_id" = "混合 ID：%@";
+"contact_mixin_id" = "Mixin ID：%@";
 "contact_mobile" = "手機：%@";
 "contact_phone_contact_hint" = "上傳手機聯繫人，查找其他 Mixin 好友。";
 "contact_share_bots_title" = "%@ 的共享聊天機器人";
@@ -479,7 +479,7 @@
 "messages" = "留言";
 "minute" = "%d 分鐘";
 "minute_count" = "%d 分鐘";
-"mixin" = "米信";
+"mixin" = "Mixin";
 "mixin_id_or_phone" = "Mixin ID, 電話號碼";
 "mixin_locked" = "Mixin 鎖定";
 "mixin_messenger_desktop" = "Mixin Messenger 桌面版";

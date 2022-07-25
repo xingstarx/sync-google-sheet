@@ -61,7 +61,7 @@
 "combineAndForward" : "合併和轉發",
 "confirm" : "確認",
 "contact" : "接觸",
-"contactMixinId" : "混合 ID：{arg0}",
+"contactMixinId" : "Mixin ID：{arg0}",
 "contactMuteTitle" : "靜音通知…",
 "contacts" : "聯繫方式",
 "contentTooLong" : "內容太長",
