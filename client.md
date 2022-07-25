@@ -1152,7 +1152,7 @@
 | android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s? | 你确定要发送来自%1$s的%2$s？ | %1$sから%2$sを送信しますか？ | Adakah anda pasti mahu menghantar %2$s dari %1$s? | Yakin ingin mengirim %2$s dari %1$s? |
 | android, iOS | share_message_description_empty | Are you sure you want to send the %1$s? | 你确定要发送该%1$s？ | %1$sを送信しますか？ | Adakah anda pasti mahu menghantar %1$s? | Yakin ingin mengirim %1$s? |
 | android | Share_QR_Code | Share QR Code | 分享二维码 | QRコードを共有 |     |     |
-| android | share_to | Share %1$s to… | 分享%1$s到… | 共有する | Kongsi %1$s ke… | Bagikan %1$s ke… |
+| android | share_to | Share %1$s to… | 分享%1$s到… | 共有%1$sする | Kongsi %1$s ke… | Bagikan %1$s ke… |
 | iOS | Share_To | Share To | 分享给 | 共有する |     |     |
 | android, iOS, Desktop | Shared_Media | Shared Media | 媒体内容 | 共有されたメディア | Media Berkongsi | Media Bersama |
 | iOS | Shopping | Shopping | 购物  | 買い物 |     |     |

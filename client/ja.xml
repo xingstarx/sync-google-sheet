@@ -1148,7 +1148,7 @@
   <string name="share_message_description" platform="android, iOS">%1$sから%2$sを送信しますか？</string>
   <string name="share_message_description_empty" platform="android, iOS">%1$sを送信しますか？</string>
   <string name="Share_QR_Code" platform="android">QRコードを共有</string>
-  <string name="share_to" platform="android">共有する</string>
+  <string name="share_to" platform="android">共有%1$sする</string>
   <string name="Share_To" platform="iOS">共有する</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">共有されたメディア</string>
   <string name="Shopping" platform="iOS">買い物</string>
