@@ -23,7 +23,7 @@
   <string name="Name_or_Phone_number" platform="iOS">名前か電話番号</string>
   <string name="Search_contacts" platform="iOS">友達を検索</string>
   <string name="Access_to_Contacts" platform="iOS">連絡先へのアクセス</string>
-  <string name="Access_Contacts_Hint" platform="iOS">Mixinはあなたの連絡先をMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
+  <string name="Access_Contacts_Hint" platform="iOS">MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
   <string name="Access_denied" platform="android, iOS, Desktop">アクセスが拒否されました</string>
   <string name="access_your_bots_list" platform="android, iOS">あなたのミニアプリ一覧へのアクセス</string>
   <string name="access_your_circle_list" platform="android, iOS">グループリスト一覧へのアクセス</string>
@@ -51,13 +51,13 @@
   <string name="Add_sticker_failed" platform="android, Desktop">エラー</string>
   <string name="Add_stickers" platform="android, iOS, Desktop">スタンプを追加</string>
   <string name="Add_success" platform="android">追加成功</string>
-  <string name="Add_Tag" platform="android, iOS">タグを追加する</string>
+  <string name="Add_Tag" platform="android, iOS">タグを追加</string>
   <string name="Add_to_Home_screen" platform="android">ホームへ追加</string>
   <string name="Add_to_Stickers" platform="iOS">スタンプを追加</string>
   <string name="Added" platform="android, iOS, Desktop">追加ずみ</string>
   <string name="Adding" platform="android">追加中…</string>
-  <string name="Address" platform="android, iOS">連絡先</string>
-  <string name="Address_not_found" platform="iOS">連絡先が見つかりません</string>
+  <string name="Address" platform="android, iOS">アドレス</string>
+  <string name="Address_not_found" platform="iOS">アドレスが見つかりません</string>
   <string name="Admin" platform="android, iOS, Desktop">管理者</string>
   <string name="After_1_minute" platform="android">1分後に</string>
   <string name="After_30_minutes" platform="android">30分後に</string>
@@ -162,7 +162,7 @@
   <string name="Blocked" platform="android, iOS">ブロック中</string>
   <string name="Blocked_Users" platform="android, iOS">ブロック中のユーザー</string>
   <string name="bold" platform="android">太字</string>
-  <string name="Books" platform="iOS">OK</string>
+  <string name="Books" platform="iOS">書物</string>
   <string name="bot_dock_empty" platform="android">ミニアプリを長押しして上部にドラッグします</string>
   <string name="bot_empty_tip" platform="android, iOS">最初にお気に入りのミニアプリを追加してください</string>
   <string name="bot_not_auth_yet" platform="android">このミニアプリへのアクセス許可がありません</string>
@@ -431,7 +431,7 @@
   <string name="Disable_web_debug" platform="android">Disable webデバッグの無効化</string>
   <string name="Disabled" platform="android">無効ずみ</string>
   <string name="disappearing_message" platform="android, iOS, Desktop">表示されないメッセージ</string>
-  <string name="disappearing_message_hint" platform="android, iOS, Desktop">有効にすると、このチャットで送受信された新しいメッセージは、見た後に消えます。詳しくは、「ドキュメント」をお読みください。</string>
+  <string name="disappearing_message_hint" platform="android, iOS, Desktop">有効にすると、このチャットで送受信された新しいメッセージは、見た後に消えます。詳しくは、こちらをお読みください。</string>
   <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
   <string name="disappearing_option_1" platform="android, iOS">30秒</string>
   <string name="disappearing_option_2" platform="android, iOS">10分間</string>
@@ -476,7 +476,7 @@
   <string name="Enable_web_debug" platform="android">webデバッグの有効化</string>
   <string name="Encrypted" platform="android">暗号化</string>
   <string name="End_to_End_Encryption" platform="android, iOS">E2E暗号化</string>
-  <string name="English" platform="iOS">英語</string>
+  <string name="Current_Language" platform="iOS">日本語</string>
   <string name="Enter_new_phone_number" platform="android">新しい電話番号を入力してください</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">アカウントを削除するためにPINコードを入力してください</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
@@ -580,8 +580,8 @@
   <string name="Forward_to_friend" platform="android">友達に転送する</string>
   <string name="fourth_pin_confirm_hint" platform="android, iOS">最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません</string>
   <string name="Friday" platform="android">金曜日</string>
-  <string name="From" platform="android, iOS, Desktop">From</string>
-  <string name="from_with_colon" platform="Desktop">From:</string>
+  <string name="From" platform="android, iOS, Desktop">より</string>
+  <string name="from_with_colon" platform="Desktop">アイコンより：</string>
   <string name="Games" platform="iOS">ゲーム</string>
   <string name="Get_a_new_wallet" platform="android, iOS">新たなウォレットを作成</string>
   <string name="GIF" platform="android">GIF</string>
@@ -647,7 +647,7 @@
   <string name="Invalid_QR_Code" platform="android, iOS">無効なQRコード</string>
   <string name="Invalid_request_body" platform="iOS">無効なリクエストボディ</string>
   <string name="Invalid_request_data" platform="iOS">無効なリクエストデータ</string>
-  <string name="Invalid_sdp" platform="iOS">無効なsdp</string>
+  <string name="Invalid_sdp" platform="iOS">無効なSDP</string>
   <string name="Invalid_sticker_format" platform="android">スタンプのフォーマットが無効です</string>
   <string name="Invalid_width" platform="iOS">無効な横幅</string>
   <string name="Invite" platform="iOS">招待する</string>
@@ -680,7 +680,7 @@
   <string name="Last_Backup" platform="android">最後のバックアップ</string>
   <string name="last_backup_hint" platform="iOS">最後に行ったバックアップ %@, 合計サイズ %@.</string>
   <string name="Later" platform="android, iOS">後で</string>
-  <string name="Learn_More" platform="android, iOS, Desktop">もっとみる</string>
+  <string name="Learn_More" platform="android, iOS, Desktop">こちら</string>
   <string name="less" platform="Desktop">少なく</string>
   <string name="Light" platform="iOS, Desktop">昼間モード</string>
   <string name="Line_busy" platform="android, iOS">お話中です</string>
@@ -753,7 +753,7 @@
   <string name="Mixin_ID" platform="android">Mixin ID</string>
   <string name="mixin_id_or_phone" platform="iOS">Mixin ID, 電話番号</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixinはロックされています</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger Desktop</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin デスクトップ</string>
   <string name="Mixin_server_encounters_errors" platform="iOS">Mixinのサーバーにエラーが発生しています</string>
   <string name="Mobile_Contacts" platform="iOS">連絡先</string>
   <string name="Model" platform="android">モデル</string>
@@ -1111,7 +1111,7 @@
   <string name="setting_data_title" platform="android">メディア自動ダウンロード設定</string>
   <string name="setting_data_wifi" platform="android">Wi-Fiに接続時</string>
   <string name="setting_delete_account_content_2" platform="android">ローカルメッセージとiCloudにバックアップされた内容は自動的に削除されません</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細は「ドキュメント」をご覧ください。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。</string>
   <string name="setting_delete_account_send" platform="android, iOS">%1$sへ4桁のコードを送信します</string>
   <string name="setting_delete_account_tip" platform="android, iOS">警告：Mixinウォレット内に他のウォレットや取引所に送金可能な仮想通貨が残っています。アカウントを削除すると、仮想通貨を永遠に引き出すことができませんが、よろしいでしょうか？</string>
   <string name="setting_delete_account_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
@@ -1121,7 +1121,7 @@
   <string name="setting_emergency_change_mobile" platform="android">新しい電話番号の登録をしますか？</string>
   <string name="setting_emergency_content" platform="android, iOS">緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。</string>
   <string name="setting_emergency_create_success" platform="android">緊急連絡先を作成しました</string>
-  <string name="setting_emergency_desc" platform="android, iOS">登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。**詳しくは**緊急連絡先についてを確認してください。</string>
+  <string name="setting_emergency_desc" platform="android, iOS">登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは、こちらを確認してください。</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">あなたの緊急連絡先はPINコードにより保護されています。</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Mixin ID: %1$sに送信された4桁のコードを入力してください</string>
   <string name="setting_emergency_set" platform="android">緊急連絡先を設定する</string>
@@ -1199,7 +1199,7 @@
   <string name="symbol_withdrawal" platform="android, iOS">%1$s 出金</string>
   <string name="Syncing_messages" platform="android">メッセージを同期中</string>
   <string name="Syncing_progress" platform="iOS">同期中 %d%%</string>
-  <string name="syncs_contact_hint" platform="android, iOS">あなたの連絡帳をMixinと同期し、他のMixinユーザーと連携します。</string>
+  <string name="syncs_contact_hint" platform="android, iOS">あなたのアドレス帳をMixinと同期し、他のMixinユーザーと連携します。</string>
   <string name="System_options" platform="android">システムオプション</string>
   <string name="System_time_is_unusual" platform="iOS">システム時刻に問題があります</string>
   <string name="System_version" platform="android">System version</string>
@@ -1332,12 +1332,12 @@
   <string name="wallet_password_change_tip" platform="android">認証するために6桁のPINコードを入力してください</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PINコードが一致しません、もう一度お試しください</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">6桁の新しいPINコードを作成してください</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">6桁のPINコードを作成してください、**詳しくは**こちら</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">6桁のPINコードを作成してください、詳しくは、こちらをご覧ください</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PINコードがシンプルすぎます</string>
   <string name="wallet_pin_modify_biometrics" platform="android">変更を確定するには、PINコードを入力してください</string>
   <string name="wallet_pin_open_biometrics" platform="android">PINコードを入力して、生体認証を開いてください</string>
   <string name="wallet_pin_pay_interval_tips" platform="android, iOS">セキュリティ保護のため、PINコードの定期的な再確認が必要です。</string>
-  <string name="wallet_pin_tops_desc" platform="android, iOS">PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。**詳しくは**ドキュメントをご覧ください。</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。詳しくは、こちらをご覧ください。</string>
   <string name="wallet_refresh_address_failed" platform="android, iOS">出金手数料が変更され、更新に失敗しました。もう一度やり直してください。</string>
   <string name="wallet_setting_currency_desc" platform="android">%1$s (%2$s)</string>
   <string name="wallet_transaction_continue_count_down" platform="android, iOS">続ける (%1$d)</string>
@@ -1370,10 +1370,10 @@
   <string name="withdrawal_addr_biometric_add" platform="android">生体認証を使用してアドレスを保存</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">生体認証を使用してアドレスを削除</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">生体認証を使用してアドレスを修正</string>
-  <string name="withdrawal_addr_memo" platform="android, iOS">宛先タグやID番号やメモがない場合は、No Memoに設定することができます。</string>
+  <string name="withdrawal_addr_memo" platform="android, iOS">宛先タグやID番号やメモがない場合は、「メモなし」に設定することができます。</string>
   <string name="withdrawal_addr_new" platform="android, iOS">新しい%1$sアドレス</string>
-  <string name="withdrawal_addr_no_memo" platform="android, iOS">宛先タグ、ID番号、またはメモを入力する必要がある場合は、メモを追加できます。</string>
-  <string name="withdrawal_addr_no_tag" platform="android, iOS">宛先タグ、ID番号、またはメモを入力する必要がある場合は、タグを追加できます。</string>
+  <string name="withdrawal_addr_no_memo" platform="android, iOS">宛先タグ、ID番号、またはメモを入力する必要がある場合は、「メモを追加」に設定することができます。</string>
+  <string name="withdrawal_addr_no_tag" platform="android, iOS">宛先タグ、ID番号、またはメモを入力する必要がある場合は、「タグを追加」に設定することができます。</string>
   <string name="withdrawal_addr_pin_add" platform="android">PINコードを入力してアドレスを保存</string>
   <string name="withdrawal_addr_pin_delete" platform="android">PINコードを入力してアドレスを削除</string>
   <string name="withdrawal_addr_pin_modify" platform="android">PINコードを入力してアドレスを修正</string>

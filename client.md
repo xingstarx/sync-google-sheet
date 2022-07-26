@@ -24,7 +24,7 @@
 | iOS | Name_or_Phone_number | Name or Phone number | 姓名或手机号 | 名前か電話番号 |     |     |
 | iOS | Search_contacts | Search Contacts | 搜索联系人 | 友達を検索 |     |     |
 | iOS | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
-| iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | Mixinはあなたの連絡先をMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
+| iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
@@ -52,13 +52,13 @@
 | android, Desktop | Add_sticker_failed | Add sticker failed | 添加贴纸失败 | エラー | Penambahan pelekat gagal | Gagal menambahkan stiker |
 | android, iOS, Desktop | Add_stickers | Add Stickers | 添加贴纸 | スタンプを追加 |     |     |
 | android | Add_success | Add success | 添加成功 | 追加成功 | Menambah kejayaan | Berhasil menambahkan |
-| android, iOS | Add_Tag | Add Tag | 点击添加 Tag（标签） | タグを追加する | Tambah Tag | Tambahkan Tag |
+| android, iOS | Add_Tag | Add Tag | 点击添加 Tag（标签） | タグを追加 | Tambah Tag | Tambahkan Tag |
 | android | Add_to_Home_screen | Add to Home screen | 添加到桌面 | ホームへ追加 | Tambahkan ke Skrin utama | Tambahkan ke layar Beranda |
 | iOS | Add_to_Stickers | Add to Stickers | 添加贴纸 | スタンプを追加 |     |     |
 | android, iOS, Desktop | Added | Added | 已添加 | 追加ずみ |     |     |
 | android | Adding | Adding… | 正在添加… | 追加中… | Menambah… | Menambahkan… |
-| android, iOS | Address | Address | 地址  | 連絡先 | Alamat | Alamat |
-| iOS | Address_not_found | Address not found. | 找不到该地址。 | 連絡先が見つかりません |     |     |
+| android, iOS | Address | Address | 地址  | アドレス | Alamat | Alamat |
+| iOS | Address_not_found | Address not found. | 找不到该地址。 | アドレスが見つかりません |     |     |
 | android, iOS, Desktop | Admin | Admin | 管理员 | 管理者 | pentadbir | admin |
 | android | After_1_minute | After 1 minute | 1分钟之后 | 1分後に |     |     |
 | android | After_30_minutes | After 30 minutes | 30分钟之后 | 30分後に |     |     |
@@ -163,7 +163,7 @@
 | android, iOS | Blocked | Blocked | 已屏蔽 | ブロック中 | Disekat | Diblokir |
 | android, iOS | Blocked_Users | Blocked Users | 屏蔽名单 | ブロック中のユーザー |     |     |
 | android | bold | bold | 粗体  | 太字  | tebal |     |
-| iOS | Books | Books | 图书  | OK  |     |     |
+| iOS | Books | Books | 图书  | 書物  |     |     |
 | android | bot_dock_empty | Long press and drag the bot to the top | 长按并拖拽机器人置顶 | ミニアプリを長押しして上部にドラッグします | Tekan lama dan seret bot ke bahagian atas | Tekan lama dan seret bot ke atas |
 | android, iOS | bot_empty_tip | Please add your favorite bot first. | 可以添加你喜欢的机器人 | 最初にお気に入りのミニアプリを追加してください | Sila masukkan bot kegemaran anda terlebih dahulu. | Harap tambahkan bot favorit Anda terlebih dahulu. |
 | android | bot_not_auth_yet | No permission has been granted to this bot | 还未授权此机器人任何权限 | このミニアプリへのアクセス許可がありません |     |     |
@@ -432,7 +432,7 @@
 | android | Disable_web_debug | Disable web debug | 已关闭 Web 调试 | Disable webデバッグの無効化 | Lumpuhkan laman web nyahpepijat |     |
 | android | Disabled | Disabled | 已停用 | 無効ずみ |     |     |
 | android, iOS, Desktop | disappearing_message | Disappearing Messages | 限时消息 | 表示されないメッセージ |     |     |
-| android, iOS, Desktop | disappearing_message_hint | When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**. | 启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。 | 有効にすると、このチャットで送受信された新しいメッセージは、見た後に消えます。詳しくは、「ドキュメント」をお読みください。 |     |     |
+| android, iOS, Desktop | disappearing_message_hint | When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **Learn More**. | 启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。 | 有効にすると、このチャットで送受信された新しいメッセージは、見た後に消えます。詳しくは、こちらをお読みください。 |     |     |
 | android | disappearing_message_url | https://mixinmessenger.zendesk.com/hc/articles/5127869180564 |     | https://mixinmessenger.zendesk.com/hc/articles/5127869180564 |     |     |
 | android, iOS | disappearing_option_1 | 30 seconds | 30 秒 | 30秒 |     |     |
 | android, iOS | disappearing_option_2 | 10 minutes | 10 分 | 10分間 |     |     |
@@ -477,7 +477,7 @@
 | android | Enable_web_debug | Enable web debug | 已开启 Web 调试 | webデバッグの有効化 | Bolehkan laman web nyahpepijat |     |
 | android | Encrypted | Encrypted | 端到端加密 | 暗号化 |     |     |
 | android, iOS | End_to_End_Encryption | End-to-end Encrypted | 端到端加密 | E2E暗号化 | Disulitkan | Terenkripsi end-to-end |
-| iOS | English | English | 中文  | 英語  |     |     |
+| iOS | Current_Language | English | 中文  | 日本語 |     |     |
 | android | Enter_new_phone_number | Enter your new phone number | 输入你的新手机号码 | 新しい電話番号を入力してください | Masukkan nombor telefon bimbit baharu anda | Masukkan nomor ponsel baru Anda |
 | android, iOS | Enter_PIN_to_delete_account | Enter your PIN to delete your account | 输入你的 PIN 以注销你的账户 | アカウントを削除するためにPINコードを入力してください |     |     |
 | android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください | Masukkan ID Mixin kenalan kecemasan anda | Masukkan ID Mixin kontak darurat Anda |
@@ -581,8 +581,8 @@
 | android | Forward_to_friend | Forward to friend | 转发给好友 | 友達に転送する | Teruskan kepada rakan | Teruskan ke teman |
 | android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | 这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！ | 最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. |
 | android | Friday | Friday | 星期五 | 金曜日 | Jumaat | Jumat |
-| android, iOS, Desktop | From | From | 来自  | From |     |     |
-| Desktop | from_with_colon | From:  | 来自：  | From: |     |     |
+| android, iOS, Desktop | From | From | 来自  | より  |     |     |
+| Desktop | from_with_colon | From:  | 来自：  | アイコンより： |     |     |
 | iOS | Games | Games | 游戏  | ゲーム |     |     |
 | android, iOS | Get_a_new_wallet | Get a new wallet | 创建钱包 | 新たなウォレットを作成 |     |     |
 | android | GIF | GIF |     | GIF | GIF | GIF |
@@ -648,7 +648,7 @@
 | android, iOS | Invalid_QR_Code | Invalid QR-Code | 无效的二维码 | 無効なQRコード |     |     |
 | iOS | Invalid_request_body | Invalid request body | 无效的请求 | 無効なリクエストボディ |     |     |
 | iOS | Invalid_request_data | Invalid request data | 无效的请求数据 | 無効なリクエストデータ |     |     |
-| iOS | Invalid_sdp | Invalid SDP | 无效的 SDP | 無効なsdp |     |     |
+| iOS | Invalid_sdp | Invalid SDP | 无效的 SDP | 無効なSDP |     |     |
 | android | Invalid_sticker_format | Invalid sticker format | 贴纸格式不支持 | スタンプのフォーマットが無効です | Format pelekat tidak sah | Format stiker tidak valid |
 | iOS | Invalid_width | Invalid width | 宽度无效 | 無効な横幅 |     |     |
 | iOS | Invite | Invite | 邀请  | 招待する |     |     |
@@ -681,7 +681,7 @@
 | android | Last_Backup | Last Backup | 上次备份 | 最後のバックアップ | Sandaran Terakhir | Pencadangan Terakhir |
 | iOS | last_backup_hint | Last backup on %@, total size %@. | 上次备份是 %@，占用空间 %@。 | 最後に行ったバックアップ %@, 合計サイズ %@. |     |     |
 | android, iOS | Later | Later | 稍后  | 後で  | Kemudian | Nanti |
-| android, iOS, Desktop | Learn_More | Learn More | 了解更多 | もっとみる | Ketahui Lebih Lanjut | Pelajari Selengkapnya |
+| android, iOS, Desktop | Learn_More | Learn More | 了解更多 | こちら | Ketahui Lebih Lanjut | Pelajari Selengkapnya |
 | Desktop | less | less | 更少  | 少なく |     |     |
 | iOS, Desktop | Light | Light | 浅色  | 昼間モード |     |     |
 | android, iOS | Line_busy | Line busy | 忙线未接听 | お話中です | Talian sibuk | Jaringan sibuk |
@@ -755,7 +755,7 @@
 | android | Mixin_ID | Mixin ID |     | Mixin ID | Mixin ID | Mixin ID |
 | iOS | mixin_id_or_phone | Mixin ID, Phone number | Mixin ID 或手机号 | Mixin ID, 電話番号 |     |     |
 | android, iOS | Mixin_Locked | Mixin Locked | Mixin 已锁定 | Mixinはロックされています |     |     |
-| android, iOS, Desktop | Mixin_Messenger_Desktop | Mixin Messenger Desktop | Mixin Messenger 桌面 | Mixin Messenger Desktop | Desktop Mixin Messenger | Mixin Messenger Desktop |
+| android, iOS, Desktop | Mixin_Messenger_Desktop | Mixin Messenger Desktop | Mixin Messenger 桌面 | Mixin デスクトップ | Desktop Mixin Messenger | Mixin Messenger Desktop |
 | iOS | Mixin_server_encounters_errors | Mixin server encounters errors | 服务器出错，请稍后重试 | Mixinのサーバーにエラーが発生しています |     |     |
 | iOS | Mobile_Contacts | Mobile Contacts | 通讯录 | 連絡先 |     |     |
 | android | Model | Model | 手机型号 | モデル |     |     |
@@ -1114,7 +1114,7 @@
 | android | setting_data_title | Media auto-download | 自动下载文件 | メディア自動ダウンロード設定 | Muat turun automatik media | Download otomatis media |
 | android | setting_data_wifi | When connected on Wi-Fi | 当连接到 Wi-Fi 时 | Wi-Fiに接続時 | Semasa disambungkan di Wi-Fi | Saat tersambung melalui Wi-Fi |
 | android | setting_delete_account_content_2 | Local messages and Backups will not be Deleted automatically | 本地信息和备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は自動的に削除されません |     |     |
-| android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to **Learn more**. | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細は「ドキュメント」をご覧ください。 |     |     |
+| android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to **Learn More**. | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。 |     |     |
 | android, iOS | setting_delete_account_send | We will send a 4-digit code to %1$s | 我们将发送 4 位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |     |     |
 | android, iOS | setting_delete_account_tip | Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered. | 你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。 | 警告：Mixinウォレット内に他のウォレットや取引所に送金可能な仮想通貨が残っています。アカウントを削除すると、仮想通貨を永遠に引き出すことができませんが、よろしいでしょうか？ |     |     |
 | android | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |
@@ -1124,7 +1124,7 @@
 | android | setting_emergency_change_mobile | Do you want to change your mobile number now? | 立即修改手机号？ | 新しい電話番号の登録をしますか？ | Adakah anda mahu menukar nombor telefon bimbit anda sekarang? | Ingin mengubah nomor ponsel Anda sekarang? |
 | android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. |
 | android | setting_emergency_create_success | Create emergency contact successfully | 添加紧急联系人成功 | 緊急連絡先を作成しました | Buat kenalan kecemasan berjaya | Berhasil membuat kontak darurat |
-| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to **learn more**. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档**了解更多**。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。**詳しくは**緊急連絡先についてを確認してください。 | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk **mengetahui lebih lanjut**. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk **mempelajari selengkapnya**. |
+| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to **Learn More**. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档**了解更多**。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは、こちらを確認してください。 | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk **mengetahui lebih lanjut**. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk **mempelajari selengkapnya**. |
 | android, iOS | setting_emergency_pin_tip | Your emergency contact is protected by PIN | 紧急联系人受 PIN 加密保护 | あなたの緊急連絡先はPINコードにより保護されています。 | Kenalan kecemasan anda dilindungi oleh PIN | Kontak darurat Anda dilindungi dengan PIN |
 | android, iOS | setting_emergency_send_code | Enter the 4-digit code sent to Mixin ID: %1$s | 请输入发送至以下 Mixin ID 的 4 位验证码：%1$s | Mixin ID: %1$sに送信された4桁のコードを入力してください | Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s | Masukkan kode 4 digit yang dikirim ke ID Mixin: %1$s |
 | android | setting_emergency_set | Set emergency contact | 设置紧急联系人 | 緊急連絡先を設定する | Tetapkan kenalan kecemasan | Tetapkan kontak darurat |
@@ -1203,7 +1203,7 @@
 | android, iOS | symbol_withdrawal | %1$s Withdrawal | %1$s 提现 | %1$s 出金 |     |     |
 | android | Syncing_messages | Syncing messages | 正在同步消息 | メッセージを同期中 | Menyelaraskan mesej | Menyinkronkan pesan |
 | iOS | Syncing_progress | Syncing %d%% | 正在同步 %d%% | 同期中 %d%% |     |     |
-| android, iOS | syncs_contact_hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. | 同步通讯录到 Mixin 发现更多好友。 | あなたの連絡帳をMixinと同期し、他のMixinユーザーと連携します。 | Mixin selaraskan buku alamat anda ke pelayan Mixin untuk membantu anda berhubung dengan pengguna Mixin yang lain. | Mixin menyinkronkan buku alamat Anda ke server Mixin untuk membantu Anda terhubung dengan pengguna Mixin yang lain. |
+| android, iOS | syncs_contact_hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. | 同步通讯录到 Mixin 发现更多好友。 | あなたのアドレス帳をMixinと同期し、他のMixinユーザーと連携します。 | Mixin selaraskan buku alamat anda ke pelayan Mixin untuk membantu anda berhubung dengan pengguna Mixin yang lain. | Mixin menyinkronkan buku alamat Anda ke server Mixin untuk membantu Anda terhubung dengan pengguna Mixin yang lain. |
 | android | System_options | System options | 管理通知 | システムオプション | Pilihan sistem | Opsi sistem     |
 | iOS | System_time_is_unusual | System time is unusual | 系统时间异常 | システム時刻に問題があります |     |     |
 | android | System_version | System version | 系统版本 | System version |     |     |
@@ -1336,12 +1336,12 @@
 | android | wallet_password_change_tip | Please enter the 6 digit PIN to verify. | 请输入6位 PIN 来验证 | 認証するために6桁のPINコードを入力してください | Sila masukkan PIN 6 digit untuk mengesahkan. | Harap masukkan PIN 6 digit untuk memverifikasi. |
 | android, iOS | wallet_password_not_equal | The PIN is not the same twice, please try again. | PIN 不一致, 请重新输入 | PINコードが一致しません、もう一度お試しください | PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi. | PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi. |
 | android | wallet_password_set_new_pin_desc | Please set a new 6 digit PIN. | 设置新的 6 位数字 PIN | 6桁の新しいPINコードを作成してください | Sila tetapkan PIN 6 digit baharu. | Harap buat PIN 6 digit baru. |
-| android, iOS | wallet_password_set_pin_desc | Set a 6 digit PIN to create your first digital wallet, read the document to **learn more**. | 设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以**了解更多**。 | 6桁のPINコードを作成してください、**詳しくは**こちら | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk **mengetahui lebih lanjut**. | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk **mempelajari lebih lanjut**. |
+| android, iOS | wallet_password_set_pin_desc | Set a 6 digit PIN to create your first digital wallet, read the document to **Learn More**. | 设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以**了解更多**。 | 6桁のPINコードを作成してください、詳しくは、こちらをご覧ください | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk **mengetahui lebih lanjut**. | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk **mempelajari lebih lanjut**. |
 | android, iOS | wallet_password_unsafe | The PIN is too simple and insecure. | PIN 过于简单不安全 | PINコードがシンプルすぎます | PIN terlalu mudah dan tidak selamat. | PIN-nya terlalu sederhana dan tidak aman. |
 | android | wallet_pin_modify_biometrics | Please enter PIN to Modify Pay with PIN interval | 请输入 PIN 来修改支付 PIN 使用间隔 | 変更を確定するには、PINコードを入力してください | Sila masukkan PIN untuk Ubahsuai Bayar dengan selang PIN | Harap masukkan PIN untuk Mengubah Pembayaran dengan interval PIN |
 | android | wallet_pin_open_biometrics | Please enter PIN to open Biometrics | 请输入 PIN 来启用生物识别支付 | PINコードを入力して、生体認証を開いてください | Sila masukkan PIN untuk membuka Biometrik | Harap masukkan PIN untuk membuka Biometrik |
 | android, iOS | wallet_pin_pay_interval_tips | For the security of your assets, you need to verify your PIN for the specified interval. | 为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时已然需要支付 PIN | セキュリティ保護のため、PINコードの定期的な再確認が必要です。 | Untuk keselamatan aset anda, anda perlu mengesahkan PIN anda untuk selang waktu yang ditentukan. | Untuk keamanan aset, Anda harus memverifikasi PIN Anda untuk interval yang ditentukan. |
-| android, iOS | wallet_pin_tops_desc | Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 | PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。**詳しくは**ドキュメントをご覧ください。 |     |     |
+| android, iOS | wallet_pin_tops_desc | Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **Learn More**. | 注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 | PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。詳しくは、こちらをご覧ください。 |     |     |
 | android, iOS | wallet_refresh_address_failed | The withdrawal fee has been changed and the refresh fails, please try again. | 手续费已变更且刷新失败，请重试。 | 出金手数料が変更され、更新に失敗しました。もう一度やり直してください。 |     |     |
 | android | wallet_setting_currency_desc | %1$s (%2$s) | %1$s（%2$s） | %1$s (%2$s) | %1$s (%2$s) | %1$s (%2$s) |
 | android, iOS | wallet_transaction_continue_count_down | Continue (%1$d) | 继续 （%1$d） | 続ける (%1$d) | Teruskan (%1$d) | Lanjutkan (%1$d) |
@@ -1374,10 +1374,10 @@
 | android | withdrawal_addr_biometric_add | Use Biometric to save address | 使用生物识别来完成添加 | 生体認証を使用してアドレスを保存 | Gunakan Biometrik untuk menyimpan alamat | Gunakan Biometrik untuk menyimpan alamat |
 | android | withdrawal_addr_biometric_delete | Use Biometric to delete address | 使用生物识别来完成删除 | 生体認証を使用してアドレスを削除 | Gunakan Biometrik untuk memadam alamat | Gunakan Biometrik untuk menghapus alamat |
 | android | withdrawal_addr_biometric_modify | Use Biometric to modify address | 使用生物识别来完成修改 | 生体認証を使用してアドレスを修正 | Gunakan Biometrik untuk mengubah alamat | Gunakan Biometrik untuk mengubah alamat |
-| android, iOS | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 | 宛先タグやID番号やメモがない場合は、No Memoに設定することができます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. |
+| android, iOS | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 | 宛先タグやID番号やメモがない場合は、「メモなし」に設定することができます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. |
 | android, iOS | withdrawal_addr_new | New %1$s Address | 新 %1$s 地址 | 新しい%1$sアドレス | Alamat %1$s Baharu | Alamat %1$s Baru |
-| android, iOS | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、メモを追加できます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. |
-| android, iOS | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、タグを追加できます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. |
+| android, iOS | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「メモを追加」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. |
+| android, iOS | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「タグを追加」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. |
 | android | withdrawal_addr_pin_add | Enter PIN to save address | 请输入 PIN 来完成添加 | PINコードを入力してアドレスを保存 | Masukkan PIN untuk menyimpan alamat | Masukkan PIN untuk menyimpan alamat |
 | android | withdrawal_addr_pin_delete | Enter PIN to delete address | 请输入 PIN 来完成删除 | PINコードを入力してアドレスを削除 | Masukkan PIN untuk menghapus alamat | Masukkan PIN untuk menghapus alamat |
 | android | withdrawal_addr_pin_modify | Enter PIN to modify address | 请输入 PIN 来完成修改 | PINコードを入力してアドレスを修正 | Masukkan PIN untuk mengubah alamat | Masukkan PIN untuk mengubah alamat |

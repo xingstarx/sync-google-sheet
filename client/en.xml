@@ -431,7 +431,7 @@
   <string name="Disable_web_debug" platform="android">Disable web debug</string>
   <string name="Disabled" platform="android">Disabled</string>
   <string name="disappearing_message" platform="android, iOS, Desktop">Disappearing Messages</string>
-  <string name="disappearing_message_hint" platform="android, iOS, Desktop">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**.</string>
+  <string name="disappearing_message_hint" platform="android, iOS, Desktop">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **Learn More**.</string>
   <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
   <string name="disappearing_option_1" platform="android, iOS">30 seconds</string>
   <string name="disappearing_option_2" platform="android, iOS">10 minutes</string>
@@ -476,7 +476,7 @@
   <string name="Enable_web_debug" platform="android">Enable web debug</string>
   <string name="Encrypted" platform="android">Encrypted</string>
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
-  <string name="English" platform="iOS">English</string>
+  <string name="Current_Language" platform="iOS">English</string>
   <string name="Enter_new_phone_number" platform="android">Enter your new phone number</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">Enter your PIN to delete your account</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
@@ -1113,7 +1113,7 @@
   <string name="setting_data_title" platform="android">Media auto-download</string>
   <string name="setting_data_wifi" platform="android">When connected on Wi-Fi</string>
   <string name="setting_delete_account_content_2" platform="android">Local messages and Backups will not be Deleted automatically</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">If you continue, your profile and account details will be delete on %1$s. read our document to **Learn more**.</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS">If you continue, your profile and account details will be delete on %1$s. read our document to **Learn More**.</string>
   <string name="setting_delete_account_send" platform="android, iOS">We will send a 4-digit code to %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.</string>
   <string name="setting_delete_account_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
@@ -1123,7 +1123,7 @@
   <string name="setting_emergency_change_mobile" platform="android">Do you want to change your mobile number now?</string>
   <string name="setting_emergency_content" platform="android, iOS">The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.</string>
   <string name="setting_emergency_create_success" platform="android">Create emergency contact successfully</string>
-  <string name="setting_emergency_desc" platform="android, iOS">When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to **learn more**.</string>
+  <string name="setting_emergency_desc" platform="android, iOS">When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to **Learn More**.</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">Your emergency contact is protected by PIN</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Enter the 4-digit code sent to Mixin ID: %1$s</string>
   <string name="setting_emergency_set" platform="android">Set emergency contact</string>
@@ -1335,12 +1335,12 @@
   <string name="wallet_password_change_tip" platform="android">Please enter the 6 digit PIN to verify.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">The PIN is not the same twice, please try again.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Please set a new 6 digit PIN.</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet, read the document to **learn more**.</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet, read the document to **Learn More**.</string>
   <string name="wallet_password_unsafe" platform="android, iOS">The PIN is too simple and insecure.</string>
   <string name="wallet_pin_modify_biometrics" platform="android">Please enter PIN to Modify Pay with PIN interval</string>
   <string name="wallet_pin_open_biometrics" platform="android">Please enter PIN to open Biometrics</string>
   <string name="wallet_pin_pay_interval_tips" platform="android, iOS">For the security of your assets, you need to verify your PIN for the specified interval.</string>
-  <string name="wallet_pin_tops_desc" platform="android, iOS">Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **Learn More**.</string>
   <string name="wallet_refresh_address_failed" platform="android, iOS">The withdrawal fee has been changed and the refresh fails, please try again.</string>
   <string name="wallet_setting_currency_desc" platform="android">%1$s (%2$s)</string>
   <string name="wallet_transaction_continue_count_down" platform="android, iOS">Continue (%1$d)</string>
