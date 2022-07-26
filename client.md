@@ -52,7 +52,7 @@
 | android, Desktop | Add_sticker_failed | Add sticker failed | 添加贴纸失败 | エラー | Penambahan pelekat gagal | Gagal menambahkan stiker |
 | android, iOS, Desktop | Add_stickers | Add Stickers | 添加贴纸 | スタンプを追加 |     |     |
 | android | Add_success | Add success | 添加成功 | 追加成功 | Menambah kejayaan | Berhasil menambahkan |
-| android, iOS | Add_Tag | Add Tag | 点击添加 Tag（标签） | タグを追加する | Tambah Tag | Tambahkan Tag |
+| android, iOS | Add_Tag | Add Tag | 点击添加 Tag（标签） | タグを追加 | Tambah Tag | Tambahkan Tag |
 | android | Add_to_Home_screen | Add to Home screen | 添加到桌面 | ホームへ追加 | Tambahkan ke Skrin utama | Tambahkan ke layar Beranda |
 | iOS | Add_to_Stickers | Add to Stickers | 添加贴纸 | スタンプを追加 |     |     |
 | android, iOS, Desktop | Added | Added | 已添加 | 追加ずみ |     |     |
@@ -1374,10 +1374,10 @@
 | android | withdrawal_addr_biometric_add | Use Biometric to save address | 使用生物识别来完成添加 | 生体認証を使用してアドレスを保存 | Gunakan Biometrik untuk menyimpan alamat | Gunakan Biometrik untuk menyimpan alamat |
 | android | withdrawal_addr_biometric_delete | Use Biometric to delete address | 使用生物识别来完成删除 | 生体認証を使用してアドレスを削除 | Gunakan Biometrik untuk memadam alamat | Gunakan Biometrik untuk menghapus alamat |
 | android | withdrawal_addr_biometric_modify | Use Biometric to modify address | 使用生物识别来完成修改 | 生体認証を使用してアドレスを修正 | Gunakan Biometrik untuk mengubah alamat | Gunakan Biometrik untuk mengubah alamat |
-| android, iOS | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 | 宛先タグやID番号やメモがない場合は、No Memoに設定することができます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. |
+| android, iOS | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 | 宛先タグやID番号やメモがない場合は、「メモなし」に設定することができます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. |
 | android, iOS | withdrawal_addr_new | New %1$s Address | 新 %1$s 地址 | 新しい%1$sアドレス | Alamat %1$s Baharu | Alamat %1$s Baru |
-| android, iOS | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、メモを追加できます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. |
-| android, iOS | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、タグを追加できます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. |
+| android, iOS | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「メモを追加」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. |
+| android, iOS | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「タグを追加」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. |
 | android | withdrawal_addr_pin_add | Enter PIN to save address | 请输入 PIN 来完成添加 | PINコードを入力してアドレスを保存 | Masukkan PIN untuk menyimpan alamat | Masukkan PIN untuk menyimpan alamat |
 | android | withdrawal_addr_pin_delete | Enter PIN to delete address | 请输入 PIN 来完成删除 | PINコードを入力してアドレスを削除 | Masukkan PIN untuk menghapus alamat | Masukkan PIN untuk menghapus alamat |
 | android | withdrawal_addr_pin_modify | Enter PIN to modify address | 请输入 PIN 来完成修改 | PINコードを入力してアドレスを修正 | Masukkan PIN untuk mengubah alamat | Masukkan PIN untuk mengubah alamat |
