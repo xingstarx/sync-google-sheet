@@ -291,7 +291,7 @@
 "disable_biometric_pay_confirmation" = "Disable %@ Pay?";
 "disable_disappearing_message" = "%@ disabled disappearing message";
 "disappearing_message" = "Disappearing Messages";
-"disappearing_message_hint" = "When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to Learn More.";
+"disappearing_message_hint" = "When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to learn more.";
 "disappearing_option_1" = "30 seconds";
 "disappearing_option_2" = "10 minutes";
 "disappearing_option_3" = "2 hours";
@@ -731,7 +731,7 @@
 "setting_backup_tips" = "Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud.";
 "setting_conversation_group_tip" = "Siapa yang dapat menambahkan saya ke grup.";
 "setting_conversation_tip" = "Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya.";
-"setting_delete_account_pin_content" = "If you continue, your profile and account details will be delete on %@. read our document to Learn More.";
+"setting_delete_account_pin_content" = "If you continue, your profile and account details will be delete on %@. read our document to learn more.";
 "setting_delete_account_send" = "We will send a 4-digit code to %@";
 "setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.";
 "setting_desktop_confirm" = "Konfirmasikan masuk ke Mixin Messenger Desktop";
@@ -886,7 +886,7 @@
 "wallet_password_set_pin_desc" = "Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk mempelajari lebih lanjut.";
 "wallet_password_unsafe" = "PIN-nya terlalu sederhana dan tidak aman.";
 "wallet_pin_pay_interval_tips" = "Untuk keamanan aset, Anda harus memverifikasi PIN Anda untuk interval yang ditentukan.";
-"wallet_pin_tops_desc" = "Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to Learn More.";
+"wallet_pin_tops_desc" = "Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "wallet_refresh_address_failed" = "The withdrawal fee has been changed and the refresh fails, please try again.";
 "wallet_transaction_continue_count_down" = "Lanjutkan (%d)";
 "wallet_transaction_tip" = "Yakin ingin mentransfer %3$@ senilai %2$@ ke %1$@？";
