@@ -238,6 +238,7 @@
 "created_this_group" = "%@ создал эту группу";
 "currency" = "Валюта";
 "currency_code" = "Код";
+"current_language" = "English";
 "current_location" = "Текущее местоположение";
 "current_selected" = "Текущий выбранный";
 "custom_time" = "Пользовательское время";
@@ -317,7 +318,6 @@
 "enable_pay_confirmation" = "Включить %\@ Pay?";
 "enable_touch_pay_hint" = "Подтвердите PIN-код, чтобы включить Touch Pay";
 "end_to_end_encryption" = "Сквозное шифрование";
-"english" = "Английский";
 "enter_pin_to_delete_account" = "Введите свой PIN-код, чтобы удалить свою учетную запись";
 "enter_your_emergency_contact_mixin_id" = "Введите свой контакт для экстренной связи Mixin ID";
 "enter_your_phone_number" = "Введите свой номер телефона";
