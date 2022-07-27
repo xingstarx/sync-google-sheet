@@ -830,7 +830,7 @@
   <string name="No_withdrawals" platform="android">沒有提款</string>
   <string name="Nobody" platform="android, iOS">沒有人</string>
   <string name="Nodes" platform="android">節點</string>
-  <string name="None" platform="android, iOS">无/string>
+  <string name="None" platform="android, iOS">无</string>
   <string name="Not_found" platform="android, iOS, Desktop">未找到</string>
   <string name="Not_logged_in" platform="android">未登錄</string>
   <string name="Not_playing" platform="iOS">未在播放</string>
