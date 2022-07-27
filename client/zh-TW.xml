@@ -1332,7 +1332,7 @@
   <string name="wallet_biometric_screen_lock_desc" platform="android">使用您的設備模式繼續</string>
   <string name="wallet_enable_biometric_pay" platform="iOS">啟用後，%@ 可用於進行快速轉賬。</string>
   <string name="wallet_enable_biometric_pay_prompt" platform="android">啟用後，生物識別技術可用於快速傳輸</string>
-  <string name="wallet_hide_asset_confirmation" platform="iOS">您確定要隱藏  嗎？</string>
+  <string name="wallet_hide_asset_confirmation" platform="iOS">您確定要隱藏 %@ 嗎？</string>
   <string name="wallet_password_change_tip" platform="android">請輸入 6 位 PIN 碼進行驗證。</string>
   <string name="wallet_password_not_equal" platform="android, iOS">兩次密碼不一樣，請重試。</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">請設置一個新的 6 位數 PIN。</string>
