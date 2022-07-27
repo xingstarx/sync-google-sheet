@@ -31,7 +31,7 @@
   <string name="access_your_contacts_list" platform="android, iOS">友達一覧へのアクセス</string>
   <string name="access_your_snapshots" platform="android, iOS">スナップショットへのアクセス</string>
   <string name="Account" platform="android, iOS">アカウント</string>
-  <string name="Acknowledgements" platform="iOS">承認</string>
+  <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
   <string name="Add_address" platform="android, iOS">アドレスに追加</string>
   <string name="Add_bot" platform="android, iOS">ミニアプリを追加</string>
@@ -130,7 +130,7 @@
   <string name="Auto_Backup" platform="iOS, Desktop">チャット履歴の自動バックアップ</string>
   <string name="auto_download_hint" platform="android, iOS">メディアを自動ダウンロードする設定に変更する：音声メッセージは常に自動ダウンロードされます</string>
   <string name="Auto_Lock" platform="android, iOS">自動ロック</string>
-  <string name="Automatic" platform="iOS">自動モード</string>
+  <string name="Automatic" platform="iOS">自動</string>
   <string name="avatar" platform="Desktop">アバター</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">チャットに戻る</string>
@@ -199,7 +199,7 @@
   <string name="Cant_receive_the_code" platform="android, iOS">コードを受け取れませんか？</string>
   <string name="cant_talk_self" platform="android">自分自身に電話はできません</string>
   <string name="cant_transfer_self" platform="android">自分自身に送金はできません</string>
-  <string name="caption_send" platform="iOS">送信</string>
+  <string name="caption_send" platform="iOS">出金</string>
   <string name="Card" platform="android, Desktop">カード</string>
   <string name="card" platform="iOS">ロボ</string>
   <string name="category_chats" platform="iOS">チャット</string>
@@ -362,7 +362,7 @@
   <string name="Current_Selected" platform="iOS">選択</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">日時</string>
   <string name="Daily" platform="iOS">日</string>
-  <string name="Dark" platform="iOS, Desktop">夜間モード</string>
+  <string name="Dark" platform="iOS, Desktop">ライト</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">ストレージ使用率</string>
   <string name="Data_error" platform="android, Desktop">データエラー</string>
   <string name="Data_loading" platform="android, Desktop">ロード中...</string>
@@ -636,7 +636,7 @@
   <string name="Info" platform="iOS">プロフィール</string>
   <string name="Initializing" platform="android, iOS, Desktop">初期化中…</string>
   <string name="Insufficient_transaction_fee" platform="iOS">取引手数料が不足しています</string>
-  <string name="Interface_style" platform="iOS">画面表示</string>
+  <string name="Interface_style" platform="iOS">外観モード</string>
   <string name="Invalid_candidate" platform="iOS">無効な候補</string>
   <string name="Invalid_height" platform="iOS">無効な高さ</string>
   <string name="Invalid_Link" platform="android">リンクが無効です</string>
@@ -682,7 +682,7 @@
   <string name="Later" platform="android, iOS">後で</string>
   <string name="Learn_More" platform="android, iOS, Desktop">こちら</string>
   <string name="less" platform="Desktop">少なく</string>
-  <string name="Light" platform="iOS, Desktop">昼間モード</string>
+  <string name="Light" platform="iOS, Desktop">ダーク</string>
   <string name="Line_busy" platform="android, iOS">お話中です</string>
   <string name="Line_busy_remote" platform="android, iOS">お話中です</string>
   <string name="Link_desktop_failed" platform="android">デスクトップ版とのリンクに失敗しました</string>
@@ -1078,7 +1078,7 @@
   <string name="Send_This_Location" platform="android, iOS">位置情報を送信</string>
   <string name="send_to" platform="android, iOS">%1$sへ送信</string>
   <string name="Send_to_Developer" platform="iOS">開発者へ送信</string>
-  <string name="Send_To_Title" platform="iOS">へ送信</string>
+  <string name="Send_To_Title" platform="iOS">振替先</string>
   <string name="Send_transfer" platform="android">送信</string>
   <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
   <string name="send_video" platform="iOS">ビデオを送信</string>

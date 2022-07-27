@@ -32,7 +32,7 @@
 | android, iOS | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
 | android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS | Account | Account | 账号  | アカウント | Akaun | Akun |
-| iOS | Acknowledgements | Acknowledgements | 许可证 | 承認  |     |     |
+| iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
 | android, iOS | Add_address | Add address | 添加地址 | アドレスに追加 | Tambah alamat | Tambahkan alamat |
 | android, iOS | Add_bot | Add Bot | 添加机器人 | ミニアプリを追加 | Tambah Bot | Tambahkan Bot |
@@ -131,7 +131,7 @@
 | iOS, Desktop | Auto_Backup | Auto Backup | 自动备份 | チャット履歴の自動バックアップ |     |     |
 | android, iOS | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded. | 媒体自动下载设定，所有语音消息将自动下载。 | メディアを自動ダウンロードする設定に変更する：音声メッセージは常に自動ダウンロードされます |     |     |
 | android, iOS | Auto_Lock | Auto-Lock | 自动锁定 | 自動ロック |     |     |
-| iOS | Automatic | Automatic | 自动  | 自動モード |     |     |
+| iOS | Automatic | Automatic | 自动  | 自動  |     |     |
 | Desktop | avatar | Avatar | 头像  | アバター |     |     |
 | android | avatar_transition_name | avatar_transition_name |     | avatar_transition_name | avatar_transition_name | avatar_transition_name |
 | android, iOS | Back_To_Chat | Back To Chat | 返回聊天 | チャットに戻る | Kembali Ke Sembang | Kembali Ke Obrolan |
@@ -200,7 +200,7 @@
 | android, iOS | Cant_receive_the_code | Can't receive the code? | 接收不到验证码？ | コードを受け取れませんか？ | Tidak dapat menerima kod? | Tidak dapat menerima kode? |
 | android | cant_talk_self | You can't talk to yourself | 不能和自己对话 | 自分自身に電話はできません | Anda tidak boleh bercakap dengan diri sendiri | Anda tidak dapat berbicara kepada diri Anda sendiri |
 | android | cant_transfer_self | You can't transfer to yourself | 不能给自己转账 | 自分自身に送金はできません | Anda tidak boleh memindahkan diri anda |     |
-| iOS | caption_send | SEND | 转出  | 送信  |     |     |
+| iOS | caption_send | SEND | 转出  | 出金  |     |     |
 | android, Desktop | Card | Card | 卡片  | カード | Kad | Kartu |
 | iOS | card | card | 卡片  | ロボ  |     |     |
 | iOS | category_chats | Chats | 最近聊天 | チャット |     |     |
@@ -363,7 +363,7 @@
 | iOS | Current_Selected | Current Selected | 当前选择 | 選択  |     |     |
 | android, iOS, Desktop | Custom_Time | Custom Time | 自定义时间 | 日時  |     |     |
 | iOS | Daily | Daily | 每天  | 日   |     |     |
-| iOS, Desktop | Dark | Dark | 深色  | 夜間モード |     |     |
+| iOS, Desktop | Dark | Dark | 深色  | ライト |     |     |
 | android, iOS, Desktop | Data_and_Storage_Usage | Data and Storage Usage | 数据与存储空间 | ストレージ使用率 | Penggunaan Data dan Storan | Penggunaan Data dan Penyimpanan |
 | android, Desktop | Data_error | Data error | 数据错误 | データエラー | Kesalahan data | Kesalahan data |
 | android, Desktop | Data_loading | Data loading, please wait... | 数据加载中，请稍后 | ロード中... |     |     |
@@ -637,7 +637,7 @@
 | iOS | Info | Info | 信息  | プロフィール |     |     |
 | android, iOS, Desktop | Initializing | Initializing… | 初始化… | 初期化中… | Memulakan… | Memulai... |
 | iOS | Insufficient_transaction_fee | Insufficient transaction fee | 手续费不足 | 取引手数料が不足しています |     |     |
-| iOS | Interface_style | Interface Style | 外观  | 画面表示 |     |     |
+| iOS | Interface_style | Interface Style | 外观  | 外観モード |     |     |
 | iOS | Invalid_candidate | Invalid candidate | 无效的 Candidate | 無効な候補 |     |     |
 | iOS | Invalid_height | Invalid height | 高度无效 | 無効な高さ |     |     |
 | android | Invalid_Link | Invalid Link | 无效链接 | リンクが無効です | Pautan Tidak Sah | Tautan Tidak Valid |
@@ -683,7 +683,7 @@
 | android, iOS | Later | Later | 稍后  | 後で  | Kemudian | Nanti |
 | android, iOS, Desktop | Learn_More | Learn More | 了解更多 | こちら | Ketahui Lebih Lanjut | Pelajari Selengkapnya |
 | Desktop | less | less | 更少  | 少なく |     |     |
-| iOS, Desktop | Light | Light | 浅色  | 昼間モード |     |     |
+| iOS, Desktop | Light | Light | 浅色  | ダーク |     |     |
 | android, iOS | Line_busy | Line busy | 忙线未接听 | お話中です | Talian sibuk | Jaringan sibuk |
 | android, iOS | Line_busy_remote | Line busy | 对方忙 | お話中です | Talian sibuk | Jaringan sibuk |
 | android | Link_desktop_failed | Link desktop failed | 登录桌面端失败 | デスクトップ版とのリンクに失敗しました | Pautan desktop gagal | Gagal menautkan desktsktopop |
@@ -1081,7 +1081,7 @@
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
 | iOS | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
-| iOS | Send_To_Title | Send To | 转给  | へ送信 |     |     |
+| iOS | Send_To_Title | Send To | 转给  | 振替先 |     |     |
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
 | iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |
 | iOS | send_video | Send 1 Video | 发送 1 个视频 | ビデオを送信 |     |     |
