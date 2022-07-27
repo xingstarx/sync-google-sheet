@@ -8,7 +8,7 @@
 "access_your_contacts_list" = "友達一覧へのアクセス";
 "access_your_snapshots" = "スナップショットへのアクセス";
 "account" = "アカウント";
-"acknowledgements" = "承認";
+"acknowledgements" = "謝辞";
 "add" = "追加";
 "add_address" = "アドレスに追加";
 "add_bot" = "ミニアプリを追加";
@@ -90,7 +90,7 @@
 "auto_backup" = "チャット履歴の自動バックアップ";
 "auto_download_hint" = "メディアを自動ダウンロードする設定に変更する：音声メッセージは常に自動ダウンロードされます";
 "auto_lock" = "自動ロック";
-"automatic" = "自動モード";
+"automatic" = "自動";
 "back_to_chat" = "チャットに戻る";
 "back_up_now" = "今すぐバックアップ";
 "background_preview" = "背景のプレビュー";
@@ -127,7 +127,7 @@
 "canceled" = "キャンセルしました";
 "canceled_by_caller" = "発信者がキャンセルしました";
 "cant_receive_the_code" = "コードを受け取れませんか？";
-"caption_send" = "送信";
+"caption_send" = "出金";
 "card" = "ロボ";
 "category_chats" = "チャット";
 "chain" = "チェーン";
@@ -243,7 +243,7 @@
 "current_selected" = "選択";
 "custom_time" = "日時";
 "daily" = "日";
-"dark" = "夜間モード";
+"dark" = "ライト";
 "data_and_storage_usage" = "ストレージ使用率";
 "data_parsing_error" = "データ解析エラー";
 "database_access" = "データベースへの接続";
@@ -410,7 +410,7 @@
 "info" = "プロフィール";
 "initializing" = "初期化中...";
 "insufficient_transaction_fee" = "取引手数料が不足しています";
-"interface_style" = "画面表示";
+"interface_style" = "外観モード";
 "invalid_candidate" = "無効な候補";
 "invalid_height" = "無効な高さ";
 "invalid_malformed_address_eos_hint" = "無効なアドレスです。MixinはEOSアドレスへの引き出しに対応していません。";
@@ -440,7 +440,7 @@
 "last_backup_hint" = "最後に行ったバックアップ %@, 合計サイズ %@.";
 "later" = "後で";
 "learn_more" = "こちら";
-"light" = "昼間モード";
+"light" = "ダーク";
 "line_busy" = "お話中です";
 "line_busy_remote" = "お話中です";
 "link_recognition_failure" = "リンクの認識に失敗しました";
@@ -713,7 +713,7 @@
 "send_this_location" = "位置情報を送信";
 "send_to" = "%@へ送信";
 "send_to_developer" = "開発者へ送信";
-"send_to_title" = "へ送信";
+"send_to_title" = "振替先";
 "send_verification_code_frequent" = "しばらく経ってから再度送信してください";
 "send_video" = "ビデオを送信";
 "send_video_count" = "%@のビデオを送信";
