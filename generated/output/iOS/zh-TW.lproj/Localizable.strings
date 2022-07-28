@@ -68,7 +68,7 @@
 "amount" = "數量";
 "app_card_shareable_false" = "該卡已設置為不允許共享";
 "app_update_short_hint" = "請從 App Store 更新 Mixin 以繼續使用該服務。";
-"app_update_tips" = "當前版本 (%@) 不再可用！請單擊下面的\"更新\"以從 App Store 更新到最新版本。";
+"app_update_tips" = "當前版本 (%@) 不再可用！請單擊下面的\\"更新\\"以從 App Store 更新到最新版本。";
 "appearance" = "外觀";
 "apply" = "應用";
 "asset_key" = "資產密鑰";
@@ -178,8 +178,8 @@
 "circles" = "圈子";
 "clear" = "清除";
 "clear_chat" = "清除聊天記錄";
-"clear_contact_chat_confirmation" = "清除與\"%@\"的聊天記錄？";
-"clear_group_chat_confirmation" = "清除\"%@\"群聊？";
+"clear_contact_chat_confirmation" = "清除與\\"%@\\"的聊天記錄？";
+"clear_group_chat_confirmation" = "清除\\"%@\\"群聊？";
 "clear_unused_cache" = "清除緩存";
 "cleared" = "已清除";
 "clock_skew_hint" = "請修正後再次繼續使用。設置 > 通用 > 日期和時間 > 打開自動設置";
@@ -238,7 +238,7 @@
 "created_this_group" = "%@創建了此群組";
 "currency" = "貨幣";
 "currency_code" = "代碼";
-"current_language" = "繁體";
+"current_language" = "English";
 "current_location" = "當前位置";
 "current_selected" = "當前選擇";
 "custom_time" = "自定義時間";
@@ -260,11 +260,11 @@
 "delete_address" = "刪除地址";
 "delete_chat" = "刪除聊天";
 "delete_circle" = "刪除圈子";
-"delete_contact_chat_confirmation" = "刪除與\"%@\"的聊天？";
+"delete_contact_chat_confirmation" = "刪除與\\"%@\\"的聊天？";
 "delete_emergency_contact" = "刪除緊急聯繫人";
 "delete_for_everyone" = "撤回";
 "delete_for_me" = "刪除";
-"delete_group_chat_confirmation" = "刪除\"%@\"群聊？";
+"delete_group_chat_confirmation" = "刪除\\"%@\\"群聊？";
 "delete_my_account" = "刪除我的賬戶";
 "delete_synced_contact" = "刪除同步的聯繫人";
 "delete_withdraw_address" = "刪除 %@ 地址";
@@ -354,7 +354,7 @@
 "error_used_phone" = "錯誤 20122：此電話號碼已與另一個帳戶相關聯。";
 "error_withdrawal_memo_format_incorrect" = "錯誤 20131：提款備忘錄格式不正確。";
 "everybody" = "大家";
-"exit_confirmation" = "退出\"%@\"？";
+"exit_confirmation" = "退出\\"%@\\"？";
 "exit_group" = "退出群組";
 "exit_group_and_report_inviter" = "退出群組並報告邀請者";
 "expired" = "已到期";
@@ -454,7 +454,7 @@
 "location" = "地點";
 "location_accuracy_to" = "精確到 %@";
 "location_distance" = "距離：%@";
-"location_empty" = "\"%@\" 沒有結果\n嘗試新搜索";
+"location_empty" = "\\"%@\\" 沒有結果\n嘗試新搜索";
 "location_undetermined" = "您的位置尚未確定。請稍後再試";
 "lock_with_biometric" = "%@鎖定";
 "log_in" = "登錄";
