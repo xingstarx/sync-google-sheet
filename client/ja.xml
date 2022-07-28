@@ -674,9 +674,9 @@
   <string name="landing_validation_title" platform="android, iOS, Desktop">%1$sに送信された4桁のコードを入力してください</string>
   <string name="landing_verification_tip_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360024114492</string>
   <string name="Language" platform="android, iOS">言語</string>
-  <string name="Large_Amount_Confirmation" platform="android, iOS">大きな金額の送金です、よろしいですか？</string>
-  <string name="Large_Amount_Confirmation_with_symbol" platform="android, iOS">大きな金額の送金です、よろしいですか？(%1$s)</string>
-  <string name="Last_active_time" platform="iOS">最後のアクティビティー %@</string>
+  <string name="Large_Amount_Confirmation" platform="android, iOS">送金時に通知を行う金額の設定</string>
+  <string name="Large_Amount_Confirmation_with_symbol" platform="android, iOS">送金時に通知を行う金額の設定（%1$s）</string>
+  <string name="Last_active_time" platform="iOS">直近のアクティビティ%@</string>
   <string name="Last_Backup" platform="android">最後のバックアップ</string>
   <string name="last_backup_hint" platform="iOS">最後に行ったバックアップ %@, 合計サイズ %@.</string>
   <string name="Later" platform="android, iOS">後で</string>
@@ -711,7 +711,7 @@
   <string name="location_kilometre" platform="android">km</string>
   <string name="location_metre" platform="android">m</string>
   <string name="location_undetermined" platform="iOS">位置情報が特定できません。しばらくしてからやり直してください</string>
-  <string name="lock_with_biometric" platform="iOS">%@生体認証</string>
+  <string name="lock_with_biometric" platform="iOS">%@を有効にする</string>
   <string name="Log_in" platform="android, iOS, Desktop">ログイン</string>
   <string name="log_out_from_desktop" platform="android, iOS">デスクトップ版からログアウト</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">そのままログインし、アカウント削除をキャンセルします</string>

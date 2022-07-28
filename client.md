@@ -675,9 +675,9 @@
 | android, iOS, Desktop | landing_validation_title | Enter the 4-digit code sent to you at %1$s | 请输入发送至以下号码的 4 位验证码：%1$s | %1$sに送信された4桁のコードを入力してください | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s |
 | android | landing_verification_tip_url | https://mixinmessenger.zendesk.com/hc/articles/360024114492 |     | https://mixinmessenger.zendesk.com/hc/articles/360024114492 | https://mixinmessenger.zendesk.com/hc/articles/360024114492 | https://mixinmessenger.zendesk.com/hc/articles/360024114492 |
 | android, iOS | Language | Language | 语言  | 言語  | Bahasa | Bahasa |
-| android, iOS | Large_Amount_Confirmation | Large Amount Confirmation | 大额转账确认 | 大きな金額の送金です、よろしいですか？ | Pengesahan Jumlah Besar | Konfirmasi Jumlah Besar |
-| android, iOS | Large_Amount_Confirmation_with_symbol | Large Amount Confirmation(%1$s) | 大额转账确认（%1$s） | 大きな金額の送金です、よろしいですか？(%1$s) | Pengesahan Jumlah Besar(%1$s) | Konfirmasi Jumlah Besar(%1$s) |
-| iOS | Last_active_time | Last active %@ | 最后登入于 %@ | 最後のアクティビティー %@ |     |     |
+| android, iOS | Large_Amount_Confirmation | Large Amount Confirmation | 大额转账确认 | 送金時に通知を行う金額の設定 | Pengesahan Jumlah Besar | Konfirmasi Jumlah Besar |
+| android, iOS | Large_Amount_Confirmation_with_symbol | Large Amount Confirmation(%1$s) | 大额转账确认（%1$s） | 送金時に通知を行う金額の設定（%1$s） | Pengesahan Jumlah Besar(%1$s) | Konfirmasi Jumlah Besar(%1$s) |
+| iOS | Last_active_time | Last active %@ | 最后登入于 %@ | 直近のアクティビティ%@ |     |     |
 | android | Last_Backup | Last Backup | 上次备份 | 最後のバックアップ | Sandaran Terakhir | Pencadangan Terakhir |
 | iOS | last_backup_hint | Last backup on %@, total size %@. | 上次备份是 %@，占用空间 %@。 | 最後に行ったバックアップ %@, 合計サイズ %@. |     |     |
 | android, iOS | Later | Later | 稍后  | 後で  | Kemudian | Nanti |
@@ -712,7 +712,7 @@
 | android | location_kilometre | km  | 千米  | km  | km  | km  |
 | android | location_metre | m   | 米   | m   | m   | m   |
 | iOS | location_undetermined | Your location has yet to be determined. Please try again later | 目前无法确定位置，请稍候重试 | 位置情報が特定できません。しばらくしてからやり直してください |     |     |
-| iOS | lock_with_biometric | Lock with %@ | %@锁定 | %@生体認証 |     |     |
+| iOS | lock_with_biometric | Lock with %@ | %@锁定 | %@を有効にする |     |     |
 | android, iOS, Desktop | Log_in | Log in | 登录  | ログイン | Log masuk | Masuk |
 | android, iOS | log_out_from_desktop | Log out from desktop | 从桌面版退出 | デスクトップ版からログアウト |     |     |
 | android, iOS, Desktop | login_and_abort_account_deletion | Continue to log in and abort account deletion | 继续登录并放弃删除账户 | そのままログインし、アカウント削除をキャンセルします |     |     |
