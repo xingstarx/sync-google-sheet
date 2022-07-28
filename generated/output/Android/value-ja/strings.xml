@@ -502,8 +502,8 @@
 	<string name="landing_validation_title">%1$sに送信された4桁のコードを入力してください</string>
 	<string name="landing_verification_tip_url">https://mixinmessenger.zendesk.com/hc/articles/360024114492</string>
 	<string name="Language">言語</string>
-	<string name="Large_Amount_Confirmation">大きな金額の送金です、よろしいですか？</string>
-	<string name="Large_Amount_Confirmation_with_symbol">大きな金額の送金です、よろしいですか？(%1$s)</string>
+	<string name="Large_Amount_Confirmation">送金時に通知を行う金額の設定</string>
+	<string name="Large_Amount_Confirmation_with_symbol">送金時に通知を行う金額の設定（%1$s）</string>
 	<string name="Last_Backup">最後のバックアップ</string>
 	<string name="Later">後で</string>
 	<string name="Learn_More">こちら</string>
