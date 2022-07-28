@@ -43,7 +43,7 @@
   <string name="Add_emergency_contact" platform="android, iOS">添加緊急聯繫人</string>
   <string name="add_file" platform="Desktop">添加文件</string>
   <string name="Add_group_description" platform="android, Desktop">添加群組描述</string>
-  <string name="Add_memo" platform="android, iOS">添加備忘錄</string>
+  <string name="Add_memo" platform="android, iOS">添加備註</string>
   <string name="Add_participants" platform="android, iOS, Desktop">添加參與者</string>
   <string name="Add_people_hint" platform="android">通過 Mixin ID 或電話號碼加人</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin ID 或電話號碼</string>
@@ -106,7 +106,7 @@
   <string name="app_card_shareable_false" platform="android, iOS">該卡已設置為不允許共享</string>
   <string name="app_name" platform="android">Mixin</string>
   <string name="app_update_short_hint" platform="iOS">請從 App Store 更新 Mixin 以繼續使用該服務。</string>
-  <string name="app_update_tips" platform="iOS">當前版本 (%@) 不再可用！請單擊下面的\"更新\"以從 App Store 更新到最新版本。</string>
+  <string name="app_update_tips" platform="iOS">當前版本 (%@) 不再可用！請單擊下面的"更新"以從 App Store 更新到最新版本。</string>
   <string name="App_version" platform="android">應用版本</string>
   <string name="Appearance" platform="android, iOS, Desktop">外觀</string>
   <string name="Apply" platform="android, iOS">應用</string>
@@ -199,7 +199,7 @@
   <string name="Cant_receive_the_code" platform="android, iOS">收不到驗證碼？</string>
   <string name="cant_talk_self" platform="android">你不能自言自語</string>
   <string name="cant_transfer_self" platform="android">不能轉給自己</string>
-  <string name="caption_send" platform="iOS">發送</string>
+  <string name="caption_send" platform="iOS">轉出</string>
   <string name="Card" platform="android, Desktop">卡片</string>
   <string name="card" platform="iOS">卡片</string>
   <string name="category_chats" platform="iOS">聊天</string>
@@ -276,8 +276,8 @@
   <string name="Circles" platform="android, iOS, Desktop">圈子</string>
   <string name="Clear" platform="android, iOS, Desktop">清除</string>
   <string name="Clear_chat" platform="android, iOS, Desktop">清除聊天記錄</string>
-  <string name="clear_contact_chat_confirmation" platform="iOS">清除與\"%@\"的聊天記錄？</string>
-  <string name="clear_group_chat_confirmation" platform="iOS">清除\"%@\"群聊？</string>
+  <string name="clear_contact_chat_confirmation" platform="iOS">清除與"%@"的聊天記錄？</string>
+  <string name="clear_group_chat_confirmation" platform="iOS">清除"%@"群聊？</string>
   <string name="Clear_unused_cache" platform="iOS">清除緩存</string>
   <string name="Cleared" platform="iOS">已清除</string>
   <string name="Clearing" platform="android">清算…</string>
@@ -389,19 +389,19 @@
   <string name="Delete_Chat" platform="iOS, Desktop">刪除聊天</string>
   <string name="delete_chat_description" platform="Desktop">刪除聊天只會從該設備中刪除消息。它們不會從其他設備中刪除。</string>
   <string name="Delete_Circle" platform="iOS, Desktop">刪除圈子</string>
-  <string name="delete_contact_chat_confirmation" platform="iOS">刪除與\"%@\"的聊天？</string>
+  <string name="delete_contact_chat_confirmation" platform="iOS">刪除與"%@"的聊天？</string>
   <string name="Delete_emergency_contact" platform="android, iOS">刪除緊急聯繫人</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">撤回</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">刪除</string>
   <string name="Delete_Group" platform="android, Desktop">刪除組</string>
-  <string name="delete_group_chat_confirmation" platform="iOS">刪除\"%@\"群聊？</string>
+  <string name="delete_group_chat_confirmation" platform="iOS">刪除"%@"群聊？</string>
   <string name="Delete_my_account" platform="android, iOS">刪除我的賬戶</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">刪除同步的聯繫人</string>
   <string name="delete_the_circle" platform="Desktop">要刪除 %1$s 個圈子嗎？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">刪除 %1$s 地址</string>
   <string name="Deleted" platform="iOS">已刪除</string>
   <string name="Deposit" platform="android, iOS">充值</string>
-  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值請嘗試少量。將您的 %1$s 成功存入 Mixin Messenger 需要備忘錄和地址。</string>
+  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值請嘗試少量。將您的 %1$s 成功存入 Mixin Messenger 需要備註和地址。</string>
   <string name="Deposit_at_least" platform="iOS">首次充值至少 %@ %@。</string>
   <string name="deposit_attention" platform="android, iOS">首次充值請嘗試少量。</string>
   <string name="deposit_confirmation" platform="android, iOS">充值將到達 %1$d 區塊確認</string>
@@ -476,7 +476,7 @@
   <string name="Enable_web_debug" platform="android">啟用網頁調試</string>
   <string name="Encrypted" platform="android">加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
-  <string name="current_language" platform="iOS">繁體</string>
+  <string name="Current_Language" platform="iOS">繁體</string>
   <string name="Enter_new_phone_number" platform="android">輸入您的新電話號碼</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">輸入您的 PIN 以刪除您的帳戶</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">輸入您的緊急聯繫人 Mixin ID</string>
@@ -535,10 +535,10 @@
   <string name="error_unknown_with_message" platform="android, Desktop">錯誤：%1$s</string>
   <string name="error_used_phone" platform="android, iOS, Desktop">錯誤 20122：此電話號碼已與另一個帳戶相關聯。</string>
   <string name="error_user_invalid_format" platform="android, Desktop">無效的用戶 ID</string>
-  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">錯誤 20131：提款備忘錄格式不正確。</string>
+  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">錯誤 20131：提款備註格式不正確。</string>
   <string name="Everybody" platform="android, iOS">大家</string>
   <string name="Exit" platform="android, Desktop">退出</string>
-  <string name="Exit_confirmation" platform="iOS">退出\"%@\"？</string>
+  <string name="Exit_confirmation" platform="iOS">退出"%@"？</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">退出群組</string>
   <string name="Exit_group_and_report_inviter" platform="iOS">退出群組並報告邀請者</string>
   <string name="exit_without_save" platform="android">不保存就退出？</string>
@@ -705,7 +705,7 @@
   <string name="location_accurate.count" platform="android">精確到 %1$d 米</string>
   <string name="location_distance" platform="iOS">距離：%@</string>
   <string name="location_distance_away" platform="android">%1$s %2$s 遠</string>
-  <string name="location_empty" platform="android, iOS">\"%1$s\" 沒有結果\n嘗試新搜索</string>
+  <string name="location_empty" platform="android, iOS">"%1$s" 沒有結果\n嘗試新搜索</string>
   <string name="location_enable_title" platform="android">啟用 GPS 以訪問位置</string>
   <string name="location_google_error" platform="android">谷歌服務未安裝</string>
   <string name="location_kilometre" platform="android">公里</string>
@@ -731,7 +731,7 @@
   <string name="Manufacturer" platform="android">製造商</string>
   <string name="Mark_as_read" platform="android">標記為已讀</string>
   <string name="Media" platform="android, iOS, Desktop">媒體</string>
-  <string name="Memo" platform="android, iOS, Desktop">備忘錄</string>
+  <string name="Memo" platform="android, iOS, Desktop">備註</string>
   <string name="message" platform="android">信息</string>
   <string name="message_e2ee" platform="android, iOS, Desktop">此對話的消息是端到端加密的，點按以獲取更多信息。</string>
   <string name="message_encryption_hint" platform="iOS">用戶之間的消息受到端到端加密的保護</string>
@@ -817,7 +817,7 @@
   <string name="No_logs" platform="android, iOS">沒有日誌</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">沒有媒體</string>
   <string name="No_media_yet" platform="android">暫無媒體</string>
-  <string name="No_Memo" platform="android, iOS">沒有備忘錄</string>
+  <string name="No_Memo" platform="android, iOS">沒有備註</string>
   <string name="No_network_connection" platform="android, iOS, Desktop">無網絡連接</string>
   <string name="NO_POSTS" platform="android, iOS, Desktop">沒有帖子</string>
   <string name="No_raws" platform="android">沒有原料</string>
@@ -1242,7 +1242,7 @@
   <string name="Transfer_Amount" platform="android">轉賬金額</string>
   <string name="Transfer_Amount_count_down" platform="android, iOS">轉賬金額（%1$s）</string>
   <string name="transfer_error_pin_incorrect_with_times" platform="iOS">錯誤 20119：PIN 不正確。你還有 %@ 的機會。請等待 24 小時後再試。</string>
-  <string name="transfer_memo" platform="android, iOS">備忘錄（可選）</string>
+  <string name="transfer_memo" platform="android, iOS">備註（可選）</string>
   <string name="Transfer_Notifications" platform="android, iOS">轉賬通知</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">用 Mixin 掃描二維碼给我轉賬 </string>
   <string name="transfer_to" platform="android, iOS">轉賬到 %1$s</string>
@@ -1384,12 +1384,12 @@
   <string name="withdrawal_addr_tag" platform="android, iOS">目的地標籤或 ID 號或註釋。如果沒有，您可以將其設置為無標籤。</string>
   <string name="withdrawal_address_tips" platform="android, iOS">首次提現到新地址，請嘗試小額提款！如果您將資產提取到錯誤的地址，那將無法恢復！</string>
   <string name="withdrawal_label" platform="android, iOS">標籤（例如交易所、錢包等）</string>
-  <string name="withdrawal_memo" platform="android, iOS">備忘錄</string>
+  <string name="withdrawal_memo" platform="android, iOS">備註</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">最低提款金額為 %1$s %2$s</string>
   <string name="withdrawal_minimum_reserve" platform="android, iOS">最低儲備：</string>
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">最低提款：</string>
   <string name="withdrawal_network_fee" platform="android, iOS">網絡費用：</string>
-  <string name="withdrawal_no_memo" platform="android, iOS">沒有備忘錄</string>
+  <string name="withdrawal_no_memo" platform="android, iOS">無備註</string>
   <string name="withdrawal_to" platform="android, iOS">提現到 %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">使用生物識別取款</string>
   <string name="withdrawal_with_PIN" platform="android">使用 PIN 提款</string>
