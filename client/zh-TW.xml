@@ -671,7 +671,7 @@
   <string name="landing_invitation_dialog_content" platform="android, Desktop">我們將向您的電話號碼 %1$s 發送一個 4 位代碼，請在下一個屏幕中輸入該代碼。</string>
   <string name="landing_privacy_policy_url" platform="android">https://mixin.one/pages/privacy</string>
   <string name="landing_terms_url" platform="android">https://mixin.one/pages/terms</string>
-  <string name="landing_validation_title" platform="android, iOS, Desktop">請輸入發送至以下號碼的 4 位驗證碼：%@</string>
+  <string name="landing_validation_title" platform="android, iOS, Desktop">請輸入發送至以下號碼的 4 位驗證碼：%1$s</string>
   <string name="landing_verification_tip_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360024114492</string>
   <string name="Language" platform="android, iOS">語言</string>
   <string name="Large_Amount_Confirmation" platform="android, iOS">大額轉賬確認</string>
