@@ -16,9 +16,9 @@
 	<string name="Access_denied">拒絕訪問</string>
 	<string name="access_your_bots_list">訪問您的機器人列表</string>
 	<string name="access_your_circle_list">訪問您的圈子列表</string>
-	<string name="access_your_collectibles">訪問您的收藏品</string>
+	<string name="access_your_collectibles">訪問您的 NFT 列表</string>
 	<string name="access_your_contacts_list">訪問您的聯繫人列表</string>
-	<string name="access_your_snapshots">訪問您的快照</string>
+	<string name="access_your_snapshots">訪問您的轉賬記錄</string>
 	<string name="Account">帳戶</string>
 	<string name="Add">添加</string>
 	<string name="Add_address">添加地址</string>
@@ -55,7 +55,7 @@
 	<string name="alert_key_contact_post_message">給你發了一個帖子</string>
 	<string name="alert_key_contact_sticker_message">給你發了貼紙</string>
 	<string name="alert_key_contact_text_message">給你發了一條消息</string>
-	<string name="alert_key_contact_transcript_message">給你發了一份成績單</string>
+	<string name="alert_key_contact_transcript_message">給你發了一份聊天記錄</string>
 	<string name="alert_key_contact_transfer_message">向您發了轉賬</string>
 	<string name="alert_key_contact_video_message">給你發了一個視頻</string>
 	<string name="alert_key_group_audio_invite_message">%1$s邀請您加入語音通話</string>
@@ -68,7 +68,7 @@
 	<string name="alert_key_group_post_message">%1$s發了一條信息</string>
 	<string name="alert_key_group_sticker_message">%1$s發了一張貼紙</string>
 	<string name="alert_key_group_text_message">%1$s發了一條消息</string>
-	<string name="alert_key_group_transcript_message">%1$s發送了成績單</string>
+	<string name="alert_key_group_transcript_message">%1$s發送了聊天記錄</string>
 	<string name="alert_key_group_video_message">%1$s發送了一個視頻</string>
 	<string name="All">全部</string>
 	<string name="All_Conversations">所有對話</string>
@@ -85,7 +85,7 @@
 	<string name="Asset_Key">資產密鑰</string>
 	<string name="Asset_not_found">未找到資產。</string>
 	<string name="ASSETS">資產</string>
-	<string name="Audio">聲音的</string>
+	<string name="Audio">語音</string>
 	<string name="Audios">音頻</string>
 	<string name="auth_assets_more">%1$s 及更多</string>
 	<string name="auth_messages_represent_description">允許機器人發送代表您的消息</string>
@@ -170,16 +170,16 @@
 		<item quantity="other">刪除 %1$d 條消息？</item>
 	</plurals>
 	<string name="chat_delete_url">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
-	<string name="chat_group_add">%1$s添加了 %2$s</string>
+	<string name="chat_group_add">%1$s添加了%2$s</string>
 	<string name="chat_group_call_cancel">%1$s已取消群組通話</string>
-	<string name="chat_group_call_decline">%1$s 拒絕了群組通話</string>
+	<string name="chat_group_call_decline">%1$s拒絕了群組通話</string>
 	<string name="chat_group_call_end">群組通話已結束</string>
 	<string name="chat_group_call_invite">%1$s邀請你加入群組通話</string>
 	<string name="chat_group_call_mute">您的麥克風將開始關閉</string>
 	<string name="chat_group_call_remote_peer_closed">對等連接已關閉，請重試</string>
 	<string name="chat_group_exit">%1$s離開了群組</string>
 	<string name="chat_group_join">%1$s通過邀請鏈接加入了群組</string>
-	<string name="chat_group_remove">%1$s 移除了 %2$s</string>
+	<string name="chat_group_remove">%1$s移除了%2$s</string>
 	<string name="chat_import_content">要將消息導入 %1$s 嗎？</string>
 	<string name="chat_import_fail_content">消息導入失敗！您想將其作為文件發送嗎？</string>
 	<string name="chat_list_empty_info">您可以與手機上安裝了 Mixin 的聯繫人聊天。</string>
@@ -190,7 +190,7 @@
 	<string name="Chat_pinned">聊天已置頂</string>
 	<string name="chat_recall_delete_alert">您選擇的消息將在此聊天中為所有使用最新版 Mixin 的人刪除。</string>
 	<string name="Chat_unpinned">取消固定聊天</string>
-	<string name="chat_waiting">正在等待 %1$s 上線並建立加密會話。%2$s。</string>
+	<string name="chat_waiting">正在等待%1$s上線並建立加密會話。%2$s。</string>
 	<string name="CHATS">聊天室</string>
 	<string name="check_trace_failed">檢查跟踪信息失敗，請重試</string>
 	<string name="Checking_link">檢查鏈接</string>
@@ -202,19 +202,19 @@
 	<string name="circle_info">為不同的聊天群組創建圈子並在它們之間快速切換</string>
 	<string name="circle_no_conversation_hint">您可以將聯繫人或群組添加到當前圈子</string>
 	<plurals name="circle_subtitle" tools:ignore="UnusedQuantity">
-		<item quantity="one">%1$d 次對話</item>
-		<item quantity="other">%1$d 次對話</item>
+		<item quantity="one">%1$d 對話</item>
+		<item quantity="other">%1$d 對話</item>
 	</plurals>
 	<string name="circle_title">%1$s的圈子</string>
 	<string name="Circles">圈子</string>
 	<string name="Clear">清除</string>
-	<string name="Clear_chat">清除聊天</string>
+	<string name="Clear_chat">清除聊天記錄</string>
 	<string name="Clearing">清算…</string>
 	<string name="Click_to_lock">點擊鎖定</string>
 	<string name="Click_to_retry">點擊重試</string>
 	<string name="Click_to_unlock">點擊解鎖</string>
 	<string name="Close">關</string>
-	<string name="Combine_and_forward">合併和轉發</string>
+	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Confirm">確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認密碼</string>
@@ -222,8 +222,8 @@
 	<string name="Connection_unstable">連接不穩定</string>
 	<string name="Contact">聯繫人</string>
 	<plurals name="contact_count" tools:ignore="UnusedQuantity">
-		<item quantity="one">%1$d 位聯繫人</item>
-		<item quantity="other">%1$d 位聯繫人</item>
+		<item quantity="one">%1$d位聯繫人</item>
+		<item quantity="other">%1$d位聯繫人</item>
 	</plurals>
 	<string name="Contact_Developer">聯繫開發者</string>
 	<string name="contact_empty_tip">Mixin 需要訪問您的聯繫人以幫助您與 Mixin 上的其他人聯繫。</string>
@@ -232,8 +232,8 @@
 	<string name="contact_mobile">手機：%1$s</string>
 	<string name="contact_mute_title">靜音通知…</string>
 	<string name="contact_new_group_chat_desc">與最多朋友創建群聊</string>
-	<string name="contact_share_bots_title">%1$s 的共享聊天機器人</string>
-	<string name="CONTACTS">聯繫方式</string>
+	<string name="contact_share_bots_title">%1$s的共享聊天機器人</string>
+	<string name="CONTACTS">聯繫人</string>
 	<string name="content_audio">[語音]</string>
 	<string name="content_contact">[聯繫人]</string>
 	<string name="content_file">[文件]</string>
@@ -258,7 +258,7 @@
 	<string name="Copy">複製</string>
 	<string name="Copy_invite">複製邀請鏈接</string>
 	<string name="Copy_link">複製鏈接</string>
-	<string name="Create">創造</string>
+	<string name="Create">創建</string>
 	<string name="created_this_group">%1$s創建了此群組</string>
 	<string name="Creating">創建…</string>
 	<string name="Crop">莊稼</string>
@@ -273,7 +273,7 @@
 	<string name="db_debug_warning">注意：如果執行了有害的 SQL 語句，結果是不可逆的！</string>
 	<string name="Debug_database">調試數據庫</string>
 	<string name="Decline">衰退</string>
-	<string name="Declined">拒絕</string>
+	<string name="Declined">已拒絕</string>
 	<string name="deep_clean">深層清潔</string>
 	<string name="deep_cleaning">打掃乾淨…</string>
 	<string name="deep_cleaning_deleted">正在清理，%1$s已刪除</string>
@@ -312,11 +312,11 @@
 	<string name="Device_unsupported">設備不受支持</string>
 	<string name="Diagnosis_Complete">診斷完成</string>
 	<string name="Disable_db_debug">禁用數據庫調試</string>
-	<string name="disable_disappearing_message">%1$s 條停用限時消息</string>
+	<string name="disable_disappearing_message">%1$s停用限時消息</string>
 	<string name="Disable_web_debug">禁用網頁調試</string>
 	<string name="Disabled">已禁用</string>
 	<string name="disappearing_message">限時消息</string>
-	<string name="disappearing_message_hint">啟用後，在此聊天中發送和接收的新消息將在看到後消失，請閱讀文檔以 **瞭解更多**。</string>
+	<string name="disappearing_message_hint">啟用後，在此聊天中發送和接收的新消息將在看到後消失，請閱讀文檔以**瞭解更多**。</string>
 	<string name="disappearing_message_url">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
 	<string name="disappearing_option_1">30 秒</string>
 	<string name="disappearing_option_2">10 分鐘</string>
@@ -344,7 +344,7 @@
 	<string name="Enable_after_1_minute">1 分鐘後啟用</string>
 	<string name="Enable_after_30_minutes">30 分鐘後啟用</string>
 	<string name="Enable_db_debug">啟用數據庫調試</string>
-	<string name="Enable_Emergency_Contact">啟用緊急聯絡</string>
+	<string name="Enable_Emergency_Contact">啟用緊急聯繫人</string>
 	<string name="Enable_immediately">立即啟用</string>
 	<string name="Enable_web_debug">啟用網頁調試</string>
 	<string name="Encrypted">加密</string>
@@ -396,8 +396,8 @@
 	<string name="error_too_small_transfer_amount">ERROR 20120：轉賬金額太小</string>
 	<string name="error_too_small_withdraw_amount">ERROR 20127：提款金額太小</string>
 	<string name="error_transcript_forward">下載後請轉發所有附件</string>
-	<string name="error_transfer_is_already_paid">錯誤 20125：轉賬已支付。</string>
-	<string name="error_unable_to_open_link">找不到可以打開此鏈接的應用程序。 %1$s</string>
+	<string name="error_transfer_is_already_paid">錯誤 20125：轉賬已被支付。</string>
+	<string name="error_unable_to_open_link">找不到可以打開此鏈接的應用程序。%1$s</string>
 	<string name="error_unable_to_open_media">找不到能夠打開此媒體的應用。</string>
 	<string name="error_unknown_with_code">錯誤：%1$d</string>
 	<string name="error_unknown_with_message">錯誤：%1$s</string>
@@ -406,7 +406,7 @@
 	<string name="error_withdrawal_memo_format_incorrect">錯誤 20131：提款備忘錄格式不正確。</string>
 	<string name="Everybody">大家</string>
 	<string name="Exit">退出</string>
-	<string name="Exit_Group">退出組</string>
+	<string name="Exit_Group">退出群組</string>
 	<string name="exit_without_save">不保存就退出？</string>
 	<string name="Expired">已到期</string>
 	<string name="Export_Chat">導出聊天</string>
@@ -439,7 +439,7 @@
 	<string name="fourth_pin_confirm_hint">是的，還有第四次 PIN 確認，我保證這是確保您記住 PIN 的最後一次確認。PIN 丟失後將無法恢復。</string>
 	<string name="Friday">星期五</string>
 	<string name="From">從</string>
-	<string name="Get_a_new_wallet">獲得一個新錢包</string>
+	<string name="Get_a_new_wallet">創建錢包</string>
 	<string name="GIF">動圖</string>
 	<string name="Go">去</string>
 	<string name="Go_settings">前往設置</string>
@@ -490,24 +490,24 @@
 	<string name="is_network_available">isNetworkAvailable</string>
 	<string name="italic">斜體</string>
 	<string name="Join_group">加入群組</string>
-	<string name="Joined_in">已加入 %1$s</string>
+	<string name="Joined_in">%1$s 加入</string>
 	<string name="Label">標籤</string>
 	<string name="Landing_back">著陸</string>
-	<string name="landing_delete_content">您的帳號將於 %1$s被刪除，如果您繼續登錄，刪除帳號的請求將被取消。</string>
+	<string name="landing_delete_content">您的帳號將於 %1$s 被刪除，如果您繼續登錄，刪除帳號的請求將被取消。</string>
 	<string name="landing_enter_mobile_tip">我們絕不會公開顯示您的手機號碼。</string>
 	<string name="landing_introduction">點按同意並繼續以接受 %1$s 和 %2$s</string>
 	<string name="landing_invitation_dialog_content">我們將向您的電話號碼 %1$s 發送一個 4 位代碼，請在下一個屏幕中輸入該代碼。</string>
 	<string name="landing_privacy_policy_url">https://mixin.one/pages/privacy</string>
 	<string name="landing_terms_url">https://mixin.one/pages/terms</string>
-	<string name="landing_validation_title">輸入在 %1$s 發送給您的 4 位數代碼</string>
+	<string name="landing_validation_title">請輸入發送至以下號碼的 4 位驗證碼：%1$s</string>
 	<string name="landing_verification_tip_url">https://mixinmessenger.zendesk.com/hc/articles/360024114492</string>
 	<string name="Language">語言</string>
-	<string name="Large_Amount_Confirmation">大額確認</string>
-	<string name="Large_Amount_Confirmation_with_symbol">大額確認（%1$s）</string>
+	<string name="Large_Amount_Confirmation">大額轉賬確認</string>
+	<string name="Large_Amount_Confirmation_with_symbol">大額轉賬確認（%1$s）</string>
 	<string name="Last_Backup">上次備份</string>
 	<string name="Later">之後</string>
 	<string name="Learn_More">瞭解更多</string>
-	<string name="Line_busy">線路忙</string>
+	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">線路忙</string>
 	<string name="Link_desktop_failed">鏈接桌面失敗</string>
 	<string name="Link_desktop_success">鏈接桌面成功</string>
@@ -523,7 +523,7 @@
 		<item quantity="other">精確到 %1$d 米</item>
 	</plurals>
 	<string name="location_distance_away">%1$s %2$s 遠</string>
-	<string name="location_empty">%1$s沒有結果 嘗試新搜索</string>
+	<string name="location_empty">\\"%1$s\\" 沒有結果\n嘗試新搜索</string>
 	<string name="location_enable_title">啟用 GPS 以訪問位置</string>
 	<string name="location_google_error">谷歌服務未安裝</string>
 	<string name="location_kilometre">公里</string>
@@ -561,24 +561,24 @@
 	</plurals>
 	<string name="Mixin">Mixin</string>
 	<string name="Mixin_ID">Mixin ID</string>
-	<string name="Mixin_Locked">Mixin 鎖定</string>
+	<string name="Mixin_Locked">Mixin 已鎖定</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger 桌面版</string>
 	<string name="Model">模型</string>
 	<string name="Monday">週一</string>
-	<string name="More">更多的</string>
-	<string name="Multisig_by_PIN">通過 PIN 進行多重簽名</string>
+	<string name="More">更多</string>
+	<string name="Multisig_by_PIN">通過 PIN 簽名</string>
 	<string name="multisig_receivers_threshold">接收者 (%1$s)</string>
 	<string name="multisig_state_signed">此多重簽名鏈接已由您自己簽名，不可重複操作。</string>
 	<string name="multisig_state_unlocked">此多重簽名鏈接已被他人解鎖，不可重複操作。</string>
 	<string name="Multisig_Transaction">多重簽名交易</string>
 	<string name="Mute">靜音</string>
-	<string name="Mute_until">靜音直到 %1$s</string>
-	<string name="My_Contacts">我的聯繫方式</string>
+	<string name="Mute_until">直到 %1$s</string>
+	<string name="My_Contacts">我的聯繫人</string>
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二維碼</string>
 	<string name="My_shared_bots">我的共享機器人</string>
 	<string name="My_Stickers">我的貼紙</string>
-	<string name="NA">不適用</string>
+	<string name="NA">暫無價格</string>
 	<string name="Name">姓名</string>
 	<string name="need_background_permission">需要在後台啟動才能繼續</string>
 	<string name="need_camera_permission">需要相機權限才能繼續</string>
@@ -651,16 +651,16 @@
 	<string name="Pause">暫停</string>
 	<string name="pay_paid">此支付鏈接已被他人支付，不可重複支付。</string>
 	<string name="Pay_with_Biometrics">使用生物識別支付</string>
-	<string name="Pay_with_PIN">使用密碼支付</string>
-	<string name="Pay_with_PIN_interval">支付密碼間隔</string>
+	<string name="Pay_with_PIN">使用 PIN 支付</string>
+	<string name="Pay_with_PIN_interval">PIN 使用間隔</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
-		<item quantity="one">%1$d/%2$d 確認</item>
-		<item quantity="other">%1$d/%2$d 次確認</item>
+		<item quantity="one">%1$d/%2$d 區塊確認數</item>
+		<item quantity="other">%1$d/%2$d 區塊確認數</item>
 	</plurals>
 	<string name="permission_audio">允許錄製音頻？</string>
 	<string name="permission_camera">允許拍照嗎？</string>
 	<string name="permission_video">允許錄製視頻？</string>
-	<string name="Permissions">權限</string>
+	<string name="Permissions">權限列表</string>
 	<string name="Phone_call">電話</string>
 	<string name="Phone_Contact">電話聯繫人</string>
 	<string name="Phone_Contacts">電話聯繫人</string>
@@ -670,8 +670,8 @@
 	<string name="Photo">照片</string>
 	<string name="Photos">相片</string>
 	<string name="PIN">PIN</string>
-	<string name="PIN_change">密碼更改</string>
-	<string name="pin_check_tip">系統會定期要求您提供它以幫助您記住它。</string>
+	<string name="PIN_change">PIN 更改</string>
+	<string name="pin_check_tip">定期輸入 PIN 有助於記住該 PIN</string>
 	<string name="pin_confirm_again_hint">請再次確認您的 6 位 PIN 碼</string>
 	<string name="pin_confirm_hint">請確認 6 位 PIN 碼並記住</string>
 	<string name="pin_creation">PIN 創建</string>
@@ -679,7 +679,7 @@
 	<string name="pin_lost_hint">如果丟失，將無法找回您的錢包。</string>
 	<string name="pin_title">置頂</string>
 	<plurals name="pinned_message_title" tools:ignore="UnusedQuantity">
-		<item quantity="one">%1$d 置頂消息</item>
+		<item quantity="one">%1$d 條置頂消息</item>
 		<item quantity="other">%1$d 條置頂消息</item>
 	</plurals>
 	<string name="Pinned_Messages">固定消息</string>
@@ -701,11 +701,11 @@
 	<string name="quote">引用</string>
 	<string name="Raw">其他</string>
 	<string name="Read_Assets">讀取資產</string>
-	<string name="Read_Bots">閱讀機器人</string>
-	<string name="Read_Circles">閱讀圈子</string>
-	<string name="Read_Collectibles">閱讀收藏品</string>
-	<string name="Read_Contacts">閱讀聯繫人</string>
-	<string name="Read_Snapshots">讀取快照</string>
+	<string name="Read_Bots">讀取機器人</string>
+	<string name="Read_Circles">讀取圈子</string>
+	<string name="Read_Collectibles">讀取 NFT</string>
+	<string name="Read_Contacts">讀取聯繫人</string>
+	<string name="Read_Snapshots">讀取轉賬記錄</string>
 	<string name="Rebate">退款</string>
 	<string name="Recaptcha_timeout">驗證碼超時</string>
 	<string name="Receive">轉入</string>
@@ -749,7 +749,7 @@
 	<string name="Revoke_access">撤消訪問權限</string>
 	<string name="Revoke_multisig_transaction">撤銷多重簽名交易</string>
 	<string name="Saturday">週六</string>
-	<string name="Save">節省</string>
+	<string name="Save">保存</string>
 	<string name="Save_failure">保存失敗</string>
 	<string name="Save_image">保存圖片</string>
 	<string name="Save_success">保存成功</string>
@@ -761,7 +761,7 @@
 	<string name="Say_Hi">打招呼</string>
 	<string name="scam_warning">警告：許多用戶將此帳戶報告為騙局。請小心，尤其是當它向您要錢時</string>
 	<string name="Scan">掃描</string>
-	<string name="scan_code_add_me">掃描二維碼加我 Mixin</string>
+	<string name="scan_code_add_me">用 Mixin 掃描二維碼加我為聯繫人</string>
 	<string name="Scan_QR">掃描二維碼</string>
 	<string name="Scan_QR_Code">掃描二維碼</string>
 	<string name="Screen_Lock">屏幕鎖</string>
@@ -786,13 +786,13 @@
 	<string name="send_file_group">將 %1$s 發送給 %2$s？</string>
 	<string name="Send_Message">發信息</string>
 	<string name="Send_This_Location">發送此位置</string>
-	<string name="send_to">發送至%1$s</string>
+	<string name="send_to">發送至 %1$s</string>
 	<string name="Send_transfer">發送</string>
 	<string name="Send_Without_Sound">無聲發送</string>
 	<string name="Send_your_Current_Location">發送您當前的位置</string>
 	<string name="Senders">發件人</string>
 	<string name="Set">設置</string>
-	<string name="set_disappearing_message_time_to">%1$s 將消息消失時間設置為 %2$s</string>
+	<string name="set_disappearing_message_time_to">%1$s將消息消失時間設置為%2$s</string>
 	<string name="Set_new_PIN">設置新的 PIN</string>
 	<string name="Set_PIN">設置密碼</string>
 	<string name="Set_PIN_successfully">設置密碼成功</string>
@@ -812,7 +812,7 @@
 	<string name="setting_data_title">媒體自動下載</string>
 	<string name="setting_data_wifi">通過 Wi-Fi 連接時</string>
 	<string name="setting_delete_account_content_2">本地消息和備份不會自動刪除</string>
-	<string name="setting_delete_account_pin_content">如果您繼續，您的個人資料和帳號詳細信息將在 %1$s被刪除。閱讀我們的文檔以 **瞭解更多**。</string>
+	<string name="setting_delete_account_pin_content">如果您繼續，您的個人資料和帳號詳細信息將在%1$s被刪除。閱讀我們的文檔以**瞭解更多**。</string>
 	<string name="setting_delete_account_send">我們將向 %1$s 發送一個 4 位代碼</string>
 	<string name="setting_delete_account_tip">你的 Mixin 錢包還有一些資產可以提取到其他錢包或交易所。一旦賬戶被註銷，這些資產將與錢包一起被遺棄，無法收回。</string>
 	<string name="setting_delete_account_url">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
@@ -833,7 +833,7 @@
 	<string name="setting_mobile_contact_warning">這將從 Mixin 服務器中刪除您的聯繫人。</string>
 	<string name="setting_notification_transfer_summary">在收到大於或等於 %1$s 的轉帳時顯示通知。</string>
 	<string name="setting_privacy_tip">更改誰可以將您添加到對話和群組。</string>
-	<string name="setting_revoke_confirmation">撤消訪問權限 %1$s？</string>
+	<string name="setting_revoke_confirmation">撤消 %1$s 訪問權限？</string>
 	<plurals name="setting_storage_clear" tools:ignore="UnusedQuantity">
 		<item quantity="one">清除 %1$d 消息 (%2$s)？</item>
 		<item quantity="other">清除 %1$d 條消息 (%2$s)？</item>
@@ -846,7 +846,7 @@
 	<string name="Share_Contact">分享聯繫方式</string>
 	<string name="Share_error">共享錯誤。</string>
 	<string name="Share_Link">分享鏈接</string>
-	<string name="share_message_description">確定要從 %1$s 發送 %2$s 嗎？</string>
+	<string name="share_message_description">你確定要發送來自%1$@的%2$@？</string>
 	<string name="share_message_description_empty">確定要發送 %1$s 嗎？</string>
 	<string name="Share_QR_Code">分享二維碼</string>
 	<string name="share_to">將 %1$s 分享給…</string>
@@ -911,8 +911,8 @@
 	<string name="transaction_Hash">交易哈希</string>
 	<string name="Transaction_Id">交易編號</string>
 	<string name="Transaction_Type">交易類型</string>
-	<string name="Transactions">交易</string>
-	<string name="Transactions_CANNOT_be_deleted">交易不能被刪除</string>
+	<string name="Transactions">轉賬記錄</string>
+	<string name="Transactions_CANNOT_be_deleted">轉賬記錄不能被刪除</string>
 	<string name="Transcript">聊天記錄</string>
 	<string name="Transfer">轉賬</string>
 	<string name="Transfer_Amount">轉賬金額</string>
@@ -920,8 +920,8 @@
 	<string name="transfer_memo">備忘錄（可選）</string>
 	<string name="Transfer_Notifications">轉賬通知</string>
 	<string name="transfer_qrcode_prompt">用 Mixin 掃描二維碼给我轉賬 </string>
-	<string name="transfer_to">轉賬到%1$s</string>
-	<string name="Transfer_to_Mixin_address">轉入 Mixin 地址</string>
+	<string name="transfer_to">轉賬到 %1$s</string>
+	<string name="Transfer_to_Mixin_address">給主網地址轉賬</string>
 	<string name="Transfer_to_user_or_bot">轉賬給用戶或機器人</string>
 	<string name="transfer_without_pin">您必須設置 PIN 才能進行轉賬</string>
 	<string name="Trending">熱門資產</string>
@@ -929,7 +929,7 @@
 	<string name="Tuesday">週二</string>
 	<string name="Turn_On_Notifications">打開通知</string>
 	<string name="Type_message">輸入消息</string>
-	<string name="Unblock">解除封鎖</string>
+	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤消</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">天</item>
@@ -956,8 +956,8 @@
 	<string name="unlock_with_fingerprint_desc">啟用後，您需要使用指紋打開 Mixin。</string>
 	<string name="Unmute">取消靜音</string>
 	<string name="Unnamed_location">未命名的位置</string>
-	<string name="Unpin">取消固定</string>
-	<string name="Unpin_All_Messages">取消固定所有消息</string>
+	<string name="Unpin">取消置頂</string>
+	<string name="Unpin_All_Messages">取消置頂所有消息</string>
 	<string name="unpin_all_messages_confirmation">您確定要取消置頂所有消息嗎？</string>
 	<string name="Unread_messages">未讀消息</string>
 	<string name="Update">更新</string>
@@ -997,7 +997,7 @@
 	<string name="wallet_password_change_tip">請輸入 6 位 PIN 碼進行驗證。</string>
 	<string name="wallet_password_not_equal">兩次密碼不一樣，請重試。</string>
 	<string name="wallet_password_set_new_pin_desc">請設置一個新的 6 位數 PIN。</string>
-	<string name="wallet_password_set_pin_desc">設置 6 位 PIN 碼以創建您的第一個數字錢包，閱讀文檔以 **瞭解更多**。</string>
+	<string name="wallet_password_set_pin_desc">設置 6 位 PIN 碼以創建您的第一個數字錢包，閱讀文檔以**瞭解更多**。</string>
 	<string name="wallet_password_unsafe">PIN 過於簡單且不安全。</string>
 	<string name="wallet_pin_modify_biometrics">請輸入 PIN 以使用 PIN 間隔修改付款</string>
 	<string name="wallet_pin_open_biometrics">請輸入 PIN 以打開 Biometrics</string>
@@ -1043,7 +1043,7 @@
 	<string name="withdrawal_minimum_withdrawal">最低提款：</string>
 	<string name="withdrawal_network_fee">網絡費用：</string>
 	<string name="withdrawal_no_memo">沒有備忘錄</string>
-	<string name="withdrawal_to">提現到%1$s</string>
+	<string name="withdrawal_to">提現到 %1$s</string>
 	<string name="withdrawal_with_biometric">使用生物識別取款</string>
 	<string name="withdrawal_with_PIN">使用 PIN 提款</string>
 	<string name="Write_Circles">管理圈子</string>
