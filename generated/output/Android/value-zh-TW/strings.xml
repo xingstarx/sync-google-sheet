@@ -82,7 +82,7 @@
 	<string name="App_version">應用版本</string>
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
-	<string name="Asset_Key">資產密鑰</string>
+	<string name="Asset_Key">資產標識</string>
 	<string name="Asset_not_found">未找到資產。</string>
 	<string name="ASSETS">資產</string>
 	<string name="Audio">語音</string>
@@ -185,7 +185,7 @@
 	<string name="chat_list_empty_info">您可以與手機上安裝了 Mixin 的聯繫人聊天。</string>
 	<string name="chat_not_support">不支持此類消息，請將 Mixin 升級到最新版本。%1$s。</string>
 	<string name="chat_not_support_url">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
-	<string name="chat_on_mixin_content">讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 \@%1$s 加我為好友。</string>
+	<string name="chat_on_mixin_content">讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 @%1$s 加我為好友。</string>
 	<string name="chat_pin_message">%1$s置頂%2$s</string>
 	<string name="Chat_pinned">聊天已置頂</string>
 	<string name="chat_recall_delete_alert">您選擇的消息將在此聊天中為所有使用最新版 Mixin 的人刪除。</string>
@@ -944,11 +944,11 @@
 		<item quantity="other">分鐘</item>
 	</plurals>
 	<plurals name="unit_second" tools:ignore="UnusedQuantity">
-		<item quantity="one">第二</item>
+		<item quantity="one">秒</item>
 		<item quantity="other">秒</item>
 	</plurals>
 	<plurals name="unit_week" tools:ignore="UnusedQuantity">
-		<item quantity="one">星期</item>
+		<item quantity="one">週</item>
 		<item quantity="other">週</item>
 	</plurals>
 	<string name="Unknown">未知</string>

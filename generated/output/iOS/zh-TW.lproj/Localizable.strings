@@ -71,7 +71,7 @@
 "app_update_tips" = "當前版本 (%@) 不再可用！請單擊下面的\"更新\"以從 App Store 更新到最新版本。";
 "appearance" = "外觀";
 "apply" = "應用";
-"asset_key" = "資產密鑰";
+"asset_key" = "資產標識";
 "asset_not_found" = "未找到資產。";
 "asset_type" = "資產類型";
 "assets" = "資產";
@@ -118,7 +118,7 @@
 "call_no_network_hint" = "呼叫服務不可用。請確保您的手機已連接到互聯網，然後重試。";
 "call_on_another_call_hint" = "您已經在接聽另一個電話。結束後再試。";
 "call_phone" = "撥打電話";
-"call_remote_error" = "連接失敗。代碼 %\@";
+"call_remote_error" = "連接失敗。代碼 %@";
 "call_with_mixin" = "語音通話";
 "calling" = "正在呼叫...";
 "camera" = "相機";
@@ -163,7 +163,7 @@
 "chat_group_remove" = "%1$@移除了%2$@";
 "chat_list_empty_info" = "您可以與手機上安裝了 Mixin 的聯繫人聊天。";
 "chat_not_support" = "不支持此類消息，請將 Mixin 升級到最新版本。%@。";
-"chat_on_mixin_content" = "讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 \@%@ 加我為好友。";
+"chat_on_mixin_content" = "讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 @%@ 加我為好友。";
 "chat_pin_message" = "%1$@置頂%2$@";
 "chat_recall_delete_alert" = "您選擇的消息將在此聊天中為所有使用最新版 Mixin 的人刪除。";
 "chat_restore_subtitle" = "如果您現在拒絕恢復，您以後將無法恢復。消息恢復後，媒體文件將在後台繼續恢復。";
@@ -705,8 +705,8 @@
 "send" = "發送";
 "send_as_file" = "作為文件發送";
 "send_as_files" = "作為文件發送";
-"send_item" = "發送 1 件商品";
-"send_item_count" = "發送 %d 件";
+"send_item" = "發送 1 項";
+"send_item_count" = "發送 %d 項";
 "send_message" = "發信息";
 "send_photo" = "發送 1 張照片";
 "send_photo_count" = "發送 %d 張照片";
@@ -835,9 +835,9 @@
 "unit_hour_count" = "小時";
 "unit_minute" = "分鐘";
 "unit_minute_count" = "分鐘";
-"unit_second" = "第二";
+"unit_second" = "秒";
 "unit_second_count" = "秒";
-"unit_week" = "星期";
+"unit_week" = "週";
 "unit_week_count" = "週";
 "unknown_artist" = "未知藝術家";
 "unmute" = "取消靜音";
