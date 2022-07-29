@@ -118,7 +118,7 @@
 "call_no_network_hint" = "呼叫服務不可用。請確保您的手機已連接到互聯網，然後重試。";
 "call_on_another_call_hint" = "您已經在接聽另一個電話。結束後再試。";
 "call_phone" = "撥打電話";
-"call_remote_error" = "連接失敗。代碼 %\@";
+"call_remote_error" = "連接失敗。代碼 %@";
 "call_with_mixin" = "語音通話";
 "calling" = "正在呼叫...";
 "camera" = "相機";
@@ -138,9 +138,9 @@
 "change_number" = "更改號碼";
 "change_number_instead" = "改為更改號碼";
 "change_phone_number" = "更改電話號碼";
-"change_pin" = "更改密碼";
+"change_pin" = "更改 PIN";
 "change_pin_interval_hint" = "確認 PIN 以更改間隔";
-"change_pin_successfully" = "更改密碼成功";
+"change_pin_successfully" = "更改 PIN 成功";
 "change_profile_photo_with_camera" = "使用相機更改個人頭像";
 "change_profile_photo_with_library" = "使用相薄更改個人頭像";
 "change_settings" = "更改設置";
@@ -163,7 +163,7 @@
 "chat_group_remove" = "%1$@移除了%2$@";
 "chat_list_empty_info" = "您可以與手機上安裝了 Mixin 的聯繫人聊天。";
 "chat_not_support" = "不支持此類消息，請將 Mixin 升級到最新版本。%@。";
-"chat_on_mixin_content" = "讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 \@%@ 加我為好友。";
+"chat_on_mixin_content" = "讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 @%@ 加我為好友。";
 "chat_pin_message" = "%1$@置頂%2$@";
 "chat_recall_delete_alert" = "您選擇的消息將在此聊天中為所有使用最新版 Mixin 的人刪除。";
 "chat_restore_subtitle" = "如果您現在拒絕恢復，您以後將無法恢復。消息恢復後，媒體文件將在後台繼續恢復。";
@@ -330,7 +330,7 @@
 "error_full_group" = "ERROR 20116：群聊已滿。";
 "error_insufficient_balance" = "錯誤 20117：餘額不足";
 "error_insufficient_transaction_fee_with_amount" = "錯誤 20124：交易費用不足。請確保您的錢包有 %@ 作為費用";
-"error_internal_with_msg" = "內部錯誤：%\@";
+"error_internal_with_msg" = "內部錯誤：%@";
 "error_invalid_address_plain" = "錯誤 30102：地址格式無效。";
 "error_invalid_emergency_contact" = "錯誤 20130：緊急聯繫人無效";
 "error_network_task_failed" = "網絡連接失敗。檢查或切換您的網絡，然後重試";
@@ -705,8 +705,8 @@
 "send" = "發送";
 "send_as_file" = "作為文件發送";
 "send_as_files" = "作為文件發送";
-"send_item" = "發送 1 件商品";
-"send_item_count" = "發送 %d 件";
+"send_item" = "發送 1 項";
+"send_item_count" = "發送 %d 項";
 "send_message" = "發信息";
 "send_photo" = "發送 1 張照片";
 "send_photo_count" = "發送 %d 張照片";
@@ -724,7 +724,7 @@
 "set" = "設置";
 "set_disappearing_message_time_to" = "%1$@將消息消失時間設置為%2$@";
 "set_new_pin" = "設置新的 PIN";
-"set_pin_successfully" = "設置密碼成功";
+"set_pin_successfully" = "設置 PIN 成功";
 "setting_appearance_language_alert_description" = "您可以在設置中選擇首選語言";
 "setting_auth_access" = "已批准：%1$@，上次訪問：%2$@";
 "setting_auth_search_hint" = "Mixin ID，名稱";
@@ -758,7 +758,7 @@
 "share_message_description" = "你確定要發送來自%1$@的%2$@？";
 "share_message_description_empty" = "確定要發送 %@ 嗎？";
 "share_to" = "分享給";
-"shared_media" = "共享媒體";
+"shared_media" = "媒體內容";
 "shopping" = "購物";
 "show" = "顯示";
 "show_asset" = "顯示資產";
@@ -835,9 +835,9 @@
 "unit_hour_count" = "小時";
 "unit_minute" = "分鐘";
 "unit_minute_count" = "分鐘";
-"unit_second" = "第二";
+"unit_second" = "秒";
 "unit_second_count" = "秒";
-"unit_week" = "星期";
+"unit_week" = "週";
 "unit_week_count" = "週";
 "unknown_artist" = "未知藝術家";
 "unmute" = "取消靜音";
@@ -882,11 +882,11 @@
 "wallet" = "錢包";
 "wallet_enable_biometric_pay" = "啟用後，%@ 可用於進行快速轉賬。";
 "wallet_hide_asset_confirmation" = "您確定要隱藏%@嗎？";
-"wallet_password_not_equal" = "兩次密碼不一樣，請重試。";
+"wallet_password_not_equal" = "兩次 PIN 不一樣，請重試。";
 "wallet_password_set_pin_desc" = "設置 6 位 PIN 碼以創建您的第一個數字錢包，閱讀文檔以瞭解更多。";
 "wallet_password_unsafe" = "PIN 過於簡單且不安全。";
 "wallet_pin_pay_interval_tips" = "為了您的資產安全，您需要在指定的時間間隔內驗證您的 PIN。";
-"wallet_pin_tops_desc" = "請記住，PIN 丟失後將無法恢復。PIN 基於 Throttled Identity Protocol，它是分散的密鑰派生協議，閱讀文檔以 瞭解更多。";
+"wallet_pin_tops_desc" = "請記住，PIN 丟失後將無法恢復。PIN 基於 Throttled Identity Protocol，它是分散的密鑰派生協議，閱讀文檔以瞭解更多。";
 "wallet_refresh_address_failed" = "提現手續費已更改，刷新失敗，請重試。";
 "wallet_transaction_continue_count_down" = "繼續 (%d)";
 "wallet_transaction_tip" = "確定要將價值 %2$@ 的 %3$@ 轉賬到 %1$@ 嗎？";
