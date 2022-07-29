@@ -111,7 +111,7 @@
   <string name="Appearance" platform="android, iOS, Desktop">外觀</string>
   <string name="Apply" platform="android, iOS">應用</string>
   <string name="archived_folder" platform="Desktop">存檔文件夾</string>
-  <string name="Asset_Key" platform="android, iOS">資產密鑰</string>
+  <string name="Asset_Key" platform="android, iOS">資產標識</string>
   <string name="Asset_not_found" platform="android, iOS">未找到資產。</string>
   <string name="Asset_Type" platform="iOS, Desktop">資產類型</string>
   <string name="ASSETS" platform="android, iOS">資產</string>
@@ -182,7 +182,7 @@
   <string name="call_on_another_call_hint" platform="android, iOS">您已經在接聽另一個電話。結束後再試。</string>
   <string name="Call_Phone" platform="iOS">撥打電話</string>
   <string name="call_pip_permission" platform="android">你不能最小化語音通話，因為 Mixin 沒有被授權使用浮動窗口</string>
-  <string name="call_remote_error" platform="iOS">連接失敗。代碼 %\@</string>
+  <string name="call_remote_error" platform="iOS">連接失敗。代碼 %@</string>
   <string name="call_who" platform="android">致電%1$s</string>
   <string name="Call_with_Mixin" platform="iOS">語音通話</string>
   <string name="Chat_Background" platform="iOS">聊天背景</string>
@@ -251,7 +251,7 @@
   <string name="chat_not_support_uri_on_phone" platform="Desktop">不支持此類網址，請在手機上查看。</string>
   <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">不支持此類消息，請在手機上查看。</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 \@%1$s 加我為好友。</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">讓我們在 Mixin Messenger 上聊天吧！簡單、安全且易於使用。它還支持比特幣、以太坊和其他加密貨幣，下載 https://mixin.one/messenger 並蒐索 @%1$s 加我為好友。</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s置頂%2$s</string>
   <string name="Chat_pinned" platform="android">聊天已置頂</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">您選擇的消息將在此聊天中為所有使用最新版 Mixin 的人刪除。</string>
@@ -1072,8 +1072,8 @@
   <string name="Send_as_file" platform="android">作為文件發送</string>
   <string name="Send_as_Files" platform="iOS">作為文件發送</string>
   <string name="send_file_group" platform="android">將 %1$s 發送給 %2$s？</string>
-  <string name="send_item" platform="iOS">發送 1 件商品</string>
-  <string name="send_item.count" platform="iOS">發送 %1$d 件</string>
+  <string name="send_item" platform="iOS">發送 1 項</string>
+  <string name="send_item.count" platform="iOS">發送 %1$d 項</string>
   <string name="Send_Message" platform="android, iOS">發信息</string>
   <string name="send_photo" platform="iOS">發送 1 張照片</string>
   <string name="send_photo.count" platform="iOS">發送 %1$d 張照片</string>
@@ -1267,9 +1267,9 @@
   <string name="unit_hour.count" platform="android, iOS">小時</string>
   <string name="unit_minute" platform="android, iOS">分鐘</string>
   <string name="unit_minute.count" platform="android, iOS">分鐘</string>
-  <string name="unit_second" platform="android, iOS">第二</string>
+  <string name="unit_second" platform="android, iOS">秒</string>
   <string name="unit_second.count" platform="android, iOS">秒</string>
-  <string name="unit_week" platform="android, iOS">星期</string>
+  <string name="unit_week" platform="android, iOS">週</string>
   <string name="unit_week.count" platform="android, iOS">週</string>
   <string name="Unknown" platform="android">未知</string>
   <string name="Unknown_artist" platform="iOS">未知藝術家</string>
