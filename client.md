@@ -1407,3 +1407,4 @@
 | Desktop | zoom | Zoom | 缩放  |     |     |     |
 | Desktop | bring_all_to_front | Bring All To Front | 前置所有窗口 |     |     |     |
 | Desktop | disappearing_custom_time_max_warning | The maximum time is %1$s. | 最高设置 %1$s |     |     |     |
+| iOS | NSContactsUsageDescription | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. |     |     |     |     |

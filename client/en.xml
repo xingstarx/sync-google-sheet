@@ -1406,4 +1406,5 @@
   <string name="zoom" platform="Desktop">Zoom</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
   <string name="disappearing_custom_time_max_warning" platform="Desktop">The maximum time is %1$s.</string>
+  <string name="NSContactsUsageDescription" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
 </resources>
