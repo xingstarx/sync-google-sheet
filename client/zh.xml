@@ -1385,4 +1385,10 @@
   <string name="zoom" platform="Desktop">缩放</string>
   <string name="bring_all_to_front" platform="Desktop">前置所有窗口</string>
   <string name="disappearing_custom_time_max_warning" platform="Desktop">最高设置 %1$s</string>
+  <string name="NSContactsUsageDescription" platform="iOSAuthorization">将您的联系人上传至 Mixin 的服务器，以便您更快速地与朋友们联系</string>
+  <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片</string>
+  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片</string>
+  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麦克风录制语音消息发给你的联系人</string>
+  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin 使用面容识别来验证支付</string>
+  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允许获取位置让您可以在对话中发送当前的位置或附近的地点</string>
 </resources>

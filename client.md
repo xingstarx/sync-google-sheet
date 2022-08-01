@@ -1407,12 +1407,12 @@
 | Desktop | zoom | Zoom | 缩放  |     |     |     |
 | Desktop | bring_all_to_front | Bring All To Front | 前置所有窗口 |     |     |     |
 | Desktop | disappearing_custom_time_max_warning | The maximum time is %1$s. | 最高设置 %1$s |     |     |     |
-| iOSAuthorization | NSContactsUsageDescription | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. |     |     |     |     |
-| iOSAuthorization | NSCameraUsageDescription | Mixin uses the camera to set profile photo, and send photo to your contact in chat |     |     |     |     |
-| iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat |     |     |     |     |
-| iOSAuthorization | NSMicrophoneUsageDescription | Mixin uses your microphone to record voice messages to share with your contacts |     |     |     |     |
-| iOSAuthorization | NSFaceIDUsageDescription | Mixin uses Face ID to authorize payment |     |     |     |     |
-| iOSAuthorization | NSLocationWhenInUseUsageDescription | Turn on location services to send your current location or nearby places in conversation |     |     |     |     |
+| iOSAuthorization | NSContactsUsageDescription | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. | 将您的联系人上传至 Mixin 的服务器，以便您更快速地与朋友们联系 |     |     |     |
+| iOSAuthorization | NSCameraUsageDescription | Mixin uses the camera to set profile photo, and send photo to your contact in chat | Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片 |     |     |     |
+| iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat | Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片 |     |     |     |
+| iOSAuthorization | NSMicrophoneUsageDescription | Mixin uses your microphone to record voice messages to share with your contacts | Mixin 使用你的麦克风录制语音消息发给你的联系人 |     |     |     |
+| iOSAuthorization | NSFaceIDUsageDescription | Mixin uses Face ID to authorize payment | Mixin 使用面容识别来验证支付 |     |     |     |
+| iOSAuthorization | NSLocationWhenInUseUsageDescription | Turn on location services to send your current location or nearby places in conversation | 允许获取位置让您可以在对话中发送当前的位置或附近的地点 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
