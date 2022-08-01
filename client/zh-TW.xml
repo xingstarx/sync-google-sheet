@@ -401,7 +401,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">刪除 %1$s 地址</string>
   <string name="Deleted" platform="iOS">已刪除</string>
   <string name="Deposit" platform="android, iOS">充值</string>
-  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %@ 到 Mixin Messenger。</string>
+  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin Messenger。</string>
   <string name="Deposit_at_least" platform="iOS">首次充值至少 %@ %@。</string>
   <string name="deposit_attention" platform="android, iOS">首次充值請嘗試少量。</string>
   <string name="deposit_confirmation" platform="android, iOS">充值將到達 %1$d 區塊確認</string>
@@ -1115,7 +1115,7 @@
   <string name="setting_data_wifi" platform="android">通過 Wi-Fi 連接時</string>
   <string name="setting_delete_account_content_2" platform="android">本地消息和備份不會自動刪除</string>
   <string name="setting_delete_account_pin_content" platform="android, iOS">如果您繼續，您的個人資料和帳號詳細信息將在%1$s被刪除。閱讀我們的文檔以**瞭解更多**。</string>
-  <string name="setting_delete_account_send" platform="android, iOS">我們將發送 4 位驗證碼到手機 %@</string>
+  <string name="setting_delete_account_send" platform="android, iOS">我們將發送 4 位驗證碼到手機 %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 錢包還有一些資產可以提取到其他錢包或交易所。一旦賬戶被註銷，這些資產將與錢包一起被遺棄，無法收回。</string>
   <string name="setting_delete_account_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
   <string name="setting_desktop_confirm" platform="android, iOS">確認登錄 Mixin Messenger 桌面</string>
