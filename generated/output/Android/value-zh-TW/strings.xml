@@ -38,7 +38,7 @@
 	<string name="Add_success">添加成功</string>
 	<string name="Add_Tag">添加標籤</string>
 	<string name="Add_to_Home_screen">添加到主屏幕</string>
-	<string name="Added">添加</string>
+	<string name="Added">已添加</string>
 	<string name="Adding">添加…</string>
 	<string name="Address">地址</string>
 	<string name="Admin">管理員</string>
@@ -56,9 +56,9 @@
 	<string name="alert_key_contact_sticker_message">給你發了貼紙</string>
 	<string name="alert_key_contact_text_message">給你發了一條消息</string>
 	<string name="alert_key_contact_transcript_message">給你發了一份聊天記錄</string>
-	<string name="alert_key_contact_transfer_message">向您發了轉賬</string>
+	<string name="alert_key_contact_transfer_message">向你發了轉賬</string>
 	<string name="alert_key_contact_video_message">給你發了一個視頻</string>
-	<string name="alert_key_group_audio_invite_message">%1$s邀請您加入語音通話</string>
+	<string name="alert_key_group_audio_invite_message">%1$s邀請你加入語音通話</string>
 	<string name="alert_key_group_audio_message">%1$s發送了一段音頻</string>
 	<string name="alert_key_group_contact_message">%1$s發送了一個聯繫人</string>
 	<string name="alert_key_group_data_message">%1$s發送了一個文件</string>
@@ -138,7 +138,7 @@
 	<string name="can_not_recognize_qr_code">無法識別二維碼</string>
 	<string name="Cancel">取消</string>
 	<string name="Cancel_Floating">取消浮窗</string>
-	<string name="Canceled">取消</string>
+	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">對方已取消</string>
 	<string name="Cant_receive_the_code">收不到驗證碼？</string>
 	<string name="cant_talk_self">你不能自言自語</string>
@@ -302,7 +302,7 @@
 	<string name="deposit_tip_common">該地址僅支持 %1$s。</string>
 	<string name="deposit_tip_eos">該地址支持所有基於 EOS 的代幣。</string>
 	<string name="deposit_tip_eth">該地址支持所有 ERC-20 代幣，如 ETH、XIN 等。</string>
-	<string name="deposit_tip_trx">該地址支持所有 TRC-10 和 TRC-20 令牌。</string>
+	<string name="deposit_tip_trx">該地址支持所有 TRC-10 和 TRC-20 代幣。</string>
 	<string name="desktop">桌面</string>
 	<string name="desktop_login_no_pin">為了您的帳戶安全，請在登錄桌面應用程序之前設置 PIN。</string>
 	<string name="desktop_on_hint">您已登錄桌面</string>
@@ -360,10 +360,10 @@
 	<string name="error_address_not_sync">地址刷新失敗，請重試</string>
 	<string name="error_authentication">錯誤 401：登錄以繼續</string>
 	<string name="error_bad_data">ERROR 10002：請求數據包含無效字段</string>
-	<string name="error_blockchain">ERROR 30100：區塊鏈不同步，請稍後再試。</string>
+	<string name="error_blockchain">錯誤 30100：區塊鏈不同步，請稍後再試。</string>
 	<string name="error_connection_timeout">網絡連接超時，請重試</string>
-	<string name="error_expired_authorization_code">ERROR 20121：授權碼過期</string>
-	<string name="error_full_group">ERROR 20116：群聊已滿。</string>
+	<string name="error_expired_authorization_code">錯誤 20121：授權碼過期</string>
+	<string name="error_full_group">錯誤 20116：群聊已滿。</string>
 	<string name="error_insufficient_balance">錯誤 20117：餘額不足</string>
 	<string name="error_insufficient_transaction_fee_with_amount">錯誤 20124：交易費用不足。請確保您的錢包有 %1$s 作為費用</string>
 	<string name="error_invalid_address">錯誤 30102：地址格式無效。請輸入正確的 %1$s %2$s 地址！</string>
@@ -380,8 +380,8 @@
 	<string name="error_permission">請打開必要的權限</string>
 	<string name="error_phone_invalid_format">錯誤 20110：電話號碼無效</string>
 	<string name="error_phone_sms_delivery">ERROR 10003：發送短信失敗</string>
-	<string name="error_phone_verification_code_expired">ERROR 20114：手機驗證碼過期</string>
-	<string name="error_phone_verification_code_invalid">ERROR 20113：手機驗證碼無效</string>
+	<string name="error_phone_verification_code_expired">錯誤 20114：手機驗證碼過期</string>
+	<string name="error_phone_verification_code_invalid">錯誤 20113：手機驗證碼無效</string>
 	<string name="error_pin_check_too_many_request">您已嘗試超過 5 次，請等待至少 24 小時再試。</string>
 	<string name="error_pin_incorrect">錯誤 20119：PIN 不正確</string>
 	<plurals name="error_pin_incorrect_with_times" tools:ignore="UnusedQuantity">
@@ -393,8 +393,8 @@
 	<string name="error_too_many_friends">錯誤 20128：朋友太多</string>
 	<string name="error_too_many_request">錯誤 429：超出速率限制</string>
 	<string name="error_too_many_stickers">錯誤 20126：貼紙太多</string>
-	<string name="error_too_small_transfer_amount">ERROR 20120：轉賬金額太小</string>
-	<string name="error_too_small_withdraw_amount">ERROR 20127：提款金額太小</string>
+	<string name="error_too_small_transfer_amount">錯誤 20120：轉賬金額太小</string>
+	<string name="error_too_small_withdraw_amount">錯誤 20127：提款金額太小</string>
 	<string name="error_transcript_forward">下載後請轉發所有附件</string>
 	<string name="error_transfer_is_already_paid">錯誤 20125：轉賬已被支付。</string>
 	<string name="error_unable_to_open_link">找不到可以打開此鏈接的應用程序。%1$s</string>
@@ -608,14 +608,14 @@
 	<string name="No_logs">沒有日誌</string>
 	<string name="NO_MEDIA">沒有媒體</string>
 	<string name="No_media_yet">暫無媒體</string>
-	<string name="No_Memo">沒有備註</string>
+	<string name="No_Memo">沒有 Memo（備註）</string>
 	<string name="No_network_connection">無網絡連接</string>
 	<string name="NO_POSTS">沒有帖子</string>
 	<string name="No_raws">沒有原料</string>
 	<string name="No_rebates">沒有退款</string>
 	<string name="NO_RESULTS">沒有結果</string>
 	<string name="NO_STICKERS">沒有貼紙</string>
-	<string name="No_tag">無標籤</string>
+	<string name="No_tag">點擊不使用 Tag（標籤）</string>
 	<string name="No_transactions">沒有交易</string>
 	<string name="No_withdrawals">沒有提款</string>
 	<string name="Nobody">沒有人</string>
@@ -712,7 +712,7 @@
 	<string name="RECEIVE">轉入</string>
 	<string name="Receive_Money">我的收款碼</string>
 	<string name="Receiver">至</string>
-	<string name="recent_chats">聊天室</string>
+	<string name="recent_chats">最近聊天</string>
 	<string name="Recent_searches">最近的搜索</string>
 	<string name="Refresh">刷新</string>
 	<string name="Refuse">拒絕</string>
@@ -1020,7 +1020,7 @@
 	<string name="website">https://mixin.one/messenger</string>
 	<string name="Wednesday">週三</string>
 	<string name="Welcome_to_Mixin">歡迎來到 Mixin</string>
-	<string name="Whats_your_name">你叫什麼名字？</string>
+	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">漫遊時</string>
 	<string name="withdraw_Address">地址</string>
 	<string name="Withdrawal">提款</string>
@@ -1042,7 +1042,7 @@
 	<string name="withdrawal_minimum_reserve">最低儲備：</string>
 	<string name="withdrawal_minimum_withdrawal">最低提款：</string>
 	<string name="withdrawal_network_fee">網絡費用：</string>
-	<string name="withdrawal_no_memo">無備註</string>
+	<string name="withdrawal_no_memo">點擊不使用 Memo（備註）</string>
 	<string name="withdrawal_to">提現到 %1$s</string>
 	<string name="withdrawal_with_biometric">使用生物識別取款</string>
 	<string name="withdrawal_with_PIN">使用 PIN 提款</string>
