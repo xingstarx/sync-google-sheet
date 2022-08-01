@@ -1407,4 +1407,13 @@
 | Desktop | zoom | Zoom | 缩放  |     |     |     |
 | Desktop | bring_all_to_front | Bring All To Front | 前置所有窗口 |     |     |     |
 | Desktop | disappearing_custom_time_max_warning | The maximum time is %1$s. | 最高设置 %1$s |     |     |     |
-| iOS | NSContactsUsageDescription | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. |     |     |     |     |
+| iOSAuthorization | NSContactsUsageDescription | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. |     |     |     |     |
+| iOSAuthorization | NSCameraUsageDescription | Mixin uses the camera to set profile photo, and send photo to your contact in chat |     |     |     |     |
+| iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat |     |     |     |     |
+| iOSAuthorization | NSMicrophoneUsageDescription | Mixin uses your microphone to record voice messages to share with your contacts |     |     |     |     |
+| iOSAuthorization | NSFaceIDUsageDescription | Mixin uses Face ID to authorize payment |     |     |     |     |
+| iOSAuthorization | NSLocationWhenInUseUsageDescription | Turn on location services to send your current location or nearby places in conversation |     |     |     |     |
+| AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
+| AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
+| AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
+| AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
