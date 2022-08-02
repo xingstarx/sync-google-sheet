@@ -140,7 +140,7 @@
   <string name="Backup_delete" platform="android">刪除備份</string>
   <string name="backup_des" platform="android">備份對話記錄到外部儲存以便在重新安裝 Mixin 時還原對話記錄，備份到外部儲存的對話不會進行加密處理。</string>
   <string name="backup_dialog_title" platform="android">自動備份到外部儲存</string>
-  <string name="backup_disable_hint" platform="iOS">需要登入 iCloud 來備份你的聊天記錄。 設定 &gt; iCloud &gt; 開啟 iCloud 雲盤。</string>
+  <string name="backup_disable_hint" platform="iOS">需要登入 iCloud 來備份你的聊天記錄。 設定 &gt; iCloud &gt; 開啟 iCloud 雲碟。</string>
   <string name="backup_external_storage" platform="android">外部儲存： %1$s</string>
   <string name="backup_failure_tip" platform="android">備份異常，請重試。</string>
   <string name="Backup_found" platform="android">找到備份</string>
@@ -154,11 +154,11 @@
   <string name="Balance" platform="iOS">餘額</string>
   <string name="biography" platform="Desktop">簡介</string>
   <string name="Biometric_Payment" platform="android">生物識別支付</string>
-  <string name="Block" platform="android, iOS, Desktop">遮蔽使用者</string>
-  <string name="block_hint" platform="iOS">遮蔽後對方無法向您撥打電話或傳送訊息</string>
-  <string name="block_tip" platform="android, iOS">被遮蔽的使用者不能給你傳送訊息或者邀請你加入群聊</string>
-  <string name="Blocked" platform="android, iOS">已遮蔽</string>
-  <string name="Blocked_Users" platform="android, iOS">遮蔽名單</string>
+  <string name="Block" platform="android, iOS, Desktop">封鎖使用者</string>
+  <string name="block_hint" platform="iOS">封鎖後對方無法向您撥打電話或傳送訊息</string>
+  <string name="block_tip" platform="android, iOS">被封鎖的使用者不能給你傳送訊息或者邀請你加入群聊</string>
+  <string name="Blocked" platform="android, iOS">已封鎖</string>
+  <string name="Blocked_Users" platform="android, iOS">封鎖名單</string>
   <string name="bold" platform="android">粗體</string>
   <string name="Books" platform="iOS">圖書</string>
   <string name="bot_dock_empty" platform="android">長按並拖拽機器人置頂</string>
@@ -180,7 +180,7 @@
   <string name="call_on_another_call_hint" platform="android, iOS">無法在 Mixin 通話時撥打電話</string>
   <string name="Call_Phone" platform="iOS">電話呼叫</string>
   <string name="call_pip_permission" platform="android">你的手機沒有授權 Mixin 獲得浮窗許可權，語音通話最小化不能正常使用</string>
-  <string name="call_remote_error" platform="iOS">連線失敗。程式碼 %@</string>
+  <string name="call_remote_error" platform="iOS">連線失敗。代碼 %@</string>
   <string name="call_who" platform="android">呼叫 %1$s</string>
   <string name="Call_with_Mixin" platform="iOS">語音通話</string>
   <string name="Chat_Background" platform="iOS">聊天背景</string>
@@ -280,7 +280,7 @@
   <string name="click_to_reload_qrcode" platform="Desktop">點選重新載入二維碼</string>
   <string name="Click_to_retry" platform="android">點選重試</string>
   <string name="Click_to_unlock" platform="android">點選解鎖</string>
-  <string name="clock_skew_hint" platform="iOS">請校正後再繼續使用，設定 &gt; 通用 &gt; 日期與時間 &gt; 自動設定。</string>
+  <string name="clock_skew_hint" platform="iOS">請校正後再繼續使用，設定 &gt; 一般 &gt; 日期與時間 &gt; 自動設定</string>
   <string name="Close" platform="android, iOS, Desktop">關閉</string>
   <string name="close_window" platform="Desktop">關閉視窗</string>
   <string name="collapse" platform="Desktop">摺疊</string>
@@ -352,7 +352,7 @@
   <string name="Creating" platform="android">正在建立…</string>
   <string name="Crop" platform="android">裁剪</string>
   <string name="Currency" platform="android, iOS">貨幣</string>
-  <string name="currency_code" platform="iOS">貨幣程式碼</string>
+  <string name="currency_code" platform="iOS">貨幣代碼</string>
   <string name="Current_Location" platform="iOS">當前位置</string>
   <string name="Current_Selected" platform="iOS">當前選擇</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">自定義時間</string>
@@ -424,17 +424,17 @@
   <string name="Disable_web_debug" platform="android">已關閉 Web 除錯</string>
   <string name="Disabled" platform="android">已停用</string>
   <string name="disappearing_message" platform="android, iOS, Desktop">限時訊息</string>
-  <string name="disappearing_message_hint" platform="android, iOS, Desktop">啟用後，在此聊天中傳送和接收的新資訊在被看到後會消失，閱讀文件以**瞭解更多**。</string>
+  <string name="disappearing_message_hint" platform="android, iOS, Desktop">啟用後，在此聊天中傳送和接收的新資訊在被看到後會消失，閱讀檔案以**瞭解更多**。</string>
   <string name="disappearing_option_1" platform="android, iOS">30 秒</string>
   <string name="disappearing_option_2" platform="android, iOS">10 分</string>
   <string name="disappearing_option_3" platform="android, iOS">2 小時</string>
   <string name="disappearing_option_4" platform="android, iOS">1 天</string>
-  <string name="disappearing_option_5" platform="android, iOS">1 周</string>
+  <string name="disappearing_option_5" platform="android, iOS">1 週</string>
   <string name="DISCARD" platform="android">放棄</string>
   <string name="Disconnecting" platform="iOS">正在斷開</string>
   <string name="Dismiss_as_Admin" platform="android, iOS, Desktop">撤銷管理員身份</string>
   <string name="divide" platform="android">、</string>
-  <string name="Documents" platform="android">文件</string>
+  <string name="Documents" platform="android">檔案</string>
   <string name="Done" platform="android, iOS, Desktop">完成</string>
   <string name="download" platform="Desktop">下載</string>
   <string name="download_link" platform="Desktop">下載連結：</string>
@@ -555,7 +555,7 @@
   <string name="File_chooser_error" platform="android, Desktop">檔案選擇錯誤</string>
   <string name="File_does_not_exist" platform="android, Desktop">檔案不存在</string>
   <string name="File_error" platform="android, Desktop">檔案錯誤</string>
-  <string name="Files" platform="android, iOS, Desktop">文件</string>
+  <string name="Files" platform="android, iOS, Desktop">檔案</string>
   <string name="Filter" platform="android, iOS">篩選</string>
   <string name="FILTER_BY" platform="android, iOS">篩選</string>
   <string name="fingerprint_lock" platform="android">指紋鎖定</string>
@@ -789,7 +789,7 @@
   <string name="NO_AUDIO" platform="android, iOS, Desktop">沒有音訊</string>
   <string name="NO_AUTHORIZATIONS" platform="android, iOS">沒有授權任何機器人</string>
   <string name="No_Available_Assets" platform="android">沒有可用資產</string>
-  <string name="No_blocked_users" platform="android, iOS">沒有遮蔽任何人</string>
+  <string name="No_blocked_users" platform="android, iOS">沒有封鎖任何人</string>
   <string name="NO_BOTS" platform="android, iOS">沒有機器人</string>
   <string name="No_camera" platform="android, Desktop">沒有相機</string>
   <string name="no_data" platform="Desktop">沒有資料</string>
@@ -973,7 +973,7 @@
   <string name="Removing" platform="android">正在移除…</string>
   <string name="Reply" platform="android, iOS, Desktop">回覆</string>
   <string name="Report" platform="android, iOS, Desktop">舉報</string>
-  <string name="Report_and_block" platform="android, iOS, Desktop">舉報並遮蔽？</string>
+  <string name="Report_and_block" platform="android, iOS, Desktop">舉報並封鎖？</string>
   <string name="report_title" platform="iOS">給開發人員傳送聊天日誌？</string>
   <string name="Represent_Messages" platform="android, iOS">代發訊息</string>
   <string name="Requests_access_to_your" platform="android">需要訪問你的</string>
@@ -1097,7 +1097,7 @@
   <string name="setting_data_title" platform="android">自動下載檔案</string>
   <string name="setting_data_wifi" platform="android">當連線到 Wi-Fi 時</string>
   <string name="setting_delete_account_content_2" platform="android">本地資訊和備份不會被自動刪除</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">如果您繼續，您的個人資料和賬戶資訊將在%1$s被刪除。閱讀我們的文件以**瞭解更多**。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS">如果您繼續，您的個人資料和賬戶資訊將在%1$s被刪除。閱讀我們的檔案以**瞭解更多**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">我們將傳送 4 位驗證碼到手機 %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 錢包還有一些資產，可以提現至其他錢包或交易所，賬戶一旦登出，這些資產將和錢包一起被棄用無法找回。</string>
   <string name="setting_desktop_confirm" platform="android, iOS">確認登入 Mixin Messenger 桌面端</string>
@@ -1106,7 +1106,7 @@
   <string name="setting_emergency_change_mobile" platform="android">立即修改手機號？</string>
   <string name="setting_emergency_content" platform="android, iOS">緊急聯絡人旨在幫助你在丟失且無法找回手機號的情況下登入你的賬號。</string>
   <string name="setting_emergency_create_success" platform="android">新增緊急聯絡人成功</string>
-  <string name="setting_emergency_desc" platform="android, iOS">請放心，即使您的手機號丟失無法找回錢包資產也很安全，請牢記您的 PIN，閱讀文件**瞭解更多**。</string>
+  <string name="setting_emergency_desc" platform="android, iOS">請放心，即使您的手機號丟失無法找回錢包資產也很安全，請牢記您的 PIN，閱讀檔案**瞭解更多**。</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">緊急聯絡人受 PIN 加密保護</string>
   <string name="setting_emergency_send_code" platform="android, iOS">請輸入傳送至以下 Mixin ID 的 4 位驗證碼：%1$s</string>
   <string name="setting_emergency_set" platform="android">設定緊急聯絡人</string>
@@ -1240,7 +1240,7 @@
   <string name="Unable_to_save_video" platform="iOS">儲存影片失敗</string>
   <string name="Unable_to_share_content" platform="iOS">無法分享此內容</string>
   <string name="Unauthorized" platform="iOS">未授權</string>
-  <string name="Unblock" platform="android, iOS, Desktop">解除遮蔽</string>
+  <string name="Unblock" platform="android, iOS, Desktop">解除封鎖</string>
   <string name="UNDO" platform="android">撤銷</string>
   <string name="unit_day" platform="android, iOS, Desktop">天</string>
   <string name="unit_day.count" platform="android, iOS, Desktop">天</string>
@@ -1250,8 +1250,8 @@
   <string name="unit_minute.count" platform="android, iOS, Desktop">分</string>
   <string name="unit_second" platform="android, iOS, Desktop">秒</string>
   <string name="unit_second.count" platform="android, iOS, Desktop">秒</string>
-  <string name="unit_week" platform="android, iOS, Desktop">周</string>
-  <string name="unit_week.count" platform="android, iOS, Desktop">周</string>
+  <string name="unit_week" platform="android, iOS, Desktop">週</string>
+  <string name="unit_week.count" platform="android, iOS, Desktop">週</string>
   <string name="Unknown" platform="android">未知</string>
   <string name="Unknown_artist" platform="iOS">未知藝術家</string>
   <string name="Unlock_with_fingerprint" platform="android">使用指紋解鎖</string>
@@ -1316,12 +1316,12 @@
   <string name="wallet_password_change_tip" platform="android">請輸入6位 PIN 來驗證</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN 不一致, 請重新輸入</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">設定新的 6 位數字 PIN</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">設定 6 位數字 PIN 建立你的第一個數字錢包，閱讀文件以**瞭解更多**。</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">設定 6 位數字 PIN 建立你的第一個數字錢包，閱讀檔案以**瞭解更多**。</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN 過於簡單不安全</string>
   <string name="wallet_pin_modify_biometrics" platform="android">請輸入 PIN 來修改支付 PIN 使用間隔</string>
   <string name="wallet_pin_open_biometrics" platform="android">請輸入 PIN 來啟用生物識別支付</string>
   <string name="wallet_pin_pay_interval_tips" platform="android, iOS">為了您的資產安全，距離上次輸入支付 PIN 的時間超過以上指定時間時，再次轉賬時已然需要支付 PIN</string>
-  <string name="wallet_pin_tops_desc" platform="android, iOS">注意 PIN 丟失無法找回，6 位數字 PIN 是基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀文件以**瞭解更多**。</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">注意 PIN 丟失無法找回，6 位數字 PIN 是基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
   <string name="wallet_refresh_address_failed" platform="android, iOS">手續費已變更且重新整理失敗，請重試。</string>
   <string name="wallet_setting_currency_desc" platform="android">%1$s（%2$s）</string>
   <string name="wallet_transaction_continue_count_down" platform="android, iOS">繼續 （%1$d）</string>
@@ -1340,11 +1340,11 @@
   <string name="webview2_runtime_install_description" platform="Desktop">該裝置暫未安裝 WebView2 元件，請先下載並安裝 WebView2 Runtime。</string>
   <string name="Wednesday" platform="android">星期三</string>
   <string name="Weekly" platform="iOS">每週</string>
-  <string name="weeks" platform="iOS">周</string>
+  <string name="weeks" platform="iOS">週</string>
   <string name="Whats_your_name" platform="android, iOS, Desktop">你的名字？</string>
   <string name="When_roaming" platform="android">當漫遊時</string>
   <string name="WiFi" platform="iOS">WLAN</string>
-  <string name="WiFi_and_cellular" platform="iOS">WLAN 與蜂窩移動網</string>
+  <string name="WiFi_and_cellular" platform="iOS">WLAN 與行動數據</string>
   <string name="window" platform="Desktop">視窗</string>
   <string name="withdraw_Address" platform="android, iOS">提現地址</string>
   <string name="Withdraw_by_PIN" platform="iOS">透過 PIN 提現</string>
