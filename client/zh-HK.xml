@@ -280,7 +280,7 @@
   <string name="click_to_reload_qrcode" platform="Desktop">點擊重新加載二維碼</string>
   <string name="Click_to_retry" platform="android">點擊重試</string>
   <string name="Click_to_unlock" platform="android">點擊解鎖</string>
-  <string name="clock_skew_hint" platform="iOS">請校正後再繼續使用，設置 &gt; 一般 &gt; 日期與時間 &gt; 自動設置。</string>
+  <string name="clock_skew_hint" platform="iOS">请校正后再继续使用，设置 &gt; 一般 &gt; 日期与时间 &gt; 自动设置。</string>
   <string name="Close" platform="android, iOS, Desktop">關閉</string>
   <string name="close_window" platform="Desktop">關閉窗口</string>
   <string name="collapse" platform="Desktop">摺疊</string>
