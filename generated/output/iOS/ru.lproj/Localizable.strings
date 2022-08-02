@@ -243,16 +243,16 @@
 "current_selected" = "Текущий выбранный";
 "custom_time" = "Пользовательское время";
 "daily" = "Повседневный";
-"dark" = "Темный";
+"dark" = "темное";
 "data_and_storage_usage" = "Использование данных и хранилища";
 "data_parsing_error" = "Ошибка разбора данных";
 "database_access" = "Доступ к базе данных";
 "database_upgrade_tips" = "База данных обновляется, это может занять несколько минут, пожалуйста, не закрывайте это приложение.";
 "date" = "Дата";
-"date_format_date" = "МММ дд, гггг";
-"date_format_day" = "чч:мм";
-"date_format_month" = "Э, д МММ";
-"date_format_week_date" = "Э, д МММ гггг";
+"date_format_date" = "dd.MM.yyyy";
+"date_format_day" = "H:mm";
+"date_format_month" = "EEE, d MMMM";
+"date_format_week_date" = "EEE, d MMMM yyyy";
 "declined" = "Отклоненный";
 "delete" = "Удалить";
 "delete_account_detail_hint" = "Локальные сообщения и резервные копии iCloud не будут удаляться автоматически";
@@ -440,7 +440,7 @@
 "last_backup_hint" = "Последняя резервная копия %@, общий размер %@.";
 "later" = "Потом";
 "learn_more" = "Узнать больше";
-"light" = "Свет";
+"light" = "светлое";
 "line_busy" = "Линия занята";
 "line_busy_remote" = "Линия занята";
 "link_recognition_failure" = "Сбой распознавания ссылки";
@@ -552,7 +552,7 @@
 "open_home_page" = "Открыть домашнюю страницу";
 "open_in_browser" = "Открыть в браузере";
 "open_in_gaode_maps" = "Открыто в 高德地图";
-"open_in_google_maps" = "Открыть в картах Google";
+"open_in_google_maps" = "Открыть в Google Maps";
 "open_in_maps" = "Открыть в Картах";
 "open_link" = "Открыть ссылку: %@";
 "open_url" = "Открыть URL";
@@ -597,7 +597,7 @@
 "pin_creation" = "создание PIN-кода";
 "pin_incorrect" = "PIN-код неверный";
 "pin_lost_hint" = "В случае утери кошелек невозможно восстановить.";
-"pin_title" = "Pin";
+"pin_title" = "Закрепить";
 "pinned_a_audio" = "%@ закрепил аудио";
 "pinned_a_card" = "%@ закрепил карту";
 "pinned_a_contact" = "%@ закрепил контакт";
@@ -867,7 +867,7 @@
 "user_not_found" = "Пользователь не найден";
 "validation_timed_out" = "Время проверки истекло";
 "value_now" = "значение сейчас %@";
-"value_then" = "значение, затем %@";
+"value_then" = "значение затем %@";
 "verify" = "Проверить";
 "verify_pin" = "Подтвердить PIN-код";
 "version_update" = "Обновление версии";
