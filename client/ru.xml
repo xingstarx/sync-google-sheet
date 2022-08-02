@@ -362,7 +362,7 @@
   <string name="Current_Selected" platform="iOS">Текущий выбранный</string>
   <string name="Custom_Time" platform="android, iOS">Пользовательское время</string>
   <string name="Daily" platform="iOS">Повседневный</string>
-  <string name="Dark" platform="iOS, Desktop">темное</string>
+  <string name="Dark" platform="iOS, Desktop">Темное</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Использование данных и хранилища</string>
   <string name="Data_error" platform="android, Desktop">Ошибка данных</string>
   <string name="Data_loading" platform="android, Desktop">Загрузка данных, пожалуйста, подождите...</string>
@@ -682,7 +682,7 @@
   <string name="Later" platform="android, iOS">Потом</string>
   <string name="Learn_More" platform="android, iOS, Desktop">Узнать больше</string>
   <string name="less" platform="Desktop">меньше</string>
-  <string name="Light" platform="iOS, Desktop">светлое</string>
+  <string name="Light" platform="iOS, Desktop">Светлое</string>
   <string name="Line_busy" platform="android, iOS">Линия занята</string>
   <string name="Line_busy_remote" platform="android, iOS">Линия занята</string>
   <string name="Link_desktop_failed" platform="android">Связать рабочий стол не удалось</string>
