@@ -362,7 +362,7 @@
   <string name="Current_Selected" platform="iOS">Текущий выбранный</string>
   <string name="Custom_Time" platform="android, iOS">Пользовательское время</string>
   <string name="Daily" platform="iOS">Повседневный</string>
-  <string name="Dark" platform="iOS, Desktop">Темный</string>
+  <string name="Dark" platform="iOS, Desktop">темное</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Использование данных и хранилища</string>
   <string name="Data_error" platform="android, Desktop">Ошибка данных</string>
   <string name="Data_loading" platform="android, Desktop">Загрузка данных, пожалуйста, подождите...</string>
@@ -370,10 +370,10 @@
   <string name="Database_access" platform="iOS">Доступ к базе данных</string>
   <string name="database_upgrade_tips" platform="android, iOS">База данных обновляется, это может занять несколько минут, пожалуйста, не закрывайте это приложение.</string>
   <string name="Date" platform="android, iOS">Дата</string>
-  <string name="date_format_date" platform="android, iOS">МММ дд, гггг</string>
-  <string name="date_format_day" platform="iOS">чч:мм</string>
-  <string name="date_format_month" platform="iOS">Э, д МММ</string>
-  <string name="date_format_week_date" platform="iOS">Э, д МММ гггг</string>
+  <string name="date_format_date" platform="android, iOS">dd.MM.yyyy</string>
+  <string name="date_format_day" platform="iOS">H:mm</string>
+  <string name="date_format_month" platform="iOS">EEE, d MMMM</string>
+  <string name="date_format_week_date" platform="iOS">EEE, d MMMM yyyy</string>
   <string name="db_debug_warning" platform="android">Внимание: Если выполняется вредоносная инструкция SQL, результат необратим!</string>
   <string name="Debug_database" platform="android">Отладка базы данных</string>
   <string name="Decline" platform="android">Отклонить</string>
@@ -682,7 +682,7 @@
   <string name="Later" platform="android, iOS">Потом</string>
   <string name="Learn_More" platform="android, iOS, Desktop">Узнать больше</string>
   <string name="less" platform="Desktop">меньше</string>
-  <string name="Light" platform="iOS, Desktop">Свет</string>
+  <string name="Light" platform="iOS, Desktop">светлое</string>
   <string name="Line_busy" platform="android, iOS">Линия занята</string>
   <string name="Line_busy_remote" platform="android, iOS">Линия занята</string>
   <string name="Link_desktop_failed" platform="android">Связать рабочий стол не удалось</string>
@@ -858,7 +858,7 @@
   <string name="Open_Home_page" platform="android, iOS, Desktop">Открыть домашнюю страницу</string>
   <string name="Open_in_browser" platform="android, iOS">Открыть в браузере</string>
   <string name="Open_in_gaode_maps" platform="iOS">Открыто в 高德地图</string>
-  <string name="Open_in_google_maps" platform="iOS">Открыть в картах Google</string>
+  <string name="Open_in_google_maps" platform="iOS">Открыть в Google Maps</string>
   <string name="Open_in_maps" platform="iOS">Открыть в Картах</string>
   <string name="Open_Link" platform="android, iOS">Открыть ссылку: %1$s</string>
   <string name="open_log_directory" platform="Desktop">открыть каталог журналов</string>
@@ -914,7 +914,7 @@
   <string name="pin_creation" platform="android, iOS">создание PIN-кода</string>
   <string name="PIN_incorrect" platform="android, iOS">PIN-код неверный</string>
   <string name="pin_lost_hint" platform="android, iOS">В случае утери кошелек невозможно восстановить.</string>
-  <string name="pin_title" platform="android, iOS, Desktop">Pin</string>
+  <string name="pin_title" platform="android, iOS, Desktop">Закрепить</string>
   <string name="pinned_a_audio" platform="iOS">%@ закрепил аудио</string>
   <string name="pinned_a_card" platform="iOS">%@ закрепил карту</string>
   <string name="pinned_a_contact" platform="iOS">%@ закрепил контакт</string>
@@ -1306,7 +1306,7 @@
   <string name="User_not_found" platform="android, iOS, Desktop">Пользователь не найден</string>
   <string name="Validation_timed_out" platform="iOS">Время проверки истекло</string>
   <string name="value_now" platform="android, iOS, Desktop">значение сейчас %1$s</string>
-  <string name="value_then" platform="android, iOS, Desktop">значение, затем %1$s</string>
+  <string name="value_then" platform="android, iOS, Desktop">значение затем %1$s</string>
   <string name="Verify" platform="android, iOS">Проверить</string>
   <string name="Verify_by_Biometric" platform="android">Подтвердить по биометрии</string>
   <string name="Verify_PIN" platform="android, iOS">Подтвердить PIN-код</string>
