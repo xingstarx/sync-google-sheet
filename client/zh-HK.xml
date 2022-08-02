@@ -140,7 +140,7 @@
   <string name="Backup_delete" platform="android">刪除備份</string>
   <string name="backup_des" platform="android">備份對話記錄到外部存儲以便在重新安裝 Mixin 時還原對話記錄，備份到外部存儲的對話不會進行加密處理。</string>
   <string name="backup_dialog_title" platform="android">自動備份到外部存儲</string>
-  <string name="backup_disable_hint" platform="iOS">需要登錄 iCloud 來備份你的聊天記錄。 設置 &gt; iCloud &gt; 打開 iCloud 雲盤。</string>
+  <string name="backup_disable_hint" platform="iOS">需要登錄 iCloud 來備份你的聊天記錄。 設置 &gt; iCloud &gt; 打開 iCloud 雲碟。</string>
   <string name="backup_external_storage" platform="android">外部存儲： %1$s</string>
   <string name="backup_failure_tip" platform="android">備份異常，請重試。</string>
   <string name="Backup_found" platform="android">找到備份</string>
@@ -154,11 +154,11 @@
   <string name="Balance" platform="iOS">餘額</string>
   <string name="biography" platform="Desktop">簡介</string>
   <string name="Biometric_Payment" platform="android">生物識別支付</string>
-  <string name="Block" platform="android, iOS, Desktop">封鎖用户</string>
-  <string name="block_hint" platform="iOS">封鎖後對方無法向您撥打電話或發送消息</string>
-  <string name="block_tip" platform="android, iOS">被封鎖的用户不能給你發送消息或者邀請你加入羣聊</string>
-  <string name="Blocked" platform="android, iOS">已封鎖</string>
-  <string name="Blocked_Users" platform="android, iOS">封鎖名單</string>
+  <string name="Block" platform="android, iOS, Desktop">屏蔽用户</string>
+  <string name="block_hint" platform="iOS">屏蔽後對方無法向您撥打電話或發送消息</string>
+  <string name="block_tip" platform="android, iOS">被屏蔽的用户不能給你發送消息或者邀請你加入羣聊</string>
+  <string name="Blocked" platform="android, iOS">已屏蔽</string>
+  <string name="Blocked_Users" platform="android, iOS">屏蔽名單</string>
   <string name="bold" platform="android">粗體</string>
   <string name="Books" platform="iOS">圖書</string>
   <string name="bot_dock_empty" platform="android">長按並拖拽機器人置頂</string>
@@ -789,7 +789,7 @@
   <string name="NO_AUDIO" platform="android, iOS, Desktop">沒有音頻</string>
   <string name="NO_AUTHORIZATIONS" platform="android, iOS">沒有授權任何機器人</string>
   <string name="No_Available_Assets" platform="android">沒有可用資產</string>
-  <string name="No_blocked_users" platform="android, iOS">沒有封鎖任何人</string>
+  <string name="No_blocked_users" platform="android, iOS">沒有屏蔽任何人</string>
   <string name="NO_BOTS" platform="android, iOS">沒有機器人</string>
   <string name="No_camera" platform="android, Desktop">沒有相機</string>
   <string name="no_data" platform="Desktop">沒有數據</string>
@@ -973,7 +973,7 @@
   <string name="Removing" platform="android">正在移除…</string>
   <string name="Reply" platform="android, iOS, Desktop">回覆</string>
   <string name="Report" platform="android, iOS, Desktop">舉報</string>
-  <string name="Report_and_block" platform="android, iOS, Desktop">舉報並封鎖？</string>
+  <string name="Report_and_block" platform="android, iOS, Desktop">舉報並屏蔽？</string>
   <string name="report_title" platform="iOS">給開發人員發送聊天日誌？</string>
   <string name="Represent_Messages" platform="android, iOS">代發消息</string>
   <string name="Requests_access_to_your" platform="android">需要訪問你的</string>
@@ -1240,7 +1240,7 @@
   <string name="Unable_to_save_video" platform="iOS">保存視頻失敗</string>
   <string name="Unable_to_share_content" platform="iOS">無法分享此內容</string>
   <string name="Unauthorized" platform="iOS">未授權</string>
-  <string name="Unblock" platform="android, iOS, Desktop">解除封鎖</string>
+  <string name="Unblock" platform="android, iOS, Desktop">解除屏蔽</string>
   <string name="UNDO" platform="android">撤銷</string>
   <string name="unit_day" platform="android, iOS, Desktop">天</string>
   <string name="unit_day.count" platform="android, iOS, Desktop">天</string>

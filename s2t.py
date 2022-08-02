@@ -4,11 +4,12 @@ import xml.etree.ElementTree as ET
 
 white_dict = {
     "周":"週",
-    "屏蔽":"封鎖",
-    "代码":"代碼",
+    "遮蔽":"封鎖",
+    "程式碼":"代碼",
     "通用":"一般",
     "文件":"檔案",
-    "蜂窝移动网":"行動數據",
+    "蜂窩移動網":"行動數據",
+    "雲盤":"雲碟",
 }
 
 converter = opencc.OpenCC('s2twp.json')
@@ -18,10 +19,10 @@ rootElement = xmlTree.getroot()
 for element in rootElement.findall('string'):
     exists = element.get('zh-TW')
     if exists:
-        content = exists
+        element.text = exists
     else:
-        content = reduce(lambda x, y: x.replace(*y), [element.text, *list(white_dict.items())])
-    element.text = converter.convert(content)
+        content = converter.convert(element.text)
+        element.text = reduce(lambda x, y: x.replace(*y), [content, *list(white_dict.items())])
 
 xmlTree.write('./client/zh-TW.xml', encoding='UTF-8')
 
@@ -32,9 +33,9 @@ rootElement = xmlTree.getroot()
 for element in rootElement.findall('string'):
     exists = element.get('zh-HK')
     if exists:
-        content = exists
+        element.text = exists
     else:
-        content = reduce(lambda x, y: x.replace(*y), [element.text, *list(white_dict.items())])
-    element.text = converter.convert(content)
+        content = converter.convert(element.text)
+        element.text = reduce(lambda x, y: x.replace(*y), [content, *list(white_dict.items())])
 
 xmlTree.write('./client/zh-HK.xml', encoding='UTF-8')
