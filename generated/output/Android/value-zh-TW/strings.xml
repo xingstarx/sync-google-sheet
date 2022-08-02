@@ -111,10 +111,10 @@
 	<string name="backup_notification_title">備份正在進行中</string>
 	<string name="Backup_success">備份成功</string>
 	<string name="Biometric_Payment">生物識別支付</string>
-	<string name="Block">遮蔽使用者</string>
-	<string name="block_tip">被遮蔽的使用者不能給你傳送訊息或者邀請你加入群聊</string>
-	<string name="Blocked">已遮蔽</string>
-	<string name="Blocked_Users">遮蔽名單</string>
+	<string name="Block">封鎖使用者</string>
+	<string name="block_tip">被封鎖的使用者不能給你傳送訊息或者邀請你加入群聊</string>
+	<string name="Blocked">已封鎖</string>
+	<string name="Blocked_Users">封鎖名單</string>
 	<string name="bold">粗體</string>
 	<string name="bot_dock_empty">長按並拖拽機器人置頂</string>
 	<string name="bot_empty_tip">可以新增你喜歡的機器人</string>
@@ -309,16 +309,16 @@
 	<string name="Disable_web_debug">已關閉 Web 除錯</string>
 	<string name="Disabled">已停用</string>
 	<string name="disappearing_message">限時訊息</string>
-	<string name="disappearing_message_hint">啟用後，在此聊天中傳送和接收的新資訊在被看到後會消失，閱讀文件以**瞭解更多**。</string>
+	<string name="disappearing_message_hint">啟用後，在此聊天中傳送和接收的新資訊在被看到後會消失，閱讀檔案以**瞭解更多**。</string>
 	<string name="disappearing_option_1">30 秒</string>
 	<string name="disappearing_option_2">10 分</string>
 	<string name="disappearing_option_3">2 小時</string>
 	<string name="disappearing_option_4">1 天</string>
-	<string name="disappearing_option_5">1 周</string>
+	<string name="disappearing_option_5">1 週</string>
 	<string name="DISCARD">放棄</string>
 	<string name="Dismiss_as_Admin">撤銷管理員身份</string>
 	<string name="divide">、</string>
-	<string name="Documents">文件</string>
+	<string name="Documents">檔案</string>
 	<string name="Done">完成</string>
 	<string name="Draw">繪製</string>
 	<string name="Duplicate_Transfer_Confirmation">重複轉賬確認</string>
@@ -414,7 +414,7 @@
 	<string name="File_chooser_error">檔案選擇錯誤</string>
 	<string name="File_does_not_exist">檔案不存在</string>
 	<string name="File_error">檔案錯誤</string>
-	<string name="Files">文件</string>
+	<string name="Files">檔案</string>
 	<string name="Filter">篩選</string>
 	<string name="FILTER_BY">篩選</string>
 	<string name="fingerprint_lock">指紋鎖定</string>
@@ -582,7 +582,7 @@
 	<string name="NO_AUDIO">沒有音訊</string>
 	<string name="NO_AUTHORIZATIONS">沒有授權任何機器人</string>
 	<string name="No_Available_Assets">沒有可用資產</string>
-	<string name="No_blocked_users">沒有遮蔽任何人</string>
+	<string name="No_blocked_users">沒有封鎖任何人</string>
 	<string name="NO_BOTS">沒有機器人</string>
 	<string name="No_camera">沒有相機</string>
 	<string name="No_deposits">暫無充值記錄</string>
@@ -713,7 +713,7 @@
 	<string name="Removing">正在移除…</string>
 	<string name="Reply">回覆</string>
 	<string name="Report">舉報</string>
-	<string name="Report_and_block">舉報並遮蔽？</string>
+	<string name="Report_and_block">舉報並封鎖？</string>
 	<string name="Represent_Messages">代發訊息</string>
 	<string name="Requests_access_to_your">需要訪問你的</string>
 	<string name="Resend_code">重發驗證碼</string>
@@ -796,7 +796,7 @@
 	<string name="setting_data_title">自動下載檔案</string>
 	<string name="setting_data_wifi">當連線到 Wi-Fi 時</string>
 	<string name="setting_delete_account_content_2">本地資訊和備份不會被自動刪除</string>
-	<string name="setting_delete_account_pin_content">如果您繼續，您的個人資料和賬戶資訊將在%1$s被刪除。閱讀我們的文件以**瞭解更多**。</string>
+	<string name="setting_delete_account_pin_content">如果您繼續，您的個人資料和賬戶資訊將在%1$s被刪除。閱讀我們的檔案以**瞭解更多**。</string>
 	<string name="setting_delete_account_send">我們將傳送 4 位驗證碼到手機 %1$s</string>
 	<string name="setting_delete_account_tip">你的 Mixin 錢包還有一些資產，可以提現至其他錢包或交易所，賬戶一旦登出，這些資產將和錢包一起被棄用無法找回。</string>
 	<string name="setting_desktop_confirm">確認登入 Mixin Messenger 桌面端</string>
@@ -805,7 +805,7 @@
 	<string name="setting_emergency_change_mobile">立即修改手機號？</string>
 	<string name="setting_emergency_content">緊急聯絡人旨在幫助你在丟失且無法找回手機號的情況下登入你的賬號。</string>
 	<string name="setting_emergency_create_success">新增緊急聯絡人成功</string>
-	<string name="setting_emergency_desc">請放心，即使您的手機號丟失無法找回錢包資產也很安全，請牢記您的 PIN，閱讀文件**瞭解更多**。</string>
+	<string name="setting_emergency_desc">請放心，即使您的手機號丟失無法找回錢包資產也很安全，請牢記您的 PIN，閱讀檔案**瞭解更多**。</string>
 	<string name="setting_emergency_pin_tip">緊急聯絡人受 PIN 加密保護</string>
 	<string name="setting_emergency_send_code">請輸入傳送至以下 Mixin ID 的 4 位驗證碼：%1$s</string>
 	<string name="setting_emergency_set">設定緊急聯絡人</string>
@@ -911,7 +911,7 @@
 	<string name="Tuesday">星期二</string>
 	<string name="Turn_On_Notifications">開啟通知</string>
 	<string name="Type_message">輸入訊息</string>
-	<string name="Unblock">解除遮蔽</string>
+	<string name="Unblock">解除封鎖</string>
 	<string name="UNDO">撤銷</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">天</item>
@@ -930,8 +930,8 @@
 		<item quantity="other">秒</item>
 	</plurals>
 	<plurals name="unit_week" tools:ignore="UnusedQuantity">
-		<item quantity="one">周</item>
-		<item quantity="other">周</item>
+		<item quantity="one">週</item>
+		<item quantity="other">週</item>
 	</plurals>
 	<string name="Unknown">未知</string>
 	<string name="Unlock_with_fingerprint">使用指紋解鎖</string>
@@ -978,12 +978,12 @@
 	<string name="wallet_password_change_tip">請輸入6位 PIN 來驗證</string>
 	<string name="wallet_password_not_equal">PIN 不一致, 請重新輸入</string>
 	<string name="wallet_password_set_new_pin_desc">設定新的 6 位數字 PIN</string>
-	<string name="wallet_password_set_pin_desc">設定 6 位數字 PIN 建立你的第一個數字錢包，閱讀文件以**瞭解更多**。</string>
+	<string name="wallet_password_set_pin_desc">設定 6 位數字 PIN 建立你的第一個數字錢包，閱讀檔案以**瞭解更多**。</string>
 	<string name="wallet_password_unsafe">PIN 過於簡單不安全</string>
 	<string name="wallet_pin_modify_biometrics">請輸入 PIN 來修改支付 PIN 使用間隔</string>
 	<string name="wallet_pin_open_biometrics">請輸入 PIN 來啟用生物識別支付</string>
 	<string name="wallet_pin_pay_interval_tips">為了您的資產安全，距離上次輸入支付 PIN 的時間超過以上指定時間時，再次轉賬時已然需要支付 PIN</string>
-	<string name="wallet_pin_tops_desc">注意 PIN 丟失無法找回，6 位數字 PIN 是基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀文件以**瞭解更多**。</string>
+	<string name="wallet_pin_tops_desc">注意 PIN 丟失無法找回，6 位數字 PIN 是基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
 	<string name="wallet_refresh_address_failed">手續費已變更且重新整理失敗，請重試。</string>
 	<string name="wallet_setting_currency_desc">%1$s（%2$s）</string>
 	<string name="wallet_transaction_continue_count_down">繼續 （%1$d）</string>

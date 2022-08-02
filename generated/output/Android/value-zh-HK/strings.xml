@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 	<string name="a_card">一個卡片</string>
 	<string name="a_contact">一個聯繫人</string>
-	<string name="a_file">一個文件</string>
+	<string name="a_file">一個檔案</string>
 	<string name="a_live">一個直播</string>
 	<string name="a_location">一個位置</string>
 	<string name="a_message">一條消息</string>
@@ -48,7 +48,7 @@
 	<string name="alert_key_contact_audio_call_message">發起了語音通話</string>
 	<string name="alert_key_contact_audio_message">發送一條語音</string>
 	<string name="alert_key_contact_contact_message">分享了一個聯繫人</string>
-	<string name="alert_key_contact_data_message">發送一個文件</string>
+	<string name="alert_key_contact_data_message">發送一個檔案</string>
 	<string name="alert_key_contact_image_message">發送一張照片</string>
 	<string name="alert_key_contact_live_message">發送一個直播</string>
 	<string name="alert_key_contact_location_message">發送了一個位置</string>
@@ -61,7 +61,7 @@
 	<string name="alert_key_group_audio_invite_message">%1$s邀請你進行語音通話</string>
 	<string name="alert_key_group_audio_message">%1$s發送一條語音</string>
 	<string name="alert_key_group_contact_message">%1$s分享了一個聯繫人</string>
-	<string name="alert_key_group_data_message">%1$s發送一個文件</string>
+	<string name="alert_key_group_data_message">%1$s發送一個檔案</string>
 	<string name="alert_key_group_image_message">%1$s發送一張照片</string>
 	<string name="alert_key_group_live_message">%1$s發送一個直播</string>
 	<string name="alert_key_group_location_message">%1$s發送一個位置</string>
@@ -96,7 +96,7 @@
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="Backing_Up">正在備份…</string>
 	<string name="Backup">備份</string>
-	<string name="backup_choose_a_folder">請選擇用於保存備份的文件夾</string>
+	<string name="backup_choose_a_folder">請選擇用於保存備份的檔案夾</string>
 	<string name="Backup_delete">刪除備份</string>
 	<string name="backup_des">備份對話記錄到外部存儲以便在重新安裝 Mixin 時還原對話記錄，備份到外部存儲的對話不會進行加密處理。</string>
 	<string name="backup_dialog_title">自動備份到外部存儲</string>
@@ -104,7 +104,7 @@
 	<string name="backup_failure_tip">備份異常，請重試。</string>
 	<string name="Backup_found">找到備份</string>
 	<string name="backup_ing">正在備份到外部存儲…</string>
-	<string name="backup_media">包含媒體文件</string>
+	<string name="backup_media">包含媒體檔案</string>
 	<string name="backup_media_title">備份到外部存儲</string>
 	<string name="backup_no_available_memory">沒有足夠的空間來備份。</string>
 	<string name="backup_notification_content">正在準備備份…</string>
@@ -177,7 +177,7 @@
 	<string name="chat_group_join">%1$s通過邀請鏈接加入羣組</string>
 	<string name="chat_group_remove">%1$s移除了%2$s</string>
 	<string name="chat_import_content">導入聊天記錄到%1$s？</string>
-	<string name="chat_import_fail_content">導入聊天記錄失敗！是否按文件發送？</string>
+	<string name="chat_import_fail_content">導入聊天記錄失敗！是否按檔案發送？</string>
 	<string name="chat_list_empty_info">你可以與你的 Mixin 好友一起聊天。</string>
 	<string name="chat_not_support">不支持此類型消息。請升級 Mixin 查看。 %1$s。</string>
 	<string name="chat_on_mixin_content">快來 Mixin 與我聊天！簡單、安全好用還支持比特幣、以太坊等加密貨幣，下載 https://mixin.one/messenger 後搜索 @%1$s 加我好友。</string>
@@ -191,7 +191,7 @@
 	<string name="Checking_link">正在檢查鏈接</string>
 	<string name="Checking_payment_info">請檢查支付信息</string>
 	<string name="CHOOSE">選擇</string>
-	<string name="Choose_folder">選擇文件夾</string>
+	<string name="Choose_folder">選擇檔案夾</string>
 	<string name="circle_bottom">為不同對話創建圈子然後在它們之間快速切換</string>
 	<string name="circle_delete_tip">確認刪除 \"%1$s\"？</string>
 	<string name="circle_info">新建一個圈子可以過濾會話</string>
@@ -231,7 +231,7 @@
 	<string name="CONTACTS">聯繫人</string>
 	<string name="content_audio">[語音]</string>
 	<string name="content_contact">[聯繫人]</string>
-	<string name="content_file">[文件]</string>
+	<string name="content_file">[檔案]</string>
 	<string name="content_group_call">[羣組語音]</string>
 	<string name="content_live">[直播]</string>
 	<string name="content_location">[位置]</string>
@@ -314,7 +314,7 @@
 	<string name="disappearing_option_2">10 分</string>
 	<string name="disappearing_option_3">2 小時</string>
 	<string name="disappearing_option_4">1 天</string>
-	<string name="disappearing_option_5">1 周</string>
+	<string name="disappearing_option_5">1 週</string>
 	<string name="DISCARD">放棄</string>
 	<string name="Dismiss_as_Admin">撤銷管理員身份</string>
 	<string name="divide">、</string>
@@ -410,10 +410,10 @@
 	<string name="Failure">錯誤</string>
 	<string name="Fee">手續費</string>
 	<string name="Feedback">反饋</string>
-	<string name="File">文件</string>
-	<string name="File_chooser_error">文件選擇錯誤</string>
-	<string name="File_does_not_exist">文件不存在</string>
-	<string name="File_error">文件錯誤</string>
+	<string name="File">檔案</string>
+	<string name="File_chooser_error">檔案選擇錯誤</string>
+	<string name="File_does_not_exist">檔案不存在</string>
+	<string name="File_error">檔案錯誤</string>
 	<string name="Files">文檔</string>
 	<string name="Filter">篩選</string>
 	<string name="FILTER_BY">篩選</string>
@@ -587,7 +587,7 @@
 	<string name="No_camera">沒有相機</string>
 	<string name="No_deposits">暫無充值記錄</string>
 	<string name="No_fees">暫無手續費記錄</string>
-	<string name="NO_FILES">沒有文件</string>
+	<string name="NO_FILES">沒有檔案</string>
 	<string name="No_hidden_assets">沒有隱藏的資產</string>
 	<string name="NO_LINKS">沒有鏈接</string>
 	<string name="No_logs">沒有日誌</string>
@@ -722,11 +722,11 @@
 	<string name="Reset_notifications">重置通知設置</string>
 	<string name="RESTART">重啓應用</string>
 	<string name="Restore">恢復</string>
-	<string name="restore_choose_backup_folder">未找到備份文件，選擇備份文件夾</string>
+	<string name="restore_choose_backup_folder">未找到備份檔案，選擇備份檔案夾</string>
 	<string name="restore_in_progress">還原正在進行中</string>
 	<string name="restore_info">從外部存儲還原您的對話。如果您選擇現在不進行還原，您稍後將無法還原資料。</string>
 	<string name="restore_message">如果您之前曾備份到外部存儲並且現在想要還原備份，請給與 Mixin 相應權限以檢查您外部存儲裏的備份。</string>
-	<string name="restore_not_found">未找到備份文件，請將備份文件放入 %1$s</string>
+	<string name="restore_not_found">未找到備份檔案，請將備份檔案放入 %1$s</string>
 	<string name="restore_path">備份路徑：%1$s</string>
 	<string name="Restoring">正在恢復…</string>
 	<string name="Retry">重試</string>
@@ -766,7 +766,7 @@
 	<string name="Select">選擇</string>
 	<string name="Select_Emergency_Contact">選擇緊急聯繫人</string>
 	<string name="Send">發送</string>
-	<string name="Send_as_file">按文件發送</string>
+	<string name="Send_as_file">按檔案發送</string>
 	<string name="send_file_group">將 \"%1$s\" 發送給 \"%2$s\"？</string>
 	<string name="Send_Message">發消息</string>
 	<string name="Send_This_Location">發送這個位置</string>
@@ -793,7 +793,7 @@
 	<string name="setting_conversation_group_tip">誰能加我進入羣組</string>
 	<string name="setting_conversation_tip">誰可以給我發消息</string>
 	<string name="setting_data_mobile">當使用移動數據時</string>
-	<string name="setting_data_title">自動下載文件</string>
+	<string name="setting_data_title">自動下載檔案</string>
 	<string name="setting_data_wifi">當連接到 Wi-Fi 時</string>
 	<string name="setting_delete_account_content_2">本地信息和備份不會被自動刪除</string>
 	<string name="setting_delete_account_pin_content">如果您繼續，您的個人資料和賬户信息將在%1$s被刪除。閲讀我們的文檔以**瞭解更多**。</string>
@@ -855,7 +855,7 @@
 	<string name="stickers_count">%d 個表情</string>
 	<string name="Stop_Playing">停止播放</string>
 	<string name="Stop_playing_this_list">確定要停止並關閉播放列表？</string>
-	<string name="storage_low_message">手機存儲空間嚴重不足，建議清理不重要的視頻和文件、卸載不常用的軟件，以免影響 Mixin 的使用體驗，甚至可能造成聊天丟失或數據損壞</string>
+	<string name="storage_low_message">手機存儲空間嚴重不足，建議清理不重要的視頻和檔案、卸載不常用的軟件，以免影響 Mixin 的使用體驗，甚至可能造成聊天丟失或數據損壞</string>
 	<string name="storage_low_title">手機儲存空間即將用盡</string>
 	<string name="Storage_Usage">儲存空間</string>
 	<string name="stranger_hint">對方不是你的聯繫人</string>
@@ -930,8 +930,8 @@
 		<item quantity="other">秒</item>
 	</plurals>
 	<plurals name="unit_week" tools:ignore="UnusedQuantity">
-		<item quantity="one">周</item>
-		<item quantity="other">周</item>
+		<item quantity="one">週</item>
+		<item quantity="other">週</item>
 	</plurals>
 	<string name="Unknown">未知</string>
 	<string name="Unlock_with_fingerprint">使用指紋解鎖</string>
