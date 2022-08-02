@@ -1406,4 +1406,14 @@
   <string name="zoom" platform="Desktop">Zoom</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
   <string name="disappearing_custom_time_max_warning" platform="Desktop">The maximum time is %1$s.</string>
+  <string name="NSContactsUsageDescription" platform="iOSAuthorization">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
+  <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin uses the camera to set profile photo, and send photo to your contact in chat</string>
+  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
+  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin uses your microphone to record voice messages to share with your contacts</string>
+  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin uses Face ID to authorize payment</string>
+  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Turn on location services to send your current location or nearby places in conversation</string>
+  <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
+  <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
+  <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
+  <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
 </resources>
