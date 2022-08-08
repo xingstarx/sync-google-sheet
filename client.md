@@ -1061,7 +1061,7 @@
 | iOS | Select_More_Photos | Select More Photos | 选择更多照片 | さらに選択 |     |     |
 | iOS | selected_count | %@ Selected | 选择了 %@ 个消息 | %@を選択しています。 |     |     |
 | iOS | selected_Item | Selected 1 Item | 已选择 1 项 | 選択されたアイテム |     |     |
-| iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %1$dアイテムを選択しています |     |     |
+| iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %d件選択中 |     |     |
 | iOS | selected_photo | Selected 1 Photo | 已选择 1 张图片 | 選択された写真 |     |     |
 | iOS | selected_photo.count | Selected %1$d Photos | 已选择 %1$d 张图片 | %1$dの写真を選択しています |     |     |
 | iOS | selected_video | Selected 1 Video | 已选择 1 个视频 | 選択されたビデオ |     |     |
