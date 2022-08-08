@@ -1073,7 +1073,7 @@
 | iOS | Send_as_Files | Send as Files | 发送为文件 | 複数ファイルとして送信する |     |     |
 | android | send_file_group | Send "%1$s" to "%2$s"? | 将 "%1$s" 发送给 "%2$s"？ | "%1$s"を"%2$s"に送りますか？ | Hantar "%1$s" ke "%2$s"? | Kirim "%1$s" ke "%2$s"? |
 | iOS | send_item | Send 1 Item | 发送 1 项 | アイテムを一つ送信 |     |     |
-| iOS | send_item.count | Send %1$d Items | 发送 %1$d 项 | %1$dのアイテムを送信 |     |     |
+| iOS | send_item.count | Send %1$d Items | 发送 %1$d 项 | %1$d件を送信 |     |     |
 | android, iOS | Send_Message | Send Message | 发消息 | メッセージを送信 | Menghantar mesej | Kirim Pesan |
 | iOS | send_photo | Send 1 Photo | 发送 1 张图片 | 写真を送信 |     |     |
 | iOS | send_photo.count | Send %1$d Photos | 发送 %1$d 张图片 | %1$d枚の写真を送信 |     |     |
@@ -1085,7 +1085,7 @@
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
 | iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |
 | iOS | send_video | Send 1 Video | 发送 1 个视频 | ビデオを送信 |     |     |
-| iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$dのビデオを送信 |     |     |
+| iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$d本のビデオを送信 |     |     |
 | Desktop | send_without_compression | Send without compression | 发送原始文件 | 圧縮せずに送信 |     |     |
 | android, iOS, Desktop | Send_Without_Sound | Send Without Sound | 静音发送 | 通知音を鳴らさずに送信する |     |     |
 | android, iOS | Send_your_Current_Location | Send your Current Location | 发送您当前的位置 | 現在地を送信 | Hantarkan Lokasi Semasa Anda | Kirim Lokasi Anda Saat Ini |

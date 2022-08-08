@@ -1070,7 +1070,7 @@
   <string name="Send_as_Files" platform="iOS">複数ファイルとして送信する</string>
   <string name="send_file_group" platform="android">"%1$s"を"%2$s"に送りますか？</string>
   <string name="send_item" platform="iOS">アイテムを一つ送信</string>
-  <string name="send_item.count" platform="iOS">%1$dのアイテムを送信</string>
+  <string name="send_item.count" platform="iOS">%1$d件を送信</string>
   <string name="Send_Message" platform="android, iOS">メッセージを送信</string>
   <string name="send_photo" platform="iOS">写真を送信</string>
   <string name="send_photo.count" platform="iOS">%1$d枚の写真を送信</string>
@@ -1082,7 +1082,7 @@
   <string name="Send_transfer" platform="android">送信</string>
   <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
   <string name="send_video" platform="iOS">ビデオを送信</string>
-  <string name="send_video.count" platform="iOS">%1$dのビデオを送信</string>
+  <string name="send_video.count" platform="iOS">%1$d本のビデオを送信</string>
   <string name="send_without_compression" platform="Desktop">圧縮せずに送信</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">通知音を鳴らさずに送信する</string>
   <string name="Send_your_Current_Location" platform="android, iOS">現在地を送信</string>
