@@ -1058,11 +1058,11 @@
   <string name="Select_More_Photos" platform="iOS">さらに選択</string>
   <string name="selected_count" platform="iOS">%@を選択しています。</string>
   <string name="selected_Item" platform="iOS">選択されたアイテム</string>
-  <string name="selected_Item.count" platform="iOS">%1$sアイテムを選択しています</string>
+  <string name="selected_Item.count" platform="iOS">%1$dアイテムを選択しています</string>
   <string name="selected_photo" platform="iOS">選択された写真</string>
-  <string name="selected_photo.count" platform="iOS">%1$sの写真を選択しています</string>
+  <string name="selected_photo.count" platform="iOS">%1$dの写真を選択しています</string>
   <string name="selected_video" platform="iOS">選択されたビデオ</string>
-  <string name="selected_video.count" platform="iOS">%1$sのビデオを選択しています</string>
+  <string name="selected_video.count" platform="iOS">%1$dのビデオを選択しています</string>
   <string name="Send" platform="android, iOS, Desktop">送る</string>
   <string name="send_archived" platform="Desktop">1つのZIPファイルにアーカイブ</string>
   <string name="Send_as_File" platform="iOS">ファイルとして送信する</string>
@@ -1070,10 +1070,10 @@
   <string name="Send_as_Files" platform="iOS">複数ファイルとして送信する</string>
   <string name="send_file_group" platform="android">"%1$s"を"%2$s"に送りますか？</string>
   <string name="send_item" platform="iOS">アイテムを一つ送信</string>
-  <string name="send_item.count" platform="iOS">%1$sのアイテムを送信</string>
+  <string name="send_item.count" platform="iOS">%1$dのアイテムを送信</string>
   <string name="Send_Message" platform="android, iOS">メッセージを送信</string>
   <string name="send_photo" platform="iOS">写真を送信</string>
-  <string name="send_photo.count" platform="iOS">%1$s枚の写真を送信</string>
+  <string name="send_photo.count" platform="iOS">%1$d枚の写真を送信</string>
   <string name="send_quickly" platform="Desktop">クイック送信</string>
   <string name="Send_This_Location" platform="android, iOS">位置情報を送信</string>
   <string name="send_to" platform="android, iOS">%1$sへ送信</string>
@@ -1082,11 +1082,11 @@
   <string name="Send_transfer" platform="android">送信</string>
   <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
   <string name="send_video" platform="iOS">ビデオを送信</string>
-  <string name="send_video.count" platform="iOS">%1$sのビデオを送信</string>
+  <string name="send_video.count" platform="iOS">%1$dのビデオを送信</string>
   <string name="send_without_compression" platform="Desktop">圧縮せずに送信</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">通知音を鳴らさずに送信する</string>
   <string name="Send_your_Current_Location" platform="android, iOS">現在地を送信</string>
-  <string name="send.count" platform="iOS">送信(%1$s)</string>
+  <string name="send.count" platform="iOS">送信(%1$d)</string>
   <string name="Senders" platform="android, iOS">送信者</string>
   <string name="Set" platform="android, iOS, Desktop">設定</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">1$sは、消えるメッセージの有効時間を%2$sに設定しました。</string>

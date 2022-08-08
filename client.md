@@ -1061,11 +1061,11 @@
 | iOS | Select_More_Photos | Select More Photos | 选择更多照片 | さらに選択 |     |     |
 | iOS | selected_count | %@ Selected | 选择了 %@ 个消息 | %@を選択しています。 |     |     |
 | iOS | selected_Item | Selected 1 Item | 已选择 1 项 | 選択されたアイテム |     |     |
-| iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %1$sアイテムを選択しています |     |     |
+| iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %1$dアイテムを選択しています |     |     |
 | iOS | selected_photo | Selected 1 Photo | 已选择 1 张图片 | 選択された写真 |     |     |
-| iOS | selected_photo.count | Selected %1$d Photos | 已选择 %1$d 张图片 | %1$sの写真を選択しています |     |     |
+| iOS | selected_photo.count | Selected %1$d Photos | 已选择 %1$d 张图片 | %1$dの写真を選択しています |     |     |
 | iOS | selected_video | Selected 1 Video | 已选择 1 个视频 | 選択されたビデオ |     |     |
-| iOS | selected_video.count | Selected %1$d Videos | 已选择 %1$d 个视频 | %1$sのビデオを選択しています |     |     |
+| iOS | selected_video.count | Selected %1$d Videos | 已选择 %1$d 个视频 | %1$dのビデオを選択しています |     |     |
 | android, iOS, Desktop | Send | Send | 发送  | 送る  | Hantar | Kirim |
 | Desktop | send_archived | Archived all files in one zip file | 打包成 zip 发送 | 1つのZIPファイルにアーカイブ |     |     |
 | iOS | Send_as_File | Send as File | 发送为文件 | ファイルとして送信する |     |     |
@@ -1073,10 +1073,10 @@
 | iOS | Send_as_Files | Send as Files | 发送为文件 | 複数ファイルとして送信する |     |     |
 | android | send_file_group | Send "%1$s" to "%2$s"? | 将 "%1$s" 发送给 "%2$s"？ | "%1$s"を"%2$s"に送りますか？ | Hantar "%1$s" ke "%2$s"? | Kirim "%1$s" ke "%2$s"? |
 | iOS | send_item | Send 1 Item | 发送 1 项 | アイテムを一つ送信 |     |     |
-| iOS | send_item.count | Send %1$d Items | 发送 %1$d 项 | %1$sのアイテムを送信 |     |     |
+| iOS | send_item.count | Send %1$d Items | 发送 %1$d 项 | %1$dのアイテムを送信 |     |     |
 | android, iOS | Send_Message | Send Message | 发消息 | メッセージを送信 | Menghantar mesej | Kirim Pesan |
 | iOS | send_photo | Send 1 Photo | 发送 1 张图片 | 写真を送信 |     |     |
-| iOS | send_photo.count | Send %1$d Photos | 发送 %1$d 张图片 | %1$s枚の写真を送信 |     |     |
+| iOS | send_photo.count | Send %1$d Photos | 发送 %1$d 张图片 | %1$d枚の写真を送信 |     |     |
 | Desktop | send_quickly | Send quickly | 快速发送 | クイック送信 |     |     |
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
@@ -1085,11 +1085,11 @@
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
 | iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |
 | iOS | send_video | Send 1 Video | 发送 1 个视频 | ビデオを送信 |     |     |
-| iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$sのビデオを送信 |     |     |
+| iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$dのビデオを送信 |     |     |
 | Desktop | send_without_compression | Send without compression | 发送原始文件 | 圧縮せずに送信 |     |     |
 | android, iOS, Desktop | Send_Without_Sound | Send Without Sound | 静音发送 | 通知音を鳴らさずに送信する |     |     |
 | android, iOS | Send_your_Current_Location | Send your Current Location | 发送您当前的位置 | 現在地を送信 | Hantarkan Lokasi Semasa Anda | Kirim Lokasi Anda Saat Ini |
-| iOS | send.count | Send(%1$d) | 发送（%1$d） | 送信(%1$s) |     |     |
+| iOS | send.count | Send(%1$d) | 发送（%1$d） | 送信(%1$d) |     |     |
 | android, iOS | Senders | Senders | 交易发起人 | 送信者 | Pengirim | Pengirim |
 | android, iOS, Desktop | Set | Set | 设置  | 設定  |     |     |
 | android, iOS, Desktop | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s | %1$s将限时消息设置为 %2$s | 1$sは、消えるメッセージの有効時間を%2$sに設定しました。 |     |     |
