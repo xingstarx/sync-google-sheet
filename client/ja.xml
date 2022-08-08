@@ -1058,11 +1058,11 @@
   <string name="Select_More_Photos" platform="iOS">さらに選択</string>
   <string name="selected_count" platform="iOS">%@を選択しています。</string>
   <string name="selected_Item" platform="iOS">選択されたアイテム</string>
-  <string name="selected_Item.count" platform="iOS">%d件選択中</string>
+  <string name="selected_Item.count" platform="iOS">%1$d件選択中</string>
   <string name="selected_photo" platform="iOS">選択された写真</string>
-  <string name="selected_photo.count" platform="iOS">%1$dの写真を選択しています</string>
+  <string name="selected_photo.count" platform="iOS">%1$d枚の写真を選択中</string>
   <string name="selected_video" platform="iOS">選択されたビデオ</string>
-  <string name="selected_video.count" platform="iOS">%1$dのビデオを選択しています</string>
+  <string name="selected_video.count" platform="iOS">%1$d本のビデオを選択中</string>
   <string name="Send" platform="android, iOS, Desktop">送る</string>
   <string name="send_archived" platform="Desktop">1つのZIPファイルにアーカイブ</string>
   <string name="Send_as_File" platform="iOS">ファイルとして送信する</string>

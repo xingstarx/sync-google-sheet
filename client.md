@@ -1061,11 +1061,11 @@
 | iOS | Select_More_Photos | Select More Photos | 选择更多照片 | さらに選択 |     |     |
 | iOS | selected_count | %@ Selected | 选择了 %@ 个消息 | %@を選択しています。 |     |     |
 | iOS | selected_Item | Selected 1 Item | 已选择 1 项 | 選択されたアイテム |     |     |
-| iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %d件選択中 |     |     |
+| iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %1$d件選択中 |     |     |
 | iOS | selected_photo | Selected 1 Photo | 已选择 1 张图片 | 選択された写真 |     |     |
-| iOS | selected_photo.count | Selected %1$d Photos | 已选择 %1$d 张图片 | %1$dの写真を選択しています |     |     |
+| iOS | selected_photo.count | Selected %1$d Photos | 已选择 %1$d 张图片 | %1$d枚の写真を選択中 |     |     |
 | iOS | selected_video | Selected 1 Video | 已选择 1 个视频 | 選択されたビデオ |     |     |
-| iOS | selected_video.count | Selected %1$d Videos | 已选择 %1$d 个视频 | %1$dのビデオを選択しています |     |     |
+| iOS | selected_video.count | Selected %1$d Videos | 已选择 %1$d 个视频 | %1$d本のビデオを選択中 |     |     |
 | android, iOS, Desktop | Send | Send | 发送  | 送る  | Hantar | Kirim |
 | Desktop | send_archived | Archived all files in one zip file | 打包成 zip 发送 | 1つのZIPファイルにアーカイブ |     |     |
 | iOS | Send_as_File | Send as File | 发送为文件 | ファイルとして送信する |     |     |
