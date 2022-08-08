@@ -280,7 +280,7 @@
   <string name="click_to_reload_qrcode" platform="Desktop">点击重新加载二维码</string>
   <string name="Click_to_retry" platform="android">点击重试</string>
   <string name="Click_to_unlock" platform="android">点击解锁</string>
-  <string name="clock_skew_hint" platform="iOS" traditional="請校正後再繼續使用，設定 > 一般 > 日期與時間 > 自動設定">请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。</string>
+  <string name="clock_skew_hint" platform="iOS">请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。</string>
   <string name="Close" platform="android, iOS, Desktop">关闭</string>
   <string name="close_window" platform="Desktop">关闭窗口</string>
   <string name="collapse" platform="Desktop">折叠</string>
@@ -468,7 +468,7 @@
   <string name="Enable_web_debug" platform="android">已开启 Web 调试</string>
   <string name="Encrypted" platform="android">端到端加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
-  <string name="Current_Language" platform="iOS" traditional="繁體中文">中文</string>
+  <string name="Current_Language" platform="iOS">中文</string>
   <string name="Enter_new_phone_number" platform="android">输入你的新手机号码</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">输入你的 PIN 以注销你的账户</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入紧急联系人的 Mixin ID</string>

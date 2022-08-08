@@ -1058,7 +1058,7 @@
   <string name="Select_More_Photos" platform="iOS">さらに選択</string>
   <string name="selected_count" platform="iOS">%@を選択しています。</string>
   <string name="selected_Item" platform="iOS">選択されたアイテム</string>
-  <string name="selected_Item.count" platform="iOS">%1$sアイテムを選択しています</string>
+  <string name="selected_Item.count" platform="iOS">%1d$sアイテムを選択しています</string>
   <string name="selected_photo" platform="iOS">選択された写真</string>
   <string name="selected_photo.count" platform="iOS">%1$sの写真を選択しています</string>
   <string name="selected_video" platform="iOS">選択されたビデオ</string>
