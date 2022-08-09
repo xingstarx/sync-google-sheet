@@ -815,7 +815,7 @@
 "transcript" = "Transcript";
 "transfer" = "Pindah";
 "transfer_amount_count_down" = "Jumlah Pindahan(%@)";
-"transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %@ chances. Please wait for 24 hours to retry later.";
+"transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %@ chances.";
 "transfer_memo" = "Memo (optional)";
 "transfer_notifications" = "Pindahkan Pemberitahuan";
 "transfer_qrcode_prompt" = "Scan the QR Code to transfer me on Mixin";
@@ -895,6 +895,7 @@
 "wallet_transfer_recent_tip" = "Anda telah memindahkan %3$@ ke %2$@ %1$@. Adakah anda mahu memindahkannya lagi?";
 "wallet_withdrawal_changed" = "The withdrawal fee has been changed from %1$@ to %2$@, would you like to proceed  with the request?";
 "wallet_withdrawal_recent_tip" = "Anda telah menarik balik %3$@ ke %2$@ %1$@, Adakah anda mahu menariknya semula?";
+"wati_to_retry" = "Please wait for 24 hours to retry later.";
 "web_cannot_reached_desc" = "%@ mengambil masa terlalu lama untuk beri maklum balas. Sila periksa rangkaian anda dan cuba tukar 4G, Wi-Fi atau VPN untuk memuat semula halaman.";
 "web_cannot_reached_title" = "Laman web ini tidak dapat dicapai";
 "web_suspicious_link_tips" = "Pautan tidak terdapat dalam corak sumber yang sesuai.";
