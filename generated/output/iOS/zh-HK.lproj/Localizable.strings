@@ -894,7 +894,6 @@
 "wallet_transfer_recent_tip" = "你已經在 %1$@ 前給 %2$@ 轉賬了 %3$@，確認還要再轉一次嗎？";
 "wallet_withdrawal_changed" = "手續費已從 %1$@ 變更為 %2$@，要更新手續費並繼續提現嗎？";
 "wallet_withdrawal_recent_tip" = "你已經在 %1$@ 前提現 %3$@ 到 %2$@，確認還要再提一次嗎？";
-"wati_to_retry" = "Please wait for 24 hours to retry later.";
 "web_cannot_reached_desc" = "無法訪問 %@，請檢查你的網絡並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。";
 "web_cannot_reached_title" = "無法訪問此網頁";
 "web_suspicious_link_tips" = "該鏈接不在對應的機器人域名白名單內。";

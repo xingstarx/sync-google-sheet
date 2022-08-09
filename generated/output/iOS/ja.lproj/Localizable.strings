@@ -894,7 +894,6 @@
 "wallet_transfer_recent_tip" = "あなたは%1$@前に%2$@へ同額の送金をしています。再度%3$@を送金しますか？";
 "wallet_withdrawal_changed" = "出金手数料が%1$@から%2$@へ変更されました。このまま出金を行いますか？";
 "wallet_withdrawal_recent_tip" = "あなたは%1$@に同額の出金を%2$@へ送っています。再度%3$@を出金しますか？";
-"wati_to_retry" = "24時間後に再試行してください。";
 "web_cannot_reached_desc" = "%@ 接続に時間がかかり過ぎています、ネットワーク設定を確認してページをリロードしてください。";
 "web_cannot_reached_title" = "アクセスできません";
 "web_suspicious_link_tips" = "リンクは対応するリソースパターンにありません。";
