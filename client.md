@@ -1241,8 +1241,7 @@
 | android, iOS, Desktop | Transfer | Transfer | 转账  | 送金  | Pindah | Transfer |
 | android | Transfer_Amount | Transfer Amount | 转账金额 | 送金数量 | Jumlah Pindahan | Jumlah Transfer |
 | android, iOS | Transfer_Amount_count_down | Transfer Amount(%1$s) | 转账金额（%1$s） | 送金金額(%1$s) | Jumlah Pindahan(%1$s) | Jumlah Transfer(%1$s) |
-| iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. | 错误 20119： PIN 不正确。你还有 %@ 次机会尝试。 | エラー20119: PINコードが間違っています。あと%@回入力可能です。 |     |     |
-| iOS | wati_to_retry | Please wait for 24 hours to retry later. | 请等待 24 小时后再尝试。 | 24時間後に再試行してください。 |     |     |
+| iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. | 错误 20119：PIN 不正确。你还有 %@ 次机会尝试。 | エラー20119: PINコードが間違っています。あと%@回入力可能です。 |     |     |
 | android, iOS | transfer_memo | Memo (optional) | 备注（可选） | メモ（オプション） |     |     |
 | android, iOS | Transfer_Notifications | Transfer Notifications | 转账通知 | 送金の受取通知 | Pindahkan Pemberitahuan | Notifikasi Transfer |
 | android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |     |     |
