@@ -1222,7 +1222,8 @@
   <string name="Transfer" platform="android, iOS, Desktop">转账</string>
   <string name="Transfer_Amount" platform="android">转账金额</string>
   <string name="Transfer_Amount_count_down" platform="android, iOS">转账金额（%1$s）</string>
-  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">错误 20119： PIN 不正确。你还有 %@ 次机会尝试，使用完需等待 24 小时后再尝试。</string>
+  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">错误 20119： PIN 不正确。你还有 %@ 次机会尝试。</string>
+  <string name="wati_to_retry" platform="iOS">请等待 24 小时后再尝试。</string>
   <string name="transfer_memo" platform="android, iOS">备注（可选）</string>
   <string name="Transfer_Notifications" platform="android, iOS">转账通知</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">用 Mixin 扫描二维码给我转账</string>
