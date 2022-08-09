@@ -1242,6 +1242,7 @@
   <string name="Transfer_Amount" platform="android">Сумма перевода</string>
   <string name="Transfer_Amount_count_down" platform="android, iOS">Сумма перевода(%1$s)</string>
   <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ОШИБКА 20119: неверный PIN-код. У вас еще есть %@ шансов. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</string>
+  <string name="wati_to_retry" platform="iOS">Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</string>
   <string name="transfer_memo" platform="android, iOS">Памятка (необязательно)</string>
   <string name="Transfer_Notifications" platform="android, iOS">Уведомления о переносе</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">Отсканируйте QR-код, чтобы перевести меня на Mixin</string>
