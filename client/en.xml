@@ -1240,7 +1240,8 @@
   <string name="Transfer" platform="android, iOS, Desktop">Transfer</string>
   <string name="Transfer_Amount" platform="android">Transfer Amount</string>
   <string name="Transfer_Amount_count_down" platform="android, iOS">Transfer Amount(%1$s)</string>
-  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ERROR 20119: PIN incorrect. You still have %@ chances. Please wait for 24 hours to retry later.</string>
+  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ERROR 20119: PIN incorrect. You still have %@ chances.</string>
+  <string name="wati_to_retry" platform="iOS">Please wait for 24 hours to retry later.</string>
   <string name="transfer_memo" platform="android, iOS">Memo (optional)</string>
   <string name="Transfer_Notifications" platform="android, iOS">Transfer Notifications</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">Scan the QR Code to transfer me on Mixin</string>
