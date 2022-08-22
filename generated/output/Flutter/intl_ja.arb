@@ -279,6 +279,7 @@
 "searchContact" : "連絡先を検索",
 "searchConversation" : "チャットルームを検索",
 "searchEmpty" : "一致する情報は見つかりませんでした",
+"searchPlaceholderNumber" : "Mixin ID または電話番号を検索",
 "searchRelatedMessage" : "{count, plural, one{{arg0}個の関連するメッセージ} other{{arg0}個の関連するメッセージ}}",
 "secretUrl" : "https://mixin.one/pages/1000007",
 "send" : "送る",

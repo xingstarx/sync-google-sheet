@@ -284,6 +284,7 @@
 "searchContact" : "Search contact",
 "searchConversation" : "Search Conversation",
 "searchEmpty" : "No chats, contacts or messages found.",
+"searchPlaceholderNumber" : "Search Mixin ID or phone number:",
 "searchRelatedMessage" : "{count, plural, one{{arg0} related message} other{{arg0} related messages}}",
 "secretUrl" : "https://mixin.one/pages/1000007",
 "send" : "Send",

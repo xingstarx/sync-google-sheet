@@ -281,6 +281,7 @@
 "searchContact" : "Поиск контакта",
 "searchConversation" : "Поиск беседы",
 "searchEmpty" : "Чаты, контакты или сообщения не найдены.",
+"searchPlaceholderNumber" : "Найдите Mixin ID или номер телефона:",
 "searchRelatedMessage" : "{count, plural, one{{arg0} связанное сообщение} other{{arg0} похожие сообщения}}",
 "secretUrl" : "https://mixin.one/pages/1000007",
 "send" : "Отправить",

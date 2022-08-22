@@ -283,6 +283,7 @@
 "searchContact" : "搜索用户",
 "searchConversation" : "搜索聊天記錄",
 "searchEmpty" : "找不到聯繫人或消息。",
+"searchPlaceholderNumber" : "搜索 Mixin ID 或手機號碼：",
 "searchRelatedMessage" : "{count, plural, one{{arg0} 條相關的消息} other{{arg0} 條相關的消息}}",
 "send" : "發送",
 "sendArchived" : "打包成 zip 發送",
