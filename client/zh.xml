@@ -1385,6 +1385,16 @@
   <string name="zoom" platform="Desktop">缩放</string>
   <string name="bring_all_to_front" platform="Desktop">前置所有窗口</string>
   <string name="disappearing_custom_time_max_warning" platform="Desktop">最高设置 %1$s</string>
+  <string name="discard" platform="Desktop">废弃</string>
+  <string name="discard_recording_warning" platform="Desktop">是否要停止并废弃已录制的语音消息？</string>
+  <string name="smileys_and_people" platform="Desktop">表情符号与人物</string>
+  <string name="animals_and_nature" platform="Desktop">动物与自然</string>
+  <string name="food_and_drink" platform="Desktop">食物与饮料</string>
+  <string name="activity" platform="Desktop">活动</string>
+  <string name="travel_and_places" platform="Desktop">旅行与地点</string>
+  <string name="objects" platform="Desktop">物件</string>
+  <string name="symbols" platform="Desktop">符号</string>
+  <string name="flags" platform="Desktop">旗帜</string>
   <string name="NSContactsUsageDescription" platform="iOSAuthorization">将您的联系人上传至 Mixin 的服务器，以便您更快速地与朋友们联系</string>
   <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片</string>
