@@ -1406,6 +1406,8 @@
   <string name="zoom" platform="Desktop">Zoom</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
   <string name="disappearing_custom_time_max_warning" platform="Desktop">The maximum time is %1$s.</string>
+  <string name="discard" platform="Desktop">Discard</string>
+  <string name="discard_recording_warning" platform="Desktop">Are you sure you want to stop recording and discard your voice message?</string>
   <string name="NSContactsUsageDescription" platform="iOSAuthorization">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
   <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin uses the camera to set profile photo, and send photo to your contact in chat</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
