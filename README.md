@@ -4,7 +4,7 @@
 - [client 里的文件](https://github.com/Tougee/sync-google-sheet/tree/master/client)
 - google sheet，暂时不包括俄语和繁体中文
 
-## 流程
+## 修改字符串流程
 
 ### 通过修改[client 里的文件](https://github.com/Tougee/sync-google-sheet/tree/master/client)
 - 单独创建一个分支来修改表格里的内容，之后发起该分支 -> `master` 的 pull request
@@ -18,3 +18,5 @@
 
 ## 注意
 因为暂时不支持 [client 里的文件](https://github.com/Tougee/sync-google-sheet/tree/master/client) 同步到 google sheet 的功能，所以除了`俄语`和`繁体中文`，其他部分请修改 google sheet，以保持数据统一性。
+
+如果项目中用到的[平台生成工具](https://github.com/MixinNetwork/handsaw)出现 bug，那么修改完 bug 之后可手动运行[生成平台字符串的脚本](https://github.com/Tougee/sync-google-sheet/actions/workflows/manual_generate.yml)
