@@ -1407,6 +1407,8 @@
 | Desktop | zoom | Zoom | 缩放  |     |     |     |
 | Desktop | bring_all_to_front | Bring All To Front | 前置所有窗口 |     |     |     |
 | Desktop | disappearing_custom_time_max_warning | The maximum time is %1$s. | 最高设置 %1$s |     |     |     |
+| Desktop | discard |     |     |     |     |     |
+| Desktop | discard_recording_warning |     | 是否要停止并废弃已录制的语音消息？ |     |     |     |
 | iOSAuthorization | NSContactsUsageDescription | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users. | 将您的联系人上传至 Mixin 的服务器，以便您更快速地与朋友们联系 | 連絡先をMixinにアップロードすることで、友だちと簡単に繋がる事ができます |     |     |
 | iOSAuthorization | NSCameraUsageDescription | Mixin uses the camera to set profile photo, and send photo to your contact in chat | Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片 | カメラは、プロフィール画像の設定、写真の共有に使用されます |     |     |
 | iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat | Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片 | アルバムは、プロフィール画像の設定、画像の共有に使用されます |     |     |
