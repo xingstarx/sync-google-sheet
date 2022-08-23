@@ -1395,6 +1395,7 @@
   <string name="objects" platform="Desktop">物件</string>
   <string name="symbols" platform="Desktop">符号</string>
   <string name="flags" platform="Desktop">旗帜</string>
+  <string name="linked_device" platform="Desktop">连接的设备</string>
   <string name="NSContactsUsageDescription" platform="iOSAuthorization">将您的联系人上传至 Mixin 的服务器，以便您更快速地与朋友们联系</string>
   <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片</string>
