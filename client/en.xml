@@ -384,7 +384,7 @@
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete" platform="android, iOS, Desktop">Delete</string>
   <string name="delete_account_detail_hint" platform="iOS">Local messages and iCloud Backups will not be deleted automatically</string>
-  <string name="delete_account_hint" platform="android, iOS">Delete your account info and profile photo</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">Delete your account info and profile photo</string>
   <string name="Delete_address" platform="android, iOS">Delete address</string>
   <string name="Delete_Chat" platform="iOS, Desktop">Delete Chat</string>
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>

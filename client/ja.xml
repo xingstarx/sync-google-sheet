@@ -384,7 +384,7 @@
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete" platform="android, iOS, Desktop">削除</string>
   <string name="delete_account_detail_hint" platform="iOS">ローカルメッセージとiCloudにバックアップされた内容は削除されません</string>
-  <string name="delete_account_hint" platform="android, iOS">アカウント情報とプロフィール画像を削除します</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">アカウント情報とプロフィール画像を削除します</string>
   <string name="Delete_address" platform="android, iOS">アドレスを削除</string>
   <string name="Delete_Chat" platform="iOS, Desktop">チャットを削除</string>
   <string name="delete_chat_description" platform="Desktop">チャットを削除すると、この端末のみからメッセージが削除されます。他の端末からは削除されません。</string>

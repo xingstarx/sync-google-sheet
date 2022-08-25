@@ -377,7 +377,7 @@
   <string name="deep_cleaning_deleted" platform="android">正在清理，已删除 %1$s</string>
   <string name="Delete" platform="android, iOS, Desktop">删除</string>
   <string name="delete_account_detail_hint" platform="iOS">本地消息和 iCloud 备份不会被自动删除</string>
-  <string name="delete_account_hint" platform="android, iOS">删除你的账户和个人照片</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">删除你的账户和个人照片</string>
   <string name="Delete_address" platform="android, iOS">删除地址</string>
   <string name="Delete_Chat" platform="iOS, Desktop">删除聊天</string>
   <string name="delete_chat_description" platform="Desktop">删除会话只会删除此设备的聊天记录，不会影响其他设备。</string>
