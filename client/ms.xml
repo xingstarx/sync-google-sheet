@@ -9,7 +9,7 @@
   <string name="access_your_circle_list" platform="android, iOS">akses senarai lingkaran anda</string>
   <string name="access_your_contacts_list" platform="android, iOS">akses senarai kenalan anda</string>
   <string name="access_your_snapshots" platform="android, iOS">akses gambar anda</string>
-  <string name="Account" platform="android, iOS">Akaun</string>
+  <string name="Account" platform="android, iOS, Desktop">Akaun</string>
   <string name="Add_address" platform="android, iOS">Tambah alamat</string>
   <string name="Add_bot" platform="android, iOS">Tambah Bot</string>
   <string name="Add_circle" platform="android, iOS">Tambah Lingkaran</string>
@@ -704,7 +704,7 @@
   <string name="value_then" platform="android, iOS, Desktop">nilai maka %1$s</string>
   <string name="Verify" platform="android, iOS">Sahkan</string>
   <string name="Verify_by_Biometric" platform="android">Sahkan dengan Biometrik</string>
-  <string name="Verify_PIN" platform="android, iOS">Sahkan PIN</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">Sahkan PIN</string>
   <string name="Verifying" platform="android">Mengesahkan…</string>
   <string name="Version_Update" platform="android, iOS">Kemas kini Versi</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>

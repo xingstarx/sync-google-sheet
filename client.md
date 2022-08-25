@@ -31,7 +31,7 @@
 | android, iOS | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
 | android, iOS | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
 | android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
-| android, iOS | Account | Account | 账号  | アカウント | Akaun | Akun |
+| android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
 | android, iOS | Add_address | Add address | 添加地址 | アドレスに追加 | Tambah alamat | Tambahkan alamat |
@@ -209,8 +209,8 @@
 | android, iOS | Change_Amount | Change Amount | 修改金额 | 数量を変更 | Tukar Jumlah | Ubah Jumlah |
 | android, iOS | Change_emergency_contact | Change emergency contact | 修改紧急联系人 | 緊急連絡先を変更 | Tukar kenalan kecemasan | Ubah kontak darurat |
 | iOS | Change_name | Change name | 修改名称 | 名前を変更 |     |     |
-| iOS | Change_Number | Change Number | 修改手机号 | 電話番号を変更 |     |     |
-| android, iOS | Change_Number_Instead | Change Number Instead | 仅修改手机号码 | 電話番号を変更 |     |     |
+| iOS, Desktop | Change_Number | Change Number | 修改手机号 | 電話番号を変更 |     |     |
+| android, iOS, Desktop | Change_Number_Instead | Change Number Instead | 仅修改手机号码 | 電話番号を変更 |     |     |
 | android, iOS | Change_Phone_Number | Change Phone Number | 修改手机号 | 電話番号を変更 | Tukar Nombor Telefon | Ubah Nomor Telepon |
 | android, iOS | Change_PIN | Change PIN | 修改 PIN | PINコードを変更 | Tukar PIN | Ubah PIN |
 | iOS | change_pin_interval_hint | Confirm PIN to change interval | 输入 PIN 修改使用间隔 | 設定を変更するためPINコードを入力してください |     |     |
@@ -384,8 +384,8 @@
 | android | deep_cleaning_deleted | Cleaning up, %1$s deleted | 正在清理，已删除 %1$s | 削除中…、%1$sが削除しました |     |     |
 | android | default_time | 00:00 |     | 00:00 | 00:00 | 00:00 |
 | android, iOS, Desktop | Delete | Delete | 删除  | 削除  |     |     |
-| iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |     |     |
-| android, iOS | delete_account_hint | Delete your account info and profile photo | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |     |     |
+| iOS, Desktop | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |     |     |
+| android, iOS, Desktop | delete_account_hint | Delete your account info and profile photo | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |     |     |
 | android, iOS | Delete_address | Delete address | 删除地址 | アドレスを削除 | Padamkan alamat | Hapus alamat |
 | iOS, Desktop | Delete_Chat | Delete Chat | 删除聊天 | チャットを削除 |     |     |
 | Desktop | delete_chat_description | Deleting chat will remove messages form this devices only. They will not be removed from other devices. | 删除会话只会删除此设备的聊天记录，不会影响其他设备。 | チャットを削除すると、この端末のみからメッセージが削除されます。他の端末からは削除されません。 |     |     |
@@ -396,7 +396,7 @@
 | android, iOS, Desktop | Delete_for_me | Delete for me | 删除  | あなたのチャットから削除 | Padamkan untuk saya | Hapus untuk saya |
 | android, Desktop | Delete_Group | Delete Group | 删除群组 | グループを削除 | Padam Kumpulan | Hapus Grup |
 | iOS | delete_group_chat_confirmation | Delete "%@" group chat? | 删除"%@"的聊天？ | "%@"のグループチャットを削除しますか? |     |     |
-| android, iOS | Delete_my_account | Delete My Account | 注销账户 | アカウント削除 |     |     |
+| android, iOS, Desktop | Delete_my_account | Delete My Account | 注销账户 | アカウント削除 |     |     |
 | android, iOS | Delete_Synced_Contact | Delete Synced Contacts | 删除已同步的通讯录 | 同期済みの連絡先を削除する | Padam Kenalan yang selaraskan | Hapus Kontak yang Disinkronkan |
 | Desktop | delete_the_circle | Do you want to delete %1$s circle? | 确定删除%1$s圈子吗？ | %1$sのグループリストを削除しますか？ |     |     |
 | android, iOS | Delete_withdraw_Address | Delete %1$s Address | 删除 %1$s 地址 | %1$sのアドレス削除 | Padamkan Alamat %1$s | Hapus Alamat %1$s |
@@ -479,11 +479,11 @@
 | android, iOS | End_to_End_Encryption | End-to-end Encrypted | 端到端加密 | E2E暗号化 | Disulitkan | Terenkripsi end-to-end |
 | iOS | Current_Language | English | 中文  | 日本語 |     |     |
 | android | Enter_new_phone_number | Enter your new phone number | 输入你的新手机号码 | 新しい電話番号を入力してください | Masukkan nombor telefon bimbit baharu anda | Masukkan nomor ponsel baru Anda |
-| android, iOS | Enter_PIN_to_delete_account | Enter your PIN to delete your account | 输入你的 PIN 以注销你的账户 | アカウントを削除するためにPINコードを入力してください |     |     |
+| android, iOS, Desktop | Enter_PIN_to_delete_account | Enter your PIN to delete your account | 输入你的 PIN 以注销你的账户 | アカウントを削除するためにPINコードを入力してください |     |     |
 | android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください | Masukkan ID Mixin kenalan kecemasan anda | Masukkan ID Mixin kontak darurat Anda |
 | android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力して下さい | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
-| android, iOS | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
+| android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
 | android | EOS_contract_address | EOS contract address | EOS 合约地址 | EOSアドレス | alamat kontrak EOS |     |
 | android, Desktop | error_address_exists | The address does not exist, please make sure that the address is added successfully | 地址不存在，请确保地址是否添加成功 | アドレスが存在しません。アドレスが正常に追加されていることを確認してください。 |     |     |
 | android, Desktop | error_address_not_sync | Address refresh failed, please try again | 地址刷新失败，请重试 | アドレスの更新に失敗しました。もう一度やり直してください。 |     |     |
@@ -1114,10 +1114,10 @@
 | android | setting_data_title | Media auto-download | 自动下载文件 | メディア自動ダウンロード設定 | Muat turun automatik media | Download otomatis media |
 | android | setting_data_wifi | When connected on Wi-Fi | 当连接到 Wi-Fi 时 | Wi-Fiに接続時 | Semasa disambungkan di Wi-Fi | Saat tersambung melalui Wi-Fi |
 | android | setting_delete_account_content_2 | Local messages and Backups will not be Deleted automatically | 本地信息和备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は自動的に削除されません |     |     |
-| android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to **learn more**. | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。 |     |     |
+| android, iOS, Desktop | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to **learn more**. | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。 |     |     |
 | android, iOS | setting_delete_account_send | We will send a 4-digit code to %1$s | 我们将发送 4 位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |     |     |
 | android, iOS | setting_delete_account_tip | Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered. | 你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。 | 警告：Mixinウォレット内に他のウォレットや取引所に送金可能な仮想通貨が残っています。アカウントを削除すると、仮想通貨を永遠に引き出すことができませんが、よろしいでしょうか？ |     |     |
-| android | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |
+| android, Desktop | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |
 | android, iOS | setting_desktop_confirm | Confirm login to Mixin Messenger Desktop | 确认登录 Mixin Messenger 桌面端 | デスクトップ版Mixinへのログインを確認 |  Sahkan log masuk ke Desktop Mixin Messenger | Konfirmasikan masuk ke Mixin Messenger Desktop |
 | android | setting_desktop_logout_failed | Logout of desktop failed. | 退出桌面端失败 | デスクトップ版からのログアウトに失敗しました | Log keluar desktop gagal. | Gagal keluar dari desktop. |
 | android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours. | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam |     |
@@ -1236,7 +1236,7 @@
 | android, iOS, Desktop | Transaction_Id | Transaction Id | 交易编号 | トランザクションID | Id Urus Niaga | ID Transaksi |
 | android, iOS | Transaction_Type | Transaction Type | 交易类型 | トランザクションタイプ | Jenis Transaksi | Jenis Transaksi |
 | android, iOS, Desktop | Transactions | Transactions | 转账记录 | もらった・あげたコイン💰 | Urus Niaga | Transaksi |
-| android, iOS | Transactions_CANNOT_be_deleted | Transactions CANNOT be deleted | 转账记录不会被删除 | トランザクション履歴を削除することはできません |     |     |
+| android, iOS, Desktop | Transactions_CANNOT_be_deleted | Transactions CANNOT be deleted | 转账记录不会被删除 | トランザクション履歴を削除することはできません |     |     |
 | android, iOS, Desktop | Transcript | Transcript | 聊天记录 | メッセージ履歴 |     |     |
 | android, iOS, Desktop | Transfer | Transfer | 转账  | 送金  | Pindah | Transfer |
 | android | Transfer_Amount | Transfer Amount | 转账金额 | 送金数量 | Jumlah Pindahan | Jumlah Transfer |
@@ -1309,7 +1309,7 @@
 | android, iOS, Desktop | value_then | value then %1$s | 当时价值 %1$s | 当時の価格 %1$s | nilai maka %1$s |     |
 | android, iOS | Verify | Verify | 验证  | 認証  | Sahkan | Verifikasikan |
 | android | Verify_by_Biometric | Verify by Biometric | 用生物识别来验证 | 生体認証で認証 | Sahkan dengan Biometrik | Verifikasi dengan Biometrik |
-| android, iOS | Verify_PIN | Verify PIN | 验证 PIN | PINコードを認証 | Sahkan PIN | Verifikasikan PIN |
+| android, iOS, Desktop | Verify_PIN | Verify PIN | 验证 PIN | PINコードを認証 | Sahkan PIN | Verifikasikan PIN |
 | android | Verifying | Verifying… | 验证中… | 認証中… | Mengesahkan… | Memverifikasi… |
 | android, iOS | Version_Update | Version Update | 版本更新 | アップデート | Kemas kini Versi | Periksa Pembaruan |
 | android, iOS, Desktop | Video | Video | 视频  | 動画  | Video | Video |

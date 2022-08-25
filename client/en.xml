@@ -30,7 +30,7 @@
   <string name="access_your_collectibles" platform="android, iOS">access your collectibles</string>
   <string name="access_your_contacts_list" platform="android, iOS">access your contacts list</string>
   <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
-  <string name="Account" platform="android, iOS">Account</string>
+  <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>
   <string name="Add_address" platform="android, iOS">Add address</string>
@@ -208,8 +208,8 @@
   <string name="Change_Amount" platform="android, iOS">Change Amount</string>
   <string name="Change_emergency_contact" platform="android, iOS">Change emergency contact</string>
   <string name="Change_name" platform="iOS">Change name</string>
-  <string name="Change_Number" platform="iOS">Change Number</string>
-  <string name="Change_Number_Instead" platform="android, iOS">Change Number Instead</string>
+  <string name="Change_Number" platform="iOS, Desktop">Change Number</string>
+  <string name="Change_Number_Instead" platform="android, iOS, Desktop">Change Number Instead</string>
   <string name="Change_Phone_Number" platform="android, iOS">Change Phone Number</string>
   <string name="Change_PIN" platform="android, iOS">Change PIN</string>
   <string name="change_pin_interval_hint" platform="iOS">Confirm PIN to change interval</string>
@@ -383,8 +383,8 @@
   <string name="deep_cleaning_deleted" platform="android">Cleaning up, %1$s deleted</string>
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete" platform="android, iOS, Desktop">Delete</string>
-  <string name="delete_account_detail_hint" platform="iOS">Local messages and iCloud Backups will not be deleted automatically</string>
-  <string name="delete_account_hint" platform="android, iOS">Delete your account info and profile photo</string>
+  <string name="delete_account_detail_hint" platform="iOS, Desktop">Local messages and iCloud Backups will not be deleted automatically</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">Delete your account info and profile photo</string>
   <string name="Delete_address" platform="android, iOS">Delete address</string>
   <string name="Delete_Chat" platform="iOS, Desktop">Delete Chat</string>
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>
@@ -395,7 +395,7 @@
   <string name="Delete_for_me" platform="android, iOS, Desktop">Delete for me</string>
   <string name="Delete_Group" platform="android, Desktop">Delete Group</string>
   <string name="delete_group_chat_confirmation" platform="iOS">Delete "%@" group chat?</string>
-  <string name="Delete_my_account" platform="android, iOS">Delete My Account</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">Delete My Account</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">Delete Synced Contacts</string>
   <string name="delete_the_circle" platform="Desktop">Do you want to delete %1$s circle?</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">Delete %1$s Address</string>
@@ -478,11 +478,11 @@
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
   <string name="Current_Language" platform="iOS">English</string>
   <string name="Enter_new_phone_number" platform="android">Enter your new phone number</string>
-  <string name="Enter_PIN_to_delete_account" platform="android, iOS">Enter your PIN to delete your account</string>
+  <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
-  <string name="Enter_your_PIN_to_continue" platform="android, iOS">Enter your PIN to continue</string>
+  <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>
   <string name="error_address_exists" platform="android, Desktop">The address does not exist, please make sure that the address is added successfully</string>
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
@@ -1113,10 +1113,10 @@
   <string name="setting_data_title" platform="android">Media auto-download</string>
   <string name="setting_data_wifi" platform="android">When connected on Wi-Fi</string>
   <string name="setting_delete_account_content_2" platform="android">Local messages and Backups will not be Deleted automatically</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">If you continue, your profile and account details will be delete on %1$s. read our document to **learn more**.</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">If you continue, your profile and account details will be delete on %1$s. read our document to **learn more**.</string>
   <string name="setting_delete_account_send" platform="android, iOS">We will send a 4-digit code to %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.</string>
-  <string name="setting_delete_account_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
+  <string name="setting_delete_account_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
   <string name="setting_desktop_confirm" platform="android, iOS">Confirm login to Mixin Messenger Desktop</string>
   <string name="setting_desktop_logout_failed" platform="android">Logout of desktop failed.</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">Display confirmation dialog when you transfer the same amount to the same person within 6 hours.</string>
@@ -1235,7 +1235,7 @@
   <string name="Transaction_Id" platform="android, iOS, Desktop">Transaction Id</string>
   <string name="Transaction_Type" platform="android, iOS">Transaction Type</string>
   <string name="Transactions" platform="android, iOS, Desktop">Transactions</string>
-  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS">Transactions CANNOT be deleted</string>
+  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS, Desktop">Transactions CANNOT be deleted</string>
   <string name="Transcript" platform="android, iOS, Desktop">Transcript</string>
   <string name="Transfer" platform="android, iOS, Desktop">Transfer</string>
   <string name="Transfer_Amount" platform="android">Transfer Amount</string>
@@ -1308,7 +1308,7 @@
   <string name="value_then" platform="android, iOS, Desktop">value then %1$s</string>
   <string name="Verify" platform="android, iOS">Verify</string>
   <string name="Verify_by_Biometric" platform="android">Verify by Biometric</string>
-  <string name="Verify_PIN" platform="android, iOS">Verify PIN</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">Verify PIN</string>
   <string name="Verifying" platform="android">Verifying…</string>
   <string name="Version_Update" platform="android, iOS">Version Update</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>

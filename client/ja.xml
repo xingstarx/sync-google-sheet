@@ -30,7 +30,7 @@
   <string name="access_your_collectibles" platform="android, iOS">あなたのNFTコレクションへのアクセス</string>
   <string name="access_your_contacts_list" platform="android, iOS">友達一覧へのアクセス</string>
   <string name="access_your_snapshots" platform="android, iOS">スナップショットへのアクセス</string>
-  <string name="Account" platform="android, iOS">アカウント</string>
+  <string name="Account" platform="android, iOS, Desktop">アカウント</string>
   <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
   <string name="Add_address" platform="android, iOS">アドレスに追加</string>
@@ -208,8 +208,8 @@
   <string name="Change_Amount" platform="android, iOS">数量を変更</string>
   <string name="Change_emergency_contact" platform="android, iOS">緊急連絡先を変更</string>
   <string name="Change_name" platform="iOS">名前を変更</string>
-  <string name="Change_Number" platform="iOS">電話番号を変更</string>
-  <string name="Change_Number_Instead" platform="android, iOS">電話番号を変更</string>
+  <string name="Change_Number" platform="iOS, Desktop">電話番号を変更</string>
+  <string name="Change_Number_Instead" platform="android, iOS, Desktop">電話番号を変更</string>
   <string name="Change_Phone_Number" platform="android, iOS">電話番号を変更</string>
   <string name="Change_PIN" platform="android, iOS">PINコードを変更</string>
   <string name="change_pin_interval_hint" platform="iOS">設定を変更するためPINコードを入力してください</string>
@@ -383,8 +383,8 @@
   <string name="deep_cleaning_deleted" platform="android">削除中…、%1$sが削除しました</string>
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete" platform="android, iOS, Desktop">削除</string>
-  <string name="delete_account_detail_hint" platform="iOS">ローカルメッセージとiCloudにバックアップされた内容は削除されません</string>
-  <string name="delete_account_hint" platform="android, iOS">アカウント情報とプロフィール画像を削除します</string>
+  <string name="delete_account_detail_hint" platform="iOS, Desktop">ローカルメッセージとiCloudにバックアップされた内容は削除されません</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">アカウント情報とプロフィール画像を削除します</string>
   <string name="Delete_address" platform="android, iOS">アドレスを削除</string>
   <string name="Delete_Chat" platform="iOS, Desktop">チャットを削除</string>
   <string name="delete_chat_description" platform="Desktop">チャットを削除すると、この端末のみからメッセージが削除されます。他の端末からは削除されません。</string>
@@ -395,7 +395,7 @@
   <string name="Delete_for_me" platform="android, iOS, Desktop">あなたのチャットから削除</string>
   <string name="Delete_Group" platform="android, Desktop">グループを削除</string>
   <string name="delete_group_chat_confirmation" platform="iOS">"%@"のグループチャットを削除しますか?</string>
-  <string name="Delete_my_account" platform="android, iOS">アカウント削除</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">アカウント削除</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">同期済みの連絡先を削除する</string>
   <string name="delete_the_circle" platform="Desktop">%1$sのグループリストを削除しますか？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">%1$sのアドレス削除</string>
@@ -478,11 +478,11 @@
   <string name="End_to_End_Encryption" platform="android, iOS">E2E暗号化</string>
   <string name="Current_Language" platform="iOS">日本語</string>
   <string name="Enter_new_phone_number" platform="android">新しい電話番号を入力してください</string>
-  <string name="Enter_PIN_to_delete_account" platform="android, iOS">アカウントを削除するためにPINコードを入力してください</string>
+  <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">アカウントを削除するためにPINコードを入力してください</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">電話番号を入力して下さい</string>
   <string name="Enter_your_PIN" platform="android, iOS">PINコードを入力してください</string>
-  <string name="Enter_your_PIN_to_continue" platform="android, iOS">PINコードを入力して、続けてください</string>
+  <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">PINコードを入力して、続けてください</string>
   <string name="EOS_contract_address" platform="android">EOSアドレス</string>
   <string name="error_address_exists" platform="android, Desktop">アドレスが存在しません。アドレスが正常に追加されていることを確認してください。</string>
   <string name="error_address_not_sync" platform="android, Desktop">アドレスの更新に失敗しました。もう一度やり直してください。</string>
@@ -1111,10 +1111,10 @@
   <string name="setting_data_title" platform="android">メディア自動ダウンロード設定</string>
   <string name="setting_data_wifi" platform="android">Wi-Fiに接続時</string>
   <string name="setting_delete_account_content_2" platform="android">ローカルメッセージとiCloudにバックアップされた内容は自動的に削除されません</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。</string>
   <string name="setting_delete_account_send" platform="android, iOS">%1$sへ4桁のコードを送信します</string>
   <string name="setting_delete_account_tip" platform="android, iOS">警告：Mixinウォレット内に他のウォレットや取引所に送金可能な仮想通貨が残っています。アカウントを削除すると、仮想通貨を永遠に引き出すことができませんが、よろしいでしょうか？</string>
-  <string name="setting_delete_account_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
+  <string name="setting_delete_account_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
   <string name="setting_desktop_confirm" platform="android, iOS">デスクトップ版Mixinへのログインを確認</string>
   <string name="setting_desktop_logout_failed" platform="android">デスクトップ版からのログアウトに失敗しました</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">6時間以内に同じ人に同額の送金を実行する際、確認を行う。</string>
@@ -1232,7 +1232,7 @@
   <string name="Transaction_Id" platform="android, iOS, Desktop">トランザクションID</string>
   <string name="Transaction_Type" platform="android, iOS">トランザクションタイプ</string>
   <string name="Transactions" platform="android, iOS, Desktop">もらった・あげたコイン💰</string>
-  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS">トランザクション履歴を削除することはできません</string>
+  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS, Desktop">トランザクション履歴を削除することはできません</string>
   <string name="Transcript" platform="android, iOS, Desktop">メッセージ履歴</string>
   <string name="Transfer" platform="android, iOS, Desktop">送金</string>
   <string name="Transfer_Amount" platform="android">送金数量</string>
@@ -1305,7 +1305,7 @@
   <string name="value_then" platform="android, iOS, Desktop">当時の価格 %1$s</string>
   <string name="Verify" platform="android, iOS">認証</string>
   <string name="Verify_by_Biometric" platform="android">生体認証で認証</string>
-  <string name="Verify_PIN" platform="android, iOS">PINコードを認証</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">PINコードを認証</string>
   <string name="Verifying" platform="android">認証中…</string>
   <string name="Version_Update" platform="android, iOS">アップデート</string>
   <string name="Video" platform="android, iOS, Desktop">動画</string>
