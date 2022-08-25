@@ -30,7 +30,7 @@
   <string name="access_your_collectibles" platform="android, iOS">访问你的 NFT 列表</string>
   <string name="access_your_contacts_list" platform="android, iOS">访问你的联系人列表</string>
   <string name="access_your_snapshots" platform="android, iOS">访问你的转账记录</string>
-  <string name="Account" platform="android, iOS">账号</string>
+  <string name="Account" platform="android, iOS, Desktop">账号</string>
   <string name="Acknowledgements" platform="iOS">许可证</string>
   <string name="Add" platform="android, iOS, Desktop">添加</string>
   <string name="Add_address" platform="android, iOS">添加地址</string>

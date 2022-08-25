@@ -31,7 +31,7 @@
 | android, iOS | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
 | android, iOS | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
 | android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
-| android, iOS | Account | Account | 账号  | アカウント | Akaun | Akun |
+| android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
 | android, iOS | Add_address | Add address | 添加地址 | アドレスに追加 | Tambah alamat | Tambahkan alamat |

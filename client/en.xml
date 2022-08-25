@@ -30,7 +30,7 @@
   <string name="access_your_collectibles" platform="android, iOS">access your collectibles</string>
   <string name="access_your_contacts_list" platform="android, iOS">access your contacts list</string>
   <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
-  <string name="Account" platform="android, iOS">Account</string>
+  <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>
   <string name="Add_address" platform="android, iOS">Add address</string>

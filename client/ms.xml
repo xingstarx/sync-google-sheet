@@ -9,7 +9,7 @@
   <string name="access_your_circle_list" platform="android, iOS">akses senarai lingkaran anda</string>
   <string name="access_your_contacts_list" platform="android, iOS">akses senarai kenalan anda</string>
   <string name="access_your_snapshots" platform="android, iOS">akses gambar anda</string>
-  <string name="Account" platform="android, iOS">Akaun</string>
+  <string name="Account" platform="android, iOS, Desktop">Akaun</string>
   <string name="Add_address" platform="android, iOS">Tambah alamat</string>
   <string name="Add_bot" platform="android, iOS">Tambah Bot</string>
   <string name="Add_circle" platform="android, iOS">Tambah Lingkaran</string>

@@ -30,7 +30,7 @@
   <string name="access_your_collectibles" platform="android, iOS">あなたのNFTコレクションへのアクセス</string>
   <string name="access_your_contacts_list" platform="android, iOS">友達一覧へのアクセス</string>
   <string name="access_your_snapshots" platform="android, iOS">スナップショットへのアクセス</string>
-  <string name="Account" platform="android, iOS">アカウント</string>
+  <string name="Account" platform="android, iOS, Desktop">アカウント</string>
   <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
   <string name="Add_address" platform="android, iOS">アドレスに追加</string>
