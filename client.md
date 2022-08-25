@@ -384,7 +384,7 @@
 | android | deep_cleaning_deleted | Cleaning up, %1$s deleted | 正在清理，已删除 %1$s | 削除中…、%1$sが削除しました |     |     |
 | android | default_time | 00:00 |     | 00:00 | 00:00 | 00:00 |
 | android, iOS, Desktop | Delete | Delete | 删除  | 削除  |     |     |
-| iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |     |     |
+| iOS, Desktop | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |     |     |
 | android, iOS, Desktop | delete_account_hint | Delete your account info and profile photo | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |     |     |
 | android, iOS | Delete_address | Delete address | 删除地址 | アドレスを削除 | Padamkan alamat | Hapus alamat |
 | iOS, Desktop | Delete_Chat | Delete Chat | 删除聊天 | チャットを削除 |     |     |
