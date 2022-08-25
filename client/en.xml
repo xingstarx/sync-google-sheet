@@ -395,7 +395,7 @@
   <string name="Delete_for_me" platform="android, iOS, Desktop">Delete for me</string>
   <string name="Delete_Group" platform="android, Desktop">Delete Group</string>
   <string name="delete_group_chat_confirmation" platform="iOS">Delete "%@" group chat?</string>
-  <string name="Delete_my_account" platform="android, iOS">Delete My Account</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">Delete My Account</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">Delete Synced Contacts</string>
   <string name="delete_the_circle" platform="Desktop">Do you want to delete %1$s circle?</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">Delete %1$s Address</string>

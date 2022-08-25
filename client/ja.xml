@@ -395,7 +395,7 @@
   <string name="Delete_for_me" platform="android, iOS, Desktop">あなたのチャットから削除</string>
   <string name="Delete_Group" platform="android, Desktop">グループを削除</string>
   <string name="delete_group_chat_confirmation" platform="iOS">"%@"のグループチャットを削除しますか?</string>
-  <string name="Delete_my_account" platform="android, iOS">アカウント削除</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">アカウント削除</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">同期済みの連絡先を削除する</string>
   <string name="delete_the_circle" platform="Desktop">%1$sのグループリストを削除しますか？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">%1$sのアドレス削除</string>
