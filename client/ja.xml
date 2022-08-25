@@ -482,7 +482,7 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">電話番号を入力して下さい</string>
   <string name="Enter_your_PIN" platform="android, iOS">PINコードを入力してください</string>
-  <string name="Enter_your_PIN_to_continue" platform="android, iOS">PINコードを入力して、続けてください</string>
+  <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">PINコードを入力して、続けてください</string>
   <string name="EOS_contract_address" platform="android">EOSアドレス</string>
   <string name="error_address_exists" platform="android, Desktop">アドレスが存在しません。アドレスが正常に追加されていることを確認してください。</string>
   <string name="error_address_not_sync" platform="android, Desktop">アドレスの更新に失敗しました。もう一度やり直してください。</string>
@@ -1305,7 +1305,7 @@
   <string name="value_then" platform="android, iOS, Desktop">当時の価格 %1$s</string>
   <string name="Verify" platform="android, iOS">認証</string>
   <string name="Verify_by_Biometric" platform="android">生体認証で認証</string>
-  <string name="Verify_PIN" platform="android, iOS">PINコードを認証</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">PINコードを認証</string>
   <string name="Verifying" platform="android">認証中…</string>
   <string name="Version_Update" platform="android, iOS">アップデート</string>
   <string name="Video" platform="android, iOS, Desktop">動画</string>

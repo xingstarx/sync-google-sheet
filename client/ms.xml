@@ -704,7 +704,7 @@
   <string name="value_then" platform="android, iOS, Desktop">nilai maka %1$s</string>
   <string name="Verify" platform="android, iOS">Sahkan</string>
   <string name="Verify_by_Biometric" platform="android">Sahkan dengan Biometrik</string>
-  <string name="Verify_PIN" platform="android, iOS">Sahkan PIN</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">Sahkan PIN</string>
   <string name="Verifying" platform="android">Mengesahkan…</string>
   <string name="Version_Update" platform="android, iOS">Kemas kini Versi</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>

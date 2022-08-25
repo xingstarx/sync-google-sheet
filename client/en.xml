@@ -482,7 +482,7 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
-  <string name="Enter_your_PIN_to_continue" platform="android, iOS">Enter your PIN to continue</string>
+  <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>
   <string name="error_address_exists" platform="android, Desktop">The address does not exist, please make sure that the address is added successfully</string>
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
@@ -1308,7 +1308,7 @@
   <string name="value_then" platform="android, iOS, Desktop">value then %1$s</string>
   <string name="Verify" platform="android, iOS">Verify</string>
   <string name="Verify_by_Biometric" platform="android">Verify by Biometric</string>
-  <string name="Verify_PIN" platform="android, iOS">Verify PIN</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">Verify PIN</string>
   <string name="Verifying" platform="android">Verifying…</string>
   <string name="Version_Update" platform="android, iOS">Version Update</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>

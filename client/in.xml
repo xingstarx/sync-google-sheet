@@ -647,7 +647,7 @@
   <string name="User_not_found" platform="android, iOS, Desktop">Pengguna tidak ditemukan</string>
   <string name="Verify" platform="android, iOS">Verifikasikan</string>
   <string name="Verify_by_Biometric" platform="android">Verifikasi dengan Biometrik</string>
-  <string name="Verify_PIN" platform="android, iOS">Verifikasikan PIN</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">Verifikasikan PIN</string>
   <string name="Verifying" platform="android">Memverifikasi…</string>
   <string name="Version_Update" platform="android, iOS">Periksa Pembaruan</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>

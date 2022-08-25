@@ -474,7 +474,7 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入紧急联系人的 Mixin ID</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">输入你的手机号码</string>
   <string name="Enter_your_PIN" platform="android, iOS">输入你的 PIN</string>
-  <string name="Enter_your_PIN_to_continue" platform="android, iOS">输入你的 PIN 以继续</string>
+  <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">输入你的 PIN 以继续</string>
   <string name="EOS_contract_address" platform="android">EOS 合约地址</string>
   <string name="error_address_exists" platform="android, Desktop">地址不存在，请确保地址是否添加成功</string>
   <string name="error_address_not_sync" platform="android, Desktop">地址刷新失败，请重试</string>
@@ -1290,7 +1290,7 @@
   <string name="value_then" platform="android, iOS, Desktop">当时价值 %1$s</string>
   <string name="Verify" platform="android, iOS">验证</string>
   <string name="Verify_by_Biometric" platform="android">用生物识别来验证</string>
-  <string name="Verify_PIN" platform="android, iOS">验证 PIN</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">验证 PIN</string>
   <string name="Verifying" platform="android">验证中…</string>
   <string name="Version_Update" platform="android, iOS">版本更新</string>
   <string name="Video" platform="android, iOS, Desktop">视频</string>

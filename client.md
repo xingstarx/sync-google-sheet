@@ -483,7 +483,7 @@
 | android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください | Masukkan ID Mixin kenalan kecemasan anda | Masukkan ID Mixin kontak darurat Anda |
 | android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力して下さい | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
-| android, iOS | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
+| android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
 | android | EOS_contract_address | EOS contract address | EOS 合约地址 | EOSアドレス | alamat kontrak EOS |     |
 | android, Desktop | error_address_exists | The address does not exist, please make sure that the address is added successfully | 地址不存在，请确保地址是否添加成功 | アドレスが存在しません。アドレスが正常に追加されていることを確認してください。 |     |     |
 | android, Desktop | error_address_not_sync | Address refresh failed, please try again | 地址刷新失败，请重试 | アドレスの更新に失敗しました。もう一度やり直してください。 |     |     |
@@ -1309,7 +1309,7 @@
 | android, iOS, Desktop | value_then | value then %1$s | 当时价值 %1$s | 当時の価格 %1$s | nilai maka %1$s |     |
 | android, iOS | Verify | Verify | 验证  | 認証  | Sahkan | Verifikasikan |
 | android | Verify_by_Biometric | Verify by Biometric | 用生物识别来验证 | 生体認証で認証 | Sahkan dengan Biometrik | Verifikasi dengan Biometrik |
-| android, iOS | Verify_PIN | Verify PIN | 验证 PIN | PINコードを認証 | Sahkan PIN | Verifikasikan PIN |
+| android, iOS, Desktop | Verify_PIN | Verify PIN | 验证 PIN | PINコードを認証 | Sahkan PIN | Verifikasikan PIN |
 | android | Verifying | Verifying… | 验证中… | 認証中… | Mengesahkan… | Memverifikasi… |
 | android, iOS | Version_Update | Version Update | 版本更新 | アップデート | Kemas kini Versi | Periksa Pembaruan |
 | android, iOS, Desktop | Video | Video | 视频  | 動画  | Video | Video |
