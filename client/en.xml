@@ -1235,7 +1235,7 @@
   <string name="Transaction_Id" platform="android, iOS, Desktop">Transaction Id</string>
   <string name="Transaction_Type" platform="android, iOS">Transaction Type</string>
   <string name="Transactions" platform="android, iOS, Desktop">Transactions</string>
-  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS">Transactions CANNOT be deleted</string>
+  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS, Desktop">Transactions CANNOT be deleted</string>
   <string name="Transcript" platform="android, iOS, Desktop">Transcript</string>
   <string name="Transfer" platform="android, iOS, Desktop">Transfer</string>
   <string name="Transfer_Amount" platform="android">Transfer Amount</string>

@@ -1232,7 +1232,7 @@
   <string name="Transaction_Id" platform="android, iOS, Desktop">トランザクションID</string>
   <string name="Transaction_Type" platform="android, iOS">トランザクションタイプ</string>
   <string name="Transactions" platform="android, iOS, Desktop">もらった・あげたコイン💰</string>
-  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS">トランザクション履歴を削除することはできません</string>
+  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS, Desktop">トランザクション履歴を削除することはできません</string>
   <string name="Transcript" platform="android, iOS, Desktop">メッセージ履歴</string>
   <string name="Transfer" platform="android, iOS, Desktop">送金</string>
   <string name="Transfer_Amount" platform="android">送金数量</string>
