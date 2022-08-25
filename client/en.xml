@@ -209,7 +209,7 @@
   <string name="Change_emergency_contact" platform="android, iOS">Change emergency contact</string>
   <string name="Change_name" platform="iOS">Change name</string>
   <string name="Change_Number" platform="iOS">Change Number</string>
-  <string name="Change_Number_Instead" platform="android, iOS">Change Number Instead</string>
+  <string name="Change_Number_Instead" platform="android, iOS, Desktop">Change Number Instead</string>
   <string name="Change_Phone_Number" platform="android, iOS">Change Phone Number</string>
   <string name="Change_PIN" platform="android, iOS">Change PIN</string>
   <string name="change_pin_interval_hint" platform="iOS">Confirm PIN to change interval</string>
