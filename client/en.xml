@@ -478,7 +478,7 @@
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
   <string name="Current_Language" platform="iOS">English</string>
   <string name="Enter_new_phone_number" platform="android">Enter your new phone number</string>
-  <string name="Enter_PIN_to_delete_account" platform="android, iOS">Enter your PIN to delete your account</string>
+  <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
