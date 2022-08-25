@@ -206,7 +206,7 @@
   <string name="Change_Amount" platform="android, iOS">修改金额</string>
   <string name="Change_emergency_contact" platform="android, iOS">修改紧急联系人</string>
   <string name="Change_name" platform="iOS">修改名称</string>
-  <string name="Change_Number" platform="iOS">修改手机号</string>
+  <string name="Change_Number" platform="iOS, Desktop">修改手机号</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">仅修改手机号码</string>
   <string name="Change_Phone_Number" platform="android, iOS">修改手机号</string>
   <string name="Change_PIN" platform="android, iOS">修改 PIN</string>

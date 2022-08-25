@@ -209,7 +209,7 @@
 | android, iOS | Change_Amount | Change Amount | 修改金额 | 数量を変更 | Tukar Jumlah | Ubah Jumlah |
 | android, iOS | Change_emergency_contact | Change emergency contact | 修改紧急联系人 | 緊急連絡先を変更 | Tukar kenalan kecemasan | Ubah kontak darurat |
 | iOS | Change_name | Change name | 修改名称 | 名前を変更 |     |     |
-| iOS | Change_Number | Change Number | 修改手机号 | 電話番号を変更 |     |     |
+| iOS, Desktop | Change_Number | Change Number | 修改手机号 | 電話番号を変更 |     |     |
 | android, iOS, Desktop | Change_Number_Instead | Change Number Instead | 仅修改手机号码 | 電話番号を変更 |     |     |
 | android, iOS | Change_Phone_Number | Change Phone Number | 修改手机号 | 電話番号を変更 | Tukar Nombor Telefon | Ubah Nomor Telepon |
 | android, iOS | Change_PIN | Change PIN | 修改 PIN | PINコードを変更 | Tukar PIN | Ubah PIN |

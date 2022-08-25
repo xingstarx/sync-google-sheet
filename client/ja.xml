@@ -208,7 +208,7 @@
   <string name="Change_Amount" platform="android, iOS">数量を変更</string>
   <string name="Change_emergency_contact" platform="android, iOS">緊急連絡先を変更</string>
   <string name="Change_name" platform="iOS">名前を変更</string>
-  <string name="Change_Number" platform="iOS">電話番号を変更</string>
+  <string name="Change_Number" platform="iOS, Desktop">電話番号を変更</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">電話番号を変更</string>
   <string name="Change_Phone_Number" platform="android, iOS">電話番号を変更</string>
   <string name="Change_PIN" platform="android, iOS">PINコードを変更</string>
