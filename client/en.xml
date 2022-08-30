@@ -1417,6 +1417,7 @@
   <string name="symbols" platform="Desktop">Symbols</string>
   <string name="flags" platform="Desktop">Flags</string>
   <string name="linked_device" platform="Desktop">linked device</string>
+  <string name="error_no_pin_token" platform="Desktop">No token, Please log in again and try this feature again.</string>
   <string name="NSContactsUsageDescription" platform="iOSAuthorization">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
   <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin uses the camera to set profile photo, and send photo to your contact in chat</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
