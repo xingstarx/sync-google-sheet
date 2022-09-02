@@ -84,7 +84,7 @@
   <string name="bot_empty_tip" platform="android, iOS">Harap tambahkan bot favorit Anda terlebih dahulu.</string>
   <string name="Bot_not_found" platform="android, iOS">Aplikasi tidak ditemukan</string>
   <string name="BOTS" platform="android, iOS, Desktop">BOT</string>
-  <string name="bots_title" platform="android, iOS">Bot</string>
+  <string name="bots_title" platform="android, iOS, Desktop">Bot</string>
   <string name="Call_declined" platform="android, iOS">Panggilan ditolak</string>
   <string name="Call_failed" platform="android, iOS">Panggilan gagal</string>
   <string name="call_pip_permission" platform="android">Anda tidak dapat menciutkan panggilan suara karena Mixin tidak diizinkan menggunakan jendela mengambang</string>
@@ -155,7 +155,7 @@
   <string name="contact_mute_title" platform="android, Desktop">Matikan notifikasi selama…</string>
   <string name="contact_new_group_chat_desc" platform="android">Buat obrolan grup dengan maksimal teman</string>
   <string name="contact_share_bots_title" platform="android, iOS">Aplikasi Bersama %1$s</string>
-  <string name="CONTACTS" platform="android, iOS, Desktop">KONTAK</string>
+  <string name="CONTACTS" platform="android, iOS">KONTAK</string>
   <string name="content_audio" platform="android, iOS">[Audio]</string>
   <string name="content_contact" platform="android, iOS">[Kontak]</string>
   <string name="content_file" platform="android, iOS">[File]</string>

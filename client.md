@@ -170,7 +170,7 @@
 | android, iOS | Bot_not_found | Bot not found | 找不到这个机器人 | ミニアプリが見つかりません | Aplikasi tidak dijumpai | Aplikasi tidak ditemukan |
 | iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home | 可将常用机器人长按拖至此处，可显示于首页 | お気に入りのミニアプリを長押ししてドラッグし、ここに表示できます。 |     |     |
 | android, iOS, Desktop | BOTS | BOTS | 机器人 | ミニアプリ | BOT | BOT |
-| android, iOS | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
+| android, iOS, Desktop | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
 | android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。 | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! |     |
 | iOS | Business | Business | 商业  | ビジネス |     |     |
 | android, iOS | Call | Call | 语音  | 電話  |     |     |
@@ -313,8 +313,8 @@
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | 创建一个最多支持 256 人的群 | 友達と新しいグループチャットを作成 | Buat kumpulan sembang dengan sehingga rakan | Buat obrolan grup dengan maksimal teman |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |     |     |
 | android, iOS | contact_share_bots_title | %1$s's Shared Bots | %1$s分享的机器人 | %1$s\のシェアしたミニアプリ | Aplikasi Dikongsi %1$s | Aplikasi Bersama %1$s |
-| iOS | contact_title | Contacts | 联系人 | 連絡先 |     |     |
-| android, iOS, Desktop | CONTACTS | CONTACTS | 联系人 | 連絡先 | KENALAN | KONTAK |
+| iOS, Desktop | contact_title | Contacts | 联系人 | 連絡先 |     |     |
+| android, iOS | CONTACTS | CONTACTS | 联系人 | 連絡先 | KENALAN | KONTAK |
 | android, iOS | content_audio | [Audio] | [语音] | [音声メッセージ] | [Audio] | [Audio] |
 | android, iOS | content_contact | [Contact] | [联系人] | [連絡先] | [Hubungi] | [Kontak] |
 | iOS | content_deposit | [Deposit] | 充值  | [入金] |     |     |
@@ -1167,7 +1167,7 @@
 | DesktoP | sign_out | Sign Out | 登出  | サインアウト |     |     |
 | android, iOS | Sign_with_emergency_contact | Sign in with emergency contact | 通过紧急联系人登录 | 緊急連絡先でログイン | Log masuk dengan kenalan kecemasan | Masuk dengan kontak darurat |
 | android, iOS, Desktop | Sign_with_phone_number | Sign in with phone number | 通过手机号登录 | 電話番号でログイン | Log masuk dengan nombor telefon | Masuk dengan nomor telepon |
-| Desktop | sign_with_qrcode | Sign in with QrCode | 通过二维码登录 | QRコードでログイン |     |     |
+| Desktop | sign_with_qrcode | Sign in with QR code | 通过二维码登录 | QRコードでログイン |     |     |
 | android | Silence_Notification | Silence Notification | 静音通知 | サイレント通知 |     |     |
 | android | Size | Size | 大小  | サイズ |     |     |
 | android, iOS | Skip | Skip | 跳过  | スキップ | LANGKAU | LEWATI |

@@ -167,7 +167,7 @@
   <string name="Bot_not_found" platform="android, iOS">找不到这个机器人</string>
   <string name="bot_pin_hint" platform="iOS">可将常用机器人长按拖至此处，可显示于首页</string>
   <string name="BOTS" platform="android, iOS, Desktop">机器人</string>
-  <string name="bots_title" platform="android, iOS">机器人</string>
+  <string name="bots_title" platform="android, iOS, Desktop">机器人</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
   <string name="Business" platform="iOS">商业</string>
   <string name="Call" platform="android, iOS">语音</string>
@@ -307,8 +307,8 @@
   <string name="contact_new_group_chat_desc" platform="android">创建一个最多支持 256 人的群</string>
   <string name="contact_phone_contact_hint" platform="iOS">上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友</string>
   <string name="contact_share_bots_title" platform="android, iOS">%1$s分享的机器人</string>
-  <string name="contact_title" platform="iOS">联系人</string>
-  <string name="CONTACTS" platform="android, iOS, Desktop">联系人</string>
+  <string name="contact_title" platform="iOS, Desktop">联系人</string>
+  <string name="CONTACTS" platform="android, iOS">联系人</string>
   <string name="content_audio" platform="android, iOS">[语音]</string>
   <string name="content_contact" platform="android, iOS">[联系人]</string>
   <string name="content_deposit" platform="iOS">充值</string>
