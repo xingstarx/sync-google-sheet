@@ -1166,7 +1166,7 @@
   <string name="sign_out" platform="DesktoP">Sign Out</string>
   <string name="Sign_with_emergency_contact" platform="android, iOS">Sign in with emergency contact</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Sign in with phone number</string>
-  <string name="sign_with_qrcode" platform="Desktop">Sign in with QrCode</string>
+  <string name="sign_with_qrcode" platform="Desktop">Sign in with QR code</string>
   <string name="Silence_Notification" platform="android">Silence Notification</string>
   <string name="Size" platform="android">Size</string>
   <string name="Skip" platform="android, iOS">Skip</string>
