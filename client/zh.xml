@@ -167,7 +167,7 @@
   <string name="Bot_not_found" platform="android, iOS">找不到这个机器人</string>
   <string name="bot_pin_hint" platform="iOS">可将常用机器人长按拖至此处，可显示于首页</string>
   <string name="BOTS" platform="android, iOS, Desktop">机器人</string>
-  <string name="bots_title" platform="android, iOS">机器人</string>
+  <string name="bots_title" platform="android, iOS, Desktop">机器人</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
   <string name="Business" platform="iOS">商业</string>
   <string name="Call" platform="android, iOS">语音</string>

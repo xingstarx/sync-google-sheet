@@ -169,7 +169,7 @@
   <string name="Bot_not_found" platform="android, iOS">ミニアプリが見つかりません</string>
   <string name="bot_pin_hint" platform="iOS">お気に入りのミニアプリを長押ししてドラッグし、ここに表示できます。</string>
   <string name="BOTS" platform="android, iOS, Desktop">ミニアプリ</string>
-  <string name="bots_title" platform="android, iOS">Myミニアプリ一覧</string>
+  <string name="bots_title" platform="android, iOS, Desktop">Myミニアプリ一覧</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。</string>
   <string name="Business" platform="iOS">ビジネス</string>
   <string name="Call" platform="android, iOS">電話</string>

@@ -170,7 +170,7 @@
 | android, iOS | Bot_not_found | Bot not found | 找不到这个机器人 | ミニアプリが見つかりません | Aplikasi tidak dijumpai | Aplikasi tidak ditemukan |
 | iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home | 可将常用机器人长按拖至此处，可显示于首页 | お気に入りのミニアプリを長押ししてドラッグし、ここに表示できます。 |     |     |
 | android, iOS, Desktop | BOTS | BOTS | 机器人 | ミニアプリ | BOT | BOT |
-| android, iOS | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
+| android, iOS, Desktop | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
 | android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。 | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! |     |
 | iOS | Business | Business | 商业  | ビジネス |     |     |
 | android, iOS | Call | Call | 语音  | 電話  |     |     |

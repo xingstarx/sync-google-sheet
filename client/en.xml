@@ -169,7 +169,7 @@
   <string name="Bot_not_found" platform="android, iOS">Bot not found</string>
   <string name="bot_pin_hint" platform="iOS">You can long press and drag the frequently used bots here to display them on the home</string>
   <string name="BOTS" platform="android, iOS, Desktop">BOTS</string>
-  <string name="bots_title" platform="android, iOS">Bots</string>
+  <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
   <string name="Business" platform="iOS">Business</string>
   <string name="Call" platform="android, iOS">Call</string>
