@@ -577,8 +577,8 @@
   <string name="Share" platform="android, iOS, Desktop">Bagikan</string>
   <string name="Share_error" platform="android, Desktop">Bagikan kesalahan.</string>
   <string name="Share_Link" platform="android, iOS, Desktop">Bagikan Tautan</string>
-  <string name="share_message_description" platform="android, iOS">Yakin ingin mengirim %2$s dari %1$s?</string>
-  <string name="share_message_description_empty" platform="android, iOS">Yakin ingin mengirim %1$s?</string>
+  <string name="share_message_description" platform="android, iOS, Desktop">Yakin ingin mengirim %2$s dari %1$s?</string>
+  <string name="share_message_description_empty" platform="android, iOS, Desktop">Yakin ingin mengirim %1$s?</string>
   <string name="share_to" platform="android">Bagikan %1$s ke…</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Media Bersama</string>
   <string name="Show" platform="android, iOS, Desktop">Tampilkan</string>

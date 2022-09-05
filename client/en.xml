@@ -1148,8 +1148,8 @@
   <string name="Share_error" platform="android, Desktop">Share error.</string>
   <string name="Share_Link" platform="android, iOS, Desktop">Share Link</string>
   <string name="Share_Log_File" platform="iOS">Share Log File</string>
-  <string name="share_message_description" platform="android, iOS">Are you sure you want to send a %2$s from %1$s?</string>
-  <string name="share_message_description_empty" platform="android, iOS">Are you sure you want to send the %1$s?</string>
+  <string name="share_message_description" platform="android, iOS, Desktop">Are you sure you want to send a %2$s from %1$s?</string>
+  <string name="share_message_description_empty" platform="android, iOS, Desktop">Are you sure you want to send the %1$s?</string>
   <string name="Share_QR_Code" platform="android">Share QR Code</string>
   <string name="share_to" platform="android">Share %1$s to…</string>
   <string name="Share_To" platform="iOS">Share To</string>
