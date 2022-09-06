@@ -1420,7 +1420,7 @@
 | Desktop | linked_device | linked device | 连接的设备 |     |     |     |
 | Desktop | error_no_pin_token | No token, Please log in again and try this feature again. | 缺少凭据，请重新登录之后再尝试使用此功能。 |     |     |     |
 | Desktop | network_connection_failed | Network connection failed | 网络连接失败 |     |     |     |
-| Desktop | selection | Selection | 选择  | 選択  |     |     |
+| Desktop | select | Select | 选择  | 選択  |     |     |
 | iOSAuthorization | NSCameraUsageDescription | Mixin uses the camera to set profile photo, and send photo to your contact in chat | Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片 | カメラは、プロフィール画像の設定、写真の共有に使用されます |     |     |
 | iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat | Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片 | アルバムは、プロフィール画像の設定、画像の共有に使用されます |     |     |
 | iOSAuthorization | NSMicrophoneUsageDescription | Mixin uses your microphone to record voice messages to share with your contacts | Mixin 使用你的麦克风录制语音消息发给你的联系人 | マイクは、通話やボイスメッセージに使用されます |     |     |
