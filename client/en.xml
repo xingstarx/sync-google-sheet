@@ -263,7 +263,7 @@
   <string name="check_trace_failed" platform="android">Check trace info failed, please try again</string>
   <string name="Checking_link" platform="android">Checking link</string>
   <string name="Checking_payment_info" platform="android">Checking payment info</string>
-  <string name="CHOOSE" platform="android, Desktop">CHOOSE</string>
+  <string name="CHOOSE" platform="android">CHOOSE</string>
   <string name="Choose_folder" platform="android">Choose folder</string>
   <string name="Choose_Photo" platform="iOS">Choose Photo</string>
   <string name="circle_bottom" platform="android">Create circle for different groups of chats and quickly switch between them</string>
@@ -1054,7 +1054,7 @@
   <string name="Searching" platform="android">Searching</string>
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Security" platform="android, iOS">Security</string>
-  <string name="Select" platform="android, iOS">Select</string>
+  <string name="Select" platform="android, iOS, Desktop">Select</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Emergency Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>

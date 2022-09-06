@@ -538,7 +538,7 @@
   <string name="Searching" platform="android">Mencari</string>
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Security" platform="android, iOS">Keamanan</string>
-  <string name="Select" platform="android, iOS">Pilih</string>
+  <string name="Select" platform="android, iOS, Desktop">Pilih</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Pilih Kontak Darurat</string>
   <string name="Send" platform="android, iOS, Desktop">Kirim</string>
   <string name="send_file_group" platform="android">Kirim "%1$s" ke "%2$s"?</string>
