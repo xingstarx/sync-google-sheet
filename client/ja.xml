@@ -1052,7 +1052,7 @@
   <string name="Searching" platform="android">検索中</string>
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Security" platform="android, iOS">セキュリティ</string>
-  <string name="Select" platform="android, iOS">選択</string>
+  <string name="Select" platform="android, iOS, Desktop">選択</string>
   <string name="Select_a_country_or_region" platform="iOS">国と地域を選択</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">緊急連絡先を選択</string>
   <string name="Select_More_Photos" platform="iOS">さらに選択</string>
@@ -1399,7 +1399,6 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
-  <string name="select" platform="Desktop">選択</string>
   <string name="NSCameraUsageDescription" platform="iOSAuthorization">カメラは、プロフィール画像の設定、写真の共有に使用されます</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">アルバムは、プロフィール画像の設定、画像の共有に使用されます</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">マイクは、通話やボイスメッセージに使用されます</string>

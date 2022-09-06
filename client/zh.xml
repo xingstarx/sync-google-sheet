@@ -1038,7 +1038,7 @@
   <string name="search_result_prefix_phone" platform="iOS">手机号码：</string>
   <string name="Searching" platform="android">搜索中</string>
   <string name="Security" platform="android, iOS">安全</string>
-  <string name="Select" platform="android, iOS">选择</string>
+  <string name="Select" platform="android, iOS, Desktop">选择</string>
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">选择紧急联系人</string>
   <string name="Select_More_Photos" platform="iOS">选择更多照片</string>
@@ -1398,7 +1398,6 @@
   <string name="linked_device" platform="Desktop">连接的设备</string>
   <string name="error_no_pin_token" platform="Desktop">缺少凭据，请重新登录之后再尝试使用此功能。</string>
   <string name="network_connection_failed" platform="Desktop">网络连接失败</string>
-  <string name="select" platform="Desktop">选择</string>
   <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin 需要访问摄像头的权限来设置头像或在聊天室里给你的联系人发送照片</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麦克风录制语音消息发给你的联系人</string>
