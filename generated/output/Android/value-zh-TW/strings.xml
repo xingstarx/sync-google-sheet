@@ -902,8 +902,6 @@
 	<string name="Transfer_Notifications">轉賬通知</string>
 	<string name="transfer_qrcode_prompt">用 Mixin 掃描二維碼給我轉賬</string>
 	<string name="transfer_to">轉賬給 %1$s</string>
-	<string name="Transfer_to_Mixin_address">給主網地址轉賬</string>
-	<string name="Transfer_to_user_or_bot">給使用者或機器人轉賬</string>
 	<string name="transfer_without_pin">轉賬前請先設定 PIN</string>
 	<string name="Trending">熱門資產</string>
 	<string name="Try_Again">請重試</string>

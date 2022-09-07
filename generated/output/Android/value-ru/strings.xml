@@ -946,8 +946,6 @@
 	<string name="Transfer_Notifications">Уведомления о переносе</string>
 	<string name="transfer_qrcode_prompt">Отсканируйте QR-код, чтобы перевести меня на Mixin</string>
 	<string name="transfer_to">Перевести на %1$s</string>
-	<string name="Transfer_to_Mixin_address">Перевод на Mixin адрес</string>
-	<string name="Transfer_to_user_or_bot">Перевод пользователю или боту</string>
 	<string name="transfer_without_pin">Вы должны установить PIN-код для перевода</string>
 	<string name="Trending">В тренде</string>
 	<string name="Try_Again">Попробуйте еще раз</string>

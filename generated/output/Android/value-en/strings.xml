@@ -700,6 +700,7 @@
 	<string name="QR_Code_not_found">QR Code not found</string>
 	<string name="quote">quote</string>
 	<string name="Raw">Raw</string>
+	<string name="Raw_Transfer">Raw Transfer</string>
 	<string name="Read_Assets">Read Assets</string>
 	<string name="Read_Bots">Read Bots</string>
 	<string name="Read_Circles">Read Circles</string>
@@ -787,6 +788,7 @@
 	<string name="Send_Message">Send Message</string>
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
+	<string name="Send_to_contact">Send to contact</string>
 	<string name="Send_transfer">Send</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>
 	<string name="Send_your_Current_Location">Send your Current Location</string>
@@ -921,8 +923,6 @@
 	<string name="Transfer_Notifications">Transfer Notifications</string>
 	<string name="transfer_qrcode_prompt">Scan the QR Code to transfer me on Mixin</string>
 	<string name="transfer_to">Transfer to %1$s</string>
-	<string name="Transfer_to_Mixin_address">Transfer to Mixin address</string>
-	<string name="Transfer_to_user_or_bot">Transfer to user or bot</string>
 	<string name="transfer_without_pin">You must setup PIN for transfer</string>
 	<string name="Trending">Trending</string>
 	<string name="Try_Again">Try Again</string>
