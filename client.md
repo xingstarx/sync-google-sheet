@@ -763,7 +763,7 @@
 | iOS | Monthly | Monthly | 每月  | 月   |     |     |
 | android, iOS, Desktop | More | More | 更多  | もっとみる | Lebih banyak lagi | Lebih banyak |
 | android, iOS | Multisig_by_PIN | Multisig by PIN | 通过 PIN 签名 | PINコードでマルチシグウォレットを使用する | Multisig dengan PIN | Multisig dengan PIN |
-| android | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人 | Penerima (%1$s) | Penerima (%1$s) |
+| android | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人(%1$s) | Penerima (%1$s) | Penerima (%1$s) |
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | Multisig_Transaction | Multisig Transaction | 多重签名交易 | マルチシグトランザクション | Transaksi Multisig | Transaksi Multisig |
@@ -954,6 +954,7 @@
 | Desktop | quit_mixin | Quit Mixin | 退出 Mixin | 終了  |     |     |
 | android | quote | quote | 引用  | 引用  | petikan |     |
 | android, iOS | Raw | Raw | 其他  | その他 | Mentah | Raw |
+| android | Raw_Transfer | Raw Transfer |     |     |     |     |
 | android, iOS | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
 | android, iOS | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
 | android, iOS | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
@@ -1080,6 +1081,7 @@
 | Desktop | send_quickly | Send quickly | 快速发送 | クイック送信 |     |     |
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
+| android | Send_to_contact | Send to contact | 转账给联系人 |     |     |     |
 | iOS | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
 | iOS | Send_To_Title | Send To | 转给  | 振替先 |     |     |
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
@@ -1246,8 +1248,8 @@
 | android, iOS | Transfer_Notifications | Transfer Notifications | 转账通知 | 送金の受取通知 | Pindahkan Pemberitahuan | Notifikasi Transfer |
 | android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |     |     |
 | android, iOS | transfer_to | Transfer to %1$s | 转账给 %1$s | %1$sに送金する | Pindahkan ke %1$s | Transfer ke %1$s |
-| android, iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
-| android, iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
+| iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
+| iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
 | android | transfer_without_pin | You must setup PIN for transfer | 转账前请先设置 PIN | 送金するにはPINコードの設定が必要です | Anda mesti sediakan PIN untuk pemindahan | Anda harus membuat PIN untuk transfer |
 | android, iOS | Trending | Trending | 热门资产 | トレンド | Sohor Kini |     |
 | android, iOS | Try_Again | Try Again | 请重试 | もう一度試す | Cuba lagi | Coba lagi |
