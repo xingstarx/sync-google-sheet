@@ -62,6 +62,7 @@
 "all" = "Semua";
 "all_conversations" = "Semua Percakapan";
 "all_photos" = "All Photos";
+"all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "Semua Transaksi";
 "allow" = "Allow";
 "allow_manual_report_message" = "Allow Manual Report Message";
@@ -147,6 +148,7 @@
 "change_your_app_language" = "Change your app language";
 "changed" = "Changed";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
+"changing_pin_terminated_unexpectedly" = "Changing PIN terminated unexpectedly, click \\"Continue\\" to complete the change";
 "chat_background" = "Chat Background";
 "chat_backup" = "Chat Backup";
 "chat_bot_reception_title" = "Tap the button to interact with the bot";
@@ -189,6 +191,7 @@
 "compress_database" = "Compress Database";
 "compressed" = "Compressed";
 "confirm" = "Konfirmasi";
+"connect_to_tip_network_failed" = "If you see \"Failed to connect to the TIP network\", please try switching to 4G, Wi-Fi, or VPN and attempting again.";
 "connected" = "Connected";
 "connecting" = "Menyambungkan";
 "connection_unstable" = "Connection unstable";
@@ -223,6 +226,7 @@
 "content_voice" = "[Panggilan suara]";
 "content_withdrawal" = "[Withdrawal]";
 "continue" = "Lanjutkan";
+"continue_need_verify_your_pin" = "Continue need to verify your old PIN and new PIN";
 "continue_open_url" = "Lanjutkan Buka URL";
 "conversation" = "Percakapan";
 "conversation_has_too_many_circles" = "The conversation has too many circles";
@@ -235,7 +239,9 @@
 "copy_link" = "Copy Link";
 "copy_user_id" = "Copy User ID";
 "create" = "Buat";
+"create_pin" = "Create PIN";
 "created_this_group" = "%@ created this group";
+"creating_wallet_terminated_unexpectedly" = "Creating wallet terminated unexpectedly, click \\"Continue\\" to complete the creation";
 "currency" = "Mata uang";
 "currency_code" = "Code";
 "current_language" = "English";
@@ -320,6 +326,8 @@
 "end_to_end_encryption" = "Terenkripsi end-to-end";
 "enter_pin_to_delete_account" = "Enter your PIN to delete your account";
 "enter_your_emergency_contact_mixin_id" = "Masukkan ID Mixin kontak darurat Anda";
+"enter_your_new_pin" = "Enter your new PIN";
+"enter_your_old_pin" = "Enter your old PIN";
 "enter_your_phone_number" = "Masukkan nomor ponsel Anda";
 "enter_your_pin" = "Masukkan PIN Anda";
 "enter_your_pin_to_continue" = "Enter your PIN to continue";
@@ -354,6 +362,7 @@
 "error_used_phone" = "KESALAHAN 20122: Ponsel digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "KESALAHAN 20131: Format memo penarikan salah.";
 "everybody" = "Semua orang";
+"exchanging_data" = "Synchronization key shards in progress:(%1$d/%2$d)...";
 "exit_confirmation" = "Exit \"%@\"?";
 "exit_group" = "Keluar dari Grup";
 "exit_group_and_report_inviter" = "Exit group and report inviter";
@@ -535,6 +544,8 @@
 "no_transactions" = "Tidak ada transaksi";
 "nobody" = "Tak seorangpun";
 "none" = "Tidak ada";
+"not_all_signer_success" = "Not all node success";
+"not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "Tidak ditemukan";
 "not_playing" = "Not playing";
 "notification_and_confirmation" = "Notifikasi dan Konfirmasi";
@@ -597,6 +608,7 @@
 "pin_creation" = "PIN creation";
 "pin_incorrect" = "PIN salah";
 "pin_lost_hint" = "If lost, there is no way to recover your wallet.";
+"pin_not_same_as_last_time" = "PIN does not match what was set when it was last terminated unexpectedly";
 "pin_title" = "Pin";
 "pinned_a_audio" = "%@ pinned an audio";
 "pinned_a_card" = "%@ pinned a card";
@@ -613,12 +625,15 @@
 "pinned_message_title" = "%d Pinned Message";
 "pinned_message_title_count" = "%d Pinned Messages";
 "playlist" = "Playlist";
+"please_keep_app_in_foreground" = "Please keep the app in the foreground and do not force quit it during the setup process.";
+"please_use_when_network_is_connected" = "Please complete the operation under a stable network environment.";
 "post" = "Postingan";
 "post_sharing" = "post";
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
 "privacy" = "Privasi";
 "privacy_policy" = "Kebijakan Privasi";
+"process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
 "profile" = "Profile";
 "profile_photo" = "Foto Profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
@@ -724,6 +739,7 @@
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
 "set_new_pin" = "Buat PIN baru";
+"set_or_update_pin_failed" = "Set or update PIN failed";
 "set_pin_successfully" = "Berhasil membuat PIN";
 "setting_appearance_language_alert_description" = "You can pick a preferred language in settings";
 "setting_auth_access" = "Disetujui: %1$@, Terakhir Diakses: %2$@";
@@ -770,6 +786,7 @@
 "snapshot_not_found" = "Snapshot not found.";
 "social" = "Social";
 "sort_by" = "Sort by";
+"start" = "Start";
 "start_messaging" = "Mulai Mengirim Pesan";
 "started_group_call" = "%@ has started a group call";
 "status" = "Status";
@@ -784,6 +801,7 @@
 "suspicious_link" = "Tautan yang Mencurigakan";
 "symbol" = "Simbol";
 "symbol_withdrawal" = "%@ Withdrawal";
+"syncing_and_verifying_tip" = "Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.";
 "syncing_progress" = "Syncing %d%%";
 "syncs_contact_hint" = "Mixin menyinkronkan buku alamat Anda ke server Mixin untuk membantu Anda terhubung dengan pengguna Mixin yang lain.";
 "system_time_is_unusual" = "System time is unusual";
@@ -797,6 +815,7 @@
 "third_pin_confirm_hint" = "It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost.";
 "this_message_was_deleted" = "Pesan ini telah dihapus";
 "time" = "Waktu";
+"tip_introduction" = "The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "title_participants" = "%d Participant";
 "title_participants_count" = "%d peserta";
 "to" = "To";
@@ -823,6 +842,8 @@
 "transfer_to_user_or_bot" = "Transfer ke pengguna atau bot";
 "trending" = "Trending";
 "try_again" = "Coba lagi";
+"trying_connect_tip_network" = "Connecting the TIP network";
+"trying_connect_tip_node" = "Trying connect TIP node";
 "turn_on_notifications" = "Aktifkan Notifikasi";
 "unable_to_save_photo" = "Unable to save photo.";
 "unable_to_save_video" = "Unable to save video.";
@@ -850,8 +871,12 @@
 "unrecognized_codes" = "Unrecognized codes";
 "update" = "Perbarui";
 "update_mixin" = "Perbarui Mixin";
+"upgrade" = "Upgrade";
 "upgrade_database" = "Tingkatkan Database";
+"upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
+"upgrade_pin" = "Upgrade PIN";
 "upgrading" = "Meningkatkan";
+"upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \\"Continue\\" to complete the upgrade";
 "upload_mobile_contacts" = "Upload Mobile Contacts";
 "uploading" = "Uploading...";
 "uploading_progress" = "Uploading: %@ of %@ (%@)";

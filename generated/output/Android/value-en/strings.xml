@@ -73,6 +73,7 @@
 	<string name="All">All</string>
 	<string name="All_Conversations">All Conversations</string>
 	<string name="All_Media">All Media</string>
+	<string name="All_signer_failure">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
 	<string name="All_Transactions">All Transactions</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
@@ -157,6 +158,7 @@
 	<string name="Changed">Changed</string>
 	<string name="changed_disappearing_message_settings">%1$s changed disappearing message settings.</string>
 	<string name="Changing">Changing…</string>
+	<string name="Changing_PIN_terminated_unexpectedly">Changing PIN terminated unexpectedly, click \\"Continue\\" to complete the change</string>
 	<string name="chat_audio_discard_warning">Are you sure you want to stop recording and discard your voice message ?</string>
 	<string name="chat_audio_discard_warning_title">Discard Voice message</string>
 	<string name="chat_audio_warning">You cannot play audio if your\'re already on play another audio.</string>
@@ -218,6 +220,7 @@
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
 	<string name="Confirm_PIN">Confirm PIN</string>
+	<string name="Connect_to_TIP_network_failed">If you see \"Failed to connect to the TIP network\", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
 	<string name="Connecting">Connecting</string>
 	<string name="Connection_unstable">Connection unstable</string>
 	<string name="Contact">Contact</string>
@@ -249,6 +252,7 @@
 	<string name="content_video">[Video]</string>
 	<string name="content_voice">[Voice call]</string>
 	<string name="Continue">Continue</string>
+	<string name="Continue_need_verify_your_PIN">Continue need to verify your old PIN and new PIN</string>
 	<string name="Continue_Open_URL">Continue Open URL</string>
 	<string name="Conversation">Conversation</string>
 	<string name="conversation_delete_tip">Once deleted, all this chat messages will be cleared</string>
@@ -259,8 +263,10 @@
 	<string name="Copy_invite">Copy Invite Link</string>
 	<string name="Copy_link">Copy Link</string>
 	<string name="Create">Create</string>
+	<string name="Create_PIN">Create PIN</string>
 	<string name="created_this_group">%1$s created this group</string>
 	<string name="Creating">Creating…</string>
+	<string name="Creating_wallet_terminated_unexpectedly">Creating wallet terminated unexpectedly, click \\"Continue\\" to complete the creation</string>
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
 	<string name="Custom_Time">Custom Time</string>
@@ -352,6 +358,8 @@
 	<string name="Enter_new_phone_number">Enter your new phone number</string>
 	<string name="Enter_PIN_to_delete_account">Enter your PIN to delete your account</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">Enter your emergency contact Mixin ID</string>
+	<string name="Enter_your_new_PIN">Enter your new PIN</string>
+	<string name="Enter_your_old_PIN">Enter your old PIN</string>
 	<string name="Enter_your_phone_number">Enter your phone number</string>
 	<string name="Enter_your_PIN">Enter your PIN</string>
 	<string name="Enter_your_PIN_to_continue">Enter your PIN to continue</string>
@@ -405,6 +413,7 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="Everybody">Everybody</string>
+	<string name="Exchanging_data">Synchronization key shards in progress:(%1$d/%2$d)…</string>
 	<string name="Exit">Exit</string>
 	<string name="Exit_Group">Exit Group</string>
 	<string name="exit_without_save">Exit without save?</string>
@@ -621,6 +630,8 @@
 	<string name="Nobody">Nobody</string>
 	<string name="Nodes">Nodes</string>
 	<string name="None">None</string>
+	<string name="Not_all_signer_success">Not all node success</string>
+	<string name="Not_enough_partials">Not enough nodes return key shard</string>
 	<string name="Not_found">Not found</string>
 	<string name="Not_logged_in">Not logged in</string>
 	<string name="Not_recognized">Not recognized</string>
@@ -677,6 +688,7 @@
 	<string name="pin_creation">PIN creation</string>
 	<string name="PIN_incorrect">PIN incorrect</string>
 	<string name="pin_lost_hint">If lost, there is no way to recover your wallet.</string>
+	<string name="PIN_not_same_as_last_time">PIN does not match what was set when it was last terminated unexpectedly</string>
 	<string name="pin_title">Pin</string>
 	<plurals name="pinned_message_title">
 		<item quantity="one">%1$d Pinned Message</item>
@@ -686,11 +698,14 @@
 	<string name="Play">Play</string>
 	<string name="Playback_failed">Playback failed</string>
 	<string name="Playlist">Playlist</string>
+	<string name="Please_keep_app_in_foreground">Please keep the app in the foreground and do not force quit it during the setup process.</string>
+	<string name="Please_use_when_network_is_connected">Please complete the operation under a stable network environment.</string>
 	<string name="Please_wait_a_bit">Please wait a bit…</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
+	<string name="Process_can_not_be_stop">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
 	<string name="profile_modify_number">Do you want to change your phone number?</string>
 	<string name="Profile_photo">Profile Photo</string>
 	<string name="profile_share_bot_hint">If you want to share a bot, add it to your contacts first</string>
@@ -796,6 +811,7 @@
 	<string name="Set">Set</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
 	<string name="Set_new_PIN">Set a new PIN</string>
+	<string name="Set_or_update_PIN_failed">Set or update PIN failed</string>
 	<string name="Set_PIN">Set PIN</string>
 	<string name="Set_PIN_successfully">Set PIN successfully</string>
 	<string name="setting_auth_access">Approved: %1$s, Last Accessed: %2$s</string>
@@ -866,6 +882,7 @@
 	<string name="Slide_to_cancel">Slide to Cancel</string>
 	<string name="Sort">Sort</string>
 	<string name="Sort_by">Sort by</string>
+	<string name="Start">Start</string>
 	<string name="Start_Messaging">Start Messaging</string>
 	<string name="Status">Status</string>
 	<string name="Sticker">Sticker</string>
@@ -886,6 +903,7 @@
 	<string name="Switching_currency">Switching currency</string>
 	<string name="Symbol">Symbol</string>
 	<string name="symbol_withdrawal">%1$s Withdrawal</string>
+	<string name="Syncing_and_verifying_TIP">Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.</string>
 	<string name="Syncing_messages">Syncing messages</string>
 	<string name="syncs_contact_hint">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
 	<string name="System_options">System options</string>
@@ -901,6 +919,7 @@
 	<string name="This_message_was_deleted">This message was deleted</string>
 	<string name="Thursday">Thursday</string>
 	<string name="Time">Time</string>
+	<string name="TIP_introduction">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
 	<plurals name="title_participants">
 		<item quantity="one">%1$d Participant</item>
 		<item quantity="other">%1$d Participants</item>
@@ -926,6 +945,8 @@
 	<string name="transfer_without_pin">You must setup PIN for transfer</string>
 	<string name="Trending">Trending</string>
 	<string name="Try_Again">Try Again</string>
+	<string name="Trying_connect_tip_network">Connecting the TIP network</string>
+	<string name="Trying_connect_tip_node">Trying connect TIP node</string>
 	<string name="Tuesday">Tuesday</string>
 	<string name="Turn_On_Notifications">Turn On Notifications</string>
 	<string name="Type_message">Type message</string>
@@ -964,8 +985,12 @@
 	<string name="update_downloaded">An update has just been downloaded.</string>
 	<string name="Update_Mixin">Update Mixin</string>
 	<string name="update_mixin_description">The current version (%1$s) is no longer available!\nPlease click \"Update\" below to update to the latest version from the Google Play.</string>
+	<string name="Upgrade">Upgrade</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
+	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
+	<string name="Upgrade_PIN">Upgrade PIN</string>
 	<string name="Upgrading">Upgrading</string>
+	<string name="Upgrading_TIP_terminated_unexpectedly">Upgrading TIP terminated unexpectedly, click \\"Continue\\" to complete the upgrade</string>
 	<string name="Upload_Mobile_Contacts">Upload Mobile Contacts</string>
 	<string name="Upload_timeout">Upload timeout</string>
 	<string name="Use_Biometric_Multisig">Use Biometric Multisig</string>
