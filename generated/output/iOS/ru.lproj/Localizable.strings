@@ -148,7 +148,7 @@
 "change_your_app_language" = "Измените язык вашего приложения";
 "changed" = "Измененный";
 "changed_disappearing_message_settings" = "%@ изменил настройки исчезающих сообщений.";
-"changing_pin_terminated_unexpectedly" = "Changing PIN terminated unexpectedly, click \\"Continue\\" to complete the change";
+"changing_pin_terminated_unexpectedly" = "Changing PIN terminated unexpectedly, click \"Continue\" to complete the change";
 "chat_background" = "Фон чата";
 "chat_backup" = "Резервное копирование чата";
 "chat_bot_reception_title" = "Нажмите кнопку, чтобы взаимодействовать с ботом";
@@ -241,7 +241,7 @@
 "create" = "Создавать";
 "create_pin" = "Create PIN";
 "created_this_group" = "%@ создал эту группу";
-"creating_wallet_terminated_unexpectedly" = "Creating wallet terminated unexpectedly, click \\"Continue\\" to complete the creation";
+"creating_wallet_terminated_unexpectedly" = "Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation";
 "currency" = "Валюта";
 "currency_code" = "Код";
 "current_language" = "English";
@@ -876,7 +876,7 @@
 "upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
 "upgrade_pin" = "Upgrade PIN";
 "upgrading" = "Обновление";
-"upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \\"Continue\\" to complete the upgrade";
+"upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "Загрузить мобильные контакты";
 "uploading" = "Загрузка...";
 "uploading_progress" = "Загрузка: %@ из %@ (%@)";

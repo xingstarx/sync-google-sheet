@@ -158,7 +158,7 @@
 	<string name="Changed">Changed</string>
 	<string name="changed_disappearing_message_settings">%1$s changed disappearing message settings.</string>
 	<string name="Changing">Changing…</string>
-	<string name="Changing_PIN_terminated_unexpectedly">Changing PIN terminated unexpectedly, click \\"Continue\\" to complete the change</string>
+	<string name="Changing_PIN_terminated_unexpectedly">Changing PIN terminated unexpectedly, click \"Continue\" to complete the change</string>
 	<string name="chat_audio_discard_warning">Are you sure you want to stop recording and discard your voice message ?</string>
 	<string name="chat_audio_discard_warning_title">Discard Voice message</string>
 	<string name="chat_audio_warning">You cannot play audio if your\'re already on play another audio.</string>
@@ -266,7 +266,7 @@
 	<string name="Create_PIN">Create PIN</string>
 	<string name="created_this_group">%1$s created this group</string>
 	<string name="Creating">Creating…</string>
-	<string name="Creating_wallet_terminated_unexpectedly">Creating wallet terminated unexpectedly, click \\"Continue\\" to complete the creation</string>
+	<string name="Creating_wallet_terminated_unexpectedly">Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation</string>
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
 	<string name="Custom_Time">Custom Time</string>
@@ -990,7 +990,7 @@
 	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
 	<string name="Upgrade_PIN">Upgrade PIN</string>
 	<string name="Upgrading">Upgrading</string>
-	<string name="Upgrading_TIP_terminated_unexpectedly">Upgrading TIP terminated unexpectedly, click \\"Continue\\" to complete the upgrade</string>
+	<string name="Upgrading_TIP_terminated_unexpectedly">Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade</string>
 	<string name="Upload_Mobile_Contacts">Upload Mobile Contacts</string>
 	<string name="Upload_timeout">Upload timeout</string>
 	<string name="Use_Biometric_Multisig">Use Biometric Multisig</string>

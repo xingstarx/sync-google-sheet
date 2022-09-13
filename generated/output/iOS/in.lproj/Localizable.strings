@@ -148,7 +148,7 @@
 "change_your_app_language" = "Change your app language";
 "changed" = "Changed";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
-"changing_pin_terminated_unexpectedly" = "Changing PIN terminated unexpectedly, click \\"Continue\\" to complete the change";
+"changing_pin_terminated_unexpectedly" = "Changing PIN terminated unexpectedly, click \"Continue\" to complete the change";
 "chat_background" = "Chat Background";
 "chat_backup" = "Chat Backup";
 "chat_bot_reception_title" = "Tap the button to interact with the bot";
@@ -241,7 +241,7 @@
 "create" = "Buat";
 "create_pin" = "Create PIN";
 "created_this_group" = "%@ created this group";
-"creating_wallet_terminated_unexpectedly" = "Creating wallet terminated unexpectedly, click \\"Continue\\" to complete the creation";
+"creating_wallet_terminated_unexpectedly" = "Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation";
 "currency" = "Mata uang";
 "currency_code" = "Code";
 "current_language" = "English";
@@ -876,7 +876,7 @@
 "upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
 "upgrade_pin" = "Upgrade PIN";
 "upgrading" = "Meningkatkan";
-"upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \\"Continue\\" to complete the upgrade";
+"upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "Upload Mobile Contacts";
 "uploading" = "Uploading...";
 "uploading_progress" = "Uploading: %@ of %@ (%@)";
