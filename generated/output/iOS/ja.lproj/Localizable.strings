@@ -362,7 +362,7 @@
 "error_used_phone" = "エラー20122：この電話番号はすでに他のアカウントと紐づけられています";
 "error_withdrawal_memo_format_incorrect" = "エラー20131：出金メモのフォーマットが不正確です";
 "everybody" = "全員";
-"exchanging_data" = "Synchronization key shards in progress:(%1$d/%2$d)...";
+"exchanging_data" = "Synchronization key shards in progress %@%...";
 "exit_confirmation" = "\"%@\"を退出しますか?";
 "exit_group" = "グループから退出";
 "exit_group_and_report_inviter" = "グループを退会し招待者を報告する";
@@ -388,6 +388,7 @@
 "fourth_pin_confirm_hint" = "最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません";
 "from" = "より";
 "games" = "ゲーム";
+"generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "新たなウォレットを作成";
 "got_it" = "確認";
 "group_call" = "グループ通話";
@@ -679,6 +680,7 @@
 "restore_chat_hint" = "iCloudから\nチャット履歴を復元する";
 "restoring" = "...の復元を準備中";
 "restoring_progress" = "%@を復元しています";
+"retry" = "リトライ";
 "revoke_access" = "アクセスを取り消す";
 "revoke_multisig_transaction" = "マルチシグトランザクションを取り消す";
 "room_is_full" = "ルームが満員です";
@@ -815,6 +817,8 @@
 "third_pin_confirm_hint" = "3回目の確認がされることは稀ですので、PINコードを紛失した場合は復元できないことをご留意ください";
 "this_message_was_deleted" = "このメッセージは削除されています";
 "time" = "日時";
+"tip_create_pin_title" = "6桁のPINコードを作成してください";
+"tip_creation_introduction" = "Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "tip_introduction" = "The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "title_participants" = "%d人の参加者";
 "title_participants_count" = "%d人の参加者";
@@ -874,7 +878,8 @@
 "upgrade" = "Upgrade";
 "upgrade_database" = "データベースをアップグレード";
 "upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
-"upgrade_pin" = "Upgrade PIN";
+"upgrade_tip" = "Upgrade TIP";
+"upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "アップデート中";
 "upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "連絡先をアップロードする";
@@ -908,7 +913,6 @@
 "wallet_enable_biometric_pay" = "一度有効にすると%@を使ってスムーズに送金できます";
 "wallet_hide_asset_confirmation" = "%@を非表示にしますか?";
 "wallet_password_not_equal" = "PINコードが一致しません、もう一度お試しください";
-"wallet_password_set_pin_desc" = "6桁のPINコードを作成してください、詳しくは、こちらをご覧ください";
 "wallet_password_unsafe" = "PINコードがシンプルすぎます";
 "wallet_pin_pay_interval_tips" = "セキュリティ保護のため、PINコードの定期的な再確認が必要です。";
 "wallet_pin_tops_desc" = "PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。詳しくは、こちらをご覧ください。";

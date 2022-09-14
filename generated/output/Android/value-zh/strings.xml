@@ -258,7 +258,7 @@
 	<string name="Copy_invite">复制邀请链接</string>
 	<string name="Copy_link">复制链接</string>
 	<string name="Create">创建</string>
-	<string name="Create_PIN">创建 PIN</string>
+	<string name="Create_PIN">创建钱包</string>
 	<string name="created_this_group">%1$s创建了这个群组</string>
 	<string name="Creating">正在创建…</string>
 	<string name="Creating_wallet_terminated_unexpectedly">创建钱包意外中止，点继续完成钱包创建</string>
@@ -405,7 +405,7 @@
 	<string name="error_user_invalid_format">用户数据不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">错误 20131：提现备注格式不正确</string>
 	<string name="Everybody">任何人</string>
-	<string name="Exchanging_data">正在同步密钥分片，进度（%1$d/%2$d）…</string>
+	<string name="Exchanging_data">正在同步密钥分片，进度 %1$s%…</string>
 	<string name="Exit">退出</string>
 	<string name="Exit_Group">退出群组</string>
 	<string name="exit_without_save">不保存就退出？</string>
@@ -440,6 +440,7 @@
 	<string name="fourth_pin_confirm_hint">这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！</string>
 	<string name="Friday">星期五</string>
 	<string name="From">来自</string>
+	<string name="Generating_keys">正在创建密钥…</string>
 	<string name="Get_a_new_wallet">创建钱包</string>
 	<string name="Go">导航</string>
 	<string name="Go_settings">去设置</string>
@@ -901,6 +902,8 @@
 	<string name="This_message_was_deleted">此消息已撤回</string>
 	<string name="Thursday">星期四</string>
 	<string name="Time">时间</string>
+	<string name="tip_create_pin_title">设置 6 位数字 PIN 创建你的第一个数字钱包</string>
+	<string name="TIP_creation_introduction">设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
 	<string name="TIP_introduction">6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
 	<plurals name="title_participants" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 成员</item>
@@ -969,7 +972,8 @@
 	<string name="Upgrade">升级</string>
 	<string name="Upgrade_Database">数据库升级</string>
 	<string name="Upgrade_need_verify_your_PIN">升级需要验证你的 PIN</string>
-	<string name="Upgrade_PIN">升级 PIN</string>
+	<string name="Upgrade_TIP">升级 TIP</string>
+	<string name="Upgrade_TIP_successfully">TIP 升级成功</string>
 	<string name="Upgrading">升级中…</string>
 	<string name="Upgrading_TIP_terminated_unexpectedly">升级 TIP 意外中止，点继续完成 TIP 升级</string>
 	<string name="Upload_Mobile_Contacts">上传通讯录找好友</string>
@@ -1002,7 +1006,6 @@
 	<string name="wallet_password_change_tip">请输入6位 PIN 来验证</string>
 	<string name="wallet_password_not_equal">PIN 不一致, 请重新输入</string>
 	<string name="wallet_password_set_new_pin_desc">设置新的 6 位数字 PIN</string>
-	<string name="wallet_password_set_pin_desc">设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以**了解更多**。</string>
 	<string name="wallet_password_unsafe">PIN 过于简单不安全</string>
 	<string name="wallet_pin_modify_biometrics">请输入 PIN 来修改支付 PIN 使用间隔</string>
 	<string name="wallet_pin_open_biometrics">请输入 PIN 来启用生物识别支付</string>

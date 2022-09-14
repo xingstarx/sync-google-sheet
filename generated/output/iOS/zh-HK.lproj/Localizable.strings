@@ -362,7 +362,7 @@
 "error_used_phone" = "錯誤 20122：電話號碼已經被佔用。";
 "error_withdrawal_memo_format_incorrect" = "錯誤 20131：提現備註格式不正確";
 "everybody" = "任何人";
-"exchanging_data" = "Synchronization key shards in progress:(%1$d/%2$d)...";
+"exchanging_data" = "Synchronization key shards in progress %@%...";
 "exit_confirmation" = "退出\"%@\"？";
 "exit_group" = "退出羣組";
 "exit_group_and_report_inviter" = "退出羣組並舉報邀請人";
@@ -388,6 +388,7 @@
 "fourth_pin_confirm_hint" = "這是最後一次確認 PIN，記住：PIN 丟失將永遠無法找回！";
 "from" = "來自";
 "games" = "遊戲";
+"generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "創建錢包";
 "got_it" = "知道了";
 "group_call" = "羣組語音";
@@ -679,6 +680,7 @@
 "restore_chat_hint" = "從 iCloud 恢復\n您的聊天記錄";
 "restoring" = "正在恢復...";
 "restoring_progress" = "正在恢復 %@";
+"retry" = "重試";
 "revoke_access" = "取消授權";
 "revoke_multisig_transaction" = "撤銷多重簽名交易";
 "room_is_full" = "房間已滿";
@@ -815,6 +817,8 @@
 "third_pin_confirm_hint" = "很少看到第三次確認吧！所以請牢記，PIN 丟失是無法找回的。";
 "this_message_was_deleted" = "此消息已撤回";
 "time" = "時間";
+"tip_create_pin_title" = "Set a 6 digit PIN to create your first digital wallet";
+"tip_creation_introduction" = "Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "tip_introduction" = "The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "title_participants" = "%d 成員";
 "title_participants_count" = "%d 成員";
@@ -874,7 +878,8 @@
 "upgrade" = "Upgrade";
 "upgrade_database" = "數據庫升級";
 "upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
-"upgrade_pin" = "Upgrade PIN";
+"upgrade_tip" = "Upgrade TIP";
+"upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "升級中...";
 "upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "上傳通訊錄找好友";
@@ -908,7 +913,6 @@
 "wallet_enable_biometric_pay" = "開啓後，轉賬時可驗證%@快速完成付款。";
 "wallet_hide_asset_confirmation" = "您確定要隱藏%@嗎？";
 "wallet_password_not_equal" = "PIN 不一致, 請重新輸入";
-"wallet_password_set_pin_desc" = "設置 6 位數字 PIN 創建你的第一個數字錢包，閲讀文檔以瞭解更多。";
 "wallet_password_unsafe" = "PIN 過於簡單不安全";
 "wallet_pin_pay_interval_tips" = "為了您的資產安全，距離上次輸入支付 PIN 的時間超過以上指定時間時，再次轉賬時已然需要支付 PIN";
 "wallet_pin_tops_desc" = "注意 PIN 丟失無法找回，6 位數字 PIN 是基於去中心化密鑰派生協議 Throttled Identity Protocol，閲讀文檔以瞭解更多。";

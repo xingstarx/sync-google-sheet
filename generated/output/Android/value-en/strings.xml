@@ -413,7 +413,7 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="Everybody">Everybody</string>
-	<string name="Exchanging_data">Synchronization key shards in progress:(%1$d/%2$d)…</string>
+	<string name="Exchanging_data">Synchronization key shards in progress %1$s%…</string>
 	<string name="Exit">Exit</string>
 	<string name="Exit_Group">Exit Group</string>
 	<string name="exit_without_save">Exit without save?</string>
@@ -448,6 +448,7 @@
 	<string name="fourth_pin_confirm_hint">Yes, there is a fourth PIN confirmation, and I promise it\'s the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost.</string>
 	<string name="Friday">Friday</string>
 	<string name="From">From</string>
+	<string name="Generating_keys">Generating keys…</string>
 	<string name="Get_a_new_wallet">Get a new wallet</string>
 	<string name="GIF">GIF</string>
 	<string name="Go">Go</string>
@@ -919,6 +920,8 @@
 	<string name="This_message_was_deleted">This message was deleted</string>
 	<string name="Thursday">Thursday</string>
 	<string name="Time">Time</string>
+	<string name="tip_create_pin_title">Set a 6 digit PIN to create your first digital wallet</string>
+	<string name="TIP_creation_introduction">Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
 	<string name="TIP_introduction">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
 	<plurals name="title_participants">
 		<item quantity="one">%1$d Participant</item>
@@ -988,7 +991,8 @@
 	<string name="Upgrade">Upgrade</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
 	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
-	<string name="Upgrade_PIN">Upgrade PIN</string>
+	<string name="Upgrade_TIP">Upgrade TIP</string>
+	<string name="Upgrade_TIP_successfully">Upgrade TIP successfully</string>
 	<string name="Upgrading">Upgrading</string>
 	<string name="Upgrading_TIP_terminated_unexpectedly">Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade</string>
 	<string name="Upload_Mobile_Contacts">Upload Mobile Contacts</string>
@@ -1022,7 +1026,6 @@
 	<string name="wallet_password_change_tip">Please enter the 6 digit PIN to verify.</string>
 	<string name="wallet_password_not_equal">The PIN is not the same twice, please try again.</string>
 	<string name="wallet_password_set_new_pin_desc">Please set a new 6 digit PIN.</string>
-	<string name="wallet_password_set_pin_desc">Set a 6 digit PIN to create your first digital wallet, read the document to **learn more**.</string>
 	<string name="wallet_password_unsafe">The PIN is too simple and insecure.</string>
 	<string name="wallet_pin_modify_biometrics">Please enter PIN to Modify Pay with PIN interval</string>
 	<string name="wallet_pin_open_biometrics">Please enter PIN to open Biometrics</string>

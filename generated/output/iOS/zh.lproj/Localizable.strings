@@ -239,7 +239,7 @@
 "copy_link" = "复制链接";
 "copy_user_id" = "复制用户 ID";
 "create" = "创建";
-"create_pin" = "创建 PIN";
+"create_pin" = "创建钱包";
 "created_this_group" = "%@创建了这个群组";
 "creating_wallet_terminated_unexpectedly" = "创建钱包意外中止，点继续完成钱包创建";
 "currency" = "货币";
@@ -362,7 +362,7 @@
 "error_used_phone" = "错误 20122：电话号码已经被占用。";
 "error_withdrawal_memo_format_incorrect" = "错误 20131：提现备注格式不正确";
 "everybody" = "任何人";
-"exchanging_data" = "正在同步密钥分片，进度（%1$d/%2$d）...";
+"exchanging_data" = "正在同步密钥分片，进度 %@%...";
 "exit_confirmation" = "退出\"%@\"？";
 "exit_group" = "退出群组";
 "exit_group_and_report_inviter" = "退出群组并举报邀请人";
@@ -388,6 +388,7 @@
 "fourth_pin_confirm_hint" = "这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！";
 "from" = "来自";
 "games" = "游戏";
+"generating_keys" = "正在创建密钥...";
 "get_a_new_wallet" = "创建钱包";
 "got_it" = "知道了";
 "group_call" = "群组语音";
@@ -679,6 +680,7 @@
 "restore_chat_hint" = "从 iCloud 恢复\n您的聊天记录";
 "restoring" = "正在恢复...";
 "restoring_progress" = "正在恢复 %@";
+"retry" = "重试";
 "revoke_access" = "取消授权";
 "revoke_multisig_transaction" = "撤销多重签名交易";
 "room_is_full" = "房间已满";
@@ -815,6 +817,8 @@
 "third_pin_confirm_hint" = "很少看到第三次确认吧！所以请牢记，PIN 丢失是无法找回的。";
 "this_message_was_deleted" = "此消息已撤回";
 "time" = "时间";
+"tip_create_pin_title" = "设置 6 位数字 PIN 创建你的第一个数字钱包";
+"tip_creation_introduction" = "设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以了解更多。";
 "tip_introduction" = "6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以了解更多。";
 "title_participants" = "%d 成员";
 "title_participants_count" = "%d 成员";
@@ -874,7 +878,8 @@
 "upgrade" = "升级";
 "upgrade_database" = "数据库升级";
 "upgrade_need_verify_your_pin" = "升级需要验证你的 PIN";
-"upgrade_pin" = "升级 PIN";
+"upgrade_tip" = "升级 TIP";
+"upgrade_tip_successfully" = "TIP 升级成功";
 "upgrading" = "升级中...";
 "upgrading_tip_terminated_unexpectedly" = "升级 TIP 意外中止，点继续完成 TIP 升级";
 "upload_mobile_contacts" = "上传通讯录找好友";
@@ -908,7 +913,6 @@
 "wallet_enable_biometric_pay" = "开启后，转账时可验证%@快速完成付款。";
 "wallet_hide_asset_confirmation" = "您确定要隐藏%@吗？";
 "wallet_password_not_equal" = "PIN 不一致, 请重新输入";
-"wallet_password_set_pin_desc" = "设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以了解更多。";
 "wallet_password_unsafe" = "PIN 过于简单不安全";
 "wallet_pin_pay_interval_tips" = "为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时已然需要支付 PIN";
 "wallet_pin_tops_desc" = "注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以了解更多。";

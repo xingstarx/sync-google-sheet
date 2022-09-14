@@ -899,6 +899,7 @@
 	<string name="This_message_was_deleted">このメッセージは削除されています</string>
 	<string name="Thursday">木曜日</string>
 	<string name="Time">日時</string>
+	<string name="tip_create_pin_title">6桁のPINコードを作成してください</string>
 	<plurals name="title_participants" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d人の参加者</item>
 		<item quantity="other">%1$d人の参加者</item>
@@ -995,7 +996,6 @@
 	<string name="wallet_password_change_tip">認証するために6桁のPINコードを入力してください</string>
 	<string name="wallet_password_not_equal">PINコードが一致しません、もう一度お試しください</string>
 	<string name="wallet_password_set_new_pin_desc">6桁の新しいPINコードを作成してください</string>
-	<string name="wallet_password_set_pin_desc">6桁のPINコードを作成してください、詳しくは、こちらをご覧ください</string>
 	<string name="wallet_password_unsafe">PINコードがシンプルすぎます</string>
 	<string name="wallet_pin_modify_biometrics">変更を確定するには、PINコードを入力してください</string>
 	<string name="wallet_pin_open_biometrics">PINコードを入力して、生体認証を開いてください</string>

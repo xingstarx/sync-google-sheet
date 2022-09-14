@@ -362,7 +362,7 @@
 "error_used_phone" = "KESALAHAN 20122: Ponsel digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "KESALAHAN 20131: Format memo penarikan salah.";
 "everybody" = "Semua orang";
-"exchanging_data" = "Synchronization key shards in progress:(%1$d/%2$d)...";
+"exchanging_data" = "Synchronization key shards in progress %@%...";
 "exit_confirmation" = "Exit \"%@\"?";
 "exit_group" = "Keluar dari Grup";
 "exit_group_and_report_inviter" = "Exit group and report inviter";
@@ -388,6 +388,7 @@
 "fourth_pin_confirm_hint" = "Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang.";
 "from" = "From";
 "games" = "Games";
+"generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Get a new wallet";
 "got_it" = "OK";
 "group_call" = "Panggilan Grup";
@@ -679,6 +680,7 @@
 "restore_chat_hint" = "Restore your\nchat history from iCloud";
 "restoring" = "Restoring...";
 "restoring_progress" = "Restoring %@";
+"retry" = "COBA LAGI";
 "revoke_access" = "Cabut akses";
 "revoke_multisig_transaction" = "Cabut Transaksi Multisig";
 "room_is_full" = "Room is full";
@@ -815,6 +817,8 @@
 "third_pin_confirm_hint" = "It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost.";
 "this_message_was_deleted" = "Pesan ini telah dihapus";
 "time" = "Waktu";
+"tip_create_pin_title" = "Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda";
+"tip_creation_introduction" = "Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "tip_introduction" = "The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "title_participants" = "%d Participant";
 "title_participants_count" = "%d peserta";
@@ -874,7 +878,8 @@
 "upgrade" = "Upgrade";
 "upgrade_database" = "Tingkatkan Database";
 "upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
-"upgrade_pin" = "Upgrade PIN";
+"upgrade_tip" = "Upgrade TIP";
+"upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "Meningkatkan";
 "upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "Upload Mobile Contacts";
@@ -908,7 +913,6 @@
 "wallet_enable_biometric_pay" = "Once enabled, %@ can be used to make quick transfers.";
 "wallet_hide_asset_confirmation" = "Are you sure you want to hide %@?";
 "wallet_password_not_equal" = "PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi.";
-"wallet_password_set_pin_desc" = "Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk mempelajari lebih lanjut.";
 "wallet_password_unsafe" = "PIN-nya terlalu sederhana dan tidak aman.";
 "wallet_pin_pay_interval_tips" = "Untuk keamanan aset, Anda harus memverifikasi PIN Anda untuk interval yang ditentukan.";
 "wallet_pin_tops_desc" = "Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";

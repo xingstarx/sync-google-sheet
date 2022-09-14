@@ -362,7 +362,7 @@
 "error_used_phone" = "ОШИБКА 20122: этот номер телефона уже связан с другой учетной записью.";
 "error_withdrawal_memo_format_incorrect" = "ОШИБКА 20131: Неверный формат уведомления о снятии средств.";
 "everybody" = "Все";
-"exchanging_data" = "Synchronization key shards in progress:(%1$d/%2$d)...";
+"exchanging_data" = "Synchronization key shards in progress %@%...";
 "exit_confirmation" = "Выйти из %@?";
 "exit_group" = "Выйти из группы";
 "exit_group_and_report_inviter" = "Выйти из группы и сообщить о приглашении";
@@ -388,6 +388,7 @@
 "fourth_pin_confirm_hint" = "Да, есть четвертое подтверждение PIN-кода, и я обещаю, что оно будет последним, чтобы убедиться, что вы запомнили свой PIN-код. PIN-код невозможно восстановить, если он утерян.";
 "from" = "От";
 "games" = "Игры";
+"generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Получить новый кошелек";
 "got_it" = "Понятно";
 "group_call" = "Групповой вызов";
@@ -679,6 +680,7 @@
 "restore_chat_hint" = "Восстановите историю чатов из iCloud";
 "restoring" = "Восстановление...";
 "restoring_progress" = "Восстановление %@";
+"retry" = "Повторить попытку";
 "revoke_access" = "Отменить доступ";
 "revoke_multisig_transaction" = "Отозвать транзакцию с мультиподписью";
 "room_is_full" = "Комната заполнена";
@@ -815,6 +817,8 @@
 "third_pin_confirm_hint" = "Редко можно увидеть третье подтверждение в другом месте, поэтому помните, что PIN-код невозможно восстановить, если он утерян.";
 "this_message_was_deleted" = "Это сообщение было удалено";
 "time" = "Время";
+"tip_create_pin_title" = "Set a 6 digit PIN to create your first digital wallet";
+"tip_creation_introduction" = "Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "tip_introduction" = "The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "title_participants" = "%d участник";
 "title_participants_count" = "%d участников";
@@ -874,7 +878,8 @@
 "upgrade" = "Upgrade";
 "upgrade_database" = "Обновление базы данных";
 "upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
-"upgrade_pin" = "Upgrade PIN";
+"upgrade_tip" = "Upgrade TIP";
+"upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "Обновление";
 "upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "Загрузить мобильные контакты";
@@ -908,7 +913,6 @@
 "wallet_enable_biometric_pay" = "После включения, %@ можно использовать для быстрой передачи.";
 "wallet_hide_asset_confirmation" = "Вы уверены, что хотите скрыть %@?";
 "wallet_password_not_equal" = "PIN-код не повторяется дважды, попробуйте еще раз.";
-"wallet_password_set_pin_desc" = "Установите 6-значный PIN-код, чтобы создать свой первый цифровой кошелек. Прочтите документ, чтобы узнать больше.";
 "wallet_password_unsafe" = "PIN-код слишком прост и ненадежен.";
 "wallet_pin_pay_interval_tips" = "В целях безопасности ваших активов вам необходимо подтверждать свой PIN-код в течение указанного интервала времени.";
 "wallet_pin_tops_desc" = "Пожалуйста, помните, что PIN-код невозможно восстановить, если он утерян. PIN-код основан на протоколе Throttled Identity Protocol, который представляет собой децентрализованный протокол получения ключей. Прочтите документ, чтобы узнать больше.";
