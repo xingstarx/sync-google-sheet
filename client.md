@@ -355,7 +355,7 @@
 | Desktop | create_circle | New Circle | 新建圈子 | 新しいグループリスト |     |     |
 | Desktop | create_conversation | New Conversation | 新建会话 | 新しいチャットルーム |     |     |
 | Desktop | create_group | New Group | 新建群组 | 新しいグループ |     |     |
-| android,iOS | Create_PIN | Create PIN | 创建 PIN |     |     |     |
+| android,iOS | Create_PIN | Create PIN | 创建钱包 |     |     |     |
 | android, iOS, Desktop | created_this_group | %1$s created this group | %1$s创建了这个群组 | %1$sがグループを作成しました |     |     |
 | android | Creating | Creating… | 正在创建… | 作成中… | Membuat… | Membuat… |
 | android,iOS | Creating_wallet_terminated_unexpectedly | Creating wallet terminated unexpectedly, click "Continue" to complete the creation | 创建钱包意外中止，点继续完成钱包创建 |     |     |     |
@@ -547,7 +547,7 @@
 | android, Desktop | error_user_invalid_format | Invalid user id | 用户数据不合法 | 無効なユーザーIDです | Id pengguna tidak sah | ID pengguna tidak valid |
 | android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR 20131: Withdrawal memo format incorrect. | 错误 20131：提现备注格式不正确 | エラー20131：出金メモのフォーマットが不正確です | RALAT 20131: Penarikan format memo tidak betul. | KESALAHAN 20131: Format memo penarikan salah. |
 | android, iOS | Everybody | Everybody | 任何人 | 全員  | Semua orang | Semua orang |
-| android,iOS | Exchanging_data | Synchronization key shards in progress:(%1$d/%2$d)… | 正在同步密钥分片，进度（%1$d/%2$d）… |     |     |     |
+| android,iOS | Exchanging_data | Synchronization key shards in progress %1$s%… | 正在同步密钥分片，进度 %1$s%… |     |     |     |
 | android, Desktop | Exit | Exit | 退出  | 退出  | Keluar | Keluar |
 | iOS | Exit_confirmation | Exit "%@"? | 退出"%@"？ | "%@"を退出しますか? |     |     |
 | android, iOS, Desktop | Exit_Group | Exit Group | 退出群组 | グループから退出 | Keluar Kumpulan | Keluar dari Grup |
@@ -596,6 +596,7 @@
 | android, iOS, Desktop | From | From | 来自  | より  |     |     |
 | Desktop | from_with_colon | From:  | 来自：  | アイコンより： |     |     |
 | iOS | Games | Games | 游戏  | ゲーム |     |     |
+| android,iOS | Generating_keys | Generating keys... | 正在创建密钥... |     |     |     |
 | android, iOS | Get_a_new_wallet | Get a new wallet | 创建钱包 | 新たなウォレットを作成 |     |     |
 | android | GIF | GIF |     | GIF | GIF | GIF |
 | android | Go  | Go  | 导航  | 移動  | Buka | Buka |
@@ -1044,7 +1045,7 @@
 | android | restore_path | Path: %1$s | 备份路径：%1$s | パス：%1$s | Laluan: %1$s |     |
 | android, iOS | Restoring | Restoring... | 正在恢复... | …の復元を準備中 |     |     |
 | iOS | Restoring_progress | Restoring %@ | 正在恢复 %@ | %@を復元しています |     |     |
-| android | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
+| android,iOS | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
 | android, Desktop | Retry_upload_failed | Retry upload failed. | 重新上传失败。 | アップロードの再試行に失敗しました。 | Gagal memuat naik semula. | Unggahan ulang gagal. |
 | android, iOS | Revoke_access | Revoke access | 取消授权 | アクセスを取り消す | Batal akses | Cabut akses |
 | android, iOS | Revoke_multisig_transaction | Revoke Multisig Transaction | 撤销多重签名交易 | マルチシグトランザクションを取り消す | Batalkan Urus Niaga Multisig | Cabut Transaksi Multisig |
@@ -1261,6 +1262,8 @@
 | android, iOS, Desktop | This_message_was_deleted | This message was deleted | 此消息已撤回 | このメッセージは削除されています | Mesej ini telah dipadamkan | Pesan ini telah dihapus |
 | android | Thursday | Thursday | 星期四 | 木曜日 | Khamis | Kamis |
 | android, iOS, Desktop | Time | Time | 时间  | 日時  | Masa | Waktu |
+| android, iOS | tip_create_pin_title | Set a 6 digit PIN to create your first digital wallet | 设置 6 位数字 PIN 创建你的第一个数字钱包 | 6桁のPINコードを作成してください | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda |
+| android,iOS | TIP_creation_introduction | Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android, iOS | title_participants | %1$d Participant | %1$d 成员 | %1$d人の参加者 |     |     |
 | android, iOS | title_participants.count | %1$d Participants | %1$d 成员 | %1$d人の参加者 | %1$d peserta | %1$d peserta |
@@ -1335,7 +1338,8 @@
 | android,iOS | Upgrade | Upgrade | 升级  |     |     |     |
 | android, iOS | Upgrade_Database | Upgrade Database | 数据库升级 | データベースをアップグレード | Naik taraf Pangkalan Data | Tingkatkan Database |
 | android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
-| android,iOS | Upgrade_PIN | Upgrade PIN | 升级 PIN |     |     |     |
+| android,iOS | Upgrade_TIP | Upgrade TIP | 升级 TIP |     |     |     |
+| android,iOS | Upgrade_TIP_successfully | Upgrade TIP successfully | TIP 升级成功 |     |     |     |
 | android, iOS | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
 | android,iOS | Upgrading_TIP_terminated_unexpectedly | Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade | 升级 TIP 意外中止，点继续完成 TIP 升级 |     |     |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts | 上传通讯录找好友 | 連絡先をアップロードする |     |     |
@@ -1385,7 +1389,6 @@
 | android | wallet_password_change_tip | Please enter the 6 digit PIN to verify. | 请输入6位 PIN 来验证 | 認証するために6桁のPINコードを入力してください | Sila masukkan PIN 6 digit untuk mengesahkan. | Harap masukkan PIN 6 digit untuk memverifikasi. |
 | android, iOS | wallet_password_not_equal | The PIN is not the same twice, please try again. | PIN 不一致, 请重新输入 | PINコードが一致しません、もう一度お試しください | PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi. | PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi. |
 | android | wallet_password_set_new_pin_desc | Please set a new 6 digit PIN. | 设置新的 6 位数字 PIN | 6桁の新しいPINコードを作成してください | Sila tetapkan PIN 6 digit baharu. | Harap buat PIN 6 digit baru. |
-| android, iOS | wallet_password_set_pin_desc | Set a 6 digit PIN to create your first digital wallet, read the document to **learn more**. | 设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以**了解更多**。 | 6桁のPINコードを作成してください、詳しくは、こちらをご覧ください | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk **mengetahui lebih lanjut**. | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk **mempelajari lebih lanjut**. |
 | android, iOS | wallet_password_unsafe | The PIN is too simple and insecure. | PIN 过于简单不安全 | PINコードがシンプルすぎます | PIN terlalu mudah dan tidak selamat. | PIN-nya terlalu sederhana dan tidak aman. |
 | android | wallet_pin_modify_biometrics | Please enter PIN to Modify Pay with PIN interval | 请输入 PIN 来修改支付 PIN 使用间隔 | 変更を確定するには、PINコードを入力してください | Sila masukkan PIN untuk Ubahsuai Bayar dengan selang PIN | Harap masukkan PIN untuk Mengubah Pembayaran dengan interval PIN |
 | android | wallet_pin_open_biometrics | Please enter PIN to open Biometrics | 请输入 PIN 来启用生物识别支付 | PINコードを入力して、生体認証を開いてください | Sila masukkan PIN untuk membuka Biometrik | Harap masukkan PIN untuk membuka Biometrik |

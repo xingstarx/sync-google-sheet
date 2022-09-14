@@ -546,7 +546,7 @@
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
-  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress:(%1$d/%2$d)…</string>
+  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Exit Group</string>
@@ -595,6 +595,7 @@
   <string name="From" platform="android, iOS, Desktop">From</string>
   <string name="from_with_colon" platform="Desktop">From: </string>
   <string name="Games" platform="iOS">Games</string>
+  <string name="Generating_keys" platform="android,iOS">Generating keys...</string>
   <string name="Get_a_new_wallet" platform="android, iOS">Get a new wallet</string>
   <string name="GIF" platform="android">GIF</string>
   <string name="Go" platform="android">Go</string>
@@ -1043,7 +1044,7 @@
   <string name="restore_path" platform="android">Path: %1$s</string>
   <string name="Restoring" platform="android, iOS">Restoring...</string>
   <string name="Restoring_progress" platform="iOS">Restoring %@</string>
-  <string name="Retry" platform="android">Retry</string>
+  <string name="Retry" platform="android,iOS">Retry</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Retry upload failed.</string>
   <string name="Revoke_access" platform="android, iOS">Revoke access</string>
   <string name="Revoke_multisig_transaction" platform="android, iOS">Revoke Multisig Transaction</string>
@@ -1260,6 +1261,8 @@
   <string name="This_message_was_deleted" platform="android, iOS, Desktop">This message was deleted</string>
   <string name="Thursday" platform="android">Thursday</string>
   <string name="Time" platform="android, iOS, Desktop">Time</string>
+  <string name="tip_create_pin_title" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet</string>
+  <string name="TIP_creation_introduction" platform="android,iOS">Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="title_participants" platform="android, iOS">%1$d Participant</string>
   <string name="title_participants.count" platform="android, iOS">%1$d Participants</string>
@@ -1334,7 +1337,8 @@
   <string name="Upgrade" platform="android,iOS">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
-  <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
+  <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
+  <string name="Upgrade_TIP_successfully" platform="android,iOS">Upgrade TIP successfully</string>
   <string name="Upgrading" platform="android, iOS">Upgrading</string>
   <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Upload Mobile Contacts</string>
@@ -1384,7 +1388,6 @@
   <string name="wallet_password_change_tip" platform="android">Please enter the 6 digit PIN to verify.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">The PIN is not the same twice, please try again.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Please set a new 6 digit PIN.</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet, read the document to **learn more**.</string>
   <string name="wallet_password_unsafe" platform="android, iOS">The PIN is too simple and insecure.</string>
   <string name="wallet_pin_modify_biometrics" platform="android">Please enter PIN to Modify Pay with PIN interval</string>
   <string name="wallet_pin_open_biometrics" platform="android">Please enter PIN to open Biometrics</string>
