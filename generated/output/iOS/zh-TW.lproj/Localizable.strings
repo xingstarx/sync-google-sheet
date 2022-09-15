@@ -362,7 +362,7 @@
 "error_used_phone" = "錯誤 20122：電話號碼已經被佔用。";
 "error_withdrawal_memo_format_incorrect" = "錯誤 20131：提現備註格式不正確";
 "everybody" = "任何人";
-"exchanging_data" = "Synchronization key shards in progress %@%...";
+"exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "退出\"%@\"？";
 "exit_group" = "退出群組";
 "exit_group_and_report_inviter" = "退出群組並舉報邀請人";

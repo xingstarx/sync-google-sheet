@@ -363,7 +363,7 @@
 "error_used_phone" = "RALAT 20122: Telefon digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "RALAT 20131: Penarikan format memo tidak betul.";
 "everybody" = "Semua orang";
-"exchanging_data" = "Synchronization key shards in progress %@%...";
+"exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Exit \"%@\"?";
 "exit_group" = "Keluar Kumpulan";
 "exit_group_and_report_inviter" = "Exit group and report inviter";

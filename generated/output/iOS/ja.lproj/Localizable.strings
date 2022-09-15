@@ -362,7 +362,7 @@
 "error_used_phone" = "エラー20122：この電話番号はすでに他のアカウントと紐づけられています";
 "error_withdrawal_memo_format_incorrect" = "エラー20131：出金メモのフォーマットが不正確です";
 "everybody" = "全員";
-"exchanging_data" = "Synchronization key shards in progress %@%...";
+"exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "\"%@\"を退出しますか?";
 "exit_group" = "グループから退出";
 "exit_group_and_report_inviter" = "グループを退会し招待者を報告する";

@@ -362,7 +362,7 @@
 "error_used_phone" = "ERROR 20122: This phone number is already associated with another account.";
 "error_withdrawal_memo_format_incorrect" = "ERROR 20131: Withdrawal memo format incorrect.";
 "everybody" = "Everybody";
-"exchanging_data" = "Synchronization key shards in progress %@%...";
+"exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Exit \"%@\"?";
 "exit_group" = "Exit Group";
 "exit_group_and_report_inviter" = "Exit group and report inviter";

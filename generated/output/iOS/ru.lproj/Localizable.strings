@@ -362,7 +362,7 @@
 "error_used_phone" = "ОШИБКА 20122: этот номер телефона уже связан с другой учетной записью.";
 "error_withdrawal_memo_format_incorrect" = "ОШИБКА 20131: Неверный формат уведомления о снятии средств.";
 "everybody" = "Все";
-"exchanging_data" = "Synchronization key shards in progress %@%...";
+"exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Выйти из %@?";
 "exit_group" = "Выйти из группы";
 "exit_group_and_report_inviter" = "Выйти из группы и сообщить о приглашении";
@@ -680,7 +680,7 @@
 "restore_chat_hint" = "Восстановите историю чатов из iCloud";
 "restoring" = "Восстановление...";
 "restoring_progress" = "Восстановление %@";
-"retry" = "Повторить попытку";
+"retry" = "Повторить";
 "revoke_access" = "Отменить доступ";
 "revoke_multisig_transaction" = "Отозвать транзакцию с мультиподписью";
 "room_is_full" = "Комната заполнена";

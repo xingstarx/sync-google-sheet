@@ -362,7 +362,7 @@
 "error_used_phone" = "KESALAHAN 20122: Ponsel digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "KESALAHAN 20131: Format memo penarikan salah.";
 "everybody" = "Semua orang";
-"exchanging_data" = "Synchronization key shards in progress %@%...";
+"exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Exit \"%@\"?";
 "exit_group" = "Keluar dari Grup";
 "exit_group_and_report_inviter" = "Exit group and report inviter";

@@ -413,7 +413,7 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="Everybody">Everybody</string>
-	<string name="Exchanging_data">Synchronization key shards in progress %1$s%…</string>
+	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
 	<string name="Exit">Exit</string>
 	<string name="Exit_Group">Exit Group</string>
 	<string name="exit_without_save">Exit without save?</string>

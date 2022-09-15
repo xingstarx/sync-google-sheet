@@ -763,7 +763,7 @@
 	<string name="restore_not_found">Не найдено, скопируйте файл резервной копии в %1$s.</string>
 	<string name="restore_path">Путь: %1$s</string>
 	<string name="Restoring">Восстановление…</string>
-	<string name="Retry">Повторить попытку</string>
+	<string name="Retry">Повторить</string>
 	<string name="Retry_upload_failed">Повторная загрузка не удалась.</string>
 	<string name="Revoke_access">Отменить доступ</string>
 	<string name="Revoke_multisig_transaction">Отозвать транзакцию с мультиподписью</string>
