@@ -220,7 +220,7 @@
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
 	<string name="Confirm_PIN">Confirm PIN</string>
-	<string name="Connect_to_TIP_network_failed">If you see \"Failed to connect to the TIP network\", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
+	<string name="Connect_to_TIP_network_failed">Unable to connect to TIP network. Check your connection and try again.</string>
 	<string name="Connecting">Connecting</string>
 	<string name="Connection_unstable">Connection unstable</string>
 	<string name="Contact">Contact</string>

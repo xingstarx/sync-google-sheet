@@ -215,7 +215,7 @@
 	<string name="Confirm">确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
 	<string name="Confirm_PIN">确认 PIN</string>
-	<string name="Connect_to_TIP_network_failed">连接 TIP 网络失败，请尝试切换4G、Wi-Fi 或 VPN 后重试</string>
+	<string name="Connect_to_TIP_network_failed">连接 TIP 网络失败，请尝试切换网络后重试</string>
 	<string name="Connecting">正在连接</string>
 	<string name="Connection_unstable">当前通话网络不佳</string>
 	<string name="Contact">联系人</string>

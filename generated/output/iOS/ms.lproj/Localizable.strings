@@ -192,7 +192,7 @@
 "compress_database" = "Compress Database";
 "compressed" = "Compressed";
 "confirm" = "Sahkan";
-"connect_to_tip_network_failed" = "If you see \"Failed to connect to the TIP network\", please try switching to 4G, Wi-Fi, or VPN and attempting again.";
+"connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connected" = "Connected";
 "connecting" = "Menyambung";
 "connection_unstable" = "Connection unstable";
