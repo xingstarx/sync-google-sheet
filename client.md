@@ -1457,6 +1457,7 @@
 | android, iOS | your_pin_has_been_created | Your PIN has been created | PIN 已创建 | PINコードが生成されました |     |     |
 | Desktop | zoom | Zoom | 缩放  |     |     |     |
 | Desktop | search_unread | Search Unread | 搜索未读会话 |     |     |     |
+| Desktop | clear_filter | Clear filter | 清除筛选条件 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
