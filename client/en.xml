@@ -1455,7 +1455,7 @@
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>
   <string name="zoom" platform="Desktop">Zoom</string>
-  <string name="search_unread" platform="Desktop">Search unread</string>
+  <string name="search_unread" platform="Desktop">Search Unread</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
