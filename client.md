@@ -1089,6 +1089,7 @@
 | android, iOS, Desktop | search_related_message.count | %1$d related messages | %1$d 条相关的消息 | %1$d個の関連するメッセージ | %1$d mesej berkaitan | %1$d pesan terkait |
 | iOS | search_result_prefix_phone | Phone Number:  | 手机号码： | 電話番号:  |     |     |
 | android | Searching | Searching | 搜索中 | 検索中 | Mencari | Mencari |
+| android,iOS | Secured_by_TIP | Secured by TIP | 由 TIP 提供安全保障 |     |     |     |
 | android, Desktop | secret_url | https://mixin.one/pages/1000007 |     | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 |
 | android, iOS | Security | Security | 安全  | セキュリティ | Keselamatan | Keamanan |
 | android, iOS, Desktop | Select | Select | 选择  | 選択  | Pilih | Pilih |
@@ -1129,6 +1130,7 @@
 | iOS | send.count | Send(%1$d) | 发送（%1$d） | 送信(%1$d) |     |     |
 | android, iOS | Senders | Senders | 交易发起人 | 送信者 | Pengirim | Pengirim |
 | android, iOS, Desktop | Set | Set | 设置  | 設定  |     |     |
+| android,iOS | Set_emergency_create_successfully | Set emergency contact successfully | 设置紧急联系人成功 |     |     |     |
 | android, iOS, Desktop | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s | %1$s将限时消息设置为 %2$s | 1$sは、消えるメッセージの有効時間を%2$sに設定しました。 |     |     |
 | android, iOS | Set_new_PIN | Set a new PIN | 设置新的 PIN | 新しいPINコードを設定 | Tetapkan PIN baru | Buat PIN baru |
 | android,iOS | Set_or_update_PIN_failed | Set or update PIN failed | 设置或更新 PIN 失败 |     |     |     |
@@ -1451,7 +1453,7 @@
 | android, iOS, Desktop | You_deleted_this_message | You deleted this message | 你撤回了一条消息 | このメッセージを削除しました。 | Anda memadamkan mesej ini | Anda menghapus pesan ini |
 | iOS | You_have_a_new_message | You have a new message | 你收到了一条消息 | 新しいメッセージがあります |     |     |
 | android, iOS | You_have_left_the_group | You have left the group | 你不在此群组 | グループから退会しました |     |     |
-| iOS | Your_emergency_contact_has_been_changed | Your emergency contact has been changed | 修改紧急联系人 | 緊急連絡先が変更されました |     |     |
+| android,iOS | Your_emergency_contact_has_been_changed | Your emergency contact has been changed | 紧急联系人已更改 | 緊急連絡先が変更されました |     |     |
 | iOS | Your_phone_number_has_been_changed | Your phone number has been changed | 更换手机号 | 電話番号が変更されました |     |     |
 | iOS | Your_PIN_has_been_changed | Your PIN has been changed | 修改 PIN | PINコードが変更されました |     |     |
 | android, iOS | your_pin_has_been_created | Your PIN has been created | PIN 已创建 | PINコードが生成されました |     |     |
