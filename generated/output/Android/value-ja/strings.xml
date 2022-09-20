@@ -1049,5 +1049,6 @@
 	<string name="You">自分</string>
 	<string name="You_deleted_this_message">このメッセージを削除しました。</string>
 	<string name="You_have_left_the_group">グループから退会しました</string>
+	<string name="Your_emergency_contact_has_been_changed">緊急連絡先が変更されました</string>
 	<string name="your_pin_has_been_created">PINコードが生成されました</string>
 </resources>

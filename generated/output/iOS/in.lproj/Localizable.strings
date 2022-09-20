@@ -707,6 +707,7 @@
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d pesan terkait";
 "search_result_prefix_phone" = "Phone Number: ";
+"secured_by_tip" = "Secured by TIP";
 "security" = "Keamanan";
 "select" = "Pilih";
 "select_a_country_or_region" = "Select a Country or Region";
@@ -740,6 +741,7 @@
 "senders" = "Pengirim";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
+"set_emergency_create_successfully" = "Set emergency contact successfully";
 "set_new_pin" = "Buat PIN baru";
 "set_or_update_pin_failed" = "Set or update PIN failed";
 "set_pin_successfully" = "Berhasil membuat PIN";

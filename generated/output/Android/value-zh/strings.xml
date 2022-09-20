@@ -778,6 +778,7 @@
 		<item quantity="other">%1$d 条相关的消息</item>
 	</plurals>
 	<string name="Searching">搜索中</string>
+	<string name="Secured_by_TIP">由 TIP 提供安全保障</string>
 	<string name="Security">安全</string>
 	<string name="Select">选择</string>
 	<string name="Select_Emergency_Contact">选择紧急联系人</string>
@@ -794,6 +795,7 @@
 	<string name="Senders">交易发起人</string>
 	<string name="Set">设置</string>
 	<string name="set_disappearing_message_time_to">%1$s将限时消息设置为 %2$s</string>
+	<string name="Set_emergency_create_successfully">设置紧急联系人成功</string>
 	<string name="Set_new_PIN">设置新的 PIN</string>
 	<string name="Set_or_update_PIN_failed">设置或更新 PIN 失败</string>
 	<string name="Set_PIN">设置 PIN</string>
@@ -1057,5 +1059,6 @@
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一条消息</string>
 	<string name="You_have_left_the_group">你不在此群组</string>
+	<string name="Your_emergency_contact_has_been_changed">紧急联系人已更改</string>
 	<string name="your_pin_has_been_created">PIN 已创建</string>
 </resources>

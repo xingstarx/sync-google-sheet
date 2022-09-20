@@ -795,6 +795,7 @@
 	</plurals>
 	<string name="Searching">Searching</string>
 	<string name="secret_url">https://mixin.one/pages/1000007</string>
+	<string name="Secured_by_TIP">Secured by TIP</string>
 	<string name="Security">Security</string>
 	<string name="Select">Select</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
@@ -811,6 +812,7 @@
 	<string name="Senders">Senders</string>
 	<string name="Set">Set</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
+	<string name="Set_emergency_create_successfully">Set emergency contact successfully</string>
 	<string name="Set_new_PIN">Set a new PIN</string>
 	<string name="Set_or_update_PIN_failed">Set or update PIN failed</string>
 	<string name="Set_PIN">Set PIN</string>
@@ -1079,5 +1081,6 @@
 	<string name="You">You</string>
 	<string name="You_deleted_this_message">You deleted this message</string>
 	<string name="You_have_left_the_group">You have left the group</string>
+	<string name="Your_emergency_contact_has_been_changed">Your emergency contact has been changed</string>
 	<string name="your_pin_has_been_created">Your PIN has been created</string>
 </resources>

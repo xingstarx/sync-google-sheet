@@ -1026,5 +1026,6 @@
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一條消息</string>
 	<string name="You_have_left_the_group">你不在此羣組</string>
+	<string name="Your_emergency_contact_has_been_changed">修改緊急聯繫人</string>
 	<string name="your_pin_has_been_created">PIN 已創建</string>
 </resources>

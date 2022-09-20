@@ -707,6 +707,7 @@
 "search_related_message" = "%d связанное сообщение";
 "search_related_message_count" = "%d похожие сообщения";
 "search_result_prefix_phone" = "Номер телефона: ";
+"secured_by_tip" = "Secured by TIP";
 "security" = "Безопасность";
 "select" = "Выбрать";
 "select_a_country_or_region" = "Выберите страну или регион";
@@ -740,6 +741,7 @@
 "senders" = "Отправители";
 "set" = "Установлен";
 "set_disappearing_message_time_to" = "%1$@ установил время исчезновения сообщения на %2$@.";
+"set_emergency_create_successfully" = "Set emergency contact successfully";
 "set_new_pin" = "Установить новый PIN-код";
 "set_or_update_pin_failed" = "Set or update PIN failed";
 "set_pin_successfully" = "ПИН-код успешно установлен";

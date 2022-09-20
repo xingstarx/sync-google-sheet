@@ -707,6 +707,7 @@
 "search_related_message" = "%d 條相關的訊息";
 "search_related_message_count" = "%d 條相關的訊息";
 "search_result_prefix_phone" = "手機號碼：";
+"secured_by_tip" = "Secured by TIP";
 "security" = "安全";
 "select" = "選擇";
 "select_a_country_or_region" = "選擇一個國家或地區";
@@ -740,6 +741,7 @@
 "senders" = "交易發起人";
 "set" = "設定";
 "set_disappearing_message_time_to" = "%1$@將限時訊息設定為 %2$@";
+"set_emergency_create_successfully" = "Set emergency contact successfully";
 "set_new_pin" = "設定新的 PIN";
 "set_or_update_pin_failed" = "Set or update PIN failed";
 "set_pin_successfully" = "PIN 設定成功";
