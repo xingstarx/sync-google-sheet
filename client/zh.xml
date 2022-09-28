@@ -260,7 +260,7 @@
   <string name="Choose" platform="android">选择</string>
   <string name="Choose_folder" platform="android">选择文件夹</string>
   <string name="Choose_Photo" platform="iOS">选择照片</string>
-  <string name="generating" platform="iOS">正在生成中</string>
+  <string name="generating" platform="iOS">正在生成...</string>
   <string name="circle_bottom" platform="android">为不同对话创建圈子然后在它们之间快速切换</string>
   <string name="circle_delete_tip" platform="android">确认删除 "%1$s"？</string>
   <string name="circle_info" platform="android, iOS">新建一个圈子可以过滤会话</string>

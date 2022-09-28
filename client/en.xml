@@ -265,7 +265,7 @@
   <string name="Choose" platform="android">Choose</string>
   <string name="Choose_folder" platform="android">Choose folder</string>
   <string name="Choose_Photo" platform="iOS">Choose Photo</string>
-  <string name="generating" platform="iOS">Generating</string>
+  <string name="generating" platform="iOS">Generating...</string>
   <string name="circle_bottom" platform="android">Create circle for different groups of chats and quickly switch between them</string>
   <string name="circle_delete_tip" platform="android">Delete "%1$s" ?</string>
   <string name="circle_info" platform="android, iOS">Create circles for different groups of chats and quickly switch between them</string>
