@@ -266,6 +266,7 @@
 | android | Choose | Choose | 选择  | 選択  |     |     |
 | android | Choose_folder | Choose folder | 选择文件夹 | フォルダを選択する |     |     |
 | iOS | Choose_Photo | Choose Photo | 选择照片 | 画像を選ぶ |     |     |
+| iOS | generating | Generating | 生成中 |     |     |     |
 | android | circle_bottom | Create circle for different groups of chats and quickly switch between them | 为不同对话创建圈子然后在它们之间快速切换 | グループリストを作成し、種類の異なるチャットを切り替えましょう | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya |
 | android | circle_delete_tip | Delete "%1$s" ? | 确认删除 "%1$s"？ | "%1$s"を削除しますか？ | Padamkan "%1$s"? | Hapus "%1$s"? |
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | 新建一个圈子可以过滤会话 | グループリストを作成し、種類の異なるチャットを切り替えましょう | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. |
