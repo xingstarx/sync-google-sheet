@@ -388,6 +388,7 @@
 "fourth_pin_confirm_hint" = "Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang.";
 "from" = "From";
 "games" = "Games";
+"generating" = "Generating...";
 "generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Get a new wallet";
 "got_it" = "OK";
