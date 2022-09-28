@@ -758,6 +758,7 @@
 "setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.";
 "setting_desktop_confirm" = " Sahkan log masuk ke Desktop Mixin Messenger";
 "setting_duplicate_transfer_desc" = "Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam";
+"setting_emergency_change_mobile" = "Adakah anda mahu menukar nombor telefon bimbit anda sekarang?";
 "setting_emergency_content" = "Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda.";
 "setting_emergency_desc" = "Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut.";
 "setting_emergency_pin_tip" = "Kenalan kecemasan anda dilindungi oleh PIN";
