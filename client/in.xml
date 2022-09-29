@@ -226,7 +226,7 @@
   <string name="Empty_address_book" platform="android">Buku alamat kosong</string>
   <string name="Enable_Emergency_Contact" platform="android, iOS">Aktifkan Kontak Darurat</string>
   <string name="End_to_End_Encryption" platform="android, iOS">Terenkripsi end-to-end</string>
-  <string name="Enter_new_phone_number" platform="android">Masukkan nomor ponsel baru Anda</string>
+  <string name="Enter_new_phone_number" platform="android, iOS">Masukkan nomor ponsel baru Anda</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Masukkan ID Mixin kontak darurat Anda</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nomor ponsel Anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN Anda</string>
