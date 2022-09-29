@@ -243,7 +243,7 @@
   <string name="Enable_Emergency_Contact" platform="android, iOS">Bolehkan Kenalan Kecemasan</string>
   <string name="Enable_web_debug" platform="android">Bolehkan laman web nyahpepijat</string>
   <string name="End_to_End_Encryption" platform="android, iOS">Disulitkan</string>
-  <string name="Enter_new_phone_number" platform="android">Masukkan nombor telefon bimbit baharu anda</string>
+  <string name="Enter_new_phone_number" platform="android, iOS">Masukkan nombor telefon bimbit baharu anda</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Masukkan ID Mixin kenalan kecemasan anda</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nombor telefon bimbit anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN anda</string>
