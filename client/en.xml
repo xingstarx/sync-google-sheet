@@ -196,7 +196,7 @@
   <string name="Cant_receive_the_code" platform="android, iOS">Can't receive the code?</string>
   <string name="cant_talk_self" platform="android">You can't talk to yourself</string>
   <string name="cant_transfer_self" platform="android">You can't transfer to yourself</string>
-  <string name="caption_send" platform="iOS">SEND</string>
+  <string name="caption_send" platform="iOS">Send</string>
   <string name="Card" platform="android, Desktop">Card</string>
   <string name="card" platform="iOS">card</string>
   <string name="category_chats" platform="iOS">Chats</string>
@@ -998,7 +998,7 @@
   <string name="Rebate" platform="android, iOS">Rebate</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptcha timeout</string>
   <string name="Receive" platform="android">Receive</string>
-  <string name="RECEIVE" platform="android, iOS">RECEIVE</string>
+  <string name="RECEIVE" platform="android, iOS">Receive</string>
   <string name="Receive_Money" platform="android, iOS">Receive Money</string>
   <string name="Receiver" platform="android, iOS, Desktop">Receiver</string>
   <string name="Receivers" platform="iOS">Receivers</string>
