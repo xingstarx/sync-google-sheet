@@ -197,7 +197,7 @@
 | android, iOS | Cant_receive_the_code | Can't receive the code? | 接收不到验证码？ | コードを受け取れませんか？ | Tidak dapat menerima kod? | Tidak dapat menerima kode? |
 | android | cant_talk_self | You can't talk to yourself | 不能和自己对话 | 自分自身に電話はできません | Anda tidak boleh bercakap dengan diri sendiri | Anda tidak dapat berbicara kepada diri Anda sendiri |
 | android | cant_transfer_self | You can't transfer to yourself | 不能给自己转账 | 自分自身に送金はできません | Anda tidak boleh memindahkan diri anda |     |
-| iOS | caption_send | SEND | 转出  | 出金  |     |     |
+| iOS | caption_send | Send | 转出  | 出金  |     |     |
 | android, Desktop | Card | Card | 卡片  | カード | Kad | Kartu |
 | iOS | card | card | 卡片  | ロボ  |     |     |
 | iOS | category_chats | Chats | 最近聊天 | チャット |     |     |
