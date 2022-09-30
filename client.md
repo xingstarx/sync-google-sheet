@@ -999,7 +999,7 @@
 | android, iOS | Rebate | Rebate | 退款  | 払い戻し | Rebat | Potongan harga |
 | android, Desktop | Recaptcha_timeout | Recaptcha timeout | 验证超时 | Recaptchaがタイムアウトしました | Tamat masa Recaptcha | Batas waktu recaptcha |
 | android | Receive | Receive | 转入  | 入金  |     |     |
-| android, iOS | RECEIVE | RECEIVE | 转入  | 入金  | Terima | Terima |
+| android, iOS | RECEIVE | Receive | 转入  | 入金  | Terima | Terima |
 | android, iOS | Receive_Money | Receive Money | 我的收款码 | 仮想通貨を受け取る | Terima Wang | Terima uang |
 | android, iOS, Desktop | Receiver | Receiver | 至   | 受取人 | Penerima | Penerima |
 | iOS | Receivers | Receivers | 交易接收人 | 受取人 |     |     |
