@@ -239,8 +239,10 @@
 	<string name="content_live">[直播]</string>
 	<string name="content_location">[位置]</string>
 	<string name="content_photo">[照片]</string>
+	<string name="content_pin">[置顶消息]</string>
 	<string name="content_post">[文章]</string>
 	<string name="content_sticker">[贴纸]</string>
+	<string name="content_system">[系统消息]</string>
 	<string name="Content_too_long">内容过长</string>
 	<string name="content_transcript">[聊天记录]</string>
 	<string name="content_transfer">[转账]</string>

@@ -244,8 +244,10 @@
 	<string name="content_live">[Live]</string>
 	<string name="content_location">[Location]</string>
 	<string name="content_photo">[Photo]</string>
+	<string name="content_pin">[Pin Message]</string>
 	<string name="content_post">[Post]</string>
 	<string name="content_sticker">[Sticker]</string>
+	<string name="content_system">[System Message]</string>
 	<string name="Content_too_long">Content too long</string>
 	<string name="content_transcript">[Transcript]</string>
 	<string name="content_transfer">[Transfer]</string>
