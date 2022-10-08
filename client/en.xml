@@ -787,7 +787,7 @@
   <string name="Mute" platform="android, iOS">Mute</string>
   <string name="mute" platform="Desktop">Mute</string>
   <string name="Mute_until" platform="android, iOS">Until %1$s</string>
-  <string name="Muted" platform="iOS, Desktop">Muted</string>
+  <string name="Muted" platform="iOS">Muted</string>
   <string name="Muted_until" platform="iOS">Muted until %@</string>
   <string name="My_Contacts" platform="android, iOS">My Contacts</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">My Mixin ID: %1$s</string>

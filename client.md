@@ -788,7 +788,7 @@
 | android, iOS | Mute | Mute | 静音  | ミュート | Senyap | Bisukan |
 | Desktop | mute | Mute | 静音  |     |     |     |
 | android, iOS | Mute_until | Until %1$s | 直到 %1$s | %1$sまで | Sehingga %1$s | Hingga %1$s |
-| iOS, Desktop | Muted | Muted | 已静音 | ミュートされました |     |     |
+| iOS | Muted | Muted | 已静音 | ミュートされました |     |     |
 | iOS | Muted_until | Muted until %@ | 已静音至 %@ | %@までミュートする |     |     |
 | android, iOS | My_Contacts | My Contacts | 我的联系人 | 連絡先 | Kenalan Saya | Kontak Saya |
 | android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | 我的 Mixin ID：%1$s | マイMixin ID:%1$s | ID Mixin Saya: %1$s | ID Mixin saya: %1$s |
