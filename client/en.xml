@@ -325,9 +325,11 @@
   <string name="content_live" platform="android, iOS">[Live]</string>
   <string name="content_location" platform="android, iOS">[Location]</string>
   <string name="content_photo" platform="android, iOS">[Photo]</string>
+  <string name="content_pin" platform="android">[Pin Message]</string>
   <string name="content_post" platform="android, iOS">[Post]</string>
   <string name="content_rebate" platform="iOS">[Rebate]</string>
   <string name="content_sticker" platform="android, iOS">[Sticker]</string>
+  <string name="content_system" platform="android">[System Message]</string>
   <string name="Content_too_long" platform="android, Desktop">Content too long</string>
   <string name="content_transcript" platform="android, iOS">[Transcript]</string>
   <string name="content_transfer" platform="android, iOS">[Transfer]</string>

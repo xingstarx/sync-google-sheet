@@ -326,9 +326,11 @@
 | android, iOS | content_live | [Live] | [直播] | [配信] | [Langsung] | [Siaran Langsung] |
 | android, iOS | content_location | [Location] | [位置] | [位置情報] | [Lokasi] | [Lokasi] |
 | android, iOS | content_photo | [Photo] | [照片] | [画像] | [Foto] | [Foto] |
+| android | content_pin | [Pin Message] | [置顶消息] |     |     |     |
 | android, iOS | content_post | [Post] | [文章] | [投稿] | [Catatan] | [Postingan] |
 | iOS | content_rebate | [Rebate] | [退款] | [払い戻し] |     |     |
 | android, iOS | content_sticker | [Sticker] | [贴纸] | [スタンプ] | [Pelekat] | [Stiker] |
+| android | content_system | [System Message] | [系统消息] |     |     |     |
 | android, Desktop | Content_too_long | Content too long | 内容过长 | 文字数を減らしてください | Kandungan terlalu lama | Konten terlalu panjang |
 | android, iOS | content_transcript | [Transcript] | [聊天记录] | [メッセージ履歴] |     |     |
 | android, iOS | content_transfer | [Transfer] | [转账] | [送金] | [Pindah] | [Transfer] |
