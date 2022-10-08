@@ -763,7 +763,7 @@
   <string name="Music" platform="iOS">音楽</string>
   <string name="Mute" platform="android, iOS">ミュート</string>
   <string name="Mute_until" platform="android, iOS">%1$sまで</string>
-  <string name="Muted" platform="iOS, Desktop">ミュートされました</string>
+  <string name="Muted" platform="iOS">ミュートされました</string>
   <string name="Muted_until" platform="iOS">%@までミュートする</string>
   <string name="My_Contacts" platform="android, iOS">連絡先</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">マイMixin ID:%1$s</string>

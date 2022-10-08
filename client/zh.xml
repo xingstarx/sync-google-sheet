@@ -772,7 +772,7 @@
   <string name="Mute" platform="android, iOS">静音</string>
   <string name="mute" platform="Desktop">静音</string>
   <string name="Mute_until" platform="android, iOS">直到 %1$s</string>
-  <string name="Muted" platform="iOS, Desktop">已静音</string>
+  <string name="Muted" platform="iOS">已静音</string>
   <string name="Muted_until" platform="iOS">已静音至 %@</string>
   <string name="My_Contacts" platform="android, iOS">我的联系人</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">我的 Mixin ID：%1$s</string>
