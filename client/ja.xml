@@ -394,7 +394,7 @@
   <string name="delete_the_circle" platform="Desktop">%1$sのグループリストを削除しますか？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">%1$sのアドレス削除</string>
   <string name="Deleted" platform="iOS">削除しました</string>
-  <string name="Deposit" platform="android, iOS">入金</string>
+  <string name="Deposit" platform="android, iOS, Desktop">入金</string>
   <string name="deposit_account_attention" platform="android, iOS">注意： 最初の入金は少額でお試しください。Mixinに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。</string>
   <string name="Deposit_at_least" platform="iOS">最初の入金は%@ %@ 以上に指定してください</string>
   <string name="deposit_attention" platform="android, iOS">注意: 最初は必ず少額で入金テストをしてください。</string>
@@ -550,7 +550,7 @@
   <string name="Failed_to_send_photo" platform="iOS">画像を送信できませんでした</string>
   <string name="Failed_to_send_video" platform="iOS">動画を送信できませんでした</string>
   <string name="Failure" platform="android">失敗</string>
-  <string name="Fee" platform="android, iOS">手数料</string>
+  <string name="Fee" platform="android, iOS, Desktop">手数料</string>
   <string name="Feedback" platform="android, iOS">フィードバック</string>
   <string name="File" platform="android, iOS, Desktop">ファイル</string>
   <string name="File_chooser_error" platform="android, Desktop">ファイル選択エラー</string>
@@ -962,7 +962,7 @@
   <string name="Read_Collectibles" platform="android, iOS">NFTコレクションの識別</string>
   <string name="Read_Contacts" platform="android, iOS">連絡先の識別</string>
   <string name="Read_Snapshots" platform="android, iOS">スナップショットの識別</string>
-  <string name="Rebate" platform="android, iOS">払い戻し</string>
+  <string name="Rebate" platform="android, iOS, Desktop">払い戻し</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptchaがタイムアウトしました</string>
   <string name="Receive" platform="android">入金</string>
   <string name="RECEIVE" platform="android, iOS">入金</string>
@@ -1372,7 +1372,7 @@
   <string name="window" platform="Desktop">Window</string>
   <string name="withdraw_Address" platform="android, iOS">アドレス</string>
   <string name="Withdraw_by_PIN" platform="iOS">PINコードを使って出金する</string>
-  <string name="Withdrawal" platform="android, iOS">出金</string>
+  <string name="Withdrawal" platform="android, iOS, Desktop">出金</string>
   <string name="withdrawal_addr_biometric_add" platform="android">生体認証を使用してアドレスを保存</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">生体認証を使用してアドレスを削除</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">生体認証を使用してアドレスを修正</string>

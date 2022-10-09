@@ -206,7 +206,7 @@
   <string name="Delete_Group" platform="android, Desktop">Padam Kumpulan</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">Padam Kenalan yang selaraskan</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">Padamkan Alamat %1$s</string>
-  <string name="Deposit" platform="android, iOS">Deposit</string>
+  <string name="Deposit" platform="android, iOS, Desktop">Deposit</string>
   <string name="deposit_account_attention" platform="android, iOS">Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger.</string>
   <string name="deposit_attention" platform="android, iOS">Cuba sedikit untuk deposit pertama.</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan</string>
@@ -289,7 +289,7 @@
   <string name="Expired" platform="android, iOS">Tamat tempoh</string>
   <string name="Extract_QR_Code" platform="android">Ekstrak Kod QR</string>
   <string name="Failure" platform="android">Kegagalan</string>
-  <string name="Fee" platform="android, iOS">Bayaran</string>
+  <string name="Fee" platform="android, iOS, Desktop">Bayaran</string>
   <string name="Feedback" platform="android, iOS">Maklum balas</string>
   <string name="File" platform="android, iOS, Desktop">Fail</string>
   <string name="File_chooser_error" platform="android, Desktop">Ralat pemilih fail</string>
@@ -517,7 +517,7 @@
   <string name="Read_Circles" platform="android, iOS">Lingkaran Baca</string>
   <string name="Read_Contacts" platform="android, iOS">Baca Kenalan</string>
   <string name="Read_Snapshots" platform="android, iOS">Baca Syot kilat</string>
-  <string name="Rebate" platform="android, iOS">Rebat</string>
+  <string name="Rebate" platform="android, iOS, Desktop">Rebat</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Tamat masa Recaptcha</string>
   <string name="RECEIVE" platform="android, iOS">Terima</string>
   <string name="Receive_Money" platform="android, iOS">Terima Wang</string>
@@ -746,7 +746,7 @@
   <string name="Whats_your_name" platform="android, iOS, Desktop">Siapa nama awak?</string>
   <string name="When_roaming" platform="android">Semasa perayauan</string>
   <string name="withdraw_Address" platform="android, iOS">Alamat</string>
-  <string name="Withdrawal" platform="android, iOS">Pengeluaran</string>
+  <string name="Withdrawal" platform="android, iOS, Desktop">Pengeluaran</string>
   <string name="withdrawal_addr_biometric_add" platform="android">Gunakan Biometrik untuk menyimpan alamat</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Gunakan Biometrik untuk memadam alamat</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">Gunakan Biometrik untuk mengubah alamat</string>
