@@ -307,6 +307,7 @@
 "disconnecting" = "Disconnecting";
 "dismiss_as_admin" = "Ketepikan pentadbir";
 "done" = "Selesai";
+"dont_have_assets" = "Don't have assets?";
 "duplicate_transfer_confirmation" = "Pengesahan Pemindahan Pendua";
 "duplicate_withdraw_confirmation" = "Pengesahan Pengunduran Pendua";
 "edit" = "Edit";
