@@ -50,7 +50,7 @@
   <string name="Add_to_Stickers" platform="iOS">スタンプを追加</string>
   <string name="Added" platform="android, iOS, Desktop">追加ずみ</string>
   <string name="Adding" platform="android">追加中…</string>
-  <string name="Address" platform="android, iOS">アドレス</string>
+  <string name="Address" platform="android, iOS, Desktop">アドレス</string>
   <string name="Address_not_found" platform="iOS">アドレスが見つかりません</string>
   <string name="Admin" platform="android, iOS, Desktop">管理者</string>
   <string name="After_1_minute" platform="android">1分後に</string>

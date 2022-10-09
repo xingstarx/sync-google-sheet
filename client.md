@@ -54,7 +54,7 @@
 | iOS | Add_to_Stickers | Add to Stickers | 添加贴纸 | スタンプを追加 |     |     |
 | android, iOS, Desktop | Added | Added | 已添加 | 追加ずみ |     |     |
 | android | Adding | Adding… | 正在添加… | 追加中… | Menambah… | Menambahkan… |
-| android, iOS | Address | Address | 地址  | アドレス | Alamat | Alamat |
+| android, iOS, Desktop | Address | Address | 地址  | アドレス | Alamat | Alamat |
 | iOS | Address_not_found | Address not found. | 找不到该地址。 | アドレスが見つかりません |     |     |
 | android, iOS, Desktop | Admin | Admin | 管理员 | 管理者 | pentadbir | admin |
 | android | After_1_minute | After 1 minute | 1分钟之后 | 1分後に |     |     |
