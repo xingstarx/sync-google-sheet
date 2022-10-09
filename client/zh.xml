@@ -53,7 +53,7 @@
   <string name="Add_to_Stickers" platform="iOS">添加贴纸</string>
   <string name="Added" platform="android, iOS, Desktop">已添加</string>
   <string name="Adding" platform="android">正在添加…</string>
-  <string name="Address" platform="android, iOS">地址</string>
+  <string name="Address" platform="android, iOS, Desktop">地址</string>
   <string name="Address_not_found" platform="iOS">找不到该地址。</string>
   <string name="Admin" platform="android, iOS, Desktop">管理员</string>
   <string name="After_1_minute" platform="android">1分钟之后</string>

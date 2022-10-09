@@ -22,7 +22,7 @@
   <string name="Add_Tag" platform="android, iOS">Tambahkan Tag</string>
   <string name="Add_to_Home_screen" platform="android">Tambahkan ke layar Beranda</string>
   <string name="Adding" platform="android">Menambahkan…</string>
-  <string name="Address" platform="android, iOS">Alamat</string>
+  <string name="Address" platform="android, iOS, Desktop">Alamat</string>
   <string name="Admin" platform="android, iOS, Desktop">admin</string>
   <string name="Agree_and_Continue" platform="android">Setuju &amp; Lanjutkan</string>
   <string name="alert_key_contact_audio_call_message" platform="android, iOS">meminta panggilan audio dengan Anda</string>
