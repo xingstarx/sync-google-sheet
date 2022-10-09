@@ -884,8 +884,8 @@
   <string name="Pay_withdrawal_memo" platform="iOS">額 %@ %@\n手数料 %@ %@</string>
   <string name="Peer_closed" platform="iOS">ピアが閉じています</string>
   <string name="Peer_not_found" platform="iOS">ピアが見つかりません</string>
-  <string name="pending_confirmation" platform="android, iOS">%1$d/%2$d 承認</string>
-  <string name="pending_confirmation.count" platform="android, iOS">%1$d/%2$d 承認</string>
+  <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d 承認</string>
+  <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d 承認</string>
   <string name="pending_confirmations" platform="iOS">%d/%d 承認</string>
   <string name="permission_audio" platform="android">音声の録音を許可しますか？</string>
   <string name="permission_camera" platform="android">写真を撮ることを許可しますか？</string>
@@ -1180,7 +1180,7 @@
   <string name="Sort_by" platform="android, iOS">並びかえ項目</string>
   <string name="Start_Messaging" platform="android, iOS">メッセージを開始</string>
   <string name="started_group_call" platform="iOS">%@がグループ通話を開始しました</string>
-  <string name="Status" platform="android, iOS">ステータス</string>
+  <string name="Status" platform="android, iOS, Desktop">ステータス</string>
   <string name="Sticker" platform="android, iOS, Desktop">スタンプ</string>
   <string name="sticker_add_invalid_size" platform="android">スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります</string>
   <string name="sticker_add_requirements" platform="iOS">スタンプのサイズは%@KB以上%@KB未満、 幅と高さは%@ピクセルから%@ピクセルである必要があります</string>

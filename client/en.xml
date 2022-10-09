@@ -916,8 +916,8 @@
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
   <string name="Peer_closed" platform="iOS">Peer closed</string>
   <string name="Peer_not_found" platform="iOS">Peer not found</string>
-  <string name="pending_confirmation" platform="android, iOS">%1$d/%2$d confirmation</string>
-  <string name="pending_confirmation.count" platform="android, iOS">%1$d/%2$d confirmations</string>
+  <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmation</string>
+  <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d confirmations</string>
   <string name="pending_confirmations" platform="iOS">%d/%d Confirmations</string>
   <string name="permission_audio" platform="android">Allow to record audio?</string>
   <string name="permission_camera" platform="android">Allow to take pictures?</string>
@@ -1224,7 +1224,7 @@
   <string name="Start" platform="android,iOS">Start</string>
   <string name="Start_Messaging" platform="android, iOS">Start Messaging</string>
   <string name="started_group_call" platform="iOS">%@ has started a group call</string>
-  <string name="Status" platform="android, iOS">Status</string>
+  <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="Sticker" platform="android, iOS, Desktop">Sticker</string>
   <string name="sticker_add_invalid_size" platform="android">Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px.</string>
   <string name="sticker_add_requirements" platform="iOS">Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.</string>

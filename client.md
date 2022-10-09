@@ -917,8 +917,8 @@
 | iOS | Pay_withdrawal_memo | Amount %@ %@\nFee %@ %@ | 数量 %@ %@\n手续费 %@ %@ | 額 %@ %@\n手数料 %@ %@ |     |     |
 | iOS | Peer_closed | Peer closed | Peer 已关闭 | ピアが閉じています |     |     |
 | iOS | Peer_not_found | Peer not found | Peer 无效 | ピアが見つかりません |     |     |
-| android, iOS | pending_confirmation | %1$d/%2$d confirmation | %1$d/%2$d 区块确认数 | %1$d/%2$d 承認 |     |     |
-| android, iOS | pending_confirmation.count | %1$d/%2$d confirmations | %1$d/%2$d 区块确认数 | %1$d/%2$d 承認 | %1$d/%2$d pengesahan | %1$d/%2$d konfirmasi |
+| android, iOS, Desktop | pending_confirmation | %1$d/%2$d confirmation | %1$d/%2$d 区块确认数 | %1$d/%2$d 承認 |     |     |
+| android, iOS, Desktop | pending_confirmation.count | %1$d/%2$d confirmations | %1$d/%2$d 区块确认数 | %1$d/%2$d 承認 | %1$d/%2$d pengesahan | %1$d/%2$d konfirmasi |
 | iOS | pending_confirmations | %d/%d Confirmations | %d/%d 区块确认数 | %d/%d 承認 |     |     |
 | android | permission_audio | Allow to record audio? | 要允许录制声音吗？ | 音声の録音を許可しますか？ |     |     |
 | android | permission_camera | Allow to take pictures? | 要允许拍摄照片吗？ | 写真を撮ることを許可しますか？ | Benarkan untuk mengambil gambar? | Izinkan mengambil gambar? |
@@ -1225,7 +1225,7 @@
 | android,iOS | Start | Start | 开始  |     |     |     |
 | android, iOS | Start_Messaging | Start Messaging | 开始聊天 | メッセージを開始 | Mulakan Pemesejan | Mulai Mengirim Pesan |
 | iOS | started_group_call | %@ has started a group call | %@ 开始了群通话 | %@がグループ通話を開始しました |     |     |
-| android, iOS | Status | Status | 交易状态 | ステータス | Status | Status |
+| android, iOS, Desktop | Status | Status | 交易状态 | ステータス | Status | Status |
 | android, iOS, Desktop | Sticker | Sticker | 贴纸  | スタンプ | Pelekat | Stiker |
 | android | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. |
 | iOS | sticker_add_requirements | Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels. | 贴纸要求大于 %@KB 且小于 %@KB，宽高大于 %@ 像素且小于 %@ 像素。 | スタンプのサイズは%@KB以上%@KB未満、 幅と高さは%@ピクセルから%@ピクセルである必要があります |     |     |
