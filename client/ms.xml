@@ -511,7 +511,7 @@
   <string name="qr_code_camera_code" platform="android">Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat.</string>
   <string name="QR_Code_not_found" platform="android, iOS">Kod Qr tidak dijumpai</string>
   <string name="quote" platform="android">petikan</string>
-  <string name="Raw" platform="android, iOS">Mentah</string>
+  <string name="Raw" platform="android, iOS, Desktop">Mentah</string>
   <string name="Read_Assets" platform="android, iOS">Baca Aset</string>
   <string name="Read_Bots" platform="android, iOS">Aplikasi baca</string>
   <string name="Read_Circles" platform="android, iOS">Lingkaran Baca</string>

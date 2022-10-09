@@ -976,7 +976,7 @@
   <string name="quick_search" platform="Desktop">快速搜索</string>
   <string name="quit_mixin" platform="Desktop">退出 Mixin</string>
   <string name="quote" platform="android">引用</string>
-  <string name="Raw" platform="android, iOS">其他</string>
+  <string name="Raw" platform="android, iOS, Desktop">其他</string>
   <string name="Read_Assets" platform="android, iOS">查看资产</string>
   <string name="Read_Bots" platform="android, iOS">查看应用</string>
   <string name="Read_Circles" platform="android, iOS">查看圈子</string>

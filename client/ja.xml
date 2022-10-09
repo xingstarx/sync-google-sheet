@@ -955,7 +955,7 @@
   <string name="quick_search" platform="Desktop">クイック検索</string>
   <string name="quit_mixin" platform="Desktop">終了</string>
   <string name="quote" platform="android">引用</string>
-  <string name="Raw" platform="android, iOS">その他</string>
+  <string name="Raw" platform="android, iOS, Desktop">その他</string>
   <string name="Read_Assets" platform="android, iOS">ウォレット資産識別</string>
   <string name="Read_Bots" platform="android, iOS">ミニアプリの識別</string>
   <string name="Read_Circles" platform="android, iOS">グループリストの識別</string>
