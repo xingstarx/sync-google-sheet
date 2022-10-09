@@ -331,6 +331,7 @@
 "today" : "今日",
 "toggleChatInfo" : "チャット情報のオン/オフ",
 "transactionId" : "トランザクションID",
+"transactionType" : "トランザクションタイプ",
 "transactions" : "もらった・あげたコイン💰",
 "transactionsCannotBeDeleted" : "トランザクション履歴を削除することはできません",
 "transcript" : "メッセージ履歴",

@@ -351,6 +351,7 @@
 "today" : "Today",
 "toggleChatInfo" : "Toggle chat info",
 "transactionId" : "Transaction Id",
+"transactionType" : "Transaction Type",
 "transactions" : "Transactions",
 "transactionsCannotBeDeleted" : "Transactions CANNOT be deleted",
 "transcript" : "Transcript",

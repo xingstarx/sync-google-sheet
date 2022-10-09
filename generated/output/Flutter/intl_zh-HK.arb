@@ -334,6 +334,7 @@
 "today" : "今天",
 "toggleChatInfo" : "展開/關閉會話信息",
 "transactionId" : "交易編號",
+"transactionType" : "交易類型",
 "transactions" : "轉賬記錄",
 "transactionsCannotBeDeleted" : "轉賬記錄不會被刪除",
 "transcript" : "聊天記錄",

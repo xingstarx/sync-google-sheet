@@ -188,6 +188,7 @@
 "time" : "Waktu",
 "today" : "Hari ini",
 "transactionId" : "ID Transaksi",
+"transactionType" : "Jenis Transaksi",
 "transactions" : "Transaksi",
 "transfer" : "Transfer",
 "turnOnNotifications" : "Aktifkan Notifikasi",

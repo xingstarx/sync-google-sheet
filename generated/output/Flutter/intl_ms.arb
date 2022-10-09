@@ -188,6 +188,7 @@
 "time" : "Masa",
 "today" : "Hari ini",
 "transactionId" : "Id Urus Niaga",
+"transactionType" : "Jenis Transaksi",
 "transactions" : "Urus Niaga",
 "transfer" : "Pindah",
 "turnOnNotifications" : "Hidupkan Pemberitahuan",

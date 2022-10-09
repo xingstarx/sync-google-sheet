@@ -334,6 +334,7 @@
 "today" : "Сегодня",
 "toggleChatInfo" : "Переключить информацию о чате",
 "transactionId" : "ID транзакции",
+"transactionType" : "Тип операции",
 "transactions" : "Транзакции",
 "transactionsCannotBeDeleted" : "Транзакции НЕ МОГУТ быть удалены",
 "transcript" : "Стенограмма",
