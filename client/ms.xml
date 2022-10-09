@@ -672,7 +672,7 @@
   <string name="Transaction" platform="android, iOS">Urus Niaga</string>
   <string name="transaction_Hash" platform="android, iOS">Urus niaga Cincangan</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">Id Urus Niaga</string>
-  <string name="Transaction_Type" platform="android, iOS">Jenis Transaksi</string>
+  <string name="Transaction_Type" platform="android, iOS, Desktop">Jenis Transaksi</string>
   <string name="Transactions" platform="android, iOS, Desktop">Urus Niaga</string>
   <string name="Transfer" platform="android, iOS, Desktop">Pindah</string>
   <string name="Transfer_Amount" platform="android">Jumlah Pindahan</string>

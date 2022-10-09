@@ -1266,7 +1266,7 @@
   <string name="Transaction" platform="android, iOS">交易详情</string>
   <string name="transaction_Hash" platform="android, iOS">交易哈希</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">交易编号</string>
-  <string name="Transaction_Type" platform="android, iOS">交易类型</string>
+  <string name="Transaction_Type" platform="android, iOS, Desktop">交易类型</string>
   <string name="Transactions" platform="android, iOS, Desktop">转账记录</string>
   <string name="Transactions_CANNOT_be_deleted" platform="android, iOS, Desktop">转账记录不会被删除</string>
   <string name="Transcript" platform="android, iOS, Desktop">聊天记录</string>
