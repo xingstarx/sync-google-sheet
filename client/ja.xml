@@ -1235,7 +1235,7 @@
   <string name="Track_not_found" platform="iOS">トラックが見つかりません</string>
   <string name="Trading" platform="iOS">トレード</string>
   <string name="Transaction" platform="android, iOS">トランザクション</string>
-  <string name="transaction_Hash" platform="android, iOS">トランザクションハッシュ</string>
+  <string name="transaction_Hash" platform="android, iOS, Desktop">トランザクションハッシュ</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">トランザクションID</string>
   <string name="Transaction_Type" platform="android, iOS, Desktop">トランザクションタイプ</string>
   <string name="Transactions" platform="android, iOS, Desktop">もらった・あげたコイン💰</string>

@@ -617,7 +617,7 @@
   <string name="title_participants.count" platform="android, iOS">%1$d peserta</string>
   <string name="Today" platform="android, iOS, Desktop">Hari ini</string>
   <string name="Transaction" platform="android, iOS">Transaksi</string>
-  <string name="transaction_Hash" platform="android, iOS">Hash Transaksi</string>
+  <string name="transaction_Hash" platform="android, iOS, Desktop">Hash Transaksi</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">ID Transaksi</string>
   <string name="Transaction_Type" platform="android, iOS, Desktop">Jenis Transaksi</string>
   <string name="Transactions" platform="android, iOS, Desktop">Transaksi</string>

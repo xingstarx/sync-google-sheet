@@ -1284,7 +1284,7 @@
 | iOS | Track_not_found | Track not found | Track 无效 | トラックが見つかりません |     |     |
 | iOS | Trading | Trading | 交易  | トレード |     |     |
 | android, iOS | Transaction | Transaction | 交易详情 | トランザクション | Urus Niaga | Transaksi |
-| android, iOS | transaction_Hash | Transaction Hash | 交易哈希 | トランザクションハッシュ | Urus niaga Cincangan | Hash Transaksi |
+| android, iOS, Desktop | transaction_Hash | Transaction Hash | 交易哈希 | トランザクションハッシュ | Urus niaga Cincangan | Hash Transaksi |
 | android, iOS, Desktop | Transaction_Id | Transaction Id | 交易编号 | トランザクションID | Id Urus Niaga | ID Transaksi |
 | android, iOS, Desktop | Transaction_Type | Transaction Type | 交易类型 | トランザクションタイプ | Jenis Transaksi | Jenis Transaksi |
 | android, iOS, Desktop | Transactions | Transactions | 转账记录 | もらった・あげたコイン💰 | Urus Niaga | Transaksi |
