@@ -1264,7 +1264,7 @@
   <string name="Track_not_found" platform="iOS">Track 无效</string>
   <string name="Trading" platform="iOS">交易</string>
   <string name="Transaction" platform="android, iOS">交易详情</string>
-  <string name="transaction_Hash" platform="android, iOS">交易哈希</string>
+  <string name="transaction_Hash" platform="android, iOS, Desktop">交易哈希</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">交易编号</string>
   <string name="Transaction_Type" platform="android, iOS, Desktop">交易类型</string>
   <string name="Transactions" platform="android, iOS, Desktop">转账记录</string>
