@@ -1280,7 +1280,7 @@
 | iOS | Tools | Tools | 工具  | ツール |     |     |
 | iOS | Touch_ID | Touch ID | 指纹  | 指紋認証 |     |     |
 | android | Touch_the_fingerprint_sensor | Touch the fingerprint sensor | 触摸指纹传感器 | 指紋センサーにタッチしてください |     |     |
-| android | Trace | Trace |     | 記録情報 | Jejak |     |
+| android, Desktop | Trace | Trace |     | 記録情報 | Jejak |     |
 | iOS | Track_not_found | Track not found | Track 无效 | トラックが見つかりません |     |     |
 | iOS | Trading | Trading | 交易  | トレード |     |     |
 | android, iOS | Transaction | Transaction | 交易详情 | トランザクション | Urus Niaga | Transaksi |

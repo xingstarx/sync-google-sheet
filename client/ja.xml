@@ -1231,7 +1231,7 @@
   <string name="Tools" platform="iOS">ツール</string>
   <string name="Touch_ID" platform="iOS">指紋認証</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">指紋センサーにタッチしてください</string>
-  <string name="Trace" platform="android">記録情報</string>
+  <string name="Trace" platform="android, Desktop">記録情報</string>
   <string name="Track_not_found" platform="iOS">トラックが見つかりません</string>
   <string name="Trading" platform="iOS">トレード</string>
   <string name="Transaction" platform="android, iOS">トランザクション</string>

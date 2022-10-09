@@ -1279,7 +1279,7 @@
   <string name="Tools" platform="iOS">Tools</string>
   <string name="Touch_ID" platform="iOS">Touch ID</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">Touch the fingerprint sensor</string>
-  <string name="Trace" platform="android">Trace</string>
+  <string name="Trace" platform="android, Desktop">Trace</string>
   <string name="Track_not_found" platform="iOS">Track not found</string>
   <string name="Trading" platform="iOS">Trading</string>
   <string name="Transaction" platform="android, iOS">Transaction</string>

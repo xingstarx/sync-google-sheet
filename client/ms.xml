@@ -668,7 +668,7 @@
   <string name="tip_create_pin_title" platform="android, iOS">Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda</string>
   <string name="title_participants.count" platform="android, iOS">%1$d peserta</string>
   <string name="Today" platform="android, iOS, Desktop">Hari ini</string>
-  <string name="Trace" platform="android">Jejak</string>
+  <string name="Trace" platform="android, Desktop">Jejak</string>
   <string name="Transaction" platform="android, iOS">Urus Niaga</string>
   <string name="transaction_Hash" platform="android, iOS, Desktop">Urus niaga Cincangan</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">Id Urus Niaga</string>
