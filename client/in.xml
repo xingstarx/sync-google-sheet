@@ -451,7 +451,7 @@
   <string name="Pay_with_Biometrics" platform="android">Bayar dengan Biometrik</string>
   <string name="Pay_with_PIN" platform="android, iOS">Bayar dengan PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Bayar dengan interval PIN</string>
-  <string name="pending_confirmation.count" platform="android, iOS">%1$d/%2$d konfirmasi</string>
+  <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d konfirmasi</string>
   <string name="permission_camera" platform="android">Izinkan mengambil gambar?</string>
   <string name="permission_video" platform="android">Izinkan merekam video?</string>
   <string name="Permissions" platform="android, iOS">Izin</string>
@@ -591,7 +591,7 @@
   <string name="Slide_to_cancel" platform="android, iOS">Geser untuk Membatalkan</string>
   <string name="Sort" platform="android">Urutkan</string>
   <string name="Start_Messaging" platform="android, iOS">Mulai Mengirim Pesan</string>
-  <string name="Status" platform="android, iOS">Status</string>
+  <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="Sticker" platform="android, iOS, Desktop">Stiker</string>
   <string name="sticker_add_invalid_size" platform="android">Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px.</string>
   <string name="storage_low_message" platform="android">Ruang penyimpanan ponsel Anda hampir habis, sehingga dapat memengaruhi penggunaan Mixin oleh Anda dan bahkan dapat mengakibatkan rusak atau hilangnya obrolan serta data penting lainnya. Anda disarankan untuk menghapus aplikasi yang tidak digunakan untuk memberi ruang yang cukup</string>
