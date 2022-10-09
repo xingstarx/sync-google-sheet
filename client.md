@@ -1286,7 +1286,7 @@
 | android, iOS | Transaction | Transaction | 交易详情 | トランザクション | Urus Niaga | Transaksi |
 | android, iOS | transaction_Hash | Transaction Hash | 交易哈希 | トランザクションハッシュ | Urus niaga Cincangan | Hash Transaksi |
 | android, iOS, Desktop | Transaction_Id | Transaction Id | 交易编号 | トランザクションID | Id Urus Niaga | ID Transaksi |
-| android, iOS | Transaction_Type | Transaction Type | 交易类型 | トランザクションタイプ | Jenis Transaksi | Jenis Transaksi |
+| android, iOS, Desktop | Transaction_Type | Transaction Type | 交易类型 | トランザクションタイプ | Jenis Transaksi | Jenis Transaksi |
 | android, iOS, Desktop | Transactions | Transactions | 转账记录 | もらった・あげたコイン💰 | Urus Niaga | Transaksi |
 | android, iOS, Desktop | Transactions_CANNOT_be_deleted | Transactions CANNOT be deleted | 转账记录不会被删除 | トランザクション履歴を削除することはできません |     |     |
 | android, iOS, Desktop | Transcript | Transcript | 聊天记录 | メッセージ履歴 |     |     |

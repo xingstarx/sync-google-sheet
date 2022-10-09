@@ -619,7 +619,7 @@
   <string name="Transaction" platform="android, iOS">Transaksi</string>
   <string name="transaction_Hash" platform="android, iOS">Hash Transaksi</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">ID Transaksi</string>
-  <string name="Transaction_Type" platform="android, iOS">Jenis Transaksi</string>
+  <string name="Transaction_Type" platform="android, iOS, Desktop">Jenis Transaksi</string>
   <string name="Transactions" platform="android, iOS, Desktop">Transaksi</string>
   <string name="Transfer" platform="android, iOS, Desktop">Transfer</string>
   <string name="Transfer_Amount" platform="android">Jumlah Transfer</string>
