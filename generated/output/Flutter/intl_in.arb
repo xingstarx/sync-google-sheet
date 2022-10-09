@@ -191,6 +191,7 @@
 "thisMessageWasDeleted" : "Pesan ini telah dihapus",
 "time" : "Waktu",
 "today" : "Hari ini",
+"transactionHash" : "Hash Transaksi",
 "transactionId" : "ID Transaksi",
 "transactionType" : "Jenis Transaksi",
 "transactions" : "Transaksi",

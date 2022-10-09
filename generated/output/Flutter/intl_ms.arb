@@ -191,6 +191,7 @@
 "thisMessageWasDeleted" : "Mesej ini telah dipadamkan",
 "time" : "Masa",
 "today" : "Hari ini",
+"transactionHash" : "Urus niaga Cincangan",
 "transactionId" : "Id Urus Niaga",
 "transactionType" : "Jenis Transaksi",
 "transactions" : "Urus Niaga",

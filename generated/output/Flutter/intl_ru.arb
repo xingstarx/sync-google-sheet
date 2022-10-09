@@ -337,6 +337,7 @@
 "time" : "Время",
 "today" : "Сегодня",
 "toggleChatInfo" : "Переключить информацию о чате",
+"transactionHash" : "Хэш транзакции",
 "transactionId" : "ID транзакции",
 "transactionType" : "Тип операции",
 "transactions" : "Транзакции",

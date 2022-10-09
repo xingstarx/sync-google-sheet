@@ -354,6 +354,7 @@
 "time" : "Time",
 "today" : "Today",
 "toggleChatInfo" : "Toggle chat info",
+"transactionHash" : "Transaction Hash",
 "transactionId" : "Transaction Id",
 "transactionType" : "Transaction Type",
 "transactions" : "Transactions",

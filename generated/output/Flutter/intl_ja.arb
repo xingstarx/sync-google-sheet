@@ -334,6 +334,7 @@
 "time" : "日時",
 "today" : "今日",
 "toggleChatInfo" : "チャット情報のオン/オフ",
+"transactionHash" : "トランザクションハッシュ",
 "transactionId" : "トランザクションID",
 "transactionType" : "トランザクションタイプ",
 "transactions" : "もらった・あげたコイン💰",

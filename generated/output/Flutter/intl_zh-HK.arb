@@ -337,6 +337,7 @@
 "time" : "時間",
 "today" : "今天",
 "toggleChatInfo" : "展開/關閉會話信息",
+"transactionHash" : "交易哈希",
 "transactionId" : "交易編號",
 "transactionType" : "交易類型",
 "transactions" : "轉賬記錄",
