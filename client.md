@@ -409,7 +409,7 @@
 | Desktop | delete_the_circle | Do you want to delete %1$s circle? | 确定删除%1$s圈子吗？ | %1$sのグループリストを削除しますか？ |     |     |
 | android, iOS | Delete_withdraw_Address | Delete %1$s Address | 删除 %1$s 地址 | %1$sのアドレス削除 | Padamkan Alamat %1$s | Hapus Alamat %1$s |
 | iOS | Deleted | Deleted | 已删除 | 削除しました |     |     |
-| android, iOS | Deposit | Deposit | 充值  | 入金  | Deposit | Deposit |
+| android, iOS, Desktop | Deposit | Deposit | 充值  | 入金  | Deposit | Deposit |
 | android, iOS | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | 注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 | 注意： 最初の入金は少額でお試しください。Mixinに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。 | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. |
 | iOS | Deposit_at_least | Deposit at least %@ %@ for the first time. | 首次充值至少 %@ %@！ | 最初の入金は%@ %@ 以上に指定してください |     |     |
 | android, iOS | deposit_attention | Please try a small amount for the first deposit. | 首次充值建议小额尝试！ | 注意: 最初は必ず少額で入金テストをしてください。 | Cuba sedikit untuk deposit pertama. | Harap coba jumlah kecil untuk deposit pertama. |
@@ -573,7 +573,7 @@
 | iOS | Failed_to_send_photo | Failed to send photo | 发送图片失败，请稍后重试 | 画像を送信できませんでした |     |     |
 | iOS | Failed_to_send_video | Failed to send video | 发送视频失败，请稍后重试 | 動画を送信できませんでした |     |     |
 | android | Failure | Failure | 错误  | 失敗  | Kegagalan | Gagal |
-| android, iOS | Fee | Fee | 手续费 | 手数料 | Bayaran | Biaya |
+| android, iOS, Desktop | Fee | Fee | 手续费 | 手数料 | Bayaran | Biaya |
 | android, iOS | Feedback | Feedback | 反馈  | フィードバック | Maklum balas |     |
 | android, iOS, Desktop | File | File | 文件  | ファイル | Fail | File |
 | android, Desktop | File_chooser_error | File chooser error | 文件选择错误 | ファイル選択エラー | Ralat pemilih fail | Kesalahan pemilih file |
@@ -992,7 +992,7 @@
 | Desktop | quick_search | Quick search | 快速搜索 | クイック検索 |     |     |
 | Desktop | quit_mixin | Quit Mixin | 退出 Mixin | 終了  |     |     |
 | android | quote | quote | 引用  | 引用  | petikan |     |
-| android, iOS | Raw | Raw | 其他  | その他 | Mentah | Raw |
+| android, iOS, Desktop | Raw | Raw | 其他  | その他 | Mentah | Raw |
 | android | Raw_Transfer | Raw Transfer |     |     |     |     |
 | android, iOS | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
 | android, iOS | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
@@ -1000,7 +1000,7 @@
 | android, iOS | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
 | android, iOS | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
 | android, iOS | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
-| android, iOS | Rebate | Rebate | 退款  | 払い戻し | Rebat | Potongan harga |
+| android, iOS, Desktop | Rebate | Rebate | 退款  | 払い戻し | Rebat | Potongan harga |
 | android, Desktop | Recaptcha_timeout | Recaptcha timeout | 验证超时 | Recaptchaがタイムアウトしました | Tamat masa Recaptcha | Batas waktu recaptcha |
 | android | Receive | Receive | 转入  | 入金  |     |     |
 | android, iOS | RECEIVE | Receive | 转入  | 入金  | Terima | Terima |
@@ -1429,7 +1429,7 @@
 | Desktop | window | Window | 窗口  | Window |     |     |
 | android, iOS | withdraw_Address | Address | 提现地址 | アドレス | Alamat | Alamat |
 | iOS | Withdraw_by_PIN | Withdraw by PIN | 通过 PIN 提现 | PINコードを使って出金する |     |     |
-| android, iOS | Withdrawal | Withdraw | 提现  | 出金  | Pengeluaran | Penarikan |
+| android, iOS, Desktop | Withdrawal | Withdraw | 提现  | 出金  | Pengeluaran | Penarikan |
 | android | withdrawal_addr_biometric_add | Use Biometric to save address | 使用生物识别来完成添加 | 生体認証を使用してアドレスを保存 | Gunakan Biometrik untuk menyimpan alamat | Gunakan Biometrik untuk menyimpan alamat |
 | android | withdrawal_addr_biometric_delete | Use Biometric to delete address | 使用生物识别来完成删除 | 生体認証を使用してアドレスを削除 | Gunakan Biometrik untuk memadam alamat | Gunakan Biometrik untuk menghapus alamat |
 | android | withdrawal_addr_biometric_modify | Use Biometric to modify address | 使用生物识别来完成修改 | 生体認証を使用してアドレスを修正 | Gunakan Biometrik untuk mengubah alamat | Gunakan Biometrik untuk mengubah alamat |

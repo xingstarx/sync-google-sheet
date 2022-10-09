@@ -408,7 +408,7 @@
   <string name="delete_the_circle" platform="Desktop">Do you want to delete %1$s circle?</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">Delete %1$s Address</string>
   <string name="Deleted" platform="iOS">Deleted</string>
-  <string name="Deposit" platform="android, iOS">Deposit</string>
+  <string name="Deposit" platform="android, iOS, Desktop">Deposit</string>
   <string name="deposit_account_attention" platform="android, iOS">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger.</string>
   <string name="Deposit_at_least" platform="iOS">Deposit at least %@ %@ for the first time.</string>
   <string name="deposit_attention" platform="android, iOS">Please try a small amount for the first deposit.</string>
@@ -572,7 +572,7 @@
   <string name="Failed_to_send_photo" platform="iOS">Failed to send photo</string>
   <string name="Failed_to_send_video" platform="iOS">Failed to send video</string>
   <string name="Failure" platform="android">Failure</string>
-  <string name="Fee" platform="android, iOS">Fee</string>
+  <string name="Fee" platform="android, iOS, Desktop">Fee</string>
   <string name="Feedback" platform="android, iOS">Feedback</string>
   <string name="File" platform="android, iOS, Desktop">File</string>
   <string name="File_chooser_error" platform="android, Desktop">File chooser error</string>
@@ -991,7 +991,7 @@
   <string name="quick_search" platform="Desktop">Quick search</string>
   <string name="quit_mixin" platform="Desktop">Quit Mixin</string>
   <string name="quote" platform="android">quote</string>
-  <string name="Raw" platform="android, iOS">Raw</string>
+  <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
   <string name="Read_Assets" platform="android, iOS">Read Assets</string>
   <string name="Read_Bots" platform="android, iOS">Read Bots</string>
@@ -999,7 +999,7 @@
   <string name="Read_Collectibles" platform="android, iOS">Read Collectibles</string>
   <string name="Read_Contacts" platform="android, iOS">Read Contacts</string>
   <string name="Read_Snapshots" platform="android, iOS">Read Snapshots</string>
-  <string name="Rebate" platform="android, iOS">Rebate</string>
+  <string name="Rebate" platform="android, iOS, Desktop">Rebate</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptcha timeout</string>
   <string name="Receive" platform="android">Receive</string>
   <string name="RECEIVE" platform="android, iOS">Receive</string>
@@ -1428,7 +1428,7 @@
   <string name="window" platform="Desktop">Window</string>
   <string name="withdraw_Address" platform="android, iOS">Address</string>
   <string name="Withdraw_by_PIN" platform="iOS">Withdraw by PIN</string>
-  <string name="Withdrawal" platform="android, iOS">Withdraw</string>
+  <string name="Withdrawal" platform="android, iOS, Desktop">Withdraw</string>
   <string name="withdrawal_addr_biometric_add" platform="android">Use Biometric to save address</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Use Biometric to delete address</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">Use Biometric to modify address</string>

@@ -401,7 +401,7 @@
   <string name="delete_the_circle" platform="Desktop">确定删除%1$s圈子吗？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">删除 %1$s 地址</string>
   <string name="Deleted" platform="iOS">已删除</string>
-  <string name="Deposit" platform="android, iOS">充值</string>
+  <string name="Deposit" platform="android, iOS, Desktop">充值</string>
   <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。</string>
   <string name="Deposit_at_least" platform="iOS">首次充值至少 %@ %@！</string>
   <string name="deposit_attention" platform="android, iOS">首次充值建议小额尝试！</string>
@@ -564,7 +564,7 @@
   <string name="Failed_to_send_photo" platform="iOS">发送图片失败，请稍后重试</string>
   <string name="Failed_to_send_video" platform="iOS">发送视频失败，请稍后重试</string>
   <string name="Failure" platform="android">错误</string>
-  <string name="Fee" platform="android, iOS">手续费</string>
+  <string name="Fee" platform="android, iOS, Desktop">手续费</string>
   <string name="Feedback" platform="android, iOS">反馈</string>
   <string name="File" platform="android, iOS, Desktop">文件</string>
   <string name="File_chooser_error" platform="android, Desktop">文件选择错误</string>
@@ -976,14 +976,14 @@
   <string name="quick_search" platform="Desktop">快速搜索</string>
   <string name="quit_mixin" platform="Desktop">退出 Mixin</string>
   <string name="quote" platform="android">引用</string>
-  <string name="Raw" platform="android, iOS">其他</string>
+  <string name="Raw" platform="android, iOS, Desktop">其他</string>
   <string name="Read_Assets" platform="android, iOS">查看资产</string>
   <string name="Read_Bots" platform="android, iOS">查看应用</string>
   <string name="Read_Circles" platform="android, iOS">查看圈子</string>
   <string name="Read_Collectibles" platform="android, iOS">查看 NFT</string>
   <string name="Read_Contacts" platform="android, iOS">查看联系人</string>
   <string name="Read_Snapshots" platform="android, iOS">查看转账记录</string>
-  <string name="Rebate" platform="android, iOS">退款</string>
+  <string name="Rebate" platform="android, iOS, Desktop">退款</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">验证超时</string>
   <string name="Receive" platform="android">转入</string>
   <string name="RECEIVE" platform="android, iOS">转入</string>
@@ -1406,7 +1406,7 @@
   <string name="window" platform="Desktop">窗口</string>
   <string name="withdraw_Address" platform="android, iOS">提现地址</string>
   <string name="Withdraw_by_PIN" platform="iOS">通过 PIN 提现</string>
-  <string name="Withdrawal" platform="android, iOS">提现</string>
+  <string name="Withdrawal" platform="android, iOS, Desktop">提现</string>
   <string name="withdrawal_addr_biometric_add" platform="android">使用生物识别来完成添加</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">使用生物识别来完成删除</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">使用生物识别来完成修改</string>
