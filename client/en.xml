@@ -167,7 +167,7 @@
   <string name="bot_dock_empty" platform="android">Long press and drag the bot to the top</string>
   <string name="bot_empty_tip" platform="android, iOS">Please add your favorite bot first.</string>
   <string name="bot_not_auth_yet" platform="android">No permission has been granted to this bot</string>
-  <string name="Bot_not_found" platform="android, iOS">Bot not found</string>
+  <string name="Bot_not_found" platform="android, iOS, Desktop">Bot not found</string>
   <string name="bot_pin_hint" platform="iOS">You can long press and drag the frequently used bots here to display them on the home</string>
   <string name="BOTS" platform="android, iOS, Desktop">BOTS</string>
   <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
