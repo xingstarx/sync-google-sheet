@@ -608,7 +608,7 @@
 | android | Go_settings | Go settings | 去设置 | 設定へ移動 |     |     |
 | android, iOS | Got_it | Got it | 知道了 | 確認  | Faham | OK  |
 | android | got_it_count_down | Got it (%1$d) | 知道了（%1$d） | 確認 (%1$d) | Faham (%1$d) | OK (%1$d) |
-| android | group_already_in | You already in the group | 你已经在该群组里 | すでにこのグループに参加しています。 | Anda sudah berada dalam kumpulan | Anda sudah bergabung dalam grup |
+| android, Desktop | group_already_in | You already in the group | 你已经在该群组里 | すでにこのグループに参加しています。 | Anda sudah berada dalam kumpulan | Anda sudah bergabung dalam grup |
 | android, iOS | Group_Call | Group Call | 群组语音 | グループ通話 | Panggilan Berkumpulan | Panggilan Grup |
 | android, iOS | group_call_end_with_duration | Group call ended, duration: %1$s | 群组语音结束，时长 %1$s | グループ通話は終了しました。通話時間：%1$s | Panggilan kumpulan berakhir, tempoh: %1$s | Panggilan grup berakhir, durasi: %1$s |
 | iOS | Group_call_has_been_declined | Group call has been declined | 已拒绝通话 | 権限不足のためグループ会話はできません。 |     |     |

@@ -607,7 +607,7 @@
   <string name="Go_settings" platform="android">Go settings</string>
   <string name="Got_it" platform="android, iOS">Got it</string>
   <string name="got_it_count_down" platform="android">Got it (%1$d)</string>
-  <string name="group_already_in" platform="android">You already in the group</string>
+  <string name="group_already_in" platform="android, Desktop">You already in the group</string>
   <string name="Group_Call" platform="android, iOS">Group Call</string>
   <string name="group_call_end_with_duration" platform="android, iOS">Group call ended, duration: %1$s</string>
   <string name="Group_call_has_been_declined" platform="iOS">Group call has been declined</string>
