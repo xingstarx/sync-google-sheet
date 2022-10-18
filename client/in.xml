@@ -293,7 +293,7 @@
   <string name="Go" platform="android">Buka</string>
   <string name="Got_it" platform="android, iOS">OK</string>
   <string name="got_it_count_down" platform="android">OK (%1$d)</string>
-  <string name="group_already_in" platform="android">Anda sudah bergabung dalam grup</string>
+  <string name="group_already_in" platform="android, Desktop">Anda sudah bergabung dalam grup</string>
   <string name="Group_Call" platform="android, iOS">Panggilan Grup</string>
   <string name="group_call_end_with_duration" platform="android, iOS">Panggilan grup berakhir, durasi: %1$s</string>
   <string name="group_cant_send" platform="android, Desktop">Anda tidak dapat mengirim pesan ke grup ini karena Anda bukan lagi peserta.</string>
