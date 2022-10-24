@@ -38,7 +38,7 @@
 | android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
 | android, iOS | Manager_your_apps | Manager your bots | 管理你所有的机器人 |     |     |     |
 | android, iOS | Read_your_assets | Read your assets |     |     |     |     |
-| android, iOS | Read_your_snapshots | Read your snapshots |     |     |     |     |
+| android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
 | android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
 | android, iOS | Read_your_public_profile | Read your public profile |     |     |     |     |
 | android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
