@@ -33,6 +33,14 @@
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
   <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
+  <string name="" platform="android, iOS">Manager your circles</string>
+  <string name="" platform="android, iOS">Read your apps</string>
+  <string name="" platform="android, iOS">Manager your apps</string>
+  <string name="" platform="android, iOS">Read your assets </string>
+  <string name="" platform="android, iOS">Read your snapshots</string>
+  <string name="" platform="android, iOS">Read your NFTs</string>
+  <string name="" platform="android, iOS">Read your public profile</string>
+  <string name="" platform="android, iOS">Read your contacts</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>

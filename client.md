@@ -34,8 +34,14 @@
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts | 通过手机通讯录添加 | スマホの連絡先から追加 |     |     |
 | iOS | Add_by_QR_Code | Add by QR Code | 通过二维码添加 | QRコードから追加 |     |     |
 | android, iOS | Read_your_circles | Read your circles |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
+| android, iOS |     | Manager your circles |     |     |     |     |
+| android, iOS |     | Read your apps |     |     |     |     |
+| android, iOS |     | Manager your apps |     |     |     |     |
+| android, iOS |     | Read your assets  |     |     |     |     |
+| android, iOS |     | Read your snapshots |     |     |     |     |
+| android, iOS |     | Read your NFTs |     |     |     |     |
+| android, iOS |     | Read your public profile |     |     |     |     |
+| android, iOS |     | Read your contacts |     |     |     |     |
 | android, iOS |     |     |     |     |     |     |
 | android, iOS |     |     |     |     |     |     |
 | android, iOS |     |     |     |     |     |     |
