@@ -42,7 +42,7 @@
   <string name="Read_your_public_profile" platform="android, iOS">读取你的个人资料</string>
   <string name="Read_your_contacts" platform="android, iOS">读取你的联系人列表</string>
   <string name="Read_your_phone_number" platform="android, iOS">读取你的手机号</string>
-  <string name="" platform="android, iOS">允许机器人代表你发消息</string>
+  <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人代表你发消息</string>
   <string name="Add_circle" platform="android, iOS">添加圈子</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">添加联系人</string>
   <string name="add_contact_with_plus" platform="Desktop">+ 添加联系人</string>
