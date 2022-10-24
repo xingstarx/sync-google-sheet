@@ -33,15 +33,15 @@
 | iOS | Add_by_ID_or_Phone_number | Add by Mixin ID or Phone number | 通过 Mixin ID 或手机号码添加 | Mixin IDか電話番号で追加 |     |     |
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts | 通过手机通讯录添加 | スマホの連絡先から追加 |     |     |
 | iOS | Add_by_QR_Code | Add by QR Code | 通过二维码添加 | QRコードから追加 |     |     |
-| android, iOS | Read_your_circles | Read your circles |     |     |     |     |
-| android, iOS | Manager_your_circles | Manager your circles |     |     |     |     |
-| android, iOS | Read_your_apps | Read your apps |     |     |     |     |
-| android, iOS | Manager_your_apps | Manager your apps |     |     |     |     |
+| android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
+| android, iOS | Manager_your_circles | Manager your circles | 管理你所有的圈子 |     |     |     |
+| android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
+| android, iOS | Manager_your_apps | Manager your bots | 管理你所有的机器人 |     |     |     |
 | android, iOS | Read_your_assets | Read your assets |     |     |     |     |
 | android, iOS | Read_your_snapshots | Read your snapshots |     |     |     |     |
-| android, iOS | Read_your_NFTs | Read your NFTs |     |     |     |     |
+| android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
 | android, iOS | Read_your_public_profile | Read your public profile |     |     |     |     |
-| android, iOS | Read_your_contacts | Read your contacts |     |     |     |     |
+| android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
 | android, iOS | Read_your_phone_number | Read your phone number |     |     |     |     |
 | android, iOS |     |     |     |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |

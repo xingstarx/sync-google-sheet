@@ -34,8 +34,8 @@
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
   <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
   <string name="Manager_your_circles" platform="android, iOS">Manager your circles</string>
-  <string name="Read_your_apps" platform="android, iOS">Read your apps</string>
-  <string name="Manager_your_apps" platform="android, iOS">Manager your apps</string>
+  <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
+  <string name="Manager_your_apps" platform="android, iOS">Manager your bots</string>
   <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
   <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
   <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
