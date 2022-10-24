@@ -34,15 +34,15 @@
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts | 通过手机通讯录添加 | スマホの連絡先から追加 |     |     |
 | iOS | Add_by_QR_Code | Add by QR Code | 通过二维码添加 | QRコードから追加 |     |     |
 | android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
-| android, iOS | Manager_your_circles | Manager your circles | 管理你所有的圈子 |     |     |     |
+| android, iOS | Manager_your_circles | Manager your circles | 管理你的所有的圈子 |     |     |     |
 | android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
-| android, iOS | Manager_your_apps | Manager your bots | 管理你所有的机器人 |     |     |     |
-| android, iOS | Read_your_assets | Read your assets |     |     |     |     |
+| android, iOS | Manager_your_apps | Manager your bots | 管理你的所有的机器人 |     |     |     |
+| android, iOS | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
 | android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
 | android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
-| android, iOS | Read_your_public_profile | Read your public profile |     |     |     |     |
+| android, iOS | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
 | android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
-| android, iOS | Read_your_phone_number | Read your phone number |     |     |     |     |
+| android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
 | android, iOS |     |     |     |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
