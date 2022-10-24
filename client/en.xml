@@ -42,6 +42,7 @@
   <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
   <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
   <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
+  <string name="" platform="android, iOS">Allow bot to send messages represent of you</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
