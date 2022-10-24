@@ -42,7 +42,7 @@
 | android, iOS |     | Read your NFTs |     |     |     |     |
 | android, iOS |     | Read your public profile |     |     |     |     |
 | android, iOS |     | Read your contacts |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
+| android, iOS |     | Read your phone number |     |     |     |     |
 | android, iOS |     |     |     |     |     |     |
 | android, iOS |     |     |     |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
