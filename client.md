@@ -475,7 +475,7 @@
 | android, iOS | Duplicate_Transfer_Confirmation | Duplicate Transfer Confirmation | 重复转账确认 | 二重送金の確認 | Pengesahan Pemindahan Pendua | Konfirmasi Transfer Ganda |
 | android, iOS | Duplicate_Withdraw_Confirmation | Duplicate Withdraw Confirmation | 重复提现确认 | 二重出金の確認 | Pengesahan Pengunduran Pendua | Konfirmasi Penarikan Ganda |
 | android, Desktop | Duration_is_too_short | Duration is too short | 时间太短 | 期間が短すぎます | Jangka masa terlalu pendek | Durasi terlalu pendek |
-| iOS | Edit | Edit | 编辑  | 編集  |     |     |
+| iOS, Desktop | Edit | Edit | 编辑  | 編集  |     |     |
 | android, iOS | edit_address | Edit %1$s Address | 修改 %1$s 地址 | %1$sアドレスを修正 |     |     |
 | android, iOS | Edit_Biography | Edit Biography | 修改简介 | 自己紹介文を変更 | Edit Biografi | Edit Biografi |
 | android, iOS, Desktop | Edit_Circle_Name | Edit Circle Name | 编辑名称 | グループリスト名を編集 | Edit Nama Lingkaran | Edit Nama Lingkaran |

@@ -474,7 +474,7 @@
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">Duplicate Transfer Confirmation</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">Duplicate Withdraw Confirmation</string>
   <string name="Duration_is_too_short" platform="android, Desktop">Duration is too short</string>
-  <string name="Edit" platform="iOS">Edit</string>
+  <string name="Edit" platform="iOS, Desktop">Edit</string>
   <string name="edit_address" platform="android, iOS">Edit %1$s Address</string>
   <string name="Edit_Biography" platform="android, iOS">Edit Biography</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Edit Circle Name</string>

@@ -466,7 +466,7 @@
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">重复转账确认</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">重复提现确认</string>
   <string name="Duration_is_too_short" platform="android, Desktop">时间太短</string>
-  <string name="Edit" platform="iOS">编辑</string>
+  <string name="Edit" platform="iOS, Desktop">编辑</string>
   <string name="edit_address" platform="android, iOS">修改 %1$s 地址</string>
   <string name="Edit_Biography" platform="android, iOS">修改简介</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">编辑名称</string>
