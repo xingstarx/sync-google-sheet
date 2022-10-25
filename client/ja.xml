@@ -1161,7 +1161,7 @@
   <string name="Show" platform="android, iOS, Desktop">表示</string>
   <string name="Show_asset" platform="iOS">資産を表示する</string>
   <string name="show_avatar" platform="Desktop">アバターの表示</string>
-  <string name="Show_in_chat" platform="android">チャット内で表示</string>
+  <string name="Show_in_chat" platform="android, iOS">チャット内で表示</string>
   <string name="show_mixin" platform="Desktop">Mixinを表示</string>
   <string name="Shown" platform="android">表示ずみ</string>
   <string name="Sign_in" platform="android, iOS, Desktop">ログイン</string>

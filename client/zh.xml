@@ -1196,7 +1196,7 @@
   <string name="Show" platform="android, iOS, Desktop">显示</string>
   <string name="Show_asset" platform="iOS">显示资产</string>
   <string name="show_avatar" platform="Desktop">显示头像</string>
-  <string name="Show_in_chat" platform="android">在聊天中展示</string>
+  <string name="Show_in_chat" platform="android, iOS">在聊天中展示</string>
   <string name="show_mixin" platform="Desktop">显示 Mixin</string>
   <string name="Shown" platform="android">显示</string>
   <string name="Sign_in" platform="android, iOS, Desktop">登录</string>
