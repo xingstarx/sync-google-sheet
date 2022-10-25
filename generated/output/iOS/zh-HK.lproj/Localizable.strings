@@ -65,6 +65,7 @@
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "所有交易記錄";
 "allow" = "允許";
+"allow_bot_send_messages" = "Allow bot to send messages represent of you";
 "allow_manual_report_message" = "允許手動上報消息";
 "amount" = "金額";
 "app_card_shareable_false" = "該卡片已被設置為不允許轉發";
@@ -481,6 +482,8 @@
 "manage_all_your_bots" = "管理你所有的機器人";
 "manage_all_your_circles" = "管理你所有的圈子";
 "manage_bots" = "管理機器人";
+"manager_your_apps" = "Manager your bots";
+"manager_your_circles" = "Manager your circles";
 "media" = "媒體";
 "memo" = "備註";
 "message_e2ee" = "此對話中的消息使用端對端加密。點擊瞭解更多。";
@@ -652,6 +655,14 @@
 "read_collectibles" = "查看 NFT";
 "read_contacts" = "查看聯繫人";
 "read_snapshots" = "查看轉賬記錄";
+"read_your_apps" = "Read your bots";
+"read_your_assets" = "Read your assets";
+"read_your_circles" = "Read your circles";
+"read_your_contacts" = "Read your contacts";
+"read_your_nfts" = "Read your NFTs";
+"read_your_phone_number" = "Read your phone number";
+"read_your_public_profile" = "Read your public profile";
+"read_your_snapshots" = "Read your snapshots";
 "rebate" = "退款";
 "receive" = "轉入";
 "receive_money" = "我的收款碼";

@@ -65,6 +65,7 @@
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "All Transactions";
 "allow" = "Allow";
+"allow_bot_send_messages" = "Allow bot to send messages represent of you";
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Amount";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
@@ -481,6 +482,8 @@
 "manage_all_your_bots" = "mange all your bots";
 "manage_all_your_circles" = "manage all your circles";
 "manage_bots" = "Manage Bots";
+"manager_your_apps" = "Manager your bots";
+"manager_your_circles" = "Manager your circles";
 "media" = "Media";
 "memo" = "Memo";
 "message_e2ee" = "Messages to this conversation are encrypted end-to-end, tap for more info.";
@@ -652,6 +655,14 @@
 "read_collectibles" = "Read Collectibles";
 "read_contacts" = "Read Contacts";
 "read_snapshots" = "Read Snapshots";
+"read_your_apps" = "Read your bots";
+"read_your_assets" = "Read your assets";
+"read_your_circles" = "Read your circles";
+"read_your_contacts" = "Read your contacts";
+"read_your_nfts" = "Read your NFTs";
+"read_your_phone_number" = "Read your phone number";
+"read_your_public_profile" = "Read your public profile";
+"read_your_snapshots" = "Read your snapshots";
 "rebate" = "Rebate";
 "receive" = "Receive";
 "receive_money" = "Receive Money";

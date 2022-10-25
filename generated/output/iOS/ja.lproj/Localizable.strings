@@ -65,6 +65,7 @@
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "もらった・あげたコイン💰";
 "allow" = "許可";
+"allow_bot_send_messages" = "Allow bot to send messages represent of you";
 "allow_manual_report_message" = "メッセージ単位の報告を許可";
 "amount" = "数量";
 "app_card_shareable_false" = "このカードを共有することはできません";
@@ -481,6 +482,8 @@
 "manage_all_your_bots" = "全ミニアプリの管理";
 "manage_all_your_circles" = "グループリストの編集";
 "manage_bots" = "ミニアプリの管理";
+"manager_your_apps" = "Manager your bots";
+"manager_your_circles" = "Manager your circles";
 "media" = "メディア";
 "memo" = "メモ";
 "message_e2ee" = "チャットルームでのメッセージはE2Eで暗号化されています。詳細はタップしてください。";
@@ -652,6 +655,14 @@
 "read_collectibles" = "NFTコレクションの識別";
 "read_contacts" = "連絡先の識別";
 "read_snapshots" = "スナップショットの識別";
+"read_your_apps" = "Read your bots";
+"read_your_assets" = "Read your assets";
+"read_your_circles" = "Read your circles";
+"read_your_contacts" = "Read your contacts";
+"read_your_nfts" = "Read your NFTs";
+"read_your_phone_number" = "Read your phone number";
+"read_your_public_profile" = "Read your public profile";
+"read_your_snapshots" = "Read your snapshots";
 "rebate" = "払い戻し";
 "receive" = "入金";
 "receive_money" = "仮想通貨を受け取る";

@@ -75,6 +75,7 @@
 	<string name="All_Media">全部</string>
 	<string name="All_signer_failure">所有节点失败，也许 PIN 跟上次意外退出时设置的不一致</string>
 	<string name="All_Transactions">所有交易记录</string>
+	<string name="Allow_bot_send_messages">允许机器人代表你发消息</string>
 	<string name="Amount">金额</string>
 	<string name="an_audio">一条语音</string>
 	<string name="ANSWER">接听</string>
@@ -539,6 +540,8 @@
 	<string name="manage_all_your_circles">管理你所有的圈子</string>
 	<string name="Manage_Bots">管理机器人</string>
 	<string name="Manager_Sticker">管理贴纸</string>
+	<string name="Manager_your_apps">管理你的所有的机器人</string>
+	<string name="Manager_your_circles">管理你的所有的圈子</string>
 	<string name="Manufacturer">生产商</string>
 	<string name="Mark_as_read">标记为已读</string>
 	<string name="Media">媒体</string>
@@ -711,6 +714,14 @@
 	<string name="Read_Collectibles">查看 NFT</string>
 	<string name="Read_Contacts">查看联系人</string>
 	<string name="Read_Snapshots">查看转账记录</string>
+	<string name="Read_your_apps">读取你的机器人列表</string>
+	<string name="Read_your_assets">读取你的所有资产</string>
+	<string name="Read_your_circles">读取你的圈子列表</string>
+	<string name="Read_your_contacts">读取你的联系人列表</string>
+	<string name="Read_your_NFTs">读取你的 NFT 列表</string>
+	<string name="Read_your_phone_number">读取你的手机号</string>
+	<string name="Read_your_public_profile">读取你的个人资料</string>
+	<string name="Read_your_snapshots">读取你的转账记录</string>
 	<string name="Rebate">退款</string>
 	<string name="Recaptcha_timeout">验证超时</string>
 	<string name="Receive">转入</string>
