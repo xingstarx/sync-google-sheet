@@ -445,7 +445,7 @@
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">二重送金の確認</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">二重出金の確認</string>
   <string name="Duration_is_too_short" platform="android, Desktop">期間が短すぎます</string>
-  <string name="Edit" platform="iOS">編集</string>
+  <string name="Edit" platform="iOS, Desktop">編集</string>
   <string name="edit_address" platform="android, iOS">%1$sアドレスを修正</string>
   <string name="Edit_Biography" platform="android, iOS">自己紹介文を変更</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">グループリスト名を編集</string>

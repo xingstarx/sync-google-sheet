@@ -33,6 +33,17 @@
 | iOS | Add_by_ID_or_Phone_number | Add by Mixin ID or Phone number | 通过 Mixin ID 或手机号码添加 | Mixin IDか電話番号で追加 |     |     |
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts | 通过手机通讯录添加 | スマホの連絡先から追加 |     |     |
 | iOS | Add_by_QR_Code | Add by QR Code | 通过二维码添加 | QRコードから追加 |     |     |
+| android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
+| android, iOS | Manager_your_circles | Manager your circles | 管理你的所有的圈子 |     |     |     |
+| android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
+| android, iOS | Manager_your_apps | Manager your bots | 管理你的所有的机器人 |     |     |     |
+| android, iOS | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
+| android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
+| android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
+| android, iOS | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
+| android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
+| android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
+| android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you | 允许机器人代表你发消息 |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
 | Desktop | add_contact_with_plus | + Add Contact | + 添加联系人 | 友だちを追加 |     |     |
@@ -464,7 +475,7 @@
 | android, iOS | Duplicate_Transfer_Confirmation | Duplicate Transfer Confirmation | 重复转账确认 | 二重送金の確認 | Pengesahan Pemindahan Pendua | Konfirmasi Transfer Ganda |
 | android, iOS | Duplicate_Withdraw_Confirmation | Duplicate Withdraw Confirmation | 重复提现确认 | 二重出金の確認 | Pengesahan Pengunduran Pendua | Konfirmasi Penarikan Ganda |
 | android, Desktop | Duration_is_too_short | Duration is too short | 时间太短 | 期間が短すぎます | Jangka masa terlalu pendek | Durasi terlalu pendek |
-| iOS | Edit | Edit | 编辑  | 編集  |     |     |
+| iOS, Desktop | Edit | Edit | 编辑  | 編集  |     |     |
 | android, iOS | edit_address | Edit %1$s Address | 修改 %1$s 地址 | %1$sアドレスを修正 |     |     |
 | android, iOS | Edit_Biography | Edit Biography | 修改简介 | 自己紹介文を変更 | Edit Biografi | Edit Biografi |
 | android, iOS, Desktop | Edit_Circle_Name | Edit Circle Name | 编辑名称 | グループリスト名を編集 | Edit Nama Lingkaran | Edit Nama Lingkaran |

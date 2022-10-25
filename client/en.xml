@@ -32,6 +32,17 @@
   <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
+  <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
+  <string name="Manager_your_circles" platform="android, iOS">Manager your circles</string>
+  <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
+  <string name="Manager_your_apps" platform="android, iOS">Manager your bots</string>
+  <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
+  <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
+  <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
+  <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
+  <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
+  <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
+  <string name="Allow_bot_send_messages" platform="android, iOS">Allow bot to send messages represent of you</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
@@ -463,7 +474,7 @@
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">Duplicate Transfer Confirmation</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">Duplicate Withdraw Confirmation</string>
   <string name="Duration_is_too_short" platform="android, Desktop">Duration is too short</string>
-  <string name="Edit" platform="iOS">Edit</string>
+  <string name="Edit" platform="iOS, Desktop">Edit</string>
   <string name="edit_address" platform="android, iOS">Edit %1$s Address</string>
   <string name="Edit_Biography" platform="android, iOS">Edit Biography</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Edit Circle Name</string>
