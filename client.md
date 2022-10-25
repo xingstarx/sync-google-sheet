@@ -1215,7 +1215,7 @@
 | android, iOS, Desktop | Show | Show | 显示  | 表示  | Tunjuk | Tampilkan |
 | iOS | Show_asset | Show asset | 显示资产 | 資産を表示する |     |     |
 | Desktop | show_avatar | Show avatar | 显示头像 | アバターの表示 |     |     |
-| android | Show_in_chat | Show in chat | 在聊天中展示 | チャット内で表示 |     |     |
+| android, iOS | Show_in_chat | Show in chat | 在聊天中展示 | チャット内で表示 |     |     |
 | Desktop | show_mixin | Show Mixin | 显示 Mixin | Mixinを表示 |     |     |
 | android | Shown | Shown | 显示  | 表示ずみ | Tunjukkan | Ditampilkan |
 | android, iOS, Desktop | Sign_in | Sign in | 登录  | ログイン | Log masuk | Masuk |

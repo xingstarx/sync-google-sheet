@@ -1214,7 +1214,7 @@
   <string name="Show" platform="android, iOS, Desktop">Show</string>
   <string name="Show_asset" platform="iOS">Show asset</string>
   <string name="show_avatar" platform="Desktop">Show avatar</string>
-  <string name="Show_in_chat" platform="android">Show in chat</string>
+  <string name="Show_in_chat" platform="android, iOS">Show in chat</string>
   <string name="show_mixin" platform="Desktop">Show Mixin</string>
   <string name="Shown" platform="android">Shown</string>
   <string name="Sign_in" platform="android, iOS, Desktop">Sign in</string>
