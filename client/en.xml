@@ -45,6 +45,16 @@
   <string name="Represent_send_messages " platform="android, iOS">Represent send messages </string>
   <string name="Allow_bot_send_messages" platform="android, iOS">Allow bot to send messages represent of you</string>
   <string name="Allow_bot_access_profile" platform="android, iOS">Allow bot to access your public profile such as name, Mixin ID, avatar, etc.</string>
+  <string name="Allow_bot_access_number" platform="android, iOS">Allow bot to access your phone number.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your contact list and blocked list.</string>
+  <string name="Allow_bot_access" platform="android, iOS">Allow bot to send messages behalf of you.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your asset list and balance.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your transfer records, including deposits and withdrawals.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your NFT list and balance.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your app list.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to add or modify your apps.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your circle list.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
