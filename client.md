@@ -55,6 +55,8 @@
 | android, iOS | Allow_bot_manager_bots | Allow bot to add or modify your bots. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_access_circles | Allow bot to access your circle list. | 允许机器人访问你的圈子列表。 |     |     |     |
 | android, iOS | Allow_bot_manager_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你的所有圈子。 |     |     |     |
+| android, iOS | Request_Authorization | Request Authorization |     |     |     |     |
+| android, iOS |     | You must select at least one permission. |     |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
 | Desktop | add_contact_with_plus | + Add Contact | + 添加联系人 | 友だちを追加 |     |     |
