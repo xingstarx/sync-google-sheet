@@ -699,6 +699,7 @@
 "report_title" = "Mixinの開発者へ会話記録を送信しますか?";
 "represent_messages" = "ミニアプリからの通知";
 "represent_send_messages " = "Represent send messages";
+"request_authorization" = "Request Authorization";
 "resend_code" = "コードを再送する";
 "resend_code_pending" = "%@ 後にコードを再送";
 "reset_link" = "リンクを取り消す";
@@ -737,6 +738,7 @@
 "security" = "セキュリティ";
 "select" = "選択";
 "select_a_country_or_region" = "国と地域を選択";
+"select_at_least_one_permission" = "You must select at least one permission.";
 "select_emergency_contact" = "緊急連絡先を選択";
 "select_more_photos" = "さらに選択";
 "selected_count" = "%@を選択しています。";

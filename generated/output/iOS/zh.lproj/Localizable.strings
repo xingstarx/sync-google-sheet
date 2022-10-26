@@ -699,6 +699,7 @@
 "report_title" = "给开发人员发送聊天日志？";
 "represent_messages" = "代发消息";
 "represent_send_messages " = "代表你发消息";
+"request_authorization" = "请求授权";
 "resend_code" = "重发验证码";
 "resend_code_pending" = "%@ 后重新发送验证码";
 "reset_link" = "重置邀请链接";
@@ -737,6 +738,7 @@
 "security" = "安全";
 "select" = "选择";
 "select_a_country_or_region" = "选择一个国家或地区";
+"select_at_least_one_permission" = "你必须至少选择一个权限。";
 "select_emergency_contact" = "选择紧急联系人";
 "select_more_photos" = "选择更多照片";
 "selected_count" = "选择了 %@ 个消息";
