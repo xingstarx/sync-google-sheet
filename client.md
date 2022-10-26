@@ -57,7 +57,7 @@
 | android, iOS | Allow_bot_manager_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你的所有圈子。 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
 | android, iOS | Select_at_least_one_permission | You must select at least one permission. | 你必须至少选择一个权限。 |     |     |     |
-| android, iOS | Choose_Network | Choose Network |     |     |     |     |
+| android, iOS | Choose_Network | Choose Network | 选择充值网络 |     |     |     |
 | android, iOS |     |     | 请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。 |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
