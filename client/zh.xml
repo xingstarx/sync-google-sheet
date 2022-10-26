@@ -49,11 +49,11 @@
   <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人代表你发消息。</string>
   <string name="Allow_bot_access_asset" platform="android, iOS">允许机器人查看你的资产和余额。</string>
   <string name="Allow_bot_access_snapshots" platform="android, iOS">允许机器人访问你的转账记录，包括充值和提现。</string>
-  <string name="Allow_bot_access_nfts" platform="android, iOS">允许机器人</string>
-  <string name="Allow_bot_access_bots" platform="android, iOS">允许机器人</string>
-  <string name="Allow_bot_manager_bots" platform="android, iOS">允许机器人</string>
-  <string name="Allow_bot_access_circles" platform="android, iOS">允许机器人</string>
-  <string name="Allow_bot_manager_circles" platform="android, iOS">允许机器人</string>
+  <string name="Allow_bot_access_nfts" platform="android, iOS">允许机器人访问你的 NFT 列表和余额。</string>
+  <string name="Allow_bot_access_bots" platform="android, iOS">允许机器人访问你的机器人列表。</string>
+  <string name="Allow_bot_manager_bots" platform="android, iOS">允许机器人添加或修改你的机器人列表。</string>
+  <string name="Allow_bot_access_circles" platform="android, iOS">允许机器人访问你的圈子列表。</string>
+  <string name="Allow_bot_manager_circles" platform="android, iOS">允许机器人管理你所有的机器人。</string>
   <string name="Add_circle" platform="android, iOS">添加圈子</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">添加联系人</string>
   <string name="add_contact_with_plus" platform="Desktop">+ 添加联系人</string>
