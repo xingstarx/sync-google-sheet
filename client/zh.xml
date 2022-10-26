@@ -56,6 +56,8 @@
   <string name="Allow_bot_manager_circles" platform="android, iOS">允许机器人添加、修改和删除你的所有圈子。</string>
   <string name="Request_Authorization" platform="android, iOS">请求授权</string>
   <string name="Select_at_least_one_permission" platform="android, iOS">你必须至少选择一个权限。</string>
+  <string name="Choose_Network" platform="android, iOS">选择充值网络</string>
+  <string name="Choose_network_tip" platform="android, iOS">请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。</string>
   <string name="Add_circle" platform="android, iOS">添加圈子</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">添加联系人</string>
   <string name="add_contact_with_plus" platform="Desktop">+ 添加联系人</string>
