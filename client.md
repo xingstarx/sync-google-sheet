@@ -44,18 +44,17 @@
 | android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
 | android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
 | android, iOS | Represent_send_messages  | Represent send messages  | 代表你发消息 |     |     |     |
-| android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you | 允许机器人代表你发消息 |     |     |     |
 | android, iOS | Allow_bot_access_profile | Allow bot to access your public profile such as name, Mixin ID, avatar, etc. |     |     |     |     |
 | android, iOS | Allow_bot_access_number | Allow bot to access your phone number. |     |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your contact list and blocked list. |     |     |     |     |
-| android, iOS | Allow_bot_access | Allow bot to send messages represent of you. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to access your asset list and balance. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to access your transfer records, including deposits and withdrawals. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to access your NFT list and balance. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to access your app list. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to add or modify your apps. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to access your circle list. |     |     |     |     |
-| android, iOS | Allow_bot_access_contact | Allow bot to add, modify and delete your circles. |     |     |     |     |
+| android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. |     |     |     |     |
+| android, iOS | Allow_bot_access_asset | Allow bot to access your asset list and balance. |     |     |     |     |
+| android, iOS | Allow_bot_access_snapshots | Allow bot to access your transfer records, including deposits and withdrawals. |     |     |     |     |
+| android, iOS | Allow_bot_access_nfts | Allow bot to access your NFT list and balance. |     |     |     |     |
+| android, iOS | Allow_bot_access_bots | Allow bot to access your app list. |     |     |     |     |
+| android, iOS | Allow_bot_manager_bots | Allow bot to add or modify your apps. |     |     |     |     |
+| android, iOS | Allow_bot_access_circles | Allow bot to access your circle list. |     |     |     |     |
+| android, iOS | Allow_bot_manager_circles | Allow bot to add, modify and delete your circles. |     |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
 | Desktop | add_contact_with_plus | + Add Contact | + 添加联系人 | 友だちを追加 |     |     |
