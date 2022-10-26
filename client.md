@@ -58,7 +58,7 @@
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
 | android, iOS | Select_at_least_one_permission | You must select at least one permission. | 你必须至少选择一个权限。 |     |     |     |
 | android, iOS | Choose_Network | Choose Network | 选择充值网络 |     |     |     |
-| android, iOS | Choose_network_tip |     | 请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。 |     |     |     |
+| android, iOS | Choose_network_tip | Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited. | 请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。 |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
 | Desktop | add_contact_with_plus | + Add Contact | + 添加联系人 | 友だちを追加 |     |     |
