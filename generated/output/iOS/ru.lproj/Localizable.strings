@@ -65,7 +65,17 @@
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "Все транзакции";
 "allow" = "Разрешить";
-"allow_bot_send_messages" = "Allow bot to send messages represent of you";
+"allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
+"allow_bot_access_bots" = "Allow bot to access your bot list.";
+"allow_bot_access_circles" = "Allow bot to access your circle list.";
+"allow_bot_access_contact" = "Allow bot to access your contact list and blocked list.";
+"allow_bot_access_nfts" = "Allow bot to access your NFT list and balance.";
+"allow_bot_access_number" = "Allow bot to access your phone number.";
+"allow_bot_access_profile" = "Allow bot to access your public profile such as name, Mixin ID, avatar, etc.";
+"allow_bot_access_snapshots" = "Allow bot to access your transfer records, including deposits and withdrawals.";
+"allow_bot_manager_bots" = "Allow bot to add or modify your bots.";
+"allow_bot_manager_circles" = "Allow bot to add, modify and delete your circles.";
+"allow_bot_send_messages" = "Allow bot to send messages represent of you.";
 "allow_manual_report_message" = "Разрешить сообщение ручного отчета";
 "amount" = "Количество";
 "app_card_shareable_false" = "Карта была настроена так, чтобы не разрешать совместное использование";
@@ -688,6 +698,7 @@
 "report_and_block" = "Пожаловаться и заблокировать?";
 "report_title" = "Отправить журнал бесед разработчикам?";
 "represent_messages" = "Представить сообщения";
+"represent_send_messages " = "Represent send messages";
 "resend_code" = "Отправить код еще раз";
 "resend_code_pending" = "Повторно отправить код в %@";
 "reset_link" = "Сбросить ссылку";

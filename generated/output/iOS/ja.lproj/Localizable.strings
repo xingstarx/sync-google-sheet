@@ -65,7 +65,17 @@
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "もらった・あげたコイン💰";
 "allow" = "許可";
-"allow_bot_send_messages" = "Allow bot to send messages represent of you";
+"allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
+"allow_bot_access_bots" = "Allow bot to access your bot list.";
+"allow_bot_access_circles" = "Allow bot to access your circle list.";
+"allow_bot_access_contact" = "Allow bot to access your contact list and blocked list.";
+"allow_bot_access_nfts" = "Allow bot to access your NFT list and balance.";
+"allow_bot_access_number" = "Allow bot to access your phone number.";
+"allow_bot_access_profile" = "Allow bot to access your public profile such as name, Mixin ID, avatar, etc.";
+"allow_bot_access_snapshots" = "Allow bot to access your transfer records, including deposits and withdrawals.";
+"allow_bot_manager_bots" = "Allow bot to add or modify your bots.";
+"allow_bot_manager_circles" = "Allow bot to add, modify and delete your circles.";
+"allow_bot_send_messages" = "Allow bot to send messages represent of you.";
 "allow_manual_report_message" = "メッセージ単位の報告を許可";
 "amount" = "数量";
 "app_card_shareable_false" = "このカードを共有することはできません";
@@ -688,6 +698,7 @@
 "report_and_block" = "報告してブロックしますか?";
 "report_title" = "Mixinの開発者へ会話記録を送信しますか?";
 "represent_messages" = "ミニアプリからの通知";
+"represent_send_messages " = "Represent send messages";
 "resend_code" = "コードを再送する";
 "resend_code_pending" = "%@ 後にコードを再送";
 "reset_link" = "リンクを取り消す";
