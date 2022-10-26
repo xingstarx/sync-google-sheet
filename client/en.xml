@@ -54,6 +54,8 @@
   <string name="Allow_bot_manager_bots" platform="android, iOS">Allow bot to add or modify your bots.</string>
   <string name="Allow_bot_access_circles" platform="android, iOS">Allow bot to access your circle list.</string>
   <string name="Allow_bot_manager_circles" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
+  <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>
+  <string name="Select_at_least_one_permission" platform="android, iOS">You must select at least one permission.</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
