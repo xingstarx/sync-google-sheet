@@ -182,6 +182,8 @@
 "chat_restore_subtitle" = "You will not be able to restore later if you decline to restore now. Media files will continue restore in background after messages is restored.";
 "chat_waiting" = "Menunggu %1$@ untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$@.";
 "chats" = "SEMBANG";
+"choose_network" = "Choose Network";
+"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.";
 "choose_photo" = "Choose Photo";
 "circle_info" = "Sekiranya anda ingin menapis perbualan, sila
 \ntetapkan lingkaran untuk perbualan terlebih dahulu.";
