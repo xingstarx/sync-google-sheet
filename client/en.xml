@@ -42,7 +42,18 @@
   <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
   <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
   <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
-  <string name="Allow_bot_send_messages" platform="android, iOS">Allow bot to send messages represent of you</string>
+  <string name="Represent_send_messages " platform="android, iOS">Represent send messages</string>
+  <string name="Allow_bot_access_profile" platform="android, iOS">Allow bot to access your public profile such as name, Mixin ID, avatar, etc.</string>
+  <string name="Allow_bot_access_number" platform="android, iOS">Allow bot to access your phone number.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your contact list and blocked list.</string>
+  <string name="Allow_bot_send_messages" platform="android, iOS">Allow bot to send messages represent of you.</string>
+  <string name="Allow_bot_access_asset" platform="android, iOS">Allow bot to access your asset list and balance.</string>
+  <string name="Allow_bot_access_snapshots" platform="android, iOS">Allow bot to access your transfer records, including deposits and withdrawals.</string>
+  <string name="Allow_bot_access_nfts" platform="android, iOS">Allow bot to access your NFT list and balance.</string>
+  <string name="Allow_bot_access_bots" platform="android, iOS">Allow bot to access your bot list.</string>
+  <string name="Allow_bot_manager_bots" platform="android, iOS">Allow bot to add or modify your bots.</string>
+  <string name="Allow_bot_access_circles" platform="android, iOS">Allow bot to access your circle list.</string>
+  <string name="Allow_bot_manager_circles" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
