@@ -47,7 +47,7 @@
   <string name="Allow_bot_access_profile" platform="android, iOS">Allow bot to access your public profile such as name, Mixin ID, avatar, etc.</string>
   <string name="Allow_bot_access_number" platform="android, iOS">Allow bot to access your phone number.</string>
   <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your contact list and blocked list.</string>
-  <string name="Allow_bot_access" platform="android, iOS">Allow bot to send messages behalf of you.</string>
+  <string name="Allow_bot_access" platform="android, iOS">Allow bot to send messages represent of you.</string>
   <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your asset list and balance.</string>
   <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your transfer records, including deposits and withdrawals.</string>
   <string name="Allow_bot_access_contact" platform="android, iOS">Allow bot to access your NFT list and balance.</string>

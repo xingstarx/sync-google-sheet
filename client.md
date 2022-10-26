@@ -48,7 +48,7 @@
 | android, iOS | Allow_bot_access_profile | Allow bot to access your public profile such as name, Mixin ID, avatar, etc. |     |     |     |     |
 | android, iOS | Allow_bot_access_number | Allow bot to access your phone number. |     |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your contact list and blocked list. |     |     |     |     |
-| android, iOS | Allow_bot_access | Allow bot to send messages behalf of you. |     |     |     |     |
+| android, iOS | Allow_bot_access | Allow bot to send messages represent of you. |     |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your asset list and balance. |     |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your transfer records, including deposits and withdrawals. |     |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your NFT list and balance. |     |     |     |     |
