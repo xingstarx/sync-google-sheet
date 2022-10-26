@@ -50,8 +50,8 @@
   <string name="Allow_bot_access_asset" platform="android, iOS">Allow bot to access your asset list and balance.</string>
   <string name="Allow_bot_access_snapshots" platform="android, iOS">Allow bot to access your transfer records, including deposits and withdrawals.</string>
   <string name="Allow_bot_access_nfts" platform="android, iOS">Allow bot to access your NFT list and balance.</string>
-  <string name="Allow_bot_access_bots" platform="android, iOS">Allow bot to access your app list.</string>
-  <string name="Allow_bot_manager_bots" platform="android, iOS">Allow bot to add or modify your apps.</string>
+  <string name="Allow_bot_access_bots" platform="android, iOS">Allow bot to access your bot list.</string>
+  <string name="Allow_bot_manager_bots" platform="android, iOS">Allow bot to add or modify your bots.</string>
   <string name="Allow_bot_access_circles" platform="android, iOS">Allow bot to access your circle list.</string>
   <string name="Allow_bot_manager_circles" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>

@@ -51,8 +51,8 @@
 | android, iOS | Allow_bot_access_asset | Allow bot to access your asset list and balance. | 允许机器人查看你的所有资产和余额。 |     |     |     |
 | android, iOS | Allow_bot_access_snapshots | Allow bot to access your transfer records, including deposits and withdrawals. | 允许机器人访问你的转账记录，包括充值和提现。 |     |     |     |
 | android, iOS | Allow_bot_access_nfts | Allow bot to access your NFT list and balance. | 允许机器人访问你的 NFT 列表和余额。 |     |     |     |
-| android, iOS | Allow_bot_access_bots | Allow bot to access your app list. | 允许机器人访问你的机器人列表。 |     |     |     |
-| android, iOS | Allow_bot_manager_bots | Allow bot to add or modify your apps. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
+| android, iOS | Allow_bot_access_bots | Allow bot to access your bot list. | 允许机器人访问你的机器人列表。 |     |     |     |
+| android, iOS | Allow_bot_manager_bots | Allow bot to add or modify your bots. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_access_circles | Allow bot to access your circle list. | 允许机器人访问你的圈子列表。 |     |     |     |
 | android, iOS | Allow_bot_manager_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你的所有圈子。 |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
