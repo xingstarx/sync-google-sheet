@@ -46,7 +46,7 @@
   <string name="Allow_bot_access_profile" platform="android, iOS">允许机器人访问你的个人资料，如：名字、Mixin ID、头像，等。</string>
   <string name="Allow_bot_access_number" platform="android, iOS">允许机器人访问你的手机号。</string>
   <string name="Allow_bot_access_contact" platform="android, iOS">允许机器人访问你的联系人列表和屏蔽列表。</string>
-  <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人</string>
+  <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人代表你发消息</string>
   <string name="Allow_bot_access_asset" platform="android, iOS">允许机器人</string>
   <string name="Allow_bot_access_snapshots" platform="android, iOS">允许机器人</string>
   <string name="Allow_bot_access_nfts" platform="android, iOS">允许机器人</string>

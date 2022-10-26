@@ -47,7 +47,7 @@
 | android, iOS | Allow_bot_access_profile | Allow bot to access your public profile such as name, Mixin ID, avatar, etc. | 允许机器人访问你的个人资料，如：名字、Mixin ID、头像，等。 |     |     |     |
 | android, iOS | Allow_bot_access_number | Allow bot to access your phone number. | 允许机器人访问你的手机号。 |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your contact list and blocked list. | 允许机器人访问你的联系人列表和屏蔽列表。 |     |     |     |
-| android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人 |     |     |     |
+| android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人代表你发消息 |     |     |     |
 | android, iOS | Allow_bot_access_asset | Allow bot to access your asset list and balance. | 允许机器人 |     |     |     |
 | android, iOS | Allow_bot_access_snapshots | Allow bot to access your transfer records, including deposits and withdrawals. | 允许机器人 |     |     |     |
 | android, iOS | Allow_bot_access_nfts | Allow bot to access your NFT list and balance. | 允许机器人 |     |     |     |
