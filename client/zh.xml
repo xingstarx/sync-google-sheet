@@ -48,7 +48,7 @@
   <string name="Allow_bot_access_contact" platform="android, iOS">允许机器人访问你的联系人列表和屏蔽列表。</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人代表你发消息。</string>
   <string name="Allow_bot_access_asset" platform="android, iOS">允许机器人查看你的资产和余额。</string>
-  <string name="Allow_bot_access_snapshots" platform="android, iOS">允许机器人</string>
+  <string name="Allow_bot_access_snapshots" platform="android, iOS">允许机器人访问你的转账记录，包括充值和提现。</string>
   <string name="Allow_bot_access_nfts" platform="android, iOS">允许机器人</string>
   <string name="Allow_bot_access_bots" platform="android, iOS">允许机器人</string>
   <string name="Allow_bot_manager_bots" platform="android, iOS">允许机器人</string>

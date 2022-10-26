@@ -49,7 +49,7 @@
 | android, iOS | Allow_bot_access_contact | Allow bot to access your contact list and blocked list. | 允许机器人访问你的联系人列表和屏蔽列表。 |     |     |     |
 | android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人代表你发消息。 |     |     |     |
 | android, iOS | Allow_bot_access_asset | Allow bot to access your asset list and balance. | 允许机器人查看你的资产和余额。 |     |     |     |
-| android, iOS | Allow_bot_access_snapshots | Allow bot to access your transfer records, including deposits and withdrawals. | 允许机器人 |     |     |     |
+| android, iOS | Allow_bot_access_snapshots | Allow bot to access your transfer records, including deposits and withdrawals. | 允许机器人访问你的转账记录，包括充值和提现。 |     |     |     |
 | android, iOS | Allow_bot_access_nfts | Allow bot to access your NFT list and balance. | 允许机器人 |     |     |     |
 | android, iOS | Allow_bot_access_bots | Allow bot to access your app list. | 允许机器人 |     |     |     |
 | android, iOS | Allow_bot_manager_bots | Allow bot to add or modify your apps. | 允许机器人 |     |     |     |
