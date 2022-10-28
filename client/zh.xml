@@ -1468,4 +1468,5 @@
   <string name="zoom" platform="Desktop">缩放</string>
   <string name="search_unread" platform="Desktop">搜索未读会话</string>
   <string name="clear_filter" platform="Desktop">清除筛选条件</string>
+  <string name="error_upload_attachment_failed" platform="Desktop">消息附件上传失败</string>
 </resources>
