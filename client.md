@@ -920,7 +920,7 @@
 | iOS | Open_in_gaode_maps | Open in 高德地图 | 在高德地图中打开 | Gaodeマップで開く |     |     |
 | iOS | Open_in_google_maps | Open in Google Maps | 在 Google Maps 中打开 | Googleマップで開く |     |     |
 | iOS | Open_in_maps | Open in Maps | 在地图中打开 | マップで開く |     |     |
-| android, iOS | Open_Link | Open Link: %1$s | 打开链接：%1$s | リンクを開く: %1$s |     |     |
+| android, iOS, Desktop | Open_Link | Open Link: %1$s | 打开链接：%1$s | リンクを開く: %1$s |     |     |
 | Desktop | open_log_directory | open log directory | 打开日志文件夹 | ログディレクトリを開く |     |     |
 | iOS | Open_url | Open URL | 打开链接 | URLを開く |     |     |
 | iOS | operation_failed | The operation failed, please try again later | 操作失败，请稍后重试 | 操作が失敗しました。しばらくしてからもう一度お試しください |     |     |

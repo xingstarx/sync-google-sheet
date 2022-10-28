@@ -919,7 +919,7 @@
   <string name="Open_in_gaode_maps" platform="iOS">Open in 高德地图</string>
   <string name="Open_in_google_maps" platform="iOS">Open in Google Maps</string>
   <string name="Open_in_maps" platform="iOS">Open in Maps</string>
-  <string name="Open_Link" platform="android, iOS">Open Link: %1$s</string>
+  <string name="Open_Link" platform="android, iOS, Desktop">Open Link: %1$s</string>
   <string name="open_log_directory" platform="Desktop">open log directory</string>
   <string name="Open_url" platform="iOS">Open URL</string>
   <string name="operation_failed" platform="iOS">The operation failed, please try again later</string>

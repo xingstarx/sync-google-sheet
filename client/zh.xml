@@ -904,7 +904,7 @@
   <string name="Open_in_gaode_maps" platform="iOS">在高德地图中打开</string>
   <string name="Open_in_google_maps" platform="iOS">在 Google Maps 中打开</string>
   <string name="Open_in_maps" platform="iOS">在地图中打开</string>
-  <string name="Open_Link" platform="android, iOS">打开链接：%1$s</string>
+  <string name="Open_Link" platform="android, iOS, Desktop">打开链接：%1$s</string>
   <string name="open_log_directory" platform="Desktop">打开日志文件夹</string>
   <string name="Open_url" platform="iOS">打开链接</string>
   <string name="operation_failed" platform="iOS">操作失败，请稍后重试</string>
