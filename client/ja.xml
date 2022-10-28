@@ -861,7 +861,7 @@
   <string name="Open_in_gaode_maps" platform="iOS">Gaodeマップで開く</string>
   <string name="Open_in_google_maps" platform="iOS">Googleマップで開く</string>
   <string name="Open_in_maps" platform="iOS">マップで開く</string>
-  <string name="Open_Link" platform="android, iOS">リンクを開く: %1$s</string>
+  <string name="Open_Link" platform="android, iOS, Desktop">リンクを開く: %1$s</string>
   <string name="open_log_directory" platform="Desktop">ログディレクトリを開く</string>
   <string name="Open_url" platform="iOS">URLを開く</string>
   <string name="operation_failed" platform="iOS">操作が失敗しました。しばらくしてからもう一度お試しください</string>
