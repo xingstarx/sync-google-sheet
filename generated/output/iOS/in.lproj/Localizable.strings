@@ -183,7 +183,7 @@
 "chat_waiting" = "Menunggu %1$@ untuk online dan membuat sesi terenkripsi. %2$@.";
 "chats" = "OBROLAN";
 "choose_network" = "Choose Network";
-"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.";
+"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Choose Photo";
 "circle_info" = "Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu.";
 "circle_no_conversation_hint" = "You can add contacts or groups to the current circle";
@@ -494,8 +494,8 @@
 "manage_all_your_bots" = "mengelola semua aplikasi Anda";
 "manage_all_your_circles" = "manage all your circles";
 "manage_bots" = "Mengelola Aplikasi";
-"manager_your_apps" = "Manager your bots";
-"manager_your_circles" = "Manager your circles";
+"manage_your_apps" = "Manage your bots";
+"manage_your_circles" = "Manage your circles";
 "media" = "Media";
 "memo" = "Memo";
 "message_e2ee" = "Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya.";

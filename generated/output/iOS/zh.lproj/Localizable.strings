@@ -494,8 +494,8 @@
 "manage_all_your_bots" = "管理你所有的机器人";
 "manage_all_your_circles" = "管理你所有的圈子";
 "manage_bots" = "管理机器人";
-"manager_your_apps" = "管理你的所有的机器人";
-"manager_your_circles" = "管理你的所有的圈子";
+"manage_your_apps" = "管理你的所有的机器人";
+"manage_your_circles" = "管理你的所有的圈子";
 "media" = "媒体";
 "memo" = "备注";
 "message_e2ee" = "此对话中的消息使用端对端加密。点击了解更多。";

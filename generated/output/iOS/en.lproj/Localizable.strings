@@ -183,7 +183,7 @@
 "chat_waiting" = "Waiting for %1$@ to get online and establish an encrypted session. %2$@.";
 "chats" = "CHATS";
 "choose_network" = "Choose Network";
-"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.";
+"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Choose Photo";
 "circle_info" = "Create circles for different groups of chats and quickly switch between them";
 "circle_no_conversation_hint" = "You can add contacts or groups to the current circle";
@@ -494,8 +494,8 @@
 "manage_all_your_bots" = "mange all your bots";
 "manage_all_your_circles" = "manage all your circles";
 "manage_bots" = "Manage Bots";
-"manager_your_apps" = "Manager your bots";
-"manager_your_circles" = "Manager your circles";
+"manage_your_apps" = "Manage your bots";
+"manage_your_circles" = "Manage your circles";
 "media" = "Media";
 "memo" = "Memo";
 "message_e2ee" = "Messages to this conversation are encrypted end-to-end, tap for more info.";

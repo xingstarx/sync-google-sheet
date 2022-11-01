@@ -183,7 +183,7 @@
 "chat_waiting" = "Ожидание, пока %1$@ подключится к сети и установит зашифрованный сеанс. %2$@.";
 "chats" = "ЧАТЫ";
 "choose_network" = "Choose Network";
-"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.";
+"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Выбрать фото";
 "circle_info" = "Создавайте круги для разных групп чатов и быстро переключайтесь между ними";
 "circle_no_conversation_hint" = "Вы можете добавлять контакты или группы в текущий круг";
@@ -494,8 +494,8 @@
 "manage_all_your_bots" = "управлять всеми своими ботами";
 "manage_all_your_circles" = "управлять всеми своими кругами";
 "manage_bots" = "Управление ботами";
-"manager_your_apps" = "Manager your bots";
-"manager_your_circles" = "Manager your circles";
+"manage_your_apps" = "Manage your bots";
+"manage_your_circles" = "Manage your circles";
 "media" = "Медиа";
 "memo" = "Памятка";
 "message_e2ee" = "Сообщения в этом чате полностью зашифрованы. Нажмите, чтобы узнать больше.";

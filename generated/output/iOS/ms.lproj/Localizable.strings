@@ -183,7 +183,7 @@
 "chat_waiting" = "Menunggu %1$@ untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$@.";
 "chats" = "SEMBANG";
 "choose_network" = "Choose Network";
-"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.";
+"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Choose Photo";
 "circle_info" = "Sekiranya anda ingin menapis perbualan, sila
 \ntetapkan lingkaran untuk perbualan terlebih dahulu.";
@@ -495,8 +495,8 @@
 "manage_all_your_bots" = "urus semua aplikasi anda";
 "manage_all_your_circles" = "urus semua lingkaran anda";
 "manage_bots" = "Urus Aplikasi";
-"manager_your_apps" = "Manager your bots";
-"manager_your_circles" = "Manager your circles";
+"manage_your_apps" = "Manage your bots";
+"manage_your_circles" = "Manage your circles";
 "media" = "Media";
 "memo" = "Memo";
 "message_e2ee" = "Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut.";

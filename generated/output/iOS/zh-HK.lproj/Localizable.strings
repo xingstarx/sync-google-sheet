@@ -183,7 +183,7 @@
 "chat_waiting" = "等待%1$@上線後建立加密會話。%2$@。";
 "chats" = "會話";
 "choose_network" = "Choose Network";
-"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.";
+"choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "選擇照片";
 "circle_info" = "新建一個圈子可以過濾會話";
 "circle_no_conversation_hint" = "您可以添加聯繫人或者羣組到當前圈子";
@@ -494,8 +494,8 @@
 "manage_all_your_bots" = "管理你所有的機器人";
 "manage_all_your_circles" = "管理你所有的圈子";
 "manage_bots" = "管理機器人";
-"manager_your_apps" = "Manager your bots";
-"manager_your_circles" = "Manager your circles";
+"manage_your_apps" = "Manage your bots";
+"manage_your_circles" = "Manage your circles";
 "media" = "媒體";
 "memo" = "備註";
 "message_e2ee" = "此對話中的消息使用端對端加密。點擊瞭解更多。";
