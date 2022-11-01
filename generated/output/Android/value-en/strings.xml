@@ -83,8 +83,8 @@
 	<string name="Allow_bot_access_number">Allow bot to access your phone number.</string>
 	<string name="Allow_bot_access_profile">Allow bot to access your public profile such as name, Mixin ID, avatar, etc.</string>
 	<string name="Allow_bot_access_snapshots">Allow bot to access your transfer records, including deposits and withdrawals.</string>
-	<string name="Allow_bot_manager_bots">Allow bot to add or modify your bots.</string>
-	<string name="Allow_bot_manager_circles">Allow bot to add, modify and delete your circles.</string>
+	<string name="Allow_bot_manage_bots">Allow bot to add or modify your bots.</string>
+	<string name="Allow_bot_manage_circles">Allow bot to add, modify and delete your circles.</string>
 	<string name="Allow_bot_send_messages">Allow bot to send messages represent of you.</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
