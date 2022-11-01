@@ -797,7 +797,7 @@
   <string name="multisig_receivers_threshold" platform="android">交易接收人（%1$s）</string>
   <string name="multisig_state_signed" platform="android, iOS">您已经对这笔交易进行了签名，您无法再次签名。</string>
   <string name="multisig_state_unlocked" platform="android, iOS">这笔交易已经被其他人撤销了，您无法再次撤销。</string>
-  <string name="Multisig_Transaction" platform="android, iOS">多重签名交易</string>
+  <string name="Multisig_Transaction" platform="android, iOS, Desktop">多重签名交易</string>
   <string name="Music" platform="iOS">音乐</string>
   <string name="Mute" platform="android, iOS">静音</string>
   <string name="mute" platform="Desktop">静音</string>

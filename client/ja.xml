@@ -759,7 +759,7 @@
   <string name="multisig_receivers_threshold" platform="android">受取人(%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません</string>
   <string name="multisig_state_unlocked" platform="android, iOS">このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。</string>
-  <string name="Multisig_Transaction" platform="android, iOS">マルチシグトランザクション</string>
+  <string name="Multisig_Transaction" platform="android, iOS, Desktop">マルチシグトランザクション</string>
   <string name="Music" platform="iOS">音楽</string>
   <string name="Mute" platform="android, iOS">ミュート</string>
   <string name="Mute_until" platform="android, iOS">%1$sまで</string>

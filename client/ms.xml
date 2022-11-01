@@ -410,7 +410,7 @@
   <string name="multisig_receivers_threshold" platform="android">Penerima (%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua.</string>
   <string name="multisig_state_unlocked" platform="android, iOS">Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.</string>
-  <string name="Multisig_Transaction" platform="android, iOS">Transaksi Multisig</string>
+  <string name="Multisig_Transaction" platform="android, iOS, Desktop">Transaksi Multisig</string>
   <string name="Mute" platform="android, iOS">Senyap</string>
   <string name="Mute_until" platform="android, iOS">Sehingga %1$s</string>
   <string name="My_Contacts" platform="android, iOS">Kenalan Saya</string>
