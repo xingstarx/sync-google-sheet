@@ -224,6 +224,7 @@
 "minimize" : "Свести к минимуму",
 "mixinMessengerDesktop" : "Рабочий стол Mixin Messenger",
 "more" : "Больше",
+"multisigTransaction" : "Мультиподписная транзакция",
 "mute" : "Беззвучный",
 "myMixinId" : "Мой Mixin ID: {arg0}",
 "myStickers" : "Мои стикеры",

@@ -130,6 +130,7 @@
 "messageNotSupport" : "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru.",
 "mixinMessengerDesktop" : "Mixin Messenger Desktop",
 "more" : "Lebih banyak",
+"multisigTransaction" : "Transaksi Multisig",
 "myMixinId" : "ID Mixin saya: {arg0}",
 "na" : "N/A",
 "name" : "Nama",
