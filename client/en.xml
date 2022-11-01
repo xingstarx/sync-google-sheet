@@ -33,9 +33,9 @@
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
   <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
-  <string name="Manager_your_circles" platform="android, iOS">Manager your circles</string>
+  <string name="Manage_your_circles" platform="android, iOS">Manage your circles</string>
   <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
-  <string name="Manager_your_apps" platform="android, iOS">Manager your bots</string>
+  <string name="Manage_your_apps" platform="android, iOS">Manage your bots</string>
   <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
   <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
   <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
@@ -57,7 +57,7 @@
   <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>
   <string name="Select_at_least_one_permission" platform="android, iOS">You must select at least one permission.</string>
   <string name="Choose_Network" platform="android, iOS">Choose Network</string>
-  <string name="Choose_network_tip" platform="android, iOS">Please ensure the network you choose to deposit that Mixin supports. Otherwise, your deposit will not be credited.</string>
+  <string name="Choose_network_tip" platform="android, iOS">Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
