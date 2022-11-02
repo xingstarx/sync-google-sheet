@@ -1062,7 +1062,7 @@
   <string name="Retry" platform="android,iOS">重试</string>
   <string name="Retry_upload_failed" platform="android, Desktop">重新上传失败。</string>
   <string name="Revoke_access" platform="android, iOS">取消授权</string>
-  <string name="Revoke_multisig_transaction" platform="android, iOS">撤销多重签名交易</string>
+  <string name="Revoke_multisig_transaction" platform="android, iOS, Desktop">撤销多重签名交易</string>
   <string name="Room_is_full" platform="iOS">房间已满</string>
   <string name="Saturday" platform="android">星期六</string>
   <string name="Save" platform="android, iOS, Desktop">保存</string>

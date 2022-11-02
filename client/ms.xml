@@ -551,7 +551,7 @@
   <string name="Retry" platform="android,iOS">CUBA SEMULA</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Gagal memuat naik semula.</string>
   <string name="Revoke_access" platform="android, iOS">Batal akses</string>
-  <string name="Revoke_multisig_transaction" platform="android, iOS">Batalkan Urus Niaga Multisig</string>
+  <string name="Revoke_multisig_transaction" platform="android, iOS, Desktop">Batalkan Urus Niaga Multisig</string>
   <string name="Saturday" platform="android">Sabtu</string>
   <string name="Save" platform="android, iOS, Desktop">Jimat</string>
   <string name="Save_failure" platform="android">Simpan kegagalan</string>

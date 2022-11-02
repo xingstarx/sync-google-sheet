@@ -1015,7 +1015,7 @@
   <string name="Retry" platform="android,iOS">リトライ</string>
   <string name="Retry_upload_failed" platform="android, Desktop">アップロードの再試行に失敗しました。</string>
   <string name="Revoke_access" platform="android, iOS">アクセスを取り消す</string>
-  <string name="Revoke_multisig_transaction" platform="android, iOS">マルチシグトランザクションを取り消す</string>
+  <string name="Revoke_multisig_transaction" platform="android, iOS, Desktop">マルチシグトランザクションを取り消す</string>
   <string name="Room_is_full" platform="iOS">ルームが満員です</string>
   <string name="Saturday" platform="android">土曜日</string>
   <string name="Save" platform="android, iOS, Desktop">保存</string>
