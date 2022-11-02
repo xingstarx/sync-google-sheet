@@ -304,6 +304,7 @@
 "reset" : "重置",
 "resetLink" : "重置邀请链接",
 "retryUploadFailed" : "重新上传失败。",
+"revokeMultisigTransaction" : "撤销多重签名交易",
 "save" : "保存",
 "saveAs" : "另存为",
 "saveToCameraRoll" : "保存到相册",

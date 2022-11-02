@@ -305,6 +305,7 @@
 "reset" : "Reset",
 "resetLink" : "Reset Link",
 "retryUploadFailed" : "Retry upload failed.",
+"revokeMultisigTransaction" : "Revoke Multisig Transaction",
 "save" : "Save",
 "saveAs" : "Save as",
 "saveToCameraRoll" : "Save to Camera Roll",

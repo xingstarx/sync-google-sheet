@@ -290,6 +290,7 @@
 "reset" : "Перезагрузить",
 "resetLink" : "Сбросить ссылку",
 "retryUploadFailed" : "Повторная загрузка не удалась.",
+"revokeMultisigTransaction" : "Отозвать транзакцию с мультиподписью",
 "save" : "Сохранить",
 "saveAs" : "Сохранить как",
 "saveToCameraRoll" : "Сохранить в ленту камеры",

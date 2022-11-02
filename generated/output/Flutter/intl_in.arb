@@ -169,6 +169,7 @@
 "resendCode" : "Kirim ulang kode",
 "resendCodeIn" : "Kirim ulang kode dalam {arg0} d",
 "retryUploadFailed" : "Unggahan ulang gagal.",
+"revokeMultisigTransaction" : "Cabut Transaksi Multisig",
 "save" : "Simpan",
 "sayHi" : "Katakan Hai",
 "scamWarning" : "Peringatan: Banyak pengguna yang melaporkan akun ini sebagai scam. Harap berhati-hati, terutama jika meminta uang Anda",

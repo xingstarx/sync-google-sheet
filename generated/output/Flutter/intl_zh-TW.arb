@@ -292,6 +292,7 @@
 "reset" : "重置",
 "resetLink" : "重置邀請連結",
 "retryUploadFailed" : "重新上傳失敗。",
+"revokeMultisigTransaction" : "撤銷多重簽名交易",
 "save" : "儲存",
 "saveAs" : "另存為",
 "saveToCameraRoll" : "儲存到相簿",

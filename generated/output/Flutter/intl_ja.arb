@@ -288,6 +288,7 @@
 "reset" : "リセット",
 "resetLink" : "リンクを取り消す",
 "retryUploadFailed" : "アップロードの再試行に失敗しました。",
+"revokeMultisigTransaction" : "マルチシグトランザクションを取り消す",
 "save" : "保存",
 "saveAs" : "名前をつけて保存",
 "saveToCameraRoll" : "カメラロールに保存する",
