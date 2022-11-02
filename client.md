@@ -1079,7 +1079,7 @@
 | android,iOS | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
 | android, Desktop | Retry_upload_failed | Retry upload failed. | 重新上传失败。 | アップロードの再試行に失敗しました。 | Gagal memuat naik semula. | Unggahan ulang gagal. |
 | android, iOS | Revoke_access | Revoke access | 取消授权 | アクセスを取り消す | Batal akses | Cabut akses |
-| android, iOS | Revoke_multisig_transaction | Revoke Multisig Transaction | 撤销多重签名交易 | マルチシグトランザクションを取り消す | Batalkan Urus Niaga Multisig | Cabut Transaksi Multisig |
+| android, iOS, Desktop | Revoke_multisig_transaction | Revoke Multisig Transaction | 撤销多重签名交易 | マルチシグトランザクションを取り消す | Batalkan Urus Niaga Multisig | Cabut Transaksi Multisig |
 | iOS | Room_is_full | Room is full | 房间已满 | ルームが満員です |     |     |
 | android | Saturday | Saturday | 星期六 | 土曜日 | Sabtu | Sabtu |
 | android, iOS, Desktop | Save | Save | 保存  | 保存  | Jimat | Simpan |

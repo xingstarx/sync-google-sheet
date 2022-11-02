@@ -511,7 +511,7 @@
   <string name="Retry" platform="android,iOS">COBA LAGI</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Unggahan ulang gagal.</string>
   <string name="Revoke_access" platform="android, iOS">Cabut akses</string>
-  <string name="Revoke_multisig_transaction" platform="android, iOS">Cabut Transaksi Multisig</string>
+  <string name="Revoke_multisig_transaction" platform="android, iOS, Desktop">Cabut Transaksi Multisig</string>
   <string name="Saturday" platform="android">Sabtu</string>
   <string name="Save" platform="android, iOS, Desktop">Simpan</string>
   <string name="Save_failure" platform="android">Gagal menyimpan</string>
