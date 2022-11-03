@@ -44,7 +44,7 @@
 | android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
 | android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
 | android, iOS | Represent_send_messages  | Represent send messages | 代表你发消息 |     |     |     |
-| android, iOS | Allow_bot_access_profile | Allow bot to access your public profile such as name, Mixin ID, avatar, etc. | 允许机器人访问你的个人资料，如：名字、Mixin ID、头像，等。 |     |     |     |
+| android, iOS | Allow_bot_access_profile | Allow bot to access your public profile such as name, Mixin ID, avatar, etc. | 允许机器人访问你的个人资料，如：名字、Mixin ID、头像等。 |     |     |     |
 | android, iOS | Allow_bot_access_number | Allow bot to access your phone number. | 允许机器人读取你的手机号。 |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your contact list and blocked list. | 允许机器人访问你的联系人列表和屏蔽列表。 |     |     |     |
 | android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人代表你发消息。 |     |     |     |
@@ -56,7 +56,6 @@
 | android, iOS | Allow_bot_access_circles | Allow bot to access your circle list. | 允许机器人访问你的圈子列表。 |     |     |     |
 | android, iOS | Allow_bot_manage_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你的所有圈子。 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
-| android, iOS | Select_at_least_one_permission | You must select at least one permission. | 你必须至少选择一个权限。 |     |     |     |
 | android, iOS | Choose_Network | Choose Network | 选择充值网络 |     |     |     |
 | android, iOS | Choose_network_tip | Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost. | 请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。 |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |

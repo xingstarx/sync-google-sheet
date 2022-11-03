@@ -43,7 +43,7 @@
   <string name="Read_your_contacts" platform="android, iOS">读取你的联系人列表</string>
   <string name="Read_your_phone_number" platform="android, iOS">读取你的手机号</string>
   <string name="Represent_send_messages " platform="android, iOS">代表你发消息</string>
-  <string name="Allow_bot_access_profile" platform="android, iOS">允许机器人访问你的个人资料，如：名字、Mixin ID、头像，等。</string>
+  <string name="Allow_bot_access_profile" platform="android, iOS">允许机器人访问你的个人资料，如：名字、Mixin ID、头像等。</string>
   <string name="Allow_bot_access_number" platform="android, iOS">允许机器人读取你的手机号。</string>
   <string name="Allow_bot_access_contact" platform="android, iOS">允许机器人访问你的联系人列表和屏蔽列表。</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人代表你发消息。</string>
@@ -55,7 +55,6 @@
   <string name="Allow_bot_access_circles" platform="android, iOS">允许机器人访问你的圈子列表。</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">允许机器人添加、修改和删除你的所有圈子。</string>
   <string name="Request_Authorization" platform="android, iOS">请求授权</string>
-  <string name="Select_at_least_one_permission" platform="android, iOS">你必须至少选择一个权限。</string>
   <string name="Choose_Network" platform="android, iOS">选择充值网络</string>
   <string name="Choose_network_tip" platform="android, iOS">请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。</string>
   <string name="Add_circle" platform="android, iOS">添加圈子</string>
