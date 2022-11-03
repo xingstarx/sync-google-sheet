@@ -827,7 +827,6 @@
 	<string name="Secured_by_TIP">Secured by TIP</string>
 	<string name="Security">Security</string>
 	<string name="Select">Select</string>
-	<string name="Select_at_least_one_permission">You must select at least one permission.</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>
