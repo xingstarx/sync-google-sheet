@@ -55,7 +55,6 @@
   <string name="Allow_bot_access_circles" platform="android, iOS">Allow bot to access your circle list.</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
   <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>
-  <string name="Select_at_least_one_permission" platform="android, iOS">You must select at least one permission.</string>
   <string name="Choose_Network" platform="android, iOS">Choose Network</string>
   <string name="Choose_network_tip" platform="android, iOS">Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
