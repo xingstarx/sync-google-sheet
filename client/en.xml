@@ -928,6 +928,7 @@
   <string name="original_image" platform="Desktop">Original</string>
   <string name="OTHER" platform="android">OTHER</string>
   <string name="Other" platform="iOS">Other</string>
+  <string name="Others" platform="android, iOS">Others</string>
   <string name="Owner" platform="android, iOS, Desktop">Owner</string>
   <string name="parse_dns_result" platform="android">Parse DNS result: </string>
   <string name="Participants" platform="android, iOS">Participants</string>

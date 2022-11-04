@@ -929,6 +929,7 @@
 | Desktop | original_image | Original | 原图  | オリジナル |     |     |
 | android | OTHER | OTHER | 其他  | その他 | LAIN | LAINNYA |
 | iOS | Other | Other | 其他  | その他 |     |     |
+| android, iOS | Others | Others | 其他  |     |     |     |
 | android, iOS, Desktop | Owner | Owner | 群主  | オーナー | pemilik | pemilik |
 | android | parse_dns_result | Parse DNS result:  | 解析 DNS 结果 | Parse DNS result: |     |     |
 | android, iOS | Participants | Participants | 成员  | 参加者 | Peserta | Peserta |
