@@ -913,6 +913,7 @@
   <string name="original_image" platform="Desktop">原图</string>
   <string name="OTHER" platform="android">其他</string>
   <string name="Other" platform="iOS">其他</string>
+  <string name="Others" platform="android, iOS">其他</string>
   <string name="Owner" platform="android, iOS, Desktop">群主</string>
   <string name="parse_dns_result" platform="android">解析 DNS 结果</string>
   <string name="Participants" platform="android, iOS">成员</string>
