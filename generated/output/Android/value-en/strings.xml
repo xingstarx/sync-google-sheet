@@ -676,6 +676,7 @@
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="Operator">Operator</string>
 	<string name="OTHER">OTHER</string>
+	<string name="Others">Others</string>
 	<string name="Owner">Owner</string>
 	<string name="parse_dns_result">Parse DNS result: </string>
 	<string name="Participants">Participants</string>

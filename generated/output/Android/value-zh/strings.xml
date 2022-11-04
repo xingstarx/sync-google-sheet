@@ -661,6 +661,7 @@
 	<string name="Open_Link">打开链接：%1$s</string>
 	<string name="Operator">运营商</string>
 	<string name="OTHER">其他</string>
+	<string name="Others">其他</string>
 	<string name="Owner">群主</string>
 	<string name="parse_dns_result">解析 DNS 结果</string>
 	<string name="Participants">成员</string>
