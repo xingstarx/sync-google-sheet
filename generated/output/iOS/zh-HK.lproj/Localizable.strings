@@ -591,7 +591,6 @@
 "optimize_database" = "優化查詢索引";
 "optimized" = "已優化";
 "other" = "其他";
-"others" = "Others";
 "owner" = "羣主";
 "participants" = "成員";
 "participants_count" = "%@ 位羣組成員";
