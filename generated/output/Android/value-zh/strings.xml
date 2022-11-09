@@ -758,7 +758,7 @@
 	<string name="Report">举报</string>
 	<string name="Report_and_block">举报并屏蔽？</string>
 	<string name="Represent_Messages">代发消息</string>
-	<string name="Represent_send_messages ">代表你发消息</string>
+	<string name="Represent_send_messages">代表你发消息</string>
 	<string name="Request_Authorization">请求授权</string>
 	<string name="Requests_access_to_your">需要访问你的</string>
 	<string name="Resend_code">重发验证码</string>

@@ -700,7 +700,7 @@
 "report_and_block" = "Report and block?";
 "report_title" = "Send the conversation log to developers?";
 "represent_messages" = "Mewakili Pesan";
-"represent_send_messages " = "Represent send messages";
+"represent_send_messages" = "Represent send messages";
 "request_authorization" = "Request Authorization";
 "resend_code" = "Kirim ulang kode";
 "resend_code_pending" = "Kirim ulang kode dalam %d d";

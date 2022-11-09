@@ -700,7 +700,7 @@
 "report_and_block" = "举报并屏蔽？";
 "report_title" = "给开发人员发送聊天日志？";
 "represent_messages" = "代发消息";
-"represent_send_messages " = "代表你发消息";
+"represent_send_messages" = "代表你发消息";
 "request_authorization" = "请求授权";
 "resend_code" = "重发验证码";
 "resend_code_pending" = "%@ 后重新发送验证码";
