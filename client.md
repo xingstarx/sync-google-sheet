@@ -34,9 +34,9 @@
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts | 通过手机通讯录添加 | スマホの連絡先から追加 |     |     |
 | iOS | Add_by_QR_Code | Add by QR Code | 通过二维码添加 | QRコードから追加 |     |     |
 | android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
-| android, iOS | Manage_your_circles | Manage your circles | 管理你的所有的圈子 |     |     |     |
+| android, iOS | Manage_your_circles | Manage your circles | 管理你所有的圈子 |     |     |     |
 | android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
-| android, iOS | Manage_your_apps | Manage your bots | 管理你的所有的机器人 |     |     |     |
+| android, iOS | Manage_your_apps | Manage your bots | 管理你所有的机器人 |     |     |     |
 | android, iOS | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
 | android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
 | android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
@@ -929,7 +929,6 @@
 | Desktop | original_image | Original | 原图  | オリジナル |     |     |
 | android | OTHER | OTHER | 其他  | その他 | LAIN | LAINNYA |
 | iOS | Other | Other | 其他  | その他 |     |     |
-| android, iOS | Others | Others | 其他  |     |     |     |
 | android, iOS, Desktop | Owner | Owner | 群主  | オーナー | pemilik | pemilik |
 | android | parse_dns_result | Parse DNS result:  | 解析 DNS 结果 | Parse DNS result: |     |     |
 | android, iOS | Participants | Participants | 成员  | 参加者 | Peserta | Peserta |
