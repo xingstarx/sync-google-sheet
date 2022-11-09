@@ -43,7 +43,7 @@
 | android, iOS | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
 | android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
 | android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
-| android, iOS | Represent_send_messages  | Represent send messages | 代表你发消息 |     |     |     |
+| android, iOS | Represent_send_messages | Represent send messages | 代表你发消息 |     |     |     |
 | android, iOS | Allow_bot_access_profile | Allow bot to access your public profile such as name, Mixin ID, avatar, etc. | 允许机器人访问你的个人资料，如：名字、Mixin ID、头像等。 |     |     |     |
 | android, iOS | Allow_bot_access_number | Allow bot to access your phone number. | 允许机器人读取你的手机号。 |     |     |     |
 | android, iOS | Allow_bot_access_contact | Allow bot to access your contact list and blocked list. | 允许机器人访问你的联系人列表和屏蔽列表。 |     |     |     |
