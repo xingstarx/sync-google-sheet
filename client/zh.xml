@@ -16,7 +16,7 @@
   <string name="Access_Contacts_Hint" platform="iOS">同步通讯录到 Mixin 发现更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="Access_to_Contacts" platform="iOS">访问通讯录</string>
-  <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档了解更多。</string>
+  <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
   <string name="access_your_collectibles" platform="android, iOS">访问你的 NFT 列表</string>
@@ -53,7 +53,7 @@
   <string name="Allow_bot_access_bots" platform="android, iOS">允许机器人访问你的机器人列表。</string>
   <string name="Allow_bot_manage_bots" platform="android, iOS">允许机器人添加或修改你的机器人列表。</string>
   <string name="Allow_bot_access_circles" platform="android, iOS">允许机器人访问你的圈子列表。</string>
-  <string name="Allow_bot_manage_circles" platform="android, iOS">允许机器人添加、修改和删除你的所有圈子。</string>
+  <string name="Allow_bot_manage_circles" platform="android, iOS">允许机器人添加、修改和删除你所有的圈子。</string>
   <string name="Request_Authorization" platform="android, iOS">请求授权</string>
   <string name="Choose_Network" platform="android, iOS">选择充值网络</string>
   <string name="Choose_network_tip" platform="android, iOS">请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。</string>
@@ -1001,6 +1001,7 @@
   <string name="quick_search" platform="Desktop">快速搜索</string>
   <string name="quit_mixin" platform="Desktop">退出 Mixin</string>
   <string name="quote" platform="android">引用</string>
+  <string name="Random_keyboard" platform="android">随机键盘</string>
   <string name="Raw" platform="android, iOS, Desktop">其他</string>
   <string name="Read_Assets" platform="android, iOS">查看资产</string>
   <string name="Read_Bots" platform="android, iOS">查看应用</string>
