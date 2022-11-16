@@ -74,7 +74,7 @@
 "allow_bot_access_profile" = "允许机器人访问你的个人资料，如：名字、Mixin ID、头像等。";
 "allow_bot_access_snapshots" = "允许机器人访问你的转账记录，包括充值和提现。";
 "allow_bot_manage_bots" = "允许机器人添加或修改你的机器人列表。";
-"allow_bot_manage_circles" = "允许机器人添加、修改和删除你的所有圈子。";
+"allow_bot_manage_circles" = "允许机器人添加、修改和删除你所有的圈子。";
 "allow_bot_send_messages" = "允许机器人代表你发消息。";
 "allow_manual_report_message" = "允许手动上报消息";
 "amount" = "金额";

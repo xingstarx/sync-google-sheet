@@ -84,7 +84,7 @@
 	<string name="Allow_bot_access_profile">允许机器人访问你的个人资料，如：名字、Mixin ID、头像等。</string>
 	<string name="Allow_bot_access_snapshots">允许机器人访问你的转账记录，包括充值和提现。</string>
 	<string name="Allow_bot_manage_bots">允许机器人添加或修改你的机器人列表。</string>
-	<string name="Allow_bot_manage_circles">允许机器人添加、修改和删除你的所有圈子。</string>
+	<string name="Allow_bot_manage_circles">允许机器人添加、修改和删除你所有的圈子。</string>
 	<string name="Allow_bot_send_messages">允许机器人代表你发消息。</string>
 	<string name="Amount">金额</string>
 	<string name="an_audio">一条语音</string>
@@ -640,7 +640,7 @@
 	<string name="Not_logged_in">还没有登录</string>
 	<string name="Not_recognized">无法识别</string>
 	<string name="Not_support">不支持备份</string>
-	<string name="not_supported_deposit">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档了解更多。</string>
+	<string name="not_supported_deposit">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
 	<string name="Notice">注意</string>
 	<string name="Notification_and_Confirmation">通知和确认</string>
 	<string name="notification_channel_description">显示 Mixin Messenger 中正在播放的音乐</string>
@@ -719,6 +719,7 @@
 	<string name="qr_code_camera_code">打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。</string>
 	<string name="QR_Code_not_found">未发现二维码</string>
 	<string name="quote">引用</string>
+	<string name="Random_keyboard">随机键盘</string>
 	<string name="Raw">其他</string>
 	<string name="Read_Assets">查看资产</string>
 	<string name="Read_Bots">查看应用</string>
