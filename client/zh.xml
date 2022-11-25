@@ -26,6 +26,7 @@
   <string name="Acknowledgements" platform="iOS">许可证</string>
   <string name="activity" platform="Desktop">活动</string>
   <string name="Add" platform="android, iOS, Desktop">添加</string>
+  <string name="Move_and_Scale" platform="iOS">移动和缩放</string>
   <string name="Add_address" platform="android, iOS">添加地址</string>
   <string name="Add_bot" platform="android, iOS">添加机器人</string>
   <string name="add_bot_with_plus" platform="Desktop">+ 添加机器人</string>

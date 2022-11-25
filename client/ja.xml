@@ -24,6 +24,7 @@
   <string name="Account" platform="android, iOS, Desktop">アカウント</string>
   <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
+  <string name="Move_and_Scale" platform="iOS">移動と拡大縮小</string>
   <string name="Add_address" platform="android, iOS">アドレスに追加</string>
   <string name="Add_bot" platform="android, iOS">ミニアプリを追加</string>
   <string name="add_bot_with_plus" platform="Desktop">ミニアプリに追加</string>
