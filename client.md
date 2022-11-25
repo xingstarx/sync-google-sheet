@@ -27,6 +27,7 @@
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
+| iOS |     |     |     |     |     |     |
 | android, iOS | Add_address | Add address | 添加地址 | アドレスに追加 | Tambah alamat | Tambahkan alamat |
 | android, iOS | Add_bot | Add Bot | 添加机器人 | ミニアプリを追加 | Tambah Bot | Tambahkan Bot |
 | Desktop | add_bot_with_plus | + Add Bot | + 添加机器人 | ミニアプリに追加 |     |     |
