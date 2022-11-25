@@ -26,6 +26,7 @@
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
   <string name="activity" platform="Desktop">Activity</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>
+  <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
   <string name="Add_address" platform="android, iOS">Add address</string>
   <string name="Add_bot" platform="android, iOS">Add Bot</string>
   <string name="add_bot_with_plus" platform="Desktop">+ Add Bot</string>
