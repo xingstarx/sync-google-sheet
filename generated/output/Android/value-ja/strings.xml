@@ -788,6 +788,7 @@
 	<string name="Send_This_Location">位置情報を送信</string>
 	<string name="send_to">%1$sへ送信</string>
 	<string name="Send_transfer">送信</string>
+	<string name="send_without_compression">圧縮せずに送信</string>
 	<string name="Send_Without_Sound">通知音を鳴らさずに送信する</string>
 	<string name="Send_your_Current_Location">現在地を送信</string>
 	<string name="Senders">送信者</string>

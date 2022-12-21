@@ -809,6 +809,7 @@
 	<string name="Send_This_Location">Отправить это местоположение</string>
 	<string name="send_to">Отправить в %1$s</string>
 	<string name="Send_transfer">Отправить</string>
+	<string name="send_without_compression">Отправить без сжатия</string>
 	<string name="Send_Without_Sound">Отправить без звука</string>
 	<string name="Send_your_Current_Location">Отправить свое текущее местоположение</string>
 	<string name="Senders">Отправители</string>
