@@ -741,6 +741,9 @@
   <string name="Live" platform="android, iOS, Desktop">Live</string>
   <string name="live_permission" platform="android">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
   <string name="live_shareable_false" platform="android, iOS">The live has been set to not allow sharing</string>
+  <string name="audio_shareable_false" platform="android, iOS">The audio has been set to not allow sharing</string>
+  <string name="video_shareable_false" platform="android, iOS">The video has been set to not allow sharing</string>
+  <string name="image_shareable_false" platform="android, iOS">The image has been set to not allow sharing</string>
   <string name="live_stream" platform="iOS">live stream</string>
   <string name="Loading" platform="iOS, Desktop">Loading...</string>
   <string name="loading_time" platform="android, Desktop">System time is unusual, please continue to use again after correction</string>

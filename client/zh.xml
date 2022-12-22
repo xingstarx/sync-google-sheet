@@ -727,6 +727,9 @@
   <string name="Live" platform="android, iOS, Desktop">直播</string>
   <string name="live_permission" platform="android">Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。</string>
   <string name="live_shareable_false" platform="android, iOS">该直播已被设置为不允许转发</string>
+  <string name="audio_shareable_false" platform="android, iOS">该语音已被设置为不允许转发</string>
+  <string name="video_shareable_false" platform="android, iOS">该视频已被设置为不允许转发</string>
+  <string name="image_shareable_false" platform="android, iOS">该图片已被设置为不允许转发</string>
   <string name="live_stream" platform="iOS">直播卡片</string>
   <string name="Loading" platform="iOS, Desktop">正在加载...</string>
   <string name="loading_time" platform="android, Desktop">检测到系统时间异常，请校正后再继续使用</string>
