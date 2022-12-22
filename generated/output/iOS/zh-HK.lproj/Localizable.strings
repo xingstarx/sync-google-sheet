@@ -89,6 +89,7 @@
 "assets" = "資產";
 "assets_title" = "資產";
 "audio" = "語音";
+"audio_shareable_false" = "The audio has been set to not allow sharing";
 "audios" = "音頻";
 "auth_assets_more" = "%@等";
 "auth_messages_represent_description" = "允許機器人代表你發消息";
@@ -428,6 +429,7 @@
 "how_are_you" = "嗨，你好嗎？";
 "i_am_good" = "我很好。";
 "image" = "圖片";
+"image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "立刻";
 "in_connecting" = "正在連接...";
 "include_files" = "包括檔案";
@@ -936,6 +938,7 @@
 "verify_pin" = "驗證 PIN";
 "version_update" = "版本更新";
 "video" = "視頻";
+"video_shareable_false" = "The video has been set to not allow sharing";
 "videos" = "視頻";
 "view_authorization" = "查看授權";
 "view_emergency_contact" = "查看緊急聯繫人";

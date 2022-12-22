@@ -97,6 +97,7 @@
 	<string name="Asset_not_found">找不到该资产</string>
 	<string name="ASSETS">资产</string>
 	<string name="Audio">语音</string>
+	<string name="audio_shareable_false">该语音已被设置为不允许转发</string>
 	<string name="Audios">音频</string>
 	<string name="auth_assets_more">%1$s等</string>
 	<string name="auth_messages_represent_description">允许机器人代表你发消息</string>
@@ -489,6 +490,7 @@
 		<item quantity="other">%d 小时</item>
 	</plurals>
 	<string name="I_know">我知道了</string>
+	<string name="image_shareable_false">该图片已被设置为不允许转发</string>
 	<string name="Immediately">立刻</string>
 	<string name="Import">导入聊天记录</string>
 	<string name="in_connecting">正在连接…</string>
@@ -1021,6 +1023,7 @@
 	<string name="Verifying">验证中…</string>
 	<string name="Version_Update">版本更新</string>
 	<string name="Video">视频</string>
+	<string name="video_shareable_false">该视频已被设置为不允许转发</string>
 	<string name="Videos">视频</string>
 	<string name="View">查看</string>
 	<string name="View_Authorization">查看授权</string>

@@ -98,6 +98,7 @@
 	<string name="Asset_not_found">Asset not found.</string>
 	<string name="ASSETS">ASSETS</string>
 	<string name="Audio">Audio</string>
+	<string name="audio_shareable_false">The audio has been set to not allow sharing</string>
 	<string name="Audios">Audios</string>
 	<string name="auth_assets_more">%1$s and more</string>
 	<string name="auth_messages_represent_description">allow bot to send messages represent of you</string>
@@ -499,6 +500,7 @@
 		<item quantity="other">%d Hours</item>
 	</plurals>
 	<string name="I_know">I know</string>
+	<string name="image_shareable_false">The image has been set to not allow sharing</string>
 	<string name="Immediately">Immediately</string>
 	<string name="Import">Import</string>
 	<string name="in_connecting">Connecting…</string>
@@ -1041,6 +1043,7 @@
 	<string name="Verifying">Verifying…</string>
 	<string name="Version_Update">Version Update</string>
 	<string name="Video">Video</string>
+	<string name="video_shareable_false">The video has been set to not allow sharing</string>
 	<string name="Videos">Videos</string>
 	<string name="View">View</string>
 	<string name="View_Authorization">View Authorization</string>

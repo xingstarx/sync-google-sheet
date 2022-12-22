@@ -89,6 +89,7 @@
 "assets" = "ASSETS";
 "assets_title" = "Assets";
 "audio" = "Audio";
+"audio_shareable_false" = "The audio has been set to not allow sharing";
 "audios" = "Audios";
 "auth_assets_more" = "%@ and more";
 "auth_messages_represent_description" = "allow bot to send messages represent of you";
@@ -428,6 +429,7 @@
 "how_are_you" = "Hi, how are you?";
 "i_am_good" = "I’m good.";
 "image" = "image";
+"image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Immediately";
 "in_connecting" = "Connecting...";
 "include_files" = "Include Files";
@@ -936,6 +938,7 @@
 "verify_pin" = "Verify PIN";
 "version_update" = "Version Update";
 "video" = "Video";
+"video_shareable_false" = "The video has been set to not allow sharing";
 "videos" = "Videos";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "View emergency contact";

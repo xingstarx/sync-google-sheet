@@ -89,6 +89,7 @@
 "assets" = "ASET";
 "assets_title" = "Assets";
 "audio" = "Audio";
+"audio_shareable_false" = "The audio has been set to not allow sharing";
 "audios" = "Audios";
 "auth_assets_more" = "%@ dan banyak lagi";
 "auth_messages_represent_description" = "benarkan bot menghantar mesej mewakili anda";
@@ -429,6 +430,7 @@
 "how_are_you" = "Hi, how are you?";
 "i_am_good" = "I’m good.";
 "image" = "image";
+"image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Immediately";
 "in_connecting" = "Menyambung...";
 "include_files" = "Include Files";
@@ -937,6 +939,7 @@
 "verify_pin" = "Sahkan PIN";
 "version_update" = "Kemas kini Versi";
 "video" = "Video";
+"video_shareable_false" = "The video has been set to not allow sharing";
 "videos" = "Video";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "Lihat kenalan kecemasan";
