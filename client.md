@@ -742,6 +742,9 @@
 | android, iOS, Desktop | Live | Live | 直播  | 配信  | Langsung | Siaran Langsung |
 | android | live_permission | Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode. | Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。 | Mixinは、ピクチャーインピクチャーモードでビデオを再生するために、他のアプリより上の描画にアクセスする必要があります。 | Mixin memerlukan akses untuk menarik di atas aplikasi lain untuk memainkan video dalam mod Gambar-dalam-Gambar. | Mixin memerlukan akses untuk berada di atas aplikasi lain untuk memutar video dalam mode Gambar-di dalam-Gambar. |
 | android, iOS | live_shareable_false | The live has been set to not allow sharing | 该直播已被设置为不允许转发 | この配信を共有することはできません |     |     |
+| android, iOS | audio_shareable_false | The audio has been set to not allow sharing | 该语音已被设置为不允许转发 |     |     |     |
+| android, iOS | video_shareable_false | The video has been set to not allow sharing | 该视频已被设置为不允许转发 |     |     |     |
+| android, iOS | image_shareable_false | The image has been set to not allow sharing | 该图片已被设置为不允许转发 |     |     |     |
 | iOS | live_stream | live stream | 直播卡片 | 配信  |     |     |
 | iOS, Desktop | Loading | Loading... | 正在加载... | ロード中... |     |     |
 | android, Desktop | loading_time | System time is unusual, please continue to use again after correction | 检测到系统时间异常，请校正后再继续使用 | システム時刻が異常です。修正後、使用してください | Waktu sistem tidak biasa, sila terus gunakan lagi selepas pembetulan | Waktu sistem tidak normal, silakan gunakan lagi setelah perbaikan dilakukan |
