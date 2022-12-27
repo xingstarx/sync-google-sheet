@@ -24,6 +24,7 @@
   <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
   <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
+  <string name="Authorize_desktop_login" platform="iOS">Authorize desktop login via %@</string>
   <string name="activity" platform="Desktop">Activity</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>
   <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
