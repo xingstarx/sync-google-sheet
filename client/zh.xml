@@ -24,6 +24,7 @@
   <string name="access_your_snapshots" platform="android, iOS">访问你的转账记录</string>
   <string name="Account" platform="android, iOS, Desktop">账号</string>
   <string name="Acknowledgements" platform="iOS">许可证</string>
+  <string name="" platform="iOS">通过以下方式授权桌面登录</string>
   <string name="activity" platform="Desktop">活动</string>
   <string name="Add" platform="android, iOS, Desktop">添加</string>
   <string name="Move_and_Scale" platform="iOS">移动和缩放</string>

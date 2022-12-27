@@ -25,6 +25,7 @@
 | android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
+| iOS |     |     | 通过以下方式授权桌面登录 |     |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
 | iOS | Move_and_Scale | Move and Scale | 移动和缩放 | 移動と拡大縮小 |     |     |
