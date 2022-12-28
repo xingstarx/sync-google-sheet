@@ -233,7 +233,7 @@
   <string name="Duration_is_too_short" platform="android, Desktop">Jangka masa terlalu pendek</string>
   <string name="Edit_Biography" platform="android, iOS">Edit Biografi</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Edit Nama Lingkaran</string>
-  <string name="Edit_Conversations" platform="android, iOS">Edit Perbualan</string>
+  <string name="Edit_Conversations" platform="android, iOS, Desktop">Edit Perbualan</string>
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">Edit keterangan kumpulan</string>
   <string name="Edit_group_name" platform="android, iOS, Desktop">Edit Nama</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">Edit Nama</string>
@@ -766,7 +766,6 @@
   <string name="withdrawal_to" platform="android, iOS">Pengeluaran ke %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Pengeluaran dengan Biometrik</string>
   <string name="withdrawal_with_PIN" platform="android">Pengeluaran dengan PIN</string>
-  <string name="Write_Circles" platform="android, iOS, Desktop">Tulis Lingkaran</string>
   <string name="You" platform="android, iOS, Desktop">Anda</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Anda memadamkan mesej ini</string>
 </resources>

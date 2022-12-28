@@ -218,7 +218,7 @@
   <string name="Duration_is_too_short" platform="android, Desktop">Durasi terlalu pendek</string>
   <string name="Edit_Biography" platform="android, iOS">Edit Biografi</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Edit Nama Lingkaran</string>
-  <string name="Edit_Conversations" platform="android, iOS">Edit Percakapan</string>
+  <string name="Edit_Conversations" platform="android, iOS, Desktop">Edit Percakapan</string>
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">Edit deskripsi grup</string>
   <string name="Edit_group_name" platform="android, iOS, Desktop">Edit Nama</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">Edit Nama</string>
