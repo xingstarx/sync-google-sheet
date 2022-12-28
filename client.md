@@ -1498,6 +1498,7 @@
 | Desktop | search_unread | Search Unread | 搜索未读会话 |     |     |     |
 | Desktop | clear_filter | Clear filter | 清除筛选条件 |     |     |     |
 | Desktop | error_upload_attachment_failed | Failed to upload message attachment | 消息附件上传失败 |     |     |     |
+| Desktop | login_by_qrcode_tips_1 |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
