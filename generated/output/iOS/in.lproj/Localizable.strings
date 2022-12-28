@@ -394,6 +394,7 @@
 "fee" = "Biaya";
 "feedback" = "Feedback";
 "file" = "File";
+"file_shareable_false" = "The file has been set to not allow sharing";
 "files" = "File";
 "filter" = "Filter";
 "filter_by" = "FILTER BERDASARKAN";

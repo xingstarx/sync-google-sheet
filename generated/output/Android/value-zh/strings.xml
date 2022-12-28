@@ -440,6 +440,7 @@
 	<string name="File_chooser_error">文件选择错误</string>
 	<string name="File_does_not_exist">文件不存在</string>
 	<string name="File_error">文件错误</string>
+	<string name="file_shareable_false">该文件已被设置为不允许转发</string>
 	<string name="Files">文档</string>
 	<string name="Filter">筛选</string>
 	<string name="FILTER_BY">筛选</string>

@@ -395,6 +395,7 @@
 "fee" = "Bayaran";
 "feedback" = "Maklum balas";
 "file" = "Fail";
+"file_shareable_false" = "The file has been set to not allow sharing";
 "files" = "Fail";
 "filter" = "Penapis";
 "filter_by" = "DITAPIS DENGAN";

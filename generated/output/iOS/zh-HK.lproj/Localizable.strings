@@ -394,6 +394,7 @@
 "fee" = "手續費";
 "feedback" = "反饋";
 "file" = "檔案";
+"file_shareable_false" = "The file has been set to not allow sharing";
 "files" = "文檔";
 "filter" = "篩選";
 "filter_by" = "篩選";

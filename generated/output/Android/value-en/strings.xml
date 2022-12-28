@@ -449,6 +449,7 @@
 	<string name="File_chooser_error">File chooser error</string>
 	<string name="File_does_not_exist">File does not exist</string>
 	<string name="File_error">File error</string>
+	<string name="file_shareable_false">The file has been set to not allow sharing</string>
 	<string name="Files">Files</string>
 	<string name="Filter">Filter</string>
 	<string name="FILTER_BY">FILTER BY</string>
