@@ -132,6 +132,7 @@
 | android | ANSWER | ANSWER | 接听  | 電話に出る | JAWAPAN | JAWAB |
 | Desktop | app_card_share_disallow | Disallow sharing of this URL | 该链接已被设置为不允许分享 | このURLの共有を許可しない |     |     |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing | 该卡片已被设置为不允许转发 | このカードを共有することはできません |     |     |
+| android, iOS | file_shareable_false | The file has been set to not allow sharing | 该文件已被设置为不允许转发 |     |     |     |
 | android | app_name | Mixin |     | Mixin |     |     |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. | 请从 App Store 更新 Mixin 至最新版 | サービスを利用するためにApp StoreでMixinのアップデートをお願いします。 |     |     |
 | iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | 現在のバージョン(%@)はもう利用いただけません。App Storeで新しいバージョンを入手してください |     |     |
