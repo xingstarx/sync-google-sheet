@@ -450,7 +450,7 @@
   <string name="edit_address" platform="android, iOS">%1$sアドレスを修正</string>
   <string name="Edit_Biography" platform="android, iOS">自己紹介文を変更</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">グループリスト名を編集</string>
-  <string name="Edit_Conversations" platform="android, iOS">チャットルームを編集</string>
+  <string name="Edit_Conversations" platform="android, iOS, Desktop">チャットルームを編集</string>
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">グループアナウンスを編集</string>
   <string name="Edit_group_name" platform="android, iOS, Desktop">グループ名を編集</string>
   <string name="edit_image_clear_warning" platform="Desktop">すべての変更が失われます。本当に終了しますか？</string>
@@ -712,7 +712,6 @@
   <string name="log_out_from_desktop" platform="android, iOS">デスクトップ版からログアウト</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">そのままログインし、アカウント削除をキャンセルします</string>
   <string name="login_by_qrcode" platform="Desktop">QRコードでMixinにログインする</string>
-  <string name="login_by_qrcode_tips" platform="Desktop">携帯でMixinを開き、画面に表示されるQRコードを読み取り、ログインします</string>
   <string name="Login_with_PIN" platform="android">PINコードでMixinにログインする</string>
   <string name="Logined" platform="iOS">ログインしました</string>
   <string name="Logout" platform="android">ログアウト中…</string>
@@ -1396,7 +1395,6 @@
   <string name="withdrawal_to" platform="android, iOS">%1$sへ出金</string>
   <string name="withdrawal_with_biometric" platform="android">生体認証を使用して出金</string>
   <string name="withdrawal_with_PIN" platform="android">PINコードを使用して出金</string>
-  <string name="Write_Circles" platform="android, iOS, Desktop">グループリストの変更</string>
   <string name="you" platform="android">自分</string>
   <string name="You" platform="android, iOS, Desktop">自分</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">このメッセージを削除しました。</string>
@@ -1406,6 +1404,6 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
-  <string name="login_by_qrcode_tips_1" platform="Desktop">携帯でMixinを開き。</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">携帯でMixinを開き</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">画面に表示されるQRコードを読み取り、ログインします</string>
 </resources>

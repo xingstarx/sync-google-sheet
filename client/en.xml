@@ -495,7 +495,7 @@
   <string name="edit_address" platform="android, iOS">Edit %1$s Address</string>
   <string name="Edit_Biography" platform="android, iOS">Edit Biography</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Edit Circle Name</string>
-  <string name="Edit_Conversations" platform="android, iOS">Edit Conversations</string>
+  <string name="Edit_Conversations" platform="android, iOS, Desktop">Edit Conversations</string>
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">Edit Group Description</string>
   <string name="Edit_group_name" platform="android, iOS, Desktop">Edit Group Name</string>
   <string name="edit_image_clear_warning" platform="Desktop">All changes will be lost. Are you sure you want to exit?</string>
@@ -768,7 +768,6 @@
   <string name="log_out_from_desktop" platform="android, iOS">Log out from desktop</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">Continue to log in and abort account deletion</string>
   <string name="login_by_qrcode" platform="Desktop">Login to Mixin Messenger by QR Code</string>
-  <string name="login_by_qrcode_tips" platform="Desktop">Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login.</string>
   <string name="Login_with_PIN" platform="android">Login with PIN</string>
   <string name="Logined" platform="iOS">Logged in</string>
   <string name="Logout" platform="android">Logout…</string>
@@ -1483,7 +1482,6 @@
   <string name="withdrawal_to" platform="android, iOS">Withdraw to %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>
-  <string name="Write_Circles" platform="android, iOS, Desktop">Write Circles</string>
   <string name="you" platform="android">you</string>
   <string name="You" platform="android, iOS, Desktop">You</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">You deleted this message</string>

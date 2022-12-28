@@ -496,7 +496,7 @@
 | android, iOS | edit_address | Edit %1$s Address | 修改 %1$s 地址 | %1$sアドレスを修正 |     |     |
 | android, iOS | Edit_Biography | Edit Biography | 修改简介 | 自己紹介文を変更 | Edit Biografi | Edit Biografi |
 | android, iOS, Desktop | Edit_Circle_Name | Edit Circle Name | 编辑名称 | グループリスト名を編集 | Edit Nama Lingkaran | Edit Nama Lingkaran |
-| android, iOS | Edit_Conversations | Edit Conversations | 管理圈子 | チャットルームを編集 | Edit Perbualan | Edit Percakapan |
+| android, iOS, Desktop | Edit_Conversations | Edit Conversations | 管理圈子 | チャットルームを編集 | Edit Perbualan | Edit Percakapan |
 | android, iOS, Desktop | Edit_Group_Description | Edit Group Description | 编辑群公告 | グループアナウンスを編集 | Edit keterangan kumpulan | Edit deskripsi grup |
 | android, iOS, Desktop | Edit_group_name | Edit Group Name | 编辑名称 | グループ名を編集 | Edit Nama | Edit Nama |
 | Desktop | edit_image_clear_warning | All changes will be lost. Are you sure you want to exit? | 退出将会清除此次所有的改动。 | すべての変更が失われます。本当に終了しますか？ |     |     |
@@ -769,7 +769,6 @@
 | android, iOS | log_out_from_desktop | Log out from desktop | 从桌面版退出 | デスクトップ版からログアウト |     |     |
 | android, iOS, Desktop | login_and_abort_account_deletion | Continue to log in and abort account deletion | 继续登录并放弃删除账户 | そのままログインし、アカウント削除をキャンセルします |     |     |
 | Desktop | login_by_qrcode | Login to Mixin Messenger by QR Code | 通过二维码登录 Mixin Messenger | QRコードでMixinにログインする |     |     |
-| Desktop | login_by_qrcode_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 | 携帯でMixinを開き、画面に表示されるQRコードを読み取り、ログインします |     |     |
 | android | Login_with_PIN | Login with PIN | 用 PIN 来登录 | PINコードでMixinにログインする |     |     |
 | iOS | Logined | Logged in | 已登录 | ログインしました |     |     |
 | android | Logout | Logout… | 退出中… | ログアウト中… | Log keluar… | Keluar… |
@@ -1484,7 +1483,6 @@
 | android, iOS | withdrawal_to | Withdraw to %1$s | 提现到 %1$s | %1$sへ出金 | Pengeluaran ke %1$s | Penarikan ke %1$s |
 | android | withdrawal_with_biometric | Withdrawal with Biometric | 用生物识别提现 | 生体認証を使用して出金 | Pengeluaran dengan Biometrik | Penarikan dengan Biometrik |
 | android | withdrawal_with_PIN | Withdrawal with PIN | 用 PIN 提现 | PINコードを使用して出金 | Pengeluaran dengan PIN | Penarikan dengan PIN |
-| android, iOS, Desktop | Write_Circles | Write Circles | 管理圈子 | グループリストの変更 | Tulis Lingkaran |     |
 | android | you | you | 你   | 自分  |     |     |
 | android, iOS, Desktop | You | You | 你   | 自分  | Anda | Anda |
 | android, iOS, Desktop | You_deleted_this_message | You deleted this message | 你撤回了一条消息 | このメッセージを削除しました。 | Anda memadamkan mesej ini | Anda menghapus pesan ini |
@@ -1498,7 +1496,7 @@
 | Desktop | search_unread | Search Unread | 搜索未读会话 |     |     |     |
 | Desktop | clear_filter | Clear filter | 清除筛选条件 |     |     |     |
 | Desktop | error_upload_attachment_failed | Failed to upload message attachment | 消息附件上传失败 |     |     |     |
-| Desktop | login_by_qrcode_tips_1 | Open Mixin Messenger on your phone. | 打开手机上的 Mixin Messenger。 | 携帯でMixinを開き。 |     |     |
+| Desktop | login_by_qrcode_tips_1 | Open Mixin Messenger on your phone. | 打开手机上的 Mixin Messenger。 | 携帯でMixinを開き |     |     |
 | Desktop | login_by_qrcode_tips_2 | Scan the QR Code on the screen and confirm your login. | 扫描屏幕上的二维码，确认登录。 | 画面に表示されるQRコードを読み取り、ログインします |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |

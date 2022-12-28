@@ -486,7 +486,7 @@
   <string name="edit_address" platform="android, iOS">修改 %1$s 地址</string>
   <string name="Edit_Biography" platform="android, iOS">修改简介</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">编辑名称</string>
-  <string name="Edit_Conversations" platform="android, iOS">管理圈子</string>
+  <string name="Edit_Conversations" platform="android, iOS, Desktop">管理圈子</string>
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">编辑群公告</string>
   <string name="Edit_group_name" platform="android, iOS, Desktop">编辑名称</string>
   <string name="edit_image_clear_warning" platform="Desktop">退出将会清除此次所有的改动。</string>
@@ -753,7 +753,6 @@
   <string name="log_out_from_desktop" platform="android, iOS">从桌面版退出</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">继续登录并放弃删除账户</string>
   <string name="login_by_qrcode" platform="Desktop">通过二维码登录 Mixin Messenger</string>
-  <string name="login_by_qrcode_tips" platform="Desktop">打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。</string>
   <string name="Login_with_PIN" platform="android">用 PIN 来登录</string>
   <string name="Logined" platform="iOS">已登录</string>
   <string name="Logout" platform="android">退出中…</string>
@@ -1460,7 +1459,6 @@
   <string name="withdrawal_to" platform="android, iOS">提现到 %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">用生物识别提现</string>
   <string name="withdrawal_with_PIN" platform="android">用 PIN 提现</string>
-  <string name="Write_Circles" platform="android, iOS, Desktop">管理圈子</string>
   <string name="you" platform="android">你</string>
   <string name="You" platform="android, iOS, Desktop">你</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">你撤回了一条消息</string>
