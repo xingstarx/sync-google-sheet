@@ -1045,7 +1045,6 @@
 	<string name="withdrawal_to">%1$sへ出金</string>
 	<string name="withdrawal_with_biometric">生体認証を使用して出金</string>
 	<string name="withdrawal_with_PIN">PINコードを使用して出金</string>
-	<string name="Write_Circles">グループリストの変更</string>
 	<string name="you">自分</string>
 	<string name="You">自分</string>
 	<string name="You_deleted_this_message">このメッセージを削除しました。</string>

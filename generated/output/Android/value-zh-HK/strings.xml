@@ -1022,7 +1022,6 @@
 	<string name="withdrawal_to">提現到 %1$s</string>
 	<string name="withdrawal_with_biometric">用生物識別提現</string>
 	<string name="withdrawal_with_PIN">用 PIN 提現</string>
-	<string name="Write_Circles">管理圈子</string>
 	<string name="you">你</string>
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一條消息</string>

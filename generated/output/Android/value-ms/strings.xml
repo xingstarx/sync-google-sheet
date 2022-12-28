@@ -786,7 +786,6 @@
 	<string name="withdrawal_to">Pengeluaran ke %1$s</string>
 	<string name="withdrawal_with_biometric">Pengeluaran dengan Biometrik</string>
 	<string name="withdrawal_with_PIN">Pengeluaran dengan PIN</string>
-	<string name="Write_Circles">Tulis Lingkaran</string>
 	<string name="You">Anda</string>
 	<string name="You_deleted_this_message">Anda memadamkan mesej ini</string>
 </resources>
