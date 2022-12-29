@@ -73,7 +73,19 @@
 	<string name="All">全部</string>
 	<string name="All_Conversations">所有會話</string>
 	<string name="All_Media">全部</string>
+	<string name="All_signer_failure">所有節點失敗，也許 PIN 跟上次意外退出時設置的不一致</string>
 	<string name="All_Transactions">所有交易記錄</string>
+	<string name="Allow_bot_access_asset">允許機器人查看你的所有資產和餘額。</string>
+	<string name="Allow_bot_access_bots">允許機器人訪問你的機器人列表。</string>
+	<string name="Allow_bot_access_circles">允許機器人訪問你的圈子列表。</string>
+	<string name="Allow_bot_access_contact">允許機器人訪問你的聯繫人列表和屏蔽列表。</string>
+	<string name="Allow_bot_access_nfts">允許機器人訪問你的 NFT 列表和餘額。</string>
+	<string name="Allow_bot_access_number">允許機器人讀取你的手機號。</string>
+	<string name="Allow_bot_access_profile">允許機器人訪問你的個人資料，如：名字、Mixin ID、頭像等。</string>
+	<string name="Allow_bot_access_snapshots">允許機器人訪問你的轉賬記錄，包括充值和提現。</string>
+	<string name="Allow_bot_manage_bots">允許機器人添加或修改你的機器人列表。</string>
+	<string name="Allow_bot_manage_circles">允許機器人添加、修改和刪除你所有的圈子。</string>
+	<string name="Allow_bot_send_messages">允許機器人代表你發消息。</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>
 	<string name="ANSWER">接聽</string>
@@ -85,6 +97,7 @@
 	<string name="Asset_not_found">找不到該資產</string>
 	<string name="ASSETS">資產</string>
 	<string name="Audio">語音</string>
+	<string name="audio_shareable_false">該語音已被設置為不允許轉發</string>
 	<string name="Audios">音頻</string>
 	<string name="auth_assets_more">%1$s等</string>
 	<string name="auth_messages_represent_description">允許機器人代表你發消息</string>
@@ -155,6 +168,7 @@
 	<string name="Changed">已修改</string>
 	<string name="changed_disappearing_message_settings">%1$s修改了限時消息設置</string>
 	<string name="Changing">正在修改…</string>
+	<string name="Changing_PIN_terminated_unexpectedly">更新 PIN 意外中止，點繼續完成 PIN 修改</string>
 	<string name="chat_audio_discard_warning">你確定要停止並放棄錄製的語音嗎？</string>
 	<string name="chat_audio_discard_warning_title">放棄錄製語音</string>
 	<string name="chat_audio_warning">無法在 Mixin 錄音時播放語音</string>
@@ -190,7 +204,10 @@
 	<string name="check_trace_failed">檢查支付信息失敗，請重試</string>
 	<string name="Checking_link">正在檢查鏈接</string>
 	<string name="Checking_payment_info">請檢查支付信息</string>
+	<string name="Choose">選擇</string>
 	<string name="Choose_folder">選擇檔案夾</string>
+	<string name="Choose_Network">選擇充值網絡</string>
+	<string name="Choose_network_tip">請選擇 Mixin 支持的網絡進行充值，否則您的充值將不會到賬。</string>
 	<string name="circle_bottom">為不同對話創建圈子然後在它們之間快速切換</string>
 	<string name="circle_delete_tip">確認刪除 \"%1$s\"？</string>
 	<string name="circle_info">新建一個圈子可以過濾會話</string>
@@ -212,6 +229,7 @@
 	<string name="Confirm">確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認 PIN</string>
+	<string name="Connect_to_TIP_network_failed">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
 	<string name="Connecting">正在連接</string>
 	<string name="Connection_unstable">當前通話網絡不佳</string>
 	<string name="Contact">聯繫人</string>
@@ -235,14 +253,17 @@
 	<string name="content_live">[直播]</string>
 	<string name="content_location">[位置]</string>
 	<string name="content_photo">[照片]</string>
+	<string name="content_pin">[置頂消息]</string>
 	<string name="content_post">[文章]</string>
 	<string name="content_sticker">[貼紙]</string>
+	<string name="content_system">[系統消息]</string>
 	<string name="Content_too_long">內容過長</string>
 	<string name="content_transcript">[聊天記錄]</string>
 	<string name="content_transfer">[轉賬]</string>
 	<string name="content_video">[視頻]</string>
 	<string name="content_voice">[語音電話]</string>
 	<string name="Continue">繼續</string>
+	<string name="Continue_need_verify_your_PIN">繼續需要驗證你的舊 PIN 以及新 PIN</string>
 	<string name="Continue_Open_URL">繼續訪問</string>
 	<string name="Conversation">會話</string>
 	<string name="conversation_delete_tip">刪除後，將同時清空該聊天的消息記錄</string>
@@ -253,8 +274,10 @@
 	<string name="Copy_invite">複製邀請鏈接</string>
 	<string name="Copy_link">複製鏈接</string>
 	<string name="Create">創建</string>
+	<string name="Create_PIN">創建錢包</string>
 	<string name="created_this_group">%1$s創建了這個羣組</string>
 	<string name="Creating">正在創建…</string>
+	<string name="Creating_wallet_terminated_unexpectedly">創建錢包意外中止，點繼續完成錢包創建</string>
 	<string name="Crop">裁剪</string>
 	<string name="Currency">貨幣</string>
 	<string name="Custom_Time">自定義時間</string>
@@ -319,6 +342,7 @@
 	<string name="divide">、</string>
 	<string name="Documents">文檔</string>
 	<string name="Done">完成</string>
+	<string name="Dont_have_assets">沒有資產？</string>
 	<string name="Draw">繪製</string>
 	<string name="Duplicate_Transfer_Confirmation">重複轉賬確認</string>
 	<string name="Duplicate_Withdraw_Confirmation">重複提現確認</string>
@@ -343,6 +367,8 @@
 	<string name="Enter_new_phone_number">輸入你的新手機號碼</string>
 	<string name="Enter_PIN_to_delete_account">輸入你的 PIN 以註銷你的賬户</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">請輸入緊急聯繫人的 Mixin ID</string>
+	<string name="Enter_your_new_PIN">輸入你的新 PIN</string>
+	<string name="Enter_your_old_PIN">輸入你的舊 PIN</string>
 	<string name="Enter_your_phone_number">輸入你的手機號碼</string>
 	<string name="Enter_your_PIN">輸入你的 PIN</string>
 	<string name="Enter_your_PIN_to_continue">輸入你的 PIN 以繼續</string>
@@ -396,6 +422,7 @@
 	<string name="error_user_invalid_format">用户數據不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">錯誤 20131：提現備註格式不正確</string>
 	<string name="Everybody">任何人</string>
+	<string name="Exchanging_data">正在同步密鑰分片，進度 %1$s%%…</string>
 	<string name="Exit">退出</string>
 	<string name="Exit_Group">退出羣組</string>
 	<string name="exit_without_save">不保存就退出？</string>
@@ -413,6 +440,7 @@
 	<string name="File_chooser_error">檔案選擇錯誤</string>
 	<string name="File_does_not_exist">檔案不存在</string>
 	<string name="File_error">檔案錯誤</string>
+	<string name="file_shareable_false">該檔案已被設置為不允許轉發</string>
 	<string name="Files">文檔</string>
 	<string name="Filter">篩選</string>
 	<string name="FILTER_BY">篩選</string>
@@ -430,6 +458,7 @@
 	<string name="fourth_pin_confirm_hint">這是最後一次確認 PIN，記住：PIN 丟失將永遠無法找回！</string>
 	<string name="Friday">星期五</string>
 	<string name="From">來自</string>
+	<string name="Generating_keys">正在創建密鑰…</string>
 	<string name="Get_a_new_wallet">創建錢包</string>
 	<string name="Go">導航</string>
 	<string name="Go_settings">去設置</string>
@@ -462,6 +491,7 @@
 		<item quantity="other">%d 小時</item>
 	</plurals>
 	<string name="I_know">我知道了</string>
+	<string name="image_shareable_false">該圖片已被設置為不允許轉發</string>
 	<string name="Immediately">立刻</string>
 	<string name="Import">導入聊天記錄</string>
 	<string name="in_connecting">正在連接…</string>
@@ -524,6 +554,8 @@
 	<string name="manage_all_your_bots">管理你所有的機器人</string>
 	<string name="manage_all_your_circles">管理你所有的圈子</string>
 	<string name="Manage_Bots">管理機器人</string>
+	<string name="Manage_your_apps">管理你所有的機器人</string>
+	<string name="Manage_your_circles">管理你所有的圈子</string>
 	<string name="Manager_Sticker">管理貼紙</string>
 	<string name="Manufacturer">生產商</string>
 	<string name="Mark_as_read">標記為已讀</string>
@@ -605,10 +637,13 @@
 	<string name="Nobody">沒有人</string>
 	<string name="Nodes">節點</string>
 	<string name="None">無</string>
+	<string name="Not_all_signer_success">有些節點失敗了</string>
+	<string name="Not_enough_partials">沒有足夠的節點返回密鑰分片</string>
 	<string name="Not_found">沒有找到相應的消息</string>
 	<string name="Not_logged_in">還沒有登錄</string>
 	<string name="Not_recognized">無法識別</string>
 	<string name="Not_support">不支持備份</string>
+	<string name="not_supported_deposit">Mixin 錢包現已不支持 %1$s 充值，注意已轉入的 %2$s 資產可以繼續轉賬或提現，閲讀文檔**瞭解更多**。</string>
 	<string name="Notice">注意</string>
 	<string name="Notification_and_Confirmation">通知和確認</string>
 	<string name="notification_channel_description">顯示 Mixin Messenger 中正在播放的音樂</string>
@@ -661,6 +696,7 @@
 	<string name="pin_creation">創建 PIN</string>
 	<string name="PIN_incorrect">PIN 錯誤</string>
 	<string name="pin_lost_hint">如果忘記，你的錢包將無法找回。</string>
+	<string name="PIN_not_same_as_last_time">PIN 跟上次意外退出時設置的不一致</string>
 	<string name="pin_title">置頂</string>
 	<plurals name="pinned_message_title" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 條置頂消息</item>
@@ -670,11 +706,14 @@
 	<string name="Play">播放</string>
 	<string name="Playback_failed">播放失敗</string>
 	<string name="Playlist">播放列表</string>
+	<string name="Please_keep_app_in_foreground">請保持應用在前台，設置過程中不要強制關閉應用</string>
+	<string name="Please_use_when_network_is_connected">請在網絡流暢的環境下進行此操作</string>
 	<string name="Please_wait_a_bit">請稍等…</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
+	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
 	<string name="profile_modify_number">你想要修改手機號碼麼？</string>
 	<string name="Profile_photo">個人頭像</string>
 	<string name="profile_share_bot_hint">如果您希望分享機器人，請先添加聯繫人。</string>
@@ -683,6 +722,7 @@
 	<string name="qr_code_camera_code">打開相機會默認開啓二維碼識別，當二維碼被檢測到時會顯示一個通知，點擊通知識別二維碼。</string>
 	<string name="QR_Code_not_found">未發現二維碼</string>
 	<string name="quote">引用</string>
+	<string name="Random_keyboard">隨機鍵盤</string>
 	<string name="Raw">其他</string>
 	<string name="Read_Assets">查看資產</string>
 	<string name="Read_Bots">查看應用</string>
@@ -690,6 +730,14 @@
 	<string name="Read_Collectibles">查看 NFT</string>
 	<string name="Read_Contacts">查看聯繫人</string>
 	<string name="Read_Snapshots">查看轉賬記錄</string>
+	<string name="Read_your_apps">讀取你的機器人列表</string>
+	<string name="Read_your_assets">讀取你的所有資產</string>
+	<string name="Read_your_circles">讀取你的圈子列表</string>
+	<string name="Read_your_contacts">讀取你的聯繫人列表</string>
+	<string name="Read_your_NFTs">讀取你的 NFT 列表</string>
+	<string name="Read_your_phone_number">讀取你的手機號</string>
+	<string name="Read_your_public_profile">讀取你的個人資料</string>
+	<string name="Read_your_snapshots">讀取你的轉賬記錄</string>
 	<string name="Rebate">退款</string>
 	<string name="Recaptcha_timeout">驗證超時</string>
 	<string name="Receive">轉入</string>
@@ -714,6 +762,8 @@
 	<string name="Report">舉報</string>
 	<string name="Report_and_block">舉報並屏蔽？</string>
 	<string name="Represent_Messages">代發消息</string>
+	<string name="Represent_send_messages">代表你發消息</string>
+	<string name="Request_Authorization">請求授權</string>
 	<string name="Requests_access_to_your">需要訪問你的</string>
 	<string name="Resend_code">重發驗證碼</string>
 	<string name="Resend_code_in">%1$d 秒後重新發送驗證碼</string>
@@ -761,6 +811,7 @@
 		<item quantity="other">%1$d 條相關的消息</item>
 	</plurals>
 	<string name="Searching">搜索中</string>
+	<string name="Secured_by_TIP">由 TIP 提供安全保障</string>
 	<string name="Security">安全</string>
 	<string name="Select">選擇</string>
 	<string name="Select_Emergency_Contact">選擇緊急聯繫人</string>
@@ -770,6 +821,7 @@
 	<string name="Send_Message">發消息</string>
 	<string name="Send_This_Location">發送這個位置</string>
 	<string name="send_to">發送給 %1$s</string>
+	<string name="Send_to_contact">轉賬給聯繫人</string>
 	<string name="Send_transfer">轉出</string>
 	<string name="send_without_compression">發送原始檔案</string>
 	<string name="Send_Without_Sound">靜音發送</string>
@@ -777,7 +829,9 @@
 	<string name="Senders">交易發起人</string>
 	<string name="Set">設置</string>
 	<string name="set_disappearing_message_time_to">%1$s將限時消息設置為 %2$s</string>
+	<string name="Set_emergency_create_successfully">設置緊急聯繫人成功</string>
 	<string name="Set_new_PIN">設置新的 PIN</string>
+	<string name="Set_or_update_PIN_failed">設置或更新 PIN 失敗</string>
 	<string name="Set_PIN">設置 PIN</string>
 	<string name="Set_PIN_successfully">PIN 設置成功</string>
 	<string name="setting_auth_access">授權時間：%1$s, 上次訪問：%2$s</string>
@@ -847,6 +901,7 @@
 	<string name="Slide_to_cancel">滑動取消</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">順序</string>
+	<string name="Start">開始</string>
 	<string name="Start_Messaging">開始聊天</string>
 	<string name="Status">交易狀態</string>
 	<string name="Sticker">貼紙</string>
@@ -867,6 +922,7 @@
 	<string name="Switching_currency">切換貨幣中</string>
 	<string name="Symbol">符號</string>
 	<string name="symbol_withdrawal">%1$s 提現</string>
+	<string name="Syncing_and_verifying_TIP">正在驗證並同步密鑰分片到 TIP 網絡，請保持應用在前台，設置過程中不要強制關閉應用</string>
 	<string name="Syncing_messages">正在同步消息</string>
 	<string name="syncs_contact_hint">同步通訊錄到 Mixin 發現更多好友。</string>
 	<string name="System_options">管理通知</string>
@@ -882,6 +938,9 @@
 	<string name="This_message_was_deleted">此消息已撤回</string>
 	<string name="Thursday">星期四</string>
 	<string name="Time">時間</string>
+	<string name="tip_create_pin_title">設置 6 位數字 PIN 創建你的第一個數字錢包</string>
+	<string name="TIP_creation_introduction">設置 6 位數字 PIN 創建你的第一個加密貨幣錢包，PIN 基於去中心化密鑰派生協議 Throttled Identity Protocol，閲讀文檔以**瞭解更多**。</string>
+	<string name="TIP_introduction">6 位數字 PIN 基於去中心化密鑰派生協議 Throttled Identity Protocol，閲讀文檔以**瞭解更多**。</string>
 	<plurals name="title_participants" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 成員</item>
 		<item quantity="other">%1$d 成員</item>
@@ -906,6 +965,8 @@
 	<string name="transfer_without_pin">轉賬前請先設置 PIN</string>
 	<string name="Trending">熱門資產</string>
 	<string name="Try_Again">請重試</string>
+	<string name="Trying_connect_tip_network">正在連接 TIP 網絡</string>
+	<string name="Trying_connect_tip_node">正在連接節點…</string>
 	<string name="Tuesday">星期二</string>
 	<string name="Turn_On_Notifications">打開通知</string>
 	<string name="Type_message">輸入消息</string>
@@ -944,8 +1005,13 @@
 	<string name="update_downloaded">一個更新剛下載完成。</string>
 	<string name="Update_Mixin">升級 Mixin</string>
 	<string name="update_mixin_description">當前版本（%1$s）不再可用!\n請點擊下面的“更新”按鈕從應用商店更新到最新版本。</string>
+	<string name="Upgrade">升級</string>
 	<string name="Upgrade_Database">數據庫升級</string>
+	<string name="Upgrade_need_verify_your_PIN">升級需要驗證你的 PIN</string>
+	<string name="Upgrade_TIP">升級 TIP</string>
+	<string name="Upgrade_TIP_successfully">TIP 升級成功</string>
 	<string name="Upgrading">升級中…</string>
+	<string name="Upgrading_TIP_terminated_unexpectedly">升級 TIP 意外中止，點繼續完成 TIP 升級</string>
 	<string name="Upload_Mobile_Contacts">上傳通訊錄找好友</string>
 	<string name="Upload_timeout">上傳超時</string>
 	<string name="Use_Biometric_Multisig">使用生物識別簽名</string>
@@ -958,6 +1024,7 @@
 	<string name="Verifying">驗證中…</string>
 	<string name="Version_Update">版本更新</string>
 	<string name="Video">視頻</string>
+	<string name="video_shareable_false">該視頻已被設置為不允許轉發</string>
 	<string name="Videos">視頻</string>
 	<string name="View">查看</string>
 	<string name="View_Authorization">查看授權</string>
@@ -1026,6 +1093,6 @@
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一條消息</string>
 	<string name="You_have_left_the_group">你不在此羣組</string>
-	<string name="Your_emergency_contact_has_been_changed">修改緊急聯繫人</string>
+	<string name="Your_emergency_contact_has_been_changed">緊急聯繫人已更改</string>
 	<string name="your_pin_has_been_created">PIN 已創建</string>
 </resources>
