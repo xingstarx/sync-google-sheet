@@ -1498,6 +1498,7 @@
   <string name="error_upload_attachment_failed" platform="Desktop">Failed to upload message attachment</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">Open Mixin Messenger on your phone.</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">Scan the QR Code on the screen and confirm your login.</string>
+  <string name="chat_text_size" platform="Desktop">Chat Text Size</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
