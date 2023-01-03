@@ -671,8 +671,8 @@
 | android, iOS | hold_to_record_audio | Hold to record, release to send | 长按说话，松手发送 | 長押しして録音、離して送信 | Tahan untuk merakam, lepaskan untuk hantar | Tahan untuk merekam, lepaskan untuk mengirim |
 | android, iOS, Desktop | Hour | %d Hour | %d 小时 | %d時間 |     |     |
 | android, iOS, Desktop | Hour.count | %d Hours | %d 小时 | %d時間 | %d Jam | %d Jam |
-| iOS | how_are_you | Hi, how are you? | 嗨，你好吗？ | こんにちは、調子はどうですか |     |     |
-| iOS | i_am_good | I’m good. | 我很好。 | いい気分 |     |     |
+| iOS, Desktop | how_are_you | Hi, how are you? | 嗨，你好吗？ | こんにちは、調子はどうですか |     |     |
+| iOS, Desktop | i_am_good | I’m good. | 我很好。 | いい気分 |     |     |
 | android | I_know | I know | 我知道了 | わかりました | saya tahu | Saya tahu |
 | Desktop | ignore_this_version | Ignore the new version | 忽略这次版本更新 | 最新版を無視 |     |     |
 | iOS, Desktop | image | image | 图片  | 画像  |     |     |
