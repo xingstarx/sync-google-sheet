@@ -660,8 +660,8 @@
   <string name="hold_to_record_audio" platform="android, iOS">长按说话，松手发送</string>
   <string name="Hour" platform="android, iOS, Desktop">%d 小时</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d 小时</string>
-  <string name="how_are_you" platform="iOS">嗨，你好吗？</string>
-  <string name="i_am_good" platform="iOS">我很好。</string>
+  <string name="how_are_you" platform="iOS, Desktop">嗨，你好吗？</string>
+  <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
   <string name="ignore_this_version" platform="Desktop">忽略这次版本更新</string>
   <string name="image" platform="iOS, Desktop">图片</string>
@@ -1475,4 +1475,5 @@
   <string name="error_upload_attachment_failed" platform="Desktop">消息附件上传失败</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">打开手机上的 Mixin Messenger。</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">扫描屏幕上的二维码，确认登录。</string>
+  <string name="chat_text_size" platform="Desktop">聊天字体大小</string>
 </resources>

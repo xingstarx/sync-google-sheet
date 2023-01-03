@@ -671,8 +671,8 @@
 | android, iOS | hold_to_record_audio | Hold to record, release to send | 长按说话，松手发送 | 長押しして録音、離して送信 | Tahan untuk merakam, lepaskan untuk hantar | Tahan untuk merekam, lepaskan untuk mengirim |
 | android, iOS, Desktop | Hour | %d Hour | %d 小时 | %d時間 |     |     |
 | android, iOS, Desktop | Hour.count | %d Hours | %d 小时 | %d時間 | %d Jam | %d Jam |
-| iOS | how_are_you | Hi, how are you? | 嗨，你好吗？ | こんにちは、調子はどうですか |     |     |
-| iOS | i_am_good | I’m good. | 我很好。 | いい気分 |     |     |
+| iOS, Desktop | how_are_you | Hi, how are you? | 嗨，你好吗？ | こんにちは、調子はどうですか |     |     |
+| iOS, Desktop | i_am_good | I’m good. | 我很好。 | いい気分 |     |     |
 | android | I_know | I know | 我知道了 | わかりました | saya tahu | Saya tahu |
 | Desktop | ignore_this_version | Ignore the new version | 忽略这次版本更新 | 最新版を無視 |     |     |
 | iOS, Desktop | image | image | 图片  | 画像  |     |     |
@@ -1499,6 +1499,7 @@
 | Desktop | error_upload_attachment_failed | Failed to upload message attachment | 消息附件上传失败 |     |     |     |
 | Desktop | login_by_qrcode_tips_1 | Open Mixin Messenger on your phone. | 打开手机上的 Mixin Messenger。 | 携帯でMixinを開き |     |     |
 | Desktop | login_by_qrcode_tips_2 | Scan the QR Code on the screen and confirm your login. | 扫描屏幕上的二维码，确认登录。 | 画面に表示されるQRコードを読み取り、ログインします |     |     |
+| Desktop | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
