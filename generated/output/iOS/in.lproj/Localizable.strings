@@ -961,6 +961,7 @@
 "wallet_transactions_asset_key_warning" = "Kode aset BUKAN alamat deposit!";
 "wallet_transfer_recent_tip" = "Anda telah mentransfer %3$@ ke %2$@ %1$@. Ingin mentransfernya lagi?";
 "wallet_withdrawal_changed" = "The withdrawal fee has been changed from %1$@ to %2$@, would you like to proceed with the request?";
+"wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "Anda telah menarik %3$@ ke %2$@ %1$@, Anda ingin menariknya lagi?";
 "web_cannot_reached_desc" = "%@ took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page.";
 "web_cannot_reached_title" = "This webpage can't be reached";
