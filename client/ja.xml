@@ -341,7 +341,7 @@
   <string name="Copy" platform="android, iOS, Desktop">コピー</string>
   <string name="Copy_Conversation_Id" platform="iOS">チャットルームIDをコピー</string>
   <string name="Copy_invite" platform="android, iOS, Desktop">招待リンクをコピーする</string>
-  <string name="Copy_link" platform="android, iOS">リンクをコピー</string>
+  <string name="Copy_link" platform="android, iOS, Desktop">リンクをコピー</string>
   <string name="Copy_User_Id" platform="iOS">ユーザーIDをコピー</string>
   <string name="Create" platform="android, iOS, Desktop">作成</string>
   <string name="create_circle" platform="Desktop">新しいグループリスト</string>
