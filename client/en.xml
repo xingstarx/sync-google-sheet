@@ -380,7 +380,7 @@
   <string name="Copy" platform="android, iOS, Desktop">Copy</string>
   <string name="Copy_Conversation_Id" platform="iOS">Copy Conversation ID</string>
   <string name="Copy_invite" platform="android, iOS, Desktop">Copy Invite Link</string>
-  <string name="Copy_link" platform="android, iOS">Copy Link</string>
+  <string name="Copy_link" platform="android, iOS, Desktop">Copy Link</string>
   <string name="Copy_User_Id" platform="iOS">Copy User ID</string>
   <string name="Create" platform="android, iOS, Desktop">Create</string>
   <string name="create_circle" platform="Desktop">New Circle</string>

@@ -185,7 +185,7 @@
   <string name="copied_to_clipboard" platform="android">Salin ke papan keratan</string>
   <string name="Copy" platform="android, iOS, Desktop">Salinan</string>
   <string name="Copy_invite" platform="android, iOS, Desktop">Salin pautan</string>
-  <string name="Copy_link" platform="android, iOS">Salin pautan</string>
+  <string name="Copy_link" platform="android, iOS, Desktop">Salin pautan</string>
   <string name="Create" platform="android, iOS, Desktop">Buat</string>
   <string name="Creating" platform="android">Membuat…</string>
   <string name="Currency" platform="android, iOS">Mata Wang</string>

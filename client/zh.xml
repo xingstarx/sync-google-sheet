@@ -375,7 +375,7 @@
   <string name="Copy" platform="android, iOS, Desktop">复制</string>
   <string name="Copy_Conversation_Id" platform="iOS">复制对话 ID</string>
   <string name="Copy_invite" platform="android, iOS, Desktop">复制邀请链接</string>
-  <string name="Copy_link" platform="android, iOS">复制链接</string>
+  <string name="Copy_link" platform="android, iOS, Desktop">复制链接</string>
   <string name="Copy_User_Id" platform="iOS">复制用户 ID</string>
   <string name="Create" platform="android, iOS, Desktop">创建</string>
   <string name="create_circle" platform="Desktop">新建圈子</string>
