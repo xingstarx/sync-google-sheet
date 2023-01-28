@@ -1501,6 +1501,7 @@
 | Desktop | login_by_qrcode_tips_1 | Open Mixin Messenger on your phone. | 打开手机上的 Mixin Messenger。 | 携帯でMixinを開き |     |     |
 | Desktop | login_by_qrcode_tips_2 | Scan the QR Code on the screen and confirm your login. | 扫描屏幕上的二维码，确认登录。 | 画面に表示されるQRコードを読み取り、ログインします |     |     |
 | Desktop, iOS | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
+| iOS, android |     | Use System Text Size |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
