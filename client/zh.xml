@@ -1476,5 +1476,5 @@
   <string name="error_upload_attachment_failed" platform="Desktop">消息附件上传失败</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">打开手机上的 Mixin Messenger。</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">扫描屏幕上的二维码，确认登录。</string>
-  <string name="chat_text_size" platform="Desktop">聊天字体大小</string>
+  <string name="chat_text_size" platform="Desktop, iOS">聊天字体大小</string>
 </resources>
