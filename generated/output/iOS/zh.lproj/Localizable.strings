@@ -182,6 +182,7 @@
 "chat_pin_message" = "%1$@置顶了%2$@";
 "chat_recall_delete_alert" = "所有使用最新版本 Mixin Messenger 的设备都将删除被选中的消息";
 "chat_restore_subtitle" = "如果现在不恢复，未来将无法恢复这些记录。媒体文件将在信息恢复完成后在后台继续运行。";
+"chat_text_size" = "聊天字体大小";
 "chat_waiting" = "等待%1$@上线后建立加密会话。%2$@。";
 "chats" = "会话";
 "choose_network" = "选择充值网络";
@@ -928,6 +929,7 @@
 "use_face_multisig" = "使用面容签名";
 "use_face_pay" = "使用面容支付";
 "use_face_withdraw" = "使用面容提现";
+"use_system_text_size" = "跟随系统字体大小";
 "use_touch_multisig" = "使用指纹签名";
 "use_touch_pay" = "使用指纹支付";
 "use_touch_withdraw" = "使用指纹提现";

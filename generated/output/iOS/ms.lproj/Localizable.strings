@@ -182,6 +182,7 @@
 "chat_pin_message" = "%1$@ pinned %2$@";
 "chat_recall_delete_alert" = "Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini.";
 "chat_restore_subtitle" = "You will not be able to restore later if you decline to restore now. Media files will continue restore in background after messages is restored.";
+"chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Menunggu %1$@ untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$@.";
 "chats" = "SEMBANG";
 "choose_network" = "Choose Network";
@@ -929,6 +930,7 @@
 "use_face_multisig" = "Use Face Multisig";
 "use_face_pay" = "Use Face Pay";
 "use_face_withdraw" = "Use Face Withdraw";
+"use_system_text_size" = "Use System Text Size";
 "use_touch_multisig" = "Use Touch Multisig";
 "use_touch_pay" = "Use Touch Pay";
 "use_touch_withdraw" = "Use Touch Withdraw";

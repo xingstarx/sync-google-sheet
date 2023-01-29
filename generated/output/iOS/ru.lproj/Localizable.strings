@@ -182,6 +182,7 @@
 "chat_pin_message" = "%1$@ закрепил %2$@";
 "chat_recall_delete_alert" = "Выбранные вами сообщения будут удалены для всех в последней версии Mixin в этом чате.";
 "chat_restore_subtitle" = "Вы не сможете восстановить позже, если откажетесь от восстановления сейчас. Медиафайлы будут продолжать восстанавливаться в фоновом режиме после восстановления сообщений.";
+"chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Ожидание, пока %1$@ подключится к сети и установит зашифрованный сеанс. %2$@.";
 "chats" = "ЧАТЫ";
 "choose_network" = "Choose Network";
@@ -928,6 +929,7 @@
 "use_face_multisig" = "Используйте Face Multisig";
 "use_face_pay" = "Используйте Face Pay";
 "use_face_withdraw" = "Используйте Face Withdraw";
+"use_system_text_size" = "Use System Text Size";
 "use_touch_multisig" = "Используйте сенсорную мультиподпись";
 "use_touch_pay" = "Используйте сенсорную оплату";
 "use_touch_withdraw" = "Используйте сенсорный вывод";

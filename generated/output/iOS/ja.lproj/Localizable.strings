@@ -182,6 +182,7 @@
 "chat_pin_message" = "%1$@は%2$@をピン留めしました";
 "chat_recall_delete_alert" = "選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。";
 "chat_restore_subtitle" = "現在復元しない場合、後で復元はできません。メディアファイルはメッセージに続いて復元されます。";
+"chat_text_size" = "Chat Text Size";
 "chat_waiting" = "オンラインで暗号化されたやりとりを開始するまであと%1$@。%2$@";
 "chats" = "チャット";
 "choose_network" = "Choose Network";
@@ -928,6 +929,7 @@
 "use_face_multisig" = "顔認証マルチシグを使用";
 "use_face_pay" = "顔認証で支払う";
 "use_face_withdraw" = "顔認証で出金する";
+"use_system_text_size" = "Use System Text Size";
 "use_touch_multisig" = "指紋認証マルチシグを使用";
 "use_touch_pay" = "指紋認証で支払う";
 "use_touch_withdraw" = "指紋認証で出金する";
