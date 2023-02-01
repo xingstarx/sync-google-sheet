@@ -105,7 +105,7 @@
 "auto_download_hint" = "媒体自动下载设定，所有语音消息将自动下载。";
 "auto_lock" = "自动锁定";
 "automatic" = "自动";
-"back_to" = "返回 %@";
+"back_to" = "返回商家";
 "back_to_chat" = "返回聊天";
 "back_up_now" = "立即备份";
 "background_preview" = "背景预览";

@@ -105,7 +105,7 @@
 "auto_download_hint" = "メディアを自動ダウンロードする設定に変更する：音声メッセージは常に自動ダウンロードされます";
 "auto_lock" = "自動ロック";
 "automatic" = "自動";
-"back_to" = "Back to %@";
+"back_to" = "Back to Merchant";
 "back_to_chat" = "チャットに戻る";
 "back_up_now" = "今すぐバックアップ";
 "background_preview" = "背景のプレビュー";

@@ -105,7 +105,7 @@
 "auto_download_hint" = "Change auto-download settings for medias. Voice messages are always automatically downloaded.";
 "auto_lock" = "Auto-Lock";
 "automatic" = "Automatic";
-"back_to" = "Back to %@";
+"back_to" = "Back to Merchant";
 "back_to_chat" = "Back To Chat";
 "back_up_now" = "Back Up Now";
 "background_preview" = "Background Preview";

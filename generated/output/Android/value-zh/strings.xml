@@ -106,7 +106,7 @@
 	<string name="Authorizations">授权</string>
 	<string name="auto_download_hint">媒体自动下载设定，所有语音消息将自动下载。</string>
 	<string name="Auto_Lock">自动锁定</string>
-	<string name="back_to">返回 %1$s</string>
+	<string name="back_to">返回商家</string>
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="Backing_Up">正在备份…</string>
 	<string name="Backup">备份</string>
