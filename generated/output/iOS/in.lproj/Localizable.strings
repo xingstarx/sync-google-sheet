@@ -105,6 +105,7 @@
 "auto_download_hint" = "Change auto-download settings for medias. Voice messages are always automatically downloaded.";
 "auto_lock" = "Auto-Lock";
 "automatic" = "Automatic";
+"back_to" = "Back to %@";
 "back_to_chat" = "Kembali Ke Obrolan";
 "back_up_now" = "Back Up Now";
 "background_preview" = "Background Preview";
@@ -831,6 +832,7 @@
 "start_messaging" = "Mulai Mengirim Pesan";
 "started_group_call" = "%@ has started a group call";
 "status" = "Status";
+"stay_in_mixin" = "Stay in Mixin";
 "sticker" = "Stiker";
 "sticker_add_requirements" = "Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.";
 "sticker_store" = "Sticker Store";
@@ -839,6 +841,7 @@
 "stop_playing_this_list" = "Stop playing this list?";
 "storage_usage" = "Penggunaan Penyimpanan";
 "stranger_hint" = "This sender is not in your contacts";
+"successful" = "Berhasil";
 "suspicious_link" = "Tautan yang Mencurigakan";
 "symbol" = "Simbol";
 "symbol_withdrawal" = "%@ Withdrawal";
