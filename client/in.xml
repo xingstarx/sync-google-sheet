@@ -597,7 +597,7 @@
   <string name="storage_low_message" platform="android">Ruang penyimpanan ponsel Anda hampir habis, sehingga dapat memengaruhi penggunaan Mixin oleh Anda dan bahkan dapat mengakibatkan rusak atau hilangnya obrolan serta data penting lainnya. Anda disarankan untuk menghapus aplikasi yang tidak digunakan untuk memberi ruang yang cukup</string>
   <string name="storage_low_title" platform="android">Ruang penyimpanan ponsel Anda hampir habis</string>
   <string name="Storage_Usage" platform="android, iOS, Desktop">Penggunaan Penyimpanan</string>
-  <string name="Successful" platform="android, Desktop">Berhasil</string>
+  <string name="Successful" platform="android, Desktop, iOS">Berhasil</string>
   <string name="Sunday" platform="android">Minggu</string>
   <string name="Suspicious_Link" platform="android, iOS">Tautan yang Mencurigakan</string>
   <string name="Switching_currency" platform="android">Mengganti mata uang</string>

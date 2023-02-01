@@ -1275,7 +1275,7 @@
   <string name="Stranger_Transfer_Confirmation" platform="android">Stranger Transfer Confirmation</string>
   <string name="strangers" platform="Desktop">Strangers</string>
   <string name="strikethrough" platform="android">strikethrough</string>
-  <string name="Successful" platform="android, Desktop">Successful</string>
+  <string name="Successful" platform="android, Desktop, iOS">Successful</string>
   <string name="Sunday" platform="android">Sunday</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
   <string name="Switching_currency" platform="android">Switching currency</string>

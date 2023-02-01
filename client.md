@@ -163,7 +163,7 @@
 | Desktop | avatar | Avatar | 头像  | アバター |     |     |
 | android | avatar_transition_name | avatar_transition_name |     | avatar_transition_name | avatar_transition_name | avatar_transition_name |
 | android, iOS | back_to | Back to  %1$s | 返回 %1$s |     |     |     |
-| android, iOS | stay_in_mixin | Stay in Mixin |     |     |     |     |
+| android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
 | android, iOS | Back_To_Chat | Back To Chat | 返回聊天 | チャットに戻る | Kembali Ke Sembang | Kembali Ke Obrolan |
 | iOS | Back_Up_Now | Back Up Now | 立即备份 | 今すぐバックアップ |     |     |
 | iOS | Background_Preview | Background Preview | 背景预览 | 背景のプレビュー |     |     |
@@ -1276,7 +1276,7 @@
 | android | Stranger_Transfer_Confirmation | Stranger Transfer Confirmation | 陌生人转账确认 | 連絡先にない相手からの送金確認 | Pengesahan Pemindahan Orang Asing |     |
 | Desktop | strangers | Strangers | 陌生人 | 連絡先にない相手 |     |     |
 | android | strikethrough | strikethrough | 删除线 | 取り消し線 | mencoret |     |
-| android, Desktop | Successful | Successful | 成功  | 成功  | Berjaya | Berhasil |
+| android, Desktop, iOS | Successful | Successful | 成功  | 成功  | Berjaya | Berhasil |
 | android | Sunday | Sunday | 星期日 | 日曜日 | Ahad | Minggu |
 | android, iOS | Suspicious_Link | Suspicious Link | 可疑链接 | 不審なリンクです | Pautan yang mencurigakan | Tautan yang Mencurigakan |
 | android | Switching_currency | Switching currency | 切换货币中 | 通貨を切り替え | Menukar mata wang | Mengganti mata uang |
