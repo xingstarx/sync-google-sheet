@@ -159,7 +159,7 @@
   <string name="Auto_Lock" platform="android, iOS">自动锁定</string>
   <string name="Automatic" platform="iOS">自动</string>
   <string name="avatar" platform="Desktop">头像</string>
-  <string name="back_to" platform="android, iOS">回到商家</string>
+  <string name="back_to" platform="android, iOS">返回商家</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="Back_Up_Now" platform="iOS">立即备份</string>
