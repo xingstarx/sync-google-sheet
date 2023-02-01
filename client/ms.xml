@@ -649,7 +649,7 @@
   <string name="Storage_Usage" platform="android, iOS, Desktop">Penggunaan Storan</string>
   <string name="Stranger_Transfer_Confirmation" platform="android">Pengesahan Pemindahan Orang Asing</string>
   <string name="strikethrough" platform="android">mencoret</string>
-  <string name="Successful" platform="android, Desktop">Berjaya</string>
+  <string name="Successful" platform="android, Desktop, iOS">Berjaya</string>
   <string name="Sunday" platform="android">Ahad</string>
   <string name="Suspicious_Link" platform="android, iOS">Pautan yang mencurigakan</string>
   <string name="Switching_currency" platform="android">Menukar mata wang</string>

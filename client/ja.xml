@@ -1197,7 +1197,7 @@
   <string name="Stranger_Transfer_Confirmation" platform="android">連絡先にない相手からの送金確認</string>
   <string name="strangers" platform="Desktop">連絡先にない相手</string>
   <string name="strikethrough" platform="android">取り消し線</string>
-  <string name="Successful" platform="android, Desktop">成功</string>
+  <string name="Successful" platform="android, Desktop, iOS">成功</string>
   <string name="Sunday" platform="android">日曜日</string>
   <string name="Suspicious_Link" platform="android, iOS">不審なリンクです</string>
   <string name="Switching_currency" platform="android">通貨を切り替え</string>

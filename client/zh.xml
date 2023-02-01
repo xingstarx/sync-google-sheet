@@ -159,6 +159,8 @@
   <string name="Auto_Lock" platform="android, iOS">自动锁定</string>
   <string name="Automatic" platform="iOS">自动</string>
   <string name="avatar" platform="Desktop">头像</string>
+  <string name="back_to" platform="android, iOS">返回 %1$s</string>
+  <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="Back_Up_Now" platform="iOS">立即备份</string>
   <string name="Background_Preview" platform="iOS">背景预览</string>
@@ -1254,7 +1256,7 @@
   <string name="Stranger_Transfer_Confirmation" platform="android">陌生人转账确认</string>
   <string name="strangers" platform="Desktop">陌生人</string>
   <string name="strikethrough" platform="android">删除线</string>
-  <string name="Successful" platform="android, Desktop">成功</string>
+  <string name="Successful" platform="android, Desktop, iOS">成功</string>
   <string name="Sunday" platform="android">星期日</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑链接</string>
   <string name="Switching_currency" platform="android">切换货币中</string>
