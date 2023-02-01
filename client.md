@@ -162,7 +162,7 @@
 | iOS | Automatic | Automatic | 自动  | 自動  |     |     |
 | Desktop | avatar | Avatar | 头像  | アバター |     |     |
 | android | avatar_transition_name | avatar_transition_name |     | avatar_transition_name | avatar_transition_name | avatar_transition_name |
-| android, iOS | back_to | Back to Merchant | 返回商家 |     |     |     |
+| android, iOS | back_to_merchant | Back to Merchant | 返回商家 |     |     |     |
 | android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
 | android, iOS | Back_To_Chat | Back To Chat | 返回聊天 | チャットに戻る | Kembali Ke Sembang | Kembali Ke Obrolan |
 | iOS | Back_Up_Now | Back Up Now | 立即备份 | 今すぐバックアップ |     |     |
