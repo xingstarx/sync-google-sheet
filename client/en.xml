@@ -1500,7 +1500,7 @@
   <string name="login_by_qrcode_tips_1" platform="Desktop">Open Mixin Messenger on your phone.</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">Scan the QR Code on the screen and confirm your login.</string>
   <string name="chat_text_size" platform="Desktop, iOS">Chat Text Size</string>
-  <string name="draft" platform="Desktop">draft</string>
+  <string name="draft" platform="Desktop">Draft</string>
   <string name="Use_System_Text_Size" platform="iOS, android">Use System Text Size</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
