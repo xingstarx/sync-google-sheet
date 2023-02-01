@@ -162,6 +162,7 @@
   <string name="avatar" platform="Desktop">Avatar</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="back_to" platform="android, iOS">Back to  %1$s</string>
+  <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">Back To Chat</string>
   <string name="Back_Up_Now" platform="iOS">Back Up Now</string>
   <string name="Background_Preview" platform="iOS">Background Preview</string>

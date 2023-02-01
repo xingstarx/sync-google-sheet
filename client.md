@@ -163,6 +163,7 @@
 | Desktop | avatar | Avatar | 头像  | アバター |     |     |
 | android | avatar_transition_name | avatar_transition_name |     | avatar_transition_name | avatar_transition_name | avatar_transition_name |
 | android, iOS | back_to | Back to  %1$s | 返回 %1$s |     |     |     |
+| android, iOS | stay_in_mixin | Stay in Mixin |     |     |     |     |
 | android, iOS | Back_To_Chat | Back To Chat | 返回聊天 | チャットに戻る | Kembali Ke Sembang | Kembali Ke Obrolan |
 | iOS | Back_Up_Now | Back Up Now | 立即备份 | 今すぐバックアップ |     |     |
 | iOS | Background_Preview | Background Preview | 背景预览 | 背景のプレビュー |     |     |
