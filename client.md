@@ -1505,6 +1505,8 @@
 | Desktop, iOS | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
 | Desktop | draft | Draft | 草稿  |     |     |     |
 | iOS, android | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
+| iOS | system | System | 跟随系统 |     |     |     |
+| iOS |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
