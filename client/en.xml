@@ -161,7 +161,7 @@
   <string name="Automatic" platform="iOS">Automatic</string>
   <string name="avatar" platform="Desktop">Avatar</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
-  <string name="back_to" platform="android, iOS">Back to Merchant</string>
+  <string name="back_to_merchant" platform="android, iOS">Back to Merchant</string>
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">Back To Chat</string>
   <string name="Back_Up_Now" platform="iOS">Back Up Now</string>
@@ -1504,6 +1504,7 @@
   <string name="chat_text_size" platform="Desktop, iOS">Chat Text Size</string>
   <string name="draft" platform="Desktop">Draft</string>
   <string name="Use_System_Text_Size" platform="iOS, android">Use System Text Size</string>
+  <string name="system" platform="iOS">System</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>

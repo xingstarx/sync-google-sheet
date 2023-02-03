@@ -159,7 +159,7 @@
   <string name="Auto_Lock" platform="android, iOS">自动锁定</string>
   <string name="Automatic" platform="iOS">自动</string>
   <string name="avatar" platform="Desktop">头像</string>
-  <string name="back_to" platform="android, iOS">返回商家</string>
+  <string name="back_to_merchant" platform="android, iOS">返回商家</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="Back_Up_Now" platform="iOS">立即备份</string>
@@ -1481,4 +1481,5 @@
   <string name="chat_text_size" platform="Desktop, iOS">聊天字体大小</string>
   <string name="draft" platform="Desktop">草稿</string>
   <string name="Use_System_Text_Size" platform="iOS, android">跟随系统字体大小</string>
+  <string name="system" platform="iOS">跟随系统</string>
 </resources>
