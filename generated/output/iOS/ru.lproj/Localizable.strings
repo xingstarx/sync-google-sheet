@@ -105,8 +105,8 @@
 "auto_download_hint" = "Измените настройки автоматической загрузки для медиафайлов. Голосовые сообщения всегда загружаются автоматически.";
 "auto_lock" = "Автоматическая блокировка";
 "automatic" = "Автоматический";
-"back_to" = "Back to Merchant";
 "back_to_chat" = "Вернуться к чату";
+"back_to_merchant" = "Back to Merchant";
 "back_up_now" = "Резервное копирование сейчас";
 "background_preview" = "Фоновый просмотр";
 "backing_up" = "Резервное копирование...";
@@ -848,6 +848,7 @@
 "syncing_and_verifying_tip" = "Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.";
 "syncing_progress" = "Синхронизация %d%%";
 "syncs_contact_hint" = "Mixin синхронизирует вашу адресную книгу с серверами Mixin, чтобы помочь вам связаться с другими пользователями Mixin.";
+"system" = "System";
 "system_time_is_unusual" = "Системное время необычно";
 "tag" = "Ярлык";
 "tap_to_join" = "Нажмите, чтобы присоединиться";

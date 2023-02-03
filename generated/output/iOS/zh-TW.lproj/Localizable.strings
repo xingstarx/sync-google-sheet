@@ -105,8 +105,8 @@
 "auto_download_hint" = "媒體自動下載設定，所有語音訊息將自動下載。";
 "auto_lock" = "自動鎖定";
 "automatic" = "自動";
-"back_to" = "Back to Merchant";
 "back_to_chat" = "返回聊天";
+"back_to_merchant" = "Back to Merchant";
 "back_up_now" = "立即備份";
 "background_preview" = "背景預覽";
 "backing_up" = "正在備份...";
@@ -848,6 +848,7 @@
 "syncing_and_verifying_tip" = "正在驗證並同步金鑰分片到 TIP 網路，請保持應用在前臺，設定過程中不要強制關閉應用";
 "syncing_progress" = "正在同步 %d%%";
 "syncs_contact_hint" = "同步通訊錄到 Mixin 發現更多好友。";
+"system" = "System";
 "system_time_is_unusual" = "系統時間異常";
 "tag" = "Tag（標籤）";
 "tap_to_join" = "點選加入";
