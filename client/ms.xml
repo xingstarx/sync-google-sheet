@@ -697,7 +697,7 @@
   <string name="Update_Mixin" platform="android, iOS">Kemas kini Mixin</string>
   <string name="update_mixin_description" platform="android">Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play.</string>
   <string name="Upgrade_Database" platform="android, iOS">Naik taraf Pangkalan Data</string>
-  <string name="Upgrading" platform="android, iOS">Menaik taraf</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">Menaik taraf</string>
   <string name="Upload_timeout" platform="android">Tamat masa muat naik</string>
   <string name="Use_Biometric_Multisig" platform="android">Gunakan Biometric Multisig</string>
   <string name="User_not_found" platform="android, iOS, Desktop">Pengguna tidak ditemui</string>

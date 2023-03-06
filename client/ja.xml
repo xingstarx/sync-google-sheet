@@ -1291,7 +1291,7 @@
   <string name="Update_Mixin" platform="android, iOS">Mixinのアップデート</string>
   <string name="update_mixin_description" platform="android">現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。</string>
   <string name="Upgrade_Database" platform="android, iOS">データベースをアップグレード</string>
-  <string name="Upgrading" platform="android, iOS">アップデート中</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">アップデート中</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">連絡先をアップロードする</string>
   <string name="Upload_timeout" platform="android">アップロードタイムアウト</string>
   <string name="Uploading" platform="iOS">アップロードしています...</string>

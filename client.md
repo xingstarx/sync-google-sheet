@@ -1381,10 +1381,10 @@
 | android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 | 現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。 | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. |
 | android,iOS | Upgrade | Upgrade | 升级  |     |     |     |
 | android, iOS | Upgrade_Database | Upgrade Database | 数据库升级 | データベースをアップグレード | Naik taraf Pangkalan Data | Tingkatkan Database |
-| android,iOS, Desktop | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
+| android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_TIP | Upgrade TIP | 升级 TIP |     |     |     |
 | android,iOS | Upgrade_TIP_successfully | Upgrade TIP successfully | TIP 升级成功 |     |     |     |
-| android, iOS | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
+| android, iOS, Desktop | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
 | android,iOS | Upgrading_TIP_terminated_unexpectedly | Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade | 升级 TIP 意外中止，点继续完成 TIP 升级 |     |     |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts | 上传通讯录找好友 | 連絡先をアップロードする |     |     |
 | android | Upload_timeout | Upload timeout | 上传超时 | アップロードタイムアウト | Tamat masa muat naik | Batas waktu unggah |

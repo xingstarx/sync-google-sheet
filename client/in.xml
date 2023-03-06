@@ -642,7 +642,7 @@
   <string name="Update_Mixin" platform="android, iOS">Perbarui Mixin</string>
   <string name="update_mixin_description" platform="android">Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store.</string>
   <string name="Upgrade_Database" platform="android, iOS">Tingkatkan Database</string>
-  <string name="Upgrading" platform="android, iOS">Meningkatkan</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">Meningkatkan</string>
   <string name="Upload_timeout" platform="android">Batas waktu unggah</string>
   <string name="Use_Biometric_Multisig" platform="android">Gunakan Multisig Biometrik</string>
   <string name="User_not_found" platform="android, iOS, Desktop">Pengguna tidak ditemukan</string>
