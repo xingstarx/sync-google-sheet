@@ -363,7 +363,7 @@
   <string name="Data_loading" platform="android, Desktop">ロード中...</string>
   <string name="Data_Parsing_Error" platform="iOS">データ解析エラー</string>
   <string name="Database_access" platform="iOS">データベースへの接続</string>
-  <string name="database_upgrade_tips" platform="android, iOS">データベースをアップグレードしています。アプリを閉じないでください。</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">データベースをアップグレードしています。アプリを閉じないでください。</string>
   <string name="Date" platform="android, iOS">日付</string>
   <string name="date_format_date" platform="android, iOS">MMM dd, yyyy</string>
   <string name="date_format_day" platform="iOS">HH:mm a</string>
@@ -1291,7 +1291,7 @@
   <string name="Update_Mixin" platform="android, iOS">Mixinのアップデート</string>
   <string name="update_mixin_description" platform="android">現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。</string>
   <string name="Upgrade_Database" platform="android, iOS">データベースをアップグレード</string>
-  <string name="Upgrading" platform="android, iOS">アップデート中</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">アップデート中</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">連絡先をアップロードする</string>
   <string name="Upload_timeout" platform="android">アップロードタイムアウト</string>
   <string name="Uploading" platform="iOS">アップロードしています...</string>

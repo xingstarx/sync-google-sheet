@@ -191,7 +191,7 @@
   <string name="Currency" platform="android, iOS">Mata Wang</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Penggunaan Data dan Storan</string>
   <string name="Data_error" platform="android, Desktop">Kesalahan data</string>
-  <string name="database_upgrade_tips" platform="android, iOS">Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini.</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini.</string>
   <string name="Date" platform="android, iOS">Tarikh</string>
   <string name="date_format_date" platform="android, iOS">BBB hh, tttt</string>
   <string name="db_debug_warning" platform="android">Perhatian: Sekiranya pernyataan SQL berbahaya dijalankan, hasilnya tidak dapat dipulihkan!</string>
@@ -697,7 +697,7 @@
   <string name="Update_Mixin" platform="android, iOS">Kemas kini Mixin</string>
   <string name="update_mixin_description" platform="android">Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play.</string>
   <string name="Upgrade_Database" platform="android, iOS">Naik taraf Pangkalan Data</string>
-  <string name="Upgrading" platform="android, iOS">Menaik taraf</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">Menaik taraf</string>
   <string name="Upload_timeout" platform="android">Tamat masa muat naik</string>
   <string name="Use_Biometric_Multisig" platform="android">Gunakan Biometric Multisig</string>
   <string name="User_not_found" platform="android, iOS, Desktop">Pengguna tidak ditemui</string>

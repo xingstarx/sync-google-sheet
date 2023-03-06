@@ -410,7 +410,7 @@
 | android, Desktop | Data_loading | Data loading, please wait... | 数据加载中，请稍后 | ロード中... |     |     |
 | iOS | Data_Parsing_Error | Data parsing error | 数据解析错误 | データ解析エラー |     |     |
 | iOS | Database_access | Database access | 数据库访问 | データベースへの接続 |     |     |
-| android, iOS | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. |
+| android, iOS, Desktop | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. |
 | android, iOS | Date | Date | 日期  | 日付  | Tarikh | Tanggal |
 | android, iOS | date_format_date | MMM dd, yyyy | yyyy 年 MM 月 dd 日 | MMM dd, yyyy | BBB hh, tttt | TTT bb, tttt |
 | iOS | date_format_day | hh:mm a | ahh:mm | HH:mm a |     |     |
@@ -1384,7 +1384,7 @@
 | android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_TIP | Upgrade TIP | 升级 TIP |     |     |     |
 | android,iOS | Upgrade_TIP_successfully | Upgrade TIP successfully | TIP 升级成功 |     |     |     |
-| android, iOS | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
+| android, iOS, Desktop | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
 | android,iOS | Upgrading_TIP_terminated_unexpectedly | Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade | 升级 TIP 意外中止，点继续完成 TIP 升级 |     |     |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts | 上传通讯录找好友 | 連絡先をアップロードする |     |     |
 | android | Upload_timeout | Upload timeout | 上传超时 | アップロードタイムアウト | Tamat masa muat naik | Batas waktu unggah |

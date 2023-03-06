@@ -409,7 +409,7 @@
   <string name="Data_loading" platform="android, Desktop">Data loading, please wait...</string>
   <string name="Data_Parsing_Error" platform="iOS">Data parsing error</string>
   <string name="Database_access" platform="iOS">Database access</string>
-  <string name="database_upgrade_tips" platform="android, iOS">The database is being upgraded, it may take several minutes, please do not close this App.</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">The database is being upgraded, it may take several minutes, please do not close this App.</string>
   <string name="Date" platform="android, iOS">Date</string>
   <string name="date_format_date" platform="android, iOS">MMM dd, yyyy</string>
   <string name="date_format_day" platform="iOS">hh:mm a</string>
@@ -1383,7 +1383,7 @@
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">Upgrade TIP successfully</string>
-  <string name="Upgrading" platform="android, iOS">Upgrading</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">Upgrading</string>
   <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Upload Mobile Contacts</string>
   <string name="Upload_timeout" platform="android">Upload timeout</string>

@@ -404,7 +404,7 @@
   <string name="Data_loading" platform="android, Desktop">数据加载中，请稍后</string>
   <string name="Data_Parsing_Error" platform="iOS">数据解析错误</string>
   <string name="Database_access" platform="iOS">数据库访问</string>
-  <string name="database_upgrade_tips" platform="android, iOS">正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。</string>
   <string name="Date" platform="android, iOS">日期</string>
   <string name="date_format_date" platform="android, iOS">yyyy 年 MM 月 dd 日</string>
   <string name="date_format_day" platform="iOS">ahh:mm</string>
@@ -1363,7 +1363,7 @@
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">升级需要验证你的 PIN</string>
   <string name="Upgrade_TIP" platform="android,iOS">升级 TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">TIP 升级成功</string>
-  <string name="Upgrading" platform="android, iOS">升级中...</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">升级中...</string>
   <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">升级 TIP 意外中止，点继续完成 TIP 升级</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">上传通讯录找好友</string>
   <string name="Upload_timeout" platform="android">上传超时</string>
