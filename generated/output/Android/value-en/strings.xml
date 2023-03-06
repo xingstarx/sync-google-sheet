@@ -231,6 +231,7 @@
 	<string name="Click_to_retry">Click to retry</string>
 	<string name="Click_to_unlock">Click to unlock</string>
 	<string name="Close">Close</string>
+	<string name="Closing_Balance">Closing Balance</string>
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
@@ -679,6 +680,7 @@
 	<string name="Open_Home_page">Open Home page</string>
 	<string name="Open_in_browser">Open in browser</string>
 	<string name="Open_Link">Open Link: %1$s</string>
+	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
 	<string name="OTHER">OTHER</string>
 	<string name="Owner">Owner</string>
@@ -919,6 +921,7 @@
 	<string name="Size">Size</string>
 	<string name="Skip">Skip</string>
 	<string name="Slide_to_cancel">Slide to Cancel</string>
+	<string name="snapshot_Hash">Snapshot Hash</string>
 	<string name="Sort">Sort</string>
 	<string name="Sort_by">Sort by</string>
 	<string name="Start">Start</string>

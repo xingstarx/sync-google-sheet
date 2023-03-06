@@ -203,6 +203,7 @@
 "cleared" = "已清空";
 "clock_skew_hint" = "请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。";
 "close" = "关闭";
+"closing_balance" = "期末余额";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "合并转发";
 "compress_database" = "压缩数据库";
@@ -432,7 +433,7 @@
 "hour_count" = "%d 小时";
 "how_are_you" = "嗨，你好吗？";
 "i_am_good" = "我很好。";
-"image" = "图片";
+"image" = "图像";
 "image_shareable_false" = "该图片已被设置为不允许转发";
 "immediately" = "立刻";
 "in_connecting" = "正在连接...";
@@ -594,6 +595,7 @@
 "open_in_maps" = "在地图中打开";
 "open_link" = "打开链接：%@";
 "open_url" = "打开链接";
+"opening_balance" = "期初余额";
 "operation_failed" = "操作失败，请稍后重试";
 "optimize_database" = "优化查询索引";
 "optimized" = "已优化";
@@ -825,6 +827,7 @@
 "sign_with_phone_number" = "通过手机号登录";
 "skip" = "跳过";
 "slide_to_cancel" = "滑动取消";
+"snapshot_hash" = "快照哈希";
 "snapshot_not_found" = "找不到该转账记录。";
 "social" = "社交";
 "sort_by" = "顺序";
