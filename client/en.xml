@@ -409,7 +409,7 @@
   <string name="Data_loading" platform="android, Desktop">Data loading, please wait...</string>
   <string name="Data_Parsing_Error" platform="iOS">Data parsing error</string>
   <string name="Database_access" platform="iOS">Database access</string>
-  <string name="database_upgrade_tips" platform="android, iOS">The database is being upgraded, it may take several minutes, please do not close this App.</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">The database is being upgraded, it may take several minutes, please do not close this App.</string>
   <string name="Date" platform="android, iOS">Date</string>
   <string name="date_format_date" platform="android, iOS">MMM dd, yyyy</string>
   <string name="date_format_day" platform="iOS">hh:mm a</string>
@@ -1380,7 +1380,7 @@
   <string name="update_mixin_description" platform="android">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
   <string name="Upgrade" platform="android,iOS">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
-  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS, Desktop">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">Upgrade TIP successfully</string>
   <string name="Upgrading" platform="android, iOS">Upgrading</string>

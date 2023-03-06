@@ -363,7 +363,7 @@
   <string name="Data_loading" platform="android, Desktop">ロード中...</string>
   <string name="Data_Parsing_Error" platform="iOS">データ解析エラー</string>
   <string name="Database_access" platform="iOS">データベースへの接続</string>
-  <string name="database_upgrade_tips" platform="android, iOS">データベースをアップグレードしています。アプリを閉じないでください。</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">データベースをアップグレードしています。アプリを閉じないでください。</string>
   <string name="Date" platform="android, iOS">日付</string>
   <string name="date_format_date" platform="android, iOS">MMM dd, yyyy</string>
   <string name="date_format_day" platform="iOS">HH:mm a</string>

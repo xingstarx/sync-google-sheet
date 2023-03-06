@@ -410,7 +410,7 @@
 | android, Desktop | Data_loading | Data loading, please wait... | 数据加载中，请稍后 | ロード中... |     |     |
 | iOS | Data_Parsing_Error | Data parsing error | 数据解析错误 | データ解析エラー |     |     |
 | iOS | Database_access | Database access | 数据库访问 | データベースへの接続 |     |     |
-| android, iOS | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. |
+| android, iOS, Desktop | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. |
 | android, iOS | Date | Date | 日期  | 日付  | Tarikh | Tanggal |
 | android, iOS | date_format_date | MMM dd, yyyy | yyyy 年 MM 月 dd 日 | MMM dd, yyyy | BBB hh, tttt | TTT bb, tttt |
 | iOS | date_format_day | hh:mm a | ahh:mm | HH:mm a |     |     |
@@ -1381,7 +1381,7 @@
 | android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 | 現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。 | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. |
 | android,iOS | Upgrade | Upgrade | 升级  |     |     |     |
 | android, iOS | Upgrade_Database | Upgrade Database | 数据库升级 | データベースをアップグレード | Naik taraf Pangkalan Data | Tingkatkan Database |
-| android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
+| android,iOS, Desktop | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_TIP | Upgrade TIP | 升级 TIP |     |     |     |
 | android,iOS | Upgrade_TIP_successfully | Upgrade TIP successfully | TIP 升级成功 |     |     |     |
 | android, iOS | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |

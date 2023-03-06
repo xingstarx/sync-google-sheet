@@ -181,7 +181,7 @@
   <string name="Currency" platform="android, iOS">Mata uang</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Penggunaan Data dan Penyimpanan</string>
   <string name="Data_error" platform="android, Desktop">Kesalahan data</string>
-  <string name="database_upgrade_tips" platform="android, iOS">Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini.</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini.</string>
   <string name="Date" platform="android, iOS">Tanggal</string>
   <string name="date_format_date" platform="android, iOS">TTT bb, tttt</string>
   <string name="Decline" platform="android">Tolak</string>
