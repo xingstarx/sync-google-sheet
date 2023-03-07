@@ -1,0 +1,6 @@
+"nscamerausagedescription" = "Mixin usa la cámara para configurar la foto de perfil y enviar una foto a tu contacto en el chat";
+"nscontactsusagedescription" = "Mixin sincroniza tu libreta de direcciones con los servidores de Mixin para ayudarte a conectarse con otros usuarios de Mixin.";
+"nsfaceidusagedescription" = "Mixin usa Face ID para autorizar el pago";
+"nslocationwheninuseusagedescription" = "Activa los servicios de ubicación para enviar tu ubicación actual o lugares cercanos en una conversación";
+"nsmicrophoneusagedescription" = "Mixin usa tu micrófono para grabar mensajes de voz para compartir con tus contactos";
+"nsphotolibraryusagedescription" = "Mixin usa la biblioteca de fotos para configurar la foto de perfil y enviar una foto a tu contacto en el chat";
