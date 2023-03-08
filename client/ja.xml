@@ -131,7 +131,7 @@
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">チャットに戻る</string>
   <string name="Back_Up_Now" platform="iOS">今すぐバックアップ</string>
-  <string name="Background_Preview" platform="iOS">背景のプレビュー</string>
+  <string name="Background_Preview" platform="android, iOS">背景のプレビュー</string>
   <string name="Backing_Up" platform="android, iOS">バックアップしています...</string>
   <string name="Backup" platform="android">チャット履歴のバックアップ</string>
   <string name="backup" platform="Desktop">チャット履歴のバックアップ</string>
@@ -217,7 +217,7 @@
   <string name="chat_audio_discard_warning" platform="android">録音終了し音声メッセージを破棄してよろしいですか？</string>
   <string name="chat_audio_discard_warning_title" platform="android">音声メッセージを破棄する</string>
   <string name="chat_audio_warning" platform="android">別の音声を再生している場合、音声を再生することはできません。</string>
-  <string name="Chat_Background" platform="iOS">チャットの背景</string>
+  <string name="Chat_Background" platform="android, iOS">チャットの背景</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">チャットのバックアップ</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">ミニアプリを使用するためにボタンをタップしてください</string>
   <string name="chat_call_duration" platform="android, iOS">通話時間：%1$s</string>
@@ -998,7 +998,7 @@
   <string name="Resend_code" platform="android, iOS, Desktop">コードを再送する</string>
   <string name="Resend_code_in" platform="android, Desktop">%1$d秒後にコードを再送</string>
   <string name="resend_code_pending" platform="iOS">%@ 後にコードを再送</string>
-  <string name="reset" platform="Desktop">リセット</string>
+  <string name="reset" platform="android, Desktop">リセット</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">リンクを取り消す</string>
   <string name="Reset_notifications" platform="android">通知設定をリセット</string>
   <string name="RESTART" platform="android">リスタート</string>

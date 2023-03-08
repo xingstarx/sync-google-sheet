@@ -166,7 +166,7 @@
 | android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
 | android, iOS | Back_To_Chat | Back To Chat | 返回聊天 | チャットに戻る | Kembali Ke Sembang | Kembali Ke Obrolan |
 | iOS | Back_Up_Now | Back Up Now | 立即备份 | 今すぐバックアップ |     |     |
-| iOS | Background_Preview | Background Preview | 背景预览 | 背景のプレビュー |     |     |
+| android, iOS | Background_Preview | Background Preview | 背景预览 | 背景のプレビュー |     |     |
 | android, iOS | Backing_Up | Backing Up... | 正在备份... | バックアップしています... |     |     |
 | android | Backup | Backup | 备份  | チャット履歴のバックアップ |     |     |
 | Desktop | backup | Backup | 备份  | チャット履歴のバックアップ |     |     |
@@ -254,7 +254,7 @@
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | 你确定要停止并放弃录制的语音吗？ | 録音終了し音声メッセージを破棄してよろしいですか？ | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? |
 | android | chat_audio_discard_warning_title | Discard Voice message | 放弃录制语音 | 音声メッセージを破棄する | Buang mesej Suara | Buang pesan Suara |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. |
-| iOS | Chat_Background | Chat Background | 聊天背景 | チャットの背景 |     |     |
+| android, iOS | Chat_Background | Chat Background | 聊天背景 | チャットの背景 |     |     |
 | android, iOS, Desktop | Chat_Backup | Chat Backup | 聊天记录备份 | チャットのバックアップ |     |     |
 | android, iOS, Desktop | chat_bot_reception_title | Tap the button to interact with the bot | 点击按钮使用机器人 | ミニアプリを使用するためにボタンをタップしてください |     |     |
 | android, iOS | chat_call_duration | Duration %1$s | 通话时长 %1$s | 通話時間：%1$s | Tempoh: %1$s | Durasi: %1$s |
@@ -1073,7 +1073,7 @@
 | android, iOS, Desktop | Resend_code | Resend code | 重发验证码 | コードを再送する | Hantar semula kod | Kirim ulang kode |
 | android, Desktop | Resend_code_in | Resend code in %1$d s | %1$d 秒后重新发送验证码 | %1$d秒後にコードを再送 | Hantar semula kod dalam %1$d s | Kirim ulang kode dalam %1$d d |
 | iOS | resend_code_pending | Resend code in %@ | %@ 后重新发送验证码 | %@ 後にコードを再送 | Hantar semula kod dalam %1$d s | Kirim ulang kode dalam %1$d d |
-| Desktop | reset | Reset | 重置  | リセット |     |     |
+| android, Desktop | reset | Reset | 重置  | リセット |     |     |
 | android, iOS, Desktop | Reset_Link | Reset Link | 重置邀请链接 | リンクを取り消す |     |     |
 | android | Reset_notifications | Reset notifications | 重置通知设置 | 通知設定をリセット | Tetapkan semula pemberitahuan | Reset notifikasi |
 | android | RESTART | RESTART | 重启应用 | リスタート | MULA SEMULA | MULAI ULANG |
@@ -1505,7 +1505,7 @@
 | Desktop | error_upload_attachment_failed | Failed to upload message attachment | 消息附件上传失败 |     |     |     |
 | Desktop | login_by_qrcode_tips_1 | Open Mixin Messenger on your phone. | 打开手机上的 Mixin Messenger。 | 携帯でMixinを開き |     |     |
 | Desktop | login_by_qrcode_tips_2 | Scan the QR Code on the screen and confirm your login. | 扫描屏幕上的二维码，确认登录。 | 画面に表示されるQRコードを読み取り、ログインします |     |     |
-| Desktop, iOS | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
+| android, Desktop, iOS | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
 | Desktop | draft | Draft | 草稿  |     |     |     |
 | iOS, android | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
 | iOS | system | System | 跟随系统 |     |     |     |

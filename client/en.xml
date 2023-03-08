@@ -165,7 +165,7 @@
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">Back To Chat</string>
   <string name="Back_Up_Now" platform="iOS">Back Up Now</string>
-  <string name="Background_Preview" platform="iOS">Background Preview</string>
+  <string name="Background_Preview" platform="android, iOS">Background Preview</string>
   <string name="Backing_Up" platform="android, iOS">Backing Up...</string>
   <string name="Backup" platform="android">Backup</string>
   <string name="backup" platform="Desktop">Backup</string>
@@ -253,7 +253,7 @@
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
   <string name="chat_audio_warning" platform="android">You cannot play audio if your're already on play another audio.</string>
-  <string name="Chat_Background" platform="iOS">Chat Background</string>
+  <string name="Chat_Background" platform="android, iOS">Chat Background</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">Chat Backup</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">Tap the button to interact with the bot</string>
   <string name="chat_call_duration" platform="android, iOS">Duration %1$s</string>
@@ -1072,7 +1072,7 @@
   <string name="Resend_code" platform="android, iOS, Desktop">Resend code</string>
   <string name="Resend_code_in" platform="android, Desktop">Resend code in %1$d s</string>
   <string name="resend_code_pending" platform="iOS">Resend code in %@</string>
-  <string name="reset" platform="Desktop">Reset</string>
+  <string name="reset" platform="android, Desktop">Reset</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">Reset Link</string>
   <string name="Reset_notifications" platform="android">Reset notifications</string>
   <string name="RESTART" platform="android">RESTART</string>
@@ -1504,7 +1504,7 @@
   <string name="error_upload_attachment_failed" platform="Desktop">Failed to upload message attachment</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">Open Mixin Messenger on your phone.</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">Scan the QR Code on the screen and confirm your login.</string>
-  <string name="chat_text_size" platform="Desktop, iOS">Chat Text Size</string>
+  <string name="chat_text_size" platform="android, Desktop, iOS">Chat Text Size</string>
   <string name="draft" platform="Desktop">Draft</string>
   <string name="Use_System_Text_Size" platform="iOS, android">Use System Text Size</string>
   <string name="system" platform="iOS">System</string>
