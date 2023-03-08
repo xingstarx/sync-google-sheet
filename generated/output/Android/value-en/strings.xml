@@ -110,6 +110,7 @@
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Back To Chat</string>
 	<string name="back_to_merchant">Back to Merchant</string>
+	<string name="Background_Preview">Background Preview</string>
 	<string name="Backing_Up">Backing Up…</string>
 	<string name="Backup">Backup</string>
 	<string name="backup_choose_a_folder">Choose a folder, backups will be saved to this location</string>
@@ -175,6 +176,7 @@
 	<string name="chat_audio_discard_warning">Are you sure you want to stop recording and discard your voice message ?</string>
 	<string name="chat_audio_discard_warning_title">Discard Voice message</string>
 	<string name="chat_audio_warning">You cannot play audio if your\'re already on play another audio.</string>
+	<string name="Chat_Background">Chat Background</string>
 	<string name="Chat_Backup">Chat Backup</string>
 	<string name="chat_bot_reception_title">Tap the button to interact with the bot</string>
 	<string name="chat_call_duration">Duration %1$s</string>
@@ -204,6 +206,7 @@
 	<string name="chat_pin_message">%1$s pinned %2$s</string>
 	<string name="Chat_pinned">Chat pinned</string>
 	<string name="chat_recall_delete_alert">Messages you selected will be deleted for everyone on the latest version of Mixin in this chat.</string>
+	<string name="chat_text_size">Chat Text Size</string>
 	<string name="Chat_unpinned">Chat unpinned</string>
 	<string name="chat_waiting">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
 	<string name="CHATS">CHATS</string>
@@ -787,6 +790,7 @@
 	<string name="Requests_access_to_your">Requests access to your</string>
 	<string name="Resend_code">Resend code</string>
 	<string name="Resend_code_in">Resend code in %1$d s</string>
+	<string name="reset">Reset</string>
 	<string name="Reset_Link">Reset Link</string>
 	<string name="Reset_notifications">Reset notifications</string>
 	<string name="RESTART">RESTART</string>

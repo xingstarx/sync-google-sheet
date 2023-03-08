@@ -110,6 +110,7 @@
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Volver al chat</string>
 	<string name="back_to_merchant">Volver al comerciante</string>
+	<string name="Background_Preview">Vista previa de fondo</string>
 	<string name="Backing_Up">Realizando copia de seguridad…</string>
 	<string name="Backup">Copia de seguridad</string>
 	<string name="backup_choose_a_folder">Elige una carpeta, las copias de seguridad se guardarán en esta ubicación</string>
@@ -175,6 +176,7 @@
 	<string name="chat_audio_discard_warning">¿Estás seguro de que deseas detener la grabación y descartar tu mensaje de voz?</string>
 	<string name="chat_audio_discard_warning_title">Descartar mensaje de voz</string>
 	<string name="chat_audio_warning">No puedes reproducir audio si ya está reproduciendo otro audio.</string>
+	<string name="Chat_Background">Fondo de chat</string>
 	<string name="Chat_Backup">Copia de seguridad de chat</string>
 	<string name="chat_bot_reception_title">Toca el botón para interactuar con el bot</string>
 	<string name="chat_call_duration">Duración %1$s</string>
@@ -204,6 +206,7 @@
 	<string name="chat_pin_message">%1$s ha fijado %2$s</string>
 	<string name="Chat_pinned">Chat fijado</string>
 	<string name="chat_recall_delete_alert">Los mensajes que has seleccionado se eliminarán para todos en la última versión de Mixin en este chat.</string>
+	<string name="chat_text_size">Tamaño del texto del chat</string>
 	<string name="Chat_unpinned">Chat no fijado</string>
 	<string name="chat_waiting">Esperando a que %1$s se conecte y establezca una sesión cifrada. %2$s.</string>
 	<string name="CHATS">CHATS</string>
@@ -785,6 +788,7 @@
 	<string name="Requests_access_to_your">Solicita acceso a tu</string>
 	<string name="Resend_code">Reenviar codigo</string>
 	<string name="Resend_code_in">Reenviar código en %1$d s</string>
+	<string name="reset">Reiniciar</string>
 	<string name="Reset_Link">Restablecer enlace</string>
 	<string name="Reset_notifications">Restablecer notificaciones</string>
 	<string name="RESTART">REANUDAR</string>

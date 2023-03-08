@@ -96,6 +96,7 @@
 	<string name="Auto_Lock">Автоматическая блокировка</string>
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Вернуться к чату</string>
+	<string name="Background_Preview">Фоновый просмотр</string>
 	<string name="Backing_Up">Резервное копирование…</string>
 	<string name="Backup">Резервное копирование</string>
 	<string name="backup_choose_a_folder">Выберите папку, резервные копии будут сохранены в этом месте</string>
@@ -160,6 +161,7 @@
 	<string name="chat_audio_discard_warning">Вы уверены, что хотите остановить запись и удалить свое голосовое сообщение?</string>
 	<string name="chat_audio_discard_warning_title">Отменить голосовое сообщение</string>
 	<string name="chat_audio_warning">Вы не можете воспроизвести аудио, если вы уже включили воспроизведение другого аудио.</string>
+	<string name="Chat_Background">Фон чата</string>
 	<string name="Chat_Backup">Резервное копирование чата</string>
 	<string name="chat_bot_reception_title">Нажмите кнопку, чтобы взаимодействовать с ботом</string>
 	<string name="chat_call_duration">Продолжительность %1$s</string>
@@ -752,6 +754,7 @@
 	<string name="Requests_access_to_your">Запрашивает доступ к вашему</string>
 	<string name="Resend_code">Отправить код еще раз</string>
 	<string name="Resend_code_in">Повторно отправить код через %1$d с.</string>
+	<string name="reset">Перезагрузить</string>
 	<string name="Reset_Link">Сбросить ссылку</string>
 	<string name="Reset_notifications">Сбросить уведомления</string>
 	<string name="RESTART">ЗАПУСТИТЬ СНОВА</string>

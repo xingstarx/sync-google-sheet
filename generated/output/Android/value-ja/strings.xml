@@ -96,6 +96,7 @@
 	<string name="Auto_Lock">自動ロック</string>
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">チャットに戻る</string>
+	<string name="Background_Preview">背景のプレビュー</string>
 	<string name="Backing_Up">バックアップしています…</string>
 	<string name="Backup">チャット履歴のバックアップ</string>
 	<string name="backup_choose_a_folder">選択</string>
@@ -160,6 +161,7 @@
 	<string name="chat_audio_discard_warning">録音終了し音声メッセージを破棄してよろしいですか？</string>
 	<string name="chat_audio_discard_warning_title">音声メッセージを破棄する</string>
 	<string name="chat_audio_warning">別の音声を再生している場合、音声を再生することはできません。</string>
+	<string name="Chat_Background">チャットの背景</string>
 	<string name="Chat_Backup">チャットのバックアップ</string>
 	<string name="chat_bot_reception_title">ミニアプリを使用するためにボタンをタップしてください</string>
 	<string name="chat_call_duration">通話時間：%1$s</string>
@@ -733,6 +735,7 @@
 	<string name="Requests_access_to_your">権限リクエスト</string>
 	<string name="Resend_code">コードを再送する</string>
 	<string name="Resend_code_in">%1$d秒後にコードを再送</string>
+	<string name="reset">リセット</string>
 	<string name="Reset_Link">リンクを取り消す</string>
 	<string name="Reset_notifications">通知設定をリセット</string>
 	<string name="RESTART">リスタート</string>

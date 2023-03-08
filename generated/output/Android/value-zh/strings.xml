@@ -108,6 +108,7 @@
 	<string name="Auto_Lock">自动锁定</string>
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="back_to_merchant">返回商家</string>
+	<string name="Background_Preview">背景预览</string>
 	<string name="Backing_Up">正在备份…</string>
 	<string name="Backup">备份</string>
 	<string name="backup_choose_a_folder">请选择用于保存备份的文件夹</string>
@@ -173,6 +174,7 @@
 	<string name="chat_audio_discard_warning">你确定要停止并放弃录制的语音吗？</string>
 	<string name="chat_audio_discard_warning_title">放弃录制语音</string>
 	<string name="chat_audio_warning">无法在 Mixin 录音时播放语音</string>
+	<string name="Chat_Background">聊天背景</string>
 	<string name="Chat_Backup">聊天记录备份</string>
 	<string name="chat_bot_reception_title">点击按钮使用机器人</string>
 	<string name="chat_call_duration">通话时长 %1$s</string>
@@ -199,6 +201,7 @@
 	<string name="chat_pin_message">%1$s置顶了%2$s</string>
 	<string name="Chat_pinned">会话已置顶</string>
 	<string name="chat_recall_delete_alert">所有使用最新版本 Mixin Messenger 的设备都将删除被选中的消息</string>
+	<string name="chat_text_size">聊天字体大小</string>
 	<string name="Chat_unpinned">置顶会话已取消</string>
 	<string name="chat_waiting">等待%1$s上线后建立加密会话。%2$s。</string>
 	<string name="CHATS">会话</string>
@@ -770,6 +773,7 @@
 	<string name="Requests_access_to_your">需要访问你的</string>
 	<string name="Resend_code">重发验证码</string>
 	<string name="Resend_code_in">%1$d 秒后重新发送验证码</string>
+	<string name="reset">重置</string>
 	<string name="Reset_Link">重置邀请链接</string>
 	<string name="Reset_notifications">重置通知设置</string>
 	<string name="RESTART">重启应用</string>

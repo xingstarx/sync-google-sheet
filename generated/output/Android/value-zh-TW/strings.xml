@@ -107,6 +107,7 @@
 	<string name="auto_download_hint">媒體自動下載設定，所有語音訊息將自動下載。</string>
 	<string name="Auto_Lock">自動鎖定</string>
 	<string name="Back_To_Chat">返回聊天</string>
+	<string name="Background_Preview">背景預覽</string>
 	<string name="Backing_Up">正在備份…</string>
 	<string name="Backup">備份</string>
 	<string name="backup_choose_a_folder">請選擇用於儲存備份的資料夾</string>
@@ -172,6 +173,7 @@
 	<string name="chat_audio_discard_warning">你確定要停止並放棄錄製的語音嗎？</string>
 	<string name="chat_audio_discard_warning_title">放棄錄製語音</string>
 	<string name="chat_audio_warning">無法在 Mixin 錄音時播放語音</string>
+	<string name="Chat_Background">聊天背景</string>
 	<string name="Chat_Backup">聊天記錄備份</string>
 	<string name="chat_bot_reception_title">點選按鈕使用機器人</string>
 	<string name="chat_call_duration">通話時長 %1$s</string>
@@ -767,6 +769,7 @@
 	<string name="Requests_access_to_your">需要訪問你的</string>
 	<string name="Resend_code">重發驗證碼</string>
 	<string name="Resend_code_in">%1$d 秒後重新發送驗證碼</string>
+	<string name="reset">重置</string>
 	<string name="Reset_Link">重置邀請連結</string>
 	<string name="Reset_notifications">重置通知設定</string>
 	<string name="RESTART">重啟應用</string>
