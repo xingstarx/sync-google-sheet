@@ -25,6 +25,8 @@
 | android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
+| iOS | Repair | Repair | 修复  |     |     |     |
+| iOS | Repairing | Repairing | 修复中 |     |     |     |
 | iOS | Authorize_desktop_login | Authorize desktop login via %@ | 通过%@授权桌面登录 |     |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
