@@ -27,6 +27,8 @@
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | iOS | Repair | Repair | 修复  |     |     |     |
 | iOS | Repairing | Repairing | 修复中 |     |     |     |
+| iOS | Repair_Chat_History | Repair Chat History | 修复聊天记录 |     |     |     |
+| iOS |     | The database file is found to be damaged, some messages may be lost, please try to repair it. |     |     |     |     |
 | iOS | Authorize_desktop_login | Authorize desktop login via %@ | 通过%@授权桌面登录 |     |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
