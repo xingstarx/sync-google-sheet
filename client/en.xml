@@ -27,7 +27,7 @@
   <string name="Repair" platform="iOS">Repair</string>
   <string name="Repairing" platform="iOS">Repairing</string>
   <string name="Repair_Chat_History" platform="iOS">Repair Chat History</string>
-  <string name="" platform="iOS">The database file is found to be damaged, some messages may be lost, please try to repair it.</string>
+  <string name="Repair_Chat_History_Hint" platform="iOS">The database file is found to be damaged, some messages may be lost, please try to repair it.</string>
   <string name="Authorize_desktop_login" platform="iOS">Authorize desktop login via %@</string>
   <string name="activity" platform="Desktop">Activity</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>
