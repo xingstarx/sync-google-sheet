@@ -27,6 +27,7 @@
   <string name="Repair" platform="iOS">修复</string>
   <string name="Repairing" platform="iOS">修复中</string>
   <string name="Repair_Chat_History" platform="iOS">修复聊天记录</string>
+  <string name="Repair_Chat_History_Hint" platform="iOS">数据库文件被发现损坏，可能会丢失一些信息，请尝试修复它。</string>
   <string name="Authorize_desktop_login" platform="iOS">通过%@授权桌面登录</string>
   <string name="activity" platform="Desktop">活动</string>
   <string name="Add" platform="android, iOS, Desktop">添加</string>
