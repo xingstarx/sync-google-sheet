@@ -24,6 +24,11 @@
   <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
   <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
+  <string name="Repair" platform="iOS">Repair</string>
+  <string name="Repairing" platform="iOS">Repairing</string>
+  <string name="Repair_Chat_History" platform="iOS">Repair Chat History</string>
+  <string name="Repair_Chat_History_Hint" platform="iOS">The database file is found to be damaged, some messages may be lost, please try to repair it.</string>
+  <string name="Repair_Chat_History_Success" platform="iOS">The chat history has been repaired successfully! Chat records before  %1$s have been restored.</string>
   <string name="Authorize_desktop_login" platform="iOS">Authorize desktop login via %@</string>
   <string name="activity" platform="Desktop">Activity</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>

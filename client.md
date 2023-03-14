@@ -25,6 +25,11 @@
 | android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
+| iOS | Repair | Repair | 修复  |     |     |     |
+| iOS | Repairing | Repairing | 修复中 |     |     |     |
+| iOS | Repair_Chat_History | Repair Chat History | 修复聊天记录 |     |     |     |
+| iOS | Repair_Chat_History_Hint | The database file is found to be damaged, some messages may be lost, please try to repair it. | 数据库文件被发现损坏，可能会丢失一些信息，请尝试修复它。 |     |     |     |
+| iOS | Repair_Chat_History_Success | The chat history has been repaired successfully! Chat records before  %1$s have been restored. | 聊天记录修复成功！%1$s之前的聊天记录已经恢复。 |     |     |     |
 | iOS | Authorize_desktop_login | Authorize desktop login via %@ | 通过%@授权桌面登录 |     |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
 | android, iOS, Desktop | Add | Add | 添加  | 追加  |     |     |
