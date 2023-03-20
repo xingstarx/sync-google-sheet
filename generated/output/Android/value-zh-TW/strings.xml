@@ -86,7 +86,7 @@
 	<string name="Allow_bot_manage_bots">允許機器人新增或修改你的機器人列表。</string>
 	<string name="Allow_bot_manage_circles">允許機器人新增、修改和刪除你所有的圈子。</string>
 	<string name="Allow_bot_send_messages">允許機器人代表你發訊息。</string>
-	<string name="allow_dapp_access_public_address">允許 App 訪問你的錢包餘額及活動。</string>
+	<string name="allow_dapp_access_public_address">允許 Dapp 訪問你的錢包餘額及活動。</string>
 	<string name="allow_dapp_request_permission">允許 Dapp 向你傳送請求，如轉賬請求等</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>

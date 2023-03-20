@@ -76,7 +76,7 @@
 "allow_bot_manage_bots" = "Permite que el bot añada o modifique tus bots.";
 "allow_bot_manage_circles" = "Permite que el bot añada, modifique y elimine tus círculos.";
 "allow_bot_send_messages" = "Permita que el bot envíe mensajes que lo representen.";
-"allow_dapp_access_public_address" = "Allow app to access your wallet balance and activity.";
+"allow_dapp_access_public_address" = "Allow dapp to access your wallet balance and activity.";
 "allow_dapp_request_permission" = "Allow dapp to ask for your permission to make a transaction.";
 "allow_manual_report_message" = "Permitir mensaje de informe manual";
 "amount" = "Cantidad";

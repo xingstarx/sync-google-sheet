@@ -86,7 +86,7 @@
 	<string name="Allow_bot_manage_bots">Allow bot to add or modify your bots.</string>
 	<string name="Allow_bot_manage_circles">Allow bot to add, modify and delete your circles.</string>
 	<string name="Allow_bot_send_messages">Allow bot to send messages represent of you.</string>
-	<string name="allow_dapp_access_public_address">Allow app to access your wallet balance and activity.</string>
+	<string name="allow_dapp_access_public_address">Allow dapp to access your wallet balance and activity.</string>
 	<string name="allow_dapp_request_permission">Allow dapp to ask for your permission to make a transaction.</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
