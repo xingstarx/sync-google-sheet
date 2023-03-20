@@ -785,7 +785,7 @@
   <string name="Net_Diagnosis" platform="android">Чистая диагностика</string>
   <string name="network_connection_lost" platform="iOS">Сетевое соединение было потеряно, проверьте свою сеть и повторите попытку позже.</string>
   <string name="Network_error" platform="android, Desktop">Сетевая ошибка</string>
-  <string name="network_fee" platform="iOS">Сетевая комисиия: %@</string>
+  <string name="network_fee" platform="iOS, android">Сетевая комисиия</string>
   <string name="Network_Operator" platform="android">Сетевой оператор</string>
   <string name="Network_Type" platform="android">Тип сети</string>
   <string name="Network_unavailable" platform="android">Сеть недоступна</string>
