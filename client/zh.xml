@@ -1521,4 +1521,5 @@
   <string name="NO_DAPP" platform="iOS, android">没有 Dapp</string>
   <string name="connected_dapps" platform="iOS, android">已连接的 Dapp</string>
   <string name="search_placeholder_dapp" platform="iOS, android">名称, URL</string>
+  <string name="disconnect" platform="iOS, android">断开连接</string>
 </resources>
