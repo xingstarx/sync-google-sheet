@@ -850,7 +850,6 @@
 | Desktop | network_connection_failed | Network connection failed | 网络连接失败 |     |     |     |
 | iOS | network_connection_lost | The network connection was lost, please check your network and try again later | 网络连接超时，请检查网络稍后重试 | ネットワークが切断されました。確認してから再度接続してください |     |     |
 | android, Desktop | Network_error | Network error | 网络错误 | ネットワークエラー | Ralat rangkaian | Kesalahan jaringan |
-| iOS | network_fee | Network fee: %@ | 网络手续费：%@ | ネットワーク手数料：%@ |     |     |
 | android | Network_Operator | Network Operator | 网络运营商 | Operator |     |     |
 | android | Network_Type | Network Type | 网络类型 | Network Type |     |     |
 | android | Network_unavailable | Network unavailable | 网络连接不可用 | ネットワークは利用不可能です |     |     |
@@ -1530,9 +1529,9 @@
 | iOS, android | network | Network | 网络  |     |     |     |
 | iOS, android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS, android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
-| iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. | 允许App访问你的钱包余额及活动。 |     |     |     |
+| iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. | 允许 App 访问你的钱包余额及活动。 |     |     |     |
 | iOS, android | request_permission | Request permission | 允许请求 |     |     |     |
-| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. | 允许Dapp向你发送请求，如转账请求等 |     |     |     |
+| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
 | iOS, android | discard | Discard | 丢弃  |     |     |     |
 | iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
 | iOS, android | signature_request | Signature Request | 请求签名 |     |     |     |
@@ -1540,14 +1539,13 @@
 | iOS, android | calculating | Calculating… | 正在计算… |     |     |     |
 | iOS, android | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
 | iOS, android | network_fee | Network Fee | 网络费用 |     |     |     |
-| iOS, android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此App。 |     |     |     |
-| iOS, android | sign_by_pin | Sign by PIN | 使用PIN签名 |     |     |     |
-| iOS, android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此Dapp已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
+| iOS, android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此 App。 |     |     |     |
+| iOS, android | sign_by_pin | Sign by PIN | 使用 PIN 签名 |     |     |     |
+| iOS, android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
 | iOS, android | disconnected | Disconnected | 已断开 |     |     |     |
-| iOS, android | no_dapp | No dapp | 没有Dapp |     |     |     |
-| iOS, android | connected_dapps | Connected Dapps | 已连接的Dapp |     |     |     |
+| iOS, android | no_dapp | No dapp | 没有 Dapp |     |     |     |
+| iOS, android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
-| iOS, android |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
