@@ -76,6 +76,8 @@
 "allow_bot_manage_bots" = "允許機器人添加或修改你的機器人列表。";
 "allow_bot_manage_circles" = "允許機器人添加、修改和刪除你所有的圈子。";
 "allow_bot_send_messages" = "允許機器人代表你發消息。";
+"allow_dapp_access_public_address" = "允許 App 訪問你的錢包餘額及活動。";
+"allow_dapp_request_permission" = "允許 Dapp 向你發送請求，如轉賬請求等";
 "allow_manual_report_message" = "允許手動上報消息";
 "amount" = "金額";
 "app_card_shareable_false" = "該卡片已被設置為不允許轉發";
@@ -106,7 +108,7 @@
 "auto_lock" = "自動鎖定";
 "automatic" = "自動";
 "back_to_chat" = "返回聊天";
-"back_to_merchant" = "Back to Merchant";
+"back_to_merchant" = "返回商家";
 "back_up_now" = "立即備份";
 "background_preview" = "背景預覽";
 "backing_up" = "正在備份...";
@@ -124,6 +126,7 @@
 "bots" = "機器人";
 "bots_title" = "機器人";
 "business" = "商業";
+"calculating" = "正在計算...";
 "call" = "語音";
 "call_declined" = "對方已拒絕";
 "call_encryption_description" = "除了參與通話的人，其他人包含 Mixin 在內都無法聽取或查看。";
@@ -146,6 +149,7 @@
 "card" = "卡片";
 "category_chats" = "最近聊天";
 "chain" = "所屬公鏈";
+"chain_not_supported" = "不支持此網絡";
 "change" = "更改";
 "change_amount" = "修改金額";
 "change_emergency_contact" = "修改緊急聯繫人";
@@ -183,7 +187,7 @@
 "chat_pin_message" = "%1$@置頂了%2$@";
 "chat_recall_delete_alert" = "所有使用最新版本 Mixin Messenger 的設備都將刪除被選中的消息";
 "chat_restore_subtitle" = "如果現在不恢復，未來將無法恢復這些記錄。媒體檔案將在信息恢復完成後在後台繼續運行。";
-"chat_text_size" = "Chat Text Size";
+"chat_text_size" = "聊天字體大小";
 "chat_waiting" = "等待%1$@上線後建立加密會話。%2$@。";
 "chats" = "會話";
 "choose_network" = "選擇充值網絡";
@@ -203,15 +207,18 @@
 "cleared" = "已清空";
 "clock_skew_hint" = "請校正後再繼續使用，設置 > 通用 > 日期與時間 > 自動設置。";
 "close" = "關閉";
-"closing_balance" = "Closing Balance";
+"closing_balance" = "期末餘額";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "合併轉發";
 "compress_database" = "壓縮數據庫";
 "compressed" = "已壓縮";
 "confirm" = "確認";
 "connect_to_tip_network_failed" = "連接 TIP 網絡失敗，請嘗試切換網絡後重試";
+"connect_wallet" = "連接錢包";
 "connected" = "已連接";
+"connected_dapps" = "已連接的 Dapp";
 "connecting" = "正在連接";
+"connection_failed" = "連接失敗";
 "connection_unstable" = "當前通話網絡不佳";
 "contact" = "聯繫人";
 "contact_category" = "聯繫人";
@@ -267,6 +274,7 @@
 "current_selected" = "當前選擇";
 "custom_time" = "自定義時間";
 "daily" = "每天";
+"dapp_description" = "此 Dapp 已經與你的錢包連接，並被授權查看你的錢包餘額及活動，也可向你發出轉賬請求。";
 "dark" = "深色";
 "data_and_storage_usage" = "數據與存儲空間";
 "data_parsing_error" = "數據解析錯誤";
@@ -321,6 +329,8 @@
 "disappearing_option_3" = "2 小時";
 "disappearing_option_4" = "1 天";
 "disappearing_option_5" = "1 週";
+"discard" = "廢棄";
+"disconnected" = "已斷開";
 "disconnecting" = "正在斷開";
 "dismiss_as_admin" = "撤銷管理員身份";
 "done" = "完成";
@@ -394,6 +404,7 @@
 "failed_to_send_location" = "發送位置失敗，請稍後重試";
 "failed_to_send_photo" = "發送圖片失敗，請稍後重試";
 "failed_to_send_video" = "發送視頻失敗，請稍後重試";
+"failed_to_switch_network" = "切換網絡失敗: %@";
 "fee" = "手續費";
 "feedback" = "反饋";
 "file" = "檔案";
@@ -433,7 +444,7 @@
 "hour_count" = "%d 小時";
 "how_are_you" = "嗨，你好嗎？";
 "i_am_good" = "我很好。";
-"image" = "圖片";
+"image" = "圖像";
 "image_shareable_false" = "該圖片已被設置為不允許轉發";
 "immediately" = "立刻";
 "in_connecting" = "正在連接...";
@@ -463,6 +474,7 @@
 "invites_you_to_a_voice_call" = "發起了語音通話";
 "join_group" = "加入羣組";
 "joined_in" = "%@ 加入";
+"keep_network" = "留在 %@";
 "label" = "標題";
 "landing_delete_content" = "您的賬户將於 %@ 被刪除，如果您繼續登錄，刪除您賬户的請求將被取消。";
 "landing_validation_title" = "請輸入發送至以下號碼的 4 位驗證碼：%@";
@@ -512,6 +524,7 @@
 "message_preview" = "顯示消息內容";
 "message_sent" = "消息已發送";
 "messages" = "消息";
+"method_not_supported" = "不支持此方法: %@";
 "minute" = "%d 分鐘";
 "minute_count" = "%d 分鐘";
 "mixin" = "Mixin";
@@ -541,8 +554,10 @@
 "name" = "名稱";
 "name_or_phone_number" = "姓名或手機號";
 "need_help" = "需要幫助？";
+"network" = "網絡";
 "network_connection_lost" = "網絡連接超時，請檢查網絡稍後重試";
-"network_fee" = "網絡手續費：%@";
+"network_fee" = "網絡費用";
+"network_switched" = "已切換網絡";
 "never_auto_download" = "關閉";
 "new_chat" = "新聊天";
 "new_group" = "新建羣組";
@@ -556,6 +571,7 @@
 "no_blocked_users" = "沒有屏蔽任何人";
 "no_bots" = "沒有機器人";
 "no_contacts" = "沒有聯繫人";
+"no_dapp" = "沒有 Dapp";
 "no_files" = "沒有檔案";
 "no_hidden_assets" = "沒有隱藏的資產";
 "no_items_selected" = "未選定項目";
@@ -595,7 +611,7 @@
 "open_in_maps" = "在地圖中打開";
 "open_link" = "打開鏈接：%@";
 "open_url" = "打開鏈接";
-"opening_balance" = "Opening Balance";
+"opening_balance" = "期初餘額";
 "operation_failed" = "操作失敗，請稍後重試";
 "optimize_database" = "優化查詢索引";
 "optimized" = "已優化";
@@ -682,6 +698,7 @@
 "read_your_contacts" = "讀取你的聯繫人列表";
 "read_your_nfts" = "讀取你的 NFT 列表";
 "read_your_phone_number" = "讀取你的手機號";
+"read_your_public_address" = "讀取你的地址";
 "read_your_public_profile" = "讀取你的個人資料";
 "read_your_snapshots" = "讀取你的轉賬記錄";
 "rebate" = "退款";
@@ -704,11 +721,11 @@
 "remove_emergency_contact_for_sure" = "確定刪除緊急聯繫人？";
 "remove_from_group" = "從羣組中移除";
 "remove_stickers" = "移除所有表情";
-"repair" = "Repair";
-"repair_chat_history" = "Repair Chat History";
-"repair_chat_history_hint" = "The database file is found to be damaged, some messages may be lost, please try to repair it.";
-"repair_chat_history_success" = "The chat history has been repaired successfully! Chat records before  %@ have been restored.";
-"repairing" = "Repairing";
+"repair" = "修復";
+"repair_chat_history" = "修復聊天記錄";
+"repair_chat_history_hint" = "數據庫檔案被發現損壞，可能會丟失一些信息，請嘗試修復它。";
+"repair_chat_history_success" = "聊天記錄修復成功！%@之前的聊天記錄已經恢復。";
+"repairing" = "修復中";
 "reply" = "回覆";
 "report" = "舉報";
 "report_and_block" = "舉報並屏蔽？";
@@ -716,6 +733,10 @@
 "represent_messages" = "代發消息";
 "represent_send_messages" = "代表你發消息";
 "request_authorization" = "請求授權";
+"request_permission" = "允許請求";
+"request_rejected" = "請求已拒絕";
+"request_rejected_reason_another_request_in_process" = "正在處理另一請求，請完成當前請求後重試";
+"requests_switching_to_network" = "%1$@ 請求切換到 %2$@";
 "resend_code" = "重發驗證碼";
 "resend_code_pending" = "%@ 後重新發送驗證碼";
 "reset_link" = "重置邀請鏈接";
@@ -746,6 +767,7 @@
 "search_open_link" = "打開鏈接：";
 "search_placeholder_asset" = "名稱, 符號";
 "search_placeholder_contact" = "Mixin ID, 名稱, 手機號碼";
+"search_placeholder_dapp" = "名稱, URL";
 "search_placeholder_number" = "搜索 Mixin ID 或手機號碼：";
 "search_related_message" = "%d 條相關的消息";
 "search_related_message_count" = "%d 條相關的消息";
@@ -771,6 +793,7 @@
 "send_message" = "發消息";
 "send_photo" = "發送 1 張圖片";
 "send_photo_count" = "發送 %d 張圖片";
+"send_signed_message_confirmation" = "此消息已被簽名，點擊下方按鈕以發送或丟棄";
 "send_this_location" = "發送這個位置";
 "send_to" = "發送給 %@";
 "send_to_developer" = "把日誌發給開發者";
@@ -782,6 +805,7 @@
 "send_your_current_location" = "發送您當前的位置";
 "send_count" = "發送（%d）";
 "senders" = "交易發起人";
+"session_not_found" = "沒有對應的連接";
 "set" = "設置";
 "set_disappearing_message_time_to" = "%1$@將限時消息設置為 %2$@";
 "set_emergency_create_successfully" = "設置緊急聯繫人成功";
@@ -827,12 +851,15 @@
 "show" = "顯示";
 "show_asset" = "顯示資產";
 "show_in_chat" = "在聊天中展示";
+"sign_by_pin" = "使用 PIN 簽名";
 "sign_in" = "登錄";
 "sign_with_emergency_contact" = "通過緊急聯繫人登錄";
 "sign_with_phone_number" = "通過手機號登錄";
+"signature_request" = "請求籤名";
+"signature_request_warning" = "我們無法驗證此請求。簽名前請確認你信任此 App。";
 "skip" = "跳過";
 "slide_to_cancel" = "滑動取消";
-"snapshot_hash" = "Snapshot Hash";
+"snapshot_hash" = "快照哈希";
 "snapshot_not_found" = "找不到該轉賬記錄。";
 "social" = "社交";
 "sort_by" = "順序";
@@ -840,7 +867,7 @@
 "start_messaging" = "開始聊天";
 "started_group_call" = "%@ 開始了羣通話";
 "status" = "交易狀態";
-"stay_in_mixin" = "Stay in Mixin";
+"stay_in_mixin" = "留在 Mixin";
 "sticker" = "貼紙";
 "sticker_add_requirements" = "貼紙要求大於 %@KB 且小於 %@KB，寬高大於 %@ 像素且小於 %@ 像素。";
 "sticker_store" = "表情商店";
@@ -851,12 +878,14 @@
 "stranger_hint" = "對方不是你的聯繫人";
 "successful" = "成功";
 "suspicious_link" = "可疑鏈接";
+"switch_network" = "切換網絡";
+"switch_to_network" = "切換到 %@";
 "symbol" = "符號";
 "symbol_withdrawal" = "%@ 提現";
 "syncing_and_verifying_tip" = "正在驗證並同步密鑰分片到 TIP 網絡，請保持應用在前台，設置過程中不要強制關閉應用";
 "syncing_progress" = "正在同步 %d%%";
 "syncs_contact_hint" = "同步通訊錄到 Mixin 發現更多好友。";
-"system" = "System";
+"system" = "跟隨系統";
 "system_time_is_unusual" = "系統時間異常";
 "tag" = "Tag（標籤）";
 "tap_to_join" = "點擊加入";
@@ -880,8 +909,10 @@
 "track_not_found" = "Track 無效";
 "trading" = "交易";
 "transaction" = "交易詳情";
+"transaction_failed" = "轉賬失敗";
 "transaction_hash" = "交易哈希";
 "transaction_id" = "交易編號";
+"transaction_request" = "請求轉賬";
 "transaction_type" = "交易類型";
 "transactions" = "轉賬記錄";
 "transactions_cannot_be_deleted" = "轉賬記錄不會被刪除";
@@ -900,6 +931,7 @@
 "trying_connect_tip_network" = "正在連接 TIP 網絡";
 "trying_connect_tip_node" = "正在連接節點...";
 "turn_on_notifications" = "打開通知";
+"unable_to_decode_the_request" = "無法解析請求: %@";
 "unable_to_save_photo" = "保存圖片失敗";
 "unable_to_save_video" = "保存視頻失敗";
 "unable_to_share_content" = "無法分享此內容";
@@ -941,7 +973,7 @@
 "use_face_multisig" = "使用面容簽名";
 "use_face_pay" = "使用面容支付";
 "use_face_withdraw" = "使用面容提現";
-"use_system_text_size" = "Use System Text Size";
+"use_system_text_size" = "跟隨系統字體大小";
 "use_touch_multisig" = "使用指紋簽名";
 "use_touch_pay" = "使用指紋支付";
 "use_touch_withdraw" = "使用指紋提現";
@@ -975,7 +1007,7 @@
 "wallet_transactions_asset_key_warning" = "資產標識不是充值地址！";
 "wallet_transfer_recent_tip" = "你已經在 %1$@ 前給 %2$@ 轉賬了 %3$@，確認還要再轉一次嗎？";
 "wallet_withdrawal_changed" = "手續費已從 %1$@ 變更為 %2$@，要更新手續費並繼續提現嗎？";
-"wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
+"wallet_withdrawal_not_in_addresses" = "%@ 該地址不在提現地址白名單，請仔細核對地址。";
 "wallet_withdrawal_recent_tip" = "你已經在 %1$@ 前提現 %3$@ 到 %2$@，確認還要再提一次嗎？";
 "web_cannot_reached_desc" = "無法訪問 %@，請檢查你的網絡並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。";
 "web_cannot_reached_title" = "無法訪問此網頁";

@@ -86,6 +86,8 @@
 	<string name="Allow_bot_manage_bots">Allow bot to add or modify your bots.</string>
 	<string name="Allow_bot_manage_circles">Allow bot to add, modify and delete your circles.</string>
 	<string name="Allow_bot_send_messages">Allow bot to send messages represent of you.</string>
+	<string name="allow_dapp_access_public_address">Allow app to access your wallet balance and activity.</string>
+	<string name="allow_dapp_request_permission">Allow dapp to ask for your permission to make a transaction.</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
 	<string name="ANSWER">ANSWER</string>
@@ -140,6 +142,7 @@
 	<string name="BOTS">BOTS</string>
 	<string name="bots_title">Bots</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
+	<string name="calculating">Calculating…</string>
 	<string name="Call">Call</string>
 	<string name="Call_declined">Call declined</string>
 	<string name="call_encryption_description">No one outside of this call can view or listen to it. Not even Mixin.</string>
@@ -160,6 +163,7 @@
 	<string name="cant_transfer_self">You can\'t transfer to yourself</string>
 	<string name="Card">Card</string>
 	<string name="Chain">Chain</string>
+	<string name="chain_not_supported">Chain not supported</string>
 	<string name="Change">Change</string>
 	<string name="Change_Amount">Change Amount</string>
 	<string name="Change_emergency_contact">Change emergency contact</string>
@@ -240,7 +244,10 @@
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
 	<string name="Confirm_PIN">Confirm PIN</string>
 	<string name="Connect_to_TIP_network_failed">Unable to connect to TIP network. Check your connection and try again.</string>
+	<string name="connect_wallet">Connect Wallet</string>
+	<string name="connected_dapps">Connected Dapps</string>
 	<string name="Connecting">Connecting</string>
+	<string name="connection_failed">Connection Failed</string>
 	<string name="Connection_unstable">Connection unstable</string>
 	<string name="Contact">Contact</string>
 	<plurals name="contact_count">
@@ -291,6 +298,7 @@
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
 	<string name="Custom_Time">Custom Time</string>
+	<string name="dapp_description">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
 	<string name="Data_and_Storage_Usage">Data and Storage Usage</string>
 	<string name="Data_error">Data error</string>
 	<string name="Data_loading">Data loading, please wait…</string>
@@ -351,7 +359,9 @@
 	<string name="disappearing_option_3">2 hours</string>
 	<string name="disappearing_option_4">1 day</string>
 	<string name="disappearing_option_5">1 week</string>
+	<string name="discard">Discard</string>
 	<string name="DISCARD">DISCARD</string>
+	<string name="disconnected">Disconnected</string>
 	<string name="Dismiss_as_Admin">Dismiss as Admin</string>
 	<string name="divide">, </string>
 	<string name="Documents">Documents</string>
@@ -447,6 +457,7 @@
 	<string name="Export_Markdown">Export Markdown</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
+	<string name="failed_to_switch_network">Failed to switch network: %1$s</string>
 	<string name="Failure">Failure</string>
 	<string name="Fee">Fee</string>
 	<string name="Feedback">Feedback</string>
@@ -526,6 +537,7 @@
 	<string name="italic">italic</string>
 	<string name="Join_group">Join Group</string>
 	<string name="Joined_in">Joined in %1$s</string>
+	<string name="keep_network">Keep %1$s</string>
 	<string name="Label">Label</string>
 	<string name="Landing_back">Landing back</string>
 	<string name="landing_delete_content">Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled.</string>
@@ -592,6 +604,7 @@
 	<string name="Messages">Messages</string>
 	<string name="Messaging_Node">Messaging Node</string>
 	<string name="Messaging_node_running">Messaging node running</string>
+	<string name="method_not_supported">Method %1$s is not supported</string>
 	<plurals name="Minute">
 		<item quantity="one">%d Minute</item>
 		<item quantity="other">%d Minutes</item>
@@ -621,8 +634,11 @@
 	<string name="need_camera_permission">Requires camera permission for continue</string>
 	<string name="Need_help">Need help?</string>
 	<string name="Net_Diagnosis">Net Diagnosis</string>
+	<string name="network">Network</string>
 	<string name="Network_error">Network error</string>
+	<string name="network_fee">Network Fee</string>
 	<string name="Network_Operator">Network Operator</string>
+	<string name="network_switched">Network Switched</string>
 	<string name="Network_Type">Network Type</string>
 	<string name="Network_unavailable">Network unavailable</string>
 	<string name="Never">Never</string>
@@ -637,6 +653,7 @@
 	<string name="No_blocked_users">No blocked users</string>
 	<string name="NO_BOTS">NO BOTS</string>
 	<string name="No_camera">No camera</string>
+	<string name="no_dapp">No dapp</string>
 	<string name="No_deposits">No deposits</string>
 	<string name="No_fees">No fees</string>
 	<string name="NO_FILES">NO FILES</string>
@@ -759,6 +776,7 @@
 	<string name="Read_your_contacts">Read your contacts</string>
 	<string name="Read_your_NFTs">Read your NFTs</string>
 	<string name="Read_your_phone_number">Read your phone number</string>
+	<string name="read_your_public_address">Read your public address</string>
 	<string name="Read_your_public_profile">Read your public profile</string>
 	<string name="Read_your_snapshots">Read your snapshots</string>
 	<string name="Rebate">Rebate</string>
@@ -787,7 +805,11 @@
 	<string name="Represent_Messages">Represent Messages</string>
 	<string name="Represent_send_messages">Represent send messages</string>
 	<string name="Request_Authorization">Request Authorization</string>
+	<string name="request_permission">Request permission</string>
+	<string name="request_rejected">Request Rejected</string>
+	<string name="request_rejected_reason_another_request_in_process">Another request is in process, please retry after current request is finished</string>
 	<string name="Requests_access_to_your">Requests access to your</string>
+	<string name="requests_switching_to_network">%1$s requests switching to %2$s</string>
 	<string name="Resend_code">Resend code</string>
 	<string name="Resend_code_in">Resend code in %1$d s</string>
 	<string name="reset">Reset</string>
@@ -829,6 +851,7 @@
 	<string name="search_hint">assets, contacts and messages</string>
 	<string name="SEARCH_MESSAGES">SEARCH MESSAGES</string>
 	<string name="search_placeholder_asset">Name, Symbol</string>
+	<string name="search_placeholder_dapp">Name, URL</string>
 	<string name="search_placeholder_number">Search Mixin ID or phone number: </string>
 	<plurals name="search_related_message">
 		<item quantity="one">%1$d related message</item>
@@ -844,6 +867,7 @@
 	<string name="Send_as_file">Send as file</string>
 	<string name="send_file_group">Send \"%1$s\" to \"%2$s\"?</string>
 	<string name="Send_Message">Send Message</string>
+	<string name="send_signed_message_confirmation">The message has been signed successfully, click the button below to send or discard the signed message</string>
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
 	<string name="Send_to_contact">Send to contact</string>
@@ -852,6 +876,7 @@
 	<string name="Send_Without_Sound">Send Without Sound</string>
 	<string name="Send_your_Current_Location">Send your Current Location</string>
 	<string name="Senders">Senders</string>
+	<string name="session_not_found">Session not found</string>
 	<string name="Set">Set</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
 	<string name="Set_emergency_create_successfully">Set emergency contact successfully</string>
@@ -917,10 +942,13 @@
 	<string name="Show">Show</string>
 	<string name="Show_in_chat">Show in chat</string>
 	<string name="Shown">Shown</string>
+	<string name="sign_by_pin">Sign by PIN</string>
 	<string name="Sign_in">Sign in</string>
 	<string name="Sign_in_desktop_app">Sign in desktop app</string>
 	<string name="Sign_with_emergency_contact">Sign in with emergency contact</string>
 	<string name="Sign_with_phone_number">Sign in with phone number</string>
+	<string name="signature_request">Signature Request</string>
+	<string name="signature_request_warning">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
 	<string name="Silence_Notification">Silence Notification</string>
 	<string name="Size">Size</string>
 	<string name="Skip">Skip</string>
@@ -947,6 +975,8 @@
 	<string name="Successful">Successful</string>
 	<string name="Sunday">Sunday</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
+	<string name="switch_network">Switch Network</string>
+	<string name="switch_to_network">Switch to %1$s</string>
 	<string name="Switching_currency">Switching currency</string>
 	<string name="Symbol">Symbol</string>
 	<string name="symbol_withdrawal">%1$s Withdrawal</string>
@@ -978,8 +1008,10 @@
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
 	<string name="Transaction">Transaction</string>
+	<string name="transaction_failed">Transaction Failed</string>
 	<string name="transaction_Hash">Transaction Hash</string>
 	<string name="Transaction_Id">Transaction Id</string>
+	<string name="transaction_request">Transaction Request</string>
 	<string name="Transaction_Type">Transaction Type</string>
 	<string name="Transactions">Transactions</string>
 	<string name="Transactions_CANNOT_be_deleted">Transactions CANNOT be deleted</string>
@@ -999,6 +1031,7 @@
 	<string name="Tuesday">Tuesday</string>
 	<string name="Turn_On_Notifications">Turn On Notifications</string>
 	<string name="Type_message">Type message</string>
+	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
 	<plurals name="unit_day">

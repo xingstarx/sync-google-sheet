@@ -86,6 +86,8 @@
 	<string name="Allow_bot_manage_bots">允許機器人添加或修改你的機器人列表。</string>
 	<string name="Allow_bot_manage_circles">允許機器人添加、修改和刪除你所有的圈子。</string>
 	<string name="Allow_bot_send_messages">允許機器人代表你發消息。</string>
+	<string name="allow_dapp_access_public_address">允許 App 訪問你的錢包餘額及活動。</string>
+	<string name="allow_dapp_request_permission">允許 Dapp 向你發送請求，如轉賬請求等</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>
 	<string name="ANSWER">接聽</string>
@@ -107,6 +109,7 @@
 	<string name="auto_download_hint">媒體自動下載設定，所有語音消息將自動下載。</string>
 	<string name="Auto_Lock">自動鎖定</string>
 	<string name="Back_To_Chat">返回聊天</string>
+	<string name="back_to_merchant">返回商家</string>
 	<string name="Background_Preview">背景預覽</string>
 	<string name="Backing_Up">正在備份…</string>
 	<string name="Backup">備份</string>
@@ -137,6 +140,7 @@
 	<string name="BOTS">機器人</string>
 	<string name="bots_title">機器人</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s 不是您的聯繫人，請確認收款人是否正確。如果您轉錯了人資產將無法追回！</string>
+	<string name="calculating">正在計算…</string>
 	<string name="Call">語音</string>
 	<string name="Call_declined">對方已拒絕</string>
 	<string name="call_encryption_description">除了參與通話的人，其他人包含 Mixin 在內都無法聽取或查看。</string>
@@ -157,6 +161,7 @@
 	<string name="cant_transfer_self">不能給自己轉賬</string>
 	<string name="Card">卡片</string>
 	<string name="Chain">所屬公鏈</string>
+	<string name="chain_not_supported">不支持此網絡</string>
 	<string name="Change">更改</string>
 	<string name="Change_Amount">修改金額</string>
 	<string name="Change_emergency_contact">修改緊急聯繫人</string>
@@ -200,6 +205,7 @@
 	<string name="chat_pin_message">%1$s置頂了%2$s</string>
 	<string name="Chat_pinned">會話已置頂</string>
 	<string name="chat_recall_delete_alert">所有使用最新版本 Mixin Messenger 的設備都將刪除被選中的消息</string>
+	<string name="chat_text_size">聊天字體大小</string>
 	<string name="Chat_unpinned">置頂會話已取消</string>
 	<string name="chat_waiting">等待%1$s上線後建立加密會話。%2$s。</string>
 	<string name="CHATS">會話</string>
@@ -227,12 +233,16 @@
 	<string name="Click_to_retry">點擊重試</string>
 	<string name="Click_to_unlock">點擊解鎖</string>
 	<string name="Close">關閉</string>
+	<string name="Closing_Balance">期末餘額</string>
 	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Confirm">確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認 PIN</string>
 	<string name="Connect_to_TIP_network_failed">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
+	<string name="connect_wallet">連接錢包</string>
+	<string name="connected_dapps">已連接的 Dapp</string>
 	<string name="Connecting">正在連接</string>
+	<string name="connection_failed">連接失敗</string>
 	<string name="Connection_unstable">當前通話網絡不佳</string>
 	<string name="Contact">聯繫人</string>
 	<plurals name="contact_count" tools:ignore="UnusedQuantity">
@@ -283,6 +293,7 @@
 	<string name="Crop">裁剪</string>
 	<string name="Currency">貨幣</string>
 	<string name="Custom_Time">自定義時間</string>
+	<string name="dapp_description">此 Dapp 已經與你的錢包連接，並被授權查看你的錢包餘額及活動，也可向你發出轉賬請求。</string>
 	<string name="Data_and_Storage_Usage">數據與存儲空間</string>
 	<string name="Data_error">數據錯誤</string>
 	<string name="Data_loading">數據加載中，請稍後</string>
@@ -339,7 +350,9 @@
 	<string name="disappearing_option_3">2 小時</string>
 	<string name="disappearing_option_4">1 天</string>
 	<string name="disappearing_option_5">1 週</string>
+	<string name="discard">廢棄</string>
 	<string name="DISCARD">放棄</string>
+	<string name="disconnected">已斷開</string>
 	<string name="Dismiss_as_Admin">撤銷管理員身份</string>
 	<string name="divide">、</string>
 	<string name="Documents">文檔</string>
@@ -435,6 +448,7 @@
 	<string name="Export_Markdown">導出為 Markdown</string>
 	<string name="Export_PDF">導出為 PDF</string>
 	<string name="Extract_QR_Code">識別二維碼</string>
+	<string name="failed_to_switch_network">切換網絡失敗: %1$s</string>
 	<string name="Failure">錯誤</string>
 	<string name="Fee">手續費</string>
 	<string name="Feedback">反饋</string>
@@ -513,6 +527,7 @@
 	<string name="italic">斜體</string>
 	<string name="Join_group">加入羣組</string>
 	<string name="Joined_in">%1$s 加入</string>
+	<string name="keep_network">留在 %1$s</string>
 	<string name="Label">標題</string>
 	<string name="landing_delete_content">您的賬户將於 %1$s 被刪除，如果您繼續登錄，刪除您賬户的請求將被取消。</string>
 	<string name="landing_enter_mobile_tip">我們不會公開你的手機號碼</string>
@@ -574,6 +589,7 @@
 	<string name="Messages">消息</string>
 	<string name="Messaging_Node">消息節點</string>
 	<string name="Messaging_node_running">消息節點正在運行</string>
+	<string name="method_not_supported">不支持此方法: %1$s</string>
 	<plurals name="Minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 分鐘</item>
 		<item quantity="other">%d 分鐘</item>
@@ -602,8 +618,11 @@
 	<string name="need_camera_permission">繼續使用此功能需要相機權限</string>
 	<string name="Need_help">需要幫助？</string>
 	<string name="Net_Diagnosis">網絡診斷</string>
+	<string name="network">網絡</string>
 	<string name="Network_error">網絡錯誤</string>
+	<string name="network_fee">網絡費用</string>
 	<string name="Network_Operator">網絡運營商</string>
+	<string name="network_switched">已切換網絡</string>
 	<string name="Network_Type">網絡類型</string>
 	<string name="Network_unavailable">網絡連接不可用</string>
 	<string name="Never">從未備份</string>
@@ -618,6 +637,7 @@
 	<string name="No_blocked_users">沒有屏蔽任何人</string>
 	<string name="NO_BOTS">沒有機器人</string>
 	<string name="No_camera">沒有相機</string>
+	<string name="no_dapp">沒有 Dapp</string>
 	<string name="No_deposits">暫無充值記錄</string>
 	<string name="No_fees">暫無手續費記錄</string>
 	<string name="NO_FILES">沒有檔案</string>
@@ -664,6 +684,7 @@
 	<string name="Open_Home_page">打開主頁</string>
 	<string name="Open_in_browser">在瀏覽器中打開</string>
 	<string name="Open_Link">打開鏈接：%1$s</string>
+	<string name="Opening_Balance">期初餘額</string>
 	<string name="Operator">運營商</string>
 	<string name="OTHER">其他</string>
 	<string name="Owner">羣主</string>
@@ -738,6 +759,7 @@
 	<string name="Read_your_contacts">讀取你的聯繫人列表</string>
 	<string name="Read_your_NFTs">讀取你的 NFT 列表</string>
 	<string name="Read_your_phone_number">讀取你的手機號</string>
+	<string name="read_your_public_address">讀取你的地址</string>
 	<string name="Read_your_public_profile">讀取你的個人資料</string>
 	<string name="Read_your_snapshots">讀取你的轉賬記錄</string>
 	<string name="Rebate">退款</string>
@@ -766,7 +788,11 @@
 	<string name="Represent_Messages">代發消息</string>
 	<string name="Represent_send_messages">代表你發消息</string>
 	<string name="Request_Authorization">請求授權</string>
+	<string name="request_permission">允許請求</string>
+	<string name="request_rejected">請求已拒絕</string>
+	<string name="request_rejected_reason_another_request_in_process">正在處理另一請求，請完成當前請求後重試</string>
 	<string name="Requests_access_to_your">需要訪問你的</string>
+	<string name="requests_switching_to_network">%1$s 請求切換到 %2$s</string>
 	<string name="Resend_code">重發驗證碼</string>
 	<string name="Resend_code_in">%1$d 秒後重新發送驗證碼</string>
 	<string name="reset">重置</string>
@@ -808,6 +834,7 @@
 	<string name="search_hint">搜索資產，聯繫人，消息</string>
 	<string name="SEARCH_MESSAGES">搜索消息</string>
 	<string name="search_placeholder_asset">名稱, 符號</string>
+	<string name="search_placeholder_dapp">名稱, URL</string>
 	<string name="search_placeholder_number">搜索 Mixin ID 或手機號碼：</string>
 	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 條相關的消息</item>
@@ -822,6 +849,7 @@
 	<string name="Send_as_file">按檔案發送</string>
 	<string name="send_file_group">將 \"%1$s\" 發送給 \"%2$s\"？</string>
 	<string name="Send_Message">發消息</string>
+	<string name="send_signed_message_confirmation">此消息已被簽名，點擊下方按鈕以發送或丟棄</string>
 	<string name="Send_This_Location">發送這個位置</string>
 	<string name="send_to">發送給 %1$s</string>
 	<string name="Send_to_contact">轉賬給聯繫人</string>
@@ -830,6 +858,7 @@
 	<string name="Send_Without_Sound">靜音發送</string>
 	<string name="Send_your_Current_Location">發送您當前的位置</string>
 	<string name="Senders">交易發起人</string>
+	<string name="session_not_found">沒有對應的連接</string>
 	<string name="Set">設置</string>
 	<string name="set_disappearing_message_time_to">%1$s將限時消息設置為 %2$s</string>
 	<string name="Set_emergency_create_successfully">設置緊急聯繫人成功</string>
@@ -894,19 +923,24 @@
 	<string name="Show">顯示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
 	<string name="Shown">顯示</string>
+	<string name="sign_by_pin">使用 PIN 簽名</string>
 	<string name="Sign_in">登錄</string>
 	<string name="Sign_in_desktop_app">登錄桌面端</string>
 	<string name="Sign_with_emergency_contact">通過緊急聯繫人登錄</string>
 	<string name="Sign_with_phone_number">通過手機號登錄</string>
+	<string name="signature_request">請求籤名</string>
+	<string name="signature_request_warning">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
 	<string name="Silence_Notification">靜音通知</string>
 	<string name="Size">大小</string>
 	<string name="Skip">跳過</string>
 	<string name="Slide_to_cancel">滑動取消</string>
+	<string name="snapshot_Hash">快照哈希</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">順序</string>
 	<string name="Start">開始</string>
 	<string name="Start_Messaging">開始聊天</string>
 	<string name="Status">交易狀態</string>
+	<string name="stay_in_mixin">留在 Mixin</string>
 	<string name="Sticker">貼紙</string>
 	<string name="sticker_add_invalid_size">貼紙要求大於 1KB 且小於 1MB，寬高大於 128 像素且小於 1024 像素。</string>
 	<string name="Sticker_Store">表情商店</string>
@@ -922,6 +956,8 @@
 	<string name="Successful">成功</string>
 	<string name="Sunday">星期日</string>
 	<string name="Suspicious_Link">可疑鏈接</string>
+	<string name="switch_network">切換網絡</string>
+	<string name="switch_to_network">切換到 %1$s</string>
 	<string name="Switching_currency">切換貨幣中</string>
 	<string name="Symbol">符號</string>
 	<string name="symbol_withdrawal">%1$s 提現</string>
@@ -952,8 +988,10 @@
 	<string name="Today">今天</string>
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>
+	<string name="transaction_failed">轉賬失敗</string>
 	<string name="transaction_Hash">交易哈希</string>
 	<string name="Transaction_Id">交易編號</string>
+	<string name="transaction_request">請求轉賬</string>
 	<string name="Transaction_Type">交易類型</string>
 	<string name="Transactions">轉賬記錄</string>
 	<string name="Transactions_CANNOT_be_deleted">轉賬記錄不會被刪除</string>
@@ -973,6 +1011,7 @@
 	<string name="Tuesday">星期二</string>
 	<string name="Turn_On_Notifications">打開通知</string>
 	<string name="Type_message">輸入消息</string>
+	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤銷</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
@@ -1018,6 +1057,7 @@
 	<string name="Upload_Mobile_Contacts">上傳通訊錄找好友</string>
 	<string name="Upload_timeout">上傳超時</string>
 	<string name="Use_Biometric_Multisig">使用生物識別簽名</string>
+	<string name="Use_System_Text_Size">跟隨系統字體大小</string>
 	<string name="User_not_found">找不到這個用户</string>
 	<string name="value_now">價值 %1$s</string>
 	<string name="value_then">當時價值 %1$s</string>
@@ -1059,6 +1099,7 @@
 	<string name="wallet_transactions_asset_key_warning">資產標識不是充值地址！</string>
 	<string name="wallet_transfer_recent_tip">你已經在 %1$s 前給 %2$s 轉賬了 %3$s，確認還要再轉一次嗎？</string>
 	<string name="wallet_withdrawal_changed">手續費已從 %1$s 變更為 %2$s，要更新手續費並繼續提現嗎？</string>
+	<string name="wallet_withdrawal_not_in_addresses">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
 	<string name="wallet_withdrawal_recent_tip">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
 	<string name="web_cannot_reached_desc">無法訪問 %1$s，請檢查你的網絡並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。</string>
 	<string name="web_cannot_reached_title">無法訪問此網頁</string>

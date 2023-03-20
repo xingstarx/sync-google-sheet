@@ -350,6 +350,7 @@
 	<string name="disappearing_option_3">2 horas</string>
 	<string name="disappearing_option_4">1 día</string>
 	<string name="disappearing_option_5">1 semana</string>
+	<string name="discard">Desechar</string>
 	<string name="DISCARD">DESECHAR</string>
 	<string name="Dismiss_as_Admin">Descartar como administrador</string>
 	<string name="divide">, </string>
@@ -621,6 +622,7 @@
 	<string name="Need_help">¿Necesitas ayuda?</string>
 	<string name="Net_Diagnosis">Diagnóstico de red</string>
 	<string name="Network_error">Error de red</string>
+	<string name="network_fee">Tarifa de red: %\@</string>
 	<string name="Network_Operator">Operador de red</string>
 	<string name="Network_Type">Tipo de red</string>
 	<string name="Network_unavailable">Red no disponible</string>

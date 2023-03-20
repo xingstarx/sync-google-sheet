@@ -24,6 +24,11 @@
   <string name="access_your_snapshots" platform="android, iOS">訪問你的轉賬記錄</string>
   <string name="Account" platform="android, iOS, Desktop">賬號</string>
   <string name="Acknowledgements" platform="iOS">許可證</string>
+  <string name="Repair" platform="iOS">修復</string>
+  <string name="Repairing" platform="iOS">修復中</string>
+  <string name="Repair_Chat_History" platform="iOS">修復聊天記錄</string>
+  <string name="Repair_Chat_History_Hint" platform="iOS">資料庫檔案被發現損壞，可能會丟失一些資訊，請嘗試修復它。</string>
+  <string name="Repair_Chat_History_Success" platform="iOS">聊天記錄修復成功！%1$s之前的聊天記錄已經恢復。</string>
   <string name="Authorize_desktop_login" platform="iOS">透過%@授權桌面登入</string>
   <string name="activity" platform="Desktop">活動</string>
   <string name="Add" platform="android, iOS, Desktop">新增</string>
@@ -159,9 +164,11 @@
   <string name="Auto_Lock" platform="android, iOS">自動鎖定</string>
   <string name="Automatic" platform="iOS">自動</string>
   <string name="avatar" platform="Desktop">頭像</string>
+  <string name="back_to_merchant" platform="android, iOS">返回商家</string>
+  <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="Back_Up_Now" platform="iOS">立即備份</string>
-  <string name="Background_Preview" platform="iOS">背景預覽</string>
+  <string name="Background_Preview" platform="android, iOS">背景預覽</string>
   <string name="Backing_Up" platform="android, iOS">正在備份...</string>
   <string name="Backup" platform="android">備份</string>
   <string name="backup" platform="Desktop">備份</string>
@@ -249,7 +256,7 @@
   <string name="chat_audio_discard_warning" platform="android">你確定要停止並放棄錄製的語音嗎？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放棄錄製語音</string>
   <string name="chat_audio_warning" platform="android">無法在 Mixin 錄音時播放語音</string>
-  <string name="Chat_Background" platform="iOS">聊天背景</string>
+  <string name="Chat_Background" platform="android, iOS">聊天背景</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">聊天記錄備份</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">點選按鈕使用機器人</string>
   <string name="chat_call_duration" platform="android, iOS">通話時長 %1$s</string>
@@ -283,6 +290,9 @@
   <string name="chat_waiting" platform="android, iOS">等待%1$s上線後建立加密會話。%2$s。</string>
   <string name="CHATS" platform="android, iOS">會話</string>
   <string name="check_new_version" platform="Desktop">檢查新版本</string>
+  <string name="Closing_Balance" platform="iOS, android">期末餘額</string>
+  <string name="Opening_Balance" platform="iOS, android">期初餘額</string>
+  <string name="snapshot_Hash" platform="iOS, android">快照雜湊</string>
   <string name="check_trace_failed" platform="android">檢查支付資訊失敗，請重試</string>
   <string name="Checking_link" platform="android">正在檢查連結</string>
   <string name="Checking_payment_info" platform="android">請檢查支付資訊</string>
@@ -375,7 +385,7 @@
   <string name="Copy" platform="android, iOS, Desktop">複製</string>
   <string name="Copy_Conversation_Id" platform="iOS">複製對話 ID</string>
   <string name="Copy_invite" platform="android, iOS, Desktop">複製邀請連結</string>
-  <string name="Copy_link" platform="android, iOS">複製連結</string>
+  <string name="Copy_link" platform="android, iOS, Desktop">複製連結</string>
   <string name="Copy_User_Id" platform="iOS">複製使用者 ID</string>
   <string name="Create" platform="android, iOS, Desktop">建立</string>
   <string name="create_circle" platform="Desktop">新建圈子</string>
@@ -399,7 +409,7 @@
   <string name="Data_loading" platform="android, Desktop">資料載入中，請稍後</string>
   <string name="Data_Parsing_Error" platform="iOS">資料解析錯誤</string>
   <string name="Database_access" platform="iOS">資料庫訪問</string>
-  <string name="database_upgrade_tips" platform="android, iOS">正在進行資料庫升級，可能需要幾分鐘，請不要強制關閉應用。</string>
+  <string name="database_upgrade_tips" platform="android, iOS, Desktop">正在進行資料庫升級，可能需要幾分鐘，請不要強制關閉應用。</string>
   <string name="Date" platform="android, iOS">日期</string>
   <string name="date_format_date" platform="android, iOS">yyyy 年 MM 月 dd 日</string>
   <string name="date_format_day" platform="iOS">ahh:mm</string>
@@ -468,7 +478,7 @@
   <string name="disappearing_option_4" platform="android, iOS">1 天</string>
   <string name="disappearing_option_5" platform="android, iOS">1 週</string>
   <string name="DISCARD" platform="android">放棄</string>
-  <string name="discard" platform="Desktop">廢棄</string>
+  <string name="discard" platform="android, iOS, Desktop">廢棄</string>
   <string name="discard_recording_warning" platform="Desktop">是否要停止並廢棄已錄製的語音訊息？</string>
   <string name="Disconnecting" platform="iOS">正在斷開</string>
   <string name="Dismiss_as_Admin" platform="android, iOS, Desktop">撤銷管理員身份</string>
@@ -660,11 +670,11 @@
   <string name="hold_to_record_audio" platform="android, iOS">長按說話，鬆手傳送</string>
   <string name="Hour" platform="android, iOS, Desktop">%d 小時</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d 小時</string>
-  <string name="how_are_you" platform="iOS">嗨，你好嗎？</string>
-  <string name="i_am_good" platform="iOS">我很好。</string>
+  <string name="how_are_you" platform="iOS, Desktop">嗨，你好嗎？</string>
+  <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
   <string name="ignore_this_version" platform="Desktop">忽略這次版本更新</string>
-  <string name="image" platform="iOS, Desktop">圖片</string>
+  <string name="image" platform="iOS, Desktop">影象</string>
   <string name="Immediately" platform="android, iOS">立刻</string>
   <string name="Import" platform="android">匯入聊天記錄</string>
   <string name="in_connecting" platform="android, iOS">正在連線…</string>
@@ -823,7 +833,6 @@
   <string name="network_connection_failed" platform="Desktop">網路連線失敗</string>
   <string name="network_connection_lost" platform="iOS">網路連線超時，請檢查網路稍後重試</string>
   <string name="Network_error" platform="android, Desktop">網路錯誤</string>
-  <string name="network_fee" platform="iOS">網路手續費：%@</string>
   <string name="Network_Operator" platform="android">網路運營商</string>
   <string name="Network_Type" platform="android">網路型別</string>
   <string name="Network_unavailable" platform="android">網路連線不可用</string>
@@ -1050,7 +1059,7 @@
   <string name="Resend_code" platform="android, iOS, Desktop">重發驗證碼</string>
   <string name="Resend_code_in" platform="android, Desktop">%1$d 秒後重新發送驗證碼</string>
   <string name="resend_code_pending" platform="iOS">%@ 後重新發送驗證碼</string>
-  <string name="reset" platform="Desktop">重置</string>
+  <string name="reset" platform="android, Desktop">重置</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">重置邀請連結</string>
   <string name="Reset_notifications" platform="android">重置通知設定</string>
   <string name="RESTART" platform="android">重啟應用</string>
@@ -1254,7 +1263,7 @@
   <string name="Stranger_Transfer_Confirmation" platform="android">陌生人轉賬確認</string>
   <string name="strangers" platform="Desktop">陌生人</string>
   <string name="strikethrough" platform="android">刪除線</string>
-  <string name="Successful" platform="android, Desktop">成功</string>
+  <string name="Successful" platform="android, Desktop, iOS">成功</string>
   <string name="Sunday" platform="android">星期日</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑連結</string>
   <string name="Switching_currency" platform="android">切換貨幣中</string>
@@ -1358,7 +1367,7 @@
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">升級需要驗證你的 PIN</string>
   <string name="Upgrade_TIP" platform="android,iOS">升級 TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">TIP 升級成功</string>
-  <string name="Upgrading" platform="android, iOS">升級中...</string>
+  <string name="Upgrading" platform="android, iOS, Desktop">升級中...</string>
   <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">升級 TIP 意外中止，點繼續完成 TIP 升級</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">上傳通訊錄找好友</string>
   <string name="Upload_timeout" platform="android">上傳超時</string>
@@ -1419,6 +1428,7 @@
   <string name="wallet_transactions_asset_key_warning" platform="android, iOS">資產標識不是充值地址！</string>
   <string name="wallet_transfer_recent_tip" platform="android, iOS">你已經在 %1$s 前給 %2$s 轉賬了 %3$s，確認還要再轉一次嗎？</string>
   <string name="wallet_withdrawal_changed" platform="android, iOS">手續費已從 %1$s 變更為 %2$s，要更新手續費並繼續提現嗎？</string>
+  <string name="wallet_withdrawal_not_in_addresses" platform="android, iOS">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
   <string name="wallet_withdrawal_recent_tip" platform="android, iOS">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
   <string name="web_cannot_reached_desc" platform="android, iOS">無法訪問 %1$s，請檢查你的網路並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。</string>
   <string name="web_cannot_reached_title" platform="android, iOS">無法訪問此網頁</string>
@@ -1475,4 +1485,40 @@
   <string name="error_upload_attachment_failed" platform="Desktop">訊息附件上傳失敗</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">開啟手機上的 Mixin Messenger。</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">掃描螢幕上的二維碼，確認登入。</string>
+  <string name="chat_text_size" platform="android, Desktop, iOS">聊天字型大小</string>
+  <string name="draft" platform="Desktop">草稿</string>
+  <string name="Use_System_Text_Size" platform="iOS, android">跟隨系統字型大小</string>
+  <string name="system" platform="iOS">跟隨系統</string>
+  <string name="request_rejected" platform="iOS, android">請求已拒絕</string>
+  <string name="request_rejected_reason_another_request_in_process" platform="iOS, android">正在處理另一請求，請完成當前請求後重試</string>
+  <string name="connection_failed" platform="iOS, android">連線失敗</string>
+  <string name="chain_not_supported" platform="iOS, android">不支援此網路</string>
+  <string name="session_not_found" platform="iOS, android">沒有對應的連線</string>
+  <string name="unable_to_decode_the_request" platform="iOS, android">無法解析請求: %1$s</string>
+  <string name="method_not_supported" platform="iOS, android">不支援此方法: %1$s</string>
+  <string name="switch_network" platform="iOS, android">切換網路</string>
+  <string name="requests_switching_to_network" platform="iOS, android">%1$s 請求切換到 %2$s</string>
+  <string name="switch_to_network" platform="iOS, android">切換到 %1$s</string>
+  <string name="keep_network" platform="iOS, android">留在 %1$s</string>
+  <string name="network_switched" platform="iOS, android">已切換網路</string>
+  <string name="failed_to_switch_network" platform="iOS, android">切換網路失敗: %1$s</string>
+  <string name="network" platform="iOS, android">網路</string>
+  <string name="connect_wallet" platform="iOS, android">連線錢包</string>
+  <string name="read_your_public_address" platform="iOS, android">讀取你的地址</string>
+  <string name="allow_dapp_access_public_address" platform="iOS, android">允許 App 訪問你的錢包餘額及活動。</string>
+  <string name="request_permission" platform="iOS, android">允許請求</string>
+  <string name="allow_dapp_request_permission" platform="iOS, android">允許 Dapp 向你傳送請求，如轉賬請求等</string>
+  <string name="send_signed_message_confirmation" platform="iOS, android">此訊息已被簽名，點選下方按鈕以傳送或丟棄</string>
+  <string name="signature_request" platform="iOS, android">請求籤名</string>
+  <string name="transaction_request" platform="iOS, android">請求轉賬</string>
+  <string name="calculating" platform="iOS, android">正在計算…</string>
+  <string name="transaction_failed" platform="iOS, android">轉賬失敗</string>
+  <string name="network_fee" platform="iOS, android">網路費用</string>
+  <string name="signature_request_warning" platform="iOS, android">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
+  <string name="sign_by_pin" platform="iOS, android">使用 PIN 簽名</string>
+  <string name="dapp_description" platform="iOS, android">此 Dapp 已經與你的錢包連線，並被授權檢視你的錢包餘額及活動，也可向你發出轉賬請求。</string>
+  <string name="disconnected" platform="iOS, android">已斷開</string>
+  <string name="no_dapp" platform="iOS, android">沒有 Dapp</string>
+  <string name="connected_dapps" platform="iOS, android">已連線的 Dapp</string>
+  <string name="search_placeholder_dapp" platform="iOS, android">名稱, URL</string>
 </resources>

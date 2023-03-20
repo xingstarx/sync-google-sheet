@@ -602,6 +602,7 @@
 	<string name="Need_help">Нужна помощь?</string>
 	<string name="Net_Diagnosis">Чистая диагностика</string>
 	<string name="Network_error">Сетевая ошибка</string>
+	<string name="network_fee">Сетевая комисиия</string>
 	<string name="Network_Operator">Сетевой оператор</string>
 	<string name="Network_Type">Тип сети</string>
 	<string name="Network_unavailable">Сеть недоступна</string>

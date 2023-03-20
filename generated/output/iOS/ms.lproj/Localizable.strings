@@ -76,6 +76,8 @@
 "allow_bot_manage_bots" = "Allow bot to add or modify your bots.";
 "allow_bot_manage_circles" = "Allow bot to add, modify and delete your circles.";
 "allow_bot_send_messages" = "Allow bot to send messages represent of you.";
+"allow_dapp_access_public_address" = "Allow app to access your wallet balance and activity.";
+"allow_dapp_request_permission" = "Allow dapp to ask for your permission to make a transaction.";
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Jumlah";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
@@ -124,6 +126,7 @@
 "bots" = "BOT";
 "bots_title" = "Bot";
 "business" = "Business";
+"calculating" = "Calculating...";
 "call" = "Call";
 "call_declined" = "Panggilan ditolak";
 "call_encryption_description" = "No one outside of this call can view or listen to it. Not even Mixin.";
@@ -146,6 +149,7 @@
 "card" = "card";
 "category_chats" = "Chats";
 "chain" = "Rantai";
+"chain_not_supported" = "Chain not supported";
 "change" = "Ubah";
 "change_amount" = "Tukar Jumlah";
 "change_emergency_contact" = "Tukar kenalan kecemasan";
@@ -211,8 +215,11 @@
 "compressed" = "Compressed";
 "confirm" = "Sahkan";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
+"connect_wallet" = "Connect Wallet";
 "connected" = "Connected";
+"connected_dapps" = "Connected Dapps";
 "connecting" = "Menyambung";
+"connection_failed" = "Connection Failed";
 "connection_unstable" = "Connection unstable";
 "contact" = "Kenalan";
 "contact_category" = "contact";
@@ -268,6 +275,7 @@
 "current_selected" = "Current Selected";
 "custom_time" = "Custom Time";
 "daily" = "Daily";
+"dapp_description" = "This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.";
 "dark" = "Dark";
 "data_and_storage_usage" = "Penggunaan Data dan Storan";
 "data_parsing_error" = "Data parsing error";
@@ -322,6 +330,8 @@
 "disappearing_option_3" = "2 hours";
 "disappearing_option_4" = "1 day";
 "disappearing_option_5" = "1 week";
+"discard" = "Discard";
+"disconnected" = "Disconnected";
 "disconnecting" = "Disconnecting";
 "dismiss_as_admin" = "Ketepikan pentadbir";
 "done" = "Selesai";
@@ -395,6 +405,7 @@
 "failed_to_send_location" = "Failed to send location";
 "failed_to_send_photo" = "Failed to send photo";
 "failed_to_send_video" = "Failed to send video";
+"failed_to_switch_network" = "Failed to switch network: %@";
 "fee" = "Bayaran";
 "feedback" = "Maklum balas";
 "file" = "Fail";
@@ -464,6 +475,7 @@
 "invites_you_to_a_voice_call" = "tanya anda panggilan audio";
 "join_group" = "Join Group";
 "joined_in" = "Menyertai %@";
+"keep_network" = "Keep %@";
 "label" = "Label";
 "landing_delete_content" = "Your account will be deleted on %@, if you continue to log in, the request to delete your account will be cancelled.";
 "landing_validation_title" = "Masukkan kod 4 digit yang dihantar kepada anda di %@";
@@ -513,6 +525,7 @@
 "message_preview" = "Message Preview";
 "message_sent" = "Pesanan dihantar";
 "messages" = "Messages";
+"method_not_supported" = "Method %@ is not supported";
 "minute" = "%d Minute";
 "minute_count" = "%d Minit";
 "mixin" = "Mixin";
@@ -542,8 +555,10 @@
 "name" = "Nama";
 "name_or_phone_number" = "Name or Phone number";
 "need_help" = "Perlukan bantuan?";
+"network" = "Network";
 "network_connection_lost" = "The network connection was lost, please check your network and try again later";
-"network_fee" = "Network fee: %@";
+"network_fee" = "Network Fee";
+"network_switched" = "Network Switched";
 "never_auto_download" = "Never";
 "new_chat" = "New Chat";
 "new_group" = "Kumpulan Baharu";
@@ -557,6 +572,7 @@
 "no_blocked_users" = "Tiada pengguna yang disekat";
 "no_bots" = "TIADA APLIKASI";
 "no_contacts" = "NO CONTACTS";
+"no_dapp" = "No dapp";
 "no_files" = "TIADA FAIL";
 "no_hidden_assets" = "Tiada aset tersembunyi";
 "no_items_selected" = "No Items Selected";
@@ -683,6 +699,7 @@
 "read_your_contacts" = "Read your contacts";
 "read_your_nfts" = "Read your NFTs";
 "read_your_phone_number" = "Read your phone number";
+"read_your_public_address" = "Read your public address";
 "read_your_public_profile" = "Read your public profile";
 "read_your_snapshots" = "Read your snapshots";
 "rebate" = "Rebat";
@@ -717,6 +734,10 @@
 "represent_messages" = "Wakilkan Mesej";
 "represent_send_messages" = "Represent send messages";
 "request_authorization" = "Request Authorization";
+"request_permission" = "Request permission";
+"request_rejected" = "Request Rejected";
+"request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
+"requests_switching_to_network" = "%1$@ requests switching to %2$@";
 "resend_code" = "Hantar semula kod";
 "resend_code_pending" = "Hantar semula kod dalam %d s";
 "reset_link" = "Reset Link";
@@ -747,6 +768,7 @@
 "search_open_link" = "Open Link: ";
 "search_placeholder_asset" = "Name, Symbol";
 "search_placeholder_contact" = "Mixin ID, Name, Phone number";
+"search_placeholder_dapp" = "Name, URL";
 "search_placeholder_number" = "Search Mixin ID or phone number: ";
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d mesej berkaitan";
@@ -772,6 +794,7 @@
 "send_message" = "Menghantar mesej";
 "send_photo" = "Send 1 Photo";
 "send_photo_count" = "Send %d Photos";
+"send_signed_message_confirmation" = "The message has been signed successfully, click the button below to send or discard the signed message";
 "send_this_location" = "Hantar Lokasi Ini";
 "send_to" = "Hantar ke %@";
 "send_to_developer" = "Send to Developer";
@@ -783,6 +806,7 @@
 "send_your_current_location" = "Hantarkan Lokasi Semasa Anda";
 "send_count" = "Send(%d)";
 "senders" = "Pengirim";
+"session_not_found" = "Session not found";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
 "set_emergency_create_successfully" = "Set emergency contact successfully";
@@ -828,9 +852,12 @@
 "show" = "Tunjuk";
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
+"sign_by_pin" = "Sign by PIN";
 "sign_in" = "Log masuk";
 "sign_with_emergency_contact" = "Log masuk dengan kenalan kecemasan";
 "sign_with_phone_number" = "Log masuk dengan nombor telefon";
+"signature_request" = "Signature Request";
+"signature_request_warning" = "We cannot verify this signature request. Make sure you trust this app before signing this request.";
 "skip" = "LANGKAU";
 "slide_to_cancel" = "Slaid untuk Batal";
 "snapshot_hash" = "Snapshot Hash";
@@ -852,6 +879,8 @@
 "stranger_hint" = "This sender is not in your contacts";
 "successful" = "Berjaya";
 "suspicious_link" = "Pautan yang mencurigakan";
+"switch_network" = "Switch Network";
+"switch_to_network" = "Switch to %@";
 "symbol" = "Simbol";
 "symbol_withdrawal" = "%@ Withdrawal";
 "syncing_and_verifying_tip" = "Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.";
@@ -881,8 +910,10 @@
 "track_not_found" = "Track not found";
 "trading" = "Trading";
 "transaction" = "Urus Niaga";
+"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Urus niaga Cincangan";
 "transaction_id" = "Id Urus Niaga";
+"transaction_request" = "Transaction Request";
 "transaction_type" = "Jenis Transaksi";
 "transactions" = "Urus Niaga";
 "transactions_cannot_be_deleted" = "Transactions CANNOT be deleted";
@@ -901,6 +932,7 @@
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
 "turn_on_notifications" = "Hidupkan Pemberitahuan";
+"unable_to_decode_the_request" = "Unable to decode the request: %@";
 "unable_to_save_photo" = "Unable to save photo.";
 "unable_to_save_video" = "Unable to save video.";
 "unable_to_share_content" = "Unable to share this content";
