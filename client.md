@@ -1546,6 +1546,7 @@
 | iOS, android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | iOS, android | disconnect | Disconnect | 断开连接 |     |     |     |
+| iOS, android | success | Success | 成功  |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
