@@ -290,9 +290,9 @@
   <string name="chat_waiting" platform="android, iOS">等待%1$s上线后建立加密会话。%2$s。</string>
   <string name="CHATS" platform="android, iOS">会话</string>
   <string name="check_new_version" platform="Desktop">检查新版本</string>
-  <string name="Closing_Balance" platform="iOS, android">期末余额</string>
-  <string name="Opening_Balance" platform="iOS, android">期初余额</string>
-  <string name="snapshot_Hash" platform="iOS, android">快照哈希</string>
+  <string name="Closing_Balance" platform="iOS, android, Desktop">期末余额</string>
+  <string name="Opening_Balance" platform="iOS, android, Desktop">期初余额</string>
+  <string name="snapshot_Hash" platform="iOS, android, Desktop">快照哈希</string>
   <string name="check_trace_failed" platform="android">检查支付信息失败，请重试</string>
   <string name="Checking_link" platform="android">正在检查链接</string>
   <string name="Checking_payment_info" platform="android">请检查支付信息</string>
@@ -1521,4 +1521,5 @@
   <string name="NO_DAPP" platform="iOS, android">没有 Dapp</string>
   <string name="connected_dapps" platform="iOS, android">已连接的 Dapp</string>
   <string name="search_placeholder_dapp" platform="iOS, android">名称, URL</string>
+  <string name="disconnect" platform="iOS, android">断开连接</string>
 </resources>

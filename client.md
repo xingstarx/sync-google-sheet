@@ -296,9 +296,9 @@
 | android, iOS | chat_waiting | Waiting for %1$s to get online and establish an encrypted session. %2$s. | 等待%1$s上线后建立加密会话。%2$s。 | オンラインで暗号化されたやりとりを開始するまであと%1$s。%2$s | Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s. | Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s. |
 | android, iOS | CHATS | CHATS | 会话  | チャット | SEMBANG | OBROLAN |
 | Desktop | check_new_version | Check new version | 检查新版本 | 最新版をチェック |     |     |
-| iOS, android | Closing_Balance | Closing Balance | 期末余额 |     |     |     |
-| iOS, android | Opening_Balance | Opening Balance | 期初余额 |     |     |     |
-| iOS, android | snapshot_Hash | Snapshot Hash | 快照哈希 |     |     |     |
+| iOS, android, Desktop | Closing_Balance | Closing Balance | 期末余额 |     |     |     |
+| iOS, android, Desktop | Opening_Balance | Opening Balance | 期初余额 |     |     |     |
+| iOS, android, Desktop | snapshot_Hash | Snapshot Hash | 快照哈希 |     |     |     |
 | android | check_trace_failed | Check trace info failed, please try again | 检查支付信息失败，请重试 | 記録情報の確認失敗、もう一度お試しください | Periksa maklumat jejak gagal, sila cuba lagi | Gagal memeiksa info jejak, coba lagi |
 | android | Checking_link | Checking link | 正在检查链接 | リンク確認中 | Memeriksa pautan | Memeriksa tautan |
 | android | Checking_payment_info | Checking payment info | 请检查支付信息 | 支払い情報を確認中 | Memeriksa maklumat pembayaran | Memeriksa info pembayaran |
@@ -1545,6 +1545,7 @@
 | iOS, android | NO_DAPP | NO DAPP | 没有 Dapp |     |     |     |
 | iOS, android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
+| iOS, android | disconnect | Disconnect | 断开连接 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
