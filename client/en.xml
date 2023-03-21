@@ -295,9 +295,9 @@
   <string name="chat_waiting" platform="android, iOS">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
   <string name="CHATS" platform="android, iOS">CHATS</string>
   <string name="check_new_version" platform="Desktop">Check new version</string>
-  <string name="Closing_Balance" platform="iOS, android">Closing Balance</string>
-  <string name="Opening_Balance" platform="iOS, android">Opening Balance</string>
-  <string name="snapshot_Hash" platform="iOS, android">Snapshot Hash</string>
+  <string name="Closing_Balance" platform="iOS, android, Desktop">Closing Balance</string>
+  <string name="Opening_Balance" platform="iOS, android, Desktop">Opening Balance</string>
+  <string name="snapshot_Hash" platform="iOS, android, Desktop">Snapshot Hash</string>
   <string name="check_trace_failed" platform="android">Check trace info failed, please try again</string>
   <string name="Checking_link" platform="android">Checking link</string>
   <string name="Checking_payment_info" platform="android">Checking payment info</string>
@@ -1545,7 +1545,6 @@
   <string name="connected_dapps" platform="iOS, android">Connected Dapps</string>
   <string name="search_placeholder_dapp" platform="iOS, android">Name, URL</string>
   <string name="disconnect" platform="iOS, android">Disconnect</string>
-  <string name="success" platform="iOS, android">Success</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
