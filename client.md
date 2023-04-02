@@ -1546,6 +1546,8 @@
 | iOS, android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | iOS, android | disconnect | Disconnect | 断开连接 |     |     |     |
+| iOS, android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
+|     | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |

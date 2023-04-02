@@ -1545,6 +1545,8 @@
   <string name="connected_dapps" platform="iOS, android">Connected Dapps</string>
   <string name="search_placeholder_dapp" platform="iOS, android">Name, URL</string>
   <string name="disconnect" platform="iOS, android">Disconnect</string>
+  <string name="preview_unavailable" platform="iOS, android">Preview unavailable</string>
+  <string name="preview_unavailable_description" platform="">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
