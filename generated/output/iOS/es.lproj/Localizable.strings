@@ -29,7 +29,7 @@
 "address" = "Dirección";
 "address_not_found" = "Dirección no encontrada.";
 "admin" = "Administrador";
-"agree_hint" = "Al continuar, aceptas el %\@ y el %\@.";
+"agree_hint" = "Al continuar, aceptas el %@ y el %@.";
 "albums" = "Álbumes";
 "alert_key_contact_audio_call_cancelled_message" = "llamada de voz cancelada";
 "alert_key_contact_audio_call_message" = "te invita a una llamada de voz";
@@ -82,7 +82,7 @@
 "amount" = "Cantidad";
 "app_card_shareable_false" = "La tarjeta se ha configurado para no permitir compartir";
 "app_update_short_hint" = "Actualiza Mixin desde App Store para continuar usando el servicio.";
-"app_update_tips" = "¡La versión actual (%\@) ya no está disponible! Haz clic en Actualizar a continuación para actualizar a la última versión de la App Store.";
+"app_update_tips" = "¡La versión actual (%@) ya no está disponible! Haz clic en Actualizar a continuación para actualizar a la última versión de la App Store.";
 "appearance" = "Apariencia";
 "apply" = "Aplicar";
 "asset_key" = "Clave de activo";
@@ -99,8 +99,8 @@
 "authorization" = "autorización";
 "authorizations" = "Autorizaciones";
 "authorize" = "Autorizar";
-"authorize_desktop_login" = "Autorizar inicio de sesión de escritorio a través de %\@";
-"authorize_payment_via" = "Autorizar pago a través de %\@";
+"authorize_desktop_login" = "Autorizar inicio de sesión de escritorio a través de %@";
+"authorize_payment_via" = "Autorizar pago a través de %@";
 "authorized" = "Autorizado";
 "auto_back_up_hint" = "Realiza una copia de seguridad automática en iCloud solo a través de Wi-Fi.";
 "auto_backup" = "Copia de seguridad automática";
@@ -136,7 +136,7 @@
 "call_no_network_hint" = "Servicio de llamadas no disponible. Asegúrate de que tu teléfono tenga conexión a Internet e inténtalo de nuevo.";
 "call_on_another_call_hint" = "Ya estás en otra llamada. Inténtalo después de que haya terminado.";
 "call_phone" = "Llamada telefónica";
-"call_remote_error" = "La conexión ha fallado. Código %\@";
+"call_remote_error" = "La conexión ha fallado. Código %@";
 "call_with_mixin" = "Llamar con Mixin";
 "calling" = "Llamando...";
 "camera" = "Cámara";
@@ -173,7 +173,7 @@
 "chat_call_duration" = "Duración %@";
 "chat_call_warning_voice" = "No puedo grabar mensajes de voz durante una llamada de Mixin.";
 "chat_decryption_failed" = "El descifrado de este mensaje ha fallado, actualiza Mixin a la última versión.";
-"chat_decryption_failed_hint" = "Esperando a que %\@ se conecte y establezca una sesión cifrada.";
+"chat_decryption_failed_hint" = "Esperando a que %@ se conecte y establezca una sesión cifrada.";
 "chat_group_add" = "%1$@ ha añadido %2$@";
 "chat_group_call_cancel" = "%@ ha cancelado una llamada de grupo";
 "chat_group_call_decline" = "%@ ha rechazado una llamada de grupo";
@@ -201,14 +201,14 @@
 "circles" = "Círculos";
 "clear" = "Borrar";
 "clear_chat" = "Vaciar la conversación";
-"clear_contact_chat_confirmation" = "¿Borrar chat con %\@?";
-"clear_group_chat_confirmation" = "¿Borrar el chat grupal de %\@?";
+"clear_contact_chat_confirmation" = "¿Borrar chat con %@?";
+"clear_group_chat_confirmation" = "¿Borrar el chat grupal de %@?";
 "clear_unused_cache" = "Borrar caché no utilizado";
 "cleared" = "Borrado";
 "clock_skew_hint" = "Continúa usándolo nuevamente después de la corrección. Configuración > General > Fecha y hora > Activar Establecer automáticamente";
 "close" = "Cerrar";
 "closing_balance" = "Closing Balance";
-"collectible_token_id" = "#%\@";
+"collectible_token_id" = "#%@";
 "combine_and_forward" = "Combinar y avanzar";
 "compress_database" = "Comprimir base de datos";
 "compressed" = "Comprimido";
@@ -292,18 +292,18 @@
 "delete_address" = "Eliminar dirección";
 "delete_chat" = "Eliminar chat";
 "delete_circle" = "Eliminar círculo";
-"delete_contact_chat_confirmation" = "¿Eliminar el chat con %\@?";
+"delete_contact_chat_confirmation" = "¿Eliminar el chat con %@?";
 "delete_emergency_contact" = "Eliminar contacto de emergencia";
 "delete_for_everyone" = "Eliminar para todos";
 "delete_for_me" = "Eliminar para mí";
-"delete_group_chat_confirmation" = "¿Eliminar %\@ chat de grupo?";
+"delete_group_chat_confirmation" = "¿Eliminar %@ chat de grupo?";
 "delete_my_account" = "Borrar mi cuenta";
 "delete_synced_contact" = "Eliminar contactos sincronizados";
 "delete_withdraw_address" = "Eliminar dirección de %@";
 "deleted" = "Eliminado";
 "deposit" = "Depósito";
 "deposit_account_attention" = "Atención: prueba con una pequeña cantidad para el primer depósito. Se requiere una nota y una dirección para depositar correctamente tu %@ en Mixin Messenger.";
-"deposit_at_least" = "Deposita al menos %\@ %\@ por primera vez.";
+"deposit_at_least" = "Deposita al menos %@ %@ por primera vez.";
 "deposit_attention" = "Prueba con una pequeña cantidad para el primer depósito.";
 "deposit_confirmation" = "El depósito llegará %d confirmación de bloqueo";
 "deposit_confirmation_count" = "El depósito llegará %d bloquear confirmaciones";
@@ -320,7 +320,7 @@
 "diagnose" = "Diagnosticar";
 "diagnose_warning_hint" = "⚠️Usa estas funciones solo bajo las instrucciones del equipo de Mixin";
 "disable" = "Desactivar";
-"disable_biometric_pay_confirmation" = "¿Desactivar %\@ Pagar?";
+"disable_biometric_pay_confirmation" = "¿Desactivar %@ Pagar?";
 "disable_disappearing_message" = "%@ mensaje de desaparición inhabilitado";
 "disappearing_message" = "Mensajes que desaparecen";
 "disappearing_message_hint" = "Cuando está habilitado, los nuevos mensajes enviados y recibidos en este chat desaparecerán después de que se hayan visto, lee el documento para obtener más información.";
@@ -350,8 +350,8 @@
 "emergency_contact" = "Contacto de emergencia";
 "enable_emergency_contact" = "Habilitar contacto de emergencia";
 "enable_face_pay_hint" = "Confirme el PIN para habilitar Face Pay";
-"enable_pay" = "Habilitar %\@ Pagar";
-"enable_pay_confirmation" = "¿Habilitar %\@ Pagar?";
+"enable_pay" = "Habilitar %@ Pagar";
+"enable_pay_confirmation" = "¿Habilitar %@ Pagar?";
 "enable_touch_pay_hint" = "Confirme el PIN para habilitar Touch Pay";
 "end_to_end_encryption" = "Cifrado de extremo a extremo";
 "enter_new_phone_number" = "Introduce tu nuevo número de teléfono";
@@ -369,7 +369,7 @@
 "error_full_group" = "ERROR 20116: El chat de grupo está lleno.";
 "error_insufficient_balance" = "ERROR 20117: Saldo insuficiente";
 "error_insufficient_transaction_fee_with_amount" = "ERROR 20124: Tarifa de transacción insuficiente. Asegúrate de que tu cartera tenga %@ como tarifa";
-"error_internal_with_msg" = "Error interno: %\@";
+"error_internal_with_msg" = "Error interno: %@";
 "error_invalid_address_plain" = "ERROR 30102: formato de dirección no válido.";
 "error_invalid_emergency_contact" = "ERROR 20130: Contacto de emergencia no válido";
 "error_network_task_failed" = "La conexión de red ha fallado. Comprueba o cambia tu red e inténtalo de nuevo";
@@ -389,12 +389,12 @@
 "error_too_small_transfer_amount" = "ERROR 20120: Importe de la transferencia demasiado pequeño";
 "error_too_small_withdraw_amount" = "ERROR 20127: Cantidad de retiro demasiado pequeña";
 "error_transfer_is_already_paid" = "ERROR 20125: La transferencia ya está pagada.";
-"error_two_parts" = "ERROR %\@: %\@";
+"error_two_parts" = "ERROR %@: %@";
 "error_used_phone" = "ERROR 20122: Este número de teléfono ya está asociado a otra cuenta.";
 "error_withdrawal_memo_format_incorrect" = "ERROR 20131: Formato de nota de retiro incorrecto.";
 "everybody" = "Todos";
 "exchanging_data" = "Fragmentos de clave de sincronización en curso %@%%...";
-"exit_confirmation" = "¿Salir de %\@?";
+"exit_confirmation" = "¿Salir de %@?";
 "exit_group" = "Salir del grupo";
 "exit_group_and_report_inviter" = "Salir del grupo e reportar persona que te ha invitado";
 "expired" = "Caducado";
@@ -459,7 +459,7 @@
 "invalid_candidate" = "Candidato inválido";
 "invalid_height" = "Altura inválida";
 "invalid_malformed_address_eos_hint" = "Formato de dirección inválido. ¡Mixin no admite el retiro a la dirección del contrato EOS!";
-"invalid_malformed_address_hint" = "Formato de dirección inválido. Vuelve a intentarlo con una dirección válida de %\@";
+"invalid_malformed_address_hint" = "Formato de dirección inválido. Vuelve a intentarlo con una dirección válida de %@";
 "invalid_parameters" = "Parámetros inválidos";
 "invalid_payment_link" = "Enlace de pago inválido";
 "invalid_qr_code" = "Código QR inválido";
@@ -482,8 +482,8 @@
 "language" = "Idioma";
 "large_amount_confirmation" = "Confirmación de gran cantidad";
 "large_amount_confirmation_with_symbol" = "Confirmación de gran cantidad(%@)";
-"last_active_time" = "Último Activo %\@";
-"last_backup_hint" = "Última copia de seguridad en %\@, tamaño total %\@.";
+"last_active_time" = "Último Activo %@";
+"last_backup_hint" = "Última copia de seguridad en %@, tamaño total %@.";
 "later" = "Más tarde";
 "learn_more" = "Obtener más información";
 "light" = "Claro";
@@ -498,11 +498,12 @@
 "loading" = "Cargando...";
 "locating" = "Localizando...";
 "location" = "Localización";
-"location_accuracy_to" = "Preciso al %\@";
-"location_distance" = "Distancia: %\@";
-"location_empty" = "No ha habido resultados para %@\nPrueba una nueva búsqueda";
+"location_accuracy_to" = "Preciso al %@";
+"location_distance" = "Distancia: %@";
+"location_empty" = "No ha habido resultados para %@
+\nPrueba una nueva búsqueda";
 "location_undetermined" = "Tu ubicación aún no se ha determinado. Por favor, inténtalo de nuevo más tarde";
-"lock_with_biometric" = "Bloquear con %\@";
+"lock_with_biometric" = "Bloquear con %@";
 "log_in" = "Iniciar sesión";
 "log_out_from_desktop" = "Cerrar sesión desde el escritorio";
 "login_and_abort_account_deletion" = "Continuar para iniciar sesión y cancelar la eliminación de la cuenta";
@@ -545,7 +546,7 @@
 "mute" = "Silenciar";
 "mute_until" = "Hasta el %@";
 "muted" = "Silenciado";
-"muted_until" = "Silenciado hasta %\@";
+"muted_until" = "Silenciado hasta %@";
 "my_contacts" = "Mis contactos";
 "my_mixin_id" = "Mi ID de Mixin: %@";
 "my_qr_code" = "Mi código QR";
@@ -557,7 +558,7 @@
 "need_help" = "¿Necesitas ayuda?";
 "network" = "Network";
 "network_connection_lost" = "Se ha perdido la conexión de red, verifica tu red e intenta nuevamente más tarde";
-"network_fee" = "Tarifa de red: %\@";
+"network_fee" = "Tarifa de red: %@";
 "network_switched" = "Network Switched";
 "never_auto_download" = "Nunca";
 "new_chat" = "Nueva chat";
@@ -596,7 +597,7 @@
 "notification_and_confirmation" = "Notificación y Confirmación";
 "notification_content" = "No te pierdas los mensajes de tus amigos.";
 "notification_message_preview_description" = "Obtén una vista previa del texto del mensaje dentro de las notificaciones de mensajes nuevos.";
-"now_an_addmin" = "%\@ ahora es administrador";
+"now_an_addmin" = "%@ ahora es administrador";
 "number_reached_limit" = "El número ha llegado al límite.";
 "off" = "Apagado";
 "ok" = "OK";
@@ -619,12 +620,13 @@
 "other" = "Otro";
 "owner" = "Propietario";
 "participants" = "Participantes";
-"participants_count" = "%\@ PARTICIPANTES";
+"participants_count" = "%@ PARTICIPANTES";
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
-"pay_with" = "Pagar con %\@";
+"pay_with" = "Pagar con %@";
 "pay_with_pin" = "Pagar con PIN";
 "pay_with_pin_interval" = "Intervalo de pago con PIN";
-"pay_withdrawal_memo" = "Importe %\@ %\@\nTarifa %\@ %\@";
+"pay_withdrawal_memo" = "Importe %@ %@
+\nTarifa %@ %@";
 "peer_closed" = "Par cerrado";
 "peer_not_found" = "Par no encontrado";
 "pending_confirmation" = "%1$d/%2$d confirmación";
@@ -656,18 +658,18 @@
 "pin_lost_hint" = "Si se pierde, no hay forma de recuperar tu cartera.";
 "pin_not_same_as_last_time" = "El PIN no coincide con lo que se ha configurado la última vez que se canceló inesperadamente";
 "pin_title" = "Fijar";
-"pinned_a_audio" = "%\@ ha fijado un audio";
-"pinned_a_card" = "%\@ ha fijado una tarjeta";
-"pinned_a_contact" = "%\@ ha fijado un contacto";
-"pinned_a_file" = "%\@ ha fijado un archivo";
-"pinned_a_general" = "%\@ ha fijado un mensaje";
-"pinned_a_image" = "%\@ ha fijado una foto";
-"pinned_a_live" = "%\@ ha fijado una transmisión en vivo";
-"pinned_a_location" = "%\@ ha fijado una ubicación";
-"pinned_a_post" = "%\@ ha fijado una publicación";
-"pinned_a_sticker" = "%\@ ha fijado una pegatina";
-"pinned_a_transcript" = "%\@ ha fijado una transcripción";
-"pinned_a_video" = "%\@ ha fijado un video";
+"pinned_a_audio" = "%@ ha fijado un audio";
+"pinned_a_card" = "%@ ha fijado una tarjeta";
+"pinned_a_contact" = "%@ ha fijado un contacto";
+"pinned_a_file" = "%@ ha fijado un archivo";
+"pinned_a_general" = "%@ ha fijado un mensaje";
+"pinned_a_image" = "%@ ha fijado una foto";
+"pinned_a_live" = "%@ ha fijado una transmisión en vivo";
+"pinned_a_location" = "%@ ha fijado una ubicación";
+"pinned_a_post" = "%@ ha fijado una publicación";
+"pinned_a_sticker" = "%@ ha fijado una pegatina";
+"pinned_a_transcript" = "%@ ha fijado una transcripción";
+"pinned_a_video" = "%@ ha fijado un video";
 "pinned_message_title" = "%d Mensaje fijado";
 "pinned_message_title_count" = "%d Mensajes fijados";
 "playlist" = "Lista de reproducción";
@@ -676,7 +678,7 @@
 "post" = "Publicar";
 "post_sharing" = "publicar";
 "preparing" = "Preparando...";
-"preparing_progress" = "Preparando...(%\@)";
+"preparing_progress" = "Preparando...(%@)";
 "preview_unavailable" = "Preview unavailable";
 "preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
 "privacy" = "Privacidad";
@@ -741,12 +743,13 @@
 "request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
 "requests_switching_to_network" = "%1$@ requests switching to %2$@";
 "resend_code" = "Reenviar codigo";
-"resend_code_pending" = "Reenviar código en %\@";
+"resend_code_pending" = "Reenviar código en %@";
 "reset_link" = "Restablecer enlace";
 "restore" = "Restaurar";
-"restore_chat_hint" = "Restaura tu\nhistorial de chat desde iCloud";
+"restore_chat_hint" = "Restaura tu
+\nhistorial de chat desde iCloud";
 "restoring" = "Restaurando...";
-"restoring_progress" = "Restaurando %\@";
+"restoring_progress" = "Restaurando %@";
 "retry" = "Reintentar";
 "revoke_access" = "Revocar el acceso";
 "revoke_multisig_transaction" = "Revocar transacción multigrado";
@@ -761,8 +764,8 @@
 "scan_code_add_me" = "Escanea el código QR para añadirme en Mixin";
 "scan_qr_code" = "Escanear código QR";
 "screen_lock" = "Bloqueo de pantalla";
-"screen_lock_enable_biometric_hint" = "Necesitarás usar %\@ para desbloquear Mixin. Todavía puedes responder mensajes de notificaciones y responder llamadas si Mixin está bloqueado.";
-"screen_lock_unlock" = "Usa %\@ para desbloquear Mixin";
+"screen_lock_enable_biometric_hint" = "Necesitarás usar %@ para desbloquear Mixin. Todavía puedes responder mensajes de notificaciones y responder llamadas si Mixin está bloqueado.";
+"screen_lock_unlock" = "Usa %@ para desbloquear Mixin";
 "search" = "Buscar";
 "search_contacts" = "Buscar contactos";
 "search_conversation" = "Buscar conversación";
@@ -781,7 +784,7 @@
 "select_a_country_or_region" = "Seleccionar un país o región";
 "select_emergency_contact" = "Seleccionar contacto de emergencia";
 "select_more_photos" = "Seleccionar más fotos";
-"selected_count" = "%\@ Seleccionado";
+"selected_count" = "%@ Seleccionado";
 "selected_item" = "1 artículo seleccionado";
 "selected_item_count" = "%d elementos seleccionados";
 "selected_photo" = "1 foto seleccionada";
@@ -868,11 +871,11 @@
 "sort_by" = "Ordenar por";
 "start" = "Comenzar";
 "start_messaging" = "Empezar a enviar mensajes";
-"started_group_call" = "%\@ ha iniciado una llamada de grupo";
+"started_group_call" = "%@ ha iniciado una llamada de grupo";
 "status" = "Estado";
 "stay_in_mixin" = "Quédate en Mixin";
 "sticker" = "Pegatina";
-"sticker_add_requirements" = "Requiere un tamaño de archivo de pegatinas superior a %\@KB e inferior a %\@KB, ancho y alto entre %\@ y %\@ píxeles.";
+"sticker_add_requirements" = "Requiere un tamaño de archivo de pegatinas superior a %@KB e inferior a %@KB, ancho y alto entre %@ y %@ píxeles.";
 "sticker_store" = "Tienda de pegatinas";
 "stickers_count" = "%d pegatinas";
 "stop_playing" = "Dejar de reproducir";
@@ -894,7 +897,7 @@
 "tap_to_join" = "Toca para unirte";
 "terms_of_service" = "Términos de servicio";
 "text" = "texto";
-"text_confirm_send_code" = "Confirma el número de teléfono %\@";
+"text_confirm_send_code" = "Confirma el número de teléfono %@";
 "text_qr_code" = "CÓDIGO QR DE TEXTO";
 "the_code_is_incorrect" = "El código es incorrecto.";
 "third_pin_confirm_hint" = "Es raro ver una tercera confirmación en otro lugar, así que recuerda que el PIN es irrecuperable si se pierde.";
@@ -922,7 +925,7 @@
 "transcript" = "Transcripción";
 "transfer" = "Transferir";
 "transfer_amount_count_down" = "Importe de la transferencia(%@)";
-"transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrecto. Todavía tienes %\@ oportunidades.";
+"transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrecto. Todavía tienes %@ oportunidades.";
 "transfer_memo" = "Nota (opcional)";
 "transfer_notifications" = "Transferir notificaciones";
 "transfer_qrcode_prompt" = "Escanea el código QR para transferirme en Mixin";
@@ -970,9 +973,9 @@
 "upgrading_tip_terminated_unexpectedly" = "La actualización de TIP ha finalizado inesperadamente, haz clic en Continuar para completar la actualización";
 "upload_mobile_contacts" = "Cargar contactos móviles";
 "uploading" = "Cargando...";
-"uploading_progress" = "Cargando: %\@ de %\@ (%\@)";
-"url_unrecognized_hint" = "%\@ no se ha podido reconocer, actualiza Mixin a la última versión o comunícate con el desarrollador para verificar el enlace";
-"use_biometry" = "Usar %\@";
+"uploading_progress" = "Cargando: %@ de %@ (%@)";
+"url_unrecognized_hint" = "%@ no se ha podido reconocer, actualiza Mixin a la última versión o comunícate con el desarrollador para verificar el enlace";
+"use_biometry" = "Usar %@";
 "use_face_multisig" = "Usar Face Multisig";
 "use_face_pay" = "Usar Face Pay";
 "use_face_withdraw" = "Usar Face Withdraw";
@@ -998,8 +1001,8 @@
 "voice_call_has_been_declined" = "La llamada de voz ha sido rechazada";
 "waiting" = "Esperando";
 "wallet" = "Cartera";
-"wallet_enable_biometric_pay" = "Una vez habilitado, %\@ se puede utilizar para realizar transferencias rápidas.";
-"wallet_hide_asset_confirmation" = "¿Estás seguro de que deseas ocultar %\@?";
+"wallet_enable_biometric_pay" = "Una vez habilitado, %@ se puede utilizar para realizar transferencias rápidas.";
+"wallet_hide_asset_confirmation" = "¿Estás seguro de que deseas ocultar %@?";
 "wallet_password_not_equal" = "El PIN no es el mismo las dos veces, inténtalo de nuevo.";
 "wallet_password_unsafe" = "El PIN es demasiado simple e inseguro.";
 "wallet_pin_pay_interval_tips" = "Para la seguridad de tus activos, debes verificar tu PIN durante el intervalo especificado.";
