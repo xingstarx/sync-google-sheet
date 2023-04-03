@@ -1506,8 +1506,8 @@
   <string name="connect_wallet" platform="iOS, android">連線錢包</string>
   <string name="read_your_public_address" platform="iOS, android">讀取你的地址</string>
   <string name="allow_dapp_access_public_address" platform="iOS, android">允許 Dapp 訪問你的錢包餘額及活動。</string>
-  <string name="request_permission" platform="iOS, android">允許請求</string>
-  <string name="allow_dapp_request_permission" platform="iOS, android">允許 Dapp 向你傳送請求，如轉賬請求等</string>
+  <string name="request_approval" platform="iOS, android">允許請求</string>
+  <string name="allow_dapp_request_approval" platform="iOS, android">允許 Dapp 向你傳送請求，如轉賬請求等</string>
   <string name="send_signed_message_confirmation" platform="iOS, android">此訊息已被簽名，點選下方按鈕以傳送或丟棄</string>
   <string name="signature_request" platform="iOS, android">請求籤名</string>
   <string name="transaction_request" platform="iOS, android">請求轉賬</string>

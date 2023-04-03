@@ -77,7 +77,7 @@
 "allow_bot_manage_circles" = "Allow bot to add, modify and delete your circles.";
 "allow_bot_send_messages" = "Allow bot to send messages represent of you.";
 "allow_dapp_access_public_address" = "Allow dapp to access your wallet balance and activity.";
-"allow_dapp_request_permission" = "Allow dapp to ask for your approval to make a transaction.";
+"allow_dapp_request_approval" = "Allow dapp to ask for your approval to make a transaction.";
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Jumlah";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
@@ -736,8 +736,8 @@
 "report_title" = "Send the conversation log to developers?";
 "represent_messages" = "Wakilkan Mesej";
 "represent_send_messages" = "Represent send messages";
+"request_approval" = "Request approval";
 "request_authorization" = "Request Authorization";
-"request_permission" = "Request approval";
 "request_rejected" = "Request Rejected";
 "request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
 "requests_switching_to_network" = "%1$@ requests switching to %2$@";

@@ -87,7 +87,7 @@
 	<string name="Allow_bot_manage_circles">允许机器人添加、修改和删除你所有的圈子。</string>
 	<string name="Allow_bot_send_messages">允许机器人代表你发消息。</string>
 	<string name="allow_dapp_access_public_address">允许 Dapp 访问你的钱包余额及活动。</string>
-	<string name="allow_dapp_request_permission">允许 Dapp 向你发送请求，如转账请求等</string>
+	<string name="allow_dapp_request_approval">允许 Dapp 向你发送请求，如转账请求等</string>
 	<string name="Amount">金额</string>
 	<string name="an_audio">一条语音</string>
 	<string name="ANSWER">接听</string>
@@ -790,8 +790,8 @@
 	<string name="Report_and_block">举报并屏蔽？</string>
 	<string name="Represent_Messages">代发消息</string>
 	<string name="Represent_send_messages">代表你发消息</string>
+	<string name="request_approval">允许请求</string>
 	<string name="Request_Authorization">请求授权</string>
-	<string name="request_permission">允许请求</string>
 	<string name="request_rejected">请求已拒绝</string>
 	<string name="request_rejected_reason_another_request_in_process">正在处理另一请求，请完成当前请求后重试</string>
 	<string name="Requests_access_to_your">需要访问你的</string>

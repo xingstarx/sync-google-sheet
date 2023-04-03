@@ -77,7 +77,7 @@
 "allow_bot_manage_circles" = "允許機器人添加、修改和刪除你所有的圈子。";
 "allow_bot_send_messages" = "允許機器人代表你發消息。";
 "allow_dapp_access_public_address" = "允許 Dapp 訪問你的錢包餘額及活動。";
-"allow_dapp_request_permission" = "允許 Dapp 向你發送請求，如轉賬請求等";
+"allow_dapp_request_approval" = "允許 Dapp 向你發送請求，如轉賬請求等";
 "allow_manual_report_message" = "允許手動上報消息";
 "amount" = "金額";
 "app_card_shareable_false" = "該卡片已被設置為不允許轉發";
@@ -735,8 +735,8 @@
 "report_title" = "給開發人員發送聊天日誌？";
 "represent_messages" = "代發消息";
 "represent_send_messages" = "代表你發消息";
+"request_approval" = "允許請求";
 "request_authorization" = "請求授權";
-"request_permission" = "允許請求";
 "request_rejected" = "請求已拒絕";
 "request_rejected_reason_another_request_in_process" = "正在處理另一請求，請完成當前請求後重試";
 "requests_switching_to_network" = "%1$@ 請求切換到 %2$@";
