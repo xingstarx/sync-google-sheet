@@ -1522,4 +1522,6 @@
   <string name="connected_dapps" platform="iOS, android">已連接的 Dapp</string>
   <string name="search_placeholder_dapp" platform="iOS, android">名稱, URL</string>
   <string name="disconnect" platform="iOS, android">斷開連接</string>
+  <string name="preview_unavailable" platform="iOS, android">預覽不可用</string>
+  <string name="preview_unavailable_description" platform="iOS, android">無法預覽資產變化。請確保你信任此 dapp。</string>
 </resources>

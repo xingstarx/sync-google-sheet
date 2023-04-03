@@ -735,6 +735,8 @@
 	<string name="Please_wait_a_bit">請稍等…</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>
+	<string name="preview_unavailable">預覽不可用</string>
+	<string name="preview_unavailable_description">無法預覽資產變化。請確保你信任此 dapp。</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>

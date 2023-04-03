@@ -87,7 +87,7 @@
 	<string name="Allow_bot_manage_circles">Allow bot to add, modify and delete your circles.</string>
 	<string name="Allow_bot_send_messages">Allow bot to send messages represent of you.</string>
 	<string name="allow_dapp_access_public_address">Allow dapp to access your wallet balance and activity.</string>
-	<string name="allow_dapp_request_permission">Allow dapp to ask for your permission to make a transaction.</string>
+	<string name="allow_dapp_request_permission">Allow dapp to ask for your approval to make a transaction.</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
 	<string name="ANSWER">ANSWER</string>
@@ -751,6 +751,8 @@
 	<string name="Please_wait_a_bit">Please wait a bit…</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
+	<string name="preview_unavailable">Preview unavailable</string>
+	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
 	<string name="Process_can_not_be_stop">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
@@ -806,7 +808,7 @@
 	<string name="Represent_Messages">Represent Messages</string>
 	<string name="Represent_send_messages">Represent send messages</string>
 	<string name="Request_Authorization">Request Authorization</string>
-	<string name="request_permission">Request permission</string>
+	<string name="request_permission">Request approval</string>
 	<string name="request_rejected">Request Rejected</string>
 	<string name="request_rejected_reason_another_request_in_process">Another request is in process, please retry after current request is finished</string>
 	<string name="Requests_access_to_your">Requests access to your</string>
