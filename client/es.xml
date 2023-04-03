@@ -259,7 +259,7 @@
   <string name="chat_call_duration" platform="android, iOS">Duración %1$s</string>
   <string name="chat_call_warning_voice" platform="android, iOS">No puedo grabar mensajes de voz durante una llamada de Mixin.</string>
   <string name="chat_decryption_failed" platform="android, iOS">El descifrado de este mensaje ha fallado, actualiza Mixin a la última versión.</string>
-  <string name="chat_decryption_failed_hint" platform="iOS, Desktop">Esperando a que %@ se conecte y establezca una sesión cifrada.</string>
+  <string name="chat_decryption_failed_hint" platform="iOS, Desktop">Esperando a que %1$s se conecte y establezca una sesión cifrada.</string>
   <string name="chat_delete_message" platform="android, Desktop">¿Eliminar %1$d mensaje?</string>
   <string name="chat_delete_message.count" platform="android, Desktop">¿Eliminar %1$d mensajes?</string>
   <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
