@@ -1530,8 +1530,8 @@
 | iOS, android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS, android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
 | iOS, android | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
-| iOS, android | request_permission | Request permission | 允许请求 |     |     |     |
-| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
+| iOS, android | request_permission | Request approval | 允许请求 |     |     |     |
+| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your approval to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
 | iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
 | iOS, android | signature_request | Signature Request | 请求签名 |     |     |     |
 | iOS, android | transaction_request | Transaction Request | 请求转账 |     |     |     |
@@ -1546,6 +1546,8 @@
 | iOS, android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | iOS, android | disconnect | Disconnect | 断开连接 |     |     |     |
+| iOS, android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
+| iOS, android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
