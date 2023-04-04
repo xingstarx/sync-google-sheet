@@ -385,6 +385,8 @@
 "transactionsCannotBeDeleted" : "Transactions CANNOT be deleted",
 "transcript" : "Transcript",
 "transfer" : "Transfer",
+"transferCompleted" : "Transfer completed",
+"transferFailed" : "Transfer failed",
 "transferringChats" : "Transferring Chat",
 "transferringChatsTips" : "Please do not turn off the screen and keep the Mixin running in the foreground while syncing.",
 "travelAndPlaces" : "Travel & Places",
