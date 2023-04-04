@@ -1550,7 +1550,7 @@
 | iOS, android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
 | desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
 | desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
-| desktop | transferring_chats | Transferring Chat  |     |     |     |     |
+| desktop | transferring_chats | Transferring Chat  | 传输聊天记录中 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
