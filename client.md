@@ -1548,6 +1548,7 @@
 | iOS, android | disconnect | Disconnect | 断开连接 |     |     |     |
 | iOS, android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
 | iOS, android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
+| desktop |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
