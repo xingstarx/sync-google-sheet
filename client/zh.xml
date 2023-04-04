@@ -1528,4 +1528,6 @@
   <string name="confirm_sync_chats_from_phone" platform="desktop">确认从手机端同步聊天记录吗？</string>
   <string name="transferring_chats" platform="desktop">传输聊天记录中</string>
   <string name="transferring_chats_tips" platform="desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
+  <string name="transfer_completed" platform="desktop">传输完成</string>
+  <string name="transfer_failed" platform="desktop">传输失败</string>
 </resources>

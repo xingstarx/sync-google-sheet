@@ -1551,6 +1551,8 @@
   <string name="confirm_sync_chats_from_phone" platform="desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="transferring_chats" platform="desktop">Transferring Chat </string>
   <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
+  <string name="transfer_completed" platform="desktop">Transfer completed</string>
+  <string name="transfer_failed" platform="desktop">Transfer failed</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
