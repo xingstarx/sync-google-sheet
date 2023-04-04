@@ -1552,6 +1552,7 @@
 | desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
 | desktop | transferring_chats | Transferring Chat  | 传输聊天记录中 |     |     |     |
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
+| desktop |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
