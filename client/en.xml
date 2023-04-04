@@ -1547,6 +1547,10 @@
   <string name="disconnect" platform="iOS, android">Disconnect</string>
   <string name="preview_unavailable" platform="iOS, android">Preview unavailable</string>
   <string name="preview_unavailable_description" platform="iOS, android">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
+  <string name="confirm_sync_chats_to_phone" platform="desktop">Are you sure to sync the chat history to the phone?</string>
+  <string name="confirm_sync_chats_from_phone" platform="desktop">Are you sure to sync the chat history from the phone?</string>
+  <string name="transferring_chats" platform="desktop">Transferring Chat </string>
+  <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
