@@ -34,7 +34,7 @@
   <string name="Not_turn_off_screen_hint" platform="">Please do not turn off the screen and keep Mixin in the foreground when synchronizing.</string>
   <string name="Stop_syncing_hint" platform="">Do you want to stop syncing chat history?</string>
   <string name="Restore_Now" platform="">Restore Now</string>
-  <string name="" platform="">Please open your Mixin Messenger desktop to confirm the operation.</string>
+  <string name="Open_Desktop_to_Confirm" platform="">Please open your Mixin Messenger desktop to confirm the operation.</string>
   <string name="" platform="">Transfer your chat history from your another phone.</string>
   <string name="" platform="">Restore your chat history from iCloud.</string>
   <string name="" platform="">Restoring Chat (%@%%)</string>

@@ -35,7 +35,7 @@
 |     | Not_turn_off_screen_hint | Please do not turn off the screen and keep Mixin in the foreground when synchronizing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 |     | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
 |     | Restore_Now | Restore Now | 开始恢复 |     |     |     |
-|     |     | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
+|     | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
 |     |     |     | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 |     |     |     | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
 |     |     |     | 点下面按钮扫码建立连接 |     |     |     |
