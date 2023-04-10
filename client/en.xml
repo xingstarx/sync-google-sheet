@@ -19,7 +19,8 @@
   <string name="Setting_Chats" platform="android, iOS">Chats</string>
   <string name="Transfer_to_PC" platform="">Transfer to PC</string>
   <string name="Transfer_to_Another_Phone" platform="">Transfer to Another Phone</string>
-  <string name="" platform="">Restore from PC</string>
+  <string name="Restore_from_PC" platform="">Restore from PC</string>
+  <string name="" platform="">Transfer your chat history to another device</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
