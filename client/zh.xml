@@ -30,7 +30,7 @@
   <string name="Waiting_for_Other_Device_Login" platform="">在新设备上登录当前账户并选择从其他手机恢复</string>
   <string name="Waiting_for_Other_Device_Scan" platform="">新设备扫上面的二维码建立连接</string>
   <string name="Keep_Running_Foreground" platform="">不要关闭屏幕并保持 Mixin 在前台运行</string>
-  <string name="" platform="">传输聊天记录（%@%%）</string>
+  <string name="Transferring_chat_Progress" platform="">传输聊天记录（%@%%）</string>
   <string name="" platform="">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="" platform="">确定中止聊天记录同步吗？</string>
   <string name="" platform="">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
