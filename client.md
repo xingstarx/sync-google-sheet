@@ -29,21 +29,20 @@
 |     | Transfer_Hint | Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 |     | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备…… |     |     |     |
 |     | Waiting_for_Other_Device_Login | Log in to your current account on the new device and select the option to restore from another phone. | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
-|     | Waiting_for_Other_Device_Scan |     | 新设备扫上面的二维码建立连接 |     |     |     |
-|     |     |     | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
-|     |     | Transferring Chat (%@%%) |     |     |     |     |
-|     |     |     | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
-|     |     |     | 确定中止聊天记录同步吗？ |     |     |     |
-|     |     | Restore Now |     |     |     |     |
-|     |     | Please open your Mixin Messenger desktop to confirm the operation. |     |     |     |     |
-|     |     |     | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
-|     |     |     | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
-|     |     |     | 点下面按钮扫码建立连接 |     |     |     |
-|     |     |     | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
-|     |     |     | Scan to Restore |     |     |     |
-|     |     | Transfer your chat history from your another phone. |     |     |     |     |
-|     |     | Restore your chat history from iCloud. |     |     |     |     |
-|     |     | Restoring Chat (%@%%) |     |     |     |     |
+|     | Waiting_for_Other_Device_Scan | Connect the new device by scanning the QR code on the top | 新设备扫上面的二维码建立连接 |     |     |     |
+|     | Keep_Running_Foreground | Please do not close the screen and keep Mixin running in the foreground | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
+|     | Transferring_chat_Progress | Transferring Chat (%@%%) | 传输聊天记录（%@%%） |     |     |     |
+|     | Not_turn_off_screen_hint | Please do not turn off the screen and keep Mixin in the foreground when synchronizing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
+|     | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
+|     | Restore_Now | Restore Now | 开始恢复 |     |     |     |
+|     | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
+|     | Restore_from_PC_Tip | Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot. | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
+|     | Old_Device_is_waiting | Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization. | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
+|     | Scan to Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
+|     | Scan_to_Restore | Scan to Restore | 扫描以恢复 |     |     |     |
+|     | Transfer_from_phone_hint | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
+|     | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从iCloud恢复您的聊天记录。 |     |     |     |
+|     | Restoring_Chat_Progress | Restoring Chat (%@%%) | 恢复聊天记录（%@%%） |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
