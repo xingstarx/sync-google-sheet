@@ -30,7 +30,7 @@
   <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新设备上登录当前账户并选择从其他手机恢复</string>
   <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">新设备扫上面的二维码建立连接</string>
   <string name="Keep_Running_Foreground" platform="iOS,android">不要关闭屏幕并保持 Mixin 在前台运行</string>
-  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（ %1$s%%）</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（%1$s%）</string>
   <string name="Not_turn_off_screen_hint" platform="iOS,android">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="Stop_syncing_hint" platform="iOS,android">确定中止聊天记录同步吗？</string>
   <string name="Restore_Now" platform="iOS,android">开始恢复</string>
@@ -41,7 +41,7 @@
   <string name="Scan_to_Restore" platform="iOS,android">扫描以恢复</string>
   <string name="Transfer_from_phone_hint" platform="iOS,android">将您的另一部手机的聊天记录转移过来。</string>
   <string name="Restore_chat_from_iCloud" platform="iOS,android">从iCloud恢复您的聊天记录。</string>
-  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（ %1$s%%）</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%1$s%）</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
