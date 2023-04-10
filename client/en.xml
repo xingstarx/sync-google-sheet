@@ -38,7 +38,7 @@
   <string name="Restore_from_PC_Tip" platform="">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Old_Device_is_waiting" platform="">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
   <string name="Scan to Restore_Hint" platform="">Click the button below to scan the code and establish a connection.</string>
-  <string name="" platform="">扫码恢复</string>
+  <string name="Scan_to_Restore" platform="">Scan to Restore</string>
   <string name="" platform="">Transfer your chat history from your another phone.</string>
   <string name="" platform="">Restore your chat history from iCloud.</string>
   <string name="" platform="">Restoring Chat (%@%%)</string>
