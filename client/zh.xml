@@ -20,9 +20,9 @@
   <string name="Transfer_to_PC" platform="">备份到桌面端</string>
   <string name="Transfer_to_Another_Phone" platform="">备份到另一台手机</string>
   <string name="Restore_from_PC" platform="">从桌面恢复</string>
-  <string name="" platform="">备份你的聊天记录到另一台设备</string>
-  <string name="" platform="">从桌面端恢复你的聊天记录</string>
-  <string name="" platform="">开始传输</string>
+  <string name="Transfer_to_Another_Phone_Hint" platform="">备份你的聊天记录到另一台设备</string>
+  <string name="Restore_from_PC_Hint" platform="">从桌面端恢复你的聊天记录</string>
+  <string name="Transfer_Now" platform="">开始传输</string>
   <string name="" platform="">同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
   <string name="" platform="">请先登录桌面端</string>
   <string name="" platform="">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>

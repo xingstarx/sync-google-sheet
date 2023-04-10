@@ -21,9 +21,9 @@
 |     | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
 |     | Transfer_to_Another_Phone | Transfer to Another Phone | 备份到另一台手机 |     |     |     |
 |     | Restore_from_PC | Restore from PC | 从桌面恢复 |     |     |     |
-|     |     | Transfer your chat history to another device | 备份你的聊天记录到另一台设备 |     |     |     |
-|     |     | Restore your chat history from PC | 从桌面端恢复你的聊天记录 |     |     |     |
-|     |     | Transfer Now | 开始传输 |     |     |     |
+|     | Transfer_to_Another_Phone_Hint | Transfer your chat history to another device | 备份你的聊天记录到另一台设备 |     |     |     |
+|     | Restore_from_PC_Hint | Restore your chat history from PC | 从桌面端恢复你的聊天记录 |     |     |     |
+|     | Transfer_Now | Transfer Now | 开始传输 |     |     |     |
 |     |     | Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 |     |     |     | 请先登录桌面端 |     |     |     |
 |     |     |     | 同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
