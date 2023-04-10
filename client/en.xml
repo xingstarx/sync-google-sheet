@@ -27,7 +27,7 @@
   <string name="Login_desktop_first" platform="">Please log in to the desktop first</string>
   <string name="Transfer_Hint" platform="">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Waiting_for_Other_Device" platform="">Waiting for Other Device...</string>
-  <string name="" platform="">Log in to your current account on the new device and select the option to restore from another phone.</string>
+  <string name="Waiting_for_Other_Device_Login" platform="">Log in to your current account on the new device and select the option to restore from another phone.</string>
   <string name="" platform="">Transferring Chat (%@%%)</string>
   <string name="" platform="">Restore Now</string>
   <string name="" platform="">Please open your Mixin Messenger desktop to confirm the operation.</string>
@@ -1571,6 +1571,7 @@
   <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
   <string name="transfer_completed" platform="desktop">Transfer completed</string>
   <string name="transfer_failed" platform="desktop">Transfer failed</string>
+  <string name="transfer_protocol_version_not_matched" platform="desktop">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
