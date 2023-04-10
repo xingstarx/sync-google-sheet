@@ -31,6 +31,7 @@
 |     |     |     | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
 |     |     |     | 新设备扫上面的二维码建立连接 |     |     |     |
 |     |     |     | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
+|     |     | Transferring Chat (60%) |     |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
