@@ -17,9 +17,12 @@
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="Access_to_Contacts" platform="iOS">访问通讯录</string>
   <string name="Setting_Chats" platform="android, iOS">聊天记录</string>
-  <string name="Transfer_to_PC" platform="">备份到桌面</string>
+  <string name="Transfer_to_PC" platform="">备份到桌面端</string>
   <string name="Transfer_to_Another_Phone" platform="">备份到另一台手机</string>
   <string name="Restore_from_PC" platform="">从桌面恢复</string>
+  <string name="" platform="">备份你的聊天记录到另一台设备</string>
+  <string name="" platform="">从桌面端恢复你的聊天记录</string>
+  <string name="" platform="">开始传输</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>

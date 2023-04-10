@@ -18,10 +18,12 @@
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
 | iOS | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
 | android, iOS | Setting_Chats | Chats | 聊天记录 |     |     |     |
-|     | Transfer_to_PC | Transfer to PC | 备份到桌面 |     |     |     |
+|     | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
 |     | Transfer_to_Another_Phone | Transfer to Another Phone | 备份到另一台手机 |     |     |     |
 |     | Restore_from_PC | Restore from PC | 从桌面恢复 |     |     |     |
-|     |     | Transfer your chat history to another device |     |     |     |     |
+|     |     | Transfer your chat history to another device | 备份你的聊天记录到另一台设备 |     |     |     |
+|     |     | Restore your chat history from PC | 从桌面端恢复你的聊天记录 |     |     |     |
+|     |     | Transfer Now | 开始传输 |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
