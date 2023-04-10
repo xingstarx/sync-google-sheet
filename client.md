@@ -40,7 +40,7 @@
 |     | Old_Device_is_waiting | Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization. | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
 |     | Scan to Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
 |     | Scan_to_Restore | Scan to Restore | 扫描以恢复 |     |     |     |
-|     |     | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
+|     | Transfer_from_phone_hint | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
 |     | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从iCloud恢复您的聊天记录。 |     |     |     |
 |     | Restoring_Chat_Progress | Restoring Chat (%@%%) | 恢复聊天记录（%@%%） |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |

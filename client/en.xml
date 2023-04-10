@@ -39,7 +39,7 @@
   <string name="Old_Device_is_waiting" platform="">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
   <string name="Scan to Restore_Hint" platform="">Click the button below to scan the code and establish a connection.</string>
   <string name="Scan_to_Restore" platform="">Scan to Restore</string>
-  <string name="" platform="">Transfer your chat history from your another phone.</string>
+  <string name="Transfer_from_phone_hint" platform="">Transfer your chat history from your another phone.</string>
   <string name="Restore_chat_from_iCloud" platform="">Restore your chat history from iCloud.</string>
   <string name="Restoring_Chat_Progress" platform="">Restoring Chat (%@%%)</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
