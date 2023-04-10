@@ -16,6 +16,27 @@
   <string name="Access_Contacts_Hint" platform="iOS">同步通讯录到 Mixin 发现更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="Access_to_Contacts" platform="iOS">访问通讯录</string>
+  <string name="Setting_Chats" platform="android, iOS">聊天记录</string>
+  <string name="Transfer_to_PC" platform="">备份到桌面端</string>
+  <string name="Transfer_to_Another_Phone" platform="">备份到另一台手机</string>
+  <string name="Restore_from_PC" platform="">从桌面恢复</string>
+  <string name="Transfer_to_Another_Phone_Hint" platform="">备份你的聊天记录到另一台设备</string>
+  <string name="Restore_from_PC_Hint" platform="">从桌面端恢复你的聊天记录</string>
+  <string name="Transfer_Now" platform="">开始传输</string>
+  <string name="Transfer_to_PC_Hint" platform="">同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+  <string name="Login_desktop_first" platform="">请先登录桌面端</string>
+  <string name="Transfer_Hint" platform="">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+  <string name="Waiting_for_Other_Device" platform="">等待其他设备……</string>
+  <string name="Waiting_for_Other_Device_Login" platform="">在新设备上登录当前账户并选择从其他手机恢复</string>
+  <string name="Waiting_for_Other_Device_Scan" platform="">新设备扫上面的二维码建立连接</string>
+  <string name="" platform="">不要关闭屏幕并保持 Mixin 在前台运行</string>
+  <string name="" platform="">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
+  <string name="" platform="">确定中止聊天记录同步吗？</string>
+  <string name="" platform="">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+  <string name="" platform="">确保旧的设备已停留在同步等待扫码的界面</string>
+  <string name="" platform="">点下面按钮扫码建立连接</string>
+  <string name="" platform="">不要关闭屏幕并保持 Mixin 在前台运行</string>
+  <string name="" platform="">Scan to Restore</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
@@ -1530,4 +1551,5 @@
   <string name="transferring_chats_tips" platform="desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="transfer_completed" platform="desktop">同步完成</string>
   <string name="transfer_failed" platform="desktop">同步失败</string>
+  <string name="transfer_protocol_version_not_matched" platform="desktop">版本不匹配，无法同步数据，请先升级应用。</string>
 </resources>
