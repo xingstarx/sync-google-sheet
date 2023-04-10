@@ -15,33 +15,33 @@
   <string name="Accept" platform="android">接聽</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通訊錄到 Mixin 發現更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止訪問</string>
-  <string name="Access_to_Contacts" platform="iOS">訪問通訊錄</string>
-  <string name="Setting_Chats" platform="android, iOS">聊天記錄</string>
-  <string name="Transfer_to_PC" platform="">備份到桌面端</string>
-  <string name="Transfer_to_Another_Phone" platform="">備份到另一臺手機</string>
-  <string name="Restore_from_PC" platform="">從桌面恢復</string>
-  <string name="Transfer_to_Another_Phone_Hint" platform="">備份你的聊天記錄到另一臺裝置</string>
-  <string name="Restore_from_PC_Hint" platform="">從桌面端恢復你的聊天記錄</string>
-  <string name="Transfer_Now" platform="">開始傳輸</string>
-  <string name="Transfer_to_PC_Hint" platform="">同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
-  <string name="Login_desktop_first" platform="">請先登入桌面端</string>
-  <string name="Transfer_Hint" platform="">同步你的聊天記錄到新的裝置，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
-  <string name="Waiting_for_Other_Device" platform="">等待其他裝置……</string>
-  <string name="Waiting_for_Other_Device_Login" platform="">在新裝置上登入當前賬戶並選擇從其他手機恢復</string>
-  <string name="Waiting_for_Other_Device_Scan" platform="">新裝置掃上面的二維碼建立連線</string>
-  <string name="Keep_Running_Foreground" platform="">不要關閉螢幕並保持 Mixin 在前臺執行</string>
-  <string name="Transferring_chat_Progress" platform="">傳輸聊天記錄（%@%%）</string>
-  <string name="Not_turn_off_screen_hint" platform="">同步時請不要關閉螢幕並保持 Mixin 在前臺執行。</string>
-  <string name="Stop_syncing_hint" platform="">確定中止聊天記錄同步嗎？</string>
-  <string name="Restore_Now" platform="">開始恢復</string>
-  <string name="Open_Desktop_to_Confirm" platform="">請開啟您的Mixin Messenger 桌面端來確認此操作。</string>
-  <string name="Restore_from_PC_Tip" platform="">從 Mixin Messenger 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
-  <string name="Old_Device_is_waiting" platform="">確保舊的裝置已停留在同步等待掃碼的介面</string>
-  <string name="Scan to Restore_Hint" platform="">點下面按鈕掃碼建立連線</string>
-  <string name="Scan_to_Restore" platform="">掃描以恢復</string>
-  <string name="Transfer_from_phone_hint" platform="">將您的另一部手機的聊天記錄轉移過來。</string>
-  <string name="Restore_chat_from_iCloud" platform="">從iCloud恢復您的聊天記錄。</string>
-  <string name="Restoring_Chat_Progress" platform="">恢復聊天記錄（%@%%）</string>
+  <string name="Access_to_Contacts" platform="iOS,android">訪問通訊錄</string>
+  <string name="Setting_Chats" platform="iOS,android">聊天記錄</string>
+  <string name="Transfer_to_PC" platform="iOS,android">備份到桌面端</string>
+  <string name="Transfer_to_Another_Phone" platform="iOS,android">備份到另一臺手機</string>
+  <string name="Restore_from_PC" platform="iOS,android">從桌面恢復</string>
+  <string name="Transfer_to_Another_Phone_Hint" platform="iOS,android">備份你的聊天記錄到另一臺裝置</string>
+  <string name="Restore_from_PC_Hint" platform="iOS,android">從桌面端恢復你的聊天記錄</string>
+  <string name="Transfer_Now" platform="iOS,android">開始傳輸</string>
+  <string name="Transfer_to_PC_Hint" platform="iOS,android">同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
+  <string name="Login_desktop_first" platform="iOS,android">請先登入桌面端</string>
+  <string name="Transfer_Hint" platform="iOS,android">同步你的聊天記錄到新的裝置，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
+  <string name="Waiting_for_Other_Device" platform="iOS,android">等待其他裝置……</string>
+  <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新裝置上登入當前賬戶並選擇從其他手機恢復</string>
+  <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">新裝置掃上面的二維碼建立連線</string>
+  <string name="Keep_Running_Foreground" platform="iOS,android">不要關閉螢幕並保持 Mixin 在前臺執行</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">傳輸聊天記錄（ %1$s%%）</string>
+  <string name="Not_turn_off_screen_hint" platform="iOS,android">同步時請不要關閉螢幕並保持 Mixin 在前臺執行。</string>
+  <string name="Stop_syncing_hint" platform="iOS,android">確定中止聊天記錄同步嗎？</string>
+  <string name="Restore_Now" platform="iOS,android">開始恢復</string>
+  <string name="Open_Desktop_to_Confirm" platform="iOS,android">請開啟您的Mixin Messenger 桌面端來確認此操作。</string>
+  <string name="Restore_from_PC_Tip" platform="iOS,android">從 Mixin Messenger 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
+  <string name="Old_Device_is_waiting" platform="iOS,android">確保舊的裝置已停留在同步等待掃碼的介面</string>
+  <string name="Scan to Restore_Hint" platform="iOS,android">點下面按鈕掃碼建立連線</string>
+  <string name="Scan_to_Restore" platform="iOS,android">掃描以恢復</string>
+  <string name="Transfer_from_phone_hint" platform="iOS,android">將您的另一部手機的聊天記錄轉移過來。</string>
+  <string name="Restore_chat_from_iCloud" platform="iOS,android">從iCloud恢復您的聊天記錄。</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">恢復聊天記錄（ %1$s%%）</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 錢包現已不支援 %1$s 充值，注意已轉入的 %2$s 資產可以繼續轉賬或提現，閱讀檔案**瞭解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">訪問你的機器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">訪問你的圈子列表</string>
