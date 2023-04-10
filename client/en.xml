@@ -40,8 +40,8 @@
   <string name="Scan to Restore_Hint" platform="">Click the button below to scan the code and establish a connection.</string>
   <string name="Scan_to_Restore" platform="">Scan to Restore</string>
   <string name="" platform="">Transfer your chat history from your another phone.</string>
-  <string name="" platform="">Restore your chat history from iCloud.</string>
-  <string name="" platform="">Restoring Chat (%@%%)</string>
+  <string name="Restore_chat_from_iCloud" platform="">Restore your chat history from iCloud.</string>
+  <string name="Restoring_Chat_Progress" platform="">Restoring Chat (%@%%)</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>

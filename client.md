@@ -41,8 +41,8 @@
 |     | Scan to Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
 |     | Scan_to_Restore | Scan to Restore | 扫描以恢复 |     |     |     |
 |     |     | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
-|     |     | Restore your chat history from iCloud. |     |     |     |     |
-|     |     | Restoring Chat (%@%%) |     |     |     |     |
+|     | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从iCloud恢复您的聊天记录。 |     |     |     |
+|     | Restoring_Chat_Progress | Restoring Chat (%@%%) | 恢复聊天记录（%@%%） |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
