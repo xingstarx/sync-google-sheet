@@ -756,7 +756,7 @@
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
 "restore_now" = "Restore Now";
 "restoring" = "Restaurando...";
-"restoring_chat_progress" = "Restoring Chat ( %@%%)";
+"restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "Restaurando %@";
 "retry" = "Reintentar";
 "revoke_access" = "Revocar el acceso";
@@ -951,7 +951,7 @@
 "transfer_to_pc" = "Transfer to PC";
 "transfer_to_pc_hint" = "Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_to_user_or_bot" = "Transferir a usuario o bot";
-"transferring_chat_progress" = "Transferring Chat ( %@%%)";
+"transferring_chat_progress" = "Transferring Chat (%@%)";
 "trending" = "Tendencias";
 "try_again" = "Intentar otra vez";
 "trying_connect_tip_network" = "Conexión de la red TIP";
