@@ -32,8 +32,8 @@
 |     | Waiting_for_Other_Device_Scan | Connect the new device by scanning the QR code on the top | 新设备扫上面的二维码建立连接 |     |     |     |
 |     | Keep_Running_Foreground | Please do not close the screen and keep Mixin running in the foreground | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
 |     | Transferring_chat_Progress | Transferring Chat (%@%%) | 传输聊天记录（%@%%） |     |     |     |
-|     |     | Please do not turn off the screen and keep Mixin in the foreground when synchronizing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
-|     |     |     | 确定中止聊天记录同步吗？ |     |     |     |
+|     | Not_turn_off_screen_hint | Please do not turn off the screen and keep Mixin in the foreground when synchronizing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
+|     |     | Are you sure you want to stop the chat history synchronization? | 确定中止聊天记录同步吗？ |     |     |     |
 |     |     | Restore Now |     |     |     |     |
 |     |     | Please open your Mixin Messenger desktop to confirm the operation. |     |     |     |     |
 |     |     |     | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
