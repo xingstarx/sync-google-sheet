@@ -34,6 +34,16 @@
 |     |     | Transferring Chat (%@%%) |     |     |     |     |
 |     |     |     | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 |     |     |     | 确定中止聊天记录同步吗？ |     |     |     |
+|     |     | Restore Now |     |     |     |     |
+|     |     | Please open your Mixin Messenger desktop to confirm the operation. |     |     |     |     |
+|     |     |     | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
+|     |     |     | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
+|     |     |     | 点下面按钮扫码建立连接 |     |     |     |
+|     |     |     | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
+|     |     |     | Scan to Restore |     |     |     |
+|     |     | Transfer your chat history from your another phone. |     |     |     |     |
+|     |     | Restore your chat history from iCloud. |     |     |     |     |
+|     |     | Restoring Chat (%@%%) |     |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
