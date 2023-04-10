@@ -24,6 +24,7 @@
 |     |     | Transfer your chat history to another device | 备份你的聊天记录到另一台设备 |     |     |     |
 |     |     | Restore your chat history from PC | 从桌面端恢复你的聊天记录 |     |     |     |
 |     |     | Transfer Now | 开始传输 |     |     |     |
+|     |     | Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
