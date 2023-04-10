@@ -26,8 +26,8 @@
 |     | Transfer_Now | Transfer Now | 开始传输 |     |     |     |
 |     | Transfer_to_PC_Hint | Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 |     | Login_desktop_first | Please log in to the desktop first | 请先登录桌面端 |     |     |     |
-|     |     |     | 同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
-|     |     | Waiting for Other Device... |     |     |     |     |
+|     | Transfer_Hint | Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
+|     | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备…… |     |     |     |
 |     |     |     | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
 |     |     |     | 新设备扫上面的二维码建立连接 |     |     |     |
 |     |     |     | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
@@ -1581,6 +1581,7 @@
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | desktop | transfer_completed | Transfer completed | 同步完成 |     |     |     |
 | desktop | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| desktop | transfer_client_protocol_version_too_old |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |

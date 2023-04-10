@@ -25,7 +25,8 @@
   <string name="Transfer_Now" platform="">Transfer Now</string>
   <string name="Transfer_to_PC_Hint" platform="">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Login_desktop_first" platform="">Please log in to the desktop first</string>
-  <string name="" platform="">Waiting for Other Device...</string>
+  <string name="Transfer_Hint" platform="">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
+  <string name="Waiting_for_Other_Device" platform="">Waiting for Other Device...</string>
   <string name="" platform="">Transferring Chat (%@%%)</string>
   <string name="" platform="">Restore Now</string>
   <string name="" platform="">Please open your Mixin Messenger desktop to confirm the operation.</string>
