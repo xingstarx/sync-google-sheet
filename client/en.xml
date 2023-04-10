@@ -28,6 +28,8 @@
   <string name="Transfer_Hint" platform="">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Waiting_for_Other_Device" platform="">Waiting for Other Device...</string>
   <string name="Waiting_for_Other_Device_Login" platform="">Log in to your current account on the new device and select the option to restore from another phone.</string>
+  <string name="Waiting_for_Other_Device_Scan" platform="">Connect the new device by scanning the QR code on the top</string>
+  <string name="Keep_runing_" platform="">Please do not close the screen and keep Mixin running in the foreground</string>
   <string name="" platform="">Transferring Chat (%@%%)</string>
   <string name="" platform="">Restore Now</string>
   <string name="" platform="">Please open your Mixin Messenger desktop to confirm the operation.</string>
