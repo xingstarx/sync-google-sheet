@@ -879,6 +879,7 @@
 	<string name="setting_biometric_error_not_secure">當前設備不安全</string>
 	<string name="setting_biometric_error_pin_not_set">當前設備不安全，請設置解鎖密碼或解鎖手勢或 SIM 卡鎖定</string>
 	<string name="setting_biometric_error_rooted">當前設備不安全</string>
+	<string name="Setting_Chats">聊天記錄</string>
 	<string name="setting_conversation_group_tip">誰能加我進入羣組</string>
 	<string name="setting_conversation_tip">誰可以給我發消息</string>
 	<string name="setting_data_mobile">當使用移動數據時</string>

@@ -819,6 +819,7 @@
 "setting_auth_access" = "許可: %1$@, 最終アクセス: %2$@";
 "setting_auth_search_hint" = "Mixin ID, 名前";
 "setting_backup_tips" = "iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinを再インストールしてチャット履歴を復元できます。バックアップしたメッセージはMixinのE2E暗号によって保護されていません。";
+"setting_chats" = "Chats";
 "setting_conversation_group_tip" = "グループにあなたを追加可能なユーザー";
 "setting_conversation_tip" = "あなたにメッセージの送信や電話が可能なユーザー";
 "setting_delete_account_pin_content" = "%@と紐付けられたプロフィールとアカウント情報が削除されます。詳細はこちらをご覧ください。";

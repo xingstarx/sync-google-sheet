@@ -820,6 +820,7 @@
 "setting_auth_access" = "Diluluskan: %1$@, Akses Terakhir: %2$@";
 "setting_auth_search_hint" = "Mixin ID, Nama";
 "setting_backup_tips" = "Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud.";
+"setting_chats" = "Chats";
 "setting_conversation_group_tip" = "Siapa yang boleh menambahkan saya ke kumpulan.";
 "setting_conversation_tip" = "Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya.";
 "setting_delete_account_pin_content" = "If you continue, your profile and account details will be delete on %@. read our document to learn more.";

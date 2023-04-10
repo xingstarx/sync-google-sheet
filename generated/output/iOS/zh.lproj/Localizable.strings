@@ -819,6 +819,7 @@
 "setting_auth_access" = "授权时间：%1$@, 上次访问：%2$@";
 "setting_auth_search_hint" = "Mixin ID, 昵称";
 "setting_backup_tips" = "备份你的聊天记录到 iCloud。如果你丢失或者更换手机，你可以在重新安装 Mixin Messenger 时恢复你的聊天记录。注意备份到 iCloud 中的聊天记录不受端对端加密保护！";
+"setting_chats" = "聊天记录";
 "setting_conversation_group_tip" = "谁能加我进入群组";
 "setting_conversation_tip" = "谁可以给我发消息";
 "setting_delete_account_pin_content" = "如果您继续，您的个人资料和账户信息将在%@被删除。阅读我们的文档以了解更多。";

@@ -819,6 +819,7 @@
 "setting_auth_access" = "Одобрено: %1$@, последнее обращение: %2$@";
 "setting_auth_search_hint" = "Mixin ID, имя";
 "setting_backup_tips" = "Создайте резервную копию истории чата в iCloud. Если вы потеряете свой iPhone или переключитесь на новый, вы сможете восстановить историю чата при переустановке Mixin Messenger. Сообщения, которые вы резервируете, не защищены сквозным шифрованием Mixin Messenger в iCloud.";
+"setting_chats" = "Chats";
 "setting_conversation_group_tip" = "Кто может добавить меня в группы";
 "setting_conversation_tip" = "Кто может отправить мне сообщение";
 "setting_delete_account_pin_content" = "Если вы продолжите, ваш профиль и данные аккаунта будут удалены %@. прочтите наш документ, чтобы Узнать больше.";

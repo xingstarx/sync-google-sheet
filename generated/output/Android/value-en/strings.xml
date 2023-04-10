@@ -897,6 +897,7 @@
 	<string name="setting_biometric_error_not_secure">The key NOT resides inside secure hardware (TEE)</string>
 	<string name="setting_biometric_error_pin_not_set">The PIN, pattern or password is NOT set or a SIM card is unlocked</string>
 	<string name="setting_biometric_error_rooted">The device has been rooted</string>
+	<string name="Setting_Chats">Chats</string>
 	<string name="setting_conversation_group_tip">Who can add me to groups</string>
 	<string name="setting_conversation_tip">Who can send message to me</string>
 	<string name="setting_data_mobile">When using mobile data</string>
