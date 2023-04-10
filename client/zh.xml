@@ -32,7 +32,8 @@
   <string name="Keep_Running_Foreground" platform="">不要关闭屏幕并保持 Mixin 在前台运行</string>
   <string name="Transferring_chat_Progress" platform="">传输聊天记录（%@%%）</string>
   <string name="Not_turn_off_screen_hint" platform="">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
-  <string name="" platform="">确定中止聊天记录同步吗？</string>
+  <string name="Stop_syncing_hint" platform="">确定中止聊天记录同步吗？</string>
+  <string name="Restore_Now" platform="">开始恢复</string>
   <string name="" platform="">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
   <string name="" platform="">确保旧的设备已停留在同步等待扫码的界面</string>
   <string name="" platform="">点下面按钮扫码建立连接</string>
