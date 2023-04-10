@@ -30,9 +30,9 @@
 |     | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备…… |     |     |     |
 |     | Waiting_for_Other_Device_Login | Log in to your current account on the new device and select the option to restore from another phone. | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
 |     | Waiting_for_Other_Device_Scan | Connect the new device by scanning the QR code on the top | 新设备扫上面的二维码建立连接 |     |     |     |
-|     | Keep_runing_ | Please do not close the screen and keep Mixin running in the foreground | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
-|     |     | Transferring Chat (%@%%) |     |     |     |     |
-|     |     |     | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
+|     | Keep_Running_Foreground | Please do not close the screen and keep Mixin running in the foreground | 不要关闭屏幕并保持 Mixin 在前台运行 |     |     |     |
+|     |     | Transferring Chat (%@%%) | 传输聊天记录（%@%%） |     |     |     |
+|     |     | Please do not turn off the screen and keep Mixin in the foreground when synchronizing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 |     |     |     | 确定中止聊天记录同步吗？ |     |     |     |
 |     |     | Restore Now |     |     |     |     |
 |     |     | Please open your Mixin Messenger desktop to confirm the operation. |     |     |     |     |
