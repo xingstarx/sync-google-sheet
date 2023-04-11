@@ -42,6 +42,8 @@
   <string name="Transfer_from_phone_hint" platform="iOS,android">将您的另一部手机的聊天记录转移过来。</string>
   <string name="Restore_chat_from_iCloud" platform="iOS,android">从iCloud恢复您的聊天记录。</string>
   <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%1$s%）</string>
+  <string name="Stop" platform="iOS, android">暂停</string>
+  <string name="Unable_synced_between_different_account" platform="iOS, android">不同账户之间无法同步聊天记录</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>

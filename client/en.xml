@@ -42,6 +42,8 @@
   <string name="Transfer_from_phone_hint" platform="iOS,android">Transfer your chat history from your another phone.</string>
   <string name="Restore_chat_from_iCloud" platform="iOS,android">Restore your chat history from iCloud.</string>
   <string name="Restoring_Chat_Progress" platform="iOS,android">Restoring Chat (%1$s%)</string>
+  <string name="Stop" platform="iOS, android">Stop</string>
+  <string name="Unable_synced_between_different_account" platform="iOS, android">Chat history cannot be synced between different accounts</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
