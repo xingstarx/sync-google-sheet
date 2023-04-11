@@ -49,7 +49,6 @@
 | iOS, android | Restore_from_iCloud | Restore from iCloud | 从 iCloud 恢复 |     |     |     |
 | iOS | Transfering_Chat_completed | Transfering Chat completed | 传输已完成 |     |     |     |
 | iOS | Restoring_Chat_completed | Restoring Chat completed | 恢复已完成 |     |     |     |
-| iOS | Connection_interrupted | Connection interrupted | 连接中断 |     |     |     |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | iOS | Backup_to_iCloud | Backup to iCloud | 备份到 iCloud |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
@@ -1588,7 +1587,7 @@
 | desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | desktop | transfer_completed | Transfer completed | 同步完成 |     |     |     |
-| desktop | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| desktop, iOS | transfer_failed | Transfer failed | 同步失败 |     |     |     |
 | desktop, iOS | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
