@@ -828,6 +828,8 @@
 	<string name="Restore">Restore</string>
 	<string name="Restore_chat_from_iCloud">Restore your chat history from iCloud.</string>
 	<string name="restore_choose_backup_folder">Not found, choose backup folder</string>
+	<string name="Restore_from_Another_Phone">Restore from Another Phone</string>
+	<string name="Restore_from_iCloud">Restore from iCloud</string>
 	<string name="Restore_from_PC">Restore from PC</string>
 	<string name="Restore_from_PC_Hint">Restore your chat history from PC</string>
 	<string name="Restore_from_PC_Tip">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
@@ -860,7 +862,7 @@
 	<string name="Scan_QR">Scan QR</string>
 	<string name="Scan_QR_Code">Scan QR Code</string>
 	<string name="Scan_to_Restore">Scan to Restore</string>
-	<string name="Scan to Restore_Hint">Click the button below to scan the code and establish a connection.</string>
+	<string name="Scan_to_Restore_Hint">Click the button below to scan the code and establish a connection.</string>
 	<string name="Screen_Lock">Screen Lock</string>
 	<string name="Search">Search</string>
 	<string name="Search_Conversation">Search Conversation</string>
@@ -982,6 +984,7 @@
 	<string name="sticker_add_invalid_size">Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px.</string>
 	<string name="Sticker_Store">Sticker Store</string>
 	<string name="stickers_count">%d stickers</string>
+	<string name="Stop">Stop</string>
 	<string name="Stop_Playing">Stop Playing</string>
 	<string name="Stop_playing_this_list">Stop playing this list?</string>
 	<string name="Stop_syncing_hint">Do you want to stop syncing chat history?</string>
@@ -1058,6 +1061,7 @@
 	<string name="Tuesday">Tuesday</string>
 	<string name="Turn_On_Notifications">Turn On Notifications</string>
 	<string name="Type_message">Type message</string>
+	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>

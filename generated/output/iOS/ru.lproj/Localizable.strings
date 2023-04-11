@@ -751,6 +751,8 @@
 "restore" = "Восстановить";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "Восстановите историю чатов из iCloud";
+"restore_from_another_phone" = "Restore from Another Phone";
+"restore_from_icloud" = "Restore from iCloud";
 "restore_from_pc" = "Restore from PC";
 "restore_from_pc_hint" = "Restore your chat history from PC";
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
@@ -772,7 +774,7 @@
 "scan_code_add_me" = "Отсканируйте QR-код, чтобы добавить меня в Mixin";
 "scan_qr_code" = "Сканировать QR-код";
 "scan_to_restore" = "Scan to Restore";
-"scan to restore_hint" = "Click the button below to scan the code and establish a connection.";
+"scan_to_restore_hint" = "Click the button below to scan the code and establish a connection.";
 "screen_lock" = "Блокировка экрана";
 "screen_lock_enable_biometric_hint" = "Вам нужно будет использовать %@, чтобы разблокировать Mixin. Вы по-прежнему можете отвечать на сообщения из уведомлений и отвечать на звонки, если Mixin заблокирован.";
 "screen_lock_unlock" = "Используйте %@, чтобы разблокировать Mixin";
@@ -889,6 +891,7 @@
 "sticker_add_requirements" = "Требуется размер файла наклеек больше %@KB и меньше %@KB, ширина и высота от %@ до %@ пикселей.";
 "sticker_store" = "Магазин наклеек";
 "stickers_count" = "%d стикеров";
+"stop" = "Stop";
 "stop_playing" = "Хватит играть";
 "stop_playing_this_list" = "Прекратить воспроизведение этого списка?";
 "stop_syncing_hint" = "Do you want to stop syncing chat history?";
@@ -943,6 +946,7 @@
 "transfer_memo" = "Памятка (необязательно)";
 "transfer_notifications" = "Уведомления о переносе";
 "transfer_now" = "Transfer Now";
+"transfer_protocol_version_not_matched" = "Protocol version does not match, transfer failed. Please upgrade the application first.";
 "transfer_qrcode_prompt" = "Отсканируйте QR-код, чтобы перевести меня на Mixin";
 "transfer_to" = "Перевести на %@";
 "transfer_to_another_phone" = "Transfer to Another Phone";
@@ -957,6 +961,7 @@
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
 "turn_on_notifications" = "Включить уведомления";
+"unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";
 "unable_to_save_photo" = "Не удалось сохранить фото.";
 "unable_to_save_video" = "Не удалось сохранить видео.";

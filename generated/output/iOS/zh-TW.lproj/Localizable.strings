@@ -751,6 +751,8 @@
 "restore" = "恢復";
 "restore_chat_from_icloud" = "從iCloud恢復您的聊天記錄。";
 "restore_chat_hint" = "從 iCloud 恢復\n您的聊天記錄";
+"restore_from_another_phone" = "從其他手機恢復";
+"restore_from_icloud" = "從 iCloud 恢復";
 "restore_from_pc" = "從桌面恢復";
 "restore_from_pc_hint" = "從桌面端恢復你的聊天記錄";
 "restore_from_pc_tip" = "從 Mixin Messenger 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。";
@@ -772,7 +774,7 @@
 "scan_code_add_me" = "用 Mixin 掃描二維碼加我為聯絡人";
 "scan_qr_code" = "掃描二維碼";
 "scan_to_restore" = "掃描以恢復";
-"scan to restore_hint" = "點下面按鈕掃碼建立連線";
+"scan_to_restore_hint" = "點下面按鈕掃碼建立連線";
 "screen_lock" = "鎖屏";
 "screen_lock_enable_biometric_hint" = "您需要使用%@來解鎖 Mixin。當 Mixin 鎖定時，您仍可以接聽通話或在通知中回覆訊息。";
 "screen_lock_unlock" = "透過%@解鎖 Mixin";
@@ -889,6 +891,7 @@
 "sticker_add_requirements" = "貼紙要求大於 %@KB 且小於 %@KB，寬高大於 %@ 畫素且小於 %@ 畫素。";
 "sticker_store" = "表情商店";
 "stickers_count" = "%d 個表情";
+"stop" = "暫停";
 "stop_playing" = "停止播放";
 "stop_playing_this_list" = "確定要停止並關閉播放列表？";
 "stop_syncing_hint" = "確定中止聊天記錄同步嗎？";
@@ -943,6 +946,7 @@
 "transfer_memo" = "備註（可選）";
 "transfer_notifications" = "轉賬通知";
 "transfer_now" = "開始傳輸";
+"transfer_protocol_version_not_matched" = "版本不匹配，無法同步資料，請先升級應用。";
 "transfer_qrcode_prompt" = "用 Mixin 掃描二維碼給我轉賬";
 "transfer_to" = "轉賬給 %@";
 "transfer_to_another_phone" = "備份到另一臺手機";
@@ -957,6 +961,7 @@
 "trying_connect_tip_network" = "正在連線 TIP 網路";
 "trying_connect_tip_node" = "正在連線節點...";
 "turn_on_notifications" = "開啟通知";
+"unable_synced_between_different_account" = "不同賬戶之間無法同步聊天記錄";
 "unable_to_decode_the_request" = "無法解析請求: %@";
 "unable_to_save_photo" = "儲存圖片失敗";
 "unable_to_save_video" = "儲存影片失敗";

@@ -751,6 +751,8 @@
 "restore" = "復元";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "iCloudから\nチャット履歴を復元する";
+"restore_from_another_phone" = "Restore from Another Phone";
+"restore_from_icloud" = "Restore from iCloud";
 "restore_from_pc" = "Restore from PC";
 "restore_from_pc_hint" = "Restore your chat history from PC";
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
@@ -772,7 +774,7 @@
 "scan_code_add_me" = "QRコードをスキャンして私をMixinで追加してください。";
 "scan_qr_code" = "QRコードをスキャン";
 "scan_to_restore" = "Scan to Restore";
-"scan to restore_hint" = "Click the button below to scan the code and establish a connection.";
+"scan_to_restore_hint" = "Click the button below to scan the code and establish a connection.";
 "screen_lock" = "画面ロック";
 "screen_lock_enable_biometric_hint" = "Mixinをアンロックするには%@が必要になります。Mixinがロックされている場合でも、通知されたメッセージへの返信や電話の応答は可能です。";
 "screen_lock_unlock" = "Mixinをアンロックするために%@を使用してください";
@@ -889,6 +891,7 @@
 "sticker_add_requirements" = "スタンプのサイズは%@KB以上%@KB未満、 幅と高さは%@ピクセルから%@ピクセルである必要があります";
 "sticker_store" = "スタンプストア";
 "stickers_count" = "%d個のスタンプ";
+"stop" = "Stop";
 "stop_playing" = "再生を止める";
 "stop_playing_this_list" = "再生を止めて、プレイリストを閉じますか？";
 "stop_syncing_hint" = "Do you want to stop syncing chat history?";
@@ -943,6 +946,7 @@
 "transfer_memo" = "メモ（オプション）";
 "transfer_notifications" = "送金の受取通知";
 "transfer_now" = "Transfer Now";
+"transfer_protocol_version_not_matched" = "Protocol version does not match, transfer failed. Please upgrade the application first.";
 "transfer_qrcode_prompt" = "私に送金するためにQRコードをスキャンして下さい。";
 "transfer_to" = "%@に送金する";
 "transfer_to_another_phone" = "Transfer to Another Phone";
@@ -957,6 +961,7 @@
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
 "turn_on_notifications" = "通知をオンにする";
+"unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";
 "unable_to_save_photo" = "画像が保存できませんでした";
 "unable_to_save_video" = "動画が保存できませんでした";

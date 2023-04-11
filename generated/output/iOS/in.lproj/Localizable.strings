@@ -751,6 +751,8 @@
 "restore" = "Restore";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "Restore your\nchat history from iCloud";
+"restore_from_another_phone" = "Restore from Another Phone";
+"restore_from_icloud" = "Restore from iCloud";
 "restore_from_pc" = "Restore from PC";
 "restore_from_pc_hint" = "Restore your chat history from PC";
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
@@ -772,7 +774,7 @@
 "scan_code_add_me" = "Pindai kode QR untuk menambahkan saya di Mixin";
 "scan_qr_code" = "Pindai Kode QR";
 "scan_to_restore" = "Scan to Restore";
-"scan to restore_hint" = "Click the button below to scan the code and establish a connection.";
+"scan_to_restore_hint" = "Click the button below to scan the code and establish a connection.";
 "screen_lock" = "Kunci Layar";
 "screen_lock_enable_biometric_hint" = "You’ll need to use %@ to unlock Mixin. You can still reply to messages from notifications and anwser calls if Mixin is locked.";
 "screen_lock_unlock" = "Use %@ to unlock Mixin";
@@ -889,6 +891,7 @@
 "sticker_add_requirements" = "Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.";
 "sticker_store" = "Sticker Store";
 "stickers_count" = "%d stickers";
+"stop" = "Stop";
 "stop_playing" = "Stop Playing";
 "stop_playing_this_list" = "Stop playing this list?";
 "stop_syncing_hint" = "Do you want to stop syncing chat history?";
@@ -943,6 +946,7 @@
 "transfer_memo" = "Memo (optional)";
 "transfer_notifications" = "Notifikasi Transfer";
 "transfer_now" = "Transfer Now";
+"transfer_protocol_version_not_matched" = "Protocol version does not match, transfer failed. Please upgrade the application first.";
 "transfer_qrcode_prompt" = "Scan the QR Code to transfer me on Mixin";
 "transfer_to" = "Transfer ke %@";
 "transfer_to_another_phone" = "Transfer to Another Phone";
@@ -957,6 +961,7 @@
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
 "turn_on_notifications" = "Aktifkan Notifikasi";
+"unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";
 "unable_to_save_photo" = "Unable to save photo.";
 "unable_to_save_video" = "Unable to save video.";

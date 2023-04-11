@@ -751,6 +751,8 @@
 "restore" = "恢复";
 "restore_chat_from_icloud" = "从iCloud恢复您的聊天记录。";
 "restore_chat_hint" = "从 iCloud 恢复\n您的聊天记录";
+"restore_from_another_phone" = "从其他手机恢复";
+"restore_from_icloud" = "从 iCloud 恢复";
 "restore_from_pc" = "从桌面恢复";
 "restore_from_pc_hint" = "从桌面端恢复你的聊天记录";
 "restore_from_pc_tip" = "从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。";
@@ -772,7 +774,7 @@
 "scan_code_add_me" = "用 Mixin 扫描二维码加我为联系人";
 "scan_qr_code" = "扫描二维码";
 "scan_to_restore" = "扫描以恢复";
-"scan to restore_hint" = "点下面按钮扫码建立连接";
+"scan_to_restore_hint" = "点下面按钮扫码建立连接";
 "screen_lock" = "锁屏";
 "screen_lock_enable_biometric_hint" = "您需要使用%@来解锁 Mixin。当 Mixin 锁定时，您仍可以接听通话或在通知中回复消息。";
 "screen_lock_unlock" = "通过%@解锁 Mixin";
@@ -889,6 +891,7 @@
 "sticker_add_requirements" = "贴纸要求大于 %@KB 且小于 %@KB，宽高大于 %@ 像素且小于 %@ 像素。";
 "sticker_store" = "表情商店";
 "stickers_count" = "%d 个表情";
+"stop" = "暂停";
 "stop_playing" = "停止播放";
 "stop_playing_this_list" = "确定要停止并关闭播放列表？";
 "stop_syncing_hint" = "确定中止聊天记录同步吗？";
@@ -943,6 +946,7 @@
 "transfer_memo" = "备注（可选）";
 "transfer_notifications" = "转账通知";
 "transfer_now" = "开始传输";
+"transfer_protocol_version_not_matched" = "版本不匹配，无法同步数据，请先升级应用。";
 "transfer_qrcode_prompt" = "用 Mixin 扫描二维码给我转账";
 "transfer_to" = "转账给 %@";
 "transfer_to_another_phone" = "备份到另一台手机";
@@ -957,6 +961,7 @@
 "trying_connect_tip_network" = "正在连接 TIP 网络";
 "trying_connect_tip_node" = "正在连接节点...";
 "turn_on_notifications" = "打开通知";
+"unable_synced_between_different_account" = "不同账户之间无法同步聊天记录";
 "unable_to_decode_the_request" = "无法解析请求: %@";
 "unable_to_save_photo" = "保存图片失败";
 "unable_to_save_video" = "保存视频失败";

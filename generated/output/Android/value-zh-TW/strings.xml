@@ -811,6 +811,8 @@
 	<string name="Restore">恢復</string>
 	<string name="Restore_chat_from_iCloud">從iCloud恢復您的聊天記錄。</string>
 	<string name="restore_choose_backup_folder">未找到備份檔案，選擇備份資料夾</string>
+	<string name="Restore_from_Another_Phone">從其他手機恢復</string>
+	<string name="Restore_from_iCloud">從 iCloud 恢復</string>
 	<string name="Restore_from_PC">從桌面恢復</string>
 	<string name="Restore_from_PC_Hint">從桌面端恢復你的聊天記錄</string>
 	<string name="Restore_from_PC_Tip">從 Mixin Messenger 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
@@ -843,7 +845,7 @@
 	<string name="Scan_QR">掃一掃</string>
 	<string name="Scan_QR_Code">掃描二維碼</string>
 	<string name="Scan_to_Restore">掃描以恢復</string>
-	<string name="Scan to Restore_Hint">點下面按鈕掃碼建立連線</string>
+	<string name="Scan_to_Restore_Hint">點下面按鈕掃碼建立連線</string>
 	<string name="Screen_Lock">鎖屏</string>
 	<string name="Search">搜尋</string>
 	<string name="Search_Conversation">搜尋聊天記錄</string>
@@ -963,6 +965,7 @@
 	<string name="sticker_add_invalid_size">貼紙要求大於 1KB 且小於 1MB，寬高大於 128 畫素且小於 1024 畫素。</string>
 	<string name="Sticker_Store">表情商店</string>
 	<string name="stickers_count">%d 個表情</string>
+	<string name="Stop">暫停</string>
 	<string name="Stop_Playing">停止播放</string>
 	<string name="Stop_playing_this_list">確定要停止並關閉播放列表？</string>
 	<string name="Stop_syncing_hint">確定中止聊天記錄同步嗎？</string>
@@ -1038,6 +1041,7 @@
 	<string name="Tuesday">星期二</string>
 	<string name="Turn_On_Notifications">開啟通知</string>
 	<string name="Type_message">輸入訊息</string>
+	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>
 	<string name="Unblock">解除封鎖</string>
 	<string name="UNDO">撤銷</string>

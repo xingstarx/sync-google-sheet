@@ -751,6 +751,8 @@
 "restore" = "Restaurar";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "Restaura tu\nhistorial de chat desde iCloud";
+"restore_from_another_phone" = "Restore from Another Phone";
+"restore_from_icloud" = "Restore from iCloud";
 "restore_from_pc" = "Restore from PC";
 "restore_from_pc_hint" = "Restore your chat history from PC";
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
@@ -772,7 +774,7 @@
 "scan_code_add_me" = "Escanea el código QR para añadirme en Mixin";
 "scan_qr_code" = "Escanear código QR";
 "scan_to_restore" = "Scan to Restore";
-"scan to restore_hint" = "Click the button below to scan the code and establish a connection.";
+"scan_to_restore_hint" = "Click the button below to scan the code and establish a connection.";
 "screen_lock" = "Bloqueo de pantalla";
 "screen_lock_enable_biometric_hint" = "Necesitarás usar %@ para desbloquear Mixin. Todavía puedes responder mensajes de notificaciones y responder llamadas si Mixin está bloqueado.";
 "screen_lock_unlock" = "Usa %@ para desbloquear Mixin";
@@ -889,6 +891,7 @@
 "sticker_add_requirements" = "Requiere un tamaño de archivo de pegatinas superior a %@KB e inferior a %@KB, ancho y alto entre %@ y %@ píxeles.";
 "sticker_store" = "Tienda de pegatinas";
 "stickers_count" = "%d pegatinas";
+"stop" = "Stop";
 "stop_playing" = "Dejar de reproducir";
 "stop_playing_this_list" = "¿Dejar de reproducir esta lista?";
 "stop_syncing_hint" = "Do you want to stop syncing chat history?";
@@ -943,6 +946,7 @@
 "transfer_memo" = "Nota (opcional)";
 "transfer_notifications" = "Transferir notificaciones";
 "transfer_now" = "Transfer Now";
+"transfer_protocol_version_not_matched" = "Protocol version does not match, transfer failed. Please upgrade the application first.";
 "transfer_qrcode_prompt" = "Escanea el código QR para transferirme en Mixin";
 "transfer_to" = "Transferir a %@";
 "transfer_to_another_phone" = "Transfer to Another Phone";
@@ -957,6 +961,7 @@
 "trying_connect_tip_network" = "Conexión de la red TIP";
 "trying_connect_tip_node" = "Intentando conectar el nodo TIP";
 "turn_on_notifications" = "Activar las notificaciones";
+"unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";
 "unable_to_save_photo" = "No se puede guardar la foto.";
 "unable_to_save_video" = "No se puede guardar el video.";
