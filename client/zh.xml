@@ -37,7 +37,7 @@
   <string name="Open_Desktop_to_Confirm" platform="iOS,android">请打开您的Mixin Messenger 桌面端来确认此操作。</string>
   <string name="Restore_from_PC_Tip" platform="iOS,android">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">确保旧的设备已停留在同步等待扫码的界面</string>
-  <string name="Scan to Restore_Hint" platform="iOS,android">点下面按钮扫码建立连接</string>
+  <string name="Scan_to_Restore_Hint" platform="iOS,android">点下面按钮扫码建立连接</string>
   <string name="Scan_to_Restore" platform="iOS,android">扫描以恢复</string>
   <string name="Transfer_from_phone_hint" platform="iOS,android">将您的另一部手机的聊天记录转移过来。</string>
   <string name="Restore_chat_from_iCloud" platform="iOS,android">从iCloud恢复您的聊天记录。</string>

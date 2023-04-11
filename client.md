@@ -38,7 +38,7 @@
 | iOS,android | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
 | iOS,android | Restore_from_PC_Tip | Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot. | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 | iOS,android | Old_Device_is_waiting | Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization. | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
-| iOS,android | Scan to Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
+| iOS,android | Scan_to_Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
 | iOS,android | Scan_to_Restore | Scan to Restore | 扫描以恢复 |     |     |     |
 | iOS,android | Transfer_from_phone_hint | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
 | iOS,android | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从iCloud恢复您的聊天记录。 |     |     |     |
