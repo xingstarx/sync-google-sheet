@@ -113,6 +113,7 @@
 "background_preview" = "Vista previa de fondo";
 "backing_up" = "Realizando copia de seguridad...";
 "backup_disable_hint" = "Inicie sesión en iCloud para realizar una copia de seguridad de tu historial. Configuración > iCloud > Activar iCloud Drive.";
+"backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
 "block" = "Bloquear";
 "block_hint" = "Los contactos bloqueados ya no podrán llamarte ni enviarte mensajes";
@@ -220,7 +221,6 @@
 "connecting" = "Conectando";
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
-"connection_interrupted" = "Connection interrupted";
 "connection_unstable" = "Conexión inestable";
 "contact" = "Contacto";
 "contact_category" = "contacto";
@@ -944,6 +944,7 @@
 "transfer" = "Transferir";
 "transfer_amount_count_down" = "Importe de la transferencia(%@)";
 "transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrecto. Todavía tienes %@ oportunidades.";
+"transfer_failed" = "Transfer failed";
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_memo" = "Nota (opcional)";

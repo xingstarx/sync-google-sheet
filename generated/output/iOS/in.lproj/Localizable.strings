@@ -113,6 +113,7 @@
 "background_preview" = "Background Preview";
 "backing_up" = "Backing Up...";
 "backup_disable_hint" = "Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive.";
+"backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
 "block" = "Blokir";
 "block_hint" = "Blocked contacts will no longer be able to call you or send you messages";
@@ -220,7 +221,6 @@
 "connecting" = "Menyambungkan";
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
-"connection_interrupted" = "Connection interrupted";
 "connection_unstable" = "Connection unstable";
 "contact" = "Kontak";
 "contact_category" = "contact";
@@ -944,6 +944,7 @@
 "transfer" = "Transfer";
 "transfer_amount_count_down" = "Jumlah Transfer(%@)";
 "transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %@ chances.";
+"transfer_failed" = "Transfer failed";
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_memo" = "Memo (optional)";

@@ -113,6 +113,7 @@
 "background_preview" = "Фоновый просмотр";
 "backing_up" = "Резервное копирование...";
 "backup_disable_hint" = "Войдите в iCloud, чтобы создать резервную копию своей истории. Настройки > iCloud > Включить iCloud Drive.";
+"backup_to_icloud" = "Backup to iCloud";
 "balance" = "Баланс";
 "block" = "Блокировать";
 "block_hint" = "Заблокированные контакты больше не смогут звонить вам или отправлять вам сообщения";
@@ -220,7 +221,6 @@
 "connecting" = "Подключение";
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
-"connection_interrupted" = "Connection interrupted";
 "connection_unstable" = "Нестабильное соединение";
 "contact" = "Контакт";
 "contact_category" = "контакт";
@@ -944,6 +944,7 @@
 "transfer" = "Передача";
 "transfer_amount_count_down" = "Сумма перевода(%@)";
 "transfer_error_pin_incorrect_with_times" = "ОШИБКА 20119: неверный PIN-код. У вас еще есть %@ шансов.";
+"transfer_failed" = "Transfer failed";
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_memo" = "Памятка (необязательно)";

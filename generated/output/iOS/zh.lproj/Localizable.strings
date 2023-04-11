@@ -113,6 +113,7 @@
 "background_preview" = "背景预览";
 "backing_up" = "正在备份...";
 "backup_disable_hint" = "需要登录 iCloud 来备份你的聊天记录。 设置 > iCloud > 打开 iCloud 云盘。";
+"backup_to_icloud" = "备份到 iCloud";
 "balance" = "余额";
 "block" = "屏蔽用户";
 "block_hint" = "屏蔽后对方无法向您拨打电话或发送消息";
@@ -220,7 +221,6 @@
 "connecting" = "正在连接";
 "connection_establishment_failed" = "连接建立失败";
 "connection_failed" = "连接失败";
-"connection_interrupted" = "连接中断";
 "connection_unstable" = "当前通话网络不佳";
 "contact" = "联系人";
 "contact_category" = "联系人";
@@ -760,7 +760,7 @@
 "restore_from_pc_tip" = "从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。";
 "restore_now" = "开始恢复";
 "restoring" = "正在恢复...";
-"restoring_chat_completed" = "备份已完成";
+"restoring_chat_completed" = "恢复已完成";
 "restoring_chat_progress" = "恢复聊天记录（%@%）";
 "restoring_progress" = "正在恢复 %@";
 "retry" = "重试";
@@ -944,6 +944,7 @@
 "transfer" = "转账";
 "transfer_amount_count_down" = "转账金额（%@）";
 "transfer_error_pin_incorrect_with_times" = "错误 20119：PIN 不正确。你还有 %@ 次机会尝试。";
+"transfer_failed" = "同步失败";
 "transfer_from_phone_hint" = "将您的另一部手机的聊天记录转移过来。";
 "transfer_hint" = "同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。";
 "transfer_memo" = "备注（可选）";

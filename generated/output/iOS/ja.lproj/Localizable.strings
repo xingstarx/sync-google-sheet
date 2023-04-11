@@ -113,6 +113,7 @@
 "background_preview" = "背景のプレビュー";
 "backing_up" = "バックアップしています...";
 "backup_disable_hint" = "履歴をバックアップするためにサインインしてください：設定＞ユーザー名＞iCloud＞iCloud Driveをオン";
+"backup_to_icloud" = "Backup to iCloud";
 "balance" = "残高";
 "block" = "ブロック";
 "block_hint" = "あなたにブロックされたユーザーは電話をかけたりメッセージを送ることができなくなります";
@@ -220,7 +221,6 @@
 "connecting" = "接続中";
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
-"connection_interrupted" = "Connection interrupted";
 "connection_unstable" = "接続が不安定です";
 "contact" = "連絡先";
 "contact_category" = "連絡先";
@@ -944,6 +944,7 @@
 "transfer" = "送金";
 "transfer_amount_count_down" = "送金金額(%@)";
 "transfer_error_pin_incorrect_with_times" = "エラー20119: PINコードが間違っています。あと%@回入力可能です。";
+"transfer_failed" = "Transfer failed";
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_memo" = "メモ（オプション）";
