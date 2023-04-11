@@ -218,7 +218,9 @@
 "connected" = "已连接";
 "connected_dapps" = "已连接的 Dapp";
 "connecting" = "正在连接";
+"connection_establishment_failed" = "连接建立失败";
 "connection_failed" = "连接失败";
+"connection_interrupted" = "连接中断";
 "connection_unstable" = "当前通话网络不佳";
 "contact" = "联系人";
 "contact_category" = "联系人";
@@ -758,6 +760,7 @@
 "restore_from_pc_tip" = "从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。";
 "restore_now" = "开始恢复";
 "restoring" = "正在恢复...";
+"restoring_chat_completed" = "备份已完成";
 "restoring_chat_progress" = "恢复聊天记录（%@%）";
 "restoring_progress" = "正在恢复 %@";
 "retry" = "重试";
@@ -955,6 +958,7 @@
 "transfer_to_pc" = "备份到桌面端";
 "transfer_to_pc_hint" = "同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。";
 "transfer_to_user_or_bot" = "给用户或机器人转账";
+"transfering_chat_completed" = "传输已完成";
 "transferring_chat_progress" = "传输聊天记录（%@%）";
 "trending" = "热门资产";
 "try_again" = "请重试";

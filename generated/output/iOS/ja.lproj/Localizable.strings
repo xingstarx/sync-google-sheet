@@ -218,7 +218,9 @@
 "connected" = "接続済";
 "connected_dapps" = "Connected Dapps";
 "connecting" = "接続中";
+"connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
+"connection_interrupted" = "Connection interrupted";
 "connection_unstable" = "接続が不安定です";
 "contact" = "連絡先";
 "contact_category" = "連絡先";
@@ -758,6 +760,7 @@
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
 "restore_now" = "Restore Now";
 "restoring" = "...の復元を準備中";
+"restoring_chat_completed" = "Restoring Chat completed";
 "restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "%@を復元しています";
 "retry" = "リトライ";
@@ -955,6 +958,7 @@
 "transfer_to_pc" = "Transfer to PC";
 "transfer_to_pc_hint" = "Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_to_user_or_bot" = "ミニアプリまたはユーザーへ送金する";
+"transfering_chat_completed" = "Transfering Chat completed";
 "transferring_chat_progress" = "Transferring Chat (%@%)";
 "trending" = "トレンド";
 "try_again" = "もう一度試す";

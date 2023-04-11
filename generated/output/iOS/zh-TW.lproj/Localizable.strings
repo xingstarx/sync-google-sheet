@@ -218,7 +218,9 @@
 "connected" = "已連線";
 "connected_dapps" = "已連線的 Dapp";
 "connecting" = "正在連線";
+"connection_establishment_failed" = "連線建立失敗";
 "connection_failed" = "連線失敗";
+"connection_interrupted" = "連線中斷";
 "connection_unstable" = "當前通話網路不佳";
 "contact" = "聯絡人";
 "contact_category" = "聯絡人";
@@ -758,6 +760,7 @@
 "restore_from_pc_tip" = "從 Mixin Messenger 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。";
 "restore_now" = "開始恢復";
 "restoring" = "正在恢復...";
+"restoring_chat_completed" = "備份已完成";
 "restoring_chat_progress" = "恢復聊天記錄（%@%）";
 "restoring_progress" = "正在恢復 %@";
 "retry" = "重試";
@@ -955,6 +958,7 @@
 "transfer_to_pc" = "備份到桌面端";
 "transfer_to_pc_hint" = "同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。";
 "transfer_to_user_or_bot" = "給使用者或機器人轉賬";
+"transfering_chat_completed" = "傳輸已完成";
 "transferring_chat_progress" = "傳輸聊天記錄（%@%）";
 "trending" = "熱門資產";
 "try_again" = "請重試";
