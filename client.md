@@ -1588,7 +1588,7 @@
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | desktop | transfer_completed | Transfer completed | 同步完成 |     |     |     |
 | desktop | transfer_failed | Transfer failed | 同步失败 |     |     |     |
-| desktop | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
+| desktop, iOS | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
