@@ -48,8 +48,8 @@
   <string name="Restore_from_iCloud" platform="iOS, android">Restore from iCloud</string>
   <string name="Transfering_Chat_completed" platform="iOS">Transfering Chat completed</string>
   <string name="Restoring_Chat_completed" platform="iOS">Restoring Chat completed</string>
-  <string name="Connection_interrupted" platform="iOS">Connection interrupted</string>
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
+  <string name="Backup_to_iCloud" platform="iOS">Backup to iCloud</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
@@ -1586,7 +1586,7 @@
   <string name="transferring_chats" platform="desktop">Transferring Chat </string>
   <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
   <string name="transfer_completed" platform="desktop">Transfer completed</string>
-  <string name="transfer_failed" platform="desktop">Transfer failed</string>
+  <string name="transfer_failed" platform="desktop, iOS">Transfer failed</string>
   <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
