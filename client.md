@@ -48,7 +48,7 @@
 | iOS, android | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |
 | iOS, android | Restore_from_iCloud | Restore from iCloud | 从 iCloud 恢复 |     |     |     |
 | iOS | Transfering_Chat_completed | Transfering Chat completed | 传输已完成 |     |     |     |
-| iOS | Restoring_Chat_completed | Restoring Chat completed | 备份已完成 |     |     |     |
+| iOS | Restoring_Chat_completed | Restoring Chat completed | 恢复已完成 |     |     |     |
 | iOS | Connection_interrupted | Connection interrupted | 连接中断 |     |     |     |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
