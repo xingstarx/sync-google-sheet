@@ -38,11 +38,19 @@
 | iOS,android | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
 | iOS,android | Restore_from_PC_Tip | Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot. | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 | iOS,android | Old_Device_is_waiting | Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization. | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
-| iOS,android | Scan to Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
+| iOS,android | Scan_to_Restore_Hint | Click the button below to scan the code and establish a connection. | 点下面按钮扫码建立连接 |     |     |     |
 | iOS,android | Scan_to_Restore | Scan to Restore | 扫描以恢复 |     |     |     |
 | iOS,android | Transfer_from_phone_hint | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
 | iOS,android | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从iCloud恢复您的聊天记录。 |     |     |     |
 | iOS,android | Restoring_Chat_Progress | Restoring Chat (%1$s%) | 恢复聊天记录（%1$s%） |     |     |     |
+| iOS, android | Stop | Stop | 暂停  |     |     |     |
+| iOS, android | Unable_synced_between_different_account | Chat history cannot be synced between different accounts | 不同账户之间无法同步聊天记录 |     |     |     |
+| iOS, android | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |
+| iOS, android | Restore_from_iCloud | Restore from iCloud | 从 iCloud 恢复 |     |     |     |
+|     |     | Transferring Chat completed | 传输已完成 |     |     |     |
+|     |     | Restoring Chat completed | 备份已完成 |     |     |     |
+|     |     | Connection interrupted | 连接中断 |     |     |     |
+|     |     | Connection establishment failed | 连接建立失败 |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
@@ -1580,7 +1588,7 @@
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | desktop | transfer_completed | Transfer completed | 同步完成 |     |     |     |
 | desktop | transfer_failed | Transfer failed | 同步失败 |     |     |     |
-| desktop | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
+| desktop, iOS | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
