@@ -45,6 +45,7 @@
 | iOS,android | Restoring_Chat_Progress | Restoring Chat (%1$s%) | 恢复聊天记录（%1$s%） |     |     |     |
 | iOS, android | Stop | Stop | 暂停  |     |     |     |
 | iOS, android | Unable_synced_between_different_account | Chat history cannot be synced between different accounts | 不同账户之间无法同步聊天记录 |     |     |     |
+| iOS, android | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
