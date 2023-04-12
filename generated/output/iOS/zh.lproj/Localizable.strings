@@ -499,6 +499,7 @@
 "live_shareable_false" = "该直播已被设置为不允许转发";
 "live_stream" = "直播卡片";
 "loading" = "正在加载...";
+"local_network_unable_accessed" = "本地网络无法访问，请开启权限";
 "locating" = "定位...";
 "location" = "位置";
 "location_accuracy_to" = "精确到 %@";
@@ -759,6 +760,7 @@
 "restore_from_pc_hint" = "从桌面端恢复你的聊天记录";
 "restore_from_pc_tip" = "从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。";
 "restore_now" = "开始恢复";
+"restore_your_chat_history" = "恢复你的聊天记录";
 "restoring" = "正在恢复...";
 "restoring_chat_completed" = "恢复已完成";
 "restoring_chat_progress" = "恢复聊天记录（%@%）";

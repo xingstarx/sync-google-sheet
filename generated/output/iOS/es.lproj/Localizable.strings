@@ -499,6 +499,7 @@
 "live_shareable_false" = "El directo se ha configurado para no permitir compartir";
 "live_stream" = "transmisión en vivo";
 "loading" = "Cargando...";
+"local_network_unable_accessed" = "Local network is unable to be accessed, please grant permission";
 "locating" = "Localizando...";
 "location" = "Localización";
 "location_accuracy_to" = "Preciso al %@";
@@ -759,6 +760,7 @@
 "restore_from_pc_hint" = "Restore your chat history from PC";
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
 "restore_now" = "Restore Now";
+"restore_your_chat_history" = "Restore Your Chat History";
 "restoring" = "Restaurando...";
 "restoring_chat_completed" = "Restoring Chat completed";
 "restoring_chat_progress" = "Restoring Chat (%@%)";
