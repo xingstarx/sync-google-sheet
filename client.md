@@ -47,7 +47,7 @@
 | iOS, android | Unable_synced_between_different_account | Chat history cannot be synced between different accounts | 不同账户之间无法同步聊天记录 |     |     |     |
 | iOS, android | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |
 | iOS, android | Restore_from_iCloud | Restore from iCloud | 从 iCloud 恢复 |     |     |     |
-| iOS |     |     | 本地网络无法访问，请开启权限 |     |     |     |
+| iOS | Local_network_unable_accessed | Local network is unable to be accessed, please grant permission | 本地网络无法访问，请开启权限 |     |     |     |
 | iOS | Transfering_Chat_completed | Transfering Chat completed | 传输已完成 |     |     |     |
 | iOS | Restoring_Chat_completed | Restoring Chat completed | 恢复已完成 |     |     |     |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
