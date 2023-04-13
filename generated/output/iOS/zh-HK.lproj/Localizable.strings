@@ -754,6 +754,9 @@
 "restore" = "恢復";
 "restore_chat_from_icloud" = "從iCloud恢復您的聊天記錄。";
 "restore_chat_hint" = "從 iCloud 恢復\n您的聊天記錄";
+"restore_chat_history" = "恢復聊天記錄";
+"restore_chat_history_hint" = "從 iCloud 恢復聊天記錄不會覆蓋本地記錄，只會增量同步，恢復時請不要關閉屏幕並保持Mixin 在前台運行。";
+"restore_completed" = "恢復已完成";
 "restore_from_another_phone" = "從其他手機恢復";
 "restore_from_icloud" = "從 iCloud 恢復";
 "restore_from_pc" = "從桌面恢復";
@@ -762,7 +765,6 @@
 "restore_now" = "開始恢復";
 "restore_your_chat_history" = "恢復你的聊天記錄";
 "restoring" = "正在恢復...";
-"restoring_chat_completed" = "恢復已完成";
 "restoring_chat_progress" = "恢復聊天記錄（%@%）";
 "restoring_progress" = "正在恢復 %@";
 "retry" = "重試";
@@ -945,6 +947,7 @@
 "transcript" = "聊天記錄";
 "transfer" = "轉賬";
 "transfer_amount_count_down" = "轉賬金額（%@）";
+"transfer_completed" = "傳輸已完成";
 "transfer_error_pin_incorrect_with_times" = "錯誤 20119：PIN 不正確。你還有 %@ 次機會嘗試。";
 "transfer_failed" = "同步失敗";
 "transfer_from_phone_hint" = "將您的另一部手機的聊天記錄轉移過來。";
@@ -961,7 +964,6 @@
 "transfer_to_pc" = "備份到桌面端";
 "transfer_to_pc_hint" = "同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩台設備接入同一個 Wi-Fi 或熱點。";
 "transfer_to_user_or_bot" = "給用户或機器人轉賬";
-"transfering_chat_completed" = "傳輸已完成";
 "transferring_chat_progress" = "傳輸聊天記錄（%@%）";
 "trending" = "熱門資產";
 "try_again" = "請重試";

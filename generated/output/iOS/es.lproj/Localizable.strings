@@ -754,6 +754,9 @@
 "restore" = "Restaurar";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "Restaura tu\nhistorial de chat desde iCloud";
+"restore_chat_history" = "Restore Chat History";
+"restore_chat_history_hint" = "Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring.";
+"restore_completed" = "Restore completed";
 "restore_from_another_phone" = "Restore from Another Phone";
 "restore_from_icloud" = "Restore from iCloud";
 "restore_from_pc" = "Restore from PC";
@@ -762,7 +765,6 @@
 "restore_now" = "Restore Now";
 "restore_your_chat_history" = "Restore Your Chat History";
 "restoring" = "Restaurando...";
-"restoring_chat_completed" = "Restoring Chat completed";
 "restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "Restaurando %@";
 "retry" = "Reintentar";
@@ -945,6 +947,7 @@
 "transcript" = "Transcripción";
 "transfer" = "Transferir";
 "transfer_amount_count_down" = "Importe de la transferencia(%@)";
+"transfer_completed" = "Transfer completed";
 "transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrecto. Todavía tienes %@ oportunidades.";
 "transfer_failed" = "Transfer failed";
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
@@ -961,7 +964,6 @@
 "transfer_to_pc" = "Transfer to PC";
 "transfer_to_pc_hint" = "Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_to_user_or_bot" = "Transferir a usuario o bot";
-"transfering_chat_completed" = "Transfering Chat completed";
 "transferring_chat_progress" = "Transferring Chat (%@%)";
 "trending" = "Tendencias";
 "try_again" = "Intentar otra vez";

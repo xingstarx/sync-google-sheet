@@ -46,9 +46,11 @@
   <string name="Unable_synced_between_different_account" platform="iOS, android">不同賬戶之間無法同步聊天記錄</string>
   <string name="Restore_from_Another_Phone" platform="iOS, android">從其他手機恢復</string>
   <string name="Restore_from_iCloud" platform="iOS, android">從 iCloud 恢復</string>
+  <string name="Restore_Chat_History" platform="iOS">恢復聊天記錄</string>
+  <string name="Restore_Chat_History_Hint" platform="iOS">從 iCloud 恢復聊天記錄不會覆蓋本地記錄，只會增量同步，恢復時請不要關閉螢幕並保持Mixin 在前臺執行。</string>
   <string name="Local_network_unable_accessed" platform="iOS">本地網路無法訪問，請開啟許可權</string>
-  <string name="Transfering_Chat_completed" platform="iOS">傳輸已完成</string>
-  <string name="Restoring_Chat_completed" platform="iOS">恢復已完成</string>
+  <string name="Transfer_completed" platform="iOS">傳輸已完成</string>
+  <string name="Restore_completed" platform="iOS">恢復已完成</string>
   <string name="Connection_establishment_failed" platform="iOS">連線建立失敗</string>
   <string name="Backup_to_iCloud" platform="iOS">備份到 iCloud</string>
   <string name="Restore_Your_Chat_History" platform="iOS">恢復你的聊天記錄</string>
