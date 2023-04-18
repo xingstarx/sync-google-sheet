@@ -1405,4 +1405,7 @@
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">携帯でMixinを開き</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">画面に表示されるQRコードを読み取り、ログインします</string>
+  <string name="fast" platform="iOS, android">高速</string>
+  <string name="normal" platform="iOS, android">通常</string>
+  <string name="slow" platform="iOS, android">低速</string>
 </resources>

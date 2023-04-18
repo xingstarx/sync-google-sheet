@@ -46,6 +46,8 @@
   <string name="Unable_synced_between_different_account" platform="iOS, android">Chat history cannot be synced between different accounts</string>
   <string name="Restore_from_Another_Phone" platform="iOS, android">Restore from Another Phone</string>
   <string name="Restore_from_iCloud" platform="iOS, android">Restore from iCloud</string>
+  <string name="Devices_on_Same_network" platform="iOS">Please make sure both devices are connected to the same Wi-Fi or hotspot</string>
+  <string name="Restore_Chat_History_Failed" platform="iOS">Restore from iCloud failed</string>
   <string name="Restore_Chat_History" platform="iOS">Restore Chat History</string>
   <string name="Restore_Chat_History_Hint" platform="iOS">Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring.</string>
   <string name="Local_network_unable_accessed" platform="iOS">Local network is unable to be accessed, please grant permission</string>
@@ -1585,6 +1587,9 @@
   <string name="disconnect" platform="iOS, android">Disconnect</string>
   <string name="preview_unavailable" platform="iOS, android">Preview unavailable</string>
   <string name="preview_unavailable_description" platform="iOS, android">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
+  <string name="fast" platform="iOS, android">Fast</string>
+  <string name="normal" platform="iOS, android">Normal</string>
+  <string name="slow" platform="iOS, android">Slow</string>
   <string name="confirm_sync_chats_to_phone" platform="desktop">Are you sure to sync the chat history to the phone?</string>
   <string name="confirm_sync_chats_from_phone" platform="desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="transferring_chats" platform="desktop">Transferring Chat </string>

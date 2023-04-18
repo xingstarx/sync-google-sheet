@@ -46,6 +46,8 @@
   <string name="Unable_synced_between_different_account" platform="iOS, android">不同账户之间无法同步聊天记录</string>
   <string name="Restore_from_Another_Phone" platform="iOS, android">从其他手机恢复</string>
   <string name="Restore_from_iCloud" platform="iOS, android">从 iCloud 恢复</string>
+  <string name="Devices_on_Same_network" platform="iOS">请确保两台设备接入同一个 Wi-Fi 或热点</string>
+  <string name="Restore_Chat_History_Failed" platform="iOS">从 iCloud 恢复失败</string>
   <string name="Restore_Chat_History" platform="iOS">恢复聊天记录</string>
   <string name="Restore_Chat_History_Hint" platform="iOS">从 iCloud 恢复聊天记录不会覆盖本地记录，只会增量同步，恢复时请不要关闭屏幕并保持Mixin 在前台运行。</string>
   <string name="Local_network_unable_accessed" platform="iOS">本地网络无法访问，请开启权限</string>
@@ -1562,6 +1564,9 @@
   <string name="disconnect" platform="iOS, android">断开连接</string>
   <string name="preview_unavailable" platform="iOS, android">预览不可用</string>
   <string name="preview_unavailable_description" platform="iOS, android">无法预览资产变化。请确保你信任此 dapp。</string>
+  <string name="fast" platform="iOS, android">快速</string>
+  <string name="normal" platform="iOS, android">普通</string>
+  <string name="slow" platform="iOS, android">缓慢</string>
   <string name="confirm_sync_chats_to_phone" platform="desktop">确认同步聊天记录到手机端吗？</string>
   <string name="confirm_sync_chats_from_phone" platform="desktop">确认从手机端同步聊天记录吗？</string>
   <string name="transferring_chats" platform="desktop">同步聊天记录中</string>
