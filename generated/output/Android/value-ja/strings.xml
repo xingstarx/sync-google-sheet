@@ -419,6 +419,7 @@
 	<string name="Export_PDF">PDFのエクスポート</string>
 	<string name="Extract_QR_Code">QRコードを生成する</string>
 	<string name="Failure">失敗</string>
+	<string name="fast">高速</string>
 	<string name="Fee">手数料</string>
 	<string name="Feedback">フィードバック</string>
 	<string name="File">ファイル</string>
@@ -624,6 +625,7 @@
 	<string name="Nobody">ユーザーなし</string>
 	<string name="Nodes">ノード</string>
 	<string name="None">なし</string>
+	<string name="normal">通常</string>
 	<string name="Not_found">見つかりません</string>
 	<string name="Not_logged_in">ログインしていません</string>
 	<string name="Not_recognized">認識できません</string>
@@ -867,6 +869,7 @@
 	<string name="Size">サイズ</string>
 	<string name="Skip">スキップ</string>
 	<string name="Slide_to_cancel">スライドしてキャンセル</string>
+	<string name="slow">低速</string>
 	<string name="Sort">並びかえ</string>
 	<string name="Sort_by">並びかえ項目</string>
 	<string name="Start_Messaging">メッセージを開始</string>

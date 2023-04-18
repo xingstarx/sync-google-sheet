@@ -320,6 +320,7 @@
 "desktop_upgrade" = "Sila tingkatkan Mixin Messenger Desktop kepada versi terkini.";
 "detect_qr_tip" = "Mengesan kod QR Mixin, ketuk untuk mengenali";
 "developer" = "Pemaju";
+"devices_on_same_network" = "Please make sure both devices are connected to the same Wi-Fi or hotspot";
 "diagnose" = "Diagnose";
 "diagnose_warning_hint" = "⚠️Use these functions under instructions from the Mixin team only";
 "disable" = "Disable";
@@ -409,6 +410,7 @@
 "failed_to_send_photo" = "Failed to send photo";
 "failed_to_send_video" = "Failed to send video";
 "failed_to_switch_network" = "Failed to switch network: %@";
+"fast" = "Fast";
 "fee" = "Bayaran";
 "feedback" = "Maklum balas";
 "file" = "Fail";
@@ -594,6 +596,7 @@
 "no_transactions" = "Tiada urus niaga";
 "nobody" = "Tiada siapa";
 "none" = "Tiada";
+"normal" = "Normal";
 "not_all_signer_success" = "Not all node success";
 "not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "Tidak ditemui";
@@ -756,6 +759,7 @@
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "Restore your\nchat history from iCloud";
 "restore_chat_history" = "Restore Chat History";
+"restore_chat_history_failed" = "Restore from iCloud failed";
 "restore_chat_history_hint" = "Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring.";
 "restore_completed" = "Restore completed";
 "restore_from_another_phone" = "Restore from Another Phone";
@@ -886,6 +890,7 @@
 "signature_request_warning" = "We cannot verify this signature request. Make sure you trust this app before signing this request.";
 "skip" = "LANGKAU";
 "slide_to_cancel" = "Slaid untuk Batal";
+"slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Snapshot not found.";
 "social" = "Social";

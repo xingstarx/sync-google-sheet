@@ -461,6 +461,7 @@
 	<string name="Extract_QR_Code">Extract QR Code</string>
 	<string name="failed_to_switch_network">Failed to switch network: %1$s</string>
 	<string name="Failure">Failure</string>
+	<string name="fast">Fast</string>
 	<string name="Fee">Fee</string>
 	<string name="Feedback">Feedback</string>
 	<string name="File">File</string>
@@ -679,6 +680,7 @@
 	<string name="Nobody">Nobody</string>
 	<string name="Nodes">Nodes</string>
 	<string name="None">None</string>
+	<string name="normal">Normal</string>
 	<string name="Not_all_signer_success">Not all node success</string>
 	<string name="Not_enough_partials">Not enough nodes return key shard</string>
 	<string name="Not_found">Not found</string>
@@ -973,6 +975,7 @@
 	<string name="Size">Size</string>
 	<string name="Skip">Skip</string>
 	<string name="Slide_to_cancel">Slide to Cancel</string>
+	<string name="slow">Slow</string>
 	<string name="snapshot_Hash">Snapshot Hash</string>
 	<string name="Sort">Sort</string>
 	<string name="Sort_by">Sort by</string>

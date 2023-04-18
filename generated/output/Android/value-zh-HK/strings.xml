@@ -452,6 +452,7 @@
 	<string name="Extract_QR_Code">識別二維碼</string>
 	<string name="failed_to_switch_network">切換網絡失敗: %1$s</string>
 	<string name="Failure">錯誤</string>
+	<string name="fast">快速</string>
 	<string name="Fee">手續費</string>
 	<string name="Feedback">反饋</string>
 	<string name="File">檔案</string>
@@ -663,6 +664,7 @@
 	<string name="Nobody">沒有人</string>
 	<string name="Nodes">節點</string>
 	<string name="None">無</string>
+	<string name="normal">普通</string>
 	<string name="Not_all_signer_success">有些節點失敗了</string>
 	<string name="Not_enough_partials">沒有足夠的節點返回密鑰分片</string>
 	<string name="Not_found">沒有找到相應的消息</string>
@@ -954,6 +956,7 @@
 	<string name="Size">大小</string>
 	<string name="Skip">跳過</string>
 	<string name="Slide_to_cancel">滑動取消</string>
+	<string name="slow">緩慢</string>
 	<string name="snapshot_Hash">快照哈希</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">順序</string>

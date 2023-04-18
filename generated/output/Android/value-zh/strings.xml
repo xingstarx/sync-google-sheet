@@ -452,6 +452,7 @@
 	<string name="Extract_QR_Code">识别二维码</string>
 	<string name="failed_to_switch_network">切换网络失败: %1$s</string>
 	<string name="Failure">错误</string>
+	<string name="fast">快速</string>
 	<string name="Fee">手续费</string>
 	<string name="Feedback">反馈</string>
 	<string name="File">文件</string>
@@ -663,6 +664,7 @@
 	<string name="Nobody">没有人</string>
 	<string name="Nodes">节点</string>
 	<string name="None">无</string>
+	<string name="normal">普通</string>
 	<string name="Not_all_signer_success">有些节点失败了</string>
 	<string name="Not_enough_partials">没有足够的节点返回密钥分片</string>
 	<string name="Not_found">没有找到相应的消息</string>
@@ -954,6 +956,7 @@
 	<string name="Size">大小</string>
 	<string name="Skip">跳过</string>
 	<string name="Slide_to_cancel">滑动取消</string>
+	<string name="slow">缓慢</string>
 	<string name="snapshot_Hash">快照哈希</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">顺序</string>

@@ -319,6 +319,7 @@
 "desktop_upgrade" = "デスクトップ版Mixinを最新バージョンにアップデートしてください";
 "detect_qr_tip" = "Mixin QRコードを検出しました、タップしてアクセスします";
 "developer" = "開発者向け情報";
+"devices_on_same_network" = "Please make sure both devices are connected to the same Wi-Fi or hotspot";
 "diagnose" = "診断";
 "diagnose_warning_hint" = "⚠️Mixinチームの指示がない場合、この機能を使用しないでください";
 "disable" = "無効にする";
@@ -408,6 +409,7 @@
 "failed_to_send_photo" = "画像を送信できませんでした";
 "failed_to_send_video" = "動画を送信できませんでした";
 "failed_to_switch_network" = "Failed to switch network: %@";
+"fast" = "高速";
 "fee" = "手数料";
 "feedback" = "フィードバック";
 "file" = "ファイル";
@@ -593,6 +595,7 @@
 "no_transactions" = "トランザクションはありません";
 "nobody" = "ユーザーなし";
 "none" = "なし";
+"normal" = "通常";
 "not_all_signer_success" = "Not all node success";
 "not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "見つかりません";
@@ -755,6 +758,7 @@
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
 "restore_chat_hint" = "iCloudから\nチャット履歴を復元する";
 "restore_chat_history" = "Restore Chat History";
+"restore_chat_history_failed" = "Restore from iCloud failed";
 "restore_chat_history_hint" = "Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring.";
 "restore_completed" = "Restore completed";
 "restore_from_another_phone" = "Restore from Another Phone";
@@ -885,6 +889,7 @@
 "signature_request_warning" = "We cannot verify this signature request. Make sure you trust this app before signing this request.";
 "skip" = "スキップ";
 "slide_to_cancel" = "スライドしてキャンセル";
+"slow" = "低速";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "スナップショットは見つかりません";
 "social" = "ソーシャル";
