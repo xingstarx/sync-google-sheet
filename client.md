@@ -47,6 +47,8 @@
 | iOS, android | Unable_synced_between_different_account | Chat history cannot be synced between different accounts | 不同账户之间无法同步聊天记录 |     |     |     |
 | iOS, android | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |
 | iOS, android | Restore_from_iCloud | Restore from iCloud | 从 iCloud 恢复 |     |     |     |
+| iOS | Devices_on_Same_network | Please make sure both devices are connected to the same Wi-Fi or hotspot | 请确保两台设备接入同一个 Wi-Fi 或热点 |     |     |     |
+| iOS | Restore_Chat_History_Failed | Restore from iCloud failed | 从 iCloud 恢复失败 |     |     |     |
 | iOS | Restore_Chat_History | Restore Chat History | 恢复聊天记录 |     |     |     |
 | iOS | Restore_Chat_History_Hint | Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring. | 从 iCloud 恢复聊天记录不会覆盖本地记录，只会增量同步，恢复时请不要关闭屏幕并保持Mixin 在前台运行。 |     |     |     |
 | iOS | Local_network_unable_accessed | Local network is unable to be accessed, please grant permission | 本地网络无法访问，请开启权限 |     |     |     |
@@ -1586,6 +1588,9 @@
 | iOS, android | disconnect | Disconnect | 断开连接 |     |     |     |
 | iOS, android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
 | iOS, android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
+| iOS, android | fast | Fast | 快速  | 高速  |     |     |
+| iOS, android | normal | Normal | 普通  | 通常  |     |     |
+| iOS, android | slow | Slow | 缓慢  | 低速  |     |     |
 | desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
 | desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
 | desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
