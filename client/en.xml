@@ -1597,6 +1597,7 @@
   <string name="transfer_completed" platform="desktop">Transfer completed</string>
   <string name="transfer_failed" platform="desktop, iOS">Transfer failed</string>
   <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
+  <string name="" platform="desktop">Return/Enter ⏎ to Send</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
