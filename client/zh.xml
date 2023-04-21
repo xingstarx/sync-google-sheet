@@ -1574,5 +1574,5 @@
   <string name="transfer_completed" platform="desktop">同步完成</string>
   <string name="transfer_failed" platform="desktop, iOS">同步失败</string>
   <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">版本不匹配，无法同步数据，请先升级应用。</string>
-  <string name="" platform="desktop">按下回车 ⏎ 发送</string>
+  <string name="enter_to_send" platform="desktop">按下回车 ⏎ 发送</string>
 </resources>
