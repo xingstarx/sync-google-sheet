@@ -57,6 +57,7 @@
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | iOS | Backup_to_iCloud | Backup to iCloud | 备份到 iCloud |     |     |     |
 | iOS | Restore_Your_Chat_History | Restore Your Chat History | 恢复你的聊天记录 |     |     |     |
+|     |     | 已经有 %d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？ |     |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |

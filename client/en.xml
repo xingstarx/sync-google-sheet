@@ -56,6 +56,7 @@
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="Backup_to_iCloud" platform="iOS">Backup to iCloud</string>
   <string name="Restore_Your_Chat_History" platform="iOS">Restore Your Chat History</string>
+  <string name="" platform="">已经有 %d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
