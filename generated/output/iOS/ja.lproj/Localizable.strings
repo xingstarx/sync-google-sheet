@@ -628,6 +628,7 @@
 "optimize_database" = "データベースの最適化";
 "optimized" = "最適化済みです";
 "other" = "その他";
+"overwrite" = "Overwrite";
 "owner" = "オーナー";
 "participants" = "参加者";
 "participants_count" = "%@人のメンバー";
@@ -771,6 +772,7 @@
 "restoring" = "...の復元を準備中";
 "restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "%@を復元しています";
+"restroe_from_icloud_confirmation" = "There are already %1$d local chat records, and the last message was created at %1$@. Are you sure you want to overwrite the local data with the chat data on iCloud?";
 "retry" = "リトライ";
 "revoke_access" = "アクセスを取り消す";
 "revoke_multisig_transaction" = "マルチシグトランザクションを取り消す";

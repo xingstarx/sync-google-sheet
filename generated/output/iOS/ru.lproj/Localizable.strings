@@ -628,6 +628,7 @@
 "optimize_database" = "Оптимизировать базу данных";
 "optimized" = "Оптимизировано";
 "other" = "Другой";
+"overwrite" = "Overwrite";
 "owner" = "Владелец";
 "participants" = "Участники";
 "participants_count" = "%@ УЧАСТНИКОВ";
@@ -771,6 +772,7 @@
 "restoring" = "Восстановление...";
 "restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "Восстановление %@";
+"restroe_from_icloud_confirmation" = "There are already %1$d local chat records, and the last message was created at %1$@. Are you sure you want to overwrite the local data with the chat data on iCloud?";
 "retry" = "Повторить";
 "revoke_access" = "Отменить доступ";
 "revoke_multisig_transaction" = "Отозвать транзакцию с мультиподписью";

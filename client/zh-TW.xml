@@ -56,6 +56,8 @@
   <string name="Connection_establishment_failed" platform="iOS">連線建立失敗</string>
   <string name="Backup_to_iCloud" platform="iOS">備份到 iCloud</string>
   <string name="Restore_Your_Chat_History" platform="iOS">恢復你的聊天記錄</string>
+  <string name="Restroe_From_icloud_Confirmation" platform="iOS">已經有 %1$d 條本地聊天記錄，最後一條訊息的時間是 %1$s，確定用 iCloud 上的聊天資料覆蓋本地資料嗎？</string>
+  <string name="Overwrite" platform="iOS, android">覆蓋</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 錢包現已不支援 %1$s 充值，注意已轉入的 %2$s 資產可以繼續轉賬或提現，閱讀檔案**瞭解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">訪問你的機器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">訪問你的圈子列表</string>

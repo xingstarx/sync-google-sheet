@@ -628,6 +628,7 @@
 "optimize_database" = "Optimize Database";
 "optimized" = "Optimized";
 "other" = "Other";
+"overwrite" = "Overwrite";
 "owner" = "pemilik";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
@@ -771,6 +772,7 @@
 "restoring" = "Restoring...";
 "restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "Restoring %@";
+"restroe_from_icloud_confirmation" = "There are already %1$d local chat records, and the last message was created at %1$@. Are you sure you want to overwrite the local data with the chat data on iCloud?";
 "retry" = "COBA LAGI";
 "revoke_access" = "Cabut akses";
 "revoke_multisig_transaction" = "Cabut Transaksi Multisig";

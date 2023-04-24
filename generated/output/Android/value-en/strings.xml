@@ -712,6 +712,7 @@
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
 	<string name="OTHER">OTHER</string>
+	<string name="Overwrite">Overwrite</string>
 	<string name="Owner">Owner</string>
 	<string name="parse_dns_result">Parse DNS result: </string>
 	<string name="Participants">Participants</string>
