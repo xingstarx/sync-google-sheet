@@ -764,6 +764,7 @@
 "restore_completed" = "恢复已完成";
 "restore_from_another_phone" = "从其他手机恢复";
 "restore_from_icloud" = "从iCloud 恢复";
+"restore_from_icloud_confirmation" = "已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$@，确定用iCloud 上的聊天数据覆盖本地数据吗？";
 "restore_from_pc" = "从桌面恢复";
 "restore_from_pc_hint" = "从桌面端恢复你的聊天记录";
 "restore_from_pc_tip" = "从Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个Wi - Fi 或热点。";
@@ -772,7 +773,6 @@
 "restoring" = "正在恢复...";
 "restoring_chat_progress" = "恢复聊天记录（%@%）";
 "restoring_progress" = "正在恢复 %@";
-"restroe_from_icloud_confirmation" = "已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$@，确定用iCloud 上的聊天数据覆盖本地数据吗？";
 "retry" = "重试";
 "revoke_access" = "取消授权";
 "revoke_multisig_transaction" = "撤销多重签名交易";
