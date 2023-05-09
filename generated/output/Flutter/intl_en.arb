@@ -90,6 +90,7 @@
 "createCircle" : "New Circle",
 "createConversation" : "New Conversation",
 "createGroup" : "New Group",
+"created" : "Created {arg0}",
 "createdThisGroup" : "{arg0} created this group",
 "customTime" : "Custom Time",
 "dark" : "Dark",

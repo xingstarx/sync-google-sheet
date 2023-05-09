@@ -288,6 +288,7 @@
 	<string name="Copy_link">複製鏈接</string>
 	<string name="Create">創建</string>
 	<string name="Create_PIN">創建錢包</string>
+	<string name="Created">創建於 %1$s</string>
 	<string name="created_this_group">%1$s創建了這個羣組</string>
 	<string name="Creating">正在創建…</string>
 	<string name="Creating_wallet_terminated_unexpectedly">創建錢包意外中止，點繼續完成錢包創建</string>
