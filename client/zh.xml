@@ -430,6 +430,7 @@
   <string name="Copy_link" platform="android, iOS, Desktop">复制链接</string>
   <string name="Copy_User_Id" platform="iOS">复制用户 ID</string>
   <string name="Create" platform="android, iOS, Desktop">创建</string>
+  <string name="Created" platform="android, Desktop">创建于 %1$s</string>
   <string name="create_circle" platform="Desktop">新建圈子</string>
   <string name="create_conversation" platform="Desktop">新建会话</string>
   <string name="create_group" platform="Desktop">新建群组</string>
