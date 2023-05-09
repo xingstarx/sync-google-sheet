@@ -436,6 +436,7 @@
 | android, iOS, Desktop | Copy_link | Copy Link | 复制链接 | リンクをコピー | Salin pautan |     |
 | iOS | Copy_User_Id | Copy User ID | 复制用户 ID | ユーザーIDをコピー |     |     |
 | android, iOS, Desktop | Create | Create | 创建  | 作成  | Buat | Buat |
+| android, Desktop | Created | Created %1$s | 创建于 %1$s |     |     |     |
 | Desktop | create_circle | New Circle | 新建圈子 | 新しいグループリスト |     |     |
 | Desktop | create_conversation | New Conversation | 新建会话 | 新しいチャットルーム |     |     |
 | Desktop | create_group | New Group | 新建群组 | 新しいグループ |     |     |
