@@ -1604,6 +1604,9 @@
 | desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
 | desktop | proxy | Proxy | 代理  |     |     |     |
 | desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
+| desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
+| desktop | proxy_connection | Connection | 连接  |     |     |     |
+| desktop | proxy_auth |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |

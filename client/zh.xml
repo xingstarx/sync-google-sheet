@@ -1580,4 +1580,6 @@
   <string name="enter_to_send" platform="desktop">按下回车 ⏎ 发送</string>
   <string name="proxy" platform="desktop">代理</string>
   <string name="add_proxy" platform="desktop">添加代理</string>
+  <string name="proxy_type" platform="desktop">代理类型</string>
+  <string name="proxy_connection" platform="desktop">连接</string>
 </resources>

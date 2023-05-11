@@ -1603,6 +1603,8 @@
   <string name="enter_to_send" platform="desktop">Return/Enter ⏎ to Send</string>
   <string name="proxy" platform="desktop">Proxy</string>
   <string name="add_proxy" platform="desktop">Add Proxy</string>
+  <string name="proxy_type" platform="desktop">Proxy Type</string>
+  <string name="proxy_connection" platform="desktop">Connection</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
