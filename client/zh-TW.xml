@@ -1578,4 +1578,13 @@
   <string name="transfer_failed" platform="desktop, iOS">同步失敗</string>
   <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">版本不匹配，無法同步資料，請先升級應用。</string>
   <string name="enter_to_send" platform="desktop">按下回車 ⏎ 傳送</string>
+  <string name="proxy" platform="desktop">代理</string>
+  <string name="add_proxy" platform="desktop">新增代理</string>
+  <string name="proxy_type" platform="desktop">代理型別</string>
+  <string name="proxy_connection" platform="desktop">連線</string>
+  <string name="proxy_auth" platform="desktop">驗證（可選）</string>
+  <string name="host" platform="desktop">主機名</string>
+  <string name="port" platform="desktop">埠號</string>
+  <string name="username" platform="desktop">使用者名稱</string>
+  <string name="password" platform="desktop">密碼</string>
 </resources>
