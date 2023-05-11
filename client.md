@@ -1602,6 +1602,15 @@
 | desktop, iOS | transfer_failed | Transfer failed | 同步失败 |     |     |     |
 | desktop, iOS | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
 | desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
+| desktop | proxy | Proxy | 代理  |     |     |     |
+| desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
+| desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
+| desktop | proxy_connection | Connection | 连接  |     |     |     |
+| desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
+| desktop | host | Host | 主机名 |     |     |     |
+| desktop | port | Port | 端口号 |     |     |     |
+| desktop | username | Username | 用户名 |     |     |     |
+| desktop | password | Password | 密码  |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |

@@ -1601,6 +1601,15 @@
   <string name="transfer_failed" platform="desktop, iOS">Transfer failed</string>
   <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
   <string name="enter_to_send" platform="desktop">Return/Enter ⏎ to Send</string>
+  <string name="proxy" platform="desktop">Proxy</string>
+  <string name="add_proxy" platform="desktop">Add Proxy</string>
+  <string name="proxy_type" platform="desktop">Proxy Type</string>
+  <string name="proxy_connection" platform="desktop">Connection</string>
+  <string name="proxy_auth" platform="desktop">Authentication (Optional)</string>
+  <string name="host" platform="desktop">Host</string>
+  <string name="port" platform="desktop">Port</string>
+  <string name="username" platform="desktop">Username</string>
+  <string name="password" platform="desktop">Password</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>

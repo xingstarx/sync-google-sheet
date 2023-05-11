@@ -1578,4 +1578,13 @@
   <string name="transfer_failed" platform="desktop, iOS">同步失败</string>
   <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">版本不匹配，无法同步数据，请先升级应用。</string>
   <string name="enter_to_send" platform="desktop">按下回车 ⏎ 发送</string>
+  <string name="proxy" platform="desktop">代理</string>
+  <string name="add_proxy" platform="desktop">添加代理</string>
+  <string name="proxy_type" platform="desktop">代理类型</string>
+  <string name="proxy_connection" platform="desktop">连接</string>
+  <string name="proxy_auth" platform="desktop">验证（可选）</string>
+  <string name="host" platform="desktop">主机名</string>
+  <string name="port" platform="desktop">端口号</string>
+  <string name="username" platform="desktop">用户名</string>
+  <string name="password" platform="desktop">密码</string>
 </resources>
