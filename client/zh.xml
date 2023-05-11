@@ -1582,4 +1582,5 @@
   <string name="add_proxy" platform="desktop">添加代理</string>
   <string name="proxy_type" platform="desktop">代理类型</string>
   <string name="proxy_connection" platform="desktop">连接</string>
+  <string name="proxy_auth" platform="desktop">验证（可选）</string>
 </resources>
