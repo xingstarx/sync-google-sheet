@@ -1608,6 +1608,8 @@
   <string name="proxy_auth" platform="desktop">Authentication (Optional)</string>
   <string name="host" platform="desktop">Host</string>
   <string name="port" platform="desktop">Port</string>
+  <string name="username" platform="desktop">Username</string>
+  <string name="password" platform="desktop">Password</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
