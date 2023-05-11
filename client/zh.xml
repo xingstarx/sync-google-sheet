@@ -1583,4 +1583,6 @@
   <string name="proxy_type" platform="desktop">代理类型</string>
   <string name="proxy_connection" platform="desktop">连接</string>
   <string name="proxy_auth" platform="desktop">验证（可选）</string>
+  <string name="host" platform="desktop">主机名</string>
+  <string name="port" platform="desktop">端口号</string>
 </resources>

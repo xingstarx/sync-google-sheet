@@ -1607,7 +1607,9 @@
 | desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
 | desktop | proxy_connection | Connection | 连接  |     |     |     |
 | desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
-| desktop | server | server |     |     |     |     |
+| desktop | host | Host | 主机名 |     |     |     |
+| desktop | port | Port | 端口号 |     |     |     |
+| desktop |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
