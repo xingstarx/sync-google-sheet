@@ -1598,9 +1598,9 @@
   <string name="confirm_sync_chats_from_phone" platform="desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="transferring_chats" platform="desktop">Transferring Chat </string>
   <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
-  <string name="transfer_completed" platform="desktop">Transfer completed</string>
-  <string name="transfer_failed" platform="desktop, iOS">Transfer failed</string>
-  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
+  <string name="transfer_completed" platform="desktop, android">Transfer completed</string>
+  <string name="transfer_failed" platform="desktop, iOS, android">Transfer failed</string>
+  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS, android">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
   <string name="enter_to_send" platform="desktop">Return/Enter ⏎ to Send</string>
   <string name="proxy" platform="desktop">Proxy</string>
   <string name="add_proxy" platform="desktop">Add Proxy</string>

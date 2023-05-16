@@ -1599,9 +1599,9 @@
 | desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
 | desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
-| desktop | transfer_completed | Transfer completed | 同步完成 |     |     |     |
-| desktop, iOS | transfer_failed | Transfer failed | 同步失败 |     |     |     |
-| desktop, iOS | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
+| desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
+| desktop, iOS, android | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| desktop, iOS, android | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
 | desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
 | desktop | proxy | Proxy | 代理  |     |     |     |
 | desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |

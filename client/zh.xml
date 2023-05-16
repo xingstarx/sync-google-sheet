@@ -1575,9 +1575,9 @@
   <string name="confirm_sync_chats_from_phone" platform="desktop">确认从手机端同步聊天记录吗？</string>
   <string name="transferring_chats" platform="desktop">同步聊天记录中</string>
   <string name="transferring_chats_tips" platform="desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
-  <string name="transfer_completed" platform="desktop">同步完成</string>
-  <string name="transfer_failed" platform="desktop, iOS">同步失败</string>
-  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">版本不匹配，无法同步数据，请先升级应用。</string>
+  <string name="transfer_completed" platform="desktop, android">同步完成</string>
+  <string name="transfer_failed" platform="desktop, iOS, android">同步失败</string>
+  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS, android">版本不匹配，无法同步数据，请先升级应用。</string>
   <string name="enter_to_send" platform="desktop">按下回车 ⏎ 发送</string>
   <string name="proxy" platform="desktop">代理</string>
   <string name="add_proxy" platform="desktop">添加代理</string>
