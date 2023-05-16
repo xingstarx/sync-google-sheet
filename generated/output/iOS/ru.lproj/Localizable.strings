@@ -452,6 +452,7 @@
 "image" = "изображение";
 "image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Немедленно";
+"importing_chat_progress" = "Importing chat  (%@%)";
 "in_connecting" = "Подключение...";
 "include_files" = "Включить файлы";
 "include_videos" = "Включить видео";

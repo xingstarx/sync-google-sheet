@@ -452,6 +452,7 @@
 "image" = "imagen";
 "image_shareable_false" = "La imagen se ha configurado para no permitir compartir";
 "immediately" = "Inmediatamente";
+"importing_chat_progress" = "Importing chat  (%@%)";
 "in_connecting" = "Conectando...";
 "include_files" = "Incluir archivos";
 "include_videos" = "Incluir vídeos";

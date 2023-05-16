@@ -452,6 +452,7 @@
 "image" = "画像";
 "image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "すぐに";
+"importing_chat_progress" = "Importing chat  (%@%)";
 "in_connecting" = "接続中...";
 "include_files" = "ファイルが含まれています";
 "include_videos" = "動画が含まれています";

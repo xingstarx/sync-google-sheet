@@ -453,6 +453,7 @@
 "image" = "image";
 "image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Immediately";
+"importing_chat_progress" = "Importing chat  (%@%)";
 "in_connecting" = "Menyambung...";
 "include_files" = "Include Files";
 "include_videos" = "Include Videos";

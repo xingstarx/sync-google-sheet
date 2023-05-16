@@ -452,6 +452,7 @@
 "image" = "圖像";
 "image_shareable_false" = "該圖片已被設置為不允許轉發";
 "immediately" = "立刻";
+"importing_chat_progress" = "導入聊天記錄（%@%）";
 "in_connecting" = "正在連接...";
 "include_files" = "包括檔案";
 "include_videos" = "包括視頻";
