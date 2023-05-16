@@ -58,7 +58,7 @@
 | iOS | Backup_to_iCloud | Backup to iCloud | 备份到 iCloud |     |     |     |
 | iOS | Restore_Your_Chat_History | Restore Your Chat History | 恢复你的聊天记录 |     |     |     |
 | iOS | Restore_From_icloud_Confirmation | There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud? | 已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？ |     |     |     |
-| iOS | Import_Chat_Progress | Import  | 导入（%1$s%） |     |     |     |
+| iOS | Importing_Chat_Progress | Importing chat  (%1$s%) | 导入聊天记录（%1$s%） |     |     |     |
 | iOS, android | Overwrite | Overwrite | 覆盖  |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
