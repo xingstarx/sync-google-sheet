@@ -1115,7 +1115,7 @@
   <string name="Reply" platform="android, iOS, Desktop">Reply</string>
   <string name="Report" platform="android, iOS, Desktop">Report</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">Report and block?</string>
-  <string name="report_title" platform="iOS">Send the conversation log to developers?</string>
+  <string name="report_title" platform="iOS, Desktop">Send the conversation log to developers?</string>
   <string name="Represent_Messages" platform="android, iOS">Represent Messages</string>
   <string name="Requests_access_to_your" platform="android">Requests access to your</string>
   <string name="Resend_code" platform="android, iOS, Desktop">Resend code</string>
@@ -1208,7 +1208,7 @@
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="Send_to_contact" platform="android">Send to contact</string>
-  <string name="Send_to_Developer" platform="iOS">Send to Developer</string>
+  <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
   <string name="Send_verification_code_frequent" platform="iOS">Send verification code too frequent, please try again later.</string>

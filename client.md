@@ -1116,7 +1116,7 @@
 | android, iOS, Desktop | Reply | Reply | 回复  | 返信  |     |     |
 | android, iOS, Desktop | Report | Report | 举报  | 報告  | Lapor | Laporkan |
 | android, iOS, Desktop | Report_and_block | Report and block? | 举报并屏蔽？ | 報告してブロックしますか? |     |     |
-| iOS | report_title | Send the conversation log to developers? | 给开发人员发送聊天日志？ | Mixinの開発者へ会話記録を送信しますか? |     |     |
+| iOS, Desktop | report_title | Send the conversation log to developers? | 给开发人员发送聊天日志？ | Mixinの開発者へ会話記録を送信しますか? |     |     |
 | android, iOS | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
 | android | Requests_access_to_your | Requests access to your | 需要访问你的 | 権限リクエスト | Meminta akses ke anda | Meminta akses ke Anda |
 | android, iOS, Desktop | Resend_code | Resend code | 重发验证码 | コードを再送する | Hantar semula kod | Kirim ulang kode |
@@ -1209,7 +1209,7 @@
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
 | android | Send_to_contact | Send to contact | 转账给联系人 |     |     |     |
-| iOS | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
+| iOS, Desktop | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
 | iOS | Send_To_Title | Send To | 转给  | 振替先 |     |     |
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
 | iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |

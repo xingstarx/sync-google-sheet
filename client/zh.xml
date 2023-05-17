@@ -1098,7 +1098,7 @@
   <string name="Reply" platform="android, iOS, Desktop">回复</string>
   <string name="Report" platform="android, iOS, Desktop">举报</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">举报并屏蔽？</string>
-  <string name="report_title" platform="iOS">给开发人员发送聊天日志？</string>
+  <string name="report_title" platform="iOS, Desktop">给开发人员发送聊天日志？</string>
   <string name="Represent_Messages" platform="android, iOS">代发消息</string>
   <string name="Requests_access_to_your" platform="android">需要访问你的</string>
   <string name="Resend_code" platform="android, iOS, Desktop">重发验证码</string>
@@ -1190,7 +1190,7 @@
   <string name="Send_This_Location" platform="android, iOS">发送这个位置</string>
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
   <string name="Send_to_contact" platform="android">转账给联系人</string>
-  <string name="Send_to_Developer" platform="iOS">把日志发给开发者</string>
+  <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>
   <string name="Send_verification_code_frequent" platform="iOS">发送验证码太频繁，请稍后再试</string>
