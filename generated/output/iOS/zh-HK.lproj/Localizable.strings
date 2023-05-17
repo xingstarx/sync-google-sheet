@@ -978,6 +978,7 @@
 "trying_connect_tip_network" = "正在連接TIP 網絡";
 "trying_connect_tip_node" = "正在連接節點...";
 "turn_on_notifications" = "打開通知";
+"unable_connect_to_desktop" = "無法連接到桌面，請稍後重試";
 "unable_synced_between_different_account" = "不同賬户之間無法同步聊天記錄";
 "unable_to_decode_the_request" = "無法解析請求: %@";
 "unable_to_save_photo" = "保存圖片失敗";

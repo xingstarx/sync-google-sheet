@@ -1026,11 +1026,14 @@
 	<string name="Transfer">轉賬</string>
 	<string name="Transfer_Amount">轉賬金額</string>
 	<string name="Transfer_Amount_count_down">轉賬金額（%1$s）</string>
+	<string name="transfer_completed">同步完成</string>
+	<string name="transfer_failed">同步失敗</string>
 	<string name="Transfer_from_phone_hint">將您的另一部手機的聊天記錄轉移過來。</string>
 	<string name="Transfer_Hint">同步你的聊天記錄到新的設備，請確保兩台設備接入同一個Wi - Fi 或熱點。</string>
 	<string name="transfer_memo">備註（可選）</string>
 	<string name="Transfer_Notifications">轉賬通知</string>
 	<string name="Transfer_Now">開始傳輸</string>
+	<string name="transfer_protocol_version_not_matched">版本不匹配，無法同步數據，請先升級應用。</string>
 	<string name="transfer_qrcode_prompt">用Mixin 掃描二維碼給我轉賬</string>
 	<string name="transfer_to">轉賬給 %1$s</string>
 	<string name="Transfer_to_Another_Phone">備份到另一台手機</string>
@@ -1046,6 +1049,7 @@
 	<string name="Tuesday">星期二</string>
 	<string name="Turn_On_Notifications">打開通知</string>
 	<string name="Type_message">輸入消息</string>
+	<string name="unable_connect_to_desktop">無法連接到桌面，請稍後重試</string>
 	<string name="Unable_synced_between_different_account">不同賬户之間無法同步聊天記錄</string>
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>
 	<string name="Unblock">解除屏蔽</string>

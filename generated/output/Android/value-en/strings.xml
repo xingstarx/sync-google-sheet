@@ -1046,11 +1046,14 @@
 	<string name="Transfer">Transfer</string>
 	<string name="Transfer_Amount">Transfer Amount</string>
 	<string name="Transfer_Amount_count_down">Transfer Amount(%1$s)</string>
+	<string name="transfer_completed">Transfer completed</string>
+	<string name="transfer_failed">Transfer failed</string>
 	<string name="Transfer_from_phone_hint">Transfer your chat history from your another phone.</string>
 	<string name="Transfer_Hint">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
 	<string name="transfer_memo">Memo (optional)</string>
 	<string name="Transfer_Notifications">Transfer Notifications</string>
 	<string name="Transfer_Now">Transfer Now</string>
+	<string name="transfer_protocol_version_not_matched">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
 	<string name="transfer_qrcode_prompt">Scan the QR Code to transfer me on Mixin</string>
 	<string name="transfer_to">Transfer to %1$s</string>
 	<string name="Transfer_to_Another_Phone">Transfer to Another Phone</string>
@@ -1066,6 +1069,7 @@
 	<string name="Tuesday">Tuesday</string>
 	<string name="Turn_On_Notifications">Turn On Notifications</string>
 	<string name="Type_message">Type message</string>
+	<string name="unable_connect_to_desktop">Unable to connect to the desktop, please try again later</string>
 	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
 	<string name="Unblock">Unblock</string>
