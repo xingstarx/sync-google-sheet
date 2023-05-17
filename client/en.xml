@@ -58,6 +58,7 @@
   <string name="Restore_Your_Chat_History" platform="iOS">Restore Your Chat History</string>
   <string name="Restore_From_icloud_Confirmation" platform="iOS">There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud?</string>
   <string name="Importing_Chat_Progress" platform="iOS">Importing chat  (%1$s%)</string>
+  <string name="unable_connect_to_desktop" platform="iOS, android">Unable to connect to the desktop, please try again later</string>
   <string name="Overwrite" platform="iOS, android">Overwrite</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
@@ -1598,9 +1599,9 @@
   <string name="confirm_sync_chats_from_phone" platform="desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="transferring_chats" platform="desktop">Transferring Chat </string>
   <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
-  <string name="transfer_completed" platform="desktop">Transfer completed</string>
-  <string name="transfer_failed" platform="desktop, iOS">Transfer failed</string>
-  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
+  <string name="transfer_completed" platform="desktop, android">Transfer completed</string>
+  <string name="transfer_failed" platform="desktop, iOS, android">Transfer failed</string>
+  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS, android">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
   <string name="enter_to_send" platform="desktop">Return/Enter ⏎ to Send</string>
   <string name="proxy" platform="desktop">Proxy</string>
   <string name="add_proxy" platform="desktop">Add Proxy</string>

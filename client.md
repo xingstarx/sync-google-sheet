@@ -59,6 +59,7 @@
 | iOS | Restore_Your_Chat_History | Restore Your Chat History | 恢复你的聊天记录 |     |     |     |
 | iOS | Restore_From_icloud_Confirmation | There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud? | 已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？ |     |     |     |
 | iOS | Importing_Chat_Progress | Importing chat  (%1$s%) | 导入聊天记录（%1$s%） |     |     |     |
+| iOS, android | unable_connect_to_desktop | Unable to connect to the desktop, please try again later | 无法连接到桌面，请稍后重试 |     |     |     |
 | iOS, android | Overwrite | Overwrite | 覆盖  |     |     |     |
 | android, iOS | not_supported_deposit | Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**. | Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
@@ -1599,9 +1600,9 @@
 | desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
 | desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
 | desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
-| desktop | transfer_completed | Transfer completed | 同步完成 |     |     |     |
-| desktop, iOS | transfer_failed | Transfer failed | 同步失败 |     |     |     |
-| desktop, iOS | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
+| desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
+| desktop, iOS, android | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| desktop, iOS, android | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
 | desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
 | desktop | proxy | Proxy | 代理  |     |     |     |
 | desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
