@@ -15,6 +15,8 @@
   <string name="Accept" platform="android">Accept</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
+  <string name="Deselect_All" platform="iOS,android">Deselect All</string>
+  <string name="Select_All" platform="">Select All</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
   <string name="Setting_Chats" platform="iOS,android">Chats</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>
