@@ -28,8 +28,8 @@
 | iOS,android | Last_years | Last %1$s  years | 最近 %1$s 年 |     |     |     |
 | iOS,android | Last_month | Last month | 最近一个月 |     |     |     |
 | iOS,android | Last_months | Last %1$s months | 最近 %1$s 个月 |     |     |     |
-|     |     | All dates | 所有日期 |     |     |     |
-|     |     | Designated Dates | 指定时间段 |     |     |     |
+| iOS,android | All_dates | All dates | 所有日期 |     |     |     |
+| iOS,android | Designated_Dates | Designated Dates | 指定时间段 |     |     |     |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
 | iOS,android | Setting_Chats | Chats | 聊天记录 |     |     |     |
 | iOS,android | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
