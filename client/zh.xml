@@ -18,6 +18,7 @@
   <string name="Deselect_All" platform="iOS,android">取消选择所有</string>
   <string name="Select_All" platform="">选择所有</string>
   <string name="Show Selected" platform="">显示选择（%1$s%）</string>
+  <string name="" platform="">已选择 %1$s%</string>
   <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
   <string name="Setting_Chats" platform="iOS,android">聊天记录</string>
   <string name="Transfer_to_PC" platform="iOS,android">备份到桌面端</string>

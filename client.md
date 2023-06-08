@@ -19,7 +19,7 @@
 | iOS,android | Deselect_All | Deselect All | 取消选择所有 |     |     |     |
 |     | Select_All | Select All | 选择所有 |     |     |     |
 |     | Show Selected | Show Selected(%1$s%) | 显示选择（%1$s%） |     |     |     |
-|     |     | %1$s% Items Selected |     |     |     |     |
+|     |     | %1$s% Items Selected | 已选择 %1$s% |     |     |     |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
 | iOS,android | Setting_Chats | Chats | 聊天记录 |     |     |     |
 | iOS,android | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
