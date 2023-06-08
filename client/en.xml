@@ -17,6 +17,8 @@
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Deselect_All" platform="iOS,android">Deselect All</string>
   <string name="Select_All" platform="">Select All</string>
+  <string name="Show Selected" platform="">Show Selected(%1$s%)</string>
+  <string name="" platform="">%1$s% Items Selected</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
   <string name="Setting_Chats" platform="iOS,android">Chats</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>
