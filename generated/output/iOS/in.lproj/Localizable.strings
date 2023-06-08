@@ -62,6 +62,7 @@
 "all" = "Semua";
 "all_chats" = "All chats";
 "all_conversations" = "Semua Percakapan";
+"all_dates" = "All dates";
 "all_photos" = "All Photos";
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "Semua Transaksi";
@@ -319,6 +320,7 @@
 "deposit_tip_eth" = "Alamat ini mendukung semua token ERC-20, seperti ETH, XIN, dll.";
 "deposit_tip_trx" = "Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.";
 "deselect_all" = "Deselect All";
+"designated_time_frame" = "Designated time frame";
 "desktop_on_hint" = "You have your desktop logged in";
 "desktop_upgrade" = "Harap tingkatkan Mixin Messenger Desktop ke versi terbaru.";
 "detect_qr_tip" = "Mendeteksi kode QR Mixin, ketuk untuk mengenali";
@@ -552,6 +554,7 @@
 "mixin_messenger_desktop" = "Mixin Messenger Desktop";
 "mixin_server_encounters_errors" = "Mixin server encounters errors";
 "mobile_contacts" = "Mobile Contacts";
+"month" = "Month";
 "monthly" = "Monthly";
 "more" = "Lebih banyak";
 "move_and_scale" = "Move and Scale";
@@ -732,6 +735,7 @@
 "receive_money" = "Terima uang";
 "receiver" = "Penerima";
 "receivers" = "Receivers";
+"recent" = "Recent";
 "recent_chats" = "OBROLAN";
 "recent_searches" = "Recent searches";
 "refresh" = "Muat ulang";
@@ -1098,6 +1102,7 @@
 "withdrawal_network_fee" = "Network fee: ";
 "withdrawal_no_memo" = "Tanpa Memo";
 "withdrawal_to" = "Penarikan ke %@";
+"year" = "Year";
 "you" = "Anda";
 "you_deleted_this_message" = "Anda menghapus pesan ini";
 "you_have_a_new_message" = "You have a new message";

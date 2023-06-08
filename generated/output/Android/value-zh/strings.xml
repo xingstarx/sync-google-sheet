@@ -74,6 +74,7 @@
 	<string name="All">全部</string>
 	<string name="All_chats">所有聊天</string>
 	<string name="All_Conversations">所有会话</string>
+	<string name="All_dates">所有日期</string>
 	<string name="All_Media">全部</string>
 	<string name="All_signer_failure">所有节点失败，也许PIN 跟上次意外退出时设置的不一致</string>
 	<string name="All_Transactions">所有交易记录</string>
@@ -337,6 +338,7 @@
 	<string name="deposit_tip_eth">支持所有符合ERC - 20 标准的代币，例如ETH 、 XIN 等。</string>
 	<string name="deposit_tip_trx">支持TRX 和所有符合TRC - 10 、 TRC - 20 标准的代币。</string>
 	<string name="Deselect_All">取消所有选择</string>
+	<string name="Designated_time_frame">指定时间段</string>
 	<string name="desktop">桌面端</string>
 	<string name="desktop_login_no_pin">为了您的安全，登录桌面前请先设置PIN 码！</string>
 	<string name="desktop_on_hint">桌面版已登入。</string>
@@ -615,6 +617,7 @@
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger 桌面</string>
 	<string name="Model">手机型号</string>
 	<string name="Monday">星期一</string>
+	<string name="Month">月</string>
 	<string name="More">更多</string>
 	<string name="Multisig_by_PIN">通过PIN 签名</string>
 	<string name="multisig_receivers_threshold">交易接收人（%1$s）</string>
@@ -791,6 +794,7 @@
 	<string name="RECEIVE">转入</string>
 	<string name="Receive_Money">我的收款码</string>
 	<string name="Receiver">至</string>
+	<string name="Recent">最近</string>
 	<string name="recent_chats">最近聊天</string>
 	<string name="Recent_searches">最近搜索</string>
 	<string name="Refresh">刷新</string>
@@ -1188,6 +1192,7 @@
 	<string name="withdrawal_to">提现到 %1$s</string>
 	<string name="withdrawal_with_biometric">用生物识别提现</string>
 	<string name="withdrawal_with_PIN">用PIN 提现</string>
+	<string name="Year">年</string>
 	<string name="you">你</string>
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一条消息</string>

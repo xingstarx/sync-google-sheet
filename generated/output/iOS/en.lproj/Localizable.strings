@@ -62,6 +62,7 @@
 "all" = "All";
 "all_chats" = "All chats";
 "all_conversations" = "All Conversations";
+"all_dates" = "All dates";
 "all_photos" = "All Photos";
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "All Transactions";
@@ -319,6 +320,7 @@
 "deposit_tip_eth" = "This address supports all ERC-20 tokens, such as ETH, XIN, etc.";
 "deposit_tip_trx" = "This address supports all TRC-10 and TRC-20 tokens.";
 "deselect_all" = "Deselect All";
+"designated_time_frame" = "Designated time frame";
 "desktop_on_hint" = "You have your desktop logged in";
 "desktop_upgrade" = "Please upgrade Mixin Messenger Desktop to the latest version.";
 "detect_qr_tip" = "Detected a Mixin QR code, tap to recognize";
@@ -552,6 +554,7 @@
 "mixin_messenger_desktop" = "Mixin Messenger Desktop";
 "mixin_server_encounters_errors" = "Mixin server encounters errors";
 "mobile_contacts" = "Mobile Contacts";
+"month" = "Month";
 "monthly" = "Monthly";
 "more" = "More";
 "move_and_scale" = "Move and Scale";
@@ -732,6 +735,7 @@
 "receive_money" = "Receive Money";
 "receiver" = "Receiver";
 "receivers" = "Receivers";
+"recent" = "Recent";
 "recent_chats" = "CHATS";
 "recent_searches" = "Recent searches";
 "refresh" = "Refresh";
@@ -1098,6 +1102,7 @@
 "withdrawal_network_fee" = "Network fee: ";
 "withdrawal_no_memo" = "No Memo";
 "withdrawal_to" = "Withdraw to %@";
+"year" = "Year";
 "you" = "You";
 "you_deleted_this_message" = "You deleted this message";
 "you_have_a_new_message" = "You have a new message";

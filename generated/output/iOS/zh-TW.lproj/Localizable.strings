@@ -62,6 +62,7 @@
 "all" = "全部";
 "all_chats" = "所有聊天";
 "all_conversations" = "所有會話";
+"all_dates" = "所有日期";
 "all_photos" = "所有照片";
 "all_signer_failure" = "所有節點失敗，也許PIN 跟上次意外退出時設定的不一致";
 "all_transactions" = "所有交易記錄";
@@ -319,6 +320,7 @@
 "deposit_tip_eth" = "支援所有符合ERC - 20 標準的代幣，例如ETH 、 XIN 等。";
 "deposit_tip_trx" = "支援TRX 和所有符合TRC - 10 、 TRC - 20 標準的代幣。";
 "deselect_all" = "取消所有選擇";
+"designated_time_frame" = "指定時間段";
 "desktop_on_hint" = "桌面版已登入。";
 "desktop_upgrade" = "請升級Mixin Messenger 桌面端至最新版！";
 "detect_qr_tip" = "檢測到一個Mixin 二維碼，點選識別";
@@ -552,6 +554,7 @@
 "mixin_messenger_desktop" = "Mixin Messenger 桌面";
 "mixin_server_encounters_errors" = "伺服器出錯，請稍後重試";
 "mobile_contacts" = "通訊錄";
+"month" = "月";
 "monthly" = "每月";
 "more" = "更多";
 "move_and_scale" = "移動和縮放";
@@ -732,6 +735,7 @@
 "receive_money" = "我的收款碼";
 "receiver" = "至";
 "receivers" = "交易接收人";
+"recent" = "最近";
 "recent_chats" = "最近聊天";
 "recent_searches" = "最近搜尋";
 "refresh" = "重新整理";
@@ -1098,6 +1102,7 @@
 "withdrawal_network_fee" = "網路手續費：";
 "withdrawal_no_memo" = "點選不使用Memo （備註）";
 "withdrawal_to" = "提現到 %@";
+"year" = "年";
 "you" = "你";
 "you_deleted_this_message" = "你撤回了一條訊息";
 "you_have_a_new_message" = "你收到了一條訊息";

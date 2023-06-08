@@ -62,6 +62,7 @@
 "all" = "Все";
 "all_chats" = "All chats";
 "all_conversations" = "Все разговоры";
+"all_dates" = "All dates";
 "all_photos" = "Все фотографии";
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
 "all_transactions" = "Все транзакции";
@@ -319,6 +320,7 @@
 "deposit_tip_eth" = "Этот адрес поддерживает все токены ERC-20, такие как ETH, XIN и т. д.";
 "deposit_tip_trx" = "Этот адрес поддерживает все токены TRC-10 и TRC-20.";
 "deselect_all" = "Deselect All";
+"designated_time_frame" = "Designated time frame";
 "desktop_on_hint" = "Вы вошли в свой рабочий стол";
 "desktop_upgrade" = "Пожалуйста, обновите Mixin Messenger Desktop до последней версии.";
 "detect_qr_tip" = "Обнаружен QR-код Mixin, нажмите, чтобы распознать";
@@ -552,6 +554,7 @@
 "mixin_messenger_desktop" = "Рабочий стол Mixin Messenger";
 "mixin_server_encounters_errors" = "Сервер Mixin обнаруживает ошибки";
 "mobile_contacts" = "Мобильные контакты";
+"month" = "Month";
 "monthly" = "Ежемесячно";
 "more" = "Больше";
 "move_and_scale" = "Move and Scale";
@@ -732,6 +735,7 @@
 "receive_money" = "Получить деньги";
 "receiver" = "Получатель";
 "receivers" = "Получатели";
+"recent" = "Recent";
 "recent_chats" = "ЧАТЫ";
 "recent_searches" = "Недавние поиски";
 "refresh" = "Обновить";
@@ -1098,6 +1102,7 @@
 "withdrawal_network_fee" = "Комиссия за сеть: ";
 "withdrawal_no_memo" = "Нет памятки";
 "withdrawal_to" = "Вывод на %@";
+"year" = "Year";
 "you" = "Вы";
 "you_deleted_this_message" = "Вы удалили это сообщение";
 "you_have_a_new_message" = "У вас новое сообщение";

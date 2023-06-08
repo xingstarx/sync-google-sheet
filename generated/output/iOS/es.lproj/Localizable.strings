@@ -62,6 +62,7 @@
 "all" = "Todo";
 "all_chats" = "All chats";
 "all_conversations" = "Todas las conversaciones";
+"all_dates" = "All dates";
 "all_photos" = "Todas las fotos";
 "all_signer_failure" = "Falla de todos los nodos, tal vez el PIN no coincida con lo que se configuró la última vez que finalizó inesperadamente";
 "all_transactions" = "Todas las transacciones";
@@ -319,6 +320,7 @@
 "deposit_tip_eth" = "Esta dirección admite todos los tokens ERC-20, como ETH, XIN, etc.";
 "deposit_tip_trx" = "Esta dirección admite todos los tokens TRC-10 y TRC-20.";
 "deselect_all" = "Deselect All";
+"designated_time_frame" = "Designated time frame";
 "desktop_on_hint" = "Tienes tu escritorio conectado";
 "desktop_upgrade" = "Actualiza Mixin Messenger Desktop a la última versión.";
 "detect_qr_tip" = "Se ha detectado un código QR de Mixin, toca para reconocer";
@@ -552,6 +554,7 @@
 "mixin_messenger_desktop" = "Mixin Messenger de Escritorio";
 "mixin_server_encounters_errors" = "El servidor Mixin encuentra errores";
 "mobile_contacts" = "Contactos móviles";
+"month" = "Month";
 "monthly" = "Mensual";
 "more" = "Más";
 "move_and_scale" = "Mover y escalar";
@@ -732,6 +735,7 @@
 "receive_money" = "Recibir dinero";
 "receiver" = "Receptor";
 "receivers" = "Receptores";
+"recent" = "Recent";
 "recent_chats" = "CHATS";
 "recent_searches" = "Búsquedas recientes";
 "refresh" = "Actualizar";
@@ -1098,6 +1102,7 @@
 "withdrawal_network_fee" = "Tarifa de red: ";
 "withdrawal_no_memo" = "Sin nota";
 "withdrawal_to" = "Retirar a %@";
+"year" = "Year";
 "you" = "Tú";
 "you_deleted_this_message" = "Has borrado este mensaje";
 "you_have_a_new_message" = "Tienes un nuevo mensaje";

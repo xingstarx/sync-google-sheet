@@ -74,6 +74,7 @@
 	<string name="All">All</string>
 	<string name="All_chats">All chats</string>
 	<string name="All_Conversations">All Conversations</string>
+	<string name="All_dates">All dates</string>
 	<string name="All_Media">All Media</string>
 	<string name="All_signer_failure">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
 	<string name="All_Transactions">All Transactions</string>
@@ -345,6 +346,7 @@
 	<string name="deposit_tip_eth">This address supports all ERC-20 tokens, such as ETH, XIN, etc.</string>
 	<string name="deposit_tip_trx">This address supports all TRC-10 and TRC-20 tokens.</string>
 	<string name="Deselect_All">Deselect All</string>
+	<string name="Designated_time_frame">Designated time frame</string>
 	<string name="desktop">desktop</string>
 	<string name="desktop_login_no_pin">For your account security, please set up the PIN before logging into the desktop app.</string>
 	<string name="desktop_on_hint">You have your desktop logged in</string>
@@ -631,6 +633,7 @@
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger Desktop</string>
 	<string name="Model">Model</string>
 	<string name="Monday">Monday</string>
+	<string name="Month">Month</string>
 	<string name="More">More</string>
 	<string name="Multisig_by_PIN">Multisig by PIN</string>
 	<string name="multisig_receivers_threshold">Receivers (%1$s)</string>
@@ -808,6 +811,7 @@
 	<string name="RECEIVE">Receive</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Receiver">Receiver</string>
+	<string name="Recent">Recent</string>
 	<string name="recent_chats">CHATS</string>
 	<string name="Recent_searches">Recent searches</string>
 	<string name="Refresh">Refresh</string>
@@ -1211,6 +1215,7 @@
 	<string name="withdrawal_to">Withdraw to %1$s</string>
 	<string name="withdrawal_with_biometric">Withdrawal with Biometric</string>
 	<string name="withdrawal_with_PIN">Withdrawal with PIN</string>
+	<string name="Year">Year</string>
 	<string name="you">you</string>
 	<string name="You">You</string>
 	<string name="You_deleted_this_message">You deleted this message</string>
