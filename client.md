@@ -16,8 +16,8 @@
 | android | Accept | Accept | 接听  | 確認  | Terima | Terima |
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
-| iOS,android | Deselect_All | Deselect All |     |     |     |     |
-|     | Select_All | Select All |     |     |     |     |
+| iOS,android | Deselect_All | Deselect All | 取消选择所有 |     |     |     |
+|     | Select_All | Select All | 选择所有 |     |     |     |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
 | iOS,android | Setting_Chats | Chats | 聊天记录 |     |     |     |
 | iOS,android | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
