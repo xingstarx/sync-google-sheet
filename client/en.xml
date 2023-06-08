@@ -30,6 +30,7 @@
   <string name="All_dates" platform="iOS,android">All dates</string>
   <string name="Designated_Dates" platform="iOS,android">Designated Dates</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
+  <string name="Recent" platform="iOS,android">Recent</string>
   <string name="Setting_Chats" platform="iOS,android">Chats</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>
   <string name="Transfer_to_Another_Phone" platform="iOS,android">Transfer to Another Phone</string>
