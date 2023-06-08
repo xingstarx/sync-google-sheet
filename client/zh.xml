@@ -20,6 +20,9 @@
   <string name="Show Selected" platform="">显示选择（%1$s%）</string>
   <string name="Items_Selected_Counts" platform="">已选择 %1$s% 个</string>
   <string name="Items_Selected_Count" platform="">已选择 1 个</string>
+  <string name="All_chats" platform="">所有聊天</string>
+  <string name="Chats_Counts" platform="">%1$s% 个聊天</string>
+  <string name="Chats_Count" platform="">1 个聊天</string>
   <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
   <string name="Setting_Chats" platform="iOS,android">聊天记录</string>
   <string name="Transfer_to_PC" platform="iOS,android">备份到桌面端</string>

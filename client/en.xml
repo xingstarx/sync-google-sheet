@@ -20,6 +20,9 @@
   <string name="Show Selected" platform="">Show Selected(%1$s%)</string>
   <string name="Items_Selected_Counts" platform="">%1$s% Items Selected</string>
   <string name="Items_Selected_Count" platform="">1 Item Selected</string>
+  <string name="All_chats" platform="">All chats</string>
+  <string name="Chats_Counts" platform="">%1$s% chats</string>
+  <string name="Chats_Count" platform="">1 chat</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
   <string name="Setting_Chats" platform="iOS,android">Chats</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>

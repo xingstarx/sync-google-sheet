@@ -21,6 +21,9 @@
 |     | Show Selected | Show Selected(%1$s%) | 显示选择（%1$s%） |     |     |     |
 |     | Items_Selected_Counts | %1$s% Items Selected | 已选择 %1$s% 个 |     |     |     |
 |     | Items_Selected_Count | 1 Item Selected | 已选择 1 个 |     |     |     |
+|     | All_chats | All chats | 所有聊天 |     |     |     |
+|     | Chats_Counts | %1$s% chats | %1$s% 个聊天 |     |     |     |
+|     | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
 | iOS,android | Setting_Chats | Chats | 聊天记录 |     |     |     |
 | iOS,android | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
