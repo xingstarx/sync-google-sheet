@@ -15,6 +15,18 @@
   <string name="Accept" platform="android">Accept</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
+  <string name="Deselect_All" platform="iOS,android">Deselect All</string>
+  <string name="Select_All" platform="iOS,android">Select All</string>
+  <string name="Show Selected" platform="iOS,android">Show Selected(%1$s)</string>
+  <string name="Items_Selected_Counts" platform="iOS,android">%1$s Items Selected</string>
+  <string name="Items_Selected_Count" platform="iOS,android">1 Item Selected</string>
+  <string name="All_chats" platform="iOS,android">All chats</string>
+  <string name="Chats_Counts" platform="iOS,android">%1$s chats</string>
+  <string name="Chats_Count" platform="iOS,android">1 chat</string>
+  <string name="Last_year" platform="iOS,android">Last year</string>
+  <string name="Last_years" platform="iOS,android">Last %1$s  years</string>
+  <string name="Last_month" platform="iOS,android">Last month</string>
+  <string name="Last_months" platform="iOS,android">Last %1$s months</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
   <string name="Setting_Chats" platform="iOS,android">Chats</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>
@@ -1115,7 +1127,7 @@
   <string name="Reply" platform="android, iOS, Desktop">Reply</string>
   <string name="Report" platform="android, iOS, Desktop">Report</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">Report and block?</string>
-  <string name="report_title" platform="iOS">Send the conversation log to developers?</string>
+  <string name="report_title" platform="iOS, Desktop">Send the conversation log to developers?</string>
   <string name="Represent_Messages" platform="android, iOS">Represent Messages</string>
   <string name="Requests_access_to_your" platform="android">Requests access to your</string>
   <string name="Resend_code" platform="android, iOS, Desktop">Resend code</string>
@@ -1208,7 +1220,7 @@
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="Send_to_contact" platform="android">Send to contact</string>
-  <string name="Send_to_Developer" platform="iOS">Send to Developer</string>
+  <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
   <string name="Send_verification_code_frequent" platform="iOS">Send verification code too frequent, please try again later.</string>
