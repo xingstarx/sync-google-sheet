@@ -60,6 +60,7 @@
 "alert_key_group_transcript_message" = "%@ sent a transcript";
 "alert_key_group_video_message" = "%@ hantar video";
 "all" = "Semua";
+"all_chats" = "All chats";
 "all_conversations" = "Semua Perbualan";
 "all_photos" = "All Photos";
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
@@ -191,6 +192,8 @@
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Menunggu %1$@ untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$@.";
 "chats" = "SEMBANG";
+"chats_count" = "1 chat";
+"chats_counts" = "%@ chats";
 "choose_network" = "Choose Network";
 "choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Choose Photo";
@@ -316,6 +319,7 @@
 "deposit_tip_eos" = "Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll.";
 "deposit_tip_eth" = "Alamat ini menyokong semua token ERC-20, seperti ETH, XIN, dll.";
 "deposit_tip_trx" = "Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.";
+"deselect_all" = "Deselect All";
 "desktop_on_hint" = "You have your desktop logged in";
 "desktop_upgrade" = "Sila tingkatkan Mixin Messenger Desktop kepada versi terkini.";
 "detect_qr_tip" = "Mengesan kod QR Mixin, ketuk untuk mengenali";
@@ -479,6 +483,8 @@
 "invite_to_group_via_link" = "Jemput ke Kumpulan melalui Pautan";
 "invited_by_stranger" = "The inviter is not in your contacts";
 "invites_you_to_a_voice_call" = "tanya anda panggilan audio";
+"items_selected_count" = "1 Item Selected";
+"items_selected_counts" = "%@ Items Selected";
 "join_group" = "Join Group";
 "joined_in" = "Menyertai %@";
 "keep_network" = "Keep %@";
@@ -491,6 +497,10 @@
 "large_amount_confirmation_with_symbol" = "Pengesahan Jumlah Besar(%@)";
 "last_active_time" = "Last active %@";
 "last_backup_hint" = "Last backup on %@, total size %@.";
+"last_month" = "Last month";
+"last_months" = "Last %@ months";
+"last_year" = "Last year";
+"last_years" = "Last %@  years";
 "later" = "Kemudian";
 "learn_more" = "Ketahui Lebih Lanjut";
 "light" = "Light";
@@ -809,6 +819,7 @@
 "security" = "Keselamatan";
 "select" = "Pilih";
 "select_a_country_or_region" = "Select a Country or Region";
+"select_all" = "Select All";
 "select_emergency_contact" = "Pilih Kenalan Kecemasan";
 "select_more_photos" = "Select More Photos";
 "selected_count" = "%@ Selected";
@@ -885,6 +896,7 @@
 "show" = "Tunjuk";
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
+"show selected" = "Show Selected(%@)";
 "sign_by_pin" = "Sign by PIN";
 "sign_in" = "Log masuk";
 "sign_with_emergency_contact" = "Log masuk dengan kenalan kecemasan";

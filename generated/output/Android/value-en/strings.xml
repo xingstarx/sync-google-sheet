@@ -72,6 +72,7 @@
 	<string name="alert_key_group_transcript_message">%1$s sent a transcript</string>
 	<string name="alert_key_group_video_message">%1$s sent a video</string>
 	<string name="All">All</string>
+	<string name="All_chats">All chats</string>
 	<string name="All_Conversations">All Conversations</string>
 	<string name="All_Media">All Media</string>
 	<string name="All_signer_failure">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
@@ -215,6 +216,8 @@
 	<string name="Chat_unpinned">Chat unpinned</string>
 	<string name="chat_waiting">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
 	<string name="CHATS">CHATS</string>
+	<string name="Chats_Count">1 chat</string>
+	<string name="Chats_Counts">%1$s chats</string>
 	<string name="check_trace_failed">Check trace info failed, please try again</string>
 	<string name="Checking_link">Checking link</string>
 	<string name="Checking_payment_info">Checking payment info</string>
@@ -341,6 +344,7 @@
 	<string name="deposit_tip_eos">This address supports all base on EOS tokens.</string>
 	<string name="deposit_tip_eth">This address supports all ERC-20 tokens, such as ETH, XIN, etc.</string>
 	<string name="deposit_tip_trx">This address supports all TRC-10 and TRC-20 tokens.</string>
+	<string name="Deselect_All">Deselect All</string>
 	<string name="desktop">desktop</string>
 	<string name="desktop_login_no_pin">For your account security, please set up the PIN before logging into the desktop app.</string>
 	<string name="desktop_on_hint">You have your desktop logged in</string>
@@ -539,6 +543,8 @@
 	<string name="Invite_to_Mixin">Invite to Mixin</string>
 	<string name="is_network_available">isNetworkAvailable</string>
 	<string name="italic">italic</string>
+	<string name="Items_Selected_Count">1 Item Selected</string>
+	<string name="Items_Selected_Counts">%1$s Items Selected</string>
 	<string name="Join_group">Join Group</string>
 	<string name="Joined_in">Joined on %1$s</string>
 	<string name="keep_network">Keep %1$s</string>
@@ -557,6 +563,10 @@
 	<string name="Large_Amount_Confirmation">Large Amount Confirmation</string>
 	<string name="Large_Amount_Confirmation_with_symbol">Large Amount Confirmation(%1$s)</string>
 	<string name="Last_Backup">Last Backup</string>
+	<string name="Last_month">Last month</string>
+	<string name="Last_months">Last %1$s months</string>
+	<string name="Last_year">Last year</string>
+	<string name="Last_years">Last %1$s  years</string>
 	<string name="Later">Later</string>
 	<string name="Learn_More">Learn More</string>
 	<string name="Line_busy">Line busy</string>
@@ -885,6 +895,7 @@
 	<string name="Secured_by_TIP">Secured by TIP</string>
 	<string name="Security">Security</string>
 	<string name="Select">Select</string>
+	<string name="Select_All">Select All</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>
@@ -966,6 +977,7 @@
 	<string name="Show">Show</string>
 	<string name="Show_in_chat">Show in chat</string>
 	<string name="Shown">Shown</string>
+	<string name="Show Selected">Show Selected(%1$s)</string>
 	<string name="sign_by_pin">Sign by PIN</string>
 	<string name="Sign_in">Sign in</string>
 	<string name="Sign_in_desktop_app">Sign in desktop app</string>

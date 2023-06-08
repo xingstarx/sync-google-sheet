@@ -15,6 +15,18 @@
   <string name="Accept" platform="android">接聽</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通訊錄到 Mixin 發現更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止訪問</string>
+  <string name="Deselect_All" platform="iOS,android">取消所有選擇</string>
+  <string name="Select_All" platform="iOS,android">選擇所有</string>
+  <string name="Show Selected" platform="iOS,android">顯示選擇（%1$s）</string>
+  <string name="Items_Selected_Counts" platform="iOS,android">已選擇 %1$s 個</string>
+  <string name="Items_Selected_Count" platform="iOS,android">已選擇 1 個</string>
+  <string name="All_chats" platform="iOS,android">所有聊天</string>
+  <string name="Chats_Counts" platform="iOS,android">%1$s 個聊天</string>
+  <string name="Chats_Count" platform="iOS,android">1 個聊天</string>
+  <string name="Last_year" platform="iOS,android">最近一年</string>
+  <string name="Last_years" platform="iOS,android">最近 %1$s 年</string>
+  <string name="Last_month" platform="iOS,android">最近一個月</string>
+  <string name="Last_months" platform="iOS,android">最近 %1$s 個月</string>
   <string name="Access_to_Contacts" platform="iOS,android">訪問通訊錄</string>
   <string name="Setting_Chats" platform="iOS,android">聊天記錄</string>
   <string name="Transfer_to_PC" platform="iOS,android">備份到桌面端</string>
@@ -1098,7 +1110,7 @@
   <string name="Reply" platform="android, iOS, Desktop">回覆</string>
   <string name="Report" platform="android, iOS, Desktop">舉報</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">舉報並封鎖？</string>
-  <string name="report_title" platform="iOS">給開發人員傳送聊天日誌？</string>
+  <string name="report_title" platform="iOS, Desktop">給開發人員傳送聊天日誌？</string>
   <string name="Represent_Messages" platform="android, iOS">代發訊息</string>
   <string name="Requests_access_to_your" platform="android">需要訪問你的</string>
   <string name="Resend_code" platform="android, iOS, Desktop">重發驗證碼</string>
@@ -1190,7 +1202,7 @@
   <string name="Send_This_Location" platform="android, iOS">傳送這個位置</string>
   <string name="send_to" platform="android, iOS">傳送給 %1$s</string>
   <string name="Send_to_contact" platform="android">轉賬給聯絡人</string>
-  <string name="Send_to_Developer" platform="iOS">把日誌發給開發者</string>
+  <string name="Send_to_Developer" platform="iOS, Desktop">把日誌發給開發者</string>
   <string name="Send_To_Title" platform="iOS">轉給</string>
   <string name="Send_transfer" platform="android">轉出</string>
   <string name="Send_verification_code_frequent" platform="iOS">傳送驗證碼太頻繁，請稍後再試</string>

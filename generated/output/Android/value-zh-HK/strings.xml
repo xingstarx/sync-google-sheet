@@ -72,6 +72,7 @@
 	<string name="alert_key_group_transcript_message">%1$s分享一個聊天記錄</string>
 	<string name="alert_key_group_video_message">%1$s發送一個視頻</string>
 	<string name="All">全部</string>
+	<string name="All_chats">所有聊天</string>
 	<string name="All_Conversations">所有會話</string>
 	<string name="All_Media">全部</string>
 	<string name="All_signer_failure">所有節點失敗，也許PIN 跟上次意外退出時設置的不一致</string>
@@ -210,6 +211,8 @@
 	<string name="Chat_unpinned">置頂會話已取消</string>
 	<string name="chat_waiting">等待%1$s上線後建立加密會話。%2$s。</string>
 	<string name="CHATS">會話</string>
+	<string name="Chats_Count">1 個聊天</string>
+	<string name="Chats_Counts">%1$s 個聊天</string>
 	<string name="check_trace_failed">檢查支付信息失敗，請重試</string>
 	<string name="Checking_link">正在檢查鏈接</string>
 	<string name="Checking_payment_info">請檢查支付信息</string>
@@ -333,6 +336,7 @@
 	<string name="deposit_tip_eos">支持所有基於EOS 發行的代幣。</string>
 	<string name="deposit_tip_eth">支持所有符合ERC - 20 標準的代幣，例如ETH 、 XIN 等。</string>
 	<string name="deposit_tip_trx">支持TRX 和所有符合TRC - 10 、 TRC - 20 標準的代幣。</string>
+	<string name="Deselect_All">取消所有選擇</string>
 	<string name="desktop">桌面端</string>
 	<string name="desktop_login_no_pin">為了您的安全，登錄桌面前請先設置PIN 碼！</string>
 	<string name="desktop_on_hint">桌面版已登入。</string>
@@ -529,6 +533,8 @@
 	<string name="Invite_to_Mixin">邀請至Mixin</string>
 	<string name="is_network_available">網絡已連接</string>
 	<string name="italic">斜體</string>
+	<string name="Items_Selected_Count">已選擇1 個</string>
+	<string name="Items_Selected_Counts">已選擇 %1$s 個</string>
 	<string name="Join_group">加入羣組</string>
 	<string name="Joined_in">%1$s 加入</string>
 	<string name="keep_network">留在 %1$s</string>
@@ -543,6 +549,10 @@
 	<string name="Large_Amount_Confirmation">大額轉賬確認</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大額轉賬確認（%1$s）</string>
 	<string name="Last_Backup">上次備份</string>
+	<string name="Last_month">最近一個月</string>
+	<string name="Last_months">最近 %1$s 個月</string>
+	<string name="Last_year">最近一年</string>
+	<string name="Last_years">最近 %1$s 年</string>
 	<string name="Later">稍後</string>
 	<string name="Learn_More">瞭解更多</string>
 	<string name="Line_busy">忙線未接聽</string>
@@ -867,6 +877,7 @@
 	<string name="Secured_by_TIP">由TIP 提供安全保障</string>
 	<string name="Security">安全</string>
 	<string name="Select">選擇</string>
+	<string name="Select_All">選擇所有</string>
 	<string name="Select_Emergency_Contact">選擇緊急聯繫人</string>
 	<string name="Send">發送</string>
 	<string name="Send_as_file">按檔案發送</string>
@@ -947,6 +958,7 @@
 	<string name="Show">顯示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
 	<string name="Shown">顯示</string>
+	<string name="Show Selected">顯示選擇（%1$s）</string>
 	<string name="sign_by_pin">使用PIN 簽名</string>
 	<string name="Sign_in">登錄</string>
 	<string name="Sign_in_desktop_app">登錄桌面端</string>

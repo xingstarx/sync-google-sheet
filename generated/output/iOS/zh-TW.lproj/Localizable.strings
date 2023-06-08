@@ -60,6 +60,7 @@
 "alert_key_group_transcript_message" = "%@分享一個聊天記錄";
 "alert_key_group_video_message" = "%@傳送一個影片";
 "all" = "全部";
+"all_chats" = "所有聊天";
 "all_conversations" = "所有會話";
 "all_photos" = "所有照片";
 "all_signer_failure" = "所有節點失敗，也許PIN 跟上次意外退出時設定的不一致";
@@ -191,6 +192,8 @@
 "chat_text_size" = "聊天字型大小";
 "chat_waiting" = "等待%1$@上線後建立加密會話。%2$@。";
 "chats" = "會話";
+"chats_count" = "1 個聊天";
+"chats_counts" = "%@ 個聊天";
 "choose_network" = "選擇充值網路";
 "choose_network_tip" = "請選擇Mixin 支援的網路進行充值，否則您的充值將不會到賬。";
 "choose_photo" = "選擇照片";
@@ -315,6 +318,7 @@
 "deposit_tip_eos" = "支援所有基於EOS 發行的代幣。";
 "deposit_tip_eth" = "支援所有符合ERC - 20 標準的代幣，例如ETH 、 XIN 等。";
 "deposit_tip_trx" = "支援TRX 和所有符合TRC - 10 、 TRC - 20 標準的代幣。";
+"deselect_all" = "取消所有選擇";
 "desktop_on_hint" = "桌面版已登入。";
 "desktop_upgrade" = "請升級Mixin Messenger 桌面端至最新版！";
 "detect_qr_tip" = "檢測到一個Mixin 二維碼，點選識別";
@@ -478,6 +482,8 @@
 "invite_to_group_via_link" = "群邀請連結";
 "invited_by_stranger" = "邀請人不是你的聯絡人";
 "invites_you_to_a_voice_call" = "發起了語音通話";
+"items_selected_count" = "已選擇1 個";
+"items_selected_counts" = "已選擇 %@ 個";
 "join_group" = "加入群組";
 "joined_in" = "%@ 加入";
 "keep_network" = "留在 %@";
@@ -490,6 +496,10 @@
 "large_amount_confirmation_with_symbol" = "大額轉賬確認（%@）";
 "last_active_time" = "最後登入於 %@";
 "last_backup_hint" = "上次備份是 %@，佔用空間 %@。";
+"last_month" = "最近一個月";
+"last_months" = "最近 %@ 個月";
+"last_year" = "最近一年";
+"last_years" = "最近 %@ 年";
 "later" = "稍後";
 "learn_more" = "瞭解更多";
 "light" = "淺色";
@@ -808,6 +818,7 @@
 "security" = "安全";
 "select" = "選擇";
 "select_a_country_or_region" = "選擇一個國家或地區";
+"select_all" = "選擇所有";
 "select_emergency_contact" = "選擇緊急聯絡人";
 "select_more_photos" = "選擇更多照片";
 "selected_count" = "選擇了 %@ 個訊息";
@@ -884,6 +895,7 @@
 "show" = "顯示";
 "show_asset" = "顯示資產";
 "show_in_chat" = "在聊天中展示";
+"show selected" = "顯示選擇（%@）";
 "sign_by_pin" = "使用PIN 簽名";
 "sign_in" = "登入";
 "sign_with_emergency_contact" = "透過緊急聯絡人登入";

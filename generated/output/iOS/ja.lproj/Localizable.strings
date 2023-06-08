@@ -60,6 +60,7 @@
 "alert_key_group_transcript_message" = "%@がメッセージ履歴を共有しました";
 "alert_key_group_video_message" = "%@が動画を送信しました";
 "all" = "すべて";
+"all_chats" = "All chats";
 "all_conversations" = "すべてのチャットルーム";
 "all_photos" = "全ての画像";
 "all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
@@ -191,6 +192,8 @@
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "オンラインで暗号化されたやりとりを開始するまであと%1$@。%2$@";
 "chats" = "チャット";
+"chats_count" = "1 chat";
+"chats_counts" = "%@ chats";
 "choose_network" = "Choose Network";
 "choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "画像を選ぶ";
@@ -315,6 +318,7 @@
 "deposit_tip_eos" = "このアドレスはEOSベースの全てのトークンをサポートしています";
 "deposit_tip_eth" = "このアドレスはETHやXINなど全てのERC-20トークンをサポートしています";
 "deposit_tip_trx" = "このアドレスは全てのTRC-10/TRC-20トークンをサポートしています";
+"deselect_all" = "Deselect All";
 "desktop_on_hint" = "デスクトップにログインしています";
 "desktop_upgrade" = "デスクトップ版Mixinを最新バージョンにアップデートしてください";
 "detect_qr_tip" = "Mixin QRコードを検出しました、タップしてアクセスします";
@@ -478,6 +482,8 @@
 "invite_to_group_via_link" = "リンクを使って招待する";
 "invited_by_stranger" = "招待者はあなたの連絡先に存在しません";
 "invites_you_to_a_voice_call" = "グループ通話に招待されました";
+"items_selected_count" = "1 Item Selected";
+"items_selected_counts" = "%@ Items Selected";
 "join_group" = "グループに参加";
 "joined_in" = "%@からMixinを利用しています";
 "keep_network" = "Keep %@";
@@ -490,6 +496,10 @@
 "large_amount_confirmation_with_symbol" = "送金時に通知を行う金額の設定（%@）";
 "last_active_time" = "直近のアクティビティ%@";
 "last_backup_hint" = "最後に行ったバックアップ %@, 合計サイズ %@.";
+"last_month" = "Last month";
+"last_months" = "Last %@ months";
+"last_year" = "Last year";
+"last_years" = "Last %@  years";
 "later" = "後で";
 "learn_more" = "こちら";
 "light" = "ダーク";
@@ -808,6 +818,7 @@
 "security" = "セキュリティ";
 "select" = "選択";
 "select_a_country_or_region" = "国と地域を選択";
+"select_all" = "Select All";
 "select_emergency_contact" = "緊急連絡先を選択";
 "select_more_photos" = "さらに選択";
 "selected_count" = "%@を選択しています。";
@@ -884,6 +895,7 @@
 "show" = "表示";
 "show_asset" = "資産を表示する";
 "show_in_chat" = "チャット内で表示";
+"show selected" = "Show Selected(%@)";
 "sign_by_pin" = "Sign by PIN";
 "sign_in" = "ログイン";
 "sign_with_emergency_contact" = "緊急連絡先でログイン";
