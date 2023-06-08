@@ -16,13 +16,17 @@
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Deselect_All" platform="iOS,android">Deselect All</string>
-  <string name="Select_All" platform="">Select All</string>
-  <string name="Show Selected" platform="">Show Selected(%1$s%)</string>
-  <string name="Items_Selected_Counts" platform="">%1$s% Items Selected</string>
-  <string name="Items_Selected_Count" platform="">1 Item Selected</string>
-  <string name="All_chats" platform="">All chats</string>
-  <string name="Chats_Counts" platform="">%1$s% chats</string>
-  <string name="Chats_Count" platform="">1 chat</string>
+  <string name="Select_All" platform="iOS,android">Select All</string>
+  <string name="Show Selected" platform="iOS,android">Show Selected(%1$s)</string>
+  <string name="Items_Selected_Counts" platform="iOS,android">%1$s Items Selected</string>
+  <string name="Items_Selected_Count" platform="iOS,android">1 Item Selected</string>
+  <string name="All_chats" platform="iOS,android">All chats</string>
+  <string name="Chats_Counts" platform="iOS,android">%1$s chats</string>
+  <string name="Chats_Count" platform="iOS,android">1 chat</string>
+  <string name="Last_year" platform="iOS,android">Last year</string>
+  <string name="Last_years" platform="iOS,android">Last %1$s  years</string>
+  <string name="Last_month" platform="iOS,android">Last month</string>
+  <string name="Last_months" platform="iOS,android">Last %1$s months</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
   <string name="Setting_Chats" platform="iOS,android">Chats</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>

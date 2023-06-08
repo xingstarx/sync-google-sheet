@@ -16,14 +16,18 @@
 | android | Accept | Accept | 接听  | 確認  | Terima | Terima |
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
-| iOS,android | Deselect_All | Deselect All | 取消选择所有 |     |     |     |
-|     | Select_All | Select All | 选择所有 |     |     |     |
-|     | Show Selected | Show Selected(%1$s%) | 显示选择（%1$s%） |     |     |     |
-|     | Items_Selected_Counts | %1$s% Items Selected | 已选择 %1$s% 个 |     |     |     |
-|     | Items_Selected_Count | 1 Item Selected | 已选择 1 个 |     |     |     |
-|     | All_chats | All chats | 所有聊天 |     |     |     |
-|     | Chats_Counts | %1$s% chats | %1$s% 个聊天 |     |     |     |
-|     | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
+| iOS,android | Deselect_All | Deselect All | 取消所有选择 |     |     |     |
+| iOS,android | Select_All | Select All | 选择所有 |     |     |     |
+| iOS,android | Show Selected | Show Selected(%1$s) | 显示选择（%1$s） |     |     |     |
+| iOS,android | Items_Selected_Counts | %1$s Items Selected | 已选择 %1$s 个 |     |     |     |
+| iOS,android | Items_Selected_Count | 1 Item Selected | 已选择 1 个 |     |     |     |
+| iOS,android | All_chats | All chats | 所有聊天 |     |     |     |
+| iOS,android | Chats_Counts | %1$s chats | %1$s 个聊天 |     |     |     |
+| iOS,android | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
+| iOS,android | Last_year | Last year | 最近一年 |     |     |     |
+| iOS,android | Last_years | Last %1$s  years | 最近 %1$s 年 |     |     |     |
+| iOS,android | Last_month | Last month | 最近一个月 |     |     |     |
+| iOS,android | Last_months | Last %1$s months | 最近 %1$s 个月 |     |     |     |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
 | iOS,android | Setting_Chats | Chats | 聊天记录 |     |     |     |
 | iOS,android | Transfer_to_PC | Transfer to PC | 备份到桌面端 |     |     |     |
