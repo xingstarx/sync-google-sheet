@@ -338,7 +338,7 @@
 	<string name="deposit_tip_eth">支持所有符合ERC - 20 标准的代币，例如ETH 、 XIN 等。</string>
 	<string name="deposit_tip_trx">支持TRX 和所有符合TRC - 10 、 TRC - 20 标准的代币。</string>
 	<string name="Deselect_All">取消所有选择</string>
-	<string name="Designated_time_frame">指定时间段</string>
+	<string name="Designated_time_period">指定时间段</string>
 	<string name="desktop">桌面端</string>
 	<string name="desktop_login_no_pin">为了您的安全，登录桌面前请先设置PIN 码！</string>
 	<string name="desktop_on_hint">桌面版已登入。</string>

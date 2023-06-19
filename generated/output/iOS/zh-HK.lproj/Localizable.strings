@@ -320,7 +320,7 @@
 "deposit_tip_eth" = "支持所有符合ERC - 20 標準的代幣，例如ETH 、 XIN 等。";
 "deposit_tip_trx" = "支持TRX 和所有符合TRC - 10 、 TRC - 20 標準的代幣。";
 "deselect_all" = "取消所有選擇";
-"designated_time_frame" = "指定時間段";
+"designated_time_period" = "指定時間段";
 "desktop_on_hint" = "桌面版已登入。";
 "desktop_upgrade" = "請升級Mixin Messenger 桌面端至最新版！";
 "detect_qr_tip" = "檢測到一個Mixin 二維碼，點擊識別";
