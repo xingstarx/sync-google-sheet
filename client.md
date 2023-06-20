@@ -16,8 +16,8 @@
 | android | Accept | Accept | 接听  | 確認  | Terima | Terima |
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
-| iOS |     | Storage almost full | 存储空间几乎已满 |     |     |     |
-| iOS |     |     |     |     |     |     |
+| iOS | Storage_almost_full | Storage almost full | 存储空间几乎已满 |     |     |     |
+| iOS |     | You can free up storage by deleting items that are large or have been forwarded many times. | 您可以通过删除大型或已被多次转发的项目来释放存储空间。 |     |     |     |
 | iOS,android | Deselect_All | Deselect All | 取消所有选择 |     |     |     |
 | iOS,android | Select_All | Select All | 选择所有 |     |     |     |
 | iOS,android | Show Selected | Show Selected(%1$s) | 显示选择（%1$s） |     |     |     |
