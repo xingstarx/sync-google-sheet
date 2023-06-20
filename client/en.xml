@@ -16,7 +16,8 @@
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Storage_almost_full" platform="iOS">Storage almost full</string>
-  <string name="" platform="iOS">You can free up storage by deleting items that are large or have been forwarded many times.</string>
+  <string name="Storage_almost_full_tip" platform="iOS">You can free up storage by deleting items that are large or have been forwarded many times.</string>
+  <string name="View_Storage" platform="iOS">View Storage</string>
   <string name="Deselect_All" platform="iOS,android">Deselect All</string>
   <string name="Select_All" platform="iOS,android">Select All</string>
   <string name="Show Selected" platform="iOS,android">Show Selected(%1$s)</string>
