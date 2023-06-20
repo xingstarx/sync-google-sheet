@@ -15,6 +15,9 @@
   <string name="Accept" platform="android">接聽</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通訊錄到 Mixin 發現更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止訪問</string>
+  <string name="Storage_almost_full" platform="iOS">儲存空間幾乎已滿</string>
+  <string name="Storage_almost_full_tip" platform="iOS">您可以透過刪除大的或已被多次轉發的專案來釋放儲存空間。</string>
+  <string name="View_Storage" platform="iOS">檢視儲存空間</string>
   <string name="Deselect_All" platform="iOS,android">取消所有選擇</string>
   <string name="Select_All" platform="iOS,android">選擇所有</string>
   <string name="Show Selected" platform="iOS,android">顯示選擇（%1$s）</string>

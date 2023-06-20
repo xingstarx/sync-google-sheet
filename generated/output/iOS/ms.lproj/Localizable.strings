@@ -927,6 +927,8 @@
 "stop_playing" = "Berhenti bermain";
 "stop_playing_this_list" = "Stop playing this list?";
 "stop_syncing_hint" = "Do you want to stop syncing chat history?";
+"storage_almost_full" = "Storage almost full";
+"storage_almost_full_tip" = "You can free up storage by deleting items that are large or have been forwarded many times.";
 "storage_usage" = "Penggunaan Storan";
 "stranger_hint" = "This sender is not in your contacts";
 "successful" = "Berjaya";
@@ -1056,6 +1058,7 @@
 "videos" = "Video";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "Lihat kenalan kecemasan";
+"view_storage" = "View Storage";
 "view_wallet" = "View Wallet";
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";
