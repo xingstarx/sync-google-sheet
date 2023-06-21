@@ -1138,7 +1138,7 @@
   <string name="restore_path" platform="android">備份路徑：%1$s</string>
   <string name="Restoring" platform="android, iOS">正在恢復...</string>
   <string name="Restoring_progress" platform="iOS">正在恢復 %@</string>
-  <string name="Retry" platform="android,iOS">重試</string>
+  <string name="Retry" platform="android, iOS, Desktop">重試</string>
   <string name="Retry_upload_failed" platform="android, Desktop">重新上傳失敗。</string>
   <string name="Revoke_access" platform="android, iOS">取消授權</string>
   <string name="Revoke_multisig_transaction" platform="android, iOS, Desktop">撤銷多重簽名交易</string>

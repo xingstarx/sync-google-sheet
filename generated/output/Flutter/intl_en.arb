@@ -327,6 +327,7 @@
 "resendCodeIn" : "Resend code in {arg0} s",
 "reset" : "Reset",
 "resetLink" : "Reset Link",
+"retry" : "Retry",
 "retryUploadFailed" : "Retry upload failed.",
 "revokeMultisigTransaction" : "Revoke Multisig Transaction",
 "save" : "Save",

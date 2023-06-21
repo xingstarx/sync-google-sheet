@@ -313,6 +313,7 @@
 "resendCodeIn" : "Reenviar código en {arg0} s",
 "reset" : "Reiniciar",
 "resetLink" : "Restablecer enlace",
+"retry" : "Reintentar",
 "retryUploadFailed" : "Reintentar carga fallida.",
 "revokeMultisigTransaction" : "Revocar transacción multigrado",
 "save" : "Guardar",

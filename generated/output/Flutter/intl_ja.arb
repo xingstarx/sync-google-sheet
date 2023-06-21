@@ -294,6 +294,7 @@
 "resendCodeIn" : "{arg0}秒後にコードを再送",
 "reset" : "リセット",
 "resetLink" : "リンクを取り消す",
+"retry" : "リトライ",
 "retryUploadFailed" : "アップロードの再試行に失敗しました。",
 "revokeMultisigTransaction" : "マルチシグトランザクションを取り消す",
 "save" : "保存",
