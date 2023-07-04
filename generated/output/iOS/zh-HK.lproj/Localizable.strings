@@ -152,7 +152,6 @@
 "card" = "卡片";
 "category_chats" = "最近聊天";
 "chain" = "所屬公鏈";
-"chain_not_supported" = "不支持此網絡";
 "change" = "更改";
 "change_amount" = "修改金額";
 "change_emergency_contact" = "修改緊急聯繫人";
@@ -414,7 +413,6 @@
 "failed_to_send_location" = "發送位置失敗，請稍後重試";
 "failed_to_send_photo" = "發送圖片失敗，請稍後重試";
 "failed_to_send_video" = "發送視頻失敗，請稍後重試";
-"failed_to_switch_network" = "切換網絡失敗: %@";
 "fast" = "快速";
 "fee" = "手續費";
 "feedback" = "反饋";
@@ -488,7 +486,6 @@
 "items_selected_counts" = "已選擇 %@ 個";
 "join_group" = "加入羣組";
 "joined_in" = "%@ 加入";
-"keep_network" = "留在 %@";
 "keep_running_foreground" = "不要關閉屏幕並保持Mixin 在前台運行";
 "label" = "標題";
 "landing_delete_content" = "您的賬户將於 %@ 被刪除，如果您繼續登錄，刪除您賬户的請求將被取消。";
@@ -579,7 +576,6 @@
 "network" = "網絡";
 "network_connection_lost" = "網絡連接超時，請檢查網絡稍後重試";
 "network_fee" = "網絡費用";
-"network_switched" = "已切換網絡";
 "never_auto_download" = "關閉";
 "new_chat" = "新聊天";
 "new_group" = "新建羣組";
@@ -766,7 +762,6 @@
 "request_authorization" = "請求授權";
 "request_rejected" = "請求已拒絕";
 "request_rejected_reason_another_request_in_process" = "正在處理另一請求，請完成當前請求後重試";
-"requests_switching_to_network" = "%1$@ 請求切換到 %2$@";
 "resend_code" = "重發驗證碼";
 "resend_code_pending" = "%@ 後重新發送驗證碼";
 "reset_link" = "重置邀請鏈接";
@@ -932,8 +927,6 @@
 "stranger_hint" = "對方不是你的聯繫人";
 "successful" = "成功";
 "suspicious_link" = "可疑鏈接";
-"switch_network" = "切換網絡";
-"switch_to_network" = "切換到 %@";
 "symbol" = "符號";
 "symbol_withdrawal" = "%@ 提現";
 "syncing_and_verifying_tip" = "正在驗證並同步密鑰分片到TIP 網絡，請保持應用在前台，設置過程中不要強制關閉應用";

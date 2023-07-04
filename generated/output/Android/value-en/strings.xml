@@ -166,7 +166,6 @@
 	<string name="cant_transfer_self">You can\'t transfer to yourself</string>
 	<string name="Card">Card</string>
 	<string name="Chain">Chain</string>
-	<string name="chain_not_supported">Chain not supported</string>
 	<string name="Change">Change</string>
 	<string name="Change_Amount">Change Amount</string>
 	<string name="Change_emergency_contact">Change emergency contact</string>
@@ -466,7 +465,6 @@
 	<string name="Export_Markdown">Export Markdown</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
-	<string name="failed_to_switch_network">Failed to switch network: %1$s</string>
 	<string name="Failure">Failure</string>
 	<string name="fast">Fast</string>
 	<string name="Fee">Fee</string>
@@ -549,7 +547,6 @@
 	<string name="Items_Selected_Counts">%1$s Items Selected</string>
 	<string name="Join_group">Join Group</string>
 	<string name="Joined_in">Joined on %1$s</string>
-	<string name="keep_network">Keep %1$s</string>
 	<string name="Keep_Running_Foreground">Please do not close the screen and keep Mixin running in the foreground</string>
 	<string name="Label">Label</string>
 	<string name="Landing_back">Landing back</string>
@@ -657,7 +654,6 @@
 	<string name="Network_error">Network error</string>
 	<string name="network_fee">Network Fee</string>
 	<string name="Network_Operator">Network Operator</string>
-	<string name="network_switched">Network Switched</string>
 	<string name="Network_Type">Network Type</string>
 	<string name="Network_unavailable">Network unavailable</string>
 	<string name="Never">Never</string>
@@ -836,7 +832,6 @@
 	<string name="request_rejected">Request Rejected</string>
 	<string name="request_rejected_reason_another_request_in_process">Another request is in process, please retry after current request is finished</string>
 	<string name="Requests_access_to_your">Requests access to your</string>
-	<string name="requests_switching_to_network">%1$s requests switching to %2$s</string>
 	<string name="Resend_code">Resend code</string>
 	<string name="Resend_code_in">Resend code in %1$d s</string>
 	<string name="reset">Reset</string>
@@ -1018,8 +1013,6 @@
 	<string name="Successful">Successful</string>
 	<string name="Sunday">Sunday</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
-	<string name="switch_network">Switch Network</string>
-	<string name="switch_to_network">Switch to %1$s</string>
 	<string name="Switching_currency">Switching currency</string>
 	<string name="Symbol">Symbol</string>
 	<string name="symbol_withdrawal">%1$s Withdrawal</string>

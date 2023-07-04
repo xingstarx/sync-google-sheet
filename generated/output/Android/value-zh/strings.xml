@@ -164,7 +164,6 @@
 	<string name="cant_transfer_self">不能给自己转账</string>
 	<string name="Card">卡片</string>
 	<string name="Chain">所属公链</string>
-	<string name="chain_not_supported">不支持此网络</string>
 	<string name="Change">更改</string>
 	<string name="Change_Amount">修改金额</string>
 	<string name="Change_emergency_contact">修改紧急联系人</string>
@@ -457,7 +456,6 @@
 	<string name="Export_Markdown">导出为Markdown</string>
 	<string name="Export_PDF">导出为PDF</string>
 	<string name="Extract_QR_Code">识别二维码</string>
-	<string name="failed_to_switch_network">切换网络失败: %1$s</string>
 	<string name="Failure">错误</string>
 	<string name="fast">快速</string>
 	<string name="Fee">手续费</string>
@@ -539,7 +537,6 @@
 	<string name="Items_Selected_Counts">已选择 %1$s 个</string>
 	<string name="Join_group">加入群组</string>
 	<string name="Joined_in">%1$s 加入</string>
-	<string name="keep_network">留在 %1$s</string>
 	<string name="Keep_Running_Foreground">不要关闭屏幕并保持Mixin 在前台运行</string>
 	<string name="Label">标题</string>
 	<string name="landing_delete_content">您的账户将于 %1$s 被删除，如果您继续登录，删除您账户的请求将被取消。</string>
@@ -641,7 +638,6 @@
 	<string name="Network_error">网络错误</string>
 	<string name="network_fee">网络费用</string>
 	<string name="Network_Operator">网络运营商</string>
-	<string name="network_switched">已切换网络</string>
 	<string name="Network_Type">网络类型</string>
 	<string name="Network_unavailable">网络连接不可用</string>
 	<string name="Never">从未备份</string>
@@ -819,7 +815,6 @@
 	<string name="request_rejected">请求已拒绝</string>
 	<string name="request_rejected_reason_another_request_in_process">正在处理另一请求，请完成当前请求后重试</string>
 	<string name="Requests_access_to_your">需要访问你的</string>
-	<string name="requests_switching_to_network">%1$s 请求切换到 %2$s</string>
 	<string name="Resend_code">重发验证码</string>
 	<string name="Resend_code_in">%1$d 秒后重新发送验证码</string>
 	<string name="reset">重置</string>
@@ -999,8 +994,6 @@
 	<string name="Successful">成功</string>
 	<string name="Sunday">星期日</string>
 	<string name="Suspicious_Link">可疑链接</string>
-	<string name="switch_network">切换网络</string>
-	<string name="switch_to_network">切换到 %1$s</string>
 	<string name="Switching_currency">切换货币中</string>
 	<string name="Symbol">符号</string>
 	<string name="symbol_withdrawal">%1$s 提现</string>

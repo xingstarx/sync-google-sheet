@@ -152,7 +152,6 @@
 "card" = "card";
 "category_chats" = "Chats";
 "chain" = "Rantai";
-"chain_not_supported" = "Chain not supported";
 "change" = "Ubah";
 "change_amount" = "Tukar Jumlah";
 "change_emergency_contact" = "Tukar kenalan kecemasan";
@@ -415,7 +414,6 @@
 "failed_to_send_location" = "Failed to send location";
 "failed_to_send_photo" = "Failed to send photo";
 "failed_to_send_video" = "Failed to send video";
-"failed_to_switch_network" = "Failed to switch network: %@";
 "fast" = "Fast";
 "fee" = "Bayaran";
 "feedback" = "Maklum balas";
@@ -489,7 +487,6 @@
 "items_selected_counts" = "%@ Items Selected";
 "join_group" = "Join Group";
 "joined_in" = "Menyertai %@";
-"keep_network" = "Keep %@";
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";
 "label" = "Label";
 "landing_delete_content" = "Your account will be deleted on %@, if you continue to log in, the request to delete your account will be cancelled.";
@@ -580,7 +577,6 @@
 "network" = "Network";
 "network_connection_lost" = "The network connection was lost, please check your network and try again later";
 "network_fee" = "Network Fee";
-"network_switched" = "Network Switched";
 "never_auto_download" = "Never";
 "new_chat" = "New Chat";
 "new_group" = "Kumpulan Baharu";
@@ -767,7 +763,6 @@
 "request_authorization" = "Request Authorization";
 "request_rejected" = "Request Rejected";
 "request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
-"requests_switching_to_network" = "%1$@ requests switching to %2$@";
 "resend_code" = "Hantar semula kod";
 "resend_code_pending" = "Hantar semula kod dalam %d s";
 "reset_link" = "Reset Link";
@@ -933,8 +928,6 @@
 "stranger_hint" = "This sender is not in your contacts";
 "successful" = "Berjaya";
 "suspicious_link" = "Pautan yang mencurigakan";
-"switch_network" = "Switch Network";
-"switch_to_network" = "Switch to %@";
 "symbol" = "Simbol";
 "symbol_withdrawal" = "%@ Withdrawal";
 "syncing_and_verifying_tip" = "Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.";
