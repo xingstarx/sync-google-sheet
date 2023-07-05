@@ -1602,5 +1602,10 @@
   <string name="port" platform="desktop">端口号</string>
   <string name="username" platform="desktop">用户名</string>
   <string name="password" platform="desktop">密码</string>
-  <string name="unknow_error" platform="desktop">未知错误</string>
+  <string name="unknow_error" platform="Desktop">未知错误</string>
+  <string name="passcode_incorrect" platform="Desktop">密码不正确</string>
+  <string name="unlock_with_wasscode" platform="Desktop">输入密码解锁 Mixin Messenger</string>
+  <string name="screen_passcode" platform="Desktop">锁屏密码</string>
+  <string name="set_passcode_desc" platform="Desktop">设置解锁密码</string>
+  <string name="confirm_passcode_desc" platform="Desktop">再次确认密码</string>
 </resources>

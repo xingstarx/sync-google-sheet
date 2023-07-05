@@ -1630,4 +1630,9 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
-| desktop | unknow_error | Unknow error | 未知错误 |     |     |     |
+| Desktop | unknow_error | Unknow error | 未知错误 |     |     |     |
+| Desktop | passcode_incorrect | Passcode incorrect | 密码不正确 |     |     |     |
+| Desktop | unlock_with_wasscode | Enter Passcode to unlock Mixin Messenger | 输入密码解锁 Mixin Messenger |     |     |     |
+| Desktop | screen_passcode | Screen Passcode | 锁屏密码 |     |     |     |
+| Desktop | set_passcode_desc | Set Passcode to unlock Mixin Messenger | 设置解锁密码 |     |     |     |
+| Desktop | confirm_passcode_desc | Enter again to confirm the passcode | 再次确认密码 |     |     |     |

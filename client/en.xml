@@ -1629,5 +1629,10 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
-  <string name="unknow_error" platform="desktop">Unknow error</string>
+  <string name="unknow_error" platform="Desktop">Unknow error</string>
+  <string name="passcode_incorrect" platform="Desktop">Passcode incorrect</string>
+  <string name="unlock_with_wasscode" platform="Desktop">Enter Passcode to unlock Mixin Messenger</string>
+  <string name="screen_passcode" platform="Desktop">Screen Passcode</string>
+  <string name="set_passcode_desc" platform="Desktop">Set Passcode to unlock Mixin Messenger</string>
+  <string name="confirm_passcode_desc" platform="Desktop">Enter again to confirm the passcode</string>
 </resources>
