@@ -1202,7 +1202,7 @@
 | android | Searching | Searching | 搜索中 | 検索中 | Mencari | Mencari |
 | android,iOS | Secured_by_TIP | Secured by TIP | 由 TIP 提供安全保障 |     |     |     |
 | android, Desktop | secret_url | https://mixin.one/pages/1000007 |     | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 |
-| android, iOS | Security | Security | 安全  | セキュリティ | Keselamatan | Keamanan |
+| android, iOS, Desktop | Security | Security | 安全  | セキュリティ | Keselamatan | Keamanan |
 | android, iOS, Desktop | Select | Select | 选择  | 選択  | Pilih | Pilih |
 | iOS | Select_a_country_or_region | Select a Country or Region | 选择一个国家或地区 | 国と地域を選択 |     |     |
 | android, iOS | Select_Emergency_Contact | Select Emergency Contact | 选择紧急联系人 | 緊急連絡先を選択 | Pilih Kenalan Kecemasan | Pilih Kontak Darurat |
@@ -1609,25 +1609,30 @@
 | iOS, android | fast | Fast | 快速  | 高速  |     |     |
 | iOS, android | normal | Normal | 普通  | 通常  |     |     |
 | iOS, android | slow | Slow | 缓慢  | 低速  |     |     |
-| desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
-| desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
-| desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
-| desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
-| desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
-| desktop, iOS, android | transfer_failed | Transfer failed | 同步失败 |     |     |     |
-| desktop, iOS, android | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
-| desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
-| desktop | proxy | Proxy | 代理  |     |     |     |
-| desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
-| desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
-| desktop | proxy_connection | Connection | 连接  |     |     |     |
-| desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
-| desktop | host | Host | 主机名 |     |     |     |
-| desktop | port | Port | 端口号 |     |     |     |
-| desktop | username | Username | 用户名 |     |     |     |
-| desktop | password | Password | 密码  |     |     |     |
+| Desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
+| Desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
+| Desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
+| Desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
+| Desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
+| Desktop, iOS, android | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| Desktop, iOS, android | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
+| Desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
+| Desktop | proxy | Proxy | 代理  |     |     |     |
+| Desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
+| Desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
+| Desktop | proxy_connection | Connection | 连接  |     |     |     |
+| Desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
+| Desktop | host | Host | 主机名 |     |     |     |
+| Desktop | port | Port | 端口号 |     |     |     |
+| Desktop | username | Username | 用户名 |     |     |     |
+| Desktop | password | Password | 密码  |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
-| desktop | unknow_error | Unknow error | 未知错误 |     |     |     |
+| Desktop | unknow_error | Unknow error | 未知错误 |     |     |     |
+| Desktop | passcode_incorrect | Passcode incorrect | 密码不正确 |     |     |     |
+| Desktop | unlock_with_wasscode | Enter Passcode to unlock Mixin Messenger | 输入密码解锁 Mixin Messenger |     |     |     |
+| Desktop | screen_passcode | Screen Passcode | 锁屏密码 |     |     |     |
+| Desktop | set_passcode_desc | Set Passcode to unlock Mixin Messenger | 设置解锁密码 |     |     |     |
+| Desktop | confirm_passcode_desc | Enter again to confirm the passcode | 再次确认密码 |     |     |     |

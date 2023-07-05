@@ -577,7 +577,7 @@
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d mesej berkaitan</string>
   <string name="Searching" platform="android">Mencari</string>
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
-  <string name="Security" platform="android, iOS">Keselamatan</string>
+  <string name="Security" platform="android, iOS, Desktop">Keselamatan</string>
   <string name="Select" platform="android, iOS, Desktop">Pilih</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Pilih Kenalan Kecemasan</string>
   <string name="Send" platform="android, iOS, Desktop">Hantar</string>
