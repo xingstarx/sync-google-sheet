@@ -576,6 +576,7 @@
 "network" = "網絡";
 "network_connection_lost" = "網絡連接超時，請檢查網絡稍後重試";
 "network_fee" = "網絡費用";
+"network_type" = "網絡類型";
 "never_auto_download" = "關閉";
 "new_chat" = "新聊天";
 "new_group" = "新建羣組";
