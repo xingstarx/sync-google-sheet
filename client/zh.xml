@@ -1585,23 +1585,23 @@
   <string name="fast" platform="iOS, android">快速</string>
   <string name="normal" platform="iOS, android">普通</string>
   <string name="slow" platform="iOS, android">缓慢</string>
-  <string name="confirm_sync_chats_to_phone" platform="desktop">确认同步聊天记录到手机端吗？</string>
-  <string name="confirm_sync_chats_from_phone" platform="desktop">确认从手机端同步聊天记录吗？</string>
-  <string name="transferring_chats" platform="desktop">同步聊天记录中</string>
-  <string name="transferring_chats_tips" platform="desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
-  <string name="transfer_completed" platform="desktop, android">同步完成</string>
-  <string name="transfer_failed" platform="desktop, iOS, android">同步失败</string>
-  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS, android">版本不匹配，无法同步数据，请先升级应用。</string>
-  <string name="enter_to_send" platform="desktop">按下回车 ⏎ 发送</string>
-  <string name="proxy" platform="desktop">代理</string>
-  <string name="add_proxy" platform="desktop">添加代理</string>
-  <string name="proxy_type" platform="desktop">代理类型</string>
-  <string name="proxy_connection" platform="desktop">连接</string>
-  <string name="proxy_auth" platform="desktop">验证（可选）</string>
-  <string name="host" platform="desktop">主机名</string>
-  <string name="port" platform="desktop">端口号</string>
-  <string name="username" platform="desktop">用户名</string>
-  <string name="password" platform="desktop">密码</string>
+  <string name="confirm_sync_chats_to_phone" platform="Desktop">确认同步聊天记录到手机端吗？</string>
+  <string name="confirm_sync_chats_from_phone" platform="Desktop">确认从手机端同步聊天记录吗？</string>
+  <string name="transferring_chats" platform="Desktop">同步聊天记录中</string>
+  <string name="transferring_chats_tips" platform="Desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
+  <string name="transfer_completed" platform="Desktop, android">同步完成</string>
+  <string name="transfer_failed" platform="Desktop, iOS, android">同步失败</string>
+  <string name="transfer_protocol_version_not_matched" platform="Desktop, iOS, android">版本不匹配，无法同步数据，请先升级应用。</string>
+  <string name="enter_to_send" platform="Desktop">按下回车 ⏎ 发送</string>
+  <string name="proxy" platform="Desktop">代理</string>
+  <string name="add_proxy" platform="Desktop">添加代理</string>
+  <string name="proxy_type" platform="Desktop">代理类型</string>
+  <string name="proxy_connection" platform="Desktop">连接</string>
+  <string name="proxy_auth" platform="Desktop">验证（可选）</string>
+  <string name="host" platform="Desktop">主机名</string>
+  <string name="port" platform="Desktop">端口号</string>
+  <string name="username" platform="Desktop">用户名</string>
+  <string name="password" platform="Desktop">密码</string>
   <string name="unknow_error" platform="Desktop">未知错误</string>
   <string name="passcode_incorrect" platform="Desktop">密码不正确</string>
   <string name="unlock_with_wasscode" platform="Desktop">输入密码解锁 Mixin Messenger</string>

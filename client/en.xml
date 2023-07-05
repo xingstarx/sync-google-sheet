@@ -1608,23 +1608,23 @@
   <string name="fast" platform="iOS, android">Fast</string>
   <string name="normal" platform="iOS, android">Normal</string>
   <string name="slow" platform="iOS, android">Slow</string>
-  <string name="confirm_sync_chats_to_phone" platform="desktop">Are you sure to sync the chat history to the phone?</string>
-  <string name="confirm_sync_chats_from_phone" platform="desktop">Are you sure to sync the chat history from the phone?</string>
-  <string name="transferring_chats" platform="desktop">Transferring Chat </string>
-  <string name="transferring_chats_tips" platform="desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
-  <string name="transfer_completed" platform="desktop, android">Transfer completed</string>
-  <string name="transfer_failed" platform="desktop, iOS, android">Transfer failed</string>
-  <string name="transfer_protocol_version_not_matched" platform="desktop, iOS, android">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
-  <string name="enter_to_send" platform="desktop">Return/Enter ⏎ to Send</string>
-  <string name="proxy" platform="desktop">Proxy</string>
-  <string name="add_proxy" platform="desktop">Add Proxy</string>
-  <string name="proxy_type" platform="desktop">Proxy Type</string>
-  <string name="proxy_connection" platform="desktop">Connection</string>
-  <string name="proxy_auth" platform="desktop">Authentication (Optional)</string>
-  <string name="host" platform="desktop">Host</string>
-  <string name="port" platform="desktop">Port</string>
-  <string name="username" platform="desktop">Username</string>
-  <string name="password" platform="desktop">Password</string>
+  <string name="confirm_sync_chats_to_phone" platform="Desktop">Are you sure to sync the chat history to the phone?</string>
+  <string name="confirm_sync_chats_from_phone" platform="Desktop">Are you sure to sync the chat history from the phone?</string>
+  <string name="transferring_chats" platform="Desktop">Transferring Chat </string>
+  <string name="transferring_chats_tips" platform="Desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
+  <string name="transfer_completed" platform="Desktop, android">Transfer completed</string>
+  <string name="transfer_failed" platform="Desktop, iOS, android">Transfer failed</string>
+  <string name="transfer_protocol_version_not_matched" platform="Desktop, iOS, android">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
+  <string name="enter_to_send" platform="Desktop">Return/Enter ⏎ to Send</string>
+  <string name="proxy" platform="Desktop">Proxy</string>
+  <string name="add_proxy" platform="Desktop">Add Proxy</string>
+  <string name="proxy_type" platform="Desktop">Proxy Type</string>
+  <string name="proxy_connection" platform="Desktop">Connection</string>
+  <string name="proxy_auth" platform="Desktop">Authentication (Optional)</string>
+  <string name="host" platform="Desktop">Host</string>
+  <string name="port" platform="Desktop">Port</string>
+  <string name="username" platform="Desktop">Username</string>
+  <string name="password" platform="Desktop">Password</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>

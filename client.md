@@ -1609,23 +1609,23 @@
 | iOS, android | fast | Fast | 快速  | 高速  |     |     |
 | iOS, android | normal | Normal | 普通  | 通常  |     |     |
 | iOS, android | slow | Slow | 缓慢  | 低速  |     |     |
-| desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
-| desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
-| desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
-| desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
-| desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
-| desktop, iOS, android | transfer_failed | Transfer failed | 同步失败 |     |     |     |
-| desktop, iOS, android | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
-| desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
-| desktop | proxy | Proxy | 代理  |     |     |     |
-| desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
-| desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
-| desktop | proxy_connection | Connection | 连接  |     |     |     |
-| desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
-| desktop | host | Host | 主机名 |     |     |     |
-| desktop | port | Port | 端口号 |     |     |     |
-| desktop | username | Username | 用户名 |     |     |     |
-| desktop | password | Password | 密码  |     |     |     |
+| Desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
+| Desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
+| Desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
+| Desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
+| Desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
+| Desktop, iOS, android | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| Desktop, iOS, android | transfer_protocol_version_not_matched | Protocol version does not match, transfer failed. Please upgrade the application first. | 版本不匹配，无法同步数据，请先升级应用。 |     |     |     |
+| Desktop | enter_to_send | Return/Enter ⏎ to Send | 按下回车 ⏎ 发送 |     |     |     |
+| Desktop | proxy | Proxy | 代理  |     |     |     |
+| Desktop | add_proxy | Add Proxy | 添加代理 |     |     |     |
+| Desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
+| Desktop | proxy_connection | Connection | 连接  |     |     |     |
+| Desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
+| Desktop | host | Host | 主机名 |     |     |     |
+| Desktop | port | Port | 端口号 |     |     |     |
+| Desktop | username | Username | 用户名 |     |     |     |
+| Desktop | password | Password | 密码  |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
