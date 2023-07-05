@@ -1201,7 +1201,7 @@
   <string name="Searching" platform="android">Searching</string>
   <string name="Secured_by_TIP" platform="android,iOS">Secured by TIP</string>
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
-  <string name="Security" platform="android, iOS">Security</string>
+  <string name="Security" platform="android, iOS, Desktop">Security</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Emergency Contact</string>

@@ -1202,7 +1202,7 @@
 | android | Searching | Searching | 搜索中 | 検索中 | Mencari | Mencari |
 | android,iOS | Secured_by_TIP | Secured by TIP | 由 TIP 提供安全保障 |     |     |     |
 | android, Desktop | secret_url | https://mixin.one/pages/1000007 |     | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 |
-| android, iOS | Security | Security | 安全  | セキュリティ | Keselamatan | Keamanan |
+| android, iOS, Desktop | Security | Security | 安全  | セキュリティ | Keselamatan | Keamanan |
 | android, iOS, Desktop | Select | Select | 选择  | 選択  | Pilih | Pilih |
 | iOS | Select_a_country_or_region | Select a Country or Region | 选择一个国家或地区 | 国と地域を選択 |     |     |
 | android, iOS | Select_Emergency_Contact | Select Emergency Contact | 选择紧急联系人 | 緊急連絡先を選択 | Pilih Kenalan Kecemasan | Pilih Kontak Darurat |
