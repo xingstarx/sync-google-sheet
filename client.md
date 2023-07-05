@@ -916,7 +916,7 @@
 | iOS | network_connection_lost | The network connection was lost, please check your network and try again later | 网络连接超时，请检查网络稍后重试 | ネットワークが切断されました。確認してから再度接続してください |     |     |
 | android, Desktop | Network_error | Network error | 网络错误 | ネットワークエラー | Ralat rangkaian | Kesalahan jaringan |
 | android | Network_Operator | Network Operator | 网络运营商 | Operator |     |     |
-| android | Network_Type | Network Type | 网络类型 | Network Type |     |     |
+| android, iOS | Network_Type | Network Type | 网络类型 | Network Type |     |     |
 | android | Network_unavailable | Network unavailable | 网络连接不可用 | ネットワークは利用不可能です |     |     |
 | android | Never | Never | 从未备份 | しない | Tidak pernah | Jangan pernah |
 | iOS | never_auto_download | Never | 关闭  | しない |     |     |

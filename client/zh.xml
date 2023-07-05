@@ -899,7 +899,7 @@
   <string name="network_connection_lost" platform="iOS">网络连接超时，请检查网络稍后重试</string>
   <string name="Network_error" platform="android, Desktop">网络错误</string>
   <string name="Network_Operator" platform="android">网络运营商</string>
-  <string name="Network_Type" platform="android">网络类型</string>
+  <string name="Network_Type" platform="android, iOS">网络类型</string>
   <string name="Network_unavailable" platform="android">网络连接不可用</string>
   <string name="Never" platform="android">从未备份</string>
   <string name="never_auto_download" platform="iOS">关闭</string>
