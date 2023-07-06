@@ -1608,4 +1608,5 @@
   <string name="screen_passcode" platform="Desktop">鎖屏密碼</string>
   <string name="set_passcode_desc" platform="Desktop">設置解鎖密碼</string>
   <string name="confirm_passcode_desc" platform="Desktop">再次確認密碼</string>
+  <string name="lock" platform="Desktop">鎖定</string>
 </resources>
