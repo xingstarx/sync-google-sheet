@@ -1637,3 +1637,4 @@
 | Desktop | set_passcode_desc | Set Passcode to unlock Mixin Messenger | 设置解锁密码 |     |     |     |
 | Desktop | confirm_passcode_desc | Enter again to confirm the passcode | 再次确认密码 |     |     |     |
 | Desktop | lock | Lock | 锁定  |     |     |     |
+| Desktop, iOS, android | anonymous_number | Anonymous Number | 匿名号码 | 匿名番号 |     |     |
