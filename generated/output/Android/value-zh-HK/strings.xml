@@ -93,6 +93,7 @@
 	<string name="allow_dapp_request_approval">允許 Dapp 向你發送請求，如轉賬請求等</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>
+	<string name="anonymous_number">匿名號碼</string>
 	<string name="ANSWER">接聽</string>
 	<string name="app_card_shareable_false">該卡片已被設置為不允許轉發</string>
 	<string name="App_version">應用版本</string>

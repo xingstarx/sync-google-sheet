@@ -93,6 +93,7 @@
 	<string name="allow_dapp_request_approval">Allow dapp to ask for your approval to make a transaction.</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
+	<string name="anonymous_number">Anonymous Number</string>
 	<string name="ANSWER">ANSWER</string>
 	<string name="app_card_shareable_false">The card has been set to not allow sharing</string>
 	<string name="app_name">Mixin</string>
