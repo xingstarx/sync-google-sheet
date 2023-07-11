@@ -197,7 +197,6 @@
   <string name="Amount" platform="android, iOS">金額</string>
   <string name="an_audio" platform="android">一條語音</string>
   <string name="animals_and_nature" platform="Desktop">動物與自然</string>
-  <string name="anonymous_number" platform="android">匿名號碼</string>
   <string name="ANSWER" platform="android">接聽</string>
   <string name="app_card_share_disallow" platform="Desktop">該鏈接已被設置為不允許分享</string>
   <string name="app_card_shareable_false" platform="android, iOS">該卡片已被設置為不允許轉發</string>
@@ -585,13 +584,13 @@
   <string name="Encrypted" platform="android">端到端加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
   <string name="Enter_new_phone_number" platform="android, iOS">輸入你的新手機號碼</string>
-  <string name="Enter_new" platform="android">輸入你的新</string>
+  <string name="Enter_new_anonymous_number" platform="android, iOS">輸入你的新匿名號碼</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">輸入你的 PIN 以註銷你的賬户</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">請輸入緊急聯繫人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">輸入你的新 PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">輸入你的舊 PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">輸入你的手機號碼</string>
-  <string name="Enter_your" platform="android">輸入你的</string>
+  <string name="Enter_your_anonymous_number" platform="android, iOS">輸入你的匿名號碼</string>
   <string name="Enter_your_PIN" platform="android, iOS">輸入你的 PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">輸入你的 PIN 以繼續</string>
   <string name="EOS_contract_address" platform="android">EOS 合約地址</string>
@@ -1024,7 +1023,6 @@
   <string name="Phone_Contact" platform="android, iOS">手機聯繫人</string>
   <string name="Phone_Contacts" platform="android, iOS">手機通訊錄</string>
   <string name="Phone_Number" platform="android, iOS, Desktop">手機號碼</string>
-  <string name="phone_number" platform="android">手機號碼</string>
   <string name="Phone_number_change" platform="android, iOS">修改手機號</string>
   <string name="phone_number_privacy" platform="android, iOS">誰可以通過手機號找到你</string>
   <string name="Photo" platform="android, iOS">照片</string>

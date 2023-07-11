@@ -364,8 +364,10 @@
 "enable_pay_confirmation" = "Enable %@ Pay?";
 "enable_touch_pay_hint" = "Confirm PIN to enable Touch Pay";
 "end_to_end_encryption" = "Disulitkan";
+"enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Masukkan nombor telefon bimbit baharu anda";
 "enter_pin_to_delete_account" = "Enter your PIN to delete your account";
+"enter_your_anonymous_number" = "Enter your anonymous number";
 "enter_your_emergency_contact_mixin_id" = "Masukkan ID Mixin kenalan kecemasan anda";
 "enter_your_new_pin" = "Enter your new PIN";
 "enter_your_old_pin" = "Enter your old PIN";

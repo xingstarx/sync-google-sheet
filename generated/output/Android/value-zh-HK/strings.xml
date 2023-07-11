@@ -93,7 +93,6 @@
 	<string name="allow_dapp_request_approval">允許 Dapp 向你發送請求，如轉賬請求等</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>
-	<string name="anonymous_number">匿名號碼</string>
 	<string name="Anonymous_Number">匿名號碼</string>
 	<string name="ANSWER">接聽</string>
 	<string name="app_card_shareable_false">該卡片已被設置為不允許轉發</string>
@@ -389,10 +388,10 @@
 	<string name="Enable_web_debug">已開啓 Web 調試</string>
 	<string name="Encrypted">端到端加密</string>
 	<string name="End_to_End_Encryption">端到端加密</string>
-	<string name="Enter_new">輸入你的新</string>
+	<string name="Enter_new_anonymous_number">輸入你的新匿名號碼</string>
 	<string name="Enter_new_phone_number">輸入你的新手機號碼</string>
 	<string name="Enter_PIN_to_delete_account">輸入你的 PIN 以註銷你的賬户</string>
-	<string name="Enter_your">輸入你的</string>
+	<string name="Enter_your_anonymous_number">輸入你的匿名號碼</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">請輸入緊急聯繫人的 Mixin ID</string>
 	<string name="Enter_your_new_PIN">輸入你的新 PIN</string>
 	<string name="Enter_your_old_PIN">輸入你的舊 PIN</string>
@@ -731,7 +730,6 @@
 	<string name="Phone_call">電話呼叫</string>
 	<string name="Phone_Contact">手機聯繫人</string>
 	<string name="Phone_Contacts">手機通訊錄</string>
-	<string name="phone_number">手機號碼</string>
 	<string name="Phone_Number">手機號碼</string>
 	<string name="Phone_number_change">修改手機號</string>
 	<string name="phone_number_privacy">誰可以通過手機號找到你</string>
