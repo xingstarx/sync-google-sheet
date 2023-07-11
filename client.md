@@ -198,7 +198,6 @@
 | android, iOS | Amount | Amount | 金额  | 数量  | Jumlah | Jumlah |
 | android | an_audio | an audio | 一条语音 | 音声ファイル |     |     |
 | Desktop | animals_and_nature | Animals & Nature | 动物与自然 |     |     |     |
-| android | anonymous_number | anonymous number | 匿名号码 |     |     |     |
 | android | ANSWER | ANSWER | 接听  | 電話に出る | JAWAPAN | JAWAB |
 | Desktop | app_card_share_disallow | Disallow sharing of this URL | 该链接已被设置为不允许分享 | このURLの共有を許可しない |     |     |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing | 该卡片已被设置为不允许转发 | このカードを共有することはできません |     |     |
@@ -595,13 +594,13 @@
 | android | Encrypted | Encrypted | 端到端加密 | 暗号化 |     |     |
 | android, iOS | End_to_End_Encryption | End-to-end Encrypted | 端到端加密 | E2E暗号化 | Disulitkan | Terenkripsi end-to-end |
 | android, iOS | Enter_new_phone_number | Enter your new phone number | 输入你的新手机号码 | 新しい電話番号を入力してください | Masukkan nombor telefon bimbit baharu anda | Masukkan nomor ponsel baru Anda |
-| android | Enter_new | Enter your new\u0020 | 输入你的新 |     |     |     |
+| android, iOS | Enter_new_anonymous_number | Enter your new anonymous number | 输入你的新匿名号码 |     |     |     |
 | android, iOS, Desktop | Enter_PIN_to_delete_account | Enter your PIN to delete your account | 输入你的 PIN 以注销你的账户 | アカウントを削除するためにPINコードを入力してください |     |     |
 | android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください | Masukkan ID Mixin kenalan kecemasan anda | Masukkan ID Mixin kontak darurat Anda |
 | android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
 | android,iOS | Enter_your_old_PIN | Enter your old PIN | 输入你的旧 PIN |     |     |     |
-| android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力して下さい | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
-| android | Enter_your | Enter your\u0020 | 输入你的 |     |     |     |
+| android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力してください | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
+| android, iOS | Enter_your_anonymous_number | Enter your anonymous number | 输入你的匿名号码 |     |     |     |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
 | android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
 | android | EOS_contract_address | EOS contract address | EOS 合约地址 | EOSアドレス | alamat kontrak EOS |     |
@@ -610,7 +609,7 @@
 | Desktop | error_asset_exists | Asset does not exist | 没有相关资产 | 資産がありません |     |     |
 | android, Desktop | error_authentication | ERROR 401: Sign in to continue | 错误 401：请重新登录 | エラー 401：サインインをして続ける | RALAT 401: Log masuk untuk meneruskan | KESALAHAN 401: Masuk untuk melanjutkan |
 | android, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | 错误 10002：请求数据不合法 | エラー 10002：リクエストデータが無効です | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid |
-| android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試し下さい。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
+| android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
 | iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid | 错误 10004：验证失败 | エラー10004：captchaが無効です |     |     |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | 网络连接超时 | ネットワーク接続がタイムアウトしました | Tamat masa sambungan rangkaian | Batas waktu sambungan jaringan |
 | android, iOS | error_expired_authorization_code | ERROR 20121: Expired authorization code | 错误 20121：授权码已过期 | 認証コードの期限切れ |     |     |
@@ -1041,7 +1040,6 @@
 | android, iOS | Phone_Contact | Phone Contacts | 手机联系人 | 連絡帳 | Kenalan Telefon | Kontak Telepon |
 | android, iOS | Phone_Contacts | Phone Contacts | 手机通讯录 | 連絡帳 | Kenalan Telefon | Kontak Telepon |
 | android, iOS, Desktop | Phone_Number | Phone Number | 手机号码 | 電話番号を変更する | Nombor telefon | Nomor Telepon |
-| android | phone_number | phone number | 手机号码 |     |     |     |
 | android, iOS | Phone_number_change | Phone number change | 修改手机号 | 電話番号変更 | Tukar nombor telefon | Perubahan nomor telepon |
 | android, iOS | phone_number_privacy | Who can find me by my number | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー | Siapa yang dapat mencari saya dengan nombor saya | Siapa yang dapat menemukan saya menurut nomor saya |
 | android, iOS | Photo | Photo | 照片  | 写真  | Foto | Foto |
@@ -1407,7 +1405,7 @@
 | iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. | 错误 20119：PIN 不正确。你还有 %@ 次机会尝试。 | エラー20119: PINコードが間違っています。あと%@回入力可能です。 |     |     |
 | android, iOS | transfer_memo | Memo (optional) | 备注（可选） | メモ（オプション） |     |     |
 | android, iOS | Transfer_Notifications | Transfer Notifications | 转账通知 | 送金の受取通知 | Pindahkan Pemberitahuan | Notifikasi Transfer |
-| android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |     |     |
+| android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンしてください。 |     |     |
 | android, iOS | transfer_to | Transfer to %1$s | 转账给 %1$s | %1$sに送金する | Pindahkan ke %1$s | Transfer ke %1$s |
 | iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
 | iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
@@ -1552,7 +1550,7 @@
 | android | withdrawal_addr_pin_add | Enter PIN to save address | 请输入 PIN 来完成添加 | PINコードを入力してアドレスを保存 | Masukkan PIN untuk menyimpan alamat | Masukkan PIN untuk menyimpan alamat |
 | android | withdrawal_addr_pin_delete | Enter PIN to delete address | 请输入 PIN 来完成删除 | PINコードを入力してアドレスを削除 | Masukkan PIN untuk menghapus alamat | Masukkan PIN untuk menghapus alamat |
 | android | withdrawal_addr_pin_modify | Enter PIN to modify address | 请输入 PIN 来完成修改 | PINコードを入力してアドレスを修正 | Masukkan PIN untuk mengubah alamat | Masukkan PIN untuk mengubah alamat |
-| android, iOS | withdrawal_addr_tag | Destination Tag or ID Number or notes. If not, you can set it No Tag. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Tag（标签）。 | 宛先タグまたはID番号またはメモを入力して下さい。それ以外の場合「タグなし」に設定できます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Tag. |
+| android, iOS | withdrawal_addr_tag | Destination Tag or ID Number or notes. If not, you can set it No Tag. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Tag（标签）。 | 宛先タグまたはID番号またはメモを入力してください。それ以外の場合「タグなし」に設定できます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Tag. |
 | android, iOS | withdrawal_address_tips | For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered! | 首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！ | 新しいアドレスへの最初の出金は必ず少額で行ってください。アドレスが間違っていると資産は失われます。 | Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan! | Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil. |
 | android, iOS | withdrawal_label | Label (e.g. exchanges, wallets, etc.) | 地址名称，例如 OceanOne | ラベル (例. 取引所, ウォレットなど) | Label (contohnya pertukaran, dompet, dll.) | Label (mis. Kurs, wallet, dll.) |
 | android, iOS | withdrawal_memo | Memo | Memo（备注） | メモ  | Memo | Memo |
