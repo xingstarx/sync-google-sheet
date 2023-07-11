@@ -197,6 +197,7 @@
   <string name="Amount" platform="android, iOS">金額</string>
   <string name="an_audio" platform="android">一條語音</string>
   <string name="animals_and_nature" platform="Desktop">動物與自然</string>
+  <string name="anonymous_number" platform="android">匿名號碼</string>
   <string name="ANSWER" platform="android">接聽</string>
   <string name="app_card_share_disallow" platform="Desktop">該鏈接已被設置為不允許分享</string>
   <string name="app_card_shareable_false" platform="android, iOS">該卡片已被設置為不允許轉發</string>
@@ -584,11 +585,13 @@
   <string name="Encrypted" platform="android">端到端加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
   <string name="Enter_new_phone_number" platform="android, iOS">輸入你的新手機號碼</string>
+  <string name="Enter_new" platform="android">輸入你的新</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">輸入你的 PIN 以註銷你的賬户</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">請輸入緊急聯繫人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">輸入你的新 PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">輸入你的舊 PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">輸入你的手機號碼</string>
+  <string name="Enter_your" platform="android">輸入你的</string>
   <string name="Enter_your_PIN" platform="android, iOS">輸入你的 PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">輸入你的 PIN 以繼續</string>
   <string name="EOS_contract_address" platform="android">EOS 合約地址</string>
@@ -782,6 +785,7 @@
   <string name="landing_enter_mobile_tip" platform="android">我們不會公開你的手機號碼</string>
   <string name="landing_introduction" platform="android">點擊 "同意並繼續" 接受 Mixin %1$s和%2$s</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">我們將發送4位驗證碼到手機 %1$s, 請在下一個頁面輸入</string>
+  <string name="landing_anonymous_dialog_content" platform="android">我們將發送4位驗證碼到匿名號碼 %1$s, 請在下一個頁面輸入</string>
   <string name="landing_validation_title" platform="android, iOS, Desktop">請輸入發送至以下號碼的 4 位驗證碼：%1$s</string>
   <string name="Language" platform="android, iOS">語言</string>
   <string name="Large_Amount_Confirmation" platform="android, iOS">大額轉賬確認</string>
@@ -1020,6 +1024,7 @@
   <string name="Phone_Contact" platform="android, iOS">手機聯繫人</string>
   <string name="Phone_Contacts" platform="android, iOS">手機通訊錄</string>
   <string name="Phone_Number" platform="android, iOS, Desktop">手機號碼</string>
+  <string name="phone_number" platform="android">手機號碼</string>
   <string name="Phone_number_change" platform="android, iOS">修改手機號</string>
   <string name="phone_number_privacy" platform="android, iOS">誰可以通過手機號找到你</string>
   <string name="Photo" platform="android, iOS">照片</string>
@@ -1609,5 +1614,5 @@
   <string name="set_passcode_desc" platform="Desktop">設置解鎖密碼</string>
   <string name="confirm_passcode_desc" platform="Desktop">再次確認密碼</string>
   <string name="lock" platform="Desktop">鎖定</string>
-  <string name="anonymous_number" platform="Desktop, iOS, android">匿名號碼</string>
+  <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名號碼</string>
 </resources>
