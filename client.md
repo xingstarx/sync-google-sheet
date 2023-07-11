@@ -198,6 +198,7 @@
 | android, iOS | Amount | Amount | 金额  | 数量  | Jumlah | Jumlah |
 | android | an_audio | an audio | 一条语音 | 音声ファイル |     |     |
 | Desktop | animals_and_nature | Animals & Nature | 动物与自然 |     |     |     |
+| android | anonymous_number | anonymous number | 匿名号码 |     |     |     |
 | android | ANSWER | ANSWER | 接听  | 電話に出る | JAWAPAN | JAWAB |
 | Desktop | app_card_share_disallow | Disallow sharing of this URL | 该链接已被设置为不允许分享 | このURLの共有を許可しない |     |     |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing | 该卡片已被设置为不允许转发 | このカードを共有することはできません |     |     |
@@ -594,11 +595,13 @@
 | android | Encrypted | Encrypted | 端到端加密 | 暗号化 |     |     |
 | android, iOS | End_to_End_Encryption | End-to-end Encrypted | 端到端加密 | E2E暗号化 | Disulitkan | Terenkripsi end-to-end |
 | android, iOS | Enter_new_phone_number | Enter your new phone number | 输入你的新手机号码 | 新しい電話番号を入力してください | Masukkan nombor telefon bimbit baharu anda | Masukkan nomor ponsel baru Anda |
+| android | Enter_new | Enter your new\u0020 | 输入你的新 |     |     |     |
 | android, iOS, Desktop | Enter_PIN_to_delete_account | Enter your PIN to delete your account | 输入你的 PIN 以注销你的账户 | アカウントを削除するためにPINコードを入力してください |     |     |
 | android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください | Masukkan ID Mixin kenalan kecemasan anda | Masukkan ID Mixin kontak darurat Anda |
 | android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
 | android,iOS | Enter_your_old_PIN | Enter your old PIN | 输入你的旧 PIN |     |     |     |
 | android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力して下さい | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
+| android | Enter_your | Enter your\u0020 | 输入你的 |     |     |     |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
 | android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
 | android | EOS_contract_address | EOS contract address | EOS 合约地址 | EOSアドレス | alamat kontrak EOS |     |
@@ -794,6 +797,7 @@
 | android | landing_enter_mobile_tip | We will never display your mobile number publicly. | 我们不会公开你的手机号码 | Mixin社はあなたの電話番号を決して公表しません | Kami tidak akan memaparkan nombor telefon bimbit anda secara terbuka. | Kami tidak akan pernah menampilkan nomor ponsel Anda secara publik. |
 | android | landing_introduction | Tap "Agree & Continue" to accept  the %1$s and %2$s | 点击 "同意并继续" 接受 Mixin %1$s和%2$s | "同意して続ける"をタップして%1$sと%2$sを確認 | Ketuk "Setuju & Teruskan" untuk terima %1$s dan %2$s | Ketuk "Setuju & Lanjutkan" untuk menerima %1$s dan %2$s |
 | android, Desktop | landing_invitation_dialog_content | We will send a 4-digit code to your phone number %1$s, please enter the code in next screen. | 我们将发送4位验证码到手机 %1$s, 请在下一个页面输入 | 4桁のコードを電話番号%1$sに送信します、次の画面でコードを入力してください | Kami akan menghantar kod 4 digit ke nombor telefon anda %1$s, sila masukkan kod di skrin seterusnya. | Kami akan mengirim kode 4 digit ke nomor telepon Anda %1$s, harap masukkan kode tersebut pada layar berikutnya. |
+| android | landing_anonymous_dialog_content | We will send a 4-digit code to your anonymous number %1$s, please enter the code in next screen. | 我们将发送4位验证码到匿名号码 %1$s, 请在下一个页面输入 |     |     |     |
 | android | landing_privacy_policy_url | https://mixin.one/pages/privacy |     | プライバシーポリシー: https://mixin.one/pages/privacy  | https://mixin.one/pages/privacy | https://mixin.one/pages/privacy |
 | android | landing_terms_url | https://mixin.one/pages/terms |     | https://mixin.one/pages/terms | https://mixin.one/pages/terms | https://mixin.one/pages/terms |
 | android, iOS, Desktop | landing_validation_title | Enter the 4-digit code sent to you at %1$s | 请输入发送至以下号码的 4 位验证码：%1$s | %1$sに送信された4桁のコードを入力してください | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s |
@@ -1037,6 +1041,7 @@
 | android, iOS | Phone_Contact | Phone Contacts | 手机联系人 | 連絡帳 | Kenalan Telefon | Kontak Telepon |
 | android, iOS | Phone_Contacts | Phone Contacts | 手机通讯录 | 連絡帳 | Kenalan Telefon | Kontak Telepon |
 | android, iOS, Desktop | Phone_Number | Phone Number | 手机号码 | 電話番号を変更する | Nombor telefon | Nomor Telepon |
+| android | phone_number | phone number | 手机号码 |     |     |     |
 | android, iOS | Phone_number_change | Phone number change | 修改手机号 | 電話番号変更 | Tukar nombor telefon | Perubahan nomor telepon |
 | android, iOS | phone_number_privacy | Who can find me by my number | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー | Siapa yang dapat mencari saya dengan nombor saya | Siapa yang dapat menemukan saya menurut nomor saya |
 | android, iOS | Photo | Photo | 照片  | 写真  | Foto | Foto |
@@ -1637,4 +1642,4 @@
 | Desktop | set_passcode_desc | Set Passcode to unlock Mixin Messenger | 设置解锁密码 |     |     |     |
 | Desktop | confirm_passcode_desc | Enter again to confirm the passcode | 再次确认密码 |     |     |     |
 | Desktop | lock | Lock | 锁定  |     |     |     |
-| Desktop, iOS, android | anonymous_number | Anonymous Number | 匿名号码 | 匿名番号 |     |     |
+| Desktop, iOS, android | Anonymous_Number | Anonymous Number | 匿名号码 | 匿名番号 |     |     |
