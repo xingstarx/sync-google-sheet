@@ -747,6 +747,8 @@
   <string name="hold_to_record_audio" platform="android, iOS">Hold to record, release to send</string>
   <string name="Hour" platform="android, iOS, Desktop">%d Hour</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d Hours</string>
+  <string name="minute" platform="Desktop">%d Minute</string>
+  <string name="minute.count" platform="Desktop">%d Minutes</string>
   <string name="how_are_you" platform="iOS, Desktop">Hi, how are you?</string>
   <string name="i_am_good" platform="iOS, Desktop">I’m good.</string>
   <string name="I_know" platform="android">I know</string>
