@@ -1613,4 +1613,6 @@
   <string name="confirm_passcode_desc" platform="Desktop">再次确认密码</string>
   <string name="lock" platform="Desktop">锁定</string>
   <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名号码</string>
+  <string name="disabled" platform="Desktop">禁用</string>
+  <string name="auto_lock" platform="Desktop">自动锁定</string>
 </resources>

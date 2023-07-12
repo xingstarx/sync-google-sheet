@@ -1641,3 +1641,5 @@
 | Desktop | confirm_passcode_desc | Enter again to confirm the passcode | 再次确认密码 |     |     |     |
 | Desktop | lock | Lock | 锁定  |     |     |     |
 | Desktop, iOS, android | Anonymous_Number | Anonymous Number | 匿名号码 | 匿名番号 |     |     |
+| Desktop | disabled | Disabled | 禁用  |     |     |     |
+| Desktop | auto_lock | Auto Lock | 自动锁定 |     |     |     |
