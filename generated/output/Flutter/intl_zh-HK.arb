@@ -254,6 +254,7 @@
 "messagePreviewDescription" : "預覽新消息通知中的消息文本。",
 "messages" : "消息",
 "minimize" : "最小化",
+"minute" : "{count, plural, one{{arg0} 分鐘} other{{arg0} 分鐘}}",
 "mixinMessengerDesktop" : "Mixin Messenger 桌面",
 "more" : "更多",
 "multisigTransaction" : "多重簽名交易",

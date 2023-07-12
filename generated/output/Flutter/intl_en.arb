@@ -255,6 +255,7 @@
 "messagePreviewDescription" : "Preview message text inside new message notifications.",
 "messages" : "Messages",
 "minimize" : "Minimize",
+"minute" : "{count, plural, one{{arg0} Minute} other{{arg0} Minutes}}",
 "mixinMessengerDesktop" : "Mixin Messenger Desktop",
 "more" : "More",
 "multisigTransaction" : "Multisig Transaction",

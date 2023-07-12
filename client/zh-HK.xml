@@ -737,6 +737,8 @@
   <string name="hold_to_record_audio" platform="android, iOS">長按説話，鬆手發送</string>
   <string name="Hour" platform="android, iOS, Desktop">%d 小時</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d 小時</string>
+  <string name="minute" platform="Desktop">%d 分鐘</string>
+  <string name="minute.count" platform="Desktop">%d 分鐘</string>
   <string name="how_are_you" platform="iOS, Desktop">嗨，你好嗎？</string>
   <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
