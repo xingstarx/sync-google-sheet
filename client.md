@@ -1647,3 +1647,6 @@
 | Desktop | disabled | Disabled | 禁用  |     |     |     |
 | Desktop | auto_lock | Auto Lock | 自动锁定 |     |     |     |
 | Desktop | biometric | Biometric | 生物识别 |     |     |     |
+| Desktop | not_support_biometric | This Device is not supported Biometric authentication | 此设备不支持生物验证 |     |     |     |
+| Desktop | use_biometric | Use Biometric | 使用生物识别 |     |     |     |
+| Desktop |     |     |     |     |     |     |
