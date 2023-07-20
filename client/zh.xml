@@ -1618,4 +1618,5 @@
   <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名号码</string>
   <string name="disabled" platform="Desktop">禁用</string>
   <string name="auto_lock" platform="Desktop">自动锁定</string>
+  <string name="biometric" platform="Desktop">生物识别</string>
 </resources>

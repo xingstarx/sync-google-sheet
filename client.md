@@ -1646,3 +1646,4 @@
 | Desktop, iOS, android | Anonymous_Number | Anonymous Number | 匿名号码 | 匿名番号 |     |     |
 | Desktop | disabled | Disabled | 禁用  |     |     |     |
 | Desktop | auto_lock | Auto Lock | 自动锁定 |     |     |     |
+| Desktop | biometric | Biometric | 生物识别 |     |     |     |
