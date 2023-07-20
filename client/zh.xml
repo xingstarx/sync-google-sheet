@@ -1446,6 +1446,7 @@
   <string name="url_unrecognized_hint" platform="iOS">%@ 识别失败，请升级至 Mixin 最新版本或联系开发者检查链接</string>
   <string name="Use_Biometric_Multisig" platform="android">使用生物识别签名</string>
   <string name="use_biometry" platform="iOS">采用%@</string>
+  <string name="user_delete_hint" platform="android, iOS">该用户已经删除了账号。</string>
   <string name="Use_face_multisig" platform="iOS">使用面容签名</string>
   <string name="Use_face_pay" platform="iOS">使用面容支付</string>
   <string name="Use_face_withdraw" platform="iOS">使用面容提现</string>
@@ -1617,4 +1618,8 @@
   <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名号码</string>
   <string name="disabled" platform="Desktop">禁用</string>
   <string name="auto_lock" platform="Desktop">自动锁定</string>
+  <string name="biometric" platform="Desktop">生物识别</string>
+  <string name="not_support_biometric" platform="Desktop">此设备不支持生物验证</string>
+  <string name="use_biometric" platform="Desktop">使用生物识别</string>
+  <string name="unlock_mixin_messenger" platform="Desktop">解锁 Mixin Messenger</string>
 </resources>
