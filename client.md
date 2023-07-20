@@ -1649,4 +1649,4 @@
 | Desktop | biometric | Biometric | 生物识别 |     |     |     |
 | Desktop | not_support_biometric | This Device is not supported Biometric authentication | 此设备不支持生物验证 |     |     |     |
 | Desktop | use_biometric | Use Biometric | 使用生物识别 |     |     |     |
-| Desktop |     |     |     |     |     |     |
+| Desktop | unlock_mixin_messenger | Unlock Mixin Messenger | 解锁 Mixin Messenger |     |     |     |
