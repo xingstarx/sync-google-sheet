@@ -1041,6 +1041,7 @@
 "use_touch_multisig" = "使用指紋簽名";
 "use_touch_pay" = "使用指紋支付";
 "use_touch_withdraw" = "使用指紋提現";
+"user_delete_hint" = "該使用者已經刪除了賬號。";
 "user_is_reported" = "已舉報";
 "user_not_found" = "找不到這個使用者";
 "validation_timed_out" = "驗證超時";

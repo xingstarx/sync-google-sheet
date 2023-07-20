@@ -1041,6 +1041,7 @@
 "use_touch_multisig" = "Используйте сенсорную мультиподпись";
 "use_touch_pay" = "Используйте сенсорную оплату";
 "use_touch_withdraw" = "Используйте сенсорный вывод";
+"user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "Сообщено о пользователе";
 "user_not_found" = "Пользователь не найден";
 "validation_timed_out" = "Время проверки истекло";

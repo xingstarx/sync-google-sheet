@@ -1041,6 +1041,7 @@
 "use_touch_multisig" = "Usar Touch Multisig";
 "use_touch_pay" = "Usar Touch Pay";
 "use_touch_withdraw" = "Usar Touch Withdraw";
+"user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "El usuario ha sido reportado";
 "user_not_found" = "Usuario no encontrado";
 "validation_timed_out" = "Se ha agotado el tiempo de validación";

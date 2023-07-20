@@ -1111,6 +1111,7 @@
 	<string name="Upload_timeout">上传超时</string>
 	<string name="Use_Biometric_Multisig">使用生物识别签名</string>
 	<string name="Use_System_Text_Size">跟随系统字体大小</string>
+	<string name="user_delete_hint">该用户已经删除了账号。</string>
 	<string name="User_not_found">找不到这个用户</string>
 	<string name="value_now">价值 %1$s</string>
 	<string name="value_then">当时价值 %1$s</string>

@@ -1041,6 +1041,7 @@
 "use_touch_multisig" = "指紋認証マルチシグを使用";
 "use_touch_pay" = "指紋認証で支払う";
 "use_touch_withdraw" = "指紋認証で出金する";
+"user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "報告しました。";
 "user_not_found" = "ユーザーが見つかりませんでした";
 "validation_timed_out" = "認証時間切れ";
