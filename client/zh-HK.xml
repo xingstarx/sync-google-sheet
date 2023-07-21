@@ -1446,7 +1446,7 @@
   <string name="url_unrecognized_hint" platform="iOS">%@ 識別失敗，請升級至 Mixin 最新版本或聯繫開發者檢查鏈接</string>
   <string name="Use_Biometric_Multisig" platform="android">使用生物識別簽名</string>
   <string name="use_biometry" platform="iOS">採用%@</string>
-  <string name="user_delete_hint" platform="android, iOS">該用户已經刪除了賬號。</string>
+  <string name="user_delete_hint" platform="android, iOS, Desktop">該用户已經刪除了賬號。</string>
   <string name="Use_face_multisig" platform="iOS">使用面容簽名</string>
   <string name="Use_face_pay" platform="iOS">使用面容支付</string>
   <string name="Use_face_withdraw" platform="iOS">使用面容提現</string>
@@ -1622,4 +1622,7 @@
   <string name="not_support_biometric" platform="Desktop">此設備不支持生物驗證</string>
   <string name="use_biometric" platform="Desktop">使用生物識別</string>
   <string name="unlock_mixin_messenger" platform="Desktop">解鎖 Mixin Messenger</string>
+  <string name="failed_to_open_database" platform="Desktop">打開數據庫時出現了錯誤。</string>
+  <string name="database_corrupted_tips" platform="Desktop">數據庫已損壞，暫無法恢復。點擊繼續將重新創建一個新的數據庫檔案。</string>
+  <string name="database_locked_tips" platform="Desktop">數據庫檔案已被鎖定，無法訪問。請嘗試重啓應用或者重啓系統後再試。</string>
 </resources>
