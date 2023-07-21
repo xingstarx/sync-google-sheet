@@ -1466,7 +1466,7 @@
   <string name="url_unrecognized_hint" platform="iOS">%@ failed to recognize, please upgrade Mixin to the latest version or contact the developer to check the link</string>
   <string name="Use_Biometric_Multisig" platform="android">Use Biometric Multisig</string>
   <string name="use_biometry" platform="iOS">Use %@</string>
-  <string name="user_delete_hint" platform="android, iOS">The user has deleted his own account.</string>
+  <string name="user_delete_hint" platform="android, iOS, Desktop">The user has deleted his own account.</string>
   <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
   <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
   <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
