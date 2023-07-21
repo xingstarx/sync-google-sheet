@@ -1622,4 +1622,5 @@
   <string name="not_support_biometric" platform="Desktop">此设备不支持生物验证</string>
   <string name="use_biometric" platform="Desktop">使用生物识别</string>
   <string name="unlock_mixin_messenger" platform="Desktop">解锁 Mixin Messenger</string>
+  <string name="failed_to_open_database" platform="Desktop">打开数据库时出现了错误。</string>
 </resources>
