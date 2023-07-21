@@ -1651,4 +1651,5 @@
   <string name="unlock_mixin_messenger" platform="Desktop">Unlock Mixin Messenger</string>
   <string name="failed_to_open_database" platform="Desktop">An error occurred while opening the database.</string>
   <string name="database_corrupted_tips" platform="Desktop">The database is corrupted and cannot be recovered. Clicking continue will create a new database file.</string>
+  <string name="database_locked_tips" platform="Desktop">The database file is locked and cannot be accessed. Please try restarting the application or the system and try again.</string>
 </resources>
