@@ -1467,7 +1467,7 @@
 | iOS | url_unrecognized_hint | %@ failed to recognize, please upgrade Mixin to the latest version or contact the developer to check the link | %@ 识别失败，请升级至 Mixin 最新版本或联系开发者检查链接 | %@を認識できません、Mixinを最新版にアップデートするか、もしくは開発陣に連絡してリンクを確認してください。 |     |     |
 | android | Use_Biometric_Multisig | Use Biometric Multisig | 使用生物识别签名 | 生体認証マルチシグを使用する | Gunakan Biometric Multisig | Gunakan Multisig Biometrik |
 | iOS | use_biometry | Use %@ | 采用%@ | %@を使用する |     |     |
-| android, iOS | user_delete_hint | The user has deleted his own account. | 该用户已经删除了账号。 |     |     |     |
+| android, iOS, Desktop | user_delete_hint | The user has deleted his own account. | 该用户已经删除了账号。 |     |     |     |
 | iOS | Use_face_multisig | Use Face Multisig | 使用面容签名 | 顔認証マルチシグを使用 |     |     |
 | iOS | Use_face_pay | Use Face Pay | 使用面容支付 | 顔認証で支払う |     |     |
 | iOS | Use_face_withdraw | Use Face Withdraw | 使用面容提现 | 顔認証で出金する |     |     |
@@ -1650,3 +1650,6 @@
 | Desktop | not_support_biometric | This Device is not supported Biometric authentication | 此设备不支持生物验证 |     |     |     |
 | Desktop | use_biometric | Use Biometric | 使用生物识别 |     |     |     |
 | Desktop | unlock_mixin_messenger | Unlock Mixin Messenger | 解锁 Mixin Messenger |     |     |     |
+| Desktop | failed_to_open_database | An error occurred while opening the database. | 打开数据库时出现了错误。 |     |     |     |
+| Desktop | database_corrupted_tips | The database is corrupted and cannot be recovered. Clicking continue will create a new database file. | 数据库已损坏，暂无法恢复。点击继续将重新创建一个新的数据库文件。 |     |     |     |
+| Desktop | database_locked_tips | The database file is locked and cannot be accessed. Please try restarting the application or the system and try again. | 数据库文件已被锁定，无法访问。请尝试重启应用或者重启系统后再试。 |     |     |     |

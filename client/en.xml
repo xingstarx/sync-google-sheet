@@ -1466,7 +1466,7 @@
   <string name="url_unrecognized_hint" platform="iOS">%@ failed to recognize, please upgrade Mixin to the latest version or contact the developer to check the link</string>
   <string name="Use_Biometric_Multisig" platform="android">Use Biometric Multisig</string>
   <string name="use_biometry" platform="iOS">Use %@</string>
-  <string name="user_delete_hint" platform="android, iOS">The user has deleted his own account.</string>
+  <string name="user_delete_hint" platform="android, iOS, Desktop">The user has deleted his own account.</string>
   <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
   <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
   <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
@@ -1649,4 +1649,7 @@
   <string name="not_support_biometric" platform="Desktop">This Device is not supported Biometric authentication</string>
   <string name="use_biometric" platform="Desktop">Use Biometric</string>
   <string name="unlock_mixin_messenger" platform="Desktop">Unlock Mixin Messenger</string>
+  <string name="failed_to_open_database" platform="Desktop">An error occurred while opening the database.</string>
+  <string name="database_corrupted_tips" platform="Desktop">The database is corrupted and cannot be recovered. Clicking continue will create a new database file.</string>
+  <string name="database_locked_tips" platform="Desktop">The database file is locked and cannot be accessed. Please try restarting the application or the system and try again.</string>
 </resources>
