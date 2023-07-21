@@ -1623,4 +1623,5 @@
   <string name="use_biometric" platform="Desktop">使用生物识别</string>
   <string name="unlock_mixin_messenger" platform="Desktop">解锁 Mixin Messenger</string>
   <string name="failed_to_open_database" platform="Desktop">打开数据库时出现了错误。</string>
+  <string name="database_corrupted_tips" platform="Desktop">数据库已损坏，暂无法恢复。点击继续将重新创建一个新的数据库文件。</string>
 </resources>
