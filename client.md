@@ -1652,4 +1652,4 @@
 | Desktop | unlock_mixin_messenger | Unlock Mixin Messenger | 解锁 Mixin Messenger |     |     |     |
 | Desktop | failed_to_open_database | An error occurred while opening the database. | 打开数据库时出现了错误。 |     |     |     |
 | Desktop | database_corrupted_tips | The database is corrupted and cannot be recovered. Clicking continue will create a new database file. | 数据库已损坏，暂无法恢复。点击继续将重新创建一个新的数据库文件。 |     |     |     |
-| Desktop | database_locked_tips |     |     |     |     |     |
+| Desktop | database_locked_tips |     | 数据库文件已被锁定，无法访问。请尝试重启应用或者重启系统后再试。 |     |     |     |
