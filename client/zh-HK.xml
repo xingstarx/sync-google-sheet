@@ -80,7 +80,7 @@
   <string name="Importing_Chat_Progress" platform="iOS">導入聊天記錄（%1$s%）</string>
   <string name="unable_connect_to_desktop" platform="iOS, android">無法連接到桌面，請稍後重試</string>
   <string name="Overwrite" platform="iOS, android">覆蓋</string>
-  <string name="not_supported_deposit" platform="android, iOS">Mixin 已停止支持 %1$s 的充值服務。您可以繼續提現和轉賬錢包餘額中的 %1$s。**瞭解更多**請閲讀文檔。</string>
+  <string name="not_supported_deposit" platform="android, iOS">Mixin 已停止支持 %1$s 的充值服務。您可以繼續提現和轉賬錢包餘額中的 %2$s。**瞭解更多**請閲讀文檔。</string>
   <string name="access_your_bots_list" platform="android, iOS">訪問你的機器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">訪問你的圈子列表</string>
   <string name="access_your_collectibles" platform="android, iOS">訪問你的 NFT 列表</string>
