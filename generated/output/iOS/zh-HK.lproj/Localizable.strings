@@ -179,6 +179,7 @@
 "chat_decryption_failed_hint" = "等待%@上線後建立加密會話。";
 "chat_group_add" = "%1$@添加了%2$@";
 "chat_group_call_cancel" = "%@已取消羣組語音";
+"chat_group_call_cancel_other" = "%@未接聽羣組語音";
 "chat_group_call_decline" = "%@已拒絕羣組語音";
 "chat_group_call_invite" = "%@邀請你加入羣組語音";
 "chat_group_exit" = "%@離開了羣組";

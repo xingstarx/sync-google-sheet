@@ -179,6 +179,7 @@
 "chat_decryption_failed_hint" = "Waiting for %@ to get online and establish an encrypted session.";
 "chat_group_add" = "%1$@ menambahkan %2$@";
 "chat_group_call_cancel" = "%@ telah membatalkan panggilan grup";
+"chat_group_call_cancel_other" = "%@ did not answer group call";
 "chat_group_call_decline" = "%@ telah menolak panggilan grup";
 "chat_group_call_invite" = "%@ telah mengundang Anda ke panggilan grup";
 "chat_group_exit" = "%@ keluar";

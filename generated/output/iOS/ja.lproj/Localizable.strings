@@ -179,6 +179,7 @@
 "chat_decryption_failed_hint" = "%@が参加し暗号化セッションが開始するまで待機しています...";
 "chat_group_add" = "%1$@が%2$@を追加しました";
 "chat_group_call_cancel" = "%@がグループ通話をキャンセルしました";
+"chat_group_call_cancel_other" = "%@ did not answer group call";
 "chat_group_call_decline" = "%@グループ通話が終了しました";
 "chat_group_call_invite" = "%@からグループ通話の招待がきています";
 "chat_group_exit" = "%@が退出しました";
