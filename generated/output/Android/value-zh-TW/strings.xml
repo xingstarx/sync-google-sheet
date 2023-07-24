@@ -686,7 +686,7 @@
 	<string name="Not_logged_in">還沒有登入</string>
 	<string name="Not_recognized">無法識別</string>
 	<string name="Not_support">不支援備份</string>
-	<string name="not_supported_deposit">Mixin 錢包現已不支援 %1$s 充值，注意已轉入的 %2$s 資產可以繼續轉賬或提現，閱讀檔案**瞭解更多**。</string>
+	<string name="not_supported_deposit">Mixin 已停止支援 %1$s 的充值服務。您可以繼續提現和轉賬錢包餘額中的 %1$s。**瞭解更多**請閱讀檔案。</string>
 	<string name="Not_turn_off_screen_hint">同步時請不要關閉螢幕並保持 Mixin 在前臺執行。</string>
 	<string name="Notice">注意</string>
 	<string name="Notification_and_Confirmation">通知和確認</string>
