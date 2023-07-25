@@ -666,7 +666,6 @@
 	<string name="Not_logged_in">No se ha iniciado sesión</string>
 	<string name="Not_recognized">No reconocido</string>
 	<string name="Not_support">No compatible</string>
-	<string name="not_supported_deposit">Mixin Wallet no admite el depósito de %1$s. Ten en cuenta que puedes seguir transfiriendo o retirando los %2$s depositados. Lee el documento para **obtener más información**.</string>
 	<string name="Notice">Aviso</string>
 	<string name="Notification_and_Confirmation">Notificación y Confirmación</string>
 	<string name="notification_channel_description">Muestra qué música se está reproduciendo actualmente en Mixin Messenger</string>
