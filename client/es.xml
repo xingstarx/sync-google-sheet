@@ -16,7 +16,6 @@
   <string name="Access_Contacts_Hint" platform="iOS">Mixin sincroniza tu libreta de direcciones con los servidores de Mixin para ayudarte a conectarte con otros usuarios de Mixin</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Acceso denegado</string>
   <string name="Access_to_Contacts" platform="iOS">Acceso a Contactos</string>
-  <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet no admite el depósito de %1$s. Ten en cuenta que puedes seguir transfiriendo o retirando los %2$s depositados. Lee el documento para **obtener más información**.</string>
   <string name="access_your_bots_list" platform="android, iOS">accede a tu lista de bots</string>
   <string name="access_your_circle_list" platform="android, iOS">accede a tu lista de círculos</string>
   <string name="access_your_collectibles" platform="android, iOS">accede a tus coleccionables</string>
