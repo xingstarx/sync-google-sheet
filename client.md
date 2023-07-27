@@ -1655,4 +1655,4 @@
 | Desktop | database_corrupted_tips | The database is corrupted and cannot be recovered. Clicking continue will create a new database file. | 数据库已损坏，暂无法恢复。点击继续将重新创建一个新的数据库文件。 |     |     |     |
 | Desktop | database_locked_tips | The database file is locked and cannot be accessed. Please try restarting the application or the system and try again. | 数据库文件已被锁定，无法访问。请尝试重启应用或者重启系统后再试。 |     |     |     |
 | Desktop | database_recreate_tips | Create a new database file and the old file will be deleted. | 重新创建一个新的数据库文件，旧文件将被删除。 |     |     |     |
-| Desktop | database_not_a_db_tips |     | 无法打开数据库，文件不是一个有效的数据库文件。 |     |     |     |
+| Desktop | database_not_a_db_tips | Cannot open the database. The file is not a valid database file. | 无法打开数据库，文件不是一个有效的数据库文件。 |     |     |     |
