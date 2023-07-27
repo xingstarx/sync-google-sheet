@@ -1627,5 +1627,5 @@
   <string name="database_corrupted_tips" platform="Desktop">数据库已损坏，暂无法恢复。点击继续将重新创建一个新的数据库文件。</string>
   <string name="database_locked_tips" platform="Desktop">数据库文件已被锁定，无法访问。请尝试重启应用或者重启系统后再试。</string>
   <string name="database_recreate_tips" platform="Desktop">重新创建一个新的数据库文件，旧文件将被删除。</string>
-  <string name="database_not_a_db_tips" platform="Desktop">数据库文件不是一个有效的数据库文件。</string>
+  <string name="database_not_a_db_tips" platform="Desktop">无法打开数据库，文件不是一个有效的数据库文件。</string>
 </resources>
