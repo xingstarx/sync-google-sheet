@@ -334,8 +334,8 @@
 | android, Desktop | chat_delete_message.count | Delete %1$d messages? | 删除 %1$d 条消息吗？ | %1$dのメッセージを削除しますか？ | Padamkan %1$d mesej? | Hapus %1$d pesan? |
 | android | chat_delete_url | https://mixinmessenger.zendesk.com/hc/articles/360028209571 |     | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 |
 | android, iOS, Desktop | chat_group_add | %1$s added %2$s | %1$s添加了%2$s | %1$sが%2$sを追加しました | %1$s menambahkan %2$s | %1$s menambahkan %2$s |
-| android, iOS | chat_group_call_cancel | %1$s has canceled group call | %1$s已取消群组语音 | %1$sがグループ通話をキャンセルしました | %1$s telah membatalkan panggilan kumpulan | %1$s telah membatalkan panggilan grup |
-| android, iOS | chat_group_call_cancel_other | %1$s did not answer group call | %1$s未接听群组语音 |     |     |     |
+| android, iOS | chat_group_call_did_not_answer | %1$s did not answer group call | %1$s未接听群组语音 |     |     |     |
+| android, iOS | chat_group_call_self_did_not_answer | You did not answer group call | 你未接听群组语音 |     |     |     |
 | android, iOS | chat_group_call_decline | %1$s has declined group call | %1$s已拒绝群组语音 | %1$sグループ通話が終了しました | %1$s telah menolak panggilan kumpulan | %1$s telah menolak panggilan grup |
 | android | chat_group_call_end | Group call has ended | 群组语音已结束 | グループ通話が終了しました  |     |     |
 | android, iOS | chat_group_call_invite | %1$s has invited you to a group call | %1$s邀请你加入群组语音 | %1$sからグループ通話の招待がきています | %1$s telah menjemput anda ke panggilan kumpulan | %1$s telah mengundang Anda ke panggilan grup |
