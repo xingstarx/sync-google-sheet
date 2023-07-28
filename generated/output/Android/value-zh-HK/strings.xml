@@ -191,13 +191,13 @@
 		<item quantity="other">刪除 %1$d 條消息嗎？</item>
 	</plurals>
 	<string name="chat_group_add">%1$s添加了%2$s</string>
-	<string name="chat_group_call_cancel">%1$s已取消羣組語音</string>
-	<string name="chat_group_call_cancel_other">%1$s未接聽羣組語音</string>
 	<string name="chat_group_call_decline">%1$s已拒絕羣組語音</string>
+	<string name="chat_group_call_did_not_answer">%1$s未接聽羣組語音</string>
 	<string name="chat_group_call_end">羣組語音已結束</string>
 	<string name="chat_group_call_invite">%1$s邀請你加入羣組語音</string>
 	<string name="chat_group_call_mute">你的麥克風在開始時會被關閉</string>
 	<string name="chat_group_call_remote_peer_closed">連接已結束，請重試</string>
+	<string name="chat_group_call_self_did_not_answer">你未接聽羣組語音</string>
 	<string name="chat_group_exit">%1$s離開了羣組</string>
 	<string name="chat_group_join">%1$s通過邀請鏈接加入羣組</string>
 	<string name="chat_group_remove">%1$s移除了%2$s</string>
