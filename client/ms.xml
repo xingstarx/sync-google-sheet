@@ -749,14 +749,12 @@
   <string name="withdrawal_addr_biometric_add" platform="android">Gunakan Biometrik untuk menyimpan alamat</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Gunakan Biometrik untuk memadam alamat</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">Gunakan Biometrik untuk mengubah alamat</string>
-  <string name="withdrawal_addr_memo" platform="android, iOS">Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo.</string>
   <string name="withdrawal_addr_new" platform="android, iOS">Alamat %1$s Baharu</string>
-  <string name="withdrawal_addr_no_memo" platform="android, iOS">Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo.</string>
+  <string name="withdrawal_addr_add_memo" platform="android, iOS">Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo.</string>
   <string name="withdrawal_addr_no_tag" platform="android, iOS">Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag.</string>
   <string name="withdrawal_addr_pin_add" platform="android">Masukkan PIN untuk menyimpan alamat</string>
   <string name="withdrawal_addr_pin_delete" platform="android">Masukkan PIN untuk menghapus alamat</string>
   <string name="withdrawal_addr_pin_modify" platform="android">Masukkan PIN untuk mengubah alamat</string>
-  <string name="withdrawal_addr_tag" platform="android, iOS">Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag.</string>
   <string name="withdrawal_address_tips" platform="android, iOS">Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan!</string>
   <string name="withdrawal_label" platform="android, iOS">Label (contohnya pertukaran, dompet, dll.)</string>
   <string name="withdrawal_memo" platform="android, iOS">Memo</string>
