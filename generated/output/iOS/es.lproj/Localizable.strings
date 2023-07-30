@@ -606,7 +606,6 @@
 "no_posts" = "SIN PUBLICACIONES";
 "no_results" = "SIN RESULTADOS";
 "no_stickers" = "SIN PEGATINAS";
-"no_tag" = "Sin etiqueta";
 "no_transactions" = "Sin transacciones";
 "nobody" = "Nadie";
 "none" = "Ninguno";
@@ -1090,11 +1089,9 @@
 "withdraw_address" = "Dirección";
 "withdraw_by_pin" = "Retirar por PIN";
 "withdrawal" = "Retirar";
-"withdrawal_addr_memo" = "Etiqueta de destino o número de identificación o notas. De lo contrario, puedes configurarlo como Sin Nota.";
+"withdrawal_addr_add_memo" = "If you are required to fill in Destination Tag or ID Number or notes, you can %@.";
+"withdrawal_addr_add_tag" = "If you are required to fill in Destination Tag or ID Number or notes, you can %@.";
 "withdrawal_addr_new" = "Nueva dirección de %@";
-"withdrawal_addr_no_memo" = "Si debes completar la etiqueta de destino, el número de identificación o las notas, puedes añadir una nota.";
-"withdrawal_addr_no_tag" = "Si debes completar la etiqueta de destino, el número de identificación o las notas, puedes añadir una etiqueta.";
-"withdrawal_addr_tag" = "Etiqueta de destino o número de identificación o notas. Si no, puedes configurarlo establécelo como Sin etiqueta.";
 "withdrawal_address_tips" = "Para el primer retiro a una nueva dirección, ¡prueba con cantidades pequeñas! Si retiras los activos a la dirección incorrecta, ¡no se recuperarán!";
 "withdrawal_label" = "Etiqueta (por ejemplo, intercambios, carteras, etc.)";
 "withdrawal_memo" = "Nota";
@@ -1102,7 +1099,6 @@
 "withdrawal_minimum_reserve" = "Reserva mínima: ";
 "withdrawal_minimum_withdrawal" = "Retiro mínimo: ";
 "withdrawal_network_fee" = "Tarifa de red: ";
-"withdrawal_no_memo" = "Sin nota";
 "withdrawal_to" = "Retirar a %@";
 "year" = "Year";
 "you" = "Tú";

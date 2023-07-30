@@ -606,7 +606,6 @@
 "no_posts" = "НЕТ СООБЩЕНИЙ";
 "no_results" = "НЕТ РЕЗУЛЬТАТОВ";
 "no_stickers" = "НЕТ НАКЛЕЕК";
-"no_tag" = "Нет тега";
 "no_transactions" = "Нет транзакций";
 "nobody" = "Никто";
 "none" = "Никто";
@@ -1090,11 +1089,9 @@
 "withdraw_address" = "Адрес";
 "withdraw_by_pin" = "Вывод по PIN-коду";
 "withdrawal" = "Вывести";
-"withdrawal_addr_memo" = "Тег назначения или идентификационный номер или примечания. Если нет, вы можете установить Нет памятки.";
+"withdrawal_addr_add_memo" = "If you are required to fill in Destination Tag or ID Number or notes, you can %@.";
+"withdrawal_addr_add_tag" = "If you are required to fill in Destination Tag or ID Number or notes, you can %@.";
 "withdrawal_addr_new" = "Новый адрес %@";
-"withdrawal_addr_no_memo" = "Если вам необходимо заполнить тег назначения или идентификационный номер или примечания, вы можете добавить памятку.";
-"withdrawal_addr_no_tag" = "Если вам необходимо заполнить тег назначения, идентификационный номер или примечания, вы можете Добавить тега.";
-"withdrawal_addr_tag" = "Тег назначения или идентификационный номер или примечания. Если нет, вы можете установить его Нет тега.";
 "withdrawal_address_tips" = "Для первого вывода на новый адрес попробуйте небольшие суммы! Если вы выведете активы не на тот адрес, они не будут восстановлены!";
 "withdrawal_label" = "Ярлык (например, биржи, кошельки и т.д.)";
 "withdrawal_memo" = "Памятка";
@@ -1102,7 +1099,6 @@
 "withdrawal_minimum_reserve" = "Минимальный резерв: ";
 "withdrawal_minimum_withdrawal" = "Минимальный вывод: ";
 "withdrawal_network_fee" = "Комиссия за сеть: ";
-"withdrawal_no_memo" = "Нет памятки";
 "withdrawal_to" = "Вывод на %@";
 "year" = "Year";
 "you" = "Вы";
