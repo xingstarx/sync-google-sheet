@@ -960,7 +960,6 @@
   <string name="No_rebates" platform="android">No rebates</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">NO RESULTS</string>
   <string name="NO_STICKERS" platform="android, iOS">NO STICKERS</string>
-  <string name="No_tag" platform="android, iOS">No Tag</string>
   <string name="No_transactions" platform="android, iOS">No transactions</string>
   <string name="No_withdrawals" platform="android">No withdrawals</string>
   <string name="Nobody" platform="android, iOS">Nobody</string>
@@ -1559,7 +1558,6 @@
   <string name="withdrawal_minimum_reserve" platform="android, iOS">Minimum reserve: </string>
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">Minimum withdrawal: </string>
   <string name="withdrawal_network_fee" platform="android, iOS">Network fee: </string>
-  <string name="withdrawal_no_memo" platform="android, iOS">No Memo</string>
   <string name="withdrawal_to" platform="android, iOS">Withdraw to %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>

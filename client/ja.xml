@@ -818,7 +818,6 @@
   <string name="No_rebates" platform="android">払い戻しはありません</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">結果なし</string>
   <string name="NO_STICKERS" platform="android, iOS">スタンプはありません</string>
-  <string name="No_tag" platform="android, iOS">タグなし</string>
   <string name="No_transactions" platform="android, iOS">トランザクションはありません</string>
   <string name="No_withdrawals" platform="android">出金はありません</string>
   <string name="Nobody" platform="android, iOS">ユーザーなし</string>
@@ -1387,7 +1386,6 @@
   <string name="withdrawal_minimum_reserve" platform="android, iOS">最低準備金 </string>
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">最低出金額：</string>
   <string name="withdrawal_network_fee" platform="android, iOS">ネットワーク手数料：</string>
-  <string name="withdrawal_no_memo" platform="android, iOS">メモなし</string>
   <string name="withdrawal_to" platform="android, iOS">%1$sへ出金</string>
   <string name="withdrawal_with_biometric" platform="android">生体認証を使用して出金</string>
   <string name="withdrawal_with_PIN" platform="android">PINコードを使用して出金</string>
