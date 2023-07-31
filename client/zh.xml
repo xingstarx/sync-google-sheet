@@ -1523,8 +1523,8 @@
   <string name="withdrawal_addr_biometric_delete" platform="android">使用生物识别来完成删除</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">使用生物识别来完成修改</string>
   <string name="withdrawal_addr_new" platform="android, iOS">新 %1$s 地址</string>
-  <string name="withdrawal_addr_add_memo" platform="android, iOS">如果你需要填写地址标签、数字 ID 或备注，%1$s。</string>
-  <string name="withdrawal_addr_add_tag" platform="android, iOS">如果你需要填写地址标签、数字 ID 或备注，%1$s。</string>
+  <string name="withdrawal_addr_no_memo" platform="android, iOS">如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。</string>
+  <string name="withdrawal_addr_no_tag" platform="android, iOS">如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。</string>
   <string name="withdrawal_addr_pin_add" platform="android">请输入 PIN 来完成添加</string>
   <string name="withdrawal_addr_pin_delete" platform="android">请输入 PIN 来完成删除</string>
   <string name="withdrawal_addr_pin_modify" platform="android">请输入 PIN 来完成修改</string>
