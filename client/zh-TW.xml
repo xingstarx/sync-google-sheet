@@ -1523,14 +1523,12 @@
   <string name="withdrawal_addr_biometric_add" platform="android">使用生物識別來完成新增</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">使用生物識別來完成刪除</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">使用生物識別來完成修改</string>
-  <string name="withdrawal_addr_memo" platform="android, iOS">地址標籤、數字 ID 或備註。如果沒有，點選不使用 Memo（備註）。</string>
+  <string name="withdrawal_addr_has_memo_or_tag" platform="android, iOS">地址標籤、數字 ID 或備註。如果沒有，%1$s。</string>
   <string name="withdrawal_addr_new" platform="android, iOS">新 %1$s 地址</string>
-  <string name="withdrawal_addr_no_memo" platform="android, iOS">如果你需要填寫地址標籤、數字 ID 或備註，點選新增 Memo（備註）。</string>
-  <string name="withdrawal_addr_no_tag" platform="android, iOS">如果你需要填寫地址標籤、數字 ID 或備註，點選新增 Tag（標籤）。</string>
+  <string name="withdrawal_addr_no_memo_or_tag" platform="android, iOS">如果你需要填寫地址標籤、數字 ID 或備註，%1$s。</string>
   <string name="withdrawal_addr_pin_add" platform="android">請輸入 PIN 來完成新增</string>
   <string name="withdrawal_addr_pin_delete" platform="android">請輸入 PIN 來完成刪除</string>
   <string name="withdrawal_addr_pin_modify" platform="android">請輸入 PIN 來完成修改</string>
-  <string name="withdrawal_addr_tag" platform="android, iOS">地址標籤、數字 ID 或備註。如果沒有，點選不使用 Tag（標籤）。</string>
   <string name="withdrawal_address_tips" platform="android, iOS">首次提現到新地址，建議小額嘗試！如果您提現到錯誤的地址資產將無法找回！</string>
   <string name="withdrawal_label" platform="android, iOS">地址名稱，例如 OceanOne</string>
   <string name="withdrawal_memo" platform="android, iOS">Memo（備註）</string>
