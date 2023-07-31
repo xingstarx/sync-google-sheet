@@ -1545,6 +1545,7 @@
   <string name="withdrawal_addr_biometric_add" platform="android">Use Biometric to save address</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Use Biometric to delete address</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">Use Biometric to modify address</string>
+  <string name="withdrawal_addr_memo" platform="android, iOS">Destination Tag or ID Number or notes. If not, you can set it No Memo.</string>
   <string name="withdrawal_addr_new" platform="android, iOS">New %1$s Address</string>
   <string name="withdrawal_addr_no_memo" platform="android, iOS">If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo.</string>
   <string name="withdrawal_addr_no_tag" platform="android, iOS">If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag.</string>

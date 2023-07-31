@@ -1373,6 +1373,7 @@
   <string name="withdrawal_addr_biometric_add" platform="android">生体認証を使用してアドレスを保存</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">生体認証を使用してアドレスを削除</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">生体認証を使用してアドレスを修正</string>
+  <string name="withdrawal_addr_memo" platform="android, iOS">宛先タグやID番号やメモがない場合は、「メモなし」に設定することができます。</string>
   <string name="withdrawal_addr_new" platform="android, iOS">新しい%1$sアドレス</string>
   <string name="withdrawal_addr_no_memo" platform="android, iOS">宛先タグ、ID番号、またはメモを入力する必要がある場合は、「メモを追加」に設定することができます。</string>
   <string name="withdrawal_addr_no_tag" platform="android, iOS">宛先タグ、ID番号、またはメモを入力する必要がある場合は、「タグを追加」に設定することができます。</string>

@@ -748,6 +748,7 @@
   <string name="withdrawal_addr_biometric_add" platform="android">Gunakan Biometrik untuk menyimpan alamat</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Gunakan Biometrik untuk memadam alamat</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">Gunakan Biometrik untuk mengubah alamat</string>
+  <string name="withdrawal_addr_memo" platform="android, iOS">Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo.</string>
   <string name="withdrawal_addr_new" platform="android, iOS">Alamat %1$s Baharu</string>
   <string name="withdrawal_addr_no_memo" platform="android, iOS">Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo.</string>
   <string name="withdrawal_addr_no_tag" platform="android, iOS">Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag.</string>
