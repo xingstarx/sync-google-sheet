@@ -961,6 +961,7 @@
 | android | No_rebates | No rebates | 暂无退款记录 | 払い戻しはありません | Tiada rebat | Tidak ada rabat |
 | android, iOS, Desktop | NO_RESULTS | NO RESULTS | 未找到相关结果 | 結果なし | Tiada keputusan | Tidak ada hasil |
 | android, iOS | NO_STICKERS | NO STICKERS | 还未添加任何表情 | スタンプはありません |     |     |
+| android, iOS | No_tag | No Tag | 点击不使用 Tag（标签） | タグなし | Tiada Tag | Tanpa Tag |
 | android, iOS | No_transactions | No transactions | 暂无转账记录 | トランザクションはありません | Tiada urus niaga | Tidak ada transaksi |
 | android | No_withdrawals | No withdrawals | 暂无提现记录 | 出金はありません | Tiada pengeluaran | Tidak ada penarikan |
 | android, iOS | Nobody | Nobody | 没有人 | ユーザーなし | Tiada siapa | Tak seorangpun |
@@ -1546,12 +1547,14 @@
 | android | withdrawal_addr_biometric_add | Use Biometric to save address | 使用生物识别来完成添加 | 生体認証を使用してアドレスを保存 | Gunakan Biometrik untuk menyimpan alamat | Gunakan Biometrik untuk menyimpan alamat |
 | android | withdrawal_addr_biometric_delete | Use Biometric to delete address | 使用生物识别来完成删除 | 生体認証を使用してアドレスを削除 | Gunakan Biometrik untuk memadam alamat | Gunakan Biometrik untuk menghapus alamat |
 | android | withdrawal_addr_biometric_modify | Use Biometric to modify address | 使用生物识别来完成修改 | 生体認証を使用してアドレスを修正 | Gunakan Biometrik untuk mengubah alamat | Gunakan Biometrik untuk mengubah alamat |
+| android, iOS | withdrawal_addr_memo | Destination Tag or ID Number or notes. If not, you can set it No Memo. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。 | 宛先タグやID番号やメモがない場合は、「メモなし」に設定することができます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo. |
 | android, iOS | withdrawal_addr_new | New %1$s Address | 新 %1$s 地址 | 新しい%1$sアドレス | Alamat %1$s Baharu | Alamat %1$s Baru |
-| android, iOS | withdrawal_addr_add_memo | If you are required to fill in Destination Tag or ID Number or notes, you can %1$s. | 如果你需要填写地址标签、数字 ID 或备注，%1$s。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「%1$s」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh %1$s. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat %1$s. |
-| android, iOS | withdrawal_addr_add_tag | If you are required to fill in Destination Tag or ID Number or notes, you can %1$s. | 如果你需要填写地址标签、数字 ID 或备注，%1$s。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「%1$s」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh %1$s. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat %1$s. |
+| android, iOS | withdrawal_addr_no_memo | If you are required to fill in Destination Tag or ID Number or notes, you can Add Memo. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「メモを追加」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo. | Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo. |
+| android, iOS | withdrawal_addr_no_tag | If you are required to fill in Destination Tag or ID Number or notes, you can Add Tag. | 如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。 | 宛先タグ、ID番号、またはメモを入力する必要がある場合は、「タグを追加」に設定することができます。 | Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag. | Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag. |
 | android | withdrawal_addr_pin_add | Enter PIN to save address | 请输入 PIN 来完成添加 | PINコードを入力してアドレスを保存 | Masukkan PIN untuk menyimpan alamat | Masukkan PIN untuk menyimpan alamat |
 | android | withdrawal_addr_pin_delete | Enter PIN to delete address | 请输入 PIN 来完成删除 | PINコードを入力してアドレスを削除 | Masukkan PIN untuk menghapus alamat | Masukkan PIN untuk menghapus alamat |
 | android | withdrawal_addr_pin_modify | Enter PIN to modify address | 请输入 PIN 来完成修改 | PINコードを入力してアドレスを修正 | Masukkan PIN untuk mengubah alamat | Masukkan PIN untuk mengubah alamat |
+| android, iOS | withdrawal_addr_tag | Destination Tag or ID Number or notes. If not, you can set it No Tag. | 地址标签、数字 ID 或备注。如果没有，点击不使用 Tag（标签）。 | 宛先タグまたはID番号またはメモを入力してください。それ以外の場合「タグなし」に設定できます。 | Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag. | Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Tag. |
 | android, iOS | withdrawal_address_tips | For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered! | 首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！ | 新しいアドレスへの最初の出金は必ず少額で行ってください。アドレスが間違っていると資産は失われます。 | Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan! | Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil. |
 | android, iOS | withdrawal_label | Label (e.g. exchanges, wallets, etc.) | 地址名称，例如 OceanOne | ラベル (例. 取引所, ウォレットなど) | Label (contohnya pertukaran, dompet, dll.) | Label (mis. Kurs, wallet, dll.) |
 | android, iOS | withdrawal_memo | Memo | Memo（备注） | メモ  | Memo | Memo |
@@ -1559,6 +1562,7 @@
 | android, iOS | withdrawal_minimum_reserve | Minimum reserve:  | 最少保留数量： | 最低準備金  |     |     |
 | android, iOS | withdrawal_minimum_withdrawal | Minimum withdrawal:  | 最小提现数量： | 最低出金額： |     |     |
 | android, iOS | withdrawal_network_fee | Network fee:  | 网络手续费： | ネットワーク手数料： |     |     |
+| android, iOS | withdrawal_no_memo | No Memo | 点击不使用 Memo（备注） | メモなし | Tiada Memo | Tanpa Memo |
 | android, iOS | withdrawal_to | Withdraw to %1$s | 提现到 %1$s | %1$sへ出金 | Pengeluaran ke %1$s | Penarikan ke %1$s |
 | android | withdrawal_with_biometric | Withdrawal with Biometric | 用生物识别提现 | 生体認証を使用して出金 | Pengeluaran dengan Biometrik | Penarikan dengan Biometrik |
 | android | withdrawal_with_PIN | Withdrawal with PIN | 用 PIN 提现 | PINコードを使用して出金 | Pengeluaran dengan PIN | Penarikan dengan PIN |
