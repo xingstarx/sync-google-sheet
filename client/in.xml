@@ -422,6 +422,7 @@
   <string name="No_raws" platform="android">Tidak ada raw</string>
   <string name="No_rebates" platform="android">Tidak ada rabat</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">Tidak ada hasil</string>
+  <string name="No_tag" platform="android, iOS">Tanpa Tag</string>
   <string name="No_transactions" platform="android, iOS">Tidak ada transaksi</string>
   <string name="No_withdrawals" platform="android">Tidak ada penarikan</string>
   <string name="Nobody" platform="android, iOS">Tak seorangpun</string>

@@ -447,6 +447,7 @@
   <string name="No_raws" platform="android">Tanpa raws</string>
   <string name="No_rebates" platform="android">Tiada rebat</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">Tiada keputusan</string>
+  <string name="No_tag" platform="android, iOS">Tiada Tag</string>
   <string name="No_transactions" platform="android, iOS">Tiada urus niaga</string>
   <string name="No_withdrawals" platform="android">Tiada pengeluaran</string>
   <string name="Nobody" platform="android, iOS">Tiada siapa</string>

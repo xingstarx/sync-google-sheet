@@ -961,6 +961,7 @@
 | android | No_rebates | No rebates | 暂无退款记录 | 払い戻しはありません | Tiada rebat | Tidak ada rabat |
 | android, iOS, Desktop | NO_RESULTS | NO RESULTS | 未找到相关结果 | 結果なし | Tiada keputusan | Tidak ada hasil |
 | android, iOS | NO_STICKERS | NO STICKERS | 还未添加任何表情 | スタンプはありません |     |     |
+| android, iOS | No_tag | No Tag | 点击不使用 Tag（标签） | タグなし | Tiada Tag | Tanpa Tag |
 | android, iOS | No_transactions | No transactions | 暂无转账记录 | トランザクションはありません | Tiada urus niaga | Tidak ada transaksi |
 | android | No_withdrawals | No withdrawals | 暂无提现记录 | 出金はありません | Tiada pengeluaran | Tidak ada penarikan |
 | android, iOS | Nobody | Nobody | 没有人 | ユーザーなし | Tiada siapa | Tak seorangpun |

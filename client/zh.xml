@@ -944,6 +944,7 @@
   <string name="No_rebates" platform="android">暂无退款记录</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">未找到相关结果</string>
   <string name="NO_STICKERS" platform="android, iOS">还未添加任何表情</string>
+  <string name="No_tag" platform="android, iOS">点击不使用 Tag（标签）</string>
   <string name="No_transactions" platform="android, iOS">暂无转账记录</string>
   <string name="No_withdrawals" platform="android">暂无提现记录</string>
   <string name="Nobody" platform="android, iOS">没有人</string>

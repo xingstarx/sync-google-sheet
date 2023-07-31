@@ -818,6 +818,7 @@
   <string name="No_rebates" platform="android">払い戻しはありません</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">結果なし</string>
   <string name="NO_STICKERS" platform="android, iOS">スタンプはありません</string>
+  <string name="No_tag" platform="android, iOS">タグなし</string>
   <string name="No_transactions" platform="android, iOS">トランザクションはありません</string>
   <string name="No_withdrawals" platform="android">出金はありません</string>
   <string name="Nobody" platform="android, iOS">ユーザーなし</string>

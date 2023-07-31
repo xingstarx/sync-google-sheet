@@ -960,6 +960,7 @@
   <string name="No_rebates" platform="android">No rebates</string>
   <string name="NO_RESULTS" platform="android, iOS, Desktop">NO RESULTS</string>
   <string name="NO_STICKERS" platform="android, iOS">NO STICKERS</string>
+  <string name="No_tag" platform="android, iOS">No Tag</string>
   <string name="No_transactions" platform="android, iOS">No transactions</string>
   <string name="No_withdrawals" platform="android">No withdrawals</string>
   <string name="Nobody" platform="android, iOS">Nobody</string>
