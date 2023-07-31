@@ -1374,14 +1374,12 @@
   <string name="withdrawal_addr_biometric_add" platform="android">Использовать биометрию для сохранения адреса</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Использовать биометрию для удаления адреса</string>
   <string name="withdrawal_addr_biometric_modify" platform="android">Использовать биометрию для изменения адреса</string>
-  <string name="withdrawal_addr_memo" platform="android, iOS">Тег назначения или идентификационный номер или примечания. Если нет, вы можете установить Нет памятки.</string>
+  <string name="withdrawal_addr_has_memo_or_tag" platform="android, iOS">Тег назначения или номер ID или заметки. Если нет, вы можете установить это %1$s.</string>
   <string name="withdrawal_addr_new" platform="android, iOS">Новый адрес %1$s</string>
-  <string name="withdrawal_addr_no_memo" platform="android, iOS">Если вам необходимо заполнить тег назначения или идентификационный номер или примечания, вы можете добавить памятку.</string>
-  <string name="withdrawal_addr_no_tag" platform="android, iOS">Если вам необходимо заполнить тег назначения, идентификационный номер или примечания, вы можете Добавить тега.</string>
+  <string name="withdrawal_addr_no_memo_or_tag" platform="android, iOS">Если вам требуется заполнить тег назначения или номер ID или заметки, вы можете %1$s.</string>
   <string name="withdrawal_addr_pin_add" platform="android">Введите PIN-код, чтобы сохранить адрес</string>
   <string name="withdrawal_addr_pin_delete" platform="android">Введите PIN-код, чтобы удалить адрес</string>
   <string name="withdrawal_addr_pin_modify" platform="android">Введите PIN-код, чтобы изменить адрес</string>
-  <string name="withdrawal_addr_tag" platform="android, iOS">Тег назначения или идентификационный номер или примечания. Если нет, вы можете установить его Нет тега.</string>
   <string name="withdrawal_address_tips" platform="android, iOS">Для первого вывода на новый адрес попробуйте небольшие суммы! Если вы выведете активы не на тот адрес, они не будут восстановлены!</string>
   <string name="withdrawal_label" platform="android, iOS">Ярлык (например, биржи, кошельки и т.д.)</string>
   <string name="withdrawal_memo" platform="android, iOS">Памятка</string>
