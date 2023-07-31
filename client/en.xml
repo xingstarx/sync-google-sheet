@@ -1561,6 +1561,7 @@
   <string name="withdrawal_minimum_reserve" platform="android, iOS">Minimum reserve: </string>
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">Minimum withdrawal: </string>
   <string name="withdrawal_network_fee" platform="android, iOS">Network fee: </string>
+  <string name="withdrawal_no_memo" platform="android, iOS">No Memo</string>
   <string name="withdrawal_to" platform="android, iOS">Withdraw to %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>

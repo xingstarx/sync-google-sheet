@@ -761,6 +761,7 @@
   <string name="withdrawal_label" platform="android, iOS">Label (contohnya pertukaran, dompet, dll.)</string>
   <string name="withdrawal_memo" platform="android, iOS">Memo</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">Jumlah pengeluaran minimum ialah %1$s %2$s</string>
+  <string name="withdrawal_no_memo" platform="android, iOS">Tiada Memo</string>
   <string name="withdrawal_to" platform="android, iOS">Pengeluaran ke %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Pengeluaran dengan Biometrik</string>
   <string name="withdrawal_with_PIN" platform="android">Pengeluaran dengan PIN</string>

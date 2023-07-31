@@ -1538,6 +1538,7 @@
   <string name="withdrawal_minimum_reserve" platform="android, iOS">最少保留数量：</string>
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">最小提现数量：</string>
   <string name="withdrawal_network_fee" platform="android, iOS">网络手续费：</string>
+  <string name="withdrawal_no_memo" platform="android, iOS">点击不使用 Memo（备注）</string>
   <string name="withdrawal_to" platform="android, iOS">提现到 %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">用生物识别提现</string>
   <string name="withdrawal_with_PIN" platform="android">用 PIN 提现</string>

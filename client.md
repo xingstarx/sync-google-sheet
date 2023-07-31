@@ -1562,6 +1562,7 @@
 | android, iOS | withdrawal_minimum_reserve | Minimum reserve:  | 最少保留数量： | 最低準備金  |     |     |
 | android, iOS | withdrawal_minimum_withdrawal | Minimum withdrawal:  | 最小提现数量： | 最低出金額： |     |     |
 | android, iOS | withdrawal_network_fee | Network fee:  | 网络手续费： | ネットワーク手数料： |     |     |
+| android, iOS | withdrawal_no_memo | No Memo | 点击不使用 Memo（备注） | メモなし | Tiada Memo | Tanpa Memo |
 | android, iOS | withdrawal_to | Withdraw to %1$s | 提现到 %1$s | %1$sへ出金 | Pengeluaran ke %1$s | Penarikan ke %1$s |
 | android | withdrawal_with_biometric | Withdrawal with Biometric | 用生物识别提现 | 生体認証を使用して出金 | Pengeluaran dengan Biometrik | Penarikan dengan Biometrik |
 | android | withdrawal_with_PIN | Withdrawal with PIN | 用 PIN 提现 | PINコードを使用して出金 | Pengeluaran dengan PIN | Penarikan dengan PIN |
