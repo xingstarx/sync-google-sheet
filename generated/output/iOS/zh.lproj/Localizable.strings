@@ -606,6 +606,7 @@
 "no_posts" = "没有文章";
 "no_results" = "未找到相关结果";
 "no_stickers" = "还未添加任何表情";
+"no_tag" = "点击不使用 Tag（标签）";
 "no_transactions" = "暂无转账记录";
 "nobody" = "没有人";
 "none" = "无";
@@ -1089,9 +1090,11 @@
 "withdraw_address" = "提现地址";
 "withdraw_by_pin" = "通过 PIN 提现";
 "withdrawal" = "提现";
-"withdrawal_addr_add_memo" = "如果你需要填写地址标签、数字 ID 或备注，%@。";
-"withdrawal_addr_add_tag" = "如果你需要填写地址标签、数字 ID 或备注，%@。";
+"withdrawal_addr_memo" = "地址标签、数字 ID 或备注。如果没有，点击不使用 Memo（备注）。";
 "withdrawal_addr_new" = "新 %@ 地址";
+"withdrawal_addr_no_memo" = "如果你需要填写地址标签、数字 ID 或备注，点击添加 Memo（备注）。";
+"withdrawal_addr_no_tag" = "如果你需要填写地址标签、数字 ID 或备注，点击添加 Tag（标签）。";
+"withdrawal_addr_tag" = "地址标签、数字 ID 或备注。如果没有，点击不使用 Tag（标签）。";
 "withdrawal_address_tips" = "首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！";
 "withdrawal_label" = "地址名称，例如 OceanOne";
 "withdrawal_memo" = "Memo（备注）";
@@ -1099,6 +1102,7 @@
 "withdrawal_minimum_reserve" = "最少保留数量：";
 "withdrawal_minimum_withdrawal" = "最小提现数量：";
 "withdrawal_network_fee" = "网络手续费：";
+"withdrawal_no_memo" = "点击不使用 Memo（备注）";
 "withdrawal_to" = "提现到 %@";
 "year" = "年";
 "you" = "你";

@@ -673,6 +673,7 @@
 	<string name="No_rebates">暫無退款記錄</string>
 	<string name="NO_RESULTS">未找到相關結果</string>
 	<string name="NO_STICKERS">還未添加任何表情</string>
+	<string name="No_tag">點擊不使用 Tag（標籤）</string>
 	<string name="No_transactions">暫無轉賬記錄</string>
 	<string name="No_withdrawals">暫無提現記錄</string>
 	<string name="Nobody">沒有人</string>
@@ -1168,15 +1169,17 @@
 	<string name="When_roaming">當漫遊時</string>
 	<string name="withdraw_Address">提現地址</string>
 	<string name="Withdrawal">提現</string>
-	<string name="withdrawal_addr_add_memo">如果你需要填寫地址標籤、數字 ID 或備註，%1$s。</string>
-	<string name="withdrawal_addr_add_tag">如果你需要填寫地址標籤、數字 ID 或備註，%1$s。</string>
 	<string name="withdrawal_addr_biometric_add">使用生物識別來完成添加</string>
 	<string name="withdrawal_addr_biometric_delete">使用生物識別來完成刪除</string>
 	<string name="withdrawal_addr_biometric_modify">使用生物識別來完成修改</string>
+	<string name="withdrawal_addr_memo">地址標籤、數字 ID 或備註。如果沒有，點擊不使用 Memo（備註）。</string>
 	<string name="withdrawal_addr_new">新 %1$s 地址</string>
+	<string name="withdrawal_addr_no_memo">如果你需要填寫地址標籤、數字 ID 或備註，點擊添加 Memo（備註）。</string>
+	<string name="withdrawal_addr_no_tag">如果你需要填寫地址標籤、數字 ID 或備註，點擊添加 Tag（標籤）。</string>
 	<string name="withdrawal_addr_pin_add">請輸入 PIN 來完成添加</string>
 	<string name="withdrawal_addr_pin_delete">請輸入 PIN 來完成刪除</string>
 	<string name="withdrawal_addr_pin_modify">請輸入 PIN 來完成修改</string>
+	<string name="withdrawal_addr_tag">地址標籤、數字 ID 或備註。如果沒有，點擊不使用 Tag（標籤）。</string>
 	<string name="withdrawal_address_tips">首次提現到新地址，建議小額嘗試！如果您提現到錯誤的地址資產將無法找回！</string>
 	<string name="withdrawal_label">地址名稱，例如 OceanOne</string>
 	<string name="withdrawal_memo">Memo（備註）</string>
@@ -1184,6 +1187,7 @@
 	<string name="withdrawal_minimum_reserve">最少保留數量：</string>
 	<string name="withdrawal_minimum_withdrawal">最小提現數量：</string>
 	<string name="withdrawal_network_fee">網絡手續費：</string>
+	<string name="withdrawal_no_memo">點擊不使用 Memo（備註）</string>
 	<string name="withdrawal_to">提現到 %1$s</string>
 	<string name="withdrawal_with_biometric">用生物識別提現</string>
 	<string name="withdrawal_with_PIN">用 PIN 提現</string>

@@ -607,6 +607,7 @@
 "no_posts" = "TIADA POST";
 "no_results" = "Tiada keputusan";
 "no_stickers" = "NO STICKERS";
+"no_tag" = "Tiada Tag";
 "no_transactions" = "Tiada urus niaga";
 "nobody" = "Tiada siapa";
 "none" = "Tiada";
@@ -1090,9 +1091,11 @@
 "withdraw_address" = "Alamat";
 "withdraw_by_pin" = "Withdraw by PIN";
 "withdrawal" = "Pengeluaran";
-"withdrawal_addr_add_memo" = "Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh %@.";
-"withdrawal_addr_add_tag" = "Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh %@.";
+"withdrawal_addr_memo" = "Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Memo.";
 "withdrawal_addr_new" = "Alamat %@ Baharu";
+"withdrawal_addr_no_memo" = "Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Memo.";
+"withdrawal_addr_no_tag" = "Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh Menambah Tag.";
+"withdrawal_addr_tag" = "Destinasi Tag atau Nombor ID atau nota. Sekiranya tidak, anda boleh menetapkannya Tiada Tag.";
 "withdrawal_address_tips" = "Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan!";
 "withdrawal_label" = "Label (contohnya pertukaran, dompet, dll.)";
 "withdrawal_memo" = "Memo";
@@ -1100,6 +1103,7 @@
 "withdrawal_minimum_reserve" = "Minimum reserve: ";
 "withdrawal_minimum_withdrawal" = "Minimum withdrawal: ";
 "withdrawal_network_fee" = "Network fee: ";
+"withdrawal_no_memo" = "Tiada Memo";
 "withdrawal_to" = "Pengeluaran ke %@";
 "year" = "Year";
 "you" = "Anda";

@@ -606,6 +606,7 @@
 "no_posts" = "TIDAK ADA POSTINGAN";
 "no_results" = "Tidak ada hasil";
 "no_stickers" = "NO STICKERS";
+"no_tag" = "Tanpa Tag";
 "no_transactions" = "Tidak ada transaksi";
 "nobody" = "Tak seorangpun";
 "none" = "Tidak ada";
@@ -1089,9 +1090,11 @@
 "withdraw_address" = "Alamat";
 "withdraw_by_pin" = "Withdraw by PIN";
 "withdrawal" = "Penarikan";
-"withdrawal_addr_add_memo" = "Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat %@.";
-"withdrawal_addr_add_tag" = "Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat %@.";
+"withdrawal_addr_memo" = "Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Memo.";
 "withdrawal_addr_new" = "Alamat %@ Baru";
+"withdrawal_addr_no_memo" = "Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Memo.";
+"withdrawal_addr_no_tag" = "Jika Anda diminta untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat Menambahkan Tag.";
+"withdrawal_addr_tag" = "Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya Tanpa Tag.";
 "withdrawal_address_tips" = "Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil.";
 "withdrawal_label" = "Label (mis. Kurs, wallet, dll.)";
 "withdrawal_memo" = "Memo";
@@ -1099,6 +1102,7 @@
 "withdrawal_minimum_reserve" = "Minimum reserve: ";
 "withdrawal_minimum_withdrawal" = "Minimum withdrawal: ";
 "withdrawal_network_fee" = "Network fee: ";
+"withdrawal_no_memo" = "Tanpa Memo";
 "withdrawal_to" = "Penarikan ke %@";
 "year" = "Year";
 "you" = "Anda";

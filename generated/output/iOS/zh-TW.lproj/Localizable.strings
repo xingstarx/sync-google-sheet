@@ -606,6 +606,7 @@
 "no_posts" = "沒有文章";
 "no_results" = "未找到相關結果";
 "no_stickers" = "還未新增任何表情";
+"no_tag" = "點選不使用 Tag（標籤）";
 "no_transactions" = "暫無轉賬記錄";
 "nobody" = "沒有人";
 "none" = "無";
@@ -1089,9 +1090,11 @@
 "withdraw_address" = "提現地址";
 "withdraw_by_pin" = "透過 PIN 提現";
 "withdrawal" = "提現";
-"withdrawal_addr_add_memo" = "如果你需要填寫地址標籤、數字 ID 或備註，%@。";
-"withdrawal_addr_add_tag" = "如果你需要填寫地址標籤、數字 ID 或備註，%@。";
+"withdrawal_addr_memo" = "地址標籤、數字 ID 或備註。如果沒有，點選不使用 Memo（備註）。";
 "withdrawal_addr_new" = "新 %@ 地址";
+"withdrawal_addr_no_memo" = "如果你需要填寫地址標籤、數字 ID 或備註，點選新增 Memo（備註）。";
+"withdrawal_addr_no_tag" = "如果你需要填寫地址標籤、數字 ID 或備註，點選新增 Tag（標籤）。";
+"withdrawal_addr_tag" = "地址標籤、數字 ID 或備註。如果沒有，點選不使用 Tag（標籤）。";
 "withdrawal_address_tips" = "首次提現到新地址，建議小額嘗試！如果您提現到錯誤的地址資產將無法找回！";
 "withdrawal_label" = "地址名稱，例如 OceanOne";
 "withdrawal_memo" = "Memo（備註）";
@@ -1099,6 +1102,7 @@
 "withdrawal_minimum_reserve" = "最少保留數量：";
 "withdrawal_minimum_withdrawal" = "最小提現數量：";
 "withdrawal_network_fee" = "網路手續費：";
+"withdrawal_no_memo" = "點選不使用 Memo（備註）";
 "withdrawal_to" = "提現到 %@";
 "year" = "年";
 "you" = "你";
