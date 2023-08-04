@@ -1653,4 +1653,5 @@
   <string name="database_locked_tips" platform="Desktop">The database file is locked and cannot be accessed. Please try restarting the application or the system and try again.</string>
   <string name="database_recreate_tips" platform="Desktop">Create a new database file and the old file will be deleted.</string>
   <string name="database_not_a_db_tips" platform="Desktop">Cannot open the database. The file is not a valid database file.</string>
+  <string name="qr_code_expired_desc" platform="Desktop">QR Code expired, please retry</string>
 </resources>
