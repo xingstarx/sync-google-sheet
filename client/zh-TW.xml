@@ -1626,4 +1626,5 @@
   <string name="database_locked_tips" platform="Desktop">資料庫檔案已被鎖定，無法訪問。請嘗試重啟應用或者重啟系統後再試。</string>
   <string name="database_recreate_tips" platform="Desktop">重新建立一個新的資料庫檔案，舊檔案將被刪除。</string>
   <string name="database_not_a_db_tips" platform="Desktop">無法開啟資料庫，檔案不是一個有效的資料庫檔案。</string>
+  <string name="qr_code_expired_desc" platform="Desktop">二維碼過期，請重試</string>
 </resources>
