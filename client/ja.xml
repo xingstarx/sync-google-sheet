@@ -24,7 +24,6 @@
   <string name="Account" platform="android, iOS, Desktop">アカウント</string>
   <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
-  <string name="Move_and_Scale" platform="iOS">移動と拡大縮小</string>
   <string name="Add_address" platform="android, iOS">アドレスに追加</string>
   <string name="Add_bot" platform="android, iOS">ミニアプリを追加</string>
   <string name="add_bot_with_plus" platform="Desktop">ミニアプリに追加</string>
@@ -97,6 +96,7 @@
   <string name="Allow_Manual_Report_Message" platform="iOS">メッセージ単位の報告を許可</string>
   <string name="Amount" platform="android, iOS">数量</string>
   <string name="an_audio" platform="android">音声ファイル</string>
+  <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名番号</string>
   <string name="ANSWER" platform="android">電話に出る</string>
   <string name="app_card_share_disallow" platform="Desktop">このURLの共有を許可しない</string>
   <string name="app_card_shareable_false" platform="android, iOS">このカードを共有することはできません</string>
@@ -550,6 +550,7 @@
   <string name="Failed_to_send_photo" platform="iOS">画像を送信できませんでした</string>
   <string name="Failed_to_send_video" platform="iOS">動画を送信できませんでした</string>
   <string name="Failure" platform="android">失敗</string>
+  <string name="fast" platform="iOS, android">高速</string>
   <string name="Fee" platform="android, iOS, Desktop">手数料</string>
   <string name="Feedback" platform="android, iOS">フィードバック</string>
   <string name="File" platform="android, iOS, Desktop">ファイル</string>
@@ -711,6 +712,8 @@
   <string name="log_out_from_desktop" platform="android, iOS">デスクトップ版からログアウト</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">そのままログインし、アカウント削除をキャンセルします</string>
   <string name="login_by_qrcode" platform="Desktop">QRコードでMixinにログインする</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">携帯でMixinを開き</string>
+  <string name="login_by_qrcode_tips_2" platform="Desktop">画面に表示されるQRコードを読み取り、ログインします</string>
   <string name="Login_with_PIN" platform="android">PINコードでMixinにログインする</string>
   <string name="Logined" platform="iOS">ログインしました</string>
   <string name="Logout" platform="android">ログアウト中…</string>
@@ -754,6 +757,7 @@
   <string name="Monday" platform="android">月曜日</string>
   <string name="Monthly" platform="iOS">月</string>
   <string name="More" platform="android, iOS, Desktop">もっとみる</string>
+  <string name="Move_and_Scale" platform="iOS">移動と拡大縮小</string>
   <string name="Multisig_by_PIN" platform="android, iOS">PINコードでマルチシグウォレットを使用する</string>
   <string name="multisig_receivers_threshold" platform="android">受取人(%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません</string>
@@ -824,6 +828,7 @@
   <string name="Nobody" platform="android, iOS">ユーザーなし</string>
   <string name="Nodes" platform="android">ノード</string>
   <string name="None" platform="android, iOS">なし</string>
+  <string name="normal" platform="iOS, android">通常</string>
   <string name="Not_found" platform="android, iOS, Desktop">見つかりません</string>
   <string name="Not_logged_in" platform="android">ログインしていません</string>
   <string name="Not_playing" platform="iOS">再生しません</string>
@@ -1172,6 +1177,7 @@
   <string name="Size" platform="android">サイズ</string>
   <string name="Skip" platform="android, iOS">スキップ</string>
   <string name="Slide_to_cancel" platform="android, iOS">スライドしてキャンセル</string>
+  <string name="slow" platform="iOS, android">低速</string>
   <string name="Snapshot_not_found" platform="iOS">スナップショットは見つかりません</string>
   <string name="Social" platform="iOS">ソーシャル</string>
   <string name="Sort" platform="android">並びかえ</string>
@@ -1400,10 +1406,4 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
-  <string name="login_by_qrcode_tips_1" platform="Desktop">携帯でMixinを開き</string>
-  <string name="login_by_qrcode_tips_2" platform="Desktop">画面に表示されるQRコードを読み取り、ログインします</string>
-  <string name="fast" platform="iOS, android">高速</string>
-  <string name="normal" platform="iOS, android">通常</string>
-  <string name="slow" platform="iOS, android">低速</string>
-  <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名番号</string>
 </resources>
