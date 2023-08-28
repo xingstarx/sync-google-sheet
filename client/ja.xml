@@ -96,7 +96,7 @@
   <string name="Allow_Manual_Report_Message" platform="iOS">メッセージ単位の報告を許可</string>
   <string name="Amount" platform="android, iOS">数量</string>
   <string name="an_audio" platform="android">音声ファイル</string>
-  <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名番号</string>
+  <string name="Anonymous_Number" platform="Desktop, android, iOS">匿名番号</string>
   <string name="ANSWER" platform="android">電話に出る</string>
   <string name="app_card_share_disallow" platform="Desktop">このURLの共有を許可しない</string>
   <string name="app_card_shareable_false" platform="android, iOS">このカードを共有することはできません</string>
@@ -550,7 +550,7 @@
   <string name="Failed_to_send_photo" platform="iOS">画像を送信できませんでした</string>
   <string name="Failed_to_send_video" platform="iOS">動画を送信できませんでした</string>
   <string name="Failure" platform="android">失敗</string>
-  <string name="fast" platform="iOS, android">高速</string>
+  <string name="fast" platform="android, iOS">高速</string>
   <string name="Fee" platform="android, iOS, Desktop">手数料</string>
   <string name="Feedback" platform="android, iOS">フィードバック</string>
   <string name="File" platform="android, iOS, Desktop">ファイル</string>
@@ -828,7 +828,7 @@
   <string name="Nobody" platform="android, iOS">ユーザーなし</string>
   <string name="Nodes" platform="android">ノード</string>
   <string name="None" platform="android, iOS">なし</string>
-  <string name="normal" platform="iOS, android">通常</string>
+  <string name="normal" platform="android, iOS">通常</string>
   <string name="Not_found" platform="android, iOS, Desktop">見つかりません</string>
   <string name="Not_logged_in" platform="android">ログインしていません</string>
   <string name="Not_playing" platform="iOS">再生しません</string>
@@ -1177,7 +1177,7 @@
   <string name="Size" platform="android">サイズ</string>
   <string name="Skip" platform="android, iOS">スキップ</string>
   <string name="Slide_to_cancel" platform="android, iOS">スライドしてキャンセル</string>
-  <string name="slow" platform="iOS, android">低速</string>
+  <string name="slow" platform="android, iOS">低速</string>
   <string name="Snapshot_not_found" platform="iOS">スナップショットは見つかりません</string>
   <string name="Social" platform="iOS">ソーシャル</string>
   <string name="Sort" platform="android">並びかえ</string>
