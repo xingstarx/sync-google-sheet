@@ -20,12 +20,14 @@
 "add_conversations" = "添加会话";
 "add_emergency_contact" = "添加紧急联系人";
 "add_memo" = "点击添加 Memo（备注）";
+"add_new_card" = "添加新卡";
 "add_participants" = "添加成员";
 "add_sticker" = "添加贴纸";
 "add_stickers" = "添加贴纸";
 "add_tag" = "点击添加 Tag（标签）";
 "add_to_stickers" = "添加贴纸";
 "added" = "已添加";
+"additional_verification" = "额外验证";
 "address" = "地址";
 "address_not_found" = "找不到该地址。";
 "admin" = "管理员";
@@ -130,6 +132,9 @@
 "bots" = "机器人";
 "bots_title" = "机器人";
 "business" = "商业";
+"buy" = "购买 %@";
+"buy_now" = "立即购买";
+"buy %1$s" = "购买 %@";
 "calculating" = "正在计算...";
 "call" = "语音";
 "call_declined" = "对方已拒绝";
@@ -146,6 +151,7 @@
 "camera" = "相机";
 "cancel" = "取消";
 "cancel_floating" = "取消浮窗";
+"cancel_order" = "取消订单";
 "canceled" = "已取消";
 "canceled_by_caller" = "对方已取消";
 "cant_receive_the_code" = "接收不到验证码？";
@@ -358,6 +364,7 @@
 "edit_name" = "修改昵称";
 "education" = "教育";
 "emergency_contact" = "紧急联系人";
+"empty_card" = "您还没有添加任何卡片。";
 "enable_emergency_contact" = "启用紧急联系人";
 "enable_face_pay_hint" = "输入 PIN 启用面容支付";
 "enable_pay" = "启用%@支付";
@@ -413,13 +420,17 @@
 "export" = "导出";
 "export_failed" = "导出失败";
 "face_id" = "面容";
+"failed" = "失败";
 "failed_to_compose_avatar" = "头像解析失败，请尝试使用其他图片。";
 "failed_to_send_location" = "发送位置失败，请稍后重试";
 "failed_to_send_photo" = "发送图片失败，请稍后重试";
 "failed_to_send_video" = "发送视频失败，请稍后重试";
 "fast" = "快速";
 "fee" = "手续费";
+"fee_desc" = "除了订单金额之外，您的银行可能会额外收取费用，请与您的银行联系以获取更多信息。";
 "feedback" = "反馈";
+"fees" = "费用";
+"fees_tip" = "您的银行可能不会收取额外费用。";
 "file" = "文件";
 "file_shareable_false" = "该文件已被设置为不允许转发";
 "files" = "文档";
@@ -457,6 +468,15 @@
 "hour_count" = "%d 小时";
 "how_are_you" = "嗨，你好吗？";
 "i_am_good" = "我很好。";
+"identity_additional_verification_tip" = "为了满足监管要求，我们需要您提交额外的信息。感谢您的理解和支持。";
+"identity_device" = "检查您的设备的摄像头是否没有被遮挡并且正常工作";
+"identity_issued" = "准备一份有效的政府签发的身份证明文件";
+"identity_selfie" = "准备拍摄一张自拍照和身份证照片";
+"identity_service_unavailable_tip" = "您的账户已被暂时封锁。由于法律限制，我们目前无法提供更多信息。感谢您的耐心、理解和对加密货币的兴趣。您的账户已被暂时封锁。由于法律限制，我们目前无法提供更多信息。感谢您的耐心、理解和对加密货币的兴趣。";
+"identity_verification" = "身份验证";
+"identity_verification_failed_tip" = "您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。";
+"identity_verifying" = "身份验证中";
+"identity_verifying_tip" = "正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。";
 "image" = "图像";
 "image_shareable_false" = "该图片已被设置为不允许转发";
 "immediately" = "立刻";
@@ -586,6 +606,7 @@
 "new_group" = "新建群组";
 "new_group_chat" = "新群聊";
 "new_name" = "名称";
+"new_price" = "新价格";
 "new_wallet_hint" = "创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。";
 "news" = "新闻";
 "next" = "下一步";
@@ -625,6 +646,7 @@
 "off" = "关闭";
 "ok" = "好的";
 "old_device_is_waiting" = "确保旧的设备已停留在同步等待扫码的界面";
+"old_price" = "旧价格";
 "one_by_one_forward" = "逐条转发";
 "one_hour" = "1 小时";
 "one_week" = "1 星期";
@@ -642,6 +664,8 @@
 "operation_failed" = "操作失败，请稍后重试";
 "optimize_database" = "优化查询索引";
 "optimized" = "已优化";
+"order_confirm" = "确认订单";
+"order_preview" = "订单预览";
 "other" = "其他";
 "overwrite" = "覆盖";
 "owner" = "群主";
@@ -649,9 +673,11 @@
 "participants_count" = "%@ 位群组成员";
 "pay_paid" = "此付款链接已由某人支付，您无法进行重复付款。";
 "pay_with" = "%@支付";
+"pay_with" = "支付方式";
 "pay_with_pin" = "用 PIN 支付";
 "pay_with_pin_interval" = "PIN 使用间隔";
 "pay_withdrawal_memo" = "数量 %@ %@\n手续费 %@ %@";
+"payment_services" = "支付服务";
 "peer_closed" = "Peer 已关闭";
 "peer_not_found" = "Peer 无效";
 "pending_confirmation" = "%1$d/%2$d 区块确认数";
@@ -706,9 +732,13 @@
 "preparing_progress" = "备份中...（%@）";
 "preview_unavailable" = "预览不可用";
 "preview_unavailable_description" = "无法预览资产变化。请确保你信任此 dapp。";
+"price_expired" = "价格已过期";
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
 "process_can_not_be_stop" = "流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入";
+"processing" = "处理中";
+"processing_desc" = "支付请求已提交，正在检查您的支付和订单信息，请耐心等待。";
+"processing_fee" = "处理费";
 "profile" = "个人资料";
 "profile_photo" = "个人头像";
 "profile_share_bot_hint" = "如果您希望分享机器人，请先添加联系人。";
@@ -821,10 +851,13 @@
 "secured_by_tip" = "由 TIP 提供安全保障";
 "security" = "安全";
 "select" = "选择";
+"select_a_card" = "选择银行卡";
 "select_a_country_or_region" = "选择一个国家或地区";
 "select_all" = "选择所有";
+"select_card" = "选择银行卡";
 "select_emergency_contact" = "选择紧急联系人";
 "select_more_photos" = "选择更多照片";
+"select_payment" = "选择支付方式";
 "selected_count" = "选择了 %@ 个消息";
 "selected_item" = "已选择 1 项";
 "selected_item_count" = "已选择 %d 项";
@@ -852,6 +885,7 @@
 "send_your_current_location" = "发送您当前的位置";
 "send_count" = "发送（%d）";
 "senders" = "交易发起人";
+"service_unavailable" = "服务不可用";
 "session_not_found" = "没有对应的连接";
 "set" = "设置";
 "set_disappearing_message_time_to" = "%1$@将限时消息设置为 %2$@";
@@ -878,6 +912,7 @@
 "setting_emergency_send_code" = "请输入发送至以下 Mixin ID 的 4 位验证码：%@";
 "setting_emergency_set_message" = "确认设置 Mixin ID %@ 为你的紧急联系人？注意双方必须互为联系人才能设置成功！";
 "setting_emergency_warning" = "注意：紧急联系人无法帮助找回支付 PIN";
+"setting_identity_content" = "金融监管要求我们验证您的身份。为了开始验证，您将允许我们和我们的服务提供商收集、使用和存储您的信息。在开始之前，请确保：";
 "setting_mobile_contact_warning" = "确定删除已同步到 Mixin 服务器的通讯录？";
 "setting_notification_transfer_summary" = "收到不少于 %@ 转账时显示通知。";
 "setting_privacy_tip" = "谁可以给你发消息或邀请你加入群聊。";
@@ -915,6 +950,7 @@
 "sort_by" = "顺序";
 "start" = "开始";
 "start_messaging" = "开始聊天";
+"start_verification" = "开始验证";
 "started_group_call" = "%@ 开始了群通话";
 "status" = "交易状态";
 "stay_in_mixin" = "留在 Mixin";
@@ -930,6 +966,7 @@
 "storage_almost_full_tip" = "您可以通过删除大的或已被多次转发的项目来释放存储空间。";
 "storage_usage" = "储存空间";
 "stranger_hint" = "对方不是你的联系人";
+"success_desc" = "成功购买 %1$@！您的 %2$@ 将直接转入Mixin钱包。请耐心等待。";
 "successful" = "成功";
 "suspicious_link" = "可疑链接";
 "symbol" = "符号";
@@ -957,6 +994,7 @@
 "to" = "至";
 "today" = "今天";
 "tools" = "工具";
+"total" = "总计";
 "touch_id" = "指纹";
 "track_not_found" = "Track 无效";
 "trading" = "交易";
@@ -1038,6 +1076,8 @@
 "use_face_multisig" = "使用面容签名";
 "use_face_pay" = "使用面容支付";
 "use_face_withdraw" = "使用面容提现";
+"use_new_price" = "使用新价格";
+"use_other" = "使用其他支付方式";
 "use_system_text_size" = "跟随系统字体大小";
 "use_touch_multisig" = "使用指纹签名";
 "use_touch_pay" = "使用指纹支付";
@@ -1046,8 +1086,10 @@
 "user_is_reported" = "已举报";
 "user_not_found" = "找不到这个用户";
 "validation_timed_out" = "验证超时";
+"value_info" = "最低金额 %1$d %2$@，最高金额 %3$d %4$@";
 "value_now" = "价值 %@";
 "value_then" = "当时价值 %@";
+"verification_failed" = "验证失败";
 "verify" = "验证";
 "verify_pin" = "验证 PIN";
 "version_update" = "版本更新";
@@ -1058,6 +1100,7 @@
 "view_emergency_contact" = "查看紧急联系人";
 "view_storage" = "查看存储空间";
 "view_wallet" = "查看钱包";
+"visa_mastercard" = "Visa / Mastercard";
 "voice_call_cancelled" = "对方已取消语音通话";
 "voice_call_has_been_declined" = "已拒绝通话";
 "waiting" = "等待中";

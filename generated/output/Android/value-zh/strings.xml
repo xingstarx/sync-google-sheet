@@ -30,6 +30,7 @@
 	<string name="Add_emergency_contact">添加紧急联系人</string>
 	<string name="Add_group_description">添加群公告</string>
 	<string name="Add_memo">点击添加 Memo（备注）</string>
+	<string name="Add_New_Card">添加新卡</string>
 	<string name="Add_participants">添加成员</string>
 	<string name="Add_people_hint">通过 Mixin ID 或手机号添加联系人</string>
 	<string name="add_people_search_hint">Mixin ID 或手机号</string>
@@ -41,6 +42,7 @@
 	<string name="Add_to_Home_screen">添加到桌面</string>
 	<string name="Added">已添加</string>
 	<string name="Adding">正在添加…</string>
+	<string name="Additional_Verification">额外验证</string>
 	<string name="Address">地址</string>
 	<string name="Admin">管理员</string>
 	<string name="After_1_minute">1分钟之后</string>
@@ -144,6 +146,9 @@
 	<string name="BOTS">机器人</string>
 	<string name="bots_title">机器人</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
+	<string name="Buy">购买 %1$s</string>
+	<string name="Buy_now">立即购买</string>
+	<string name="Buy %1$s">购买 %1$s</string>
 	<string name="calculating">正在计算…</string>
 	<string name="Call">语音</string>
 	<string name="Call_declined">对方已拒绝</string>
@@ -158,6 +163,7 @@
 	<string name="can_not_recognize_qr_code">无法识别二维码</string>
 	<string name="Cancel">取消</string>
 	<string name="Cancel_Floating">取消浮窗</string>
+	<string name="cancel_order">取消订单</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">对方已取消</string>
 	<string name="Cant_receive_the_code">接收不到验证码？</string>
@@ -381,6 +387,7 @@
 	<string name="Edit_Name">修改昵称</string>
 	<string name="Emergency_Contact">紧急联系人</string>
 	<string name="Empty_address_book">通讯录内容为空</string>
+	<string name="Empty_card">您还没有添加任何卡片。</string>
 	<string name="Enable_after_1_minute">在 1 分钟之后启动</string>
 	<string name="Enable_after_30_minutes">在 30 分钟后启动</string>
 	<string name="Enable_db_debug">已开启 db 调试</string>
@@ -460,10 +467,14 @@
 	<string name="Export_Markdown">导出为 Markdown</string>
 	<string name="Export_PDF">导出为 PDF</string>
 	<string name="Extract_QR_Code">识别二维码</string>
+	<string name="Failed">失败</string>
 	<string name="Failure">错误</string>
 	<string name="fast">快速</string>
 	<string name="Fee">手续费</string>
+	<string name="Fee_desc">除了订单金额之外，您的银行可能会额外收取费用，请与您的银行联系以获取更多信息。</string>
 	<string name="Feedback">反馈</string>
+	<string name="Fees">费用</string>
+	<string name="Fees_tip">您的银行可能不会收取额外费用。</string>
 	<string name="File">文件</string>
 	<string name="File_chooser_error">文件选择错误</string>
 	<string name="File_does_not_exist">文件不存在</string>
@@ -519,6 +530,15 @@
 		<item quantity="other">%d 小时</item>
 	</plurals>
 	<string name="I_know">我知道了</string>
+	<string name="identity_additional_verification_tip">为了满足监管要求，我们需要您提交额外的信息。感谢您的理解和支持。</string>
+	<string name="identity_device">检查您的设备的摄像头是否没有被遮挡并且正常工作</string>
+	<string name="identity_issued">准备一份有效的政府签发的身份证明文件</string>
+	<string name="identity_selfie">准备拍摄一张自拍照和身份证照片</string>
+	<string name="identity_service_unavailable_tip">您的账户已被暂时封锁。由于法律限制，我们目前无法提供更多信息。感谢您的耐心、理解和对加密货币的兴趣。您的账户已被暂时封锁。由于法律限制，我们目前无法提供更多信息。感谢您的耐心、理解和对加密货币的兴趣。</string>
+	<string name="Identity_Verification">身份验证</string>
+	<string name="identity_verification_failed_tip">您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。</string>
+	<string name="Identity_Verifying">身份验证中</string>
+	<string name="identity_verifying_tip">正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。</string>
 	<string name="image_shareable_false">该图片已被设置为不允许转发</string>
 	<string name="Immediately">立刻</string>
 	<string name="Import">导入聊天记录</string>
@@ -649,6 +669,7 @@
 	<string name="New_Group">新建群组</string>
 	<string name="New_Group_Chat">新群聊</string>
 	<string name="new_group_name">新群组名称</string>
+	<string name="New_Price">新价格</string>
 	<string name="new_wallet_hint">创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。</string>
 	<string name="Next">下一步</string>
 	<string name="NO_AUDIO">没有音频</string>
@@ -699,6 +720,7 @@
 	<string name="OK">好的</string>
 	<string name="Old_Device_is_waiting">确保旧的设备已停留在同步等待扫码的界面</string>
 	<string name="Old_PIN">验证旧的 PIN</string>
+	<string name="Old_Price">旧价格</string>
 	<string name="one_hour">1 小时</string>
 	<string name="one_week">1 星期</string>
 	<string name="one_year">1 年</string>
@@ -710,6 +732,8 @@
 	<string name="Open_Link">打开链接：%1$s</string>
 	<string name="Opening_Balance">期初余额</string>
 	<string name="Operator">运营商</string>
+	<string name="Order_Confirm">确认订单</string>
+	<string name="Order_Preview">订单预览</string>
 	<string name="OTHER">其他</string>
 	<string name="Overwrite">覆盖</string>
 	<string name="Owner">群主</string>
@@ -717,9 +741,11 @@
 	<string name="Participants">成员</string>
 	<string name="Pause">暂停</string>
 	<string name="pay_paid">此付款链接已由某人支付，您无法进行重复付款。</string>
+	<string name="Pay_With">支付方式</string>
 	<string name="Pay_with_Biometrics">用生物识别支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>
 	<string name="Pay_with_PIN_interval">PIN 使用间隔</string>
+	<string name="Payment_Services">支付服务</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d 区块确认数</item>
 		<item quantity="other">%1$d/%2$d 区块确认数</item>
@@ -761,9 +787,13 @@
 	<string name="POST">文章</string>
 	<string name="preview_unavailable">预览不可用</string>
 	<string name="preview_unavailable_description">无法预览资产变化。请确保你信任此 dapp。</string>
+	<string name="Price_Expired">价格已过期</string>
 	<string name="Privacy">隐私</string>
 	<string name="Privacy_Policy">隐私政策</string>
 	<string name="Process_can_not_be_stop">流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入</string>
+	<string name="Processing">处理中</string>
+	<string name="Processing_desc">支付请求已提交，正在检查您的支付和订单信息，请耐心等待。</string>
+	<string name="Processing_Fee">处理费</string>
 	<string name="profile_modify_number">你想要修改手机号码么？</string>
 	<string name="Profile_photo">个人头像</string>
 	<string name="profile_share_bot_hint">如果您希望分享机器人，请先添加联系人。</string>
@@ -881,8 +911,11 @@
 	<string name="Secured_by_TIP">由 TIP 提供安全保障</string>
 	<string name="Security">安全</string>
 	<string name="Select">选择</string>
+	<string name="Select_a_Card">选择银行卡</string>
 	<string name="Select_All">选择所有</string>
+	<string name="Select_Card">选择银行卡</string>
 	<string name="Select_Emergency_Contact">选择紧急联系人</string>
+	<string name="Select_Payment">选择支付方式</string>
 	<string name="Send">发送</string>
 	<string name="Send_as_file">按文件发送</string>
 	<string name="send_file_group">将 \"%1$s\" 发送给 \"%2$s\"？</string>
@@ -896,6 +929,7 @@
 	<string name="Send_Without_Sound">静音发送</string>
 	<string name="Send_your_Current_Location">发送您当前的位置</string>
 	<string name="Senders">交易发起人</string>
+	<string name="Service_Unavailable">服务不可用</string>
 	<string name="session_not_found">没有对应的连接</string>
 	<string name="Set">设置</string>
 	<string name="set_disappearing_message_time_to">%1$s将限时消息设置为 %2$s</string>
@@ -937,6 +971,7 @@
 	<string name="setting_emergency_set_message">确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！</string>
 	<string name="setting_emergency_warning">注意：紧急联系人无法帮助找回支付 PIN</string>
 	<string name="setting_enable_biometric_pay">开启生物识别支付？</string>
+	<string name="setting_identity_content">金融监管要求我们验证您的身份。为了开始验证，您将允许我们和我们的服务提供商收集、使用和存储您的信息。在开始之前，请确保：</string>
 	<string name="setting_incognito_prompt">禁止键盘个性化学习。</string>
 	<string name="setting_mobile_contact_warning">确定删除已同步到 Mixin 服务器的通讯录？</string>
 	<string name="setting_notification_transfer_summary">收到不少于 %1$s 转账时显示通知。</string>
@@ -980,6 +1015,7 @@
 	<string name="Sort_by">顺序</string>
 	<string name="Start">开始</string>
 	<string name="Start_Messaging">开始聊天</string>
+	<string name="Start_Verification">开始验证</string>
 	<string name="Status">交易状态</string>
 	<string name="stay_in_mixin">留在 Mixin</string>
 	<string name="Sticker">贴纸</string>
@@ -996,6 +1032,7 @@
 	<string name="stranger_hint">对方不是你的联系人</string>
 	<string name="Stranger_Transfer_Confirmation">陌生人转账确认</string>
 	<string name="strikethrough">删除线</string>
+	<string name="Success_desc">成功购买 %1$s！您的 %2$s 将直接转入Mixin钱包。请耐心等待。</string>
 	<string name="Successful">成功</string>
 	<string name="Sunday">星期日</string>
 	<string name="Suspicious_Link">可疑链接</string>
@@ -1027,6 +1064,7 @@
 	</plurals>
 	<string name="To">至</string>
 	<string name="Today">今天</string>
+	<string name="Total">总计</string>
 	<string name="Touch_the_fingerprint_sensor">触摸指纹传感器</string>
 	<string name="Transaction">交易详情</string>
 	<string name="transaction_failed">转账失败</string>
@@ -1111,11 +1149,15 @@
 	<string name="Upload_Mobile_Contacts">上传通讯录找好友</string>
 	<string name="Upload_timeout">上传超时</string>
 	<string name="Use_Biometric_Multisig">使用生物识别签名</string>
+	<string name="Use_New_Price">使用新价格</string>
+	<string name="use_other">使用其他支付方式</string>
 	<string name="Use_System_Text_Size">跟随系统字体大小</string>
 	<string name="user_delete_hint">该用户已经删除了账号。</string>
 	<string name="User_not_found">找不到这个用户</string>
+	<string name="Value_info">最低金额 %1$d %2$s，最高金额 %3$d %4$s</string>
 	<string name="value_now">价值 %1$s</string>
 	<string name="value_then">当时价值 %1$s</string>
+	<string name="Verification_Failed">验证失败</string>
 	<string name="Verify">验证</string>
 	<string name="Verify_by_Biometric">用生物识别来验证</string>
 	<string name="Verify_PIN">验证 PIN</string>
@@ -1150,7 +1192,7 @@
 	<string name="wallet_pin_pay_interval_tips">为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时依然需要支付 PIN</string>
 	<string name="wallet_pin_tops_desc">注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
 	<string name="wallet_refresh_address_failed">手续费已变更且刷新失败，请重试。</string>
-	<string name="wallet_setting_currency_desc">%1$s（%2$s）</string>
+	<string name="wallet_setting_currency_desc">%1$s (%2$s)</string>
 	<string name="wallet_transaction_continue_count_down">继续 （%1$d）</string>
 	<string name="wallet_transaction_that_time_value_tip">交易时的价值</string>
 	<string name="wallet_transaction_tip">确定给 %1$s 转价值 %2$s 的 %3$s ？</string>

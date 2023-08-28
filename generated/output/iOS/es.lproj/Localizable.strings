@@ -20,12 +20,14 @@
 "add_conversations" = "Añadir conversaciones";
 "add_emergency_contact" = "Añadir contacto de emergencia";
 "add_memo" = "Añadir nota";
+"add_new_card" = "Add New Card";
 "add_participants" = "Añadir participantes";
 "add_sticker" = "Añadir pegatina";
 "add_stickers" = "Añadir pegatinas";
 "add_tag" = "Añadir etiqueta";
 "add_to_stickers" = "Añadir a pegatinas";
 "added" = "Añadido";
+"additional_verification" = "Additional Verification";
 "address" = "Dirección";
 "address_not_found" = "Dirección no encontrada.";
 "admin" = "Administrador";
@@ -130,6 +132,9 @@
 "bots" = "BOTS";
 "bots_title" = "Bots";
 "business" = "Negocio";
+"buy" = "Buy";
+"buy_now" = "Buy now";
+"buy %1$s" = "Buy %@";
 "calculating" = "Calculating...";
 "call" = "Llamar";
 "call_declined" = "Llamada rechazada";
@@ -146,6 +151,7 @@
 "camera" = "Cámara";
 "cancel" = "Cancelar";
 "cancel_floating" = "Cancelar flotante";
+"cancel_order" = "Cancel order";
 "canceled" = "Cancelado";
 "canceled_by_caller" = "Cancelado por la persona que llama";
 "cant_receive_the_code" = "¿No puedes recibir el código?";
@@ -358,6 +364,7 @@
 "edit_name" = "Editar nombre";
 "education" = "Educación";
 "emergency_contact" = "Contacto de emergencia";
+"empty_card" = "You haven\'t added any card yet.";
 "enable_emergency_contact" = "Habilitar contacto de emergencia";
 "enable_face_pay_hint" = "Confirme el PIN para habilitar Face Pay";
 "enable_pay" = "Habilitar %@ Pagar";
@@ -413,13 +420,17 @@
 "export" = "Exportar";
 "export_failed" = "Exportación fallida";
 "face_id" = "ID facial";
+"failed" = "Failed";
 "failed_to_compose_avatar" = "No se ha podido componer el avatar. Prueba con otra imagen en su lugar.";
 "failed_to_send_location" = "No se ha podido enviar la ubicación";
 "failed_to_send_photo" = "No se ha podido enviar la foto";
 "failed_to_send_video" = "No se ha podido enviar el video";
 "fast" = "Fast";
 "fee" = "Tarifa";
+"fee_desc" = "You may be charged in addition to the order by your bank, please contact your bank for more information.";
 "feedback" = "Comentario";
+"fees" = "Fees";
+"fees_tip" = "You may not cost more fees by bank.";
 "file" = "Archivo";
 "file_shareable_false" = "El archivo se ha configurado para no permitir compartir";
 "files" = "Archivos";
@@ -457,6 +468,15 @@
 "hour_count" = "%d Horas";
 "how_are_you" = "¿Hola, cómo estás?";
 "i_am_good" = "Estoy bien.";
+"identity_additional_verification_tip" = "We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support.";
+"identity_device" = "Check if your device’s camera is uncovered and working";
+"identity_issued" = "Prepare a valid government-issued ID";
+"identity_selfie" = "Be prepared to take a selfie and photos of your ID";
+"identity_service_unavailable_tip" = "Your account has been temporarily blocked. Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
+"identity_verification" = "Identity Verification";
+"identity_verification_failed_tip" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
+"identity_verifying" = "Identity Verifying";
+"identity_verifying_tip" = "Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.";
 "image" = "imagen";
 "image_shareable_false" = "La imagen se ha configurado para no permitir compartir";
 "immediately" = "Inmediatamente";
@@ -586,6 +606,7 @@
 "new_group" = "Nuevo grupo";
 "new_group_chat" = "Nuevo chat grupal";
 "new_name" = "nuevo nombre";
+"new_price" = "New price";
 "new_wallet_hint" = "Crea tu primera cartera digital, todos tus activos digitales en una cartera, envía y recibe fácilmente criptomonedas.";
 "news" = "Noticias";
 "next" = "Próximo";
@@ -625,6 +646,7 @@
 "off" = "Apagado";
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
+"old_price" = "Old Price";
 "one_by_one_forward" = "Adelante uno por uno";
 "one_hour" = "1 hora";
 "one_week" = "1 semana";
@@ -642,6 +664,8 @@
 "operation_failed" = "La operación ha fallado, intenta nuevamente más tarde";
 "optimize_database" = "Optimizar base de datos";
 "optimized" = "Optimizado";
+"order_confirm" = "Order Confirm";
+"order_preview" = "Order Preview";
 "other" = "Otro";
 "overwrite" = "Overwrite";
 "owner" = "Propietario";
@@ -649,9 +673,11 @@
 "participants_count" = "%@ PARTICIPANTES";
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
 "pay_with" = "Pagar con %@";
+"pay_with" = "Pay With";
 "pay_with_pin" = "Pagar con PIN";
 "pay_with_pin_interval" = "Intervalo de pago con PIN";
 "pay_withdrawal_memo" = "Importe %@ %@\nTarifa %@ %@";
+"payment_services" = "Payment Services";
 "peer_closed" = "Par cerrado";
 "peer_not_found" = "Par no encontrado";
 "pending_confirmation" = "%1$d/%2$d confirmación";
@@ -706,9 +732,13 @@
 "preparing_progress" = "Preparando...(%@)";
 "preview_unavailable" = "Preview unavailable";
 "preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
+"price_expired" = "Price Expired";
 "privacy" = "Privacidad";
 "privacy_policy" = "Política de privacidad";
 "process_can_not_be_stop" = "El proceso no se puede cancelar cuando comienza. Recuerda el PIN de 6 dígitos y vuelva a introducirlo si el proceso se cancela inesperadamente.";
+"processing" = "Processing";
+"processing_desc" = "Payment request has been submitted, your payment and order information is being checked, please wait patiently";
+"processing_fee" = "Processing Fee";
 "profile" = "Perfil";
 "profile_photo" = "Foto de perfil";
 "profile_share_bot_hint" = "Si deseas compartir un bot, añádelo primero a tus contactosa";
@@ -821,10 +851,13 @@
 "secured_by_tip" = "Protegido por TIP";
 "security" = "Seguridad";
 "select" = "Seleccionar";
+"select_a_card" = "Select a Card";
 "select_a_country_or_region" = "Seleccionar un país o región";
 "select_all" = "Select All";
+"select_card" = "Select Card";
 "select_emergency_contact" = "Seleccionar contacto de emergencia";
 "select_more_photos" = "Seleccionar más fotos";
+"select_payment" = "Select Payment";
 "selected_count" = "%@ Seleccionado";
 "selected_item" = "1 artículo seleccionado";
 "selected_item_count" = "%d elementos seleccionados";
@@ -852,6 +885,7 @@
 "send_your_current_location" = "Envía tu ubicación actual";
 "send_count" = "Enviar(%d)";
 "senders" = "Remitentes";
+"service_unavailable" = "Service Unavailable";
 "session_not_found" = "Session not found";
 "set" = "Establecer";
 "set_disappearing_message_time_to" = "%1$@ ha establecido el tiempo de desaparición del mensaje a %2$@";
@@ -878,6 +912,7 @@
 "setting_emergency_send_code" = "Introduce el código de 4 dígitos enviado a ID de Mixin: %@";
 "setting_emergency_set_message" = "¿Quieres confirmar para configurar el ID de Mixin %@ como tu contacto de emergencia? Ten en cuenta que la otra parte debe añadirte como contacto para configurarlo correctamente.";
 "setting_emergency_warning" = "Atención: el contacto de emergencia no puede ayudarte a recuperar el PIN";
+"setting_identity_content" = "Financial regulations require us to verify your identity. To start verifying, you will allow us and our service provides can collect, use, and store your information. Before you star, please:";
 "setting_mobile_contact_warning" = "Esto eliminará tus contactos de los servidores de Mixin.";
 "setting_notification_transfer_summary" = "Mostrar notificaciones al recibir una transferencia mayor o igual a %@.";
 "setting_privacy_tip" = "Cambia quién puede añadirte a conversaciones y grupos.";
@@ -915,6 +950,7 @@
 "sort_by" = "Ordenar por";
 "start" = "Comenzar";
 "start_messaging" = "Empezar a enviar mensajes";
+"start_verification" = "Start Verification";
 "started_group_call" = "%@ ha iniciado una llamada de grupo";
 "status" = "Estado";
 "stay_in_mixin" = "Quédate en Mixin";
@@ -930,6 +966,7 @@
 "storage_almost_full_tip" = "You can free up storage by deleting items that are large or have been forwarded many times.";
 "storage_usage" = "Uso de almacenamiento";
 "stranger_hint" = "Este remitente no está en tus contactos";
+"success_desc" = "Successful purchase of %1$@! Your %2$@ will be transferred directly to Mixin wallet later. Please wait patiently.";
 "successful" = "Exitoso";
 "suspicious_link" = "Enlace sospechoso";
 "symbol" = "Símbolo";
@@ -957,6 +994,7 @@
 "to" = "A";
 "today" = "Hoy";
 "tools" = "Herramientas";
+"total" = "Total";
 "touch_id" = "identifición de toque";
 "track_not_found" = "Pista no encontrada";
 "trading" = "Comercio";
@@ -1038,6 +1076,8 @@
 "use_face_multisig" = "Usar Face Multisig";
 "use_face_pay" = "Usar Face Pay";
 "use_face_withdraw" = "Usar Face Withdraw";
+"use_new_price" = "Use New Price";
+"use_other" = "Use other methods of payment";
 "use_system_text_size" = "Usar tamaño de texto del sistema";
 "use_touch_multisig" = "Usar Touch Multisig";
 "use_touch_pay" = "Usar Touch Pay";
@@ -1046,8 +1086,10 @@
 "user_is_reported" = "El usuario ha sido reportado";
 "user_not_found" = "Usuario no encontrado";
 "validation_timed_out" = "Se ha agotado el tiempo de validación";
+"value_info" = "Minimum %1$d %2$@, Maximum %3$d %4$@";
 "value_now" = "valor ahora %@";
 "value_then" = "valor entonces %@";
+"verification_failed" = "Verification Failed";
 "verify" = "Verificar";
 "verify_pin" = "Verificar PIN";
 "version_update" = "Actualización de versión";
@@ -1058,6 +1100,7 @@
 "view_emergency_contact" = "Ver contacto de emergencia";
 "view_storage" = "View Storage";
 "view_wallet" = "Ver Cartera";
+"visa_mastercard" = "Visa / Mastercard";
 "voice_call_cancelled" = "llamada de voz cancelada";
 "voice_call_has_been_declined" = "La llamada de voz ha sido rechazada";
 "waiting" = "Esperando";

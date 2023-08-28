@@ -20,12 +20,14 @@
 "add_conversations" = "Добавить беседы";
 "add_emergency_contact" = "Добавить экстренный контакт";
 "add_memo" = "добавить памятку";
+"add_new_card" = "Add New Card";
 "add_participants" = "Добавить участников";
 "add_sticker" = "Добавить наклейку";
 "add_stickers" = "Добавить стикеры";
 "add_tag" = "Добавить тега";
 "add_to_stickers" = "Добавить в стикеры";
 "added" = "Добавлен";
+"additional_verification" = "Additional Verification";
 "address" = "Адрес";
 "address_not_found" = "Адрес не найден.";
 "admin" = "Администратор";
@@ -130,6 +132,9 @@
 "bots" = "БОТЫ";
 "bots_title" = "Боты";
 "business" = "Бизнес";
+"buy" = "Buy";
+"buy_now" = "Buy now";
+"buy %1$s" = "Buy %@";
 "calculating" = "Calculating...";
 "call" = "Вызов";
 "call_declined" = "Вызов отклонен";
@@ -146,6 +151,7 @@
 "camera" = "Камера";
 "cancel" = "Отмена";
 "cancel_floating" = "Отменить всплывание";
+"cancel_order" = "Cancel order";
 "canceled" = "Отменено";
 "canceled_by_caller" = "Отменено звонившим";
 "cant_receive_the_code" = "Не можете получить код?";
@@ -358,6 +364,7 @@
 "edit_name" = "Редактировать название";
 "education" = "Образование";
 "emergency_contact" = "Экстренный контакт";
+"empty_card" = "You haven\'t added any card yet.";
 "enable_emergency_contact" = "Включить экстренный контакт";
 "enable_face_pay_hint" = "Подтвердите PIN-код, чтобы включить Face Pay";
 "enable_pay" = "Включить %@ Pay";
@@ -413,13 +420,17 @@
 "export" = "Экспорт";
 "export_failed" = "Не удалось экспортировать";
 "face_id" = "Идентификатор лица";
+"failed" = "Failed";
 "failed_to_compose_avatar" = "Не удалось создать аватар. Вместо этого попробуйте другую картинку.";
 "failed_to_send_location" = "Не удалось отправить местоположение";
 "failed_to_send_photo" = "Не удалось отправить фото";
 "failed_to_send_video" = "Не удалось отправить видео";
 "fast" = "Fast";
 "fee" = "Комиссия";
+"fee_desc" = "You may be charged in addition to the order by your bank, please contact your bank for more information.";
 "feedback" = "Обратная связь";
+"fees" = "Fees";
+"fees_tip" = "You may not cost more fees by bank.";
 "file" = "Файл";
 "file_shareable_false" = "The file has been set to not allow sharing";
 "files" = "Файлы";
@@ -457,6 +468,15 @@
 "hour_count" = "%d часы";
 "how_are_you" = "Привет, как дела?";
 "i_am_good" = "Я в порядке.";
+"identity_additional_verification_tip" = "We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support.";
+"identity_device" = "Check if your device’s camera is uncovered and working";
+"identity_issued" = "Prepare a valid government-issued ID";
+"identity_selfie" = "Be prepared to take a selfie and photos of your ID";
+"identity_service_unavailable_tip" = "Your account has been temporarily blocked. Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
+"identity_verification" = "Identity Verification";
+"identity_verification_failed_tip" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
+"identity_verifying" = "Identity Verifying";
+"identity_verifying_tip" = "Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.";
 "image" = "изображение";
 "image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Немедленно";
@@ -586,6 +606,7 @@
 "new_group" = "Новая группа";
 "new_group_chat" = "Новый групповой чат";
 "new_name" = "новое название";
+"new_price" = "New price";
 "new_wallet_hint" = "Создайте свой первый цифровой кошелек, все ваши цифровые активы в одном кошельке, легко отправляйте и получайте криптовалюту.";
 "news" = "Новости";
 "next" = "Следующий";
@@ -625,6 +646,7 @@
 "off" = "Выключенный";
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
+"old_price" = "Old Price";
 "one_by_one_forward" = "Один за другим вперед";
 "one_hour" = "1 час";
 "one_week" = "1 неделя";
@@ -642,6 +664,8 @@
 "operation_failed" = "Операция не удалась, повторите попытку позже";
 "optimize_database" = "Оптимизировать базу данных";
 "optimized" = "Оптимизировано";
+"order_confirm" = "Order Confirm";
+"order_preview" = "Order Preview";
 "other" = "Другой";
 "overwrite" = "Overwrite";
 "owner" = "Владелец";
@@ -649,9 +673,11 @@
 "participants_count" = "%@ УЧАСТНИКОВ";
 "pay_paid" = "Эта платежная ссылка уже кем-то оплачена, повторный платеж сделать нельзя.";
 "pay_with" = "Платить с помощью %@";
+"pay_with" = "Pay With";
 "pay_with_pin" = "Оплатить PIN-кодом";
 "pay_with_pin_interval" = "Оплата с интервалом PIN";
 "pay_withdrawal_memo" = "Сумма %@ %@\nКомиссия %@ %@";
+"payment_services" = "Payment Services";
 "peer_closed" = "Пир закрыт";
 "peer_not_found" = "Пир не найден";
 "pending_confirmation" = "%1$d/%2$d подтверждение";
@@ -706,9 +732,13 @@
 "preparing_progress" = "Подготовка...(%@)";
 "preview_unavailable" = "Preview unavailable";
 "preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
+"price_expired" = "Price Expired";
 "privacy" = "Конфиденциальность";
 "privacy_policy" = "Политика конфиденциальности";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
+"processing" = "Processing";
+"processing_desc" = "Payment request has been submitted, your payment and order information is being checked, please wait patiently";
+"processing_fee" = "Processing Fee";
 "profile" = "Профиль";
 "profile_photo" = "Аватар";
 "profile_share_bot_hint" = "Если вы хотите поделиться ботом, сначала добавьте его в контакты";
@@ -821,10 +851,13 @@
 "secured_by_tip" = "Secured by TIP";
 "security" = "Безопасность";
 "select" = "Выбрать";
+"select_a_card" = "Select a Card";
 "select_a_country_or_region" = "Выберите страну или регион";
 "select_all" = "Select All";
+"select_card" = "Select Card";
 "select_emergency_contact" = "Выберите экстренный контакт";
 "select_more_photos" = "Выберите больше фотографий";
+"select_payment" = "Select Payment";
 "selected_count" = "%@ Выбрано";
 "selected_item" = "Выбрано 1 элемент";
 "selected_item_count" = "Выбрано %d элементов";
@@ -852,6 +885,7 @@
 "send_your_current_location" = "Отправить свое текущее местоположение";
 "send_count" = "Отправить(%d)";
 "senders" = "Отправители";
+"service_unavailable" = "Service Unavailable";
 "session_not_found" = "Session not found";
 "set" = "Установлен";
 "set_disappearing_message_time_to" = "%1$@ установил время исчезновения сообщения на %2$@.";
@@ -878,6 +912,7 @@
 "setting_emergency_send_code" = "Введите 4-значный код, отправленный на Mixin ID: %@.";
 "setting_emergency_set_message" = "Подтвердить установку Mixin ID %@ в качестве контакта для экстренных случаев? Обратите внимание, что другая сторона должна добавить вас в качестве контакта для успешной настройки.";
 "setting_emergency_warning" = "Внимание: экстренный контакт не может помочь вам восстановить PIN-код";
+"setting_identity_content" = "Financial regulations require us to verify your identity. To start verifying, you will allow us and our service provides can collect, use, and store your information. Before you star, please:";
 "setting_mobile_contact_warning" = "Это удалит ваши контакты с серверов Mixin.";
 "setting_notification_transfer_summary" = "Отображение уведомлений при получении перевода, превышающего или равного %@.";
 "setting_privacy_tip" = "Измените, кто может добавлять вас в беседу и группы.";
@@ -915,6 +950,7 @@
 "sort_by" = "Сортировать по";
 "start" = "Start";
 "start_messaging" = "Начать обмен сообщениями";
+"start_verification" = "Start Verification";
 "started_group_call" = "%@ начал групповой вызов";
 "status" = "Статус";
 "stay_in_mixin" = "Stay in Mixin";
@@ -930,6 +966,7 @@
 "storage_almost_full_tip" = "You can free up storage by deleting items that are large or have been forwarded many times.";
 "storage_usage" = "Использование хранилища";
 "stranger_hint" = "Этого отправителя нет в ваших контактах";
+"success_desc" = "Successful purchase of %1$@! Your %2$@ will be transferred directly to Mixin wallet later. Please wait patiently.";
 "successful" = "Успешный";
 "suspicious_link" = "Подозрительная ссылка";
 "symbol" = "Символ";
@@ -957,6 +994,7 @@
 "to" = "В";
 "today" = "Сегодня";
 "tools" = "Инструменты";
+"total" = "Total";
 "touch_id" = "Сенсорный идентификатор";
 "track_not_found" = "Трек не найден";
 "trading" = "Трейдинг";
@@ -1038,6 +1076,8 @@
 "use_face_multisig" = "Используйте Face Multisig";
 "use_face_pay" = "Используйте Face Pay";
 "use_face_withdraw" = "Используйте Face Withdraw";
+"use_new_price" = "Use New Price";
+"use_other" = "Use other methods of payment";
 "use_system_text_size" = "Use System Text Size";
 "use_touch_multisig" = "Используйте сенсорную мультиподпись";
 "use_touch_pay" = "Используйте сенсорную оплату";
@@ -1046,8 +1086,10 @@
 "user_is_reported" = "Сообщено о пользователе";
 "user_not_found" = "Пользователь не найден";
 "validation_timed_out" = "Время проверки истекло";
+"value_info" = "Minimum %1$d %2$@, Maximum %3$d %4$@";
 "value_now" = "значение сейчас %@";
 "value_then" = "значение затем %@";
+"verification_failed" = "Verification Failed";
 "verify" = "Проверить";
 "verify_pin" = "Подтвердить PIN-код";
 "version_update" = "Обновление версии";
@@ -1058,6 +1100,7 @@
 "view_emergency_contact" = "Посмотреть экстренный контакт";
 "view_storage" = "View Storage";
 "view_wallet" = "Посмотреть кошелек";
+"visa_mastercard" = "Visa / Mastercard";
 "voice_call_cancelled" = "голосовой вызов отменен";
 "voice_call_has_been_declined" = "Голосовой вызов был отклонен";
 "waiting" = "Ожидание";

@@ -20,12 +20,14 @@
 "add_conversations" = "Tambahkan Percakapan";
 "add_emergency_contact" = "Tambahkan kontak darurat";
 "add_memo" = "Tambahkan Memo";
+"add_new_card" = "Add New Card";
 "add_participants" = "Tambahkan Peserta";
 "add_sticker" = "Add Sticker";
 "add_stickers" = "Add Stickers";
 "add_tag" = "Tambahkan Tag";
 "add_to_stickers" = "Add to Stickers";
 "added" = "Added";
+"additional_verification" = "Additional Verification";
 "address" = "Alamat";
 "address_not_found" = "Address not found.";
 "admin" = "admin";
@@ -130,6 +132,9 @@
 "bots" = "BOT";
 "bots_title" = "Bot";
 "business" = "Business";
+"buy" = "Buy";
+"buy_now" = "Buy now";
+"buy %1$s" = "Buy %@";
 "calculating" = "Calculating...";
 "call" = "Call";
 "call_declined" = "Panggilan ditolak";
@@ -146,6 +151,7 @@
 "camera" = "Kamera";
 "cancel" = "Batal";
 "cancel_floating" = "Cancel Floating";
+"cancel_order" = "Cancel order";
 "canceled" = "Dibatalkan";
 "canceled_by_caller" = "Panggilan Dibatalkan oleh penelepon";
 "cant_receive_the_code" = "Tidak dapat menerima kode?";
@@ -358,6 +364,7 @@
 "edit_name" = "Edit Nama";
 "education" = "Education";
 "emergency_contact" = "Kontak darurat";
+"empty_card" = "You haven\'t added any card yet.";
 "enable_emergency_contact" = "Aktifkan Kontak Darurat";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
 "enable_pay" = "Enable %@ Pay";
@@ -413,13 +420,17 @@
 "export" = "Export";
 "export_failed" = "Export failed";
 "face_id" = "Face ID";
+"failed" = "Failed";
 "failed_to_compose_avatar" = "Failed to compose avatar. Try another picture instead.";
 "failed_to_send_location" = "Failed to send location";
 "failed_to_send_photo" = "Failed to send photo";
 "failed_to_send_video" = "Failed to send video";
 "fast" = "Fast";
 "fee" = "Biaya";
+"fee_desc" = "You may be charged in addition to the order by your bank, please contact your bank for more information.";
 "feedback" = "Feedback";
+"fees" = "Fees";
+"fees_tip" = "You may not cost more fees by bank.";
 "file" = "File";
 "file_shareable_false" = "The file has been set to not allow sharing";
 "files" = "File";
@@ -457,6 +468,15 @@
 "hour_count" = "%d Jam";
 "how_are_you" = "Hi, how are you?";
 "i_am_good" = "I’m good.";
+"identity_additional_verification_tip" = "We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support.";
+"identity_device" = "Check if your device’s camera is uncovered and working";
+"identity_issued" = "Prepare a valid government-issued ID";
+"identity_selfie" = "Be prepared to take a selfie and photos of your ID";
+"identity_service_unavailable_tip" = "Your account has been temporarily blocked. Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
+"identity_verification" = "Identity Verification";
+"identity_verification_failed_tip" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
+"identity_verifying" = "Identity Verifying";
+"identity_verifying_tip" = "Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.";
 "image" = "image";
 "image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Immediately";
@@ -586,6 +606,7 @@
 "new_group" = "Grup Baru";
 "new_group_chat" = "Obrolan Grup Baru";
 "new_name" = "new name";
+"new_price" = "New price";
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "news" = "News";
 "next" = "Berikutnya";
@@ -625,6 +646,7 @@
 "off" = "Off";
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
+"old_price" = "Old Price";
 "one_by_one_forward" = "One-by-One Forward";
 "one_hour" = "1 Jam";
 "one_week" = "1 Minggu";
@@ -642,6 +664,8 @@
 "operation_failed" = "The operation failed, please try again later";
 "optimize_database" = "Optimize Database";
 "optimized" = "Optimized";
+"order_confirm" = "Order Confirm";
+"order_preview" = "Order Preview";
 "other" = "Other";
 "overwrite" = "Overwrite";
 "owner" = "pemilik";
@@ -649,9 +673,11 @@
 "participants_count" = "%@ PARTICIPANTS";
 "pay_paid" = "Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda.";
 "pay_with" = "Pay with %@";
+"pay_with" = "Pay With";
 "pay_with_pin" = "Bayar dengan PIN";
 "pay_with_pin_interval" = "Bayar dengan interval PIN";
 "pay_withdrawal_memo" = "Amount %@ %@\nFee %@ %@";
+"payment_services" = "Payment Services";
 "peer_closed" = "Peer closed";
 "peer_not_found" = "Peer not found";
 "pending_confirmation" = "%1$d/%2$d confirmation";
@@ -706,9 +732,13 @@
 "preparing_progress" = "Preparing...(%@)";
 "preview_unavailable" = "Preview unavailable";
 "preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
+"price_expired" = "Price Expired";
 "privacy" = "Privasi";
 "privacy_policy" = "Kebijakan Privasi";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
+"processing" = "Processing";
+"processing_desc" = "Payment request has been submitted, your payment and order information is being checked, please wait patiently";
+"processing_fee" = "Processing Fee";
 "profile" = "Profile";
 "profile_photo" = "Foto Profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
@@ -821,10 +851,13 @@
 "secured_by_tip" = "Secured by TIP";
 "security" = "Keamanan";
 "select" = "Pilih";
+"select_a_card" = "Select a Card";
 "select_a_country_or_region" = "Select a Country or Region";
 "select_all" = "Select All";
+"select_card" = "Select Card";
 "select_emergency_contact" = "Pilih Kontak Darurat";
 "select_more_photos" = "Select More Photos";
+"select_payment" = "Select Payment";
 "selected_count" = "%@ Selected";
 "selected_item" = "Selected 1 Item";
 "selected_item_count" = "Selected %d Items";
@@ -852,6 +885,7 @@
 "send_your_current_location" = "Kirim Lokasi Anda Saat Ini";
 "send_count" = "Send(%d)";
 "senders" = "Pengirim";
+"service_unavailable" = "Service Unavailable";
 "session_not_found" = "Session not found";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -878,6 +912,7 @@
 "setting_emergency_send_code" = "Masukkan kode 4 digit yang dikirim ke ID Mixin: %@";
 "setting_emergency_set_message" = "Konfirmasikan untuk menetapkan ID Mixin %@ sebagai kontak darurat Anda? Harap perhatikan bahwa pihak lain harus menambahkan Anda sebagai kontak agar berhasil ditetapkan.";
 "setting_emergency_warning" = "Perhatian: Kontak Darurat tidak dapat membantu Anda memulihkan PIN";
+"setting_identity_content" = "Financial regulations require us to verify your identity. To start verifying, you will allow us and our service provides can collect, use, and store your information. Before you star, please:";
 "setting_mobile_contact_warning" = "Ini akan menghapus kontak Anda dari server Mixin.";
 "setting_notification_transfer_summary" = "Display notifications when receiving a transfer greater than or equal to %@.";
 "setting_privacy_tip" = "Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup.";
@@ -915,6 +950,7 @@
 "sort_by" = "Sort by";
 "start" = "Start";
 "start_messaging" = "Mulai Mengirim Pesan";
+"start_verification" = "Start Verification";
 "started_group_call" = "%@ has started a group call";
 "status" = "Status";
 "stay_in_mixin" = "Stay in Mixin";
@@ -930,6 +966,7 @@
 "storage_almost_full_tip" = "You can free up storage by deleting items that are large or have been forwarded many times.";
 "storage_usage" = "Penggunaan Penyimpanan";
 "stranger_hint" = "This sender is not in your contacts";
+"success_desc" = "Successful purchase of %1$@! Your %2$@ will be transferred directly to Mixin wallet later. Please wait patiently.";
 "successful" = "Berhasil";
 "suspicious_link" = "Tautan yang Mencurigakan";
 "symbol" = "Simbol";
@@ -957,6 +994,7 @@
 "to" = "To";
 "today" = "Hari ini";
 "tools" = "Tools";
+"total" = "Total";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "trading" = "Trading";
@@ -1038,6 +1076,8 @@
 "use_face_multisig" = "Use Face Multisig";
 "use_face_pay" = "Use Face Pay";
 "use_face_withdraw" = "Use Face Withdraw";
+"use_new_price" = "Use New Price";
+"use_other" = "Use other methods of payment";
 "use_system_text_size" = "Use System Text Size";
 "use_touch_multisig" = "Use Touch Multisig";
 "use_touch_pay" = "Use Touch Pay";
@@ -1046,8 +1086,10 @@
 "user_is_reported" = "User has been reported";
 "user_not_found" = "Pengguna tidak ditemukan";
 "validation_timed_out" = "Validation timed out";
+"value_info" = "Minimum %1$d %2$@, Maximum %3$d %4$@";
 "value_now" = "value now %@";
 "value_then" = "value then %@";
+"verification_failed" = "Verification Failed";
 "verify" = "Verifikasikan";
 "verify_pin" = "Verifikasikan PIN";
 "version_update" = "Periksa Pembaruan";
@@ -1058,6 +1100,7 @@
 "view_emergency_contact" = "Lihat kontak darurat";
 "view_storage" = "View Storage";
 "view_wallet" = "View Wallet";
+"visa_mastercard" = "Visa / Mastercard";
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";
 "waiting" = "Menunggu";
