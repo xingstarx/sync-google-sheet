@@ -1657,47 +1657,47 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
-| android, iOS | identity_verifying |     |     |     |     |     |
-| android, iOS | identity_verification_description |     |     |     |     |     |
-| android, iOS | additional_verification |     |     |     |     |     |
-| android, iOS | additional_verification_description |     |     |     |     |     |
-| android, iOS | service_unavailable |     |     |     |     |     |
-| android, iOS | service_unavailable_description |     |     |     |     |     |
-| android, iOS | sumsub_not_ready |     |     |     |     |     |
-| android, iOS | buy_asset |     |     |     |     |     |
-| android, iOS | select_payment_method |     |     |     |     |     |
-| android, iOS | buying_limitation |     |     |     |     |     |
-| android, iOS | add_card |     |     |     |     |     |
-| android, iOS | order_confirm |     |     |     |     |     |
-| android, iOS | debit_or_credit_card |     |     |     |     |     |
-| android, iOS | accepted_cards |     |     |     |     |     |
-| android, iOS | cardholder_name |     |     |     |     |     |
-| android, iOS | card_number |     |     |     |     |     |
-| android, iOS | card_number_error |     |     |     |     |     |
-| android, iOS | expiry_date |     |     |     |     |     |
-| android, iOS | expiry_date_error |     |     |     |     |     |
-| android, iOS | security_code |     |     |     |     |     |
-| android, iOS | security_code_error |     |     |     |     |     |
-| android, iOS | select_a_card |     |     |     |     |     |
-| android, iOS | add_credit_or_debit_card |     |     |     |     |     |
-| android, iOS | pay_with |     |     |     |     |     |
-| android, iOS | price |     |     |     |     |     |
-| android, iOS | purchase_amount |     |     |     |     |     |
-| android, iOS | fees |     |     |     |     |     |
-| android, iOS | total_amount |     |     |     |     |     |
-| android, iOS | fees_explaination |     |     |     |     |     |
-| android, iOS | price_expired |     |     |     |     |     |
-| android, iOS | use_new_price |     |     |     |     |     |
-| android, iOS | old_price |     |     |     |     |     |
-| android, iOS | new_price |     |     |     |     |     |
-| android, iOS | buy_success |     |     |     |     |     |
-| android, iOS | buy_success_description |     |     |     |     |     |
-| android, iOS | buy_failed |     |     |     |     |     |
-| android, iOS | buy_failed_description |     |     |     |     |     |
-| android, iOS | switch_payment_method |     |     |     |     |     |
-| android, iOS | cancel_order |     |     |     |     |     |
-| android, iOS | error_card_expired |     |     |     |     |     |
-| android, iOS | error_price_expired |     |     |     |     |     |
-| android, iOS | error_payment_capture_failed |     |     |     |     |     |
-| android, iOS | error_card_not_supported |     |     |     |     |     |
-| android, iOS | calculating |     |     |     |     |     |
+| android, iOS | identity_verifying | Identity Verifying | 正在审核 |     |     |     |
+| android, iOS | identity_verification_description | Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
+| android, iOS | additional_verification | Additional Verification | 补充验证材料 |     |     |     |
+| android, iOS | additional_verification_description | We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support. | 根据监管需求，我们需要您补充验证材料。感谢您的理解与支持 |     |     |     |
+| android, iOS | service_unavailable | Service Unavailable | 服务不可用 |     |     |     |
+| android, iOS | service_unavailable_description | Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency. | 由于监管限制，目前我们无法提供更多信息。感谢您的耐心、理解，以及对加密货币的兴趣。 |     |     |     |
+| android, iOS | sumsub_not_ready | KYC not available | KYC服务不可用 |     |     |     |
+| android, iOS | buy_asset | Buy %1$s | 购买 %1$s |     |     |     |
+| android, iOS | select_payment_method | Select Payment Method | 选择支付方式 |     |     |     |
+| android, iOS | buying_limitation | Minimum %1$s, Maximum %2$s | 最少 %1$s, 最多 %2$s |     |     |     |
+| android, iOS | add_card | Add Card | 添加卡片 |     |     |     |
+| android, iOS | order_confirm | Order Confirm | 订单确认 |     |     |     |
+| android, iOS | debit_or_credit_card | Debit / Credit Card | 借记卡/信用卡 |     |     |     |
+| android, iOS | accepted_cards | Accepted cards: %1$s | 接受以下卡片: %1$s |     |     |     |
+| android, iOS | cardholder_name | Cardholder name | 持卡人姓名 |     |     |     |
+| android, iOS | card_number | Card number | 卡号  |     |     |     |
+| android, iOS | card_number_error | Please enter a valid card number | 请输入有效的卡号 |     |     |     |
+| android, iOS | expiry_date | Expiry Date | 有效期 |     |     |     |
+| android, iOS | expiry_date_error | Please enter a valid expiry date | 请输入正确的有效期 |     |     |     |
+| android, iOS | security_code | Security code | 安全码 |     |     |     |
+| android, iOS | security_code_error | Please enter a valid security code | 请输入有效的安全码 |     |     |     |
+| android, iOS | select_a_card | Select a Card | 选择卡片 |     |     |     |
+| android, iOS | add_credit_or_debit_card | Add credit or debit card | 添加信用卡或借记卡 |     |     |     |
+| android, iOS | pay_with | Pay with | 支付方式 |     |     |     |
+| android, iOS | price | Price | 价格  |     |     |     |
+| android, iOS | purchase_amount | Purchase | 购买金额 |     |     |     |
+| android, iOS | fees | Fees | 手续费 |     |     |     |
+| android, iOS | total_amount | Total | 总金额 |     |     |     |
+| android, iOS | fees_explaination | You may be charged fees outside of your order by your bank, please contact your bank for more details. | 您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。 |     |     |     |
+| android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
+| android, iOS | use_new_price | Use New Price | 使用最新报价 |     |     |     |
+| android, iOS | old_price | Old Price | 过期价格 |     |     |     |
+| android, iOS | new_price | New Price | 最新价格 |     |     |     |
+| android, iOS | buy_success | Success | 交易成功 |     |     |     |
+| android, iOS | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s 将直接转入Mixin钱包。 |     |     |     |
+| android, iOS | buy_failed | Failed | 交易失败 |     |     |     |
+| android, iOS | buy_failed_description | There was a problem processing the transaction, please try again later. | 该交易在处理中出现了问题，请稍后重试。 |     |     |     |
+| android, iOS | switch_payment_method | Switch Payment Method | 使用其他支付方式 |     |     |     |
+| android, iOS | cancel_order | Cancel Order | 取消订单 |     |     |     |
+| android, iOS | error_card_expired | ERROR 10601: Card expired | 错误 10601: 卡片已过期 |     |     |     |
+| android, iOS | error_price_expired | ERROR 10602: Price expired | ERROR 10602: 价格已过期 |     |     |     |
+| android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
+| android, iOS | error_card_not_supported | ERROR 10604: Card not supported | ERROR 10604: 不支持此卡片 |     |     |     |
+| android, iOS | calculating | Calculating… | 正在计算… |     |     |     |

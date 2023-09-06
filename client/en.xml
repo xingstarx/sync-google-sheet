@@ -1656,4 +1656,48 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
+  <string name="identity_verifying" platform="android, iOS">Identity Verifying</string>
+  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.</string>
+  <string name="additional_verification" platform="android, iOS">Additional Verification</string>
+  <string name="additional_verification_description" platform="android, iOS">We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support.</string>
+  <string name="service_unavailable" platform="android, iOS">Service Unavailable</string>
+  <string name="service_unavailable_description" platform="android, iOS">Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.</string>
+  <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
+  <string name="buy_asset" platform="android, iOS">Buy %1$s</string>
+  <string name="select_payment_method" platform="android, iOS">Select Payment Method</string>
+  <string name="buying_limitation" platform="android, iOS">Minimum %1$s, Maximum %2$s</string>
+  <string name="add_card" platform="android, iOS">Add Card</string>
+  <string name="order_confirm" platform="android, iOS">Order Confirm</string>
+  <string name="debit_or_credit_card" platform="android, iOS">Debit / Credit Card</string>
+  <string name="accepted_cards" platform="android, iOS">Accepted cards: %1$s</string>
+  <string name="cardholder_name" platform="android, iOS">Cardholder name</string>
+  <string name="card_number" platform="android, iOS">Card number</string>
+  <string name="card_number_error" platform="android, iOS">Please enter a valid card number</string>
+  <string name="expiry_date" platform="android, iOS">Expiry Date</string>
+  <string name="expiry_date_error" platform="android, iOS">Please enter a valid expiry date</string>
+  <string name="security_code" platform="android, iOS">Security code</string>
+  <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
+  <string name="select_a_card" platform="android, iOS">Select a Card</string>
+  <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
+  <string name="pay_with" platform="android, iOS">Pay with</string>
+  <string name="price" platform="android, iOS">Price</string>
+  <string name="purchase_amount" platform="android, iOS">Purchase</string>
+  <string name="fees" platform="android, iOS">Fees</string>
+  <string name="total_amount" platform="android, iOS">Total</string>
+  <string name="fees_explaination" platform="android, iOS">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
+  <string name="price_expired" platform="android, iOS">Price Expired</string>
+  <string name="use_new_price" platform="android, iOS">Use New Price</string>
+  <string name="old_price" platform="android, iOS">Old Price</string>
+  <string name="new_price" platform="android, iOS">New Price</string>
+  <string name="buy_success" platform="android, iOS">Success</string>
+  <string name="buy_success_description" platform="android, iOS">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
+  <string name="buy_failed" platform="android, iOS">Failed</string>
+  <string name="buy_failed_description" platform="android, iOS">There was a problem processing the transaction, please try again later.</string>
+  <string name="switch_payment_method" platform="android, iOS">Switch Payment Method</string>
+  <string name="cancel_order" platform="android, iOS">Cancel Order</string>
+  <string name="error_card_expired" platform="android, iOS">ERROR 10601: Card expired</string>
+  <string name="error_price_expired" platform="android, iOS">ERROR 10602: Price expired</string>
+  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: Payment capture failed</string>
+  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: Card not supported</string>
+  <string name="calculating" platform="android, iOS">Calculating…</string>
 </resources>

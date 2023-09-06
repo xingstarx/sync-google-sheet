@@ -1627,4 +1627,48 @@
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已创建</string>
   <string name="zoom" platform="Desktop">缩放</string>
+  <string name="identity_verifying" platform="android, iOS">正在审核</string>
+  <string name="identity_verification_description" platform="android, iOS">正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。</string>
+  <string name="additional_verification" platform="android, iOS">补充验证材料</string>
+  <string name="additional_verification_description" platform="android, iOS">根据监管需求，我们需要您补充验证材料。感谢您的理解与支持</string>
+  <string name="service_unavailable" platform="android, iOS">服务不可用</string>
+  <string name="service_unavailable_description" platform="android, iOS">由于监管限制，目前我们无法提供更多信息。感谢您的耐心、理解，以及对加密货币的兴趣。</string>
+  <string name="sumsub_not_ready" platform="android, iOS">KYC服务不可用</string>
+  <string name="buy_asset" platform="android, iOS">购买 %1$s</string>
+  <string name="select_payment_method" platform="android, iOS">选择支付方式</string>
+  <string name="buying_limitation" platform="android, iOS">最少 %1$s, 最多 %2$s</string>
+  <string name="add_card" platform="android, iOS">添加卡片</string>
+  <string name="order_confirm" platform="android, iOS">订单确认</string>
+  <string name="debit_or_credit_card" platform="android, iOS">借记卡/信用卡</string>
+  <string name="accepted_cards" platform="android, iOS">接受以下卡片: %1$s</string>
+  <string name="cardholder_name" platform="android, iOS">持卡人姓名</string>
+  <string name="card_number" platform="android, iOS">卡号</string>
+  <string name="card_number_error" platform="android, iOS">请输入有效的卡号</string>
+  <string name="expiry_date" platform="android, iOS">有效期</string>
+  <string name="expiry_date_error" platform="android, iOS">请输入正确的有效期</string>
+  <string name="security_code" platform="android, iOS">安全码</string>
+  <string name="security_code_error" platform="android, iOS">请输入有效的安全码</string>
+  <string name="select_a_card" platform="android, iOS">选择卡片</string>
+  <string name="add_credit_or_debit_card" platform="android, iOS">添加信用卡或借记卡</string>
+  <string name="pay_with" platform="android, iOS">支付方式</string>
+  <string name="price" platform="android, iOS">价格</string>
+  <string name="purchase_amount" platform="android, iOS">购买金额</string>
+  <string name="fees" platform="android, iOS">手续费</string>
+  <string name="total_amount" platform="android, iOS">总金额</string>
+  <string name="fees_explaination" platform="android, iOS">您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。</string>
+  <string name="price_expired" platform="android, iOS">报价已过期</string>
+  <string name="use_new_price" platform="android, iOS">使用最新报价</string>
+  <string name="old_price" platform="android, iOS">过期价格</string>
+  <string name="new_price" platform="android, iOS">最新价格</string>
+  <string name="buy_success" platform="android, iOS">交易成功</string>
+  <string name="buy_success_description" platform="android, iOS">成功支付 %1$s。%2$s 将直接转入Mixin钱包。</string>
+  <string name="buy_failed" platform="android, iOS">交易失败</string>
+  <string name="buy_failed_description" platform="android, iOS">该交易在处理中出现了问题，请稍后重试。</string>
+  <string name="switch_payment_method" platform="android, iOS">使用其他支付方式</string>
+  <string name="cancel_order" platform="android, iOS">取消订单</string>
+  <string name="error_card_expired" platform="android, iOS">错误 10601: 卡片已过期</string>
+  <string name="error_price_expired" platform="android, iOS">ERROR 10602: 价格已过期</string>
+  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付确认失败</string>
+  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支持此卡片</string>
+  <string name="calculating" platform="android, iOS">正在计算…</string>
 </resources>
