@@ -1701,3 +1701,4 @@
 | android, iOS | error_card_not_supported | ERROR 10604: Card not supported | ERROR 10604: 不支持此卡片 |     |     |     |
 | android, iOS | calculating | Calculating… | 正在计算… |     |     |     |
 | android, iOS | processing | Processing | 处理中 |     |     |     |
+| android, iOS | buy | Buy | 购买  |     |     |     |
