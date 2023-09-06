@@ -149,6 +149,7 @@
 	<string name="BOTS">機器人</string>
 	<string name="bots_title">機器人</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s 不是您的聯繫人，請確認收款人是否正確。如果您轉錯了人資產將無法追回！</string>
+	<string name="buy">購買</string>
 	<string name="buy_asset">購買 %1$s</string>
 	<string name="buy_failed">交易失敗</string>
 	<string name="buy_failed_description">該交易在處理中出現了問題，請稍後重試。</string>

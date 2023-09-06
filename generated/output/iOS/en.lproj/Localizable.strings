@@ -135,6 +135,7 @@
 "bots" = "BOTS";
 "bots_title" = "Bots";
 "business" = "Business";
+"buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
 "buy_failed_description" = "There was a problem processing the transaction, please try again later.";

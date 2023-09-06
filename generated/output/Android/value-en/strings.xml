@@ -151,6 +151,7 @@
 	<string name="BOTS">BOTS</string>
 	<string name="bots_title">Bots</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
+	<string name="buy">Buy</string>
 	<string name="buy_asset">Buy %1$s</string>
 	<string name="buy_failed">Failed</string>
 	<string name="buy_failed_description">There was a problem processing the transaction, please try again later.</string>

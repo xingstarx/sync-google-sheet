@@ -135,6 +135,7 @@
 "bots" = "機器人";
 "bots_title" = "機器人";
 "business" = "商業";
+"buy" = "購買";
 "buy_asset" = "購買 %@";
 "buy_failed" = "交易失敗";
 "buy_failed_description" = "該交易在處理中出現了問題，請稍後重試。";
