@@ -39,7 +39,6 @@
   <string name="add_file" platform="Desktop">添加文件</string>
   <string name="Add_group_description" platform="android, Desktop">添加群公告</string>
   <string name="Add_memo" platform="android, iOS">点击添加 Memo（备注）</string>
-  <string name="Add_New_Card" platform="android, iOS">添加新卡</string>
   <string name="Add_participants" platform="android, iOS, Desktop">添加成员</string>
   <string name="Add_people_hint" platform="android">通过 Mixin ID 或手机号添加联系人</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin ID 或手机号</string>
@@ -54,7 +53,6 @@
   <string name="Add_to_Stickers" platform="iOS">添加贴纸</string>
   <string name="Added" platform="android, iOS, Desktop">已添加</string>
   <string name="Adding" platform="android">正在添加…</string>
-  <string name="Additional_Verification" platform="android, iOS">额外验证</string>
   <string name="Address" platform="android, iOS, Desktop">地址</string>
   <string name="Address_not_found" platform="iOS">找不到该地址。</string>
   <string name="Admin" platform="android, iOS, Desktop">管理员</string>
@@ -196,10 +194,6 @@
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
   <string name="bring_all_to_front" platform="Desktop">前置所有窗口</string>
   <string name="Business" platform="iOS">商业</string>
-  <string name="Buy" platform="android, iOS">购买 %1$s</string>
-  <string name="Buy %1$s" platform="android, iOS">购买 %1$s</string>
-  <string name="Buy_now" platform="android, iOS">立即购买</string>
-  <string name="calculating" platform="android, iOS">正在计算…</string>
   <string name="Call" platform="android, iOS">语音</string>
   <string name="Call_declined" platform="android, iOS">对方已拒绝</string>
   <string name="call_encryption_description" platform="android, iOS">除了参与通话的人，其他人包含 Mixin 在内都无法听取或查看。</string>
@@ -218,7 +212,6 @@
   <string name="can_not_recognize_qr_code" platform="android, Desktop">无法识别二维码</string>
   <string name="Cancel" platform="android, iOS, Desktop">取消</string>
   <string name="Cancel_Floating" platform="android, iOS">取消浮窗</string>
-  <string name="cancel_order" platform="android, iOS">取消订单</string>
   <string name="Canceled" platform="android, iOS">已取消</string>
   <string name="Canceled_by_caller" platform="android, iOS">对方已取消</string>
   <string name="Cant_receive_the_code" platform="android, iOS">接收不到验证码？</string>
@@ -524,7 +517,6 @@
   <string name="Education" platform="iOS">教育</string>
   <string name="Emergency_Contact" platform="android, iOS">紧急联系人</string>
   <string name="Empty_address_book" platform="android">通讯录内容为空</string>
-  <string name="Empty_card" platform="android, iOS">您还没有添加任何卡片。</string>
   <string name="Enable_after_1_minute" platform="android">在 1 分钟之后启动</string>
   <string name="Enable_after_30_minutes" platform="android">在 30 分钟后启动</string>
   <string name="Enable_db_debug" platform="android">已开启 db 调试</string>
@@ -620,7 +612,6 @@
   <string name="Extract_QR_Code" platform="android">识别二维码</string>
   <string name="Face_ID" platform="iOS">面容</string>
   <string name="failed" platform="Desktop">失败</string>
-  <string name="Failed" platform="android, iOS">失败</string>
   <string name="Failed_to_compose_avatar" platform="iOS">头像解析失败，请尝试使用其他图片。</string>
   <string name="failed_to_open_database" platform="Desktop">打开数据库时出现了错误。</string>
   <string name="Failed_to_send_location" platform="iOS">发送位置失败，请稍后重试</string>
@@ -629,10 +620,7 @@
   <string name="Failure" platform="android">错误</string>
   <string name="fast" platform="android, iOS">快速</string>
   <string name="Fee" platform="android, iOS, Desktop">手续费</string>
-  <string name="Fee_desc" platform="android, iOS">除了订单金额之外，您的银行可能会额外收取费用，请与您的银行联系以获取更多信息。</string>
   <string name="Feedback" platform="android, iOS">反馈</string>
-  <string name="Fees" platform="android, iOS">费用</string>
-  <string name="Fees_tip" platform="android, iOS">您的银行可能不会收取额外费用。</string>
   <string name="File" platform="android, iOS, Desktop">文件</string>
   <string name="File_chooser_error" platform="android, Desktop">文件选择错误</string>
   <string name="File_does_not_exist" platform="android, Desktop">文件不存在</string>
@@ -705,15 +693,6 @@
   <string name="how_are_you" platform="iOS, Desktop">嗨，你好吗？</string>
   <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
-  <string name="identity_additional_verification_tip" platform="android, iOS">为了满足监管要求，我们需要您提交额外的信息。感谢您的理解和支持。</string>
-  <string name="identity_device" platform="android, iOS">检查您的设备的摄像头是否没有被遮挡并且正常工作</string>
-  <string name="identity_issued" platform="android, iOS">准备一份有效的政府签发的身份证明文件</string>
-  <string name="identity_selfie" platform="android, iOS">准备拍摄一张自拍照和身份证照片</string>
-  <string name="identity_service_unavailable_tip" platform="android, iOS">您的账户已被暂时封锁。由于法律限制，我们目前无法提供更多信息。感谢您的耐心、理解和对加密货币的兴趣。您的账户已被暂时封锁。由于法律限制，我们目前无法提供更多信息。感谢您的耐心、理解和对加密货币的兴趣。</string>
-  <string name="Identity_Verification" platform="android, iOS">身份验证</string>
-  <string name="identity_verification_failed_tip" platform="android, iOS">您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。</string>
-  <string name="Identity_Verifying" platform="android, iOS">身份验证中</string>
-  <string name="identity_verifying_tip" platform="android, iOS">正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。</string>
   <string name="ignore_this_version" platform="Desktop">忽略这次版本更新</string>
   <string name="image" platform="iOS, Desktop">图像</string>
   <string name="image_shareable_false" platform="android, iOS">该图片已被设置为不允许转发</string>
@@ -905,7 +884,6 @@
   <string name="New_Group_Chat" platform="android, iOS">新群聊</string>
   <string name="new_group_name" platform="android">新群组名称</string>
   <string name="new_name" platform="iOS">名称</string>
-  <string name="New_Price" platform="android, iOS">新价格</string>
   <string name="new_version_available" platform="Desktop">发现新版本</string>
   <string name="new_version_description" platform="Desktop">发现新版本 Mixin Messenger %1$s，当前版本为 %2$s。是否要下载最新的版本？</string>
   <string name="new_wallet_hint" platform="android, iOS">创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。</string>
@@ -975,7 +953,6 @@
   <string name="OK" platform="android, iOS">好的</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">确保旧的设备已停留在同步等待扫码的界面</string>
   <string name="Old_PIN" platform="android">验证旧的 PIN</string>
-  <string name="Old_Price" platform="android, iOS">旧价格</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">逐条转发</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 小时</string>
   <string name="one_week" platform="android, iOS, Desktop">1 星期</string>
@@ -996,8 +973,6 @@
   <string name="Operator" platform="android">运营商</string>
   <string name="Optimize_Database" platform="iOS">优化查询索引</string>
   <string name="Optimized" platform="iOS">已优化</string>
-  <string name="Order_Confirm" platform="android, iOS">确认订单</string>
-  <string name="Order_Preview" platform="android, iOS">订单预览</string>
   <string name="original_image" platform="Desktop">原图</string>
   <string name="OTHER" platform="android">其他</string>
   <string name="Other" platform="iOS">其他</string>
@@ -1010,8 +985,7 @@
   <string name="password" platform="Desktop">密码</string>
   <string name="Pause" platform="android">暂停</string>
   <string name="pay_paid" platform="android, iOS">此付款链接已由某人支付，您无法进行重复付款。</string>
-  <string name="Pay_with" platform="iOS">%@支付</string>
-  <string name="Pay_With" platform="android, iOS">支付方式</string>
+  <string name="Pay_with_biometry_type" platform="iOS">%@支付</string>
   <string name="Pay_with_Biometrics" platform="android">用生物识别支付</string>
   <string name="Pay_with_PIN" platform="android, iOS">用 PIN 支付</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PIN 使用间隔</string>
