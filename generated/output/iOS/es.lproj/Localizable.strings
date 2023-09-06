@@ -741,6 +741,7 @@
 "privacy" = "Privacidad";
 "privacy_policy" = "Política de privacidad";
 "process_can_not_be_stop" = "El proceso no se puede cancelar cuando comienza. Recuerda el PIN de 6 dígitos y vuelva a introducirlo si el proceso se cancela inesperadamente.";
+"processing" = "Processing";
 "profile" = "Perfil";
 "profile_photo" = "Foto de perfil";
 "profile_share_bot_hint" = "Si deseas compartir un bot, añádelo primero a tus contactosa";
@@ -998,7 +999,6 @@
 "to" = "A";
 "today" = "Hoy";
 "tools" = "Herramientas";
-"total" = "Total";
 "total_amount" = "Total";
 "touch_id" = "identifición de toque";
 "track_not_found" = "Pista no encontrada";

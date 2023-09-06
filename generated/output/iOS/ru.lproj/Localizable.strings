@@ -741,6 +741,7 @@
 "privacy" = "Конфиденциальность";
 "privacy_policy" = "Политика конфиденциальности";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
+"processing" = "Processing";
 "profile" = "Профиль";
 "profile_photo" = "Аватар";
 "profile_share_bot_hint" = "Если вы хотите поделиться ботом, сначала добавьте его в контакты";
@@ -998,7 +999,6 @@
 "to" = "В";
 "today" = "Сегодня";
 "tools" = "Инструменты";
-"total" = "Total";
 "total_amount" = "Total";
 "touch_id" = "Сенсорный идентификатор";
 "track_not_found" = "Трек не найден";

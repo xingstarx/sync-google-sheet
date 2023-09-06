@@ -1415,7 +1415,6 @@
   <string name="Today" platform="android, iOS, Desktop">今天</string>
   <string name="toggle_chat_info" platform="Desktop">展開/關閉會話資訊</string>
   <string name="Tools" platform="iOS">工具</string>
-  <string name="Total" platform="android, iOS">總計</string>
   <string name="Touch_ID" platform="iOS">指紋</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">觸控指紋感測器</string>
   <string name="Track_not_found" platform="iOS">Track 無效</string>
@@ -1671,4 +1670,5 @@
   <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付確認失敗</string>
   <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支援此卡片</string>
   <string name="calculating" platform="android, iOS">正在計算…</string>
+  <string name="processing" platform="android, iOS">處理中</string>
 </resources>

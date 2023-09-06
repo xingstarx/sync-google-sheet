@@ -741,6 +741,7 @@
 "privacy" = "Privasi";
 "privacy_policy" = "Kebijakan Privasi";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
+"processing" = "Processing";
 "profile" = "Profile";
 "profile_photo" = "Foto Profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
@@ -998,7 +999,6 @@
 "to" = "To";
 "today" = "Hari ini";
 "tools" = "Tools";
-"total" = "Total";
 "total_amount" = "Total";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";

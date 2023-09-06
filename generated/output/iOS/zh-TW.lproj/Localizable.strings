@@ -741,6 +741,7 @@
 "privacy" = "隱私";
 "privacy_policy" = "隱私政策";
 "process_can_not_be_stop" = "流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入";
+"processing" = "處理中";
 "profile" = "個人資料";
 "profile_photo" = "個人頭像";
 "profile_share_bot_hint" = "如果您希望分享機器人，請先新增聯絡人。";
@@ -998,7 +999,6 @@
 "to" = "至";
 "today" = "今天";
 "tools" = "工具";
-"total" = "總計";
 "total_amount" = "總金額";
 "touch_id" = "指紋";
 "track_not_found" = "Track 無效";

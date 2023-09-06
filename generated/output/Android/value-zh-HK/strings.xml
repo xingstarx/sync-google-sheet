@@ -796,6 +796,7 @@
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
+	<string name="processing">處理中</string>
 	<string name="profile_modify_number">你想要修改手機號碼麼？</string>
 	<string name="Profile_photo">個人頭像</string>
 	<string name="profile_share_bot_hint">如果您希望分享機器人，請先添加聯繫人。</string>
@@ -1068,7 +1069,6 @@
 	</plurals>
 	<string name="To">至</string>
 	<string name="Today">今天</string>
-	<string name="Total">總計</string>
 	<string name="total_amount">總金額</string>
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>
