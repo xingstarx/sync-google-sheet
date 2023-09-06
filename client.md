@@ -1437,7 +1437,6 @@
 | android, iOS, Desktop | Today | Today | 今天  | 今日  | Hari ini | Hari ini |
 | Desktop | toggle_chat_info | Toggle chat info | 展开/关闭会话信息 | チャット情報のオン/オフ |     |     |
 | iOS | Tools | Tools | 工具  | ツール |     |     |
-| android, iOS | Total | Total | 总计  |     |     |     |
 | iOS | Touch_ID | Touch ID | 指纹  | 指紋認証 |     |     |
 | android | Touch_the_fingerprint_sensor | Touch the fingerprint sensor | 触摸指纹传感器 | 指紋センサーにタッチしてください |     |     |
 | android, Desktop | Trace | Trace |     | 記録情報 | Jejak |     |
@@ -1701,3 +1700,4 @@
 | android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
 | android, iOS | error_card_not_supported | ERROR 10604: Card not supported | ERROR 10604: 不支持此卡片 |     |     |     |
 | android, iOS | calculating | Calculating… | 正在计算… |     |     |     |
+| android, iOS | processing | Processing | 处理中 |     |     |     |
