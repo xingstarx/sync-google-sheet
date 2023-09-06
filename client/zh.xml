@@ -990,7 +990,6 @@
   <string name="Pay_with_PIN" platform="android, iOS">用 PIN 支付</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PIN 使用间隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">数量 %@ %@\n手续费 %@ %@</string>
-  <string name="Payment_Services" platform="android, iOS">支付服务</string>
   <string name="Peer_closed" platform="iOS">Peer 已关闭</string>
   <string name="Peer_not_found" platform="iOS">Peer 无效</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d 区块确认数</string>
@@ -1057,14 +1056,9 @@
   <string name="preview_unavailable" platform="android, iOS">预览不可用</string>
   <string name="preview_unavailable_description" platform="android, iOS">无法预览资产变化。请确保你信任此 dapp。</string>
   <string name="previous_conversation" platform="Desktop">上一个会话</string>
-  <string name="Price" platform="android, iOS">价格</string>
-  <string name="Price_Expired" platform="android, iOS">价格已过期</string>
   <string name="Privacy" platform="android, iOS">隐私</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">隐私政策</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入</string>
-  <string name="Processing" platform="android, iOS">处理中</string>
-  <string name="Processing_desc" platform="android, iOS">支付请求已提交，正在检查您的支付和订单信息，请耐心等待。</string>
-  <string name="Processing_Fee" platform="android, iOS">处理费</string>
   <string name="Profile" platform="iOS">个人资料</string>
   <string name="profile_modify_number" platform="android">你想要修改手机号码么？</string>
   <string name="Profile_photo" platform="android, iOS">个人头像</string>
@@ -1225,10 +1219,8 @@
   <string name="Secured_by_TIP" platform="android,iOS">由 TIP 提供安全保障</string>
   <string name="Security" platform="android, iOS, Desktop">安全</string>
   <string name="Select" platform="android, iOS, Desktop">选择</string>
-  <string name="Select_a_Card" platform="android, iOS">选择银行卡</string>
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
   <string name="Select_All" platform="iOS,android">选择所有</string>
-  <string name="Select_Card" platform="android, iOS">选择银行卡</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">选择紧急联系人</string>
   <string name="Select_More_Photos" platform="iOS">选择更多照片</string>
   <string name="selected_count" platform="iOS">选择了 %@ 个消息</string>
@@ -1265,7 +1257,6 @@
   <string name="Send_your_Current_Location" platform="android, iOS">发送您当前的位置</string>
   <string name="send.count" platform="iOS">发送（%1$d）</string>
   <string name="Senders" platform="android, iOS">交易发起人</string>
-  <string name="Service_Unavailable" platform="android, iOS">服务不可用</string>
   <string name="session_not_found" platform="android, iOS">没有对应的连接</string>
   <string name="Set" platform="android, iOS, Desktop">设置</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s将限时消息设置为 %2$s</string>
@@ -1310,7 +1301,6 @@
   <string name="setting_emergency_set_message" platform="android, iOS">确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！</string>
   <string name="setting_emergency_warning" platform="android, iOS">注意：紧急联系人无法帮助找回支付 PIN</string>
   <string name="setting_enable_biometric_pay" platform="android">开启生物识别支付？</string>
-  <string name="setting_identity_content" platform="android, iOS">金融监管要求我们验证您的身份。为了开始验证，您将允许我们和我们的服务提供商收集、使用和存储您的信息。在开始之前，请确保：</string>
   <string name="setting_incognito_prompt" platform="android">禁止键盘个性化学习。</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">确定删除已同步到 Mixin 服务器的通讯录？</string>
   <string name="setting_notification_transfer_summary" platform="android, iOS">收到不少于 %1$s 转账时显示通知。</string>
@@ -1365,7 +1355,6 @@
   <string name="Sort_by" platform="android, iOS">顺序</string>
   <string name="Start" platform="android,iOS">开始</string>
   <string name="Start_Messaging" platform="android, iOS">开始聊天</string>
-  <string name="Start_Verification" platform="android, iOS">开始验证</string>
   <string name="started_group_call" platform="iOS">%@ 开始了群通话</string>
   <string name="Status" platform="android, iOS, Desktop">交易状态</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
@@ -1389,7 +1378,6 @@
   <string name="Stranger_Transfer_Confirmation" platform="android">陌生人转账确认</string>
   <string name="strangers" platform="Desktop">陌生人</string>
   <string name="strikethrough" platform="android">删除线</string>
-  <string name="Success_desc" platform="android, iOS">成功购买 %1$s！您的 %2$s 将直接转入Mixin钱包。请耐心等待。</string>
   <string name="Successful" platform="android, Desktop, iOS">成功</string>
   <string name="Sunday" platform="android">星期日</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑链接</string>
@@ -1531,8 +1519,6 @@
   <string name="Use_face_multisig" platform="iOS">使用面容签名</string>
   <string name="Use_face_pay" platform="iOS">使用面容支付</string>
   <string name="Use_face_withdraw" platform="iOS">使用面容提现</string>
-  <string name="Use_New_Price" platform="android, iOS">使用新价格</string>
-  <string name="use_other" platform="android, iOS">使用其他支付方式</string>
   <string name="Use_System_Text_Size" platform="android, iOS">跟随系统字体大小</string>
   <string name="Use_touch_multisig" platform="iOS">使用指纹签名</string>
   <string name="Use_touch_pay" platform="iOS">使用指纹支付</string>
@@ -1542,10 +1528,8 @@
   <string name="User_not_found" platform="android, iOS, Desktop">找不到这个用户</string>
   <string name="username" platform="Desktop">用户名</string>
   <string name="Validation_timed_out" platform="iOS">验证超时</string>
-  <string name="Value_info" platform="android, iOS">最低金额 %1$d %2$s，最高金额 %3$d %4$s</string>
   <string name="value_now" platform="android, iOS, Desktop">价值 %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">当时价值 %1$s</string>
-  <string name="Verification_Failed" platform="android, iOS">验证失败</string>
   <string name="Verify" platform="android, iOS">验证</string>
   <string name="Verify_by_Biometric" platform="android">用生物识别来验证</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">验证 PIN</string>

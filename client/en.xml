@@ -1008,7 +1008,6 @@
   <string name="Pay_with_PIN" platform="android, iOS">Pay with PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Pay with PIN interval</string>
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
-  <string name="Payment_Services" platform="android, iOS">Payment Services</string>
   <string name="Peer_closed" platform="iOS">Peer closed</string>
   <string name="Peer_not_found" platform="iOS">Peer not found</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmation</string>
@@ -1075,13 +1074,9 @@
   <string name="preview_unavailable" platform="android, iOS">Preview unavailable</string>
   <string name="preview_unavailable_description" platform="android, iOS">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
-  <string name="Price_Expired" platform="android, iOS">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Privacy Policy</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
-  <string name="Processing" platform="android, iOS">Processing</string>
-  <string name="Processing_desc" platform="android, iOS">Payment request has been submitted, your payment and order information is being checked, please wait patiently</string>
-  <string name="Processing_Fee" platform="android, iOS">Processing Fee</string>
   <string name="Profile" platform="iOS">Profile</string>
   <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
@@ -1244,10 +1239,8 @@
   <string name="Secured_by_TIP" platform="android,iOS">Secured by TIP</string>
   <string name="Security" platform="android, iOS, Desktop">Security</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
-  <string name="Select_a_Card" platform="android, iOS">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="Select_All" platform="iOS,android">Select All</string>
-  <string name="Select_Card" platform="android, iOS">Select Card</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Emergency Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
   <string name="selected_count" platform="iOS">%@ Selected</string>
@@ -1284,7 +1277,6 @@
   <string name="Send_your_Current_Location" platform="android, iOS">Send your Current Location</string>
   <string name="send.count" platform="iOS">Send(%1$d)</string>
   <string name="Senders" platform="android, iOS">Senders</string>
-  <string name="Service_Unavailable" platform="android, iOS">Service Unavailable</string>
   <string name="session_not_found" platform="android, iOS">Session not found</string>
   <string name="Set" platform="android, iOS, Desktop">Set</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s set disappearing message time to %2$s</string>
@@ -1330,7 +1322,6 @@
   <string name="setting_emergency_set_message" platform="android, iOS">Confirm to set Mixin ID %1$s as your emergency contact? Please note that the other party must add you as a contact to set up successfully.</string>
   <string name="setting_emergency_warning" platform="android, iOS">Attention: the Emergency Contact cannot help you to recover PIN</string>
   <string name="setting_enable_biometric_pay" platform="android">Enable Biometric Pay?</string>
-  <string name="setting_identity_content" platform="android, iOS">Financial regulations require us to verify your identity. To start verifying, you will allow us and our service provides can collect, use, and store your information. Before you star, please:</string>
   <string name="setting_incognito_prompt" platform="android">Disable keyboard personalized learning</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">This will remove your contacts from the Mixin servers.</string>
   <string name="setting_notification_transfer_summary" platform="android, iOS">Display notifications when receiving a transfer greater than or equal to %1$s.</string>
@@ -1385,7 +1376,6 @@
   <string name="Sort_by" platform="android, iOS">Sort by</string>
   <string name="Start" platform="android,iOS">Start</string>
   <string name="Start_Messaging" platform="android, iOS">Start Messaging</string>
-  <string name="Start_Verification" platform="android, iOS">Start Verification</string>
   <string name="started_group_call" platform="iOS">%@ has started a group call</string>
   <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
@@ -1409,7 +1399,6 @@
   <string name="Stranger_Transfer_Confirmation" platform="android">Stranger Transfer Confirmation</string>
   <string name="strangers" platform="Desktop">Strangers</string>
   <string name="strikethrough" platform="android">strikethrough</string>
-  <string name="Success_desc" platform="android, iOS">Successful purchase of %1$s! Your %2$s will be transferred directly to Mixin wallet later. Please wait patiently.</string>
   <string name="Successful" platform="android, Desktop, iOS">Successful</string>
   <string name="Sunday" platform="android">Sunday</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
@@ -1552,8 +1541,6 @@
   <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
   <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
   <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
-  <string name="Use_New_Price" platform="android, iOS">Use New Price</string>
-  <string name="use_other" platform="android, iOS">Use other methods of payment</string>
   <string name="Use_System_Text_Size" platform="android, iOS">Use System Text Size</string>
   <string name="Use_touch_multisig" platform="iOS">Use Touch Multisig</string>
   <string name="Use_touch_pay" platform="iOS">Use Touch Pay</string>
@@ -1563,10 +1550,8 @@
   <string name="User_not_found" platform="android, iOS, Desktop">User not found</string>
   <string name="username" platform="Desktop">Username</string>
   <string name="Validation_timed_out" platform="iOS">Validation timed out</string>
-  <string name="Value_info" platform="android, iOS">Minimum %1$d %2$s, Maximum %3$d %4$s</string>
   <string name="value_now" platform="android, iOS, Desktop">value now %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">value then %1$s</string>
-  <string name="Verification_Failed" platform="android, iOS">Verification Failed</string>
   <string name="Verify" platform="android, iOS">Verify</string>
   <string name="Verify_by_Biometric" platform="android">Verify by Biometric</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">Verify PIN</string>
@@ -1580,7 +1565,6 @@
   <string name="View_emergency_contact" platform="android, iOS">View emergency contact</string>
   <string name="View_Storage" platform="iOS">View Storage</string>
   <string name="View_Wallet" platform="android, iOS">View Wallet</string>
-  <string name="Visa_Mastercard" platform="android, iOS">Visa / Mastercard</string>
   <string name="Voice_call" platform="android">Voice call</string>
   <string name="voice_call_cancelled" platform="iOS">voice call cancelled</string>
   <string name="Voice_call_has_been_declined" platform="iOS">Voice call has been declined</string>
