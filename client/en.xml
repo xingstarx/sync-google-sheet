@@ -1436,7 +1436,6 @@
   <string name="Today" platform="android, iOS, Desktop">Today</string>
   <string name="toggle_chat_info" platform="Desktop">Toggle chat info</string>
   <string name="Tools" platform="iOS">Tools</string>
-  <string name="Total" platform="android, iOS">Total</string>
   <string name="Touch_ID" platform="iOS">Touch ID</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">Touch the fingerprint sensor</string>
   <string name="Trace" platform="android, Desktop">Trace</string>
@@ -1700,4 +1699,5 @@
   <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: Payment capture failed</string>
   <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: Card not supported</string>
   <string name="calculating" platform="android, iOS">Calculating…</string>
+  <string name="processing" platform="android, iOS">Processing</string>
 </resources>
