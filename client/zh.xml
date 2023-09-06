@@ -1257,7 +1257,6 @@
   <string name="Select_Card" platform="android, iOS">选择银行卡</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">选择紧急联系人</string>
   <string name="Select_More_Photos" platform="iOS">选择更多照片</string>
-  <string name="Select_Payment_Method" platform="android, iOS">选择支付方式</string>
   <string name="selected_count" platform="iOS">选择了 %@ 个消息</string>
   <string name="selected_Item" platform="iOS">已选择 1 项</string>
   <string name="selected_Item.count" platform="iOS">已选择 %1$d 项</string>

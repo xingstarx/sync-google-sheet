@@ -1276,7 +1276,6 @@
   <string name="Select_Card" platform="android, iOS">Select Card</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Emergency Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
-  <string name="Select_Payment_Method" platform="android, iOS">Select Payment Method</string>
   <string name="selected_count" platform="iOS">%@ Selected</string>
   <string name="selected_Item" platform="iOS">Selected 1 Item</string>
   <string name="selected_Item.count" platform="iOS">Selected %1$d Items</string>

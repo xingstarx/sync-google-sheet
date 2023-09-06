@@ -1278,7 +1278,6 @@
 | android, iOS | Select_Card | Select Card | 选择银行卡 |     |     |     |
 | android, iOS | Select_Emergency_Contact | Select Emergency Contact | 选择紧急联系人 | 緊急連絡先を選択 | Pilih Kenalan Kecemasan | Pilih Kontak Darurat |
 | iOS | Select_More_Photos | Select More Photos | 选择更多照片 | さらに選択 |     |     |
-| android, iOS | Select_Payment_Method | Select Payment Method | 选择支付方式 |     |     |     |
 | iOS | selected_count | %@ Selected | 选择了 %@ 个消息 | %@を選択しています。 |     |     |
 | iOS | selected_Item | Selected 1 Item | 已选择 1 项 | 選択されたアイテム |     |     |
 | iOS | selected_Item.count | Selected %1$d Items | 已选择 %1$d 项 | %1$d件選択中 |     |     |
