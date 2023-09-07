@@ -1701,4 +1701,5 @@
   <string name="calculating" platform="android, iOS">Calculating…</string>
   <string name="processing" platform="android, iOS">Processing</string>
   <string name="buy" platform="android, iOS">Buy</string>
+  <string name="delete_card" platform="iOS">Delete Card</string>
 </resources>
