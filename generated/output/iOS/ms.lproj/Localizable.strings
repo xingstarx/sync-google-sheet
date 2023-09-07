@@ -315,6 +315,7 @@
 "delete_account_detail_hint" = "Local messages and iCloud Backups will not be deleted automatically";
 "delete_account_hint" = "Delete your account info and profile photo";
 "delete_address" = "Padamkan alamat";
+"delete_card" = "Delete Card";
 "delete_chat" = "Delete Chat";
 "delete_circle" = "Delete Circle";
 "delete_contact_chat_confirmation" = "Delete chat with \"%@\"?";

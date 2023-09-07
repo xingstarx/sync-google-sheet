@@ -314,6 +314,7 @@
 "delete_account_detail_hint" = "Локальные сообщения и резервные копии iCloud не будут удаляться автоматически";
 "delete_account_hint" = "Удалить информацию об учетной записи и фото профиля";
 "delete_address" = "Удалить адрес";
+"delete_card" = "Delete Card";
 "delete_chat" = "Удалить чат";
 "delete_circle" = "Удалить круг";
 "delete_contact_chat_confirmation" = "Удалить чат с %@?";

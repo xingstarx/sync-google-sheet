@@ -314,6 +314,7 @@
 "delete_account_detail_hint" = "Los mensajes locales y las copias de seguridad de iCloud no se eliminarán automáticamente";
 "delete_account_hint" = "Eliminar la información de tu cuenta y la foto de perfil";
 "delete_address" = "Eliminar dirección";
+"delete_card" = "Delete Card";
 "delete_chat" = "Eliminar chat";
 "delete_circle" = "Eliminar círculo";
 "delete_contact_chat_confirmation" = "¿Eliminar el chat con %@?";

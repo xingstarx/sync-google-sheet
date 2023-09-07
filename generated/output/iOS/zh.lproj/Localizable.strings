@@ -314,6 +314,7 @@
 "delete_account_detail_hint" = "本地消息和 iCloud 备份不会被自动删除";
 "delete_account_hint" = "删除你的账户和个人照片";
 "delete_address" = "删除地址";
+"delete_card" = "删除卡片";
 "delete_chat" = "删除聊天";
 "delete_circle" = "删除圈子";
 "delete_contact_chat_confirmation" = "删除与\"%@\"的会话并清空聊天记录？";

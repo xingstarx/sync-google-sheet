@@ -314,6 +314,7 @@
 "delete_account_detail_hint" = "ローカルメッセージとiCloudにバックアップされた内容は削除されません";
 "delete_account_hint" = "アカウント情報とプロフィール画像を削除します";
 "delete_address" = "アドレスを削除";
+"delete_card" = "Delete Card";
 "delete_chat" = "チャットを削除";
 "delete_circle" = "グループリストを削除";
 "delete_contact_chat_confirmation" = "\"%@\"からチャットを削除しますか?";
