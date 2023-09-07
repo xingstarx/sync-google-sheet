@@ -1702,3 +1702,4 @@
 | android, iOS | calculating | Calculating… | 正在计算… |     |     |     |
 | android, iOS | processing | Processing | 处理中 |     |     |     |
 | android, iOS | buy | Buy | 购买  |     |     |     |
+| iOS | delete_card | Delete Card | 删除卡片 |     |     |     |
