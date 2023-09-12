@@ -1651,7 +1651,7 @@
   <string name="add_credit_or_debit_card" platform="android, iOS">添加信用卡或借记卡</string>
   <string name="payment_method" platform="android, iOS">支付方式</string>
   <string name="price" platform="android, iOS">价格</string>
-  <string name="purchase_amount" platform="android, iOS">购买金额</string>
+  <string name="token_amount" platform="android, iOS">购买金额</string>
   <string name="fees" platform="android, iOS">手续费</string>
   <string name="total_amount" platform="android, iOS">总金额</string>
   <string name="fees_explaination" platform="android, iOS">您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。</string>
