@@ -1678,7 +1678,7 @@
   <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
   <string name="select_a_card" platform="android, iOS">Select a Card</string>
   <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
-  <string name="pay_with" platform="android, iOS">Pay with</string>
+  <string name="pay_with" platform="android, iOS">Payment Method</string>
   <string name="price" platform="android, iOS">Price</string>
   <string name="purchase_amount" platform="android, iOS">Purchase</string>
   <string name="fees" platform="android, iOS">Fees</string>
