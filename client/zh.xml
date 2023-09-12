@@ -1652,7 +1652,7 @@
   <string name="payment_method" platform="android, iOS">支付方式</string>
   <string name="token_amount" platform="android, iOS">代币总数</string>
   <string name="exchange_rate" platform="android, iOS">价格</string>
-  <string name="fees_by_processor" platform="android, iOS">支付网关费用</string>
+  <string name="fees_by_gateway" platform="android, iOS">支付网关费用</string>
   <string name="fees_by_mixin" platform="android, iOS">Mixin 手续费</string>
   <string name="purchase_total_amount" platform="android, iOS">购买总金额</string>
   <string name="fees_explaination" platform="android, iOS">您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。</string>

@@ -1682,7 +1682,7 @@
 | android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |
 | android, iOS | token_amount | Token Amount | 代币总数 |     |     |     |
 | android, iOS | exchange_rate | Exchange Rate | 价格  |     |     |     |
-| android, iOS | fees_by_processor | Fees by Processor | 支付网关费用 |     |     |     |
+| android, iOS | fees_by_gateway | Fees by Processor | 支付网关费用 |     |     |     |
 | android, iOS | fees_by_mixin | Fees by Mixin | Mixin 手续费 |     |     |     |
 | android, iOS | purchase_total_amount | Purchase Total Amount | 购买总金额 |     |     |     |
 | android, iOS | fees_explaination | You may be charged fees outside of your order by your bank, please contact your bank for more details. | 您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。 |     |     |     |
