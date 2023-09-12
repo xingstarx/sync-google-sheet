@@ -1679,7 +1679,7 @@
 | android, iOS | security_code_error | Please enter a valid security code | 请输入有效的安全码 |     |     |     |
 | android, iOS | select_a_card | Select a Card | 选择卡片 |     |     |     |
 | android, iOS | add_credit_or_debit_card | Add credit or debit card | 添加信用卡或借记卡 |     |     |     |
-| android, iOS | pay_with | Payment Method | 支付方式 |     |     |     |
+| android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |
 | android, iOS | price | Price | 价格  |     |     |     |
 | android, iOS | purchase_amount | Purchase | 购买金额 |     |     |     |
 | android, iOS | fees | Fees | 手续费 |     |     |     |

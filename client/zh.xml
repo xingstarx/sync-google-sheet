@@ -1649,7 +1649,7 @@
   <string name="security_code_error" platform="android, iOS">请输入有效的安全码</string>
   <string name="select_a_card" platform="android, iOS">选择卡片</string>
   <string name="add_credit_or_debit_card" platform="android, iOS">添加信用卡或借记卡</string>
-  <string name="pay_with" platform="android, iOS">支付方式</string>
+  <string name="payment_method" platform="android, iOS">支付方式</string>
   <string name="price" platform="android, iOS">价格</string>
   <string name="purchase_amount" platform="android, iOS">购买金额</string>
   <string name="fees" platform="android, iOS">手续费</string>
