@@ -1679,11 +1679,12 @@
 | android, iOS | security_code_error | Please enter a valid security code | 请输入有效的安全码 |     |     |     |
 | android, iOS | select_a_card | Select a Card | 选择卡片 |     |     |     |
 | android, iOS | add_credit_or_debit_card | Add credit or debit card | 添加信用卡或借记卡 |     |     |     |
-| android, iOS | pay_with | Pay with | 支付方式 |     |     |     |
-| android, iOS | price | Price | 价格  |     |     |     |
-| android, iOS | purchase_amount | Purchase | 购买金额 |     |     |     |
-| android, iOS | fees | Fees | 手续费 |     |     |     |
-| android, iOS | total_amount | Total | 总金额 |     |     |     |
+| android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |
+| android, iOS | token_amount | Token Amount | 代币总数 |     |     |     |
+| android, iOS | exchange_rate | Exchange Rate | 价格  |     |     |     |
+| android, iOS | fees_by_processor | Fees by Processor | 支付网关费用 |     |     |     |
+| android, iOS | fees_by_mixin | Fees by Mixin | Mixin 手续费 |     |     |     |
+| android, iOS | purchase_total_amount | Purchase Total Amount | 购买总金额 |     |     |     |
 | android, iOS | fees_explaination | You may be charged fees outside of your order by your bank, please contact your bank for more details. | 您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。 |     |     |     |
 | android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
 | android, iOS | use_new_price | Use New Price | 使用最新报价 |     |     |     |

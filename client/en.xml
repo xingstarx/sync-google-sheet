@@ -1678,11 +1678,12 @@
   <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
   <string name="select_a_card" platform="android, iOS">Select a Card</string>
   <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
-  <string name="pay_with" platform="android, iOS">Pay with</string>
-  <string name="price" platform="android, iOS">Price</string>
-  <string name="purchase_amount" platform="android, iOS">Purchase</string>
-  <string name="fees" platform="android, iOS">Fees</string>
-  <string name="total_amount" platform="android, iOS">Total</string>
+  <string name="payment_method" platform="android, iOS">Payment Method</string>
+  <string name="token_amount" platform="android, iOS">Token Amount</string>
+  <string name="exchange_rate" platform="android, iOS">Exchange Rate</string>
+  <string name="fees_by_processor" platform="android, iOS">Fees by Processor</string>
+  <string name="fees_by_mixin" platform="android, iOS">Fees by Mixin</string>
+  <string name="purchase_total_amount" platform="android, iOS">Purchase Total Amount</string>
   <string name="fees_explaination" platform="android, iOS">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
   <string name="price_expired" platform="android, iOS">Price Expired</string>
   <string name="use_new_price" platform="android, iOS">Use New Price</string>
