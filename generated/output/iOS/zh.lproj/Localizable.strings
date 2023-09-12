@@ -427,6 +427,7 @@
 "error_used_phone" = "错误 20122：电话号码已经被占用。";
 "error_withdrawal_memo_format_incorrect" = "错误 20131：提现备注格式不正确";
 "everybody" = "任何人";
+"exchange_rate" = "价格";
 "exchanging_data" = "正在同步密钥分片，进度 %@%%...";
 "exit_confirmation" = "退出\"%@\"？";
 "exit_group" = "退出群组";
@@ -444,7 +445,8 @@
 "fast" = "快速";
 "fee" = "手续费";
 "feedback" = "反馈";
-"fees" = "手续费";
+"fees_by_mixin" = "Mixin 手续费";
+"fees_by_processor" = "支付网关费用";
 "fees_explaination" = "您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。";
 "file" = "文件";
 "file_shareable_false" = "该文件已被设置为不允许转发";
@@ -679,11 +681,11 @@
 "participants" = "成员";
 "participants_count" = "%@ 位群组成员";
 "pay_paid" = "此付款链接已由某人支付，您无法进行重复付款。";
-"pay_with" = "支付方式";
 "pay_with_biometry_type" = "%@支付";
 "pay_with_pin" = "用 PIN 支付";
 "pay_with_pin_interval" = "PIN 使用间隔";
 "pay_withdrawal_memo" = "数量 %@ %@\n手续费 %@ %@";
+"payment_method" = "支付方式";
 "peer_closed" = "Peer 已关闭";
 "peer_not_found" = "Peer 无效";
 "pending_confirmation" = "%1$d/%2$d 区块确认数";
@@ -738,7 +740,6 @@
 "preparing_progress" = "备份中...（%@）";
 "preview_unavailable" = "预览不可用";
 "preview_unavailable_description" = "无法预览资产变化。请确保你信任此 dapp。";
-"price" = "价格";
 "price_expired" = "报价已过期";
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
@@ -748,7 +749,7 @@
 "profile_photo" = "个人头像";
 "profile_share_bot_hint" = "如果您希望分享机器人，请先添加联系人。";
 "public_profile" = "个人资料（必须）";
-"purchase_amount" = "购买金额";
+"purchase_total_amount" = "购买总金额";
 "qr_code" = "二维码";
 "qr_code_not_found" = "未发现二维码";
 "raw" = "其他";
@@ -1000,8 +1001,8 @@
 "title_participants_count" = "%d 成员";
 "to" = "至";
 "today" = "今天";
+"token_amount" = "代币总数";
 "tools" = "工具";
-"total_amount" = "总金额";
 "touch_id" = "指纹";
 "track_not_found" = "Track 无效";
 "trading" = "交易";

@@ -470,6 +470,7 @@
 	<string name="error_user_invalid_format">用户數據不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">錯誤 20131：提現備註格式不正確</string>
 	<string name="Everybody">任何人</string>
+	<string name="exchange_rate">價格</string>
 	<string name="Exchanging_data">正在同步密鑰分片，進度 %1$s%%…</string>
 	<string name="Exit">退出</string>
 	<string name="Exit_Group">退出羣組</string>
@@ -487,7 +488,8 @@
 	<string name="fast">快速</string>
 	<string name="Fee">手續費</string>
 	<string name="Feedback">反饋</string>
-	<string name="fees">手續費</string>
+	<string name="fees_by_mixin">Mixin 手續費</string>
+	<string name="fees_by_processor">支付網關費用</string>
 	<string name="fees_explaination">您有可能被您的銀行收取訂單之外的費用，請聯繫您的銀行了解更多詳情。</string>
 	<string name="File">檔案</string>
 	<string name="File_chooser_error">檔案選擇錯誤</string>
@@ -747,10 +749,10 @@
 	<string name="Participants">成員</string>
 	<string name="Pause">暫停</string>
 	<string name="pay_paid">此付款鏈接已由某人支付，您無法進行重複付款。</string>
-	<string name="pay_with">支付方式</string>
 	<string name="Pay_with_Biometrics">用生物識別支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>
 	<string name="Pay_with_PIN_interval">PIN 使用間隔</string>
+	<string name="payment_method">支付方式</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d 區塊確認數</item>
 		<item quantity="other">%1$d/%2$d 區塊確認數</item>
@@ -792,7 +794,6 @@
 	<string name="POST">文章</string>
 	<string name="preview_unavailable">預覽不可用</string>
 	<string name="preview_unavailable_description">無法預覽資產變化。請確保你信任此 dapp。</string>
-	<string name="price">價格</string>
 	<string name="price_expired">報價已過期</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
@@ -802,7 +803,7 @@
 	<string name="Profile_photo">個人頭像</string>
 	<string name="profile_share_bot_hint">如果您希望分享機器人，請先添加聯繫人。</string>
 	<string name="Public_profile">個人資料（必須）</string>
-	<string name="purchase_amount">購買金額</string>
+	<string name="purchase_total_amount">購買總金額</string>
 	<string name="QR_Code">二維碼</string>
 	<string name="qr_code_camera_code">打開相機會默認開啓二維碼識別，當二維碼被檢測到時會顯示一個通知，點擊通知識別二維碼。</string>
 	<string name="QR_Code_not_found">未發現二維碼</string>
@@ -1070,7 +1071,7 @@
 	</plurals>
 	<string name="To">至</string>
 	<string name="Today">今天</string>
-	<string name="total_amount">總金額</string>
+	<string name="token_amount">代幣總數</string>
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>
 	<string name="transaction_failed">轉賬失敗</string>

@@ -427,6 +427,7 @@
 "error_used_phone" = "KESALAHAN 20122: Ponsel digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "KESALAHAN 20131: Format memo penarikan salah.";
 "everybody" = "Semua orang";
+"exchange_rate" = "Exchange Rate";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Exit \"%@\"?";
 "exit_group" = "Keluar dari Grup";
@@ -444,7 +445,8 @@
 "fast" = "Fast";
 "fee" = "Biaya";
 "feedback" = "Feedback";
-"fees" = "Fees";
+"fees_by_mixin" = "Fees by Mixin";
+"fees_by_processor" = "Fees by Processor";
 "fees_explaination" = "You may be charged fees outside of your order by your bank, please contact your bank for more details.";
 "file" = "File";
 "file_shareable_false" = "The file has been set to not allow sharing";
@@ -679,11 +681,11 @@
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
 "pay_paid" = "Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda.";
-"pay_with" = "Pay with";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin" = "Bayar dengan PIN";
 "pay_with_pin_interval" = "Bayar dengan interval PIN";
 "pay_withdrawal_memo" = "Amount %@ %@\nFee %@ %@";
+"payment_method" = "Payment Method";
 "peer_closed" = "Peer closed";
 "peer_not_found" = "Peer not found";
 "pending_confirmation" = "%1$d/%2$d confirmation";
@@ -738,7 +740,6 @@
 "preparing_progress" = "Preparing...(%@)";
 "preview_unavailable" = "Preview unavailable";
 "preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
-"price" = "Price";
 "price_expired" = "Price Expired";
 "privacy" = "Privasi";
 "privacy_policy" = "Kebijakan Privasi";
@@ -748,7 +749,7 @@
 "profile_photo" = "Foto Profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
 "public_profile" = "Profil publik (wajib diisi)";
-"purchase_amount" = "Purchase";
+"purchase_total_amount" = "Purchase Total Amount";
 "qr_code" = "QR Code";
 "qr_code_not_found" = "Kode Qr tidak ditemukan";
 "raw" = "Raw";
@@ -1000,8 +1001,8 @@
 "title_participants_count" = "%d peserta";
 "to" = "To";
 "today" = "Hari ini";
+"token_amount" = "Token Amount";
 "tools" = "Tools";
-"total_amount" = "Total";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "trading" = "Trading";

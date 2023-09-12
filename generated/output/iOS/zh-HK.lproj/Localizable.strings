@@ -427,6 +427,7 @@
 "error_used_phone" = "錯誤 20122：電話號碼已經被佔用。";
 "error_withdrawal_memo_format_incorrect" = "錯誤 20131：提現備註格式不正確";
 "everybody" = "任何人";
+"exchange_rate" = "價格";
 "exchanging_data" = "正在同步密鑰分片，進度 %@%%...";
 "exit_confirmation" = "退出\"%@\"？";
 "exit_group" = "退出羣組";
@@ -444,7 +445,8 @@
 "fast" = "快速";
 "fee" = "手續費";
 "feedback" = "反饋";
-"fees" = "手續費";
+"fees_by_mixin" = "Mixin 手續費";
+"fees_by_processor" = "支付網關費用";
 "fees_explaination" = "您有可能被您的銀行收取訂單之外的費用，請聯繫您的銀行了解更多詳情。";
 "file" = "檔案";
 "file_shareable_false" = "該檔案已被設置為不允許轉發";
@@ -679,11 +681,11 @@
 "participants" = "成員";
 "participants_count" = "%@ 位羣組成員";
 "pay_paid" = "此付款鏈接已由某人支付，您無法進行重複付款。";
-"pay_with" = "支付方式";
 "pay_with_biometry_type" = "%@支付";
 "pay_with_pin" = "用 PIN 支付";
 "pay_with_pin_interval" = "PIN 使用間隔";
 "pay_withdrawal_memo" = "數量 %@ %@\n手續費 %@ %@";
+"payment_method" = "支付方式";
 "peer_closed" = "Peer 已關閉";
 "peer_not_found" = "Peer 無效";
 "pending_confirmation" = "%1$d/%2$d 區塊確認數";
@@ -738,7 +740,6 @@
 "preparing_progress" = "備份中...（%@）";
 "preview_unavailable" = "預覽不可用";
 "preview_unavailable_description" = "無法預覽資產變化。請確保你信任此 dapp。";
-"price" = "價格";
 "price_expired" = "報價已過期";
 "privacy" = "隱私";
 "privacy_policy" = "隱私政策";
@@ -748,7 +749,7 @@
 "profile_photo" = "個人頭像";
 "profile_share_bot_hint" = "如果您希望分享機器人，請先添加聯繫人。";
 "public_profile" = "個人資料（必須）";
-"purchase_amount" = "購買金額";
+"purchase_total_amount" = "購買總金額";
 "qr_code" = "二維碼";
 "qr_code_not_found" = "未發現二維碼";
 "raw" = "其他";
@@ -1000,8 +1001,8 @@
 "title_participants_count" = "%d 成員";
 "to" = "至";
 "today" = "今天";
+"token_amount" = "代幣總數";
 "tools" = "工具";
-"total_amount" = "總金額";
 "touch_id" = "指紋";
 "track_not_found" = "Track 無效";
 "trading" = "交易";

@@ -1649,11 +1649,12 @@
   <string name="security_code_error" platform="android, iOS">請輸入有效的安全碼</string>
   <string name="select_a_card" platform="android, iOS">選擇卡片</string>
   <string name="add_credit_or_debit_card" platform="android, iOS">新增信用卡或簽帳金融卡</string>
-  <string name="pay_with" platform="android, iOS">支付方式</string>
-  <string name="price" platform="android, iOS">價格</string>
-  <string name="purchase_amount" platform="android, iOS">購買金額</string>
-  <string name="fees" platform="android, iOS">手續費</string>
-  <string name="total_amount" platform="android, iOS">總金額</string>
+  <string name="payment_method" platform="android, iOS">支付方式</string>
+  <string name="token_amount" platform="android, iOS">代幣總數</string>
+  <string name="exchange_rate" platform="android, iOS">價格</string>
+  <string name="fees_by_processor" platform="android, iOS">支付閘道器費用</string>
+  <string name="fees_by_mixin" platform="android, iOS">Mixin 手續費</string>
+  <string name="purchase_total_amount" platform="android, iOS">購買總金額</string>
   <string name="fees_explaination" platform="android, iOS">您有可能被您的銀行收取訂單之外的費用，請聯絡您的銀行了解更多詳情。</string>
   <string name="price_expired" platform="android, iOS">報價已過期</string>
   <string name="use_new_price" platform="android, iOS">使用最新報價</string>

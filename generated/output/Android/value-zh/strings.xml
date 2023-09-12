@@ -470,6 +470,7 @@
 	<string name="error_user_invalid_format">用户数据不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">错误 20131：提现备注格式不正确</string>
 	<string name="Everybody">任何人</string>
+	<string name="exchange_rate">价格</string>
 	<string name="Exchanging_data">正在同步密钥分片，进度 %1$s%%…</string>
 	<string name="Exit">退出</string>
 	<string name="Exit_Group">退出群组</string>
@@ -487,7 +488,8 @@
 	<string name="fast">快速</string>
 	<string name="Fee">手续费</string>
 	<string name="Feedback">反馈</string>
-	<string name="fees">手续费</string>
+	<string name="fees_by_mixin">Mixin 手续费</string>
+	<string name="fees_by_processor">支付网关费用</string>
 	<string name="fees_explaination">您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。</string>
 	<string name="File">文件</string>
 	<string name="File_chooser_error">文件选择错误</string>
@@ -747,10 +749,10 @@
 	<string name="Participants">成员</string>
 	<string name="Pause">暂停</string>
 	<string name="pay_paid">此付款链接已由某人支付，您无法进行重复付款。</string>
-	<string name="pay_with">支付方式</string>
 	<string name="Pay_with_Biometrics">用生物识别支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>
 	<string name="Pay_with_PIN_interval">PIN 使用间隔</string>
+	<string name="payment_method">支付方式</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d 区块确认数</item>
 		<item quantity="other">%1$d/%2$d 区块确认数</item>
@@ -792,7 +794,6 @@
 	<string name="POST">文章</string>
 	<string name="preview_unavailable">预览不可用</string>
 	<string name="preview_unavailable_description">无法预览资产变化。请确保你信任此 dapp。</string>
-	<string name="price">价格</string>
 	<string name="price_expired">报价已过期</string>
 	<string name="Privacy">隐私</string>
 	<string name="Privacy_Policy">隐私政策</string>
@@ -802,7 +803,7 @@
 	<string name="Profile_photo">个人头像</string>
 	<string name="profile_share_bot_hint">如果您希望分享机器人，请先添加联系人。</string>
 	<string name="Public_profile">个人资料（必须）</string>
-	<string name="purchase_amount">购买金额</string>
+	<string name="purchase_total_amount">购买总金额</string>
 	<string name="QR_Code">二维码</string>
 	<string name="qr_code_camera_code">打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。</string>
 	<string name="QR_Code_not_found">未发现二维码</string>
@@ -1070,7 +1071,7 @@
 	</plurals>
 	<string name="To">至</string>
 	<string name="Today">今天</string>
-	<string name="total_amount">总金额</string>
+	<string name="token_amount">代币总数</string>
 	<string name="Touch_the_fingerprint_sensor">触摸指纹传感器</string>
 	<string name="Transaction">交易详情</string>
 	<string name="transaction_failed">转账失败</string>

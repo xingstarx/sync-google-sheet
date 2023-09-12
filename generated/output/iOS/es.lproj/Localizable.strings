@@ -427,6 +427,7 @@
 "error_used_phone" = "ERROR 20122: Este número de teléfono ya está asociado a otra cuenta.";
 "error_withdrawal_memo_format_incorrect" = "ERROR 20131: Formato de nota de retiro incorrecto.";
 "everybody" = "Todos";
+"exchange_rate" = "Exchange Rate";
 "exchanging_data" = "Fragmentos de clave de sincronización en curso %@%%...";
 "exit_confirmation" = "¿Salir de %@?";
 "exit_group" = "Salir del grupo";
@@ -444,7 +445,8 @@
 "fast" = "Fast";
 "fee" = "Tarifa";
 "feedback" = "Comentario";
-"fees" = "Fees";
+"fees_by_mixin" = "Fees by Mixin";
+"fees_by_processor" = "Fees by Processor";
 "fees_explaination" = "You may be charged fees outside of your order by your bank, please contact your bank for more details.";
 "file" = "Archivo";
 "file_shareable_false" = "El archivo se ha configurado para no permitir compartir";
@@ -679,11 +681,11 @@
 "participants" = "Participantes";
 "participants_count" = "%@ PARTICIPANTES";
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
-"pay_with" = "Pay with";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin" = "Pagar con PIN";
 "pay_with_pin_interval" = "Intervalo de pago con PIN";
 "pay_withdrawal_memo" = "Importe %@ %@\nTarifa %@ %@";
+"payment_method" = "Payment Method";
 "peer_closed" = "Par cerrado";
 "peer_not_found" = "Par no encontrado";
 "pending_confirmation" = "%1$d/%2$d confirmación";
@@ -738,7 +740,6 @@
 "preparing_progress" = "Preparando...(%@)";
 "preview_unavailable" = "Preview unavailable";
 "preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
-"price" = "Price";
 "price_expired" = "Price Expired";
 "privacy" = "Privacidad";
 "privacy_policy" = "Política de privacidad";
@@ -748,7 +749,7 @@
 "profile_photo" = "Foto de perfil";
 "profile_share_bot_hint" = "Si deseas compartir un bot, añádelo primero a tus contactosa";
 "public_profile" = "Perfil público (requerido)";
-"purchase_amount" = "Purchase";
+"purchase_total_amount" = "Purchase Total Amount";
 "qr_code" = "Código QR";
 "qr_code_not_found" = "Código QR no encontrado";
 "raw" = "Sin procesar";
@@ -1000,8 +1001,8 @@
 "title_participants_count" = "%d Participantes";
 "to" = "A";
 "today" = "Hoy";
+"token_amount" = "Token Amount";
 "tools" = "Herramientas";
-"total_amount" = "Total";
 "touch_id" = "identifición de toque";
 "track_not_found" = "Pista no encontrada";
 "trading" = "Comercio";

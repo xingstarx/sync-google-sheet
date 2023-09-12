@@ -479,6 +479,7 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="Everybody">Everybody</string>
+	<string name="exchange_rate">Exchange Rate</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
 	<string name="Exit">Exit</string>
 	<string name="Exit_Group">Exit Group</string>
@@ -496,7 +497,8 @@
 	<string name="fast">Fast</string>
 	<string name="Fee">Fee</string>
 	<string name="Feedback">Feedback</string>
-	<string name="fees">Fees</string>
+	<string name="fees_by_mixin">Fees by Mixin</string>
+	<string name="fees_by_processor">Fees by Processor</string>
 	<string name="fees_explaination">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
 	<string name="File">File</string>
 	<string name="File_chooser_error">File chooser error</string>
@@ -765,10 +767,10 @@
 	<string name="Participants">Participants</string>
 	<string name="Pause">Pause</string>
 	<string name="pay_paid">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
-	<string name="pay_with">Pay with</string>
 	<string name="Pay_with_Biometrics">Pay with Biometrics</string>
 	<string name="Pay_with_PIN">Pay with PIN</string>
 	<string name="Pay_with_PIN_interval">Pay with PIN interval</string>
+	<string name="payment_method">Payment Method</string>
 	<plurals name="pending_confirmation">
 		<item quantity="one">%1$d/%2$d confirmation</item>
 		<item quantity="other">%1$d/%2$d confirmations</item>
@@ -810,7 +812,6 @@
 	<string name="POST">POST</string>
 	<string name="preview_unavailable">Preview unavailable</string>
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
-	<string name="price">Price</string>
 	<string name="price_expired">Price Expired</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
@@ -820,7 +821,7 @@
 	<string name="Profile_photo">Profile Photo</string>
 	<string name="profile_share_bot_hint">If you want to share a bot, add it to your contacts first</string>
 	<string name="Public_profile">Public profile (required)</string>
-	<string name="purchase_amount">Purchase</string>
+	<string name="purchase_total_amount">Purchase Total Amount</string>
 	<string name="QR_Code">QR Code</string>
 	<string name="qr_code_camera_code">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
 	<string name="QR_Code_not_found">QR Code not found</string>
@@ -1091,7 +1092,7 @@
 	</plurals>
 	<string name="To">To</string>
 	<string name="Today">Today</string>
-	<string name="total_amount">Total</string>
+	<string name="token_amount">Token Amount</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
 	<string name="Transaction">Transaction</string>
