@@ -1681,7 +1681,7 @@
 | android, iOS | add_credit_or_debit_card | Add credit or debit card | 添加信用卡或借记卡 |     |     |     |
 | android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |
 | android, iOS | token_amount | Token Amount | 代币总数 |     |     |     |
-| android, iOS | price | Exchange Rate | 价格  |     |     |     |
+| android, iOS | exchange_rate | Exchange Rate | 价格  |     |     |     |
 | android, iOS | fees | Fees | 手续费 |     |     |     |
 | android, iOS | total_amount | Total | 总金额 |     |     |     |
 | android, iOS | fees_explaination | You may be charged fees outside of your order by your bank, please contact your bank for more details. | 您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。 |     |     |     |
