@@ -445,8 +445,8 @@
 "fast" = "快速";
 "fee" = "手续费";
 "feedback" = "反馈";
+"fees_by_gateway" = "支付网关费用";
 "fees_by_mixin" = "Mixin 手续费";
-"fees_by_processor" = "支付网关费用";
 "fees_explaination" = "您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。";
 "file" = "文件";
 "file_shareable_false" = "该文件已被设置为不允许转发";

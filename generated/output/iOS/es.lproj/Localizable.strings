@@ -445,8 +445,8 @@
 "fast" = "Fast";
 "fee" = "Tarifa";
 "feedback" = "Comentario";
+"fees_by_gateway" = "Fees by Processor";
 "fees_by_mixin" = "Fees by Mixin";
-"fees_by_processor" = "Fees by Processor";
 "fees_explaination" = "You may be charged fees outside of your order by your bank, please contact your bank for more details.";
 "file" = "Archivo";
 "file_shareable_false" = "El archivo se ha configurado para no permitir compartir";

@@ -446,8 +446,8 @@
 "fast" = "Fast";
 "fee" = "Bayaran";
 "feedback" = "Maklum balas";
+"fees_by_gateway" = "Fees by Processor";
 "fees_by_mixin" = "Fees by Mixin";
-"fees_by_processor" = "Fees by Processor";
 "fees_explaination" = "You may be charged fees outside of your order by your bank, please contact your bank for more details.";
 "file" = "Fail";
 "file_shareable_false" = "The file has been set to not allow sharing";

@@ -488,8 +488,8 @@
 	<string name="fast">快速</string>
 	<string name="Fee">手续费</string>
 	<string name="Feedback">反馈</string>
+	<string name="fees_by_gateway">支付网关费用</string>
 	<string name="fees_by_mixin">Mixin 手续费</string>
-	<string name="fees_by_processor">支付网关费用</string>
 	<string name="fees_explaination">您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。</string>
 	<string name="File">文件</string>
 	<string name="File_chooser_error">文件选择错误</string>
