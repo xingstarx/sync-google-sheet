@@ -81,7 +81,7 @@
 	<string name="All_Conversations">All Conversations</string>
 	<string name="All_dates">All dates</string>
 	<string name="All_Media">All Media</string>
-	<string name="All_signer_failure">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
+	<string name="All_signer_failure">All node failure</string>
 	<string name="All_Transactions">All Transactions</string>
 	<string name="Allow_bot_access_asset">Allow bot to access your asset list and balance.</string>
 	<string name="Allow_bot_access_bots">Allow bot to access your bot list.</string>
@@ -233,6 +233,7 @@
 	<string name="chat_text_size">Chat Text Size</string>
 	<string name="Chat_unpinned">Chat unpinned</string>
 	<string name="chat_waiting">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
+	<string name="chat_with_us">Chat with us</string>
 	<string name="CHATS">CHATS</string>
 	<string name="Chats_Count">1 chat</string>
 	<string name="Chats_Counts">%1$s chats</string>
@@ -956,8 +957,6 @@
 	<string name="Send_Without_Sound">Send Without Sound</string>
 	<string name="Send_your_Current_Location">Send your Current Location</string>
 	<string name="Senders">Senders</string>
-	<string name="service_unavailable">Service Unavailable</string>
-	<string name="service_unavailable_description">Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.</string>
 	<string name="session_not_found">Session not found</string>
 	<string name="Set">Set</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
@@ -1184,6 +1183,8 @@
 	<string name="User_not_found">User not found</string>
 	<string name="value_now">value now %1$s</string>
 	<string name="value_then">value then %1$s</string>
+	<string name="verification_failed">Verification Failed</string>
+	<string name="verification_failed_description">Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.</string>
 	<string name="Verify">Verify</string>
 	<string name="Verify_by_Biometric">Verify by Biometric</string>
 	<string name="Verify_PIN">Verify PIN</string>

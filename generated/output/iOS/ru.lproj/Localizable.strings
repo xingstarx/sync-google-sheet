@@ -69,7 +69,7 @@
 "all_conversations" = "Все разговоры";
 "all_dates" = "All dates";
 "all_photos" = "Все фотографии";
-"all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
+"all_signer_failure" = "All node failure";
 "all_transactions" = "Все транзакции";
 "allow" = "Разрешить";
 "allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
@@ -209,6 +209,7 @@
 "chat_restore_subtitle" = "Вы не сможете восстановить позже, если откажетесь от восстановления сейчас. Медиафайлы будут продолжать восстанавливаться в фоновом режиме после восстановления сообщений.";
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Ожидание, пока %1$@ подключится к сети и установит зашифрованный сеанс. %2$@.";
+"chat_with_us" = "Chat with us";
 "chats" = "ЧАТЫ";
 "chats_count" = "1 chat";
 "chats_counts" = "%@ chats";
@@ -893,8 +894,6 @@
 "send_your_current_location" = "Отправить свое текущее местоположение";
 "send_count" = "Отправить(%d)";
 "senders" = "Отправители";
-"service_unavailable" = "Service Unavailable";
-"service_unavailable_description" = "Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
 "session_not_found" = "Session not found";
 "set" = "Установлен";
 "set_disappearing_message_time_to" = "%1$@ установил время исчезновения сообщения на %2$@.";
@@ -1095,6 +1094,8 @@
 "validation_timed_out" = "Время проверки истекло";
 "value_now" = "значение сейчас %@";
 "value_then" = "значение затем %@";
+"verification_failed" = "Verification Failed";
+"verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "Проверить";
 "verify_pin" = "Подтвердить PIN-код";
 "version_update" = "Обновление версии";

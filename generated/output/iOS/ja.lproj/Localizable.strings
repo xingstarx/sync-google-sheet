@@ -69,7 +69,7 @@
 "all_conversations" = "すべてのチャットルーム";
 "all_dates" = "All dates";
 "all_photos" = "全ての画像";
-"all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
+"all_signer_failure" = "All node failure";
 "all_transactions" = "もらった・あげたコイン💰";
 "allow" = "許可";
 "allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
@@ -209,6 +209,7 @@
 "chat_restore_subtitle" = "現在復元しない場合、後で復元はできません。メディアファイルはメッセージに続いて復元されます。";
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "オンラインで暗号化されたやりとりを開始するまであと%1$@。%2$@";
+"chat_with_us" = "Chat with us";
 "chats" = "チャット";
 "chats_count" = "1 chat";
 "chats_counts" = "%@ chats";
@@ -893,8 +894,6 @@
 "send_your_current_location" = "現在地を送信";
 "send_count" = "送信(%d)";
 "senders" = "送信者";
-"service_unavailable" = "Service Unavailable";
-"service_unavailable_description" = "Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
 "session_not_found" = "Session not found";
 "set" = "設定";
 "set_disappearing_message_time_to" = "1$sは、消えるメッセージの有効時間を%@に設定しました。";
@@ -1095,6 +1094,8 @@
 "validation_timed_out" = "認証時間切れ";
 "value_now" = "現在価格 %@";
 "value_then" = "当時の価格 %@";
+"verification_failed" = "Verification Failed";
+"verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "認証";
 "verify_pin" = "PINコードを認証";
 "version_update" = "アップデート";

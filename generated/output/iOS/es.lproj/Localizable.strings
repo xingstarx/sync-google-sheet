@@ -209,6 +209,7 @@
 "chat_restore_subtitle" = "No podrás restaurar más tarde si te niegas a restaurar ahora. Los archivos multimedia continuarán restableciéndose en segundo plano después de restaurar los mensajes.";
 "chat_text_size" = "Tamaño del texto del chat";
 "chat_waiting" = "Esperando a que %1$@ se conecte y establezca una sesión cifrada. %2$@.";
+"chat_with_us" = "Chat with us";
 "chats" = "CHATS";
 "chats_count" = "1 chat";
 "chats_counts" = "%@ chats";
@@ -893,8 +894,6 @@
 "send_your_current_location" = "Envía tu ubicación actual";
 "send_count" = "Enviar(%d)";
 "senders" = "Remitentes";
-"service_unavailable" = "Service Unavailable";
-"service_unavailable_description" = "Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
 "session_not_found" = "Session not found";
 "set" = "Establecer";
 "set_disappearing_message_time_to" = "%1$@ ha establecido el tiempo de desaparición del mensaje a %2$@";
@@ -1095,6 +1094,8 @@
 "validation_timed_out" = "Se ha agotado el tiempo de validación";
 "value_now" = "valor ahora %@";
 "value_then" = "valor entonces %@";
+"verification_failed" = "Verification Failed";
+"verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "Verificar";
 "verify_pin" = "Verificar PIN";
 "version_update" = "Actualización de versión";

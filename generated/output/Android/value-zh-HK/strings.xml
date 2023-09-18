@@ -81,7 +81,7 @@
 	<string name="All_Conversations">所有會話</string>
 	<string name="All_dates">所有日期</string>
 	<string name="All_Media">全部</string>
-	<string name="All_signer_failure">所有節點失敗，也許 PIN 跟上次意外退出時設置的不一致</string>
+	<string name="All_signer_failure">所有節點失敗</string>
 	<string name="All_Transactions">所有交易記錄</string>
 	<string name="Allow_bot_access_asset">允許機器人查看你的所有資產和餘額。</string>
 	<string name="Allow_bot_access_bots">允許機器人訪問你的機器人列表。</string>
@@ -154,7 +154,7 @@
 	<string name="buy_failed">交易失敗</string>
 	<string name="buy_failed_description">該交易在處理中出現了問題，請稍後重試。</string>
 	<string name="buy_success">交易成功</string>
-	<string name="buy_success_description">成功支付 %1$s。%2$s 將直接轉入Mixin錢包。</string>
+	<string name="buy_success_description">成功支付 %1$s。%2$s 將直接轉入 Mixin 錢包。</string>
 	<string name="buying_limitation">最少 %1$s, 最多 %2$s</string>
 	<string name="calculating">正在計算…</string>
 	<string name="Call">語音</string>
@@ -228,6 +228,7 @@
 	<string name="chat_text_size">聊天字體大小</string>
 	<string name="Chat_unpinned">置頂會話已取消</string>
 	<string name="chat_waiting">等待%1$s上線後建立加密會話。%2$s。</string>
+	<string name="chat_with_us">聯繫客服</string>
 	<string name="CHATS">會話</string>
 	<string name="Chats_Count">1 個聊天</string>
 	<string name="Chats_Counts">%1$s 個聊天</string>
@@ -936,8 +937,6 @@
 	<string name="Send_Without_Sound">靜音發送</string>
 	<string name="Send_your_Current_Location">發送您當前的位置</string>
 	<string name="Senders">交易發起人</string>
-	<string name="service_unavailable">服務不可用</string>
-	<string name="service_unavailable_description">由於監管限制，目前我們無法提供更多信息。感謝您的耐心、理解，以及對加密貨幣的興趣。</string>
 	<string name="session_not_found">沒有對應的連接</string>
 	<string name="Set">設置</string>
 	<string name="set_disappearing_message_time_to">%1$s將限時消息設置為 %2$s</string>
@@ -1162,6 +1161,8 @@
 	<string name="User_not_found">找不到這個用户</string>
 	<string name="value_now">價值 %1$s</string>
 	<string name="value_then">當時價值 %1$s</string>
+	<string name="verification_failed">驗證失敗</string>
+	<string name="verification_failed_description">你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。</string>
 	<string name="Verify">驗證</string>
 	<string name="Verify_by_Biometric">用生物識別來驗證</string>
 	<string name="Verify_PIN">驗證 PIN</string>

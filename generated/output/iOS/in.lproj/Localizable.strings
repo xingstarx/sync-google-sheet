@@ -69,7 +69,7 @@
 "all_conversations" = "Semua Percakapan";
 "all_dates" = "All dates";
 "all_photos" = "All Photos";
-"all_signer_failure" = "All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly";
+"all_signer_failure" = "All node failure";
 "all_transactions" = "Semua Transaksi";
 "allow" = "Allow";
 "allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
@@ -209,6 +209,7 @@
 "chat_restore_subtitle" = "You will not be able to restore later if you decline to restore now. Media files will continue restore in background after messages is restored.";
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Menunggu %1$@ untuk online dan membuat sesi terenkripsi. %2$@.";
+"chat_with_us" = "Chat with us";
 "chats" = "OBROLAN";
 "chats_count" = "1 chat";
 "chats_counts" = "%@ chats";
@@ -893,8 +894,6 @@
 "send_your_current_location" = "Kirim Lokasi Anda Saat Ini";
 "send_count" = "Send(%d)";
 "senders" = "Pengirim";
-"service_unavailable" = "Service Unavailable";
-"service_unavailable_description" = "Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.";
 "session_not_found" = "Session not found";
 "set" = "Set";
 "set_disappearing_message_time_to" = "%1$@ set disappearing message time to %2$@";
@@ -1095,6 +1094,8 @@
 "validation_timed_out" = "Validation timed out";
 "value_now" = "value now %@";
 "value_then" = "value then %@";
+"verification_failed" = "Verification Failed";
+"verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "Verifikasikan";
 "verify_pin" = "Verifikasikan PIN";
 "version_update" = "Periksa Pembaruan";

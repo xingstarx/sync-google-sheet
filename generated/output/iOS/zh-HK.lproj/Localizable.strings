@@ -69,7 +69,7 @@
 "all_conversations" = "所有會話";
 "all_dates" = "所有日期";
 "all_photos" = "所有照片";
-"all_signer_failure" = "所有節點失敗，也許 PIN 跟上次意外退出時設置的不一致";
+"all_signer_failure" = "所有節點失敗";
 "all_transactions" = "所有交易記錄";
 "allow" = "允許";
 "allow_bot_access_asset" = "允許機器人查看你的所有資產和餘額。";
@@ -140,7 +140,7 @@
 "buy_failed" = "交易失敗";
 "buy_failed_description" = "該交易在處理中出現了問題，請稍後重試。";
 "buy_success" = "交易成功";
-"buy_success_description" = "成功支付 %1$@。%2$@ 將直接轉入Mixin錢包。";
+"buy_success_description" = "成功支付 %1$@。%2$@ 將直接轉入 Mixin 錢包。";
 "buying_limitation" = "最少 %1$@, 最多 %2$@";
 "calculating" = "正在計算...";
 "call" = "語音";
@@ -209,6 +209,7 @@
 "chat_restore_subtitle" = "如果現在不恢復，未來將無法恢復這些記錄。媒體檔案將在信息恢復完成後在後台繼續運行。";
 "chat_text_size" = "聊天字體大小";
 "chat_waiting" = "等待%1$@上線後建立加密會話。%2$@。";
+"chat_with_us" = "聯繫客服";
 "chats" = "會話";
 "chats_count" = "1 個聊天";
 "chats_counts" = "%@ 個聊天";
@@ -893,8 +894,6 @@
 "send_your_current_location" = "發送您當前的位置";
 "send_count" = "發送（%d）";
 "senders" = "交易發起人";
-"service_unavailable" = "服務不可用";
-"service_unavailable_description" = "由於監管限制，目前我們無法提供更多信息。感謝您的耐心、理解，以及對加密貨幣的興趣。";
 "session_not_found" = "沒有對應的連接";
 "set" = "設置";
 "set_disappearing_message_time_to" = "%1$@將限時消息設置為 %2$@";
@@ -1095,6 +1094,8 @@
 "validation_timed_out" = "驗證超時";
 "value_now" = "價值 %@";
 "value_then" = "當時價值 %@";
+"verification_failed" = "驗證失敗";
+"verification_failed_description" = "你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。";
 "verify" = "驗證";
 "verify_pin" = "驗證 PIN";
 "version_update" = "版本更新";
