@@ -1675,4 +1675,6 @@
   <string name="processing" platform="android, iOS">處理中</string>
   <string name="buy" platform="android, iOS">購買</string>
   <string name="delete_card" platform="iOS">刪除卡片</string>
+  <string name="powered_by_mixin_route_prefix" platform="android, iOS">由</string>
+  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route 提供服務</string>
 </resources>

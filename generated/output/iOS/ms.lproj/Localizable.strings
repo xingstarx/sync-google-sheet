@@ -738,6 +738,8 @@
 "please_use_when_network_is_connected" = "Please complete the operation under a stable network environment.";
 "post" = "Kirim";
 "post_sharing" = "post";
+"powered_by_mixin_route_prefix" = "Powered by";
+"powered_by_mixin_route_suffix" = "Mixin Route";
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
 "preview_unavailable" = "Preview unavailable";
