@@ -1692,7 +1692,7 @@
 | android, iOS | old_price | Old Price | 过期价格 |     |     |     |
 | android, iOS | new_price | New Price | 最新价格 |     |     |     |
 | android, iOS | buy_success | Success | 交易成功 |     |     |     |
-| android, iOS | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s  将直接转入 Mixin 钱包。 |     |     |     |
+| android, iOS | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s 将直接转入 Mixin 钱包。 |     |     |     |
 | android, iOS | buy_failed | Failed | 交易失败 |     |     |     |
 | android, iOS | buy_failed_description | There was a problem processing the transaction, please try again later. | 该交易在处理中出现了问题，请稍后重试。 |     |     |     |
 | android, iOS | switch_payment_method | Switch Payment Method | 使用其他支付方式 |     |     |     |
