@@ -97,7 +97,7 @@
 | iOS,android | All_dates | All dates | 所有日期 |     |     |     |
 | android | All_Media | All Media | 全部  | 全てのメディア | Semua Media | Semua Media |
 | iOS | All_Photos | All Photos | 所有照片 | 全ての画像 |     |     |
-| android,iOS | All_signer_failure | All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly | 所有节点失败，也许 PIN 跟上次意外退出时设置的不一致 |     |     |     |
+| android,iOS | All_signer_failure | All node failure | 所有节点失败 |     |     |     |
 | android, iOS | All_Transactions | All Transactions | 所有交易记录 | もらった・あげたコイン💰 | Semua Urus Niaga | Semua Transaksi |
 | iOS | Allow | Allow | 允许  | 許可  |     |     |
 | android, iOS | Allow_bot_access_asset | Allow bot to access your asset list and balance. | 允许机器人查看你的所有资产和余额。 |     |     |     |
@@ -1660,8 +1660,9 @@
 | android, iOS | identity_verification_description | Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
 | android, iOS | additional_verification | Additional Verification | 补充验证材料 |     |     |     |
 | android, iOS | additional_verification_description | We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support. | 根据监管需求，我们需要您补充验证材料。感谢您的理解与支持 |     |     |     |
-| android, iOS | service_unavailable | Service Unavailable | 服务不可用 |     |     |     |
-| android, iOS | service_unavailable_description | Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency. | 由于监管限制，目前我们无法提供更多信息。感谢您的耐心、理解，以及对加密货币的兴趣。 |     |     |     |
+| android, iOS | verification_failed | Verification Failed | 验证失败 |     |     |     |
+| android, iOS | verification_failed_description | Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents. | 你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。 |     |     |     |
+| android, iOS | chat_with_us | Chat with us | 联系客服 |     |     |     |
 | android, iOS | sumsub_not_ready | KYC not available | KYC服务不可用 |     |     |     |
 | android, iOS | buy_asset | Buy %1$s | 购买 %1$s |     |     |     |
 | android, iOS | select_payment_method | Select Payment Method | 选择支付方式 |     |     |     |
@@ -1691,7 +1692,7 @@
 | android, iOS | old_price | Old Price | 过期价格 |     |     |     |
 | android, iOS | new_price | New Price | 最新价格 |     |     |     |
 | android, iOS | buy_success | Success | 交易成功 |     |     |     |
-| android, iOS | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s 将直接转入Mixin钱包。 |     |     |     |
+| android, iOS | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s 将直接转入 Mixin 钱包。 |     |     |     |
 | android, iOS | buy_failed | Failed | 交易失败 |     |     |     |
 | android, iOS | buy_failed_description | There was a problem processing the transaction, please try again later. | 该交易在处理中出现了问题，请稍后重试。 |     |     |     |
 | android, iOS | switch_payment_method | Switch Payment Method | 使用其他支付方式 |     |     |     |

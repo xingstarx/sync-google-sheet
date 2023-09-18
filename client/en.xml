@@ -96,7 +96,7 @@
   <string name="All_dates" platform="iOS,android">All dates</string>
   <string name="All_Media" platform="android">All Media</string>
   <string name="All_Photos" platform="iOS">All Photos</string>
-  <string name="All_signer_failure" platform="android,iOS">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
+  <string name="All_signer_failure" platform="android,iOS">All node failure</string>
   <string name="All_Transactions" platform="android, iOS">All Transactions</string>
   <string name="Allow" platform="iOS">Allow</string>
   <string name="Allow_bot_access_asset" platform="android, iOS">Allow bot to access your asset list and balance.</string>
@@ -1659,8 +1659,9 @@
   <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.</string>
   <string name="additional_verification" platform="android, iOS">Additional Verification</string>
   <string name="additional_verification_description" platform="android, iOS">We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support.</string>
-  <string name="service_unavailable" platform="android, iOS">Service Unavailable</string>
-  <string name="service_unavailable_description" platform="android, iOS">Due to legal constraints, we are not able to give you any more information at this time. We would like to thank you for your patience, understanding and interest in cryptocurrency.</string>
+  <string name="verification_failed" platform="android, iOS">Verification Failed</string>
+  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.</string>
+  <string name="chat_with_us" platform="android, iOS">Chat with us</string>
   <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
   <string name="buy_asset" platform="android, iOS">Buy %1$s</string>
   <string name="select_payment_method" platform="android, iOS">Select Payment Method</string>
