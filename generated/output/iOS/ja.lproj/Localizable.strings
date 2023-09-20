@@ -1096,6 +1096,7 @@
 "validation_timed_out" = "認証時間切れ";
 "value_now" = "現在価格 %@";
 "value_then" = "当時の価格 %@";
+"verification_blocked_description" = "Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.";
 "verification_failed" = "Verification Failed";
 "verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "認証";

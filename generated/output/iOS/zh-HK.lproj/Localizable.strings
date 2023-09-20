@@ -1096,8 +1096,9 @@
 "validation_timed_out" = "驗證超時";
 "value_now" = "價值 %@";
 "value_then" = "當時價值 %@";
+"verification_blocked_description" = "你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。";
 "verification_failed" = "驗證失敗";
-"verification_failed_description" = "你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。";
+"verification_failed_description" = "您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。";
 "verify" = "驗證";
 "verify_pin" = "驗證 PIN";
 "version_update" = "版本更新";

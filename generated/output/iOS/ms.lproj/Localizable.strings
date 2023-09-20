@@ -1097,6 +1097,7 @@
 "validation_timed_out" = "Validation timed out";
 "value_now" = "nilai sekarang %@";
 "value_then" = "nilai maka %@";
+"verification_blocked_description" = "Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.";
 "verification_failed" = "Verification Failed";
 "verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "Sahkan";

@@ -1630,8 +1630,9 @@
   <string name="identity_verification_description" platform="android, iOS">正在驗證您的身份。一旦您的驗證完成，我們將通過 Mixin Messenger 向您發送消息。</string>
   <string name="additional_verification" platform="android, iOS">補充驗證材料</string>
   <string name="additional_verification_description" platform="android, iOS">根據監管需求，我們需要您補充驗證材料。感謝您的理解與支持</string>
+  <string name="verification_blocked_description" platform="android, iOS">你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。</string>
   <string name="verification_failed" platform="android, iOS">驗證失敗</string>
-  <string name="verification_failed_description" platform="android, iOS">你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。</string>
+  <string name="verification_failed_description" platform="android, iOS">您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。</string>
   <string name="chat_with_us" platform="android, iOS">聯繫客服</string>
   <string name="sumsub_not_ready" platform="android, iOS">KYC服務不可用</string>
   <string name="buy_asset" platform="android, iOS">購買 %1$s</string>

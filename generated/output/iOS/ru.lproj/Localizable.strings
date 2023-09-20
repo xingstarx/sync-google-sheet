@@ -1096,6 +1096,7 @@
 "validation_timed_out" = "Время проверки истекло";
 "value_now" = "значение сейчас %@";
 "value_then" = "значение затем %@";
+"verification_blocked_description" = "Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.";
 "verification_failed" = "Verification Failed";
 "verification_failed_description" = "Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "Проверить";
