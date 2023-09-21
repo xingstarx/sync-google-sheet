@@ -1066,6 +1066,7 @@
 	<string name="tip_create_pin_title">設定 6 位數字 PIN 建立你的第一個數字錢包</string>
 	<string name="TIP_creation_introduction">設定 6 位數字 PIN 建立你的第一個加密貨幣錢包，PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
 	<string name="TIP_introduction">6 位數字 PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
+	<string name="tip_recovery_failed">TIP 私鑰恢復失敗。</string>
 	<plurals name="title_participants" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 成員</item>
 		<item quantity="other">%1$d 成員</item>
