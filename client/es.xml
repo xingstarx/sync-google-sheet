@@ -120,7 +120,7 @@
   <string name="All_Conversations" platform="android, iOS">Todas las conversaciones</string>
   <string name="All_Media" platform="android">Todos los medios</string>
   <string name="All_Photos" platform="iOS">Todas las fotos</string>
-  <string name="All_signer_failure" platform="android,iOS">Falla de todos los nodos, tal vez el PIN no coincida con lo que se configuró la última vez que finalizó inesperadamente</string>
+  <string name="All_signer_failure" platform="android,iOS">Falla de todos los nodos</string>
   <string name="All_Transactions" platform="android, iOS">Todas las transacciones</string>
   <string name="Allow" platform="iOS">Permitir</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">Permitir mensaje de informe manual</string>
