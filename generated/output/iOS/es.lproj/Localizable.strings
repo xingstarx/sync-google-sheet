@@ -140,6 +140,7 @@
 "buy_success" = "Success";
 "buy_success_description" = "Successful purchase of %1$@. %2$@ will be transferred directly to Mixin wallet.";
 "buying_limitation" = "Minimum %1$@, Maximum %2$@";
+"buying_unavailable_description" = "Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.";
 "calculating" = "Calculating...";
 "call" = "Llamar";
 "call_declined" = "Llamada rechazada";
@@ -231,6 +232,7 @@
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Combinar y avanzar";
+"coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "Comprimir base de datos";
 "compressed" = "Comprimido";
 "confirm" = "Confirmar";

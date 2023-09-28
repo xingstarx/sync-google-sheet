@@ -140,6 +140,7 @@
 "buy_success" = "Success";
 "buy_success_description" = "Successful purchase of %1$@. %2$@ will be transferred directly to Mixin wallet.";
 "buying_limitation" = "Minimum %1$@, Maximum %2$@";
+"buying_unavailable_description" = "Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.";
 "calculating" = "Calculating...";
 "call" = "電話";
 "call_declined" = "応答拒否";
@@ -231,6 +232,7 @@
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "まとめて転送";
+"coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "データの圧縮";
 "compressed" = "圧縮しました";
 "confirm" = "確認する";

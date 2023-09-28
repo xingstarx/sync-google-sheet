@@ -140,6 +140,7 @@
 "buy_success" = "交易成功";
 "buy_success_description" = "成功支付 %1$@。%2$@ 將直接轉入 Mixin 錢包。";
 "buying_limitation" = "最少 %1$@, 最多 %2$@";
+"buying_unavailable_description" = "我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。";
 "calculating" = "正在計算...";
 "call" = "語音";
 "call_declined" = "對方已拒絕";
@@ -231,6 +232,7 @@
 "closing_balance" = "期末餘額";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "合併轉發";
+"coming_soon_to_your_region" = "即將來到您的地區！";
 "compress_database" = "壓縮數據庫";
 "compressed" = "已壓縮";
 "confirm" = "確認";
