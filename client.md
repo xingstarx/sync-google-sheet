@@ -1707,7 +1707,7 @@
 | iOS | delete_card | Delete Card | 删除卡片 |     |     |     |
 | android, iOS | powered_by_mixin_route_prefix | Powered by | 由   |     |     |     |
 | android, iOS | powered_by_mixin_route_suffix | Mixin Route | Mixin Route 提供服务 |     |     |     |
-| android, iOS | coming_soon_to_your_region | Coming soon to your region! | 即将来到您的地区！ |     |     |     |
-| android, iOS | buying_unavailable_description | Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note. | 我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。 |     |     |     |
+| iOS | coming_soon_to_your_region | Coming soon to your region! | 即将来到您的地区！ |     |     |     |
+| iOS | buying_unavailable_description | Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note. | 我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。 |     |     |     |
 | Desktop | show_identity_number | Show Identity Number | 显示 ID |     |     |     |
 | Desktop | chat | Chat | 聊天  |     |     |     |
