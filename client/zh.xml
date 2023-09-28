@@ -1677,6 +1677,8 @@
   <string name="delete_card" platform="iOS">删除卡片</string>
   <string name="powered_by_mixin_route_prefix" platform="android, iOS">由</string>
   <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route 提供服务</string>
+  <string name="coming_soon_to_your_region" platform="iOS">即将来到您的地区！</string>
+  <string name="buying_unavailable_description" platform="iOS">我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。</string>
   <string name="show_identity_number" platform="Desktop">显示 ID</string>
   <string name="chat" platform="Desktop">聊天</string>
 </resources>

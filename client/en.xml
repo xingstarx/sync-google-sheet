@@ -1706,6 +1706,8 @@
   <string name="delete_card" platform="iOS">Delete Card</string>
   <string name="powered_by_mixin_route_prefix" platform="android, iOS">Powered by</string>
   <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route</string>
+  <string name="coming_soon_to_your_region" platform="iOS">Coming soon to your region!</string>
+  <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
   <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
   <string name="chat" platform="Desktop">Chat</string>
 </resources>
