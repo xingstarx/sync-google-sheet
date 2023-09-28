@@ -1707,4 +1707,4 @@
 | iOS | delete_card | Delete Card | 删除卡片 |     |     |     |
 | android, iOS | powered_by_mixin_route_prefix | Powered by | 由   |     |     |     |
 | android, iOS | powered_by_mixin_route_suffix | Mixin Route | Mixin Route 提供服务 |     |     |     |
-| desktop |     |     |     |     |     |     |
+| Desktop | show_identity_number | Show Identity Number | 显示 ID |     |     |     |
