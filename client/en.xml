@@ -1710,4 +1710,5 @@
   <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
   <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
   <string name="chat" platform="Desktop">Chat</string>
+  <string name="copy_selected_text" platform="Desktop">Copy Selected Text</string>
 </resources>
