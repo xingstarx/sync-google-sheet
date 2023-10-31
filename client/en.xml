@@ -1710,5 +1710,7 @@
   <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
   <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
   <string name="chat" platform="Desktop">Chat</string>
-  <string name="" platform="android, iOS">您有未迁移的资产，点击开始迁移</string>
+  <string name="asset_migration_hint" platform="android, iOS">You have unmigrated assets, click to start the migration</string>
+  <string name="" platform="">Asset Migration</string>
+  <string name="" platform="">Mixin 已升级新的钱包系统，您还有未迁移到资产，请立刻将您的资产从旧的钱包迁移到新的钱包！</string>
 </resources>
