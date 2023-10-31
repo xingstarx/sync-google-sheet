@@ -1682,5 +1682,4 @@
   <string name="show_identity_number" platform="Desktop">显示 ID</string>
   <string name="chat" platform="Desktop">聊天</string>
   <string name="asset_migration_hint" platform="android, iOS">您有未迁移的资产，点击开始迁移</string>
-  <string name="" platform="">资产迁移</string>
 </resources>

@@ -1711,6 +1711,4 @@
   <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
   <string name="chat" platform="Desktop">Chat</string>
   <string name="asset_migration_hint" platform="android, iOS">You have unmigrated assets, click to start the migration</string>
-  <string name="" platform="">Asset Migration</string>
-  <string name="" platform="">Mixin 已升级新的钱包系统，您还有未迁移到资产，请立刻将您的资产从旧的钱包迁移到新的钱包！</string>
 </resources>
