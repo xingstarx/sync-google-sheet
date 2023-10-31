@@ -1711,4 +1711,4 @@
 | iOS | buying_unavailable_description | Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note. | 我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。 |     |     |     |
 | Desktop | show_identity_number | Show Identity Number | 显示 ID |     |     |     |
 | Desktop | chat | Chat | 聊天  |     |     |     |
-| Desktop | copy_selected_text | Copy Selected Text | 复制已选择的文本 |     |     |     |
+| android, iOS | asset_migration_hint | You have unmigrated assets, click to start the migration | 您有未迁移的资产，点击开始迁移 |     |     |     |
