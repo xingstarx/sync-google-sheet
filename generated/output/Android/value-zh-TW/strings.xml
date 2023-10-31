@@ -103,6 +103,7 @@
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
 	<string name="Asset_Key">資產標識</string>
+	<string name="asset_migration_hint">您有未遷移的資產，點選開始遷移</string>
 	<string name="Asset_not_found">找不到該資產</string>
 	<string name="ASSETS">資產</string>
 	<string name="Audio">語音</string>
@@ -365,7 +366,7 @@
 	<string name="Device_unsupported">當前裝置不支援</string>
 	<string name="Diagnosis_Complete">診斷完成</string>
 	<string name="Disable_db_debug">已關閉 db 除錯</string>
-	<string name="disable_disappearing_message">%1$s禁用了限時訊息</string>
+	<string name="disable_disappearing_message">%1$s停用了限時訊息</string>
 	<string name="Disable_web_debug">已關閉 Web 除錯</string>
 	<string name="Disabled">已停用</string>
 	<string name="disappearing_message">限時訊息</string>

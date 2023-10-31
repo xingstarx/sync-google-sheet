@@ -104,6 +104,7 @@
 	<string name="Appearance">Appearance</string>
 	<string name="Apply">Apply</string>
 	<string name="Asset_Key">Asset Key</string>
+	<string name="asset_migration_hint">You have unmigrated assets, click to start the migration</string>
 	<string name="Asset_not_found">Asset not found.</string>
 	<string name="ASSETS">ASSETS</string>
 	<string name="Audio">Audio</string>

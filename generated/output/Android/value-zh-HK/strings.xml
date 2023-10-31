@@ -103,6 +103,7 @@
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
 	<string name="Asset_Key">資產標識</string>
+	<string name="asset_migration_hint">您有未遷移的資產，點擊開始遷移</string>
 	<string name="Asset_not_found">找不到該資產</string>
 	<string name="ASSETS">資產</string>
 	<string name="Audio">語音</string>

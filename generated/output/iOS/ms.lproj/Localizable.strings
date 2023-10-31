@@ -92,6 +92,7 @@
 "appearance" = "Penampilan";
 "apply" = "Guna";
 "asset_key" = "Kunci Aset";
+"asset_migration_hint" = "You have unmigrated assets, click to start the migration";
 "asset_not_found" = "Asset not found.";
 "asset_type" = "Asset Type";
 "assets" = "ASET";

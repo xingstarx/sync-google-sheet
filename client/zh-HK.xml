@@ -1681,5 +1681,5 @@
   <string name="buying_unavailable_description" platform="iOS">我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。</string>
   <string name="show_identity_number" platform="Desktop">顯示 ID</string>
   <string name="chat" platform="Desktop">聊天</string>
-  <string name="copy_selected_text" platform="Desktop">複製已選擇的文本</string>
+  <string name="asset_migration_hint" platform="android, iOS">您有未遷移的資產，點擊開始遷移</string>
 </resources>

@@ -470,13 +470,13 @@
   <string name="Diagnose" platform="iOS">診斷</string>
   <string name="diagnose_warning_hint" platform="iOS">⚠️請在 Mixin 團隊指導下使用</string>
   <string name="Diagnosis_Complete" platform="android">診斷完成</string>
-  <string name="Disable" platform="iOS">禁用</string>
+  <string name="Disable" platform="iOS">停用</string>
   <string name="disable_biometric_pay_confirmation" platform="iOS">確定暫停使用%@支付？</string>
   <string name="Disable_db_debug" platform="android">已關閉 db 除錯</string>
-  <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$s禁用了限時訊息</string>
+  <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$s停用了限時訊息</string>
   <string name="Disable_web_debug" platform="android">已關閉 Web 除錯</string>
   <string name="Disabled" platform="android">已停用</string>
-  <string name="disabled" platform="Desktop">禁用</string>
+  <string name="disabled" platform="Desktop">停用</string>
   <string name="disappearing_custom_time_max_warning" platform="Desktop">最高設定 %1$s</string>
   <string name="disappearing_message" platform="android, iOS, Desktop">限時訊息</string>
   <string name="disappearing_message_hint" platform="android, iOS, Desktop">啟用後，在此聊天中傳送和接收的新資訊在被看到後會消失，閱讀檔案以**瞭解更多**。</string>
@@ -1681,5 +1681,5 @@
   <string name="buying_unavailable_description" platform="iOS">我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。</string>
   <string name="show_identity_number" platform="Desktop">顯示 ID</string>
   <string name="chat" platform="Desktop">聊天</string>
-  <string name="copy_selected_text" platform="Desktop">複製已選擇的文字</string>
+  <string name="asset_migration_hint" platform="android, iOS">您有未遷移的資產，點選開始遷移</string>
 </resources>

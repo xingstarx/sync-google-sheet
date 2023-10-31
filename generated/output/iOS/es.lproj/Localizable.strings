@@ -92,6 +92,7 @@
 "appearance" = "Apariencia";
 "apply" = "Aplicar";
 "asset_key" = "Clave de activo";
+"asset_migration_hint" = "You have unmigrated assets, click to start the migration";
 "asset_not_found" = "Activo no encontrado.";
 "asset_type" = "Tipo de activo";
 "assets" = "ACTIVOS";
