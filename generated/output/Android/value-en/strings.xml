@@ -449,6 +449,7 @@
 	<string name="error_number_reached_limit">ERROR 20132: The number has reached the limit.</string>
 	<string name="error_old_version">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
 	<string name="error_open_location">Can\'t find an map app</string>
+	<string name="error_opponent_not_registered_to_safe">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
 	<string name="error_payment_capture_failed">ERROR 10603: Payment capture failed</string>
 	<string name="error_permission">Please open the necessary permissions</string>
 	<string name="error_phone_invalid_format">ERROR 20110: Invalid phone number</string>

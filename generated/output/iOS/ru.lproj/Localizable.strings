@@ -408,6 +408,7 @@
 "error_invalid_emergency_contact" = "ОШИБКА 20130: Недопустимый экстренный контакт";
 "error_network_task_failed" = "Не удалось подключиться к сети. Проверьте или переключите сеть и повторите попытку.";
 "error_not_found" = "Ошибка 404: Не найдено";
+"error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
 "error_payment_capture_failed" = "ERROR 10603: Payment capture failed";
 "error_phone_invalid_format" = "ОШИБКА 20110: Неверный номер телефона";
 "error_phone_sms_delivery" = "ОШИБКА 10003: Не удалось доставить SMS";

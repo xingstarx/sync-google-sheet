@@ -408,6 +408,7 @@
 "error_invalid_emergency_contact" = "ERROR 20130: Contacto de emergencia no válido";
 "error_network_task_failed" = "La conexión de red ha fallado. Comprueba o cambia tu red e inténtalo de nuevo";
 "error_not_found" = "Error 404 no encontrado";
+"error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
 "error_payment_capture_failed" = "ERROR 10603: Payment capture failed";
 "error_phone_invalid_format" = "ERROR 20110: Número de teléfono no válido";
 "error_phone_sms_delivery" = "ERROR 10003: Error al entregar SMS";

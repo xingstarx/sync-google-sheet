@@ -408,6 +408,7 @@
 "error_invalid_emergency_contact" = "KESALAHAN 20130: Kontak darurat tidak valid";
 "error_network_task_failed" = "Network connection failed. Check or switch your network and try again";
 "error_not_found" = "KESALAHAN 404: Tidak ditemukan";
+"error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
 "error_payment_capture_failed" = "ERROR 10603: Payment capture failed";
 "error_phone_invalid_format" = "KESALAHAN 20110: Nomor telepon tidak valid";
 "error_phone_sms_delivery" = "KESALAHAN 10003: Gagal mengirim SMS";

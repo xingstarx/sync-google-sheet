@@ -440,6 +440,7 @@
 	<string name="error_number_reached_limit">錯誤 20132： 已達到上限</string>
 	<string name="error_old_version">錯誤 10006：請更新 Mixin（%1$s） 至最新版。</string>
 	<string name="error_open_location">無法找到地圖應用</string>
+	<string name="error_opponent_not_registered_to_safe">ERROR 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本</string>
 	<string name="error_payment_capture_failed">ERROR 10603: 支付確認失敗</string>
 	<string name="error_permission">請開啓相關權限</string>
 	<string name="error_phone_invalid_format">錯誤 20110：手機號碼不合法</string>

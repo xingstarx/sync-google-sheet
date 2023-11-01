@@ -1682,4 +1682,5 @@
   <string name="show_identity_number" platform="Desktop">顯示 ID</string>
   <string name="chat" platform="Desktop">聊天</string>
   <string name="asset_migration_hint" platform="android, iOS">您有未遷移的資產，點選開始遷移</string>
+  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 對方客戶端版本過低，請提醒對方更新客戶端到最新版本</string>
 </resources>

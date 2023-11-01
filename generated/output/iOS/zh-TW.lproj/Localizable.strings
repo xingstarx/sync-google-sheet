@@ -408,6 +408,7 @@
 "error_invalid_emergency_contact" = "錯誤 20130：緊急聯絡人不正確";
 "error_network_task_failed" = "網路連線失敗。檢查或切換網路，然後重試";
 "error_not_found" = "錯誤 404：沒有找到相應的資訊";
+"error_opponent_not_registered_to_safe" = "ERROR 10404: 對方客戶端版本過低，請提醒對方更新客戶端到最新版本";
 "error_payment_capture_failed" = "ERROR 10603: 支付確認失敗";
 "error_phone_invalid_format" = "錯誤 20110：手機號碼不合法";
 "error_phone_sms_delivery" = "錯誤 10003：傳送簡訊失敗";
