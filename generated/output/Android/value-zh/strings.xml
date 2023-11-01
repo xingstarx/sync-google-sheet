@@ -556,6 +556,7 @@
 	<string name="Incognito_Keyboard">隐身键盘</string>
 	<string name="Incoming_voice_call">语音通话来电</string>
 	<string name="Initializing">初始化…</string>
+	<string name="insufficient_balance">余额不足</string>
 	<string name="Invalid_Link">无效链接</string>
 	<string name="Invalid_payment_link">无效支付信息</string>
 	<string name="Invalid_QR_Code">无效的二维码</string>
@@ -1162,6 +1163,7 @@
 	<string name="Use_System_Text_Size">跟随系统字体大小</string>
 	<string name="user_delete_hint">该用户已经删除了账号。</string>
 	<string name="User_not_found">找不到这个用户</string>
+	<string name="utxo_count_exceeded">该交易使用的 UTXO 数量过多，请尝试分批转账</string>
 	<string name="value_now">价值 %1$s</string>
 	<string name="value_then">当时价值 %1$s</string>
 	<string name="verification_blocked_description">你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。</string>

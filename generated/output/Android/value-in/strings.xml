@@ -329,6 +329,7 @@
 	<string name="in_connecting">Menyambungkan…</string>
 	<string name="Incoming_voice_call">Panggilan suara masuk</string>
 	<string name="Initializing">Memulai…</string>
+	<string name="insufficient_balance">Saldo tidak cukup</string>
 	<string name="Invalid_Link">Tautan Tidak Valid</string>
 	<string name="Invalid_payment_link">Pembayaran tidak valid</string>
 	<string name="Invalid_sticker_format">Format stiker tidak valid</string>

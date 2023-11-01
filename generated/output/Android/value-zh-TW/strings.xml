@@ -556,6 +556,7 @@
 	<string name="Incognito_Keyboard">隱身鍵盤</string>
 	<string name="Incoming_voice_call">語音通話來電</string>
 	<string name="Initializing">初始化…</string>
+	<string name="insufficient_balance">餘額不足</string>
 	<string name="Invalid_Link">無效連結</string>
 	<string name="Invalid_payment_link">無效支付資訊</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>
@@ -1162,6 +1163,7 @@
 	<string name="Use_System_Text_Size">跟隨系統字型大小</string>
 	<string name="user_delete_hint">該使用者已經刪除了賬號。</string>
 	<string name="User_not_found">找不到這個使用者</string>
+	<string name="utxo_count_exceeded">該交易使用的 UTXO 數量過多，請嘗試分批轉賬</string>
 	<string name="value_now">價值 %1$s</string>
 	<string name="value_then">當時價值 %1$s</string>
 	<string name="verification_blocked_description">你的驗證失敗了，可能是因為提交的檔案有問題，請點選下面按鈕聯絡客服。</string>

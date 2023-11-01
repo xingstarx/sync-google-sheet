@@ -482,6 +482,7 @@
 	<string name="Incognito_Keyboard">シークレットキーボード</string>
 	<string name="Incoming_voice_call">着信</string>
 	<string name="Initializing">初期化中…</string>
+	<string name="insufficient_balance">残高が不足しています</string>
 	<string name="Invalid_Link">リンクが無効です</string>
 	<string name="Invalid_payment_link">支払いが無効です</string>
 	<string name="Invalid_QR_Code">無効なQRコード</string>

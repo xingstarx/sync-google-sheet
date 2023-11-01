@@ -568,6 +568,7 @@
 	<string name="Incognito_Keyboard">Incognito Keyboard</string>
 	<string name="Incoming_voice_call">Incoming voice call</string>
 	<string name="Initializing">Initializing…</string>
+	<string name="insufficient_balance">Insufficient balance</string>
 	<string name="Invalid_Link">Invalid Link</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
@@ -1184,6 +1185,7 @@
 	<string name="Use_System_Text_Size">Use System Text Size</string>
 	<string name="user_delete_hint">The user has deleted his own account.</string>
 	<string name="User_not_found">User not found</string>
+	<string name="utxo_count_exceeded">Too many UTXO are used in this transaction, please try to transfer money in batches</string>
 	<string name="value_now">value now %1$s</string>
 	<string name="value_then">value then %1$s</string>
 	<string name="verification_blocked_description">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
