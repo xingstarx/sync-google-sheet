@@ -1713,3 +1713,5 @@
 | Desktop | chat | Chat | 聊天  |     |     |     |
 | android, iOS | asset_migration_hint | You have unmigrated assets, click to start the migration | 您有未迁移的资产，点击开始迁移 |     |     |     |
 | android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
+| android, iOS | insufficient_balance | Insufficient balance | 余额不足 | 残高が不足しています | Baki tidak mencukupi | Saldo tidak cukup |
+| android, iOS | utxo_count_exceeded | Too many UTXO are used in this transaction, please try to transfer money in batches | 该交易使用的 UTXO 数量过多，请尝试分批转账 |     |     |     |

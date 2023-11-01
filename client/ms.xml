@@ -765,4 +765,5 @@
   <string name="withdrawal_with_PIN" platform="android">Pengeluaran dengan PIN</string>
   <string name="You" platform="android, iOS, Desktop">Anda</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Anda memadamkan mesej ini</string>
+  <string name="insufficient_balance" platform="android, iOS">Baki tidak mencukupi</string>
 </resources>
