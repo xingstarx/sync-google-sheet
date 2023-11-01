@@ -1712,3 +1712,4 @@
 | Desktop | show_identity_number | Show Identity Number | 显示 ID |     |     |     |
 | Desktop | chat | Chat | 聊天  |     |     |     |
 | android, iOS | asset_migration_hint | You have unmigrated assets, click to start the migration | 您有未迁移的资产，点击开始迁移 |     |     |     |
+| android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
