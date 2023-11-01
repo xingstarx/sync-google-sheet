@@ -1713,4 +1713,5 @@
   <string name="asset_migration_hint" platform="android, iOS">You have unmigrated assets, click to start the migration</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
   <string name="insufficient_balance" platform="android, iOS">Insufficient balance</string>
+  <string name="utxo_count_exceeded" platform="android, iOS">Too many UTXO are used in this transaction, please try to transfer money in batches</string>
 </resources>
