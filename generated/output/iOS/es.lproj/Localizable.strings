@@ -92,7 +92,9 @@
 "appearance" = "Apariencia";
 "apply" = "Aplicar";
 "asset_key" = "Clave de activo";
-"asset_migration_hint" = "You have unmigrated assets, click to start the migration";
+"asset_migration" = "Network Upgrade";
+"asset_migration_content" = "Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network.";
+"asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Activo no encontrado.";
 "asset_type" = "Tipo de activo";
 "assets" = "ACTIVOS";
@@ -233,6 +235,7 @@
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Combinar y avanzar";
+"combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "Comprimir base de datos";
 "compressed" = "Comprimido";
@@ -378,6 +381,7 @@
 "edit_name" = "Editar nombre";
 "education" = "Educación";
 "emergency_contact" = "Contacto de emergencia";
+"empty_utxo" = "Empty UTXO";
 "enable_emergency_contact" = "Habilitar contacto de emergencia";
 "enable_face_pay_hint" = "Confirme el PIN para habilitar Face Pay";
 "enable_pay" = "Habilitar %@ Pagar";
@@ -962,6 +966,7 @@
 "sort_by" = "Ordenar por";
 "start" = "Comenzar";
 "start_messaging" = "Empezar a enviar mensajes";
+"start_migration" = "Start the migration";
 "started_group_call" = "%@ ha iniciado una llamada de grupo";
 "status" = "Estado";
 "stay_in_mixin" = "Quédate en Mixin";
@@ -1097,7 +1102,7 @@
 "user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "El usuario ha sido reportado";
 "user_not_found" = "Usuario no encontrado";
-"utxo_count_exceeded" = "Too many UTXO are used in this transaction, please try to transfer money in batches";
+"utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "Se ha agotado el tiempo de validación";
 "value_now" = "valor ahora %@";
 "value_then" = "valor entonces %@";

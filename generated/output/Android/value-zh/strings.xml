@@ -103,7 +103,9 @@
 	<string name="Appearance">外观</string>
 	<string name="Apply">应用</string>
 	<string name="Asset_Key">资产标识</string>
-	<string name="asset_migration_hint">您有未迁移的资产，点击开始迁移</string>
+	<string name="Asset_Migration">资产迁移</string>
+	<string name="asset_migration_content">Mixin Network 进行了网络升级，您还有资产在旧的网络，推荐将您的资产迁移到新系统。</string>
+	<string name="asset_migration_hint">您还有资产在旧的 Mixin 网络，点击查看。</string>
 	<string name="Asset_not_found">找不到该资产</string>
 	<string name="ASSETS">资产</string>
 	<string name="Audio">语音</string>
@@ -257,6 +259,7 @@
 	<string name="Close">关闭</string>
 	<string name="Closing_Balance">期末余额</string>
 	<string name="Combine_and_forward">合并转发</string>
+	<string name="Combine_utxo">归集 UTXO</string>
 	<string name="Confirm">确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
 	<string name="Confirm_PIN">确认 PIN</string>
@@ -398,6 +401,7 @@
 	<string name="Edit_Name">修改昵称</string>
 	<string name="Emergency_Contact">紧急联系人</string>
 	<string name="Empty_address_book">通讯录内容为空</string>
+	<string name="empty_utxo">没有可用的 UTXO</string>
 	<string name="Enable_after_1_minute">在 1 分钟之后启动</string>
 	<string name="Enable_after_30_minutes">在 30 分钟后启动</string>
 	<string name="Enable_db_debug">已开启 db 调试</string>
@@ -1024,6 +1028,7 @@
 	<string name="Sort_by">顺序</string>
 	<string name="Start">开始</string>
 	<string name="Start_Messaging">开始聊天</string>
+	<string name="Start_Migration">开始迁移</string>
 	<string name="Status">交易状态</string>
 	<string name="stay_in_mixin">留在 Mixin</string>
 	<string name="Sticker">贴纸</string>
@@ -1163,7 +1168,7 @@
 	<string name="Use_System_Text_Size">跟随系统字体大小</string>
 	<string name="user_delete_hint">该用户已经删除了账号。</string>
 	<string name="User_not_found">找不到这个用户</string>
-	<string name="utxo_count_exceeded">该交易使用的 UTXO 数量过多，请尝试分批转账</string>
+	<string name="utxo_count_exceeded">该交易使用的 UTXO 数量过多，请尝试首先归集 UTXO 或者分批转账。</string>
 	<string name="value_now">价值 %1$s</string>
 	<string name="value_then">当时价值 %1$s</string>
 	<string name="verification_blocked_description">你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。</string>

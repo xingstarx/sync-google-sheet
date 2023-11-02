@@ -92,7 +92,9 @@
 "appearance" = "Вид";
 "apply" = "Подать заявление";
 "asset_key" = "Ключ актива";
-"asset_migration_hint" = "You have unmigrated assets, click to start the migration";
+"asset_migration" = "Network Upgrade";
+"asset_migration_content" = "Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network.";
+"asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Актив не найден.";
 "asset_type" = "Тип актива";
 "assets" = "АКТИВЫ";
@@ -233,6 +235,7 @@
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Объединить и вперед";
+"combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "Сжать базу данных";
 "compressed" = "Сжатый";
@@ -378,6 +381,7 @@
 "edit_name" = "Редактировать название";
 "education" = "Образование";
 "emergency_contact" = "Экстренный контакт";
+"empty_utxo" = "Empty UTXO";
 "enable_emergency_contact" = "Включить экстренный контакт";
 "enable_face_pay_hint" = "Подтвердите PIN-код, чтобы включить Face Pay";
 "enable_pay" = "Включить %@ Pay";
@@ -962,6 +966,7 @@
 "sort_by" = "Сортировать по";
 "start" = "Start";
 "start_messaging" = "Начать обмен сообщениями";
+"start_migration" = "Start the migration";
 "started_group_call" = "%@ начал групповой вызов";
 "status" = "Статус";
 "stay_in_mixin" = "Stay in Mixin";
@@ -1097,7 +1102,7 @@
 "user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "Сообщено о пользователе";
 "user_not_found" = "Пользователь не найден";
-"utxo_count_exceeded" = "Too many UTXO are used in this transaction, please try to transfer money in batches";
+"utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "Время проверки истекло";
 "value_now" = "значение сейчас %@";
 "value_then" = "значение затем %@";

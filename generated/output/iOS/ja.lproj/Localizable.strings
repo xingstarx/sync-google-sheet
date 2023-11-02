@@ -92,7 +92,9 @@
 "appearance" = "言語とテーマ";
 "apply" = "適用";
 "asset_key" = "資産のキー";
-"asset_migration_hint" = "You have unmigrated assets, click to start the migration";
+"asset_migration" = "Network Upgrade";
+"asset_migration_content" = "Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network.";
+"asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "資産が存在しません";
 "asset_type" = "資産タイプ";
 "assets" = "資産";
@@ -233,6 +235,7 @@
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "まとめて転送";
+"combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "データの圧縮";
 "compressed" = "圧縮しました";
@@ -378,6 +381,7 @@
 "edit_name" = "名前を変更";
 "education" = "教育";
 "emergency_contact" = "緊急連絡先";
+"empty_utxo" = "Empty UTXO";
 "enable_emergency_contact" = "緊急連絡先を有効にする";
 "enable_face_pay_hint" = "PINコードを確認して顔認証を利用可能にしてください";
 "enable_pay" = "%@の支払いを有効化";
@@ -962,6 +966,7 @@
 "sort_by" = "並びかえ項目";
 "start" = "Start";
 "start_messaging" = "メッセージを開始";
+"start_migration" = "Start the migration";
 "started_group_call" = "%@がグループ通話を開始しました";
 "status" = "ステータス";
 "stay_in_mixin" = "Stay in Mixin";
@@ -1097,7 +1102,7 @@
 "user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "報告しました。";
 "user_not_found" = "ユーザーが見つかりませんでした";
-"utxo_count_exceeded" = "Too many UTXO are used in this transaction, please try to transfer money in batches";
+"utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "認証時間切れ";
 "value_now" = "現在価格 %@";
 "value_then" = "当時の価格 %@";

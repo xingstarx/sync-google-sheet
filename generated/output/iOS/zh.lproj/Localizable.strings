@@ -92,7 +92,9 @@
 "appearance" = "外观";
 "apply" = "应用";
 "asset_key" = "资产标识";
-"asset_migration_hint" = "您有未迁移的资产，点击开始迁移";
+"asset_migration" = "资产迁移";
+"asset_migration_content" = "Mixin Network 进行了网络升级，您还有资产在旧的网络，推荐将您的资产迁移到新系统。";
+"asset_migration_hint" = "您还有资产在旧的 Mixin 网络，点击查看。";
 "asset_not_found" = "找不到该资产";
 "asset_type" = "资产类型";
 "assets" = "资产";
@@ -233,6 +235,7 @@
 "closing_balance" = "期末余额";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "合并转发";
+"combine_utxo" = "归集 UTXO";
 "coming_soon_to_your_region" = "即将来到您的地区！";
 "compress_database" = "压缩数据库";
 "compressed" = "已压缩";
@@ -378,6 +381,7 @@
 "edit_name" = "修改昵称";
 "education" = "教育";
 "emergency_contact" = "紧急联系人";
+"empty_utxo" = "没有可用的 UTXO";
 "enable_emergency_contact" = "启用紧急联系人";
 "enable_face_pay_hint" = "输入 PIN 启用面容支付";
 "enable_pay" = "启用%@支付";
@@ -962,6 +966,7 @@
 "sort_by" = "顺序";
 "start" = "开始";
 "start_messaging" = "开始聊天";
+"start_migration" = "开始迁移";
 "started_group_call" = "%@ 开始了群通话";
 "status" = "交易状态";
 "stay_in_mixin" = "留在 Mixin";
@@ -1097,7 +1102,7 @@
 "user_delete_hint" = "该用户已经删除了账号。";
 "user_is_reported" = "已举报";
 "user_not_found" = "找不到这个用户";
-"utxo_count_exceeded" = "该交易使用的 UTXO 数量过多，请尝试分批转账";
+"utxo_count_exceeded" = "该交易使用的 UTXO 数量过多，请尝试首先归集 UTXO 或者分批转账。";
 "validation_timed_out" = "验证超时";
 "value_now" = "价值 %@";
 "value_then" = "当时价值 %@";

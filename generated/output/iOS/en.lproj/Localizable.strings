@@ -92,7 +92,9 @@
 "appearance" = "Appearance";
 "apply" = "Apply";
 "asset_key" = "Asset Key";
-"asset_migration_hint" = "You have unmigrated assets, click to start the migration";
+"asset_migration" = "Network Upgrade";
+"asset_migration_content" = "Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network.";
+"asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Asset not found.";
 "asset_type" = "Asset Type";
 "assets" = "ASSETS";
@@ -233,6 +235,7 @@
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
 "combine_and_forward" = "Combine and forward";
+"combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "Compress Database";
 "compressed" = "Compressed";
@@ -378,6 +381,7 @@
 "edit_name" = "Edit Name";
 "education" = "Education";
 "emergency_contact" = "Emergency Contact";
+"empty_utxo" = "Empty UTXO";
 "enable_emergency_contact" = "Enable Emergency Contact";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
 "enable_pay" = "Enable %@ Pay";
@@ -962,6 +966,7 @@
 "sort_by" = "Sort by";
 "start" = "Start";
 "start_messaging" = "Start Messaging";
+"start_migration" = "Start the migration";
 "started_group_call" = "%@ has started a group call";
 "status" = "Status";
 "stay_in_mixin" = "Stay in Mixin";
@@ -1097,7 +1102,7 @@
 "user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "User has been reported";
 "user_not_found" = "User not found";
-"utxo_count_exceeded" = "Too many UTXO are used in this transaction, please try to transfer money in batches";
+"utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "Validation timed out";
 "value_now" = "value now %@";
 "value_then" = "value then %@";

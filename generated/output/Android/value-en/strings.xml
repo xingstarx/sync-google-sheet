@@ -104,7 +104,9 @@
 	<string name="Appearance">Appearance</string>
 	<string name="Apply">Apply</string>
 	<string name="Asset_Key">Asset Key</string>
-	<string name="asset_migration_hint">You have unmigrated assets, click to start the migration</string>
+	<string name="Asset_Migration">Network Upgrade</string>
+	<string name="asset_migration_content">Mixin Network is upgraded and you still have assets in the legacy network, it\\'s recommended to migrate your assets to the new network.</string>
+	<string name="asset_migration_hint">You have assets in the legacy network, please view here.</string>
 	<string name="Asset_not_found">Asset not found.</string>
 	<string name="ASSETS">ASSETS</string>
 	<string name="Audio">Audio</string>
@@ -262,6 +264,7 @@
 	<string name="Close">Close</string>
 	<string name="Closing_Balance">Closing Balance</string>
 	<string name="Combine_and_forward">Combine and forward</string>
+	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
 	<string name="Confirm_PIN">Confirm PIN</string>
@@ -407,6 +410,7 @@
 	<string name="Edit_Name">Edit Name</string>
 	<string name="Emergency_Contact">Emergency Contact</string>
 	<string name="Empty_address_book">Empty address book</string>
+	<string name="empty_utxo">Empty UTXO</string>
 	<string name="Enable_after_1_minute">Enabled after 1 minute</string>
 	<string name="Enable_after_30_minutes">Enabled after 30 minutes</string>
 	<string name="Enable_db_debug">Enable db debug</string>
@@ -1045,6 +1049,7 @@
 	<string name="Sort_by">Sort by</string>
 	<string name="Start">Start</string>
 	<string name="Start_Messaging">Start Messaging</string>
+	<string name="Start_Migration">Start the migration</string>
 	<string name="Status">Status</string>
 	<string name="stay_in_mixin">Stay in Mixin</string>
 	<string name="Sticker">Sticker</string>
@@ -1185,7 +1190,7 @@
 	<string name="Use_System_Text_Size">Use System Text Size</string>
 	<string name="user_delete_hint">The user has deleted his own account.</string>
 	<string name="User_not_found">User not found</string>
-	<string name="utxo_count_exceeded">Too many UTXO are used in this transaction, please try to transfer money in batches</string>
+	<string name="utxo_count_exceeded">This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.</string>
 	<string name="value_now">value now %1$s</string>
 	<string name="value_then">value then %1$s</string>
 	<string name="verification_blocked_description">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>

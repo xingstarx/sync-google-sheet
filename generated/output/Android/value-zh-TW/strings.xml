@@ -103,7 +103,9 @@
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
 	<string name="Asset_Key">資產標識</string>
-	<string name="asset_migration_hint">您有未遷移的資產，點選開始遷移</string>
+	<string name="Asset_Migration">資產遷移</string>
+	<string name="asset_migration_content">Mixin Network 進行了網路升級，您還有資產在舊的網路，推薦將您的資產遷移到新系統。</string>
+	<string name="asset_migration_hint">您還有資產在舊的 Mixin 網路，點選檢視。</string>
 	<string name="Asset_not_found">找不到該資產</string>
 	<string name="ASSETS">資產</string>
 	<string name="Audio">語音</string>
@@ -257,6 +259,7 @@
 	<string name="Close">關閉</string>
 	<string name="Closing_Balance">期末餘額</string>
 	<string name="Combine_and_forward">合併轉發</string>
+	<string name="Combine_utxo">歸集 UTXO</string>
 	<string name="Confirm">確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認 PIN</string>
@@ -398,6 +401,7 @@
 	<string name="Edit_Name">修改暱稱</string>
 	<string name="Emergency_Contact">緊急聯絡人</string>
 	<string name="Empty_address_book">通訊錄內容為空</string>
+	<string name="empty_utxo">沒有可用的 UTXO</string>
 	<string name="Enable_after_1_minute">在 1 分鐘之後啟動</string>
 	<string name="Enable_after_30_minutes">在 30 分鐘後啟動</string>
 	<string name="Enable_db_debug">已開啟 db 除錯</string>
@@ -1024,6 +1028,7 @@
 	<string name="Sort_by">順序</string>
 	<string name="Start">開始</string>
 	<string name="Start_Messaging">開始聊天</string>
+	<string name="Start_Migration">開始遷移</string>
 	<string name="Status">交易狀態</string>
 	<string name="stay_in_mixin">留在 Mixin</string>
 	<string name="Sticker">貼紙</string>
@@ -1163,7 +1168,7 @@
 	<string name="Use_System_Text_Size">跟隨系統字型大小</string>
 	<string name="user_delete_hint">該使用者已經刪除了賬號。</string>
 	<string name="User_not_found">找不到這個使用者</string>
-	<string name="utxo_count_exceeded">該交易使用的 UTXO 數量過多，請嘗試分批轉賬</string>
+	<string name="utxo_count_exceeded">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
 	<string name="value_now">價值 %1$s</string>
 	<string name="value_then">當時價值 %1$s</string>
 	<string name="verification_blocked_description">你的驗證失敗了，可能是因為提交的檔案有問題，請點選下面按鈕聯絡客服。</string>
