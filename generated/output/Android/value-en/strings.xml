@@ -429,6 +429,7 @@
 	<string name="Enter_your_phone_number">Enter your phone number</string>
 	<string name="Enter_your_PIN">Enter your PIN</string>
 	<string name="Enter_your_PIN_to_continue">Enter your PIN to continue</string>
+	<string name="Enter_your_PIN_to_verify">Enter your PIN to verify</string>
 	<string name="EOS_contract_address">EOS contract address</string>
 	<string name="error_address_exists">The address does not exist, please make sure that the address is added successfully</string>
 	<string name="error_address_not_sync">Address refresh failed, please try again</string>
@@ -863,6 +864,7 @@
 	<string name="Recent_searches">Recent searches</string>
 	<string name="Refresh">Refresh</string>
 	<string name="Refuse">Refuse</string>
+	<string name="Registering">Registering…</string>
 	<string name="Reload">Reload</string>
 	<string name="Remove_all">Remove All</string>
 	<string name="Remove_all_floats">Remove all floats?</string>

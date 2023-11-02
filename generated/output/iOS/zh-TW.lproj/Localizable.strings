@@ -398,6 +398,7 @@
 "enter_your_phone_number" = "輸入你的手機號碼";
 "enter_your_pin" = "輸入你的 PIN";
 "enter_your_pin_to_continue" = "輸入你的 PIN 以繼續";
+"enter_your_pin_to_verify" = "輸入你的 PIN 來驗證";
 "error_blockchain" = "錯誤 30100：區塊鏈同步異常，請稍後重試";
 "error_captcha_is_invalid" = "錯誤 10004：驗證失敗";
 "error_card_expired" = "錯誤 10601: 卡片已過期";

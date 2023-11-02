@@ -398,6 +398,7 @@
 "enter_your_phone_number" = "Masukkan nomor ponsel Anda";
 "enter_your_pin" = "Masukkan PIN Anda";
 "enter_your_pin_to_continue" = "Enter your PIN to continue";
+"enter_your_pin_to_verify" = "Enter your PIN to verify";
 "error_blockchain" = "KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti.";
 "error_captcha_is_invalid" = "ERROR 10004: CAPTCHA is invalid";
 "error_card_expired" = "ERROR 10601: Card expired";

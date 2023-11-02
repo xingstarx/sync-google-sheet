@@ -1690,4 +1690,6 @@
   <string name="Combine_utxo" platform="android, iOS">歸集 UTXO</string>
   <string name="Asset_Migration" platform="android,iOS">資產遷移</string>
   <string name="Start_Migration" platform="android,iOS">開始遷移</string>
+  <string name="Enter_your_PIN_to_verify" platform="android,iOS">輸入你的 PIN 來驗證</string>
+  <string name="Registering" platform="android">註冊中...</string>
 </resources>

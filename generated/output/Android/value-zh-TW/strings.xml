@@ -420,6 +420,7 @@
 	<string name="Enter_your_phone_number">輸入你的手機號碼</string>
 	<string name="Enter_your_PIN">輸入你的 PIN</string>
 	<string name="Enter_your_PIN_to_continue">輸入你的 PIN 以繼續</string>
+	<string name="Enter_your_PIN_to_verify">輸入你的 PIN 來驗證</string>
 	<string name="EOS_contract_address">EOS 合約地址</string>
 	<string name="error_address_exists">地址不存在，請確保地址是否新增成功</string>
 	<string name="error_address_not_sync">地址重新整理失敗，請重試</string>
@@ -844,6 +845,7 @@
 	<string name="Recent_searches">最近搜尋</string>
 	<string name="Refresh">重新整理</string>
 	<string name="Refuse">拒絕</string>
+	<string name="Registering">註冊中…</string>
 	<string name="Reload">重新載入</string>
 	<string name="Remove_all">全部刪除</string>
 	<string name="Remove_all_floats">確定刪除全部浮窗？</string>

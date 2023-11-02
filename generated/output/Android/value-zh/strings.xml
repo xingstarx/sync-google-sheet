@@ -420,6 +420,7 @@
 	<string name="Enter_your_phone_number">输入你的手机号码</string>
 	<string name="Enter_your_PIN">输入你的 PIN</string>
 	<string name="Enter_your_PIN_to_continue">输入你的 PIN 以继续</string>
+	<string name="Enter_your_PIN_to_verify">输入你的 PIN 来验证</string>
 	<string name="EOS_contract_address">EOS 合约地址</string>
 	<string name="error_address_exists">地址不存在，请确保地址是否添加成功</string>
 	<string name="error_address_not_sync">地址刷新失败，请重试</string>
@@ -844,6 +845,7 @@
 	<string name="Recent_searches">最近搜索</string>
 	<string name="Refresh">刷新</string>
 	<string name="Refuse">拒绝</string>
+	<string name="Registering">注册中…</string>
 	<string name="Reload">重新载入</string>
 	<string name="Remove_all">全部删除</string>
 	<string name="Remove_all_floats">确定删除全部浮窗？</string>

@@ -398,6 +398,7 @@
 "enter_your_phone_number" = "Enter your phone number";
 "enter_your_pin" = "Enter your PIN";
 "enter_your_pin_to_continue" = "Enter your PIN to continue";
+"enter_your_pin_to_verify" = "Enter your PIN to verify";
 "error_blockchain" = "ERROR 30100: Blockchain not in sync, please try again later.";
 "error_captcha_is_invalid" = "ERROR 10004: CAPTCHA is invalid";
 "error_card_expired" = "ERROR 10601: Card expired";
