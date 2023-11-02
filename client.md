@@ -1720,3 +1720,5 @@
 | android,iOS | Start_Migration | Start the migration | 开始迁移 |     |     |     |
 | android,iOS | Enter_your_PIN_to_verify | Enter your PIN to verify | 输入你的 PIN 来验证 |     |     |     |
 | android | Registering | Registering… | 注册中... |     |     |     |
+| android,iOS | deposit_hash | DEPOSIT HASH | 充值哈希 |     |     |     |
+| android,iOS | withdrawal_hash | WITHDRAWAL HASH | 提现哈希 |     |     |     |

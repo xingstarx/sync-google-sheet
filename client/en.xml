@@ -1719,4 +1719,6 @@
   <string name="Start_Migration" platform="android,iOS">Start the migration</string>
   <string name="Enter_your_PIN_to_verify" platform="android,iOS">Enter your PIN to verify</string>
   <string name="Registering" platform="android">Registering…</string>
+  <string name="deposit_hash" platform="android,iOS">DEPOSIT HASH</string>
+  <string name="withdrawal_hash" platform="android,iOS">WITHDRAWAL HASH</string>
 </resources>
