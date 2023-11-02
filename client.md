@@ -1715,10 +1715,10 @@
 | android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
 | android, iOS | insufficient_balance | Insufficient balance | 余额不足 | 残高が不足しています | Baki tidak mencukupi | Saldo tidak cukup |
 | android, iOS | utxo_count_exceeded | This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction. | 该交易使用的 UTXO 数量过多，请尝试首先归集 UTXO 或者分批转账。 |     |     |     |
-| android,iOS | empty_utxo | Empty UTXO | 没有可用的 UTXO |     |     |     |
-| android, iOS | asset_migration_content | Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network. | Mixin Network 进行了网络升级，您还有资产在旧的网络，推荐将您的资产迁移到新系统。 |     |     |     |
 | android, iOS | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
 | android,iOS | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
 | android,iOS | Start_Migration | Start the migration | 开始迁移 |     |     |     |
 | android,iOS | Enter_your_PIN_to_verify | Enter your PIN to verify | 输入你的 PIN 来验证 |     |     |     |
 | android | Registering | Registering… | 注册中... |     |     |     |
+| android,iOS | deposit_hash | DEPOSIT HASH | 充值哈希 |     |     |     |
+| android,iOS | withdrawal_hash | WITHDRAWAL HASH | 提现哈希 |     |     |     |
