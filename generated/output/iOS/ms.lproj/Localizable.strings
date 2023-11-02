@@ -337,7 +337,7 @@
 "deposit_attention" = "Cuba sedikit untuk deposit pertama.";
 "deposit_confirmation" = "Deposit will arrive %d block confirmation";
 "deposit_confirmation_count" = "Deposit akan tiba setelah sekurang-kurangnya %d pengesahan sekatan";
-"deposit_hash" = "DEPOSIT HASH";
+"deposit_hash" = "Deposit Hash";
 "deposit_reserve" = "Deposit sekurang-kurangnya %@ untuk pertama kalinya.";
 "deposit_tip_btc" = "Alamat ini hanya menyokong BTC.";
 "deposit_tip_common" = "Alamat ini hanya menyokong %@.";
@@ -1156,7 +1156,7 @@
 "withdrawal_addr_new" = "Alamat %@ Baharu";
 "withdrawal_addr_no_memo_or_tag" = "Sekiranya anda diminta untuk mengisi Tag Destinasi atau Nombor ID atau nota, anda boleh %@.";
 "withdrawal_address_tips" = "Untuk pengeluaran pertama ke alamat baharu, sila cuba jumlah kecil! Sekiranya anda mengeluarkan aset ke alamat yang salah, itu tidak akan dapat dipulihkan!";
-"withdrawal_hash" = "WITHDRAWAL HASH";
+"withdrawal_hash" = "Withdrawal Hash";
 "withdrawal_label" = "Label (contohnya pertukaran, dompet, dll.)";
 "withdrawal_memo" = "Memo";
 "withdrawal_minimum_amount" = "Jumlah pengeluaran minimum ialah %1$@ %2$@";
