@@ -104,7 +104,6 @@
 	<string name="Apply">应用</string>
 	<string name="Asset_Key">资产标识</string>
 	<string name="Asset_Migration">资产迁移</string>
-	<string name="asset_migration_content">Mixin Network 进行了网络升级，您还有资产在旧的网络，推荐将您的资产迁移到新系统。</string>
 	<string name="asset_migration_hint">您还有资产在旧的 Mixin 网络，点击查看。</string>
 	<string name="Asset_not_found">找不到该资产</string>
 	<string name="ASSETS">资产</string>
@@ -350,6 +349,7 @@
 		<item quantity="one">充值到账需要 %1$d 个区块确认。</item>
 		<item quantity="other">充值到账需要 %1$d 个区块确认。</item>
 	</plurals>
+	<string name="deposit_hash">充值哈希</string>
 	<string name="deposit_memo_notice">充值时务必填写 Memo（备注），否则您会丢失您的数字币</string>
 	<string name="deposit_notice">地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。</string>
 	<string name="deposit_reserve">首次充值至少 %1$s ！</string>
@@ -401,7 +401,6 @@
 	<string name="Edit_Name">修改昵称</string>
 	<string name="Emergency_Contact">紧急联系人</string>
 	<string name="Empty_address_book">通讯录内容为空</string>
-	<string name="empty_utxo">没有可用的 UTXO</string>
 	<string name="Enable_after_1_minute">在 1 分钟之后启动</string>
 	<string name="Enable_after_30_minutes">在 30 分钟后启动</string>
 	<string name="Enable_db_debug">已开启 db 调试</string>
@@ -1239,6 +1238,7 @@
 	<string name="withdrawal_addr_pin_delete">请输入 PIN 来完成删除</string>
 	<string name="withdrawal_addr_pin_modify">请输入 PIN 来完成修改</string>
 	<string name="withdrawal_address_tips">首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！</string>
+	<string name="withdrawal_hash">提现哈希</string>
 	<string name="withdrawal_label">地址名称，例如 OceanOne</string>
 	<string name="withdrawal_memo">Memo（备注）</string>
 	<string name="withdrawal_minimum_amount">提现金额最小 %1$s %2$s</string>

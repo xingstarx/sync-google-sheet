@@ -1685,11 +1685,11 @@
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本</string>
   <string name="insufficient_balance" platform="android, iOS">餘額不足</string>
   <string name="utxo_count_exceeded" platform="android, iOS">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
-  <string name="empty_utxo" platform="android,iOS">沒有可用的 UTXO</string>
-  <string name="asset_migration_content" platform="android, iOS">Mixin Network 進行了網絡升級，您還有資產在舊的網絡，推薦將您的資產遷移到新系統。</string>
   <string name="Combine_utxo" platform="android, iOS">歸集 UTXO</string>
   <string name="Asset_Migration" platform="android,iOS">資產遷移</string>
   <string name="Start_Migration" platform="android,iOS">開始遷移</string>
   <string name="Enter_your_PIN_to_verify" platform="android,iOS">輸入你的 PIN 來驗證</string>
   <string name="Registering" platform="android">註冊中...</string>
+  <string name="deposit_hash" platform="android,iOS">充值哈希</string>
+  <string name="withdrawal_hash" platform="android,iOS">提現哈希</string>
 </resources>

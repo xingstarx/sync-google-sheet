@@ -93,7 +93,6 @@
 "apply" = "Terapkan";
 "asset_key" = "Kode Aset";
 "asset_migration" = "Network Upgrade";
-"asset_migration_content" = "Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network.";
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Asset not found.";
 "asset_type" = "Asset Type";
@@ -337,6 +336,7 @@
 "deposit_attention" = "Harap coba jumlah kecil untuk deposit pertama.";
 "deposit_confirmation" = "Deposit will arrive %d block confirmation";
 "deposit_confirmation_count" = "Deposit akan tiba setelah setidaknya %d konfirmasi block";
+"deposit_hash" = "DEPOSIT HASH";
 "deposit_reserve" = "Deposit minimal %@ untuk pertama kali.";
 "deposit_tip_btc" = "Alamat ini hanya mendukung BTC.";
 "deposit_tip_common" = "Alamat ini hanya mendukung %@.";
@@ -381,7 +381,6 @@
 "edit_name" = "Edit Nama";
 "education" = "Education";
 "emergency_contact" = "Kontak darurat";
-"empty_utxo" = "Empty UTXO";
 "enable_emergency_contact" = "Aktifkan Kontak Darurat";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
 "enable_pay" = "Enable %@ Pay";
@@ -1156,6 +1155,7 @@
 "withdrawal_addr_new" = "Alamat %@ Baru";
 "withdrawal_addr_no_memo_or_tag" = "Jika Anda diharuskan untuk mengisi Tag Tujuan atau Nomor ID atau catatan, Anda dapat %@.";
 "withdrawal_address_tips" = "Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil.";
+"withdrawal_hash" = "WITHDRAWAL HASH";
 "withdrawal_label" = "Label (mis. Kurs, wallet, dll.)";
 "withdrawal_memo" = "Memo";
 "withdrawal_minimum_amount" = "Jumlah penarikan minimum adalah %1$@ %2$@";
