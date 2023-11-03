@@ -80,7 +80,6 @@
 "confirmPasscodeDesc" : "再次确认密码",
 "confirmSyncChatsFromPhone" : "确认从手机端同步聊天记录吗？",
 "confirmSyncChatsToPhone" : "确认同步聊天记录到手机端吗？",
-"confirmations" : "区块确认数",
 "contact" : "联系人",
 "contactMixinId" : "Mixin ID：{arg0}",
 "contactMuteTitle" : "静音通知",

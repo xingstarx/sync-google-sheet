@@ -81,7 +81,6 @@
 "confirmPasscodeDesc" : "Enter again to confirm the passcode",
 "confirmSyncChatsFromPhone" : "Are you sure to sync the chat history from the phone?",
 "confirmSyncChatsToPhone" : "Are you sure to sync the chat history to the phone?",
-"confirmations" : "Confirmations",
 "contact" : "Contact",
 "contactMixinId" : "Mixin ID: {arg0}",
 "contactMuteTitle" : "Mute notifications for…",
