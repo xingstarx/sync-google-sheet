@@ -1694,4 +1694,5 @@
   <string name="withdrawal_hash" platform="android,iOS,Desktop">提现哈希</string>
   <string name="Anonymous" platform="android,iOS,Desktop">匿名</string>
   <string name="Confirmations" platform="android,iOS,Desktop">区块确认数</string>
+  <string name="copySelectedText" platform="Desktop">复制已选择的文本</string>
 </resources>
