@@ -1722,5 +1722,5 @@
   <string name="deposit_hash" platform="android,iOS,Desktop">Deposit Hash</string>
   <string name="withdrawal_hash" platform="android,iOS,Desktop">Withdrawal Hash</string>
   <string name="Anonymous" platform="android,iOS,Desktop">Anonymous</string>
-  <string name="Confirmations" platform="android,iOS">Confirmations</string>
+  <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
 </resources>
