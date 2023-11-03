@@ -85,6 +85,7 @@
 "allow_dapp_request_approval" = "Allow dapp to ask for your approval to make a transaction.";
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Amount";
+"anonymous" = "Anonymous";
 "anonymous_number" = "Anonymous Number";
 "app_card_shareable_false" = "The card has been set to not allow sharing";
 "app_update_short_hint" = "Please update Mixin from App Store to continue use the service.";
@@ -239,6 +240,7 @@
 "compress_database" = "Compress Database";
 "compressed" = "Compressed";
 "confirm" = "Confirm";
+"confirmations" = "Confirmations";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_wallet" = "Connect Wallet";
 "connected" = "Connected";

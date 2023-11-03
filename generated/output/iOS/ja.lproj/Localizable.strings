@@ -85,6 +85,7 @@
 "allow_dapp_request_approval" = "Allow dapp to ask for your approval to make a transaction.";
 "allow_manual_report_message" = "メッセージ単位の報告を許可";
 "amount" = "数量";
+"anonymous" = "Anonymous";
 "anonymous_number" = "匿名番号";
 "app_card_shareable_false" = "このカードを共有することはできません";
 "app_update_short_hint" = "サービスを利用するためにApp StoreでMixinのアップデートをお願いします。";
@@ -239,6 +240,7 @@
 "compress_database" = "データの圧縮";
 "compressed" = "圧縮しました";
 "confirm" = "確認する";
+"confirmations" = "Confirmations";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_wallet" = "Connect Wallet";
 "connected" = "接続済";

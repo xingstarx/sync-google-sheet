@@ -85,6 +85,7 @@
 "allow_dapp_request_approval" = "Allow dapp to ask for your approval to make a transaction.";
 "allow_manual_report_message" = "Разрешить сообщение ручного отчета";
 "amount" = "Количество";
+"anonymous" = "Anonymous";
 "anonymous_number" = "Anonymous Number";
 "app_card_shareable_false" = "Карта была настроена так, чтобы не разрешать совместное использование";
 "app_update_short_hint" = "Пожалуйста, обновите Mixin из App Store, чтобы продолжить пользоваться сервисом.";
@@ -239,6 +240,7 @@
 "compress_database" = "Сжать базу данных";
 "compressed" = "Сжатый";
 "confirm" = "Подтвердить";
+"confirmations" = "Confirmations";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_wallet" = "Connect Wallet";
 "connected" = "Соединено";

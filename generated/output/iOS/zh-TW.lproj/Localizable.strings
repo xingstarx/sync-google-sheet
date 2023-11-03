@@ -85,6 +85,7 @@
 "allow_dapp_request_approval" = "允許 Dapp 向你傳送請求，如轉賬請求等";
 "allow_manual_report_message" = "允許手動上報訊息";
 "amount" = "金額";
+"anonymous" = "匿名";
 "anonymous_number" = "匿名號碼";
 "app_card_shareable_false" = "該卡片已被設定為不允許轉發";
 "app_update_short_hint" = "請從 App Store 更新 Mixin 至最新版";
@@ -239,6 +240,7 @@
 "compress_database" = "壓縮資料庫";
 "compressed" = "已壓縮";
 "confirm" = "確認";
+"confirmations" = "區塊確認數";
 "connect_to_tip_network_failed" = "連線 TIP 網路失敗，請嘗試切換網路後重試";
 "connect_wallet" = "連線錢包";
 "connected" = "已連線";

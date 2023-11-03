@@ -96,6 +96,7 @@
 	<string name="allow_dapp_request_approval">允許 Dapp 向你發送請求，如轉賬請求等</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>
+	<string name="Anonymous">匿名</string>
 	<string name="Anonymous_Number">匿名號碼</string>
 	<string name="ANSWER">接聽</string>
 	<string name="app_card_shareable_false">該卡片已被設置為不允許轉發</string>
@@ -262,6 +263,7 @@
 	<string name="Confirm">確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認 PIN</string>
+	<string name="Confirmations">區塊確認數</string>
 	<string name="Connect_to_TIP_network_failed">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
 	<string name="connect_wallet">連接錢包</string>
 	<string name="connected_dapps">已連接的 Dapp</string>
