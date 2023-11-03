@@ -1723,4 +1723,4 @@
 | android,iOS,Desktop | deposit_hash | Deposit Hash | 充值哈希 |     |     |     |
 | android,iOS,Desktop | withdrawal_hash | Withdrawal Hash | 提现哈希 |     |     |     |
 | android,iOS,Desktop | Anonymous | Anonymous | 匿名  |     |     |     |
-| android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
+| android,iOS | Confirmations | Confirmations | 区块确认数 |     |     |     |
