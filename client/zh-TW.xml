@@ -1412,7 +1412,7 @@
   <string name="TIP_introduction" platform="android,iOS">6 位數字 PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
   <string name="title_participants" platform="android, iOS">%1$d 成員</string>
   <string name="title_participants.count" platform="android, iOS">%1$d 成員</string>
-  <string name="To" platform="android, iOS">至</string>
+  <string name="To" platform="android, iOS, Desktop">至</string>
   <string name="Today" platform="android, iOS, Desktop">今天</string>
   <string name="toggle_chat_info" platform="Desktop">展開/關閉會話資訊</string>
   <string name="Tools" platform="iOS">工具</string>
@@ -1693,5 +1693,6 @@
   <string name="deposit_hash" platform="android,iOS,Desktop">充值雜湊</string>
   <string name="withdrawal_hash" platform="android,iOS,Desktop">提現雜湊</string>
   <string name="Anonymous" platform="android,iOS,Desktop">匿名</string>
-  <string name="Confirmations" platform="android,iOS">區塊確認數</string>
+  <string name="Confirmations" platform="android,iOS,Desktop">區塊確認數</string>
+  <string name="copySelectedText" platform="Desktop">複製已選擇的文字</string>
 </resources>
