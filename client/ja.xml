@@ -1229,7 +1229,7 @@
   <string name="tip_create_pin_title" platform="android, iOS">6桁のPINコードを作成してください</string>
   <string name="title_participants" platform="android, iOS">%1$d人の参加者</string>
   <string name="title_participants.count" platform="android, iOS">%1$d人の参加者</string>
-  <string name="To" platform="android, iOS">宛先</string>
+  <string name="To" platform="android, iOS, Desktop">宛先</string>
   <string name="Today" platform="android, iOS, Desktop">今日</string>
   <string name="toggle_chat_info" platform="Desktop">チャット情報のオン/オフ</string>
   <string name="Tools" platform="iOS">ツール</string>
