@@ -1434,7 +1434,7 @@
 | android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android, iOS | title_participants | %1$d Participant | %1$d 成员 | %1$d人の参加者 |     |     |
 | android, iOS | title_participants.count | %1$d Participants | %1$d 成员 | %1$d人の参加者 | %1$d peserta | %1$d peserta |
-| android, iOS | To  | To  | 至   | 宛先  |     |     |
+| android, iOS, Desktop | To  | To  | 至   | 宛先  |     |     |
 | android, iOS, Desktop | Today | Today | 今天  | 今日  | Hari ini | Hari ini |
 | Desktop | toggle_chat_info | Toggle chat info | 展开/关闭会话信息 | チャット情報のオン/オフ |     |     |
 | iOS | Tools | Tools | 工具  | ツール |     |     |

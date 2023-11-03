@@ -1433,7 +1433,7 @@
   <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="title_participants" platform="android, iOS">%1$d Participant</string>
   <string name="title_participants.count" platform="android, iOS">%1$d Participants</string>
-  <string name="To" platform="android, iOS">To</string>
+  <string name="To" platform="android, iOS, Desktop">To</string>
   <string name="Today" platform="android, iOS, Desktop">Today</string>
   <string name="toggle_chat_info" platform="Desktop">Toggle chat info</string>
   <string name="Tools" platform="iOS">Tools</string>
