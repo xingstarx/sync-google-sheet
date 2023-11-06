@@ -1550,6 +1550,7 @@
   <string name="Waiting_for_Other_Device" platform="iOS,android">等待其他设备……</string>
   <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新设备上登录当前账户并选择从其他手机恢复</string>
   <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">新设备扫上面的二维码建立连接</string>
+  <string name="Waiting_for_this_message" platform="android, Desktop">正在等待这条消息。</string>
   <string name="Wallet" platform="android, iOS">钱包</string>
   <string name="wallet_add_asset_already_hidden" platform="android">资产 %1$s 已被你隐藏，要在钱包首页立刻显示？</string>
   <string name="wallet_address_add_tip" platform="android">Mixin 不支持提现到</string>

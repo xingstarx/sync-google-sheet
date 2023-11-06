@@ -1573,7 +1573,7 @@
 | iOS,android | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备…… |     |     |     |
 | iOS,android | Waiting_for_Other_Device_Login | Log in to your current account on the new device and select the option to restore from another phone. | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
 | iOS,android | Waiting_for_Other_Device_Scan | Connect the new device by scanning the QR code on the top | 新设备扫上面的二维码建立连接 |     |     |     |
-| android, Desktop | Waiting_for_this_message | Waiting for this message. |     | このメッセージを待っています。 |     |     |
+| android, Desktop | Waiting_for_this_message | Waiting for this message. | 正在等待这条消息。 | このメッセージを待っています。 |     |     |
 | android, iOS | Wallet | Wallet | 钱包  | ウォレット | Dompet | Wallet |
 | android | wallet_add_asset_already_hidden | Assets %1$s have been hidden by you, want to show them immediately on the wallet homepage? | 资产 %1$s 已被你隐藏，要在钱包首页立刻显示？ | 資産%1$sの非表示設定を解除しますか？ | Aset %1$s telah disembunyikan oleh anda, mahu tunjukkan dengan segera di halaman utama dompet? | Aset %1$s telah Anda sembunyikan, ingin segera menampilkannya di beranda wallet? |
 | android | wallet_address_add_tip | Mixin does not support withdrawal to the | Mixin 不支持提现到 | Mixinは への引き出しに未対応です | Mixin tidak menyokong penarikan ke |     |
