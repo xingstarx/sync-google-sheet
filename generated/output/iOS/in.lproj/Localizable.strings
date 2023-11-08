@@ -545,6 +545,7 @@
 "last_years" = "Last %@  years";
 "later" = "Nanti";
 "learn_more" = "Pelajari Selengkapnya";
+"legacy_network_transfer_hint" = "Current transfer is using legacy network";
 "light" = "Light";
 "line_busy" = "Jaringan sibuk";
 "line_busy_remote" = "Jaringan sibuk";

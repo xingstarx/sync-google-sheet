@@ -612,6 +612,7 @@
 	<string name="Last_years">Last %1$s  years</string>
 	<string name="Later">Later</string>
 	<string name="Learn_More">Learn More</string>
+	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
 	<string name="Link_desktop_failed">Link desktop failed</string>

@@ -596,6 +596,7 @@
 	<string name="Last_years">最近 %1$s 年</string>
 	<string name="Later">稍後</string>
 	<string name="Learn_More">瞭解更多</string>
+	<string name="legacy_network_transfer_hint">當前轉賬使用的是舊網路</string>
 	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">對方忙</string>
 	<string name="Link_desktop_failed">登入桌面端失敗</string>

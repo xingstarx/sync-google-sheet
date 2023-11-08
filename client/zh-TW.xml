@@ -1696,4 +1696,5 @@
   <string name="Anonymous" platform="android,iOS,Desktop">匿名</string>
   <string name="Confirmations" platform="android,iOS,Desktop">區塊確認數</string>
   <string name="copySelectedText" platform="Desktop">複製已選擇的文字</string>
+  <string name="legacy_network_transfer_hint" platform="android,iOS">當前轉賬使用的是舊網路</string>
 </resources>
