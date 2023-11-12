@@ -588,6 +588,7 @@
 "message_sent" = "消息已發送";
 "messages" = "消息";
 "method_not_supported" = "不支持此方法: %@";
+"minimum_withdrawal" = "最小提現數量";
 "minute" = "%d 分鐘";
 "minute_count" = "%d 分鐘";
 "mixin" = "Mixin";

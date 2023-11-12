@@ -588,6 +588,7 @@
 "message_sent" = "Mensaje enviado";
 "messages" = "Mensajes";
 "method_not_supported" = "Method %@ is not supported";
+"minimum_withdrawal" = "Minimum withdrawal";
 "minute" = "%d Minuto";
 "minute_count" = "%d Minutos";
 "mixin" = "Mixin";

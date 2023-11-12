@@ -665,6 +665,7 @@
 	<string name="Messaging_Node">Messaging Node</string>
 	<string name="Messaging_node_running">Messaging node running</string>
 	<string name="method_not_supported">Method %1$s is not supported</string>
+	<string name="minimum_withdrawal">Minimum withdrawal</string>
 	<plurals name="Minute">
 		<item quantity="one">%d Minute</item>
 		<item quantity="other">%d Minutes</item>

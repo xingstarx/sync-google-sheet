@@ -588,6 +588,7 @@
 "message_sent" = "Сообщение отправлено";
 "messages" = "Сообщения";
 "method_not_supported" = "Method %@ is not supported";
+"minimum_withdrawal" = "Minimum withdrawal";
 "minute" = "%d минута";
 "minute_count" = "%d минуты";
 "mixin" = "Mixin";

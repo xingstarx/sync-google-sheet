@@ -648,6 +648,7 @@
 	<string name="Messaging_Node">訊息節點</string>
 	<string name="Messaging_node_running">訊息節點正在執行</string>
 	<string name="method_not_supported">不支援此方法: %1$s</string>
+	<string name="minimum_withdrawal">最小提現數量</string>
 	<plurals name="Minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 分鐘</item>
 		<item quantity="other">%d 分鐘</item>

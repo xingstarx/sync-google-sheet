@@ -1697,4 +1697,5 @@
   <string name="Confirmations" platform="android,iOS,Desktop">區塊確認數</string>
   <string name="copySelectedText" platform="Desktop">複製已選擇的文本</string>
   <string name="legacy_network_transfer_hint" platform="android,iOS">當前轉賬使用的是舊網絡</string>
+  <string name="minimum_withdrawal" platform="android,iOS">最小提現數量</string>
 </resources>
