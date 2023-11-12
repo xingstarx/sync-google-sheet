@@ -1726,3 +1726,4 @@
 | android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
 | Desktop | copySelectedText | Copy Selected Text | 复制已选择的文本 |     |     |     |
 | android,iOS | legacy_network_transfer_hint | Current transfer is using legacy network | 当前转账使用的是旧网络 |     |     |     |
+| android,iOS | minimum_withdrawal | Minimum withdrawal | 最小提现数量 |     |     |     |
