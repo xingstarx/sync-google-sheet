@@ -194,6 +194,7 @@
 "errorUsedPhone" : "錯誤 20122：電話號碼已經被佔用。",
 "errorUserInvalidFormat" : "使用者資料不合法",
 "errorWithdrawalMemoFormatIncorrect" : "錯誤 20131：提現備註格式不正確",
+"errorWithdrawalSuspend" : "錯誤 20137：提現暫停",
 "exit" : "退出",
 "exitGroup" : "退出群組",
 "failed" : "失敗",

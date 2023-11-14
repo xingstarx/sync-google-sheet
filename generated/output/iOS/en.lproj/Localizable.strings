@@ -435,6 +435,7 @@
 "error_two_parts" = "ERROR %@: %@";
 "error_used_phone" = "ERROR 20122: This phone number is already associated with another account.";
 "error_withdrawal_memo_format_incorrect" = "ERROR 20131: Withdrawal memo format incorrect.";
+"error_withdrawal_suspend" = "ERROR 20137: Withdrawal suspend.";
 "everybody" = "Everybody";
 "exchange_rate" = "Exchange Rate";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";

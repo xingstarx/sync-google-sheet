@@ -435,6 +435,7 @@
 "error_two_parts" = "ОШИБКА %@: %@";
 "error_used_phone" = "ОШИБКА 20122: этот номер телефона уже связан с другой учетной записью.";
 "error_withdrawal_memo_format_incorrect" = "ОШИБКА 20131: Неверный формат уведомления о снятии средств.";
+"error_withdrawal_suspend" = "ERROR 20137: Withdrawal suspend.";
 "everybody" = "Все";
 "exchange_rate" = "Exchange Rate";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
