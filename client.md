@@ -1728,4 +1728,6 @@
 | Desktop | copySelectedText | Copy Selected Text | 复制已选择的文本 |     |     |     |
 | android,iOS | legacy_network_transfer_hint | Current transfer is using legacy network | 当前转账使用的是旧网络 |     |     |     |
 | android,iOS | minimum_withdrawal | Minimum Withdrawal | 最小提现数量 |     |     |     |
-| android,iOS | withdrawal_suspended | Withdrawal Suspended |     |     |     |     |
+| android,iOS | withdrawal_suspended | %1$s Withdrawal Suspended | %1$s 提现暂停 |     |     |     |
+| android,iOS | withdrawal_suspended_description | %1$s withdrawals are temporarily suspended, possibly due to node failure, blockchain network hard fork, or congestion. Please try again later. | %1$s 提现已暂停，可能的原因是因为节点故障、区块链网络硬分叉或者拥堵，请耐心等候并稍后重试 |     |     |     |
+| android,iOS | contact_support | Contact Support | 联系客服 |     |     |     |
