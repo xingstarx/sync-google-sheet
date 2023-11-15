@@ -1699,4 +1699,7 @@
   <string name="copySelectedText" platform="Desktop">複製已選擇的文字</string>
   <string name="legacy_network_transfer_hint" platform="android,iOS">當前轉賬使用的是舊網路</string>
   <string name="minimum_withdrawal" platform="android,iOS">最小提現數量</string>
+  <string name="withdrawal_suspended" platform="android,iOS">%1$s 提現暫停</string>
+  <string name="withdrawal_suspended_description" platform="android,iOS">%1$s 提現已暫停，可能的原因是因為節點故障、區塊鏈網路硬分叉或者擁堵，請耐心等候並稍後重試</string>
+  <string name="contact_support" platform="android,iOS">聯絡客服</string>
 </resources>

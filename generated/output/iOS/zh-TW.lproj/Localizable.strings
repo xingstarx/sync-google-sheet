@@ -259,6 +259,7 @@
 "contact_mobile" = "手機：%@";
 "contact_phone_contact_hint" = "上傳你的手機通訊錄，如果你的通訊錄中有朋友已經註冊了 Mixin，系統會幫你自動新增為好友";
 "contact_share_bots_title" = "%@分享的機器人";
+"contact_support" = "聯絡客服";
 "contact_title" = "聯絡人";
 "contacts" = "聯絡人";
 "content_audio" = "[語音]";
@@ -1168,6 +1169,8 @@
 "withdrawal_minimum_withdrawal" = "最小提現數量：";
 "withdrawal_network_fee" = "網路手續費：";
 "withdrawal_no_memo" = "點選不使用 Memo（備註）";
+"withdrawal_suspended" = "%@ 提現暫停";
+"withdrawal_suspended_description" = "%@ 提現已暫停，可能的原因是因為節點故障、區塊鏈網路硬分叉或者擁堵，請耐心等候並稍後重試";
 "withdrawal_to" = "提現到 %@";
 "year" = "年";
 "you" = "你";

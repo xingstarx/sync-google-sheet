@@ -259,6 +259,7 @@
 "contact_mobile" = "手机：%@";
 "contact_phone_contact_hint" = "上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友";
 "contact_share_bots_title" = "%@分享的机器人";
+"contact_support" = "联系客服";
 "contact_title" = "联系人";
 "contacts" = "联系人";
 "content_audio" = "[语音]";
@@ -1168,6 +1169,8 @@
 "withdrawal_minimum_withdrawal" = "最小提现数量：";
 "withdrawal_network_fee" = "网络手续费：";
 "withdrawal_no_memo" = "点击不使用 Memo（备注）";
+"withdrawal_suspended" = "%@ 提现暂停";
+"withdrawal_suspended_description" = "%@ 提现已暂停，可能的原因是因为节点故障、区块链网络硬分叉或者拥堵，请耐心等候并稍后重试";
 "withdrawal_to" = "提现到 %@";
 "year" = "年";
 "you" = "你";

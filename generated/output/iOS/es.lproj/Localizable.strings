@@ -259,6 +259,7 @@
 "contact_mobile" = "Móvil: %@";
 "contact_phone_contact_hint" = "Carga contactos móviles para encontrar otros amigos de Mixin.";
 "contact_share_bots_title" = "Bots compartidos de %@";
+"contact_support" = "Contact Support";
 "contact_title" = "Contactos";
 "contacts" = "CONTACTOS";
 "content_audio" = "[Audio]";
@@ -589,7 +590,7 @@
 "message_sent" = "Mensaje enviado";
 "messages" = "Mensajes";
 "method_not_supported" = "Method %@ is not supported";
-"minimum_withdrawal" = "Minimum withdrawal";
+"minimum_withdrawal" = "Minimum Withdrawal";
 "minute" = "%d Minuto";
 "minute_count" = "%d Minutos";
 "mixin" = "Mixin";
@@ -1168,6 +1169,8 @@
 "withdrawal_minimum_withdrawal" = "Retiro mínimo: ";
 "withdrawal_network_fee" = "Tarifa de red: ";
 "withdrawal_no_memo" = "Sin nota";
+"withdrawal_suspended" = "%@ Withdrawal Suspended";
+"withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, blockchain network hard fork, or congestion. Please try again later.";
 "withdrawal_to" = "Retirar a %@";
 "year" = "Year";
 "you" = "Tú";

@@ -260,6 +260,7 @@
 "contact_mobile" = "Mudah alih: %@";
 "contact_phone_contact_hint" = "Upload mobile contacts to find other Mixin friends.";
 "contact_share_bots_title" = "Aplikasi Dikongsi %@";
+"contact_support" = "Contact Support";
 "contact_title" = "Contacts";
 "contacts" = "KENALAN";
 "content_audio" = "[Audio]";
@@ -590,7 +591,7 @@
 "message_sent" = "Pesanan dihantar";
 "messages" = "Messages";
 "method_not_supported" = "Method %@ is not supported";
-"minimum_withdrawal" = "Minimum withdrawal";
+"minimum_withdrawal" = "Minimum Withdrawal";
 "minute" = "%d Minute";
 "minute_count" = "%d Minit";
 "mixin" = "Mixin";
@@ -1169,6 +1170,8 @@
 "withdrawal_minimum_withdrawal" = "Minimum withdrawal: ";
 "withdrawal_network_fee" = "Network fee: ";
 "withdrawal_no_memo" = "Tiada Memo";
+"withdrawal_suspended" = "%@ Withdrawal Suspended";
+"withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, blockchain network hard fork, or congestion. Please try again later.";
 "withdrawal_to" = "Pengeluaran ke %@";
 "year" = "Year";
 "you" = "Anda";

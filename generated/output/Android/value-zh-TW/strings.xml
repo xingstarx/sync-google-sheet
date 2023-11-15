@@ -283,6 +283,7 @@
 	<string name="contact_mute_title">靜音通知</string>
 	<string name="contact_new_group_chat_desc">建立一個最多支援 256 人的群</string>
 	<string name="contact_share_bots_title">%1$s分享的機器人</string>
+	<string name="contact_support">聯絡客服</string>
 	<string name="CONTACTS">聯絡人</string>
 	<string name="content_audio">[語音]</string>
 	<string name="content_contact">[聯絡人]</string>
@@ -1252,6 +1253,8 @@
 	<string name="withdrawal_minimum_withdrawal">最小提現數量：</string>
 	<string name="withdrawal_network_fee">網路手續費：</string>
 	<string name="withdrawal_no_memo">點選不使用 Memo（備註）</string>
+	<string name="withdrawal_suspended">%1$s 提現暫停</string>
+	<string name="withdrawal_suspended_description">%1$s 提現已暫停，可能的原因是因為節點故障、區塊鏈網路硬分叉或者擁堵，請耐心等候並稍後重試</string>
 	<string name="withdrawal_to">提現到 %1$s</string>
 	<string name="withdrawal_with_biometric">用生物識別提現</string>
 	<string name="withdrawal_with_PIN">用 PIN 提現</string>

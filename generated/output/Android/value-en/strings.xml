@@ -288,6 +288,7 @@
 	<string name="contact_mute_title">Mute notifications for…</string>
 	<string name="contact_new_group_chat_desc">Create a group chat with up to  friends</string>
 	<string name="contact_share_bots_title">%1$s\'s Shared Bots</string>
+	<string name="contact_support">Contact Support</string>
 	<string name="CONTACTS">CONTACTS</string>
 	<string name="content_audio">[Audio]</string>
 	<string name="content_contact">[Contact]</string>
@@ -666,7 +667,7 @@
 	<string name="Messaging_Node">Messaging Node</string>
 	<string name="Messaging_node_running">Messaging node running</string>
 	<string name="method_not_supported">Method %1$s is not supported</string>
-	<string name="minimum_withdrawal">Minimum withdrawal</string>
+	<string name="minimum_withdrawal">Minimum Withdrawal</string>
 	<plurals name="Minute">
 		<item quantity="one">%d Minute</item>
 		<item quantity="other">%d Minutes</item>
@@ -1276,6 +1277,8 @@
 	<string name="withdrawal_minimum_withdrawal">Minimum withdrawal: </string>
 	<string name="withdrawal_network_fee">Network fee: </string>
 	<string name="withdrawal_no_memo">No Memo</string>
+	<string name="withdrawal_suspended">%1$s Withdrawal Suspended</string>
+	<string name="withdrawal_suspended_description">%1$s withdrawals are temporarily suspended, possibly due to node failure, blockchain network hard fork, or congestion. Please try again later.</string>
 	<string name="withdrawal_to">Withdraw to %1$s</string>
 	<string name="withdrawal_with_biometric">Withdrawal with Biometric</string>
 	<string name="withdrawal_with_PIN">Withdrawal with PIN</string>
