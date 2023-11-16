@@ -879,6 +879,7 @@
 "select" = "Pilih";
 "select_a_card" = "Select a Card";
 "select_a_country_or_region" = "Select a Country or Region";
+"select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
 "select_emergency_contact" = "Pilih Kenalan Kecemasan";
 "select_more_photos" = "Select More Photos";
@@ -1171,7 +1172,7 @@
 "withdrawal_network_fee" = "Network fee: ";
 "withdrawal_no_memo" = "Tiada Memo";
 "withdrawal_suspended" = "%@ Withdrawal Suspended";
-"withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, blockchain network hard fork, or congestion. Please try again later.";
+"withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.";
 "withdrawal_to" = "Pengeluaran ke %@";
 "year" = "Year";
 "you" = "Anda";

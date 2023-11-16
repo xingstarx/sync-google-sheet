@@ -955,6 +955,7 @@
 	<string name="security_code_error">Please enter a valid security code</string>
 	<string name="Select">Select</string>
 	<string name="select_a_card">Select a Card</string>
+	<string name="select_a_token_for_the_fee">Select a token for the fee</string>
 	<string name="Select_All">Select All</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
 	<string name="select_payment_method">Select Payment Method</string>
@@ -1278,7 +1279,7 @@
 	<string name="withdrawal_network_fee">Network fee: </string>
 	<string name="withdrawal_no_memo">No Memo</string>
 	<string name="withdrawal_suspended">%1$s Withdrawal Suspended</string>
-	<string name="withdrawal_suspended_description">%1$s withdrawals are temporarily suspended, possibly due to node failure, blockchain network hard fork, or congestion. Please try again later.</string>
+	<string name="withdrawal_suspended_description">%1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.</string>
 	<string name="withdrawal_to">Withdraw to %1$s</string>
 	<string name="withdrawal_with_biometric">Withdrawal with Biometric</string>
 	<string name="withdrawal_with_PIN">Withdrawal with PIN</string>

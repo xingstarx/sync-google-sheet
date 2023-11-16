@@ -1702,4 +1702,5 @@
   <string name="withdrawal_suspended" platform="android,iOS">%1$s 提現暫停</string>
   <string name="withdrawal_suspended_description" platform="android,iOS">%1$s 提現已暫停，可能的原因是因為節點故障、區塊鏈網路硬分叉或者擁堵，請耐心等候並稍後重試</string>
   <string name="contact_support" platform="android,iOS">聯絡客服</string>
+  <string name="select_a_token_for_the_fee" platform="android,iOS">選擇支付手續費的幣種</string>
 </resources>

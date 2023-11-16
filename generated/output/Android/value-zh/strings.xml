@@ -935,6 +935,7 @@
 	<string name="security_code_error">请输入有效的安全码</string>
 	<string name="Select">选择</string>
 	<string name="select_a_card">选择卡片</string>
+	<string name="select_a_token_for_the_fee">选择支付手续费的币种</string>
 	<string name="Select_All">选择所有</string>
 	<string name="Select_Emergency_Contact">选择紧急联系人</string>
 	<string name="select_payment_method">选择支付方式</string>
