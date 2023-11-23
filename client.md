@@ -1733,3 +1733,5 @@
 | android,iOS | contact_support | Contact Support | 联系客服 |     |     |     |
 | android,iOS | select_a_token_for_the_fee | Select a token for the fee | 选择支付手续费的币种 |     |     |     |
 | android,iOS | withdrawal_pending | Pending | 充值中 |     |     |     |
+| android,iOS | depost_address_updated | %1$s Deposit Address Updated | %1$s 充值地址已更新 |     |     |     |
+| android,iOS | depost_address_updated_description |     | 您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。 |     |     |     |
