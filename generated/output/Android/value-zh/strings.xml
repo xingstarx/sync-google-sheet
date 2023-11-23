@@ -361,6 +361,8 @@
 	<string name="deposit_tip_eos">支持所有基于 EOS 发行的代币。</string>
 	<string name="deposit_tip_eth">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
 	<string name="deposit_tip_trx">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
+	<string name="depost_address_updated">%1$s 充值地址已更新</string>
+	<string name="depost_address_updated_description">您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。</string>
 	<string name="Deselect_All">取消所有选择</string>
 	<string name="Designated_time_period">指定时间段</string>
 	<string name="desktop">桌面端</string>

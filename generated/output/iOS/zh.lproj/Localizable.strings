@@ -346,6 +346,8 @@
 "deposit_tip_eos" = "支持所有基于 EOS 发行的代币。";
 "deposit_tip_eth" = "支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。";
 "deposit_tip_trx" = "支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。";
+"depost_address_updated" = "%@ 充值地址已更新";
+"depost_address_updated_description" = "您的 %@ 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。";
 "deselect_all" = "取消所有选择";
 "designated_time_period" = "指定时间段";
 "desktop_on_hint" = "桌面版已登入。";

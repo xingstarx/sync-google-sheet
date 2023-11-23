@@ -347,6 +347,8 @@
 "deposit_tip_eos" = "Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll.";
 "deposit_tip_eth" = "Alamat ini menyokong semua token ERC-20, seperti ETH, XIN, dll.";
 "deposit_tip_trx" = "Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.";
+"depost_address_updated" = "%@ Deposit Address Updated";
+"depost_address_updated_description" = "Your %@ deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.";
 "deselect_all" = "Deselect All";
 "designated_time_period" = "Designated time period";
 "desktop_on_hint" = "You have your desktop logged in";

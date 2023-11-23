@@ -1704,4 +1704,6 @@
   <string name="contact_support" platform="android,iOS">聯絡客服</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">選擇支付手續費的幣種</string>
   <string name="withdrawal_pending" platform="android,iOS">充值中</string>
+  <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
+  <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址將隨著系統或網路升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。</string>
 </resources>
