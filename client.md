@@ -392,7 +392,7 @@
 | android, iOS, Desktop | Copy_link | Copy Link | 复制链接 | リンクをコピー | Salin pautan |     |
 | iOS | Copy_User_Id | Copy User ID | 复制用户 ID | ユーザーIDをコピー |     |     |
 | android,iOS | consolidation_utxo | Consolidation UTXO | 合并 UTXO |     |     |     |
-| android,iOS | consolidation_utxo_description | The UTXO of your asset is too fragmented. Please enter PIN to merge and then transfer or withdraw | 您资产的 UTXO 太零碎了，请输入 PIN 合并后再进行转账或提现操作 |     |     |     |
+| android,iOS | consolidation_utxo_description | Your wallet has become fragmented with too many UTXOs. Please enter your PIN to consolidate them before proceeding with transfer or withdrawal operations | 您资产的 UTXO 太零碎了，请输入 PIN 合并后再进行转账或提现操作 |     |     |     |
 | android, iOS, Desktop | Create | Create | 创建  | 作成  | Buat | Buat |
 | Desktop | create_circle | New Circle | 新建圈子 | 新しいグループリスト |     |     |
 | Desktop | create_conversation | New Conversation | 新建会话 | 新しいチャットルーム |     |     |
