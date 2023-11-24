@@ -275,6 +275,8 @@
 	<string name="Connecting">Connecting</string>
 	<string name="connection_failed">Connection Failed</string>
 	<string name="Connection_unstable">Connection unstable</string>
+	<string name="consolidation_utxo">Consolidation UTXO</string>
+	<string name="consolidation_utxo_description">Your number of UTXOs exceeds 256. For sending experience, please enter the PIN to consolidating UTXOs before operating.</string>
 	<string name="Contact">Contact</string>
 	<plurals name="contact_count">
 		<item quantity="one">%1$d contact</item>

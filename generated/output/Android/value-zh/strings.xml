@@ -270,6 +270,8 @@
 	<string name="Connecting">正在连接</string>
 	<string name="connection_failed">连接失败</string>
 	<string name="Connection_unstable">当前通话网络不佳</string>
+	<string name="consolidation_utxo">合并 UTXO</string>
+	<string name="consolidation_utxo_description">您的 UTXOs 数量超过了256，为了发送体验，请输入 PIN 整合 UTXOs 后再操作</string>
 	<string name="Contact">联系人</string>
 	<plurals name="contact_count" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d位联系人</item>

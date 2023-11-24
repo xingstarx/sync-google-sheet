@@ -249,6 +249,8 @@
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
 "connection_unstable" = "Conexión inestable";
+"consolidation_utxo" = "Consolidation UTXO";
+"consolidation_utxo_description" = "Your number of UTXOs exceeds 256. For sending experience, please enter the PIN to consolidating UTXOs before operating.";
 "contact" = "Contacto";
 "contact_category" = "contacto";
 "contact_count" = "%d contacto";

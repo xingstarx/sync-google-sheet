@@ -385,6 +385,8 @@
   <string name="Copy_invite" platform="android, iOS, Desktop">複製邀請連結</string>
   <string name="Copy_link" platform="android, iOS, Desktop">複製連結</string>
   <string name="Copy_User_Id" platform="iOS">複製使用者 ID</string>
+  <string name="consolidation_utxo" platform="android,iOS">合併 UTXO</string>
+  <string name="consolidation_utxo_description" platform="android,iOS">您的 UTXOs 數量超過了256，為了傳送體驗，請輸入 PIN 整合 UTXOs 後再操作</string>
   <string name="Create" platform="android, iOS, Desktop">建立</string>
   <string name="create_circle" platform="Desktop">新建圈子</string>
   <string name="create_conversation" platform="Desktop">新建會話</string>

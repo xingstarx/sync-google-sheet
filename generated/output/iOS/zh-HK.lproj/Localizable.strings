@@ -249,6 +249,8 @@
 "connection_establishment_failed" = "連接建立失敗";
 "connection_failed" = "連接失敗";
 "connection_unstable" = "當前通話網絡不佳";
+"consolidation_utxo" = "合併 UTXO";
+"consolidation_utxo_description" = "您的 UTXOs 數量超過了256，為了發送體驗，請輸入 PIN 整合 UTXOs 後再操作";
 "contact" = "聯繫人";
 "contact_category" = "聯繫人";
 "contact_count" = "%d位聯繫人";
