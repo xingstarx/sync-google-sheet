@@ -390,6 +390,7 @@
   <string name="Copy_invite" platform="android, iOS, Desktop">Copy Invite Link</string>
   <string name="Copy_link" platform="android, iOS, Desktop">Copy Link</string>
   <string name="Copy_User_Id" platform="iOS">Copy User ID</string>
+  <string name="consolidation_utxo" platform="android,iOS">Consolidation UTXO</string>
   <string name="Create" platform="android, iOS, Desktop">Create</string>
   <string name="create_circle" platform="Desktop">New Circle</string>
   <string name="create_conversation" platform="Desktop">New Conversation</string>

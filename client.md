@@ -391,6 +391,8 @@
 | android, iOS, Desktop | Copy_invite | Copy Invite Link | 复制邀请链接 | 招待リンクをコピーする | Salin pautan | Salin Tautan |
 | android, iOS, Desktop | Copy_link | Copy Link | 复制链接 | リンクをコピー | Salin pautan |     |
 | iOS | Copy_User_Id | Copy User ID | 复制用户 ID | ユーザーIDをコピー |     |     |
+| android,iOS | consolidation_utxo | Consolidation UTXO |     |     |     |     |
+| android,iOS | consolidation_utxo_description |     |     |     |     |     |
 | android, iOS, Desktop | Create | Create | 创建  | 作成  | Buat | Buat |
 | Desktop | create_circle | New Circle | 新建圈子 | 新しいグループリスト |     |     |
 | Desktop | create_conversation | New Conversation | 新建会话 | 新しいチャットルーム |     |     |
