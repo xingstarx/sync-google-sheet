@@ -391,6 +391,8 @@
 | android, iOS, Desktop | Copy_invite | Copy Invite Link | 复制邀请链接 | 招待リンクをコピーする | Salin pautan | Salin Tautan |
 | android, iOS, Desktop | Copy_link | Copy Link | 复制链接 | リンクをコピー | Salin pautan |     |
 | iOS | Copy_User_Id | Copy User ID | 复制用户 ID | ユーザーIDをコピー |     |     |
+| android,iOS | consolidation_utxo | Consolidation UTXO | 合并 UTXO |     |     |     |
+| android,iOS | consolidation_utxo_description | Your number of UTXOs exceeds 256. For sending experience, please enter the PIN to consolidating UTXOs before operating. | 您的 UTXOs 数量超过了256，为了发送体验，请输入 PIN 整合 UTXOs 后再操作 |     |     |     |
 | android, iOS, Desktop | Create | Create | 创建  | 作成  | Buat | Buat |
 | Desktop | create_circle | New Circle | 新建圈子 | 新しいグループリスト |     |     |
 | Desktop | create_conversation | New Conversation | 新建会话 | 新しいチャットルーム |     |     |
