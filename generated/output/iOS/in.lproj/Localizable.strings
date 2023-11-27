@@ -337,12 +337,11 @@
 "deleted" = "Deleted";
 "deposit" = "Deposit";
 "deposit_account_attention" = "Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %@ Anda ke Mixin Messenger dapat dilakukan dengan sukses.";
-"deposit_at_least" = "Deposit at least %@ %@ for the first time.";
 "deposit_attention" = "Harap coba jumlah kecil untuk deposit pertama.";
 "deposit_confirmation" = "Deposit will arrive %d block confirmation";
 "deposit_confirmation_count" = "Deposit akan tiba setelah setidaknya %d konfirmasi block";
+"deposit_dust" = "Minimum deposit: %1$@ %2$@";
 "deposit_hash" = "Deposit Hash";
-"deposit_reserve" = "Deposit minimal %@ untuk pertama kali.";
 "deposit_tip_btc" = "Alamat ini hanya mendukung BTC.";
 "deposit_tip_common" = "Alamat ini hanya mendukung %@.";
 "deposit_tip_eos" = "Alamat ini mendukung semua token berbasis EOS, seperti EOS, IQ, dll.";

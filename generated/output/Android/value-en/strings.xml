@@ -362,10 +362,10 @@
 		<item quantity="one">Deposit will arrive %1$d block confirmation</item>
 		<item quantity="other">Deposit will arrive %1$d block confirmations</item>
 	</plurals>
+	<string name="deposit_dust">Minimum deposit: %1$s %2$s</string>
 	<string name="deposit_hash">Deposit Hash</string>
 	<string name="deposit_memo_notice">Memo is required, or you will lose your coins.</string>
 	<string name="deposit_notice">Both Memo and Address are required to deposit your %1$s to you account.</string>
-	<string name="deposit_reserve">Deposit at least %1$s for the first time.</string>
 	<string name="deposit_tip_btc">This address only supports BTC.</string>
 	<string name="deposit_tip_common">This address only supports %1$s.</string>
 	<string name="deposit_tip_eos">This address supports all base on EOS tokens.</string>
