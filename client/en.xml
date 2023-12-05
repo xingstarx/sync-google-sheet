@@ -651,9 +651,9 @@
   <string name="food_and_drink" platform="Desktop">Food &amp; Drink</string>
   <string name="Format_not_supported" platform="android, Desktop">Format not supported</string>
   <string name="Forward" platform="android, iOS, Desktop">Forward</string>
-  <string name="Forward_message" platform="android">Forward message</string>
-  <string name="Forward_success" platform="android">Forward success</string>
-  <string name="Forward_to_friend" platform="android">Forward to friend</string>
+  <string name="Forward_message" platform="android">Forward a message</string>
+  <string name="Forward_success" platform="android">Forwarded successfully</string>
+  <string name="Forward_to_friend" platform="android">Forward to a friend</string>
   <string name="fourth_pin_confirm_hint" platform="android, iOS">Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost.</string>
   <string name="Friday" platform="android">Friday</string>
   <string name="From" platform="android, iOS, Desktop">From</string>
@@ -669,7 +669,7 @@
   <string name="Google_Pay_error" platform="android">Google pay is not available</string>
   <string name="Got_it" platform="android, iOS">Got it</string>
   <string name="got_it_count_down" platform="android">Got it (%1$d)</string>
-  <string name="group_already_in" platform="android, Desktop">You already in the group</string>
+  <string name="group_already_in" platform="android, Desktop">You are already in the group.</string>
   <string name="Group_Call" platform="android, iOS">Group Call</string>
   <string name="group_call_end_with_duration" platform="android, iOS">Group call ended, duration: %1$s</string>
   <string name="Group_call_has_been_declined" platform="iOS">Group call has been declined</string>
@@ -691,7 +691,7 @@
   <string name="group_qr_code_prompt" platform="iOS">Scan the QR Code to join this group</string>
   <string name="group_role" platform="android">You' re now an admin</string>
   <string name="groups" platform="Desktop">Groups</string>
-  <string name="Groups_In_Common" platform="android, iOS, Desktop">Groups In Common</string>
+  <string name="Groups_In_Common" platform="android, iOS, Desktop">Groups in Common</string>
   <string name="Hang_up" platform="android">Hang up</string>
   <string name="Help" platform="iOS, Desktop">Help</string>
   <string name="Help_center" platform="android, iOS, Desktop">Help center</string>
@@ -700,7 +700,7 @@
   <string name="Hide" platform="android, iOS">Hide</string>
   <string name="Hide_asset" platform="iOS">Hide asset</string>
   <string name="hide_mixin" platform="Desktop">Hide Mixin</string>
-  <string name="hold_to_record_audio" platform="android, iOS">Hold to record, release to send</string>
+  <string name="hold_to_record_audio" platform="android, iOS">Hold to record, release to send.</string>
   <string name="host" platform="Desktop">Host</string>
   <string name="Hour" platform="android, iOS, Desktop">%d Hour</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d Hours</string>
@@ -833,7 +833,7 @@
   <string name="Media" platform="android, iOS, Desktop">Media</string>
   <string name="Memo" platform="android, iOS, Desktop">Memo</string>
   <string name="message" platform="android">message</string>
-  <string name="message_e2ee" platform="android, iOS, Desktop">Messages to this conversation are encrypted end-to-end, tap for more info.</string>
+  <string name="message_e2ee" platform="android, iOS, Desktop">Messages to this conversation are end-to-end encrypted, tap for more info.</string>
   <string name="message_encryption_hint" platform="iOS">Messages between users are protected with an end-to-end encryption</string>
   <string name="Message_not_found" platform="android, iOS, Desktop">Message not found</string>
   <string name="message_not_support" platform="android, iOS, Desktop">This type of message is not supported, please upgrade Mixin to the latest version.</string>
@@ -885,8 +885,8 @@
   <string name="NA" platform="android, iOS, Desktop">N/A</string>
   <string name="Name" platform="android, iOS, Desktop">Name</string>
   <string name="Name_or_Phone_number" platform="iOS">Name or Phone number</string>
-  <string name="need_background_permission" platform="android">Requires start in background permission for continue</string>
-  <string name="need_camera_permission" platform="android">Requires camera permission for continue</string>
+  <string name="need_background_permission" platform="android">Requires start in background permission to continue.</string>
+  <string name="need_camera_permission" platform="android">Requires camera permission to continue.</string>
   <string name="Need_help" platform="android, iOS">Need help?</string>
   <string name="Net_Diagnosis" platform="android">Net Diagnosis</string>
   <string name="network" platform="android, iOS">Network</string>
@@ -1659,9 +1659,9 @@
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
   <string name="identity_verifying" platform="android, iOS">Identity Verifying</string>
-  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.</string>
+  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you a message once your verification has completed.</string>
   <string name="verification_failed" platform="android, iOS">Verification Failed</string>
-  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.</string>
+  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
   <string name="verification_blocked_description" platform="android, iOS">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
   <string name="chat_with_us" platform="android, iOS">Chat with us</string>
   <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
@@ -1735,4 +1735,6 @@
   <string name="withdrawal_pending" platform="android,iOS">Pending</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
   <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
+  <string name="message_shareable_false" platform="android">The message has been set to not allow sharing.</string>
+  <string name="user_deleted_hint" platform="android">The user has deleted the account.</string>
 </resources>

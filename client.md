@@ -652,9 +652,9 @@
 | Desktop | food_and_drink | Food & Drink | 食物与饮料 |     |     |     |
 | android, Desktop | Format_not_supported | Format not supported | 不支持该格式 | サポートされていないフォーマットです | Format tidak disokong | Format tidak didukung |
 | android, iOS, Desktop | Forward | Forward | 转发  | 転送  | Ke hadapan | Teruskan |
-| android | Forward_message | Forward message | 转发消息 | 転送メッセージ |     |     |
-| android | Forward_success | Forward success | 转发成功 | 転送成功 | kejayaan hadapan | Berhasil meneruskan |
-| android | Forward_to_friend | Forward to friend | 转发给好友 | 友達に転送する | Teruskan kepada rakan | Teruskan ke teman |
+| android | Forward_message | Forward a message | 转发消息 | 転送メッセージ |     |     |
+| android | Forward_success | Forwarded successfully | 转发成功 | 転送成功 | kejayaan hadapan | Berhasil meneruskan |
+| android | Forward_to_friend | Forward to a friend | 转发给好友 | 友達に転送する | Teruskan kepada rakan | Teruskan ke teman |
 | android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | 这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！ | 最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. |
 | android | Friday | Friday | 星期五 | 金曜日 | Jumaat | Jumat |
 | android, iOS, Desktop | From | From | 来自  | より  |     |     |
@@ -670,7 +670,7 @@
 | android | Google_Pay_error | Google pay is not available |     |     |     |     |
 | android, iOS | Got_it | Got it | 知道了 | 確認  | Faham | OK  |
 | android | got_it_count_down | Got it (%1$d) | 知道了（%1$d） | 確認 (%1$d) | Faham (%1$d) | OK (%1$d) |
-| android, Desktop | group_already_in | You already in the group | 你已经在该群组里 | すでにこのグループに参加しています。 | Anda sudah berada dalam kumpulan | Anda sudah bergabung dalam grup |
+| android, Desktop | group_already_in | You are already in the group. | 你已经在该群组里 | すでにこのグループに参加しています。 | Anda sudah berada dalam kumpulan | Anda sudah bergabung dalam grup |
 | android, iOS | Group_Call | Group Call | 群组语音 | グループ通話 | Panggilan Berkumpulan | Panggilan Grup |
 | android, iOS | group_call_end_with_duration | Group call ended, duration: %1$s | 群组语音结束，时长 %1$s | グループ通話は終了しました。通話時間：%1$s | Panggilan kumpulan berakhir, tempoh: %1$s | Panggilan grup berakhir, durasi: %1$s |
 | iOS | Group_call_has_been_declined | Group call has been declined | 已拒绝通话 | 権限不足のためグループ会話はできません。 |     |     |
@@ -692,7 +692,7 @@
 | iOS | group_qr_code_prompt | Scan the QR Code to join this group | 扫描二维码加入群组 | QRコードをスキャンしてこのグループに参加 |     |     |
 | android | group_role | You' re now an admin | 你现在成为管理员 | 管理者に任命されました | Anda sekarang adalah pentadbir | Anda sekarang adalah admin |
 | Desktop | groups | Groups | 群组  | グループ |     |     |
-| android, iOS, Desktop | Groups_In_Common | Groups In Common | 共同群组 | 共通のグループ |     |     |
+| android, iOS, Desktop | Groups_In_Common | Groups in Common | 共同群组 | 共通のグループ |     |     |
 | android | Hang_up | Hang up | 挂断  | 電話を切る | Letak gagang | Tutup |
 | iOS, Desktop | Help | Help | 帮助  | ヘルプ |     |     |
 | android, iOS, Desktop | Help_center | Help center | 帮助中心 | ヘルプセンター | Pusat bantuan | Pusat bantuan |
@@ -701,7 +701,7 @@
 | android, iOS | Hide | Hide | 隐藏  | 非表示 | Sembunyii | Sembunyikan |
 | iOS | Hide_asset | Hide asset | 隐藏资产 | 資産を非表示にする |     |     |
 | Desktop | hide_mixin | Hide Mixin | 隐藏 Mixin | Mixinを非表示にする |     |     |
-| android, iOS | hold_to_record_audio | Hold to record, release to send | 长按说话，松手发送 | 長押しして録音、離して送信 | Tahan untuk merakam, lepaskan untuk hantar | Tahan untuk merekam, lepaskan untuk mengirim |
+| android, iOS | hold_to_record_audio | Hold to record, release to send. | 长按说话，松手发送 | 長押しして録音、離して送信 | Tahan untuk merakam, lepaskan untuk hantar | Tahan untuk merekam, lepaskan untuk mengirim |
 | Desktop | host | Host | 主机名 |     |     |     |
 | android, iOS, Desktop | Hour | %d Hour | %d 小时 | %d時間 |     |     |
 | android, iOS, Desktop | Hour.count | %d Hours | %d 小时 | %d時間 | %d Jam | %d Jam |
@@ -834,7 +834,7 @@
 | android, iOS, Desktop | Media | Media | 媒体  | メディア | Media | Media |
 | android, iOS, Desktop | Memo | Memo | 备注  | メモ  | Memo | Memo |
 | android | message | message | 消息  | メッセージ | mesej | pesan |
-| android, iOS, Desktop | message_e2ee | Messages to this conversation are encrypted end-to-end, tap for more info. | 此对话中的消息使用端对端加密。点击了解更多。 | チャットルームでのメッセージはE2Eで暗号化されています。詳細はタップしてください。 | Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut. | Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya. |
+| android, iOS, Desktop | message_e2ee | Messages to this conversation are end-to-end encrypted, tap for more info. | 此对话中的消息使用端对端加密。点击了解更多。 | チャットルームでのメッセージはE2Eで暗号化されています。詳細はタップしてください。 | Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut. | Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya. |
 | iOS | message_encryption_hint | Messages between users are protected with an end-to-end encryption | 用户之间的消息将受到端对端加密保护 | ユーザー間のメッセージはE2Eの暗号化によって守られています |     |     |
 | android, iOS, Desktop | Message_not_found | Message not found | 找不到该消息 | メッセージが見つかりません | Mesej tidak dijumpai | Pesan tidak ditemukan |
 | android, iOS, Desktop | message_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. |
@@ -886,8 +886,8 @@
 | android, iOS, Desktop | NA  | N/A | 暂无价格 | なし  | N/A | N/A |
 | android, iOS, Desktop | Name | Name | 名称  | 名前  | Nama | Nama |
 | iOS | Name_or_Phone_number | Name or Phone number | 姓名或手机号 | 名前か電話番号 |     |     |
-| android | need_background_permission | Requires start in background permission for continue | 继续使用此功能需要后台弹出界面权限 | 続けるにはバックグラウンド許可が必要です | Memerlukan kebenaran mula di latar untuk meneruskan | Memerlukan izin mulai di latar belakang untuk melanjutkan |
-| android | need_camera_permission | Requires camera permission for continue | 继续使用此功能需要相机权限 | 続けるにはカメラの使用許可が必要です | Memerlukan kebenaran kamera untuk meneruskan | Memerlukan izin kamera untuk melanjutkan |
+| android | need_background_permission | Requires start in background permission to continue. | 继续使用此功能需要后台弹出界面权限 | 続けるにはバックグラウンド許可が必要です | Memerlukan kebenaran mula di latar untuk meneruskan | Memerlukan izin mulai di latar belakang untuk melanjutkan |
+| android | need_camera_permission | Requires camera permission to continue. | 继续使用此功能需要相机权限 | 続けるにはカメラの使用許可が必要です | Memerlukan kebenaran kamera untuk meneruskan | Memerlukan izin kamera untuk melanjutkan |
 | android, iOS | Need_help | Need help? | 需要帮助？ | ヘルプが必要ですか？ | Perlukan bantuan? | Butuh bantuan? |
 | android | Net_Diagnosis | Net Diagnosis | 网络诊断 | ネットワーク診断 |     |     |
 | android, iOS | network | Network | 网络  |     |     |     |
@@ -1660,9 +1660,9 @@
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
 | android, iOS | identity_verifying | Identity Verifying | 正在审核 |     |     |     |
-| android, iOS | identity_verification_description | Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
+| android, iOS | identity_verification_description | Your identity is being verified. We will send you a message once your verification has completed. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
 | android, iOS | verification_failed | Verification Failed | 验证失败 |     |     |     |
-| android, iOS | verification_failed_description | Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents. | 您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。 |     |     |     |
+| android, iOS | verification_failed_description | Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents. | 您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。 |     |     |     |
 | android, iOS | verification_blocked_description | Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us. | 你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。 |     |     |     |
 | android, iOS | chat_with_us | Chat with us | 联系客服 |     |     |     |
 | android, iOS | sumsub_not_ready | KYC not available | KYC服务不可用 |     |     |     |
@@ -1736,3 +1736,5 @@
 | android,iOS | withdrawal_pending | Pending | 充值中 |     |     |     |
 | android,iOS | depost_address_updated | %1$s Deposit Address Updated | %1$s 充值地址已更新 |     |     |     |
 | android,iOS | depost_address_updated_description | Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use. | 您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。 |     |     |     |
+| android | message_shareable_false | The message has been set to not allow sharing. | 该消息已被设置为不允许转发 |     |     |     |
+| android | user_deleted_hint | The user has deleted the account. | 该用户已经删除了账号。 |     |     |     |
