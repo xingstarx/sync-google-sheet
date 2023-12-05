@@ -649,6 +649,7 @@
 	<string name="Message_Notification">消息通知</string>
 	<string name="Message_pinned">消息已置頂</string>
 	<string name="Message_sent">消息已發送</string>
+	<string name="message_shareable_false">該消息已被設置為不允許轉發</string>
 	<string name="Message_unpinned">置頂消息已取消</string>
 	<string name="Messages">消息</string>
 	<string name="Messaging_Node">消息節點</string>
@@ -1179,6 +1180,7 @@
 	<string name="use_new_price">使用最新報價</string>
 	<string name="Use_System_Text_Size">跟隨系統字體大小</string>
 	<string name="user_delete_hint">該用户已經刪除了賬號。</string>
+	<string name="user_deleted_hint">該用户已經刪除了賬號。</string>
 	<string name="User_not_found">找不到這個用户</string>
 	<string name="utxo_count_exceeded">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
 	<string name="value_now">價值 %1$s</string>
