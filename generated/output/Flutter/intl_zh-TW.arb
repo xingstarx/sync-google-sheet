@@ -146,6 +146,7 @@
 "editImageClearWarning" : "退出將會清除此次所有的改動。",
 "editName" : "修改暱稱",
 "editProfile" : "編輯資料",
+"encryptZipFileWithPassword" : "使用密碼來加密 zip 檔案",
 "enterPinToDeleteAccount" : "輸入你的 PIN 以登出你的賬戶",
 "enterToSend" : "按下回車 ⏎ 傳送",
 "enterYourPhoneNumber" : "輸入你的手機號碼",
