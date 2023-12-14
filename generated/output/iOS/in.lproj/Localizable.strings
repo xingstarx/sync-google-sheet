@@ -607,6 +607,8 @@
 "more" = "Lebih banyak";
 "move_and_scale" = "Move and Scale";
 "multisig_by_pin" = "Multisig dengan PIN";
+"multisig_receivers_threshold" = "Penerima (%@)";
+"multisig_senders_threshold" = "Senders (%@)";
 "multisig_state_signed" = "Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda.";
 "multisig_state_unlocked" = "Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda.";
 "multisig_transaction" = "Transaksi Multisig";

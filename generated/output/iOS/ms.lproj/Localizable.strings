@@ -608,6 +608,8 @@
 "more" = "Lebih banyak lagi";
 "move_and_scale" = "Move and Scale";
 "multisig_by_pin" = "Multisig dengan PIN";
+"multisig_receivers_threshold" = "Penerima (%@)";
+"multisig_senders_threshold" = "Senders (%@)";
 "multisig_state_signed" = "Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua.";
 "multisig_state_unlocked" = "Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.";
 "multisig_transaction" = "Transaksi Multisig";

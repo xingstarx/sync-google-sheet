@@ -849,7 +849,8 @@
   <string name="More" platform="android, iOS, Desktop">更多</string>
   <string name="Move_and_Scale" platform="iOS">移動和縮放</string>
   <string name="Multisig_by_PIN" platform="android, iOS">透過 PIN 簽名</string>
-  <string name="multisig_receivers_threshold" platform="android">交易接收人（%1$s）</string>
+  <string name="multisig_senders_threshold" platform="android, iOS">交易發起人（%1$s）</string>
+  <string name="multisig_receivers_threshold" platform="android, iOS">交易接收人（%1$s）</string>
   <string name="multisig_state_signed" platform="android, iOS">您已經對這筆交易進行了簽名，您無法再次簽名。</string>
   <string name="multisig_state_unlocked" platform="android, iOS">這筆交易已經被其他人撤銷了，您無法再次撤銷。</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">多重簽名交易</string>
