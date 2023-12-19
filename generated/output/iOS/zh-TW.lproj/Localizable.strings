@@ -906,6 +906,7 @@
 "send_signed_message_confirmation" = "此訊息已被簽名，點選下方按鈕以傳送或丟棄";
 "send_this_location" = "傳送這個位置";
 "send_to" = "傳送給 %@";
+"send_to_contact" = "轉賬給聯絡人";
 "send_to_developer" = "把日誌發給開發者";
 "send_to_title" = "轉給";
 "send_verification_code_frequent" = "傳送驗證碼太頻繁，請稍後再試";

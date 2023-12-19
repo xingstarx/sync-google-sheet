@@ -906,6 +906,7 @@
 "send_signed_message_confirmation" = "The message has been signed successfully, click the button below to send or discard the signed message";
 "send_this_location" = "位置情報を送信";
 "send_to" = "%@へ送信";
+"send_to_contact" = "Send to Contact";
 "send_to_developer" = "開発者へ送信";
 "send_to_title" = "振替先";
 "send_verification_code_frequent" = "しばらく経ってから再度送信してください";

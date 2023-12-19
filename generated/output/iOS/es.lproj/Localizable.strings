@@ -906,6 +906,7 @@
 "send_signed_message_confirmation" = "The message has been signed successfully, click the button below to send or discard the signed message";
 "send_this_location" = "Enviar esta ubicación";
 "send_to" = "Enviar a %@";
+"send_to_contact" = "Send to Contact";
 "send_to_developer" = "Enviar al Desarrollador";
 "send_to_title" = "Enviar a";
 "send_verification_code_frequent" = "Envíe el código de verificación con demasiada frecuencia, vuelve a intentarlo más tarde.";

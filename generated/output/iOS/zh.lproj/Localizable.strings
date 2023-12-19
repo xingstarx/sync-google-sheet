@@ -906,6 +906,7 @@
 "send_signed_message_confirmation" = "此消息已被签名，点击下方按钮以发送或丢弃";
 "send_this_location" = "发送这个位置";
 "send_to" = "发送给 %@";
+"send_to_contact" = "转账给联系人";
 "send_to_developer" = "把日志发给开发者";
 "send_to_title" = "转给";
 "send_verification_code_frequent" = "发送验证码太频繁，请稍后再试";
