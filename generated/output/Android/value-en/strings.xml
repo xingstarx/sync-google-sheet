@@ -533,6 +533,7 @@
 	<string name="Forward_success">Forwarded successfully</string>
 	<string name="Forward_to_friend">Forward to a friend</string>
 	<string name="fourth_pin_confirm_hint">Yes, there is a fourth PIN confirmation, and I promise it\'s the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost.</string>
+	<string name="free">FREE</string>
 	<string name="Friday">Friday</string>
 	<string name="From">From</string>
 	<string name="Generating_keys">Generating keys…</string>
@@ -972,7 +973,10 @@
 	<string name="send_signed_message_confirmation">The message has been signed successfully, click the button below to send or discard the signed message</string>
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
+	<string name="send_to_address">Send to Address</string>
+	<string name="send_to_address_description">Send crypto to a wallet or exchange</string>
 	<string name="Send_to_Contact">Send to Contact</string>
+	<string name="Send_to_Contact_description">Send crypto to Mixin contact</string>
 	<string name="Send_transfer">Send</string>
 	<string name="send_without_compression">Send without compression</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>

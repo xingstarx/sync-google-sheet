@@ -473,6 +473,7 @@
 "follow_us_on_twitter" = "關注我們的 Twitter";
 "forward" = "轉發";
 "fourth_pin_confirm_hint" = "這是最後一次確認 PIN，記住：PIN 丟失將永遠無法找回！";
+"free" = "免手續費";
 "from" = "來自";
 "games" = "遊戲";
 "generating" = "正在生成...";
@@ -906,7 +907,10 @@
 "send_signed_message_confirmation" = "此消息已被簽名，點擊下方按鈕以發送或丟棄";
 "send_this_location" = "發送這個位置";
 "send_to" = "發送給 %@";
-"send_to_contact" = "轉賬給聯繫人";
+"send_to_address" = "轉出到地址";
+"send_to_address_description" = "轉出加密貨幣到錢包或交易所";
+"send_to_contact" = "轉出到聯繫人";
+"send_to_contact_description" = "轉出加密貨幣到 Mixin 聯繫人";
 "send_to_developer" = "把日誌發給開發者";
 "send_to_title" = "轉給";
 "send_verification_code_frequent" = "發送驗證碼太頻繁，請稍後再試";
