@@ -1265,7 +1265,7 @@
 	<string name="withdrawal_minimum_withdrawal">最小提現數量：</string>
 	<string name="withdrawal_network_fee">網絡手續費：</string>
 	<string name="withdrawal_no_memo">點擊不使用 Memo（備註）</string>
-	<string name="withdrawal_pending">充值中</string>
+	<string name="withdrawal_pending">提現中</string>
 	<string name="withdrawal_suspended">%1$s 提現暫停</string>
 	<string name="withdrawal_suspended_description">%1$s 提現已暫停，可能的原因是因為節點故障、區塊鏈網絡硬分叉或者擁堵，請耐心等候並稍後重試</string>
 	<string name="withdrawal_to">提現到 %1$s</string>
