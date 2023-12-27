@@ -1744,3 +1744,4 @@
 | android | user_deleted_hint | The user has deleted the account. | 该用户已经删除了账号。 |     |     |     |
 | Desktop | encrypt_zip_file_with_password | Encrypt zip file with password | 使用密码来加密 zip 文件 |     |     |     |
 | android,iOS | free | FREE | 免手续费 |     |     |     |
+| android,iOS | Waiting_transaction | Waiting Transaction |     |     |     |     |
