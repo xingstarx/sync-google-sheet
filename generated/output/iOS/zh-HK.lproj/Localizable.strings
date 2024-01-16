@@ -449,6 +449,7 @@
 "expired" = "已過期";
 "expiry_date" = "有效期";
 "expiry_date_error" = "請輸入正確的有效期";
+"explore" = "探索";
 "export" = "導出";
 "export_failed" = "導出失敗";
 "face_id" = "面容";

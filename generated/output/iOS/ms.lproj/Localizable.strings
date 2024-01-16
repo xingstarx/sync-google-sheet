@@ -450,6 +450,7 @@
 "expired" = "Tamat tempoh";
 "expiry_date" = "Expiry Date";
 "expiry_date_error" = "Please enter a valid expiry date";
+"explore" = "Explore";
 "export" = "Export";
 "export_failed" = "Export failed";
 "face_id" = "Face ID";

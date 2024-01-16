@@ -449,6 +449,7 @@
 "expired" = "Истекший";
 "expiry_date" = "Expiry Date";
 "expiry_date_error" = "Please enter a valid expiry date";
+"explore" = "Explore";
 "export" = "Экспорт";
 "export_failed" = "Не удалось экспортировать";
 "face_id" = "Идентификатор лица";

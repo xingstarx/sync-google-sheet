@@ -449,6 +449,7 @@
 "expired" = "Caducado";
 "expiry_date" = "Expiry Date";
 "expiry_date_error" = "Please enter a valid expiry date";
+"explore" = "Explore";
 "export" = "Exportar";
 "export_failed" = "Exportación fallida";
 "face_id" = "ID facial";

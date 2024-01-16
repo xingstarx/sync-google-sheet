@@ -449,6 +449,7 @@
 "expired" = "期限切れ";
 "expiry_date" = "Expiry Date";
 "expiry_date_error" = "Please enter a valid expiry date";
+"explore" = "Explore";
 "export" = "エクスポート";
 "export_failed" = "エクスポート失敗";
 "face_id" = "顔認証";
