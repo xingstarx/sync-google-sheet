@@ -1746,3 +1746,4 @@
 | android,iOS | free | FREE | 免手续费 |     |     |     |
 | android,iOS | Waiting_transaction | Waiting Transaction | 正在等待交易 |     |     |     |
 | android,iOS | Waiting_transaction_description | You have a transfer or withdrawal has not been completed, please try again later | 您有一笔转账或提现未完成，请稍后再试 |     |     |     |
+| android,iOS | Explore | Explore | 探索  |     |     |     |
