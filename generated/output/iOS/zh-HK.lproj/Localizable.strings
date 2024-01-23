@@ -131,7 +131,7 @@
 "blocked" = "已屏蔽";
 "blocked_users" = "屏蔽名單";
 "books" = "圖書";
-"bot_empty_tip" = "可以添加你喜歡的機器人";
+"bot_empty_tip" = "可以收藏你喜歡的機器人";
 "bot_not_found" = "找不到這個機器人";
 "bot_pin_hint" = "可將常用機器人長按拖至此處，可顯示於首頁";
 "bots" = "機器人";

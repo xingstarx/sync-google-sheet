@@ -131,7 +131,7 @@
 "blocked" = "已屏蔽";
 "blocked_users" = "屏蔽名单";
 "books" = "图书";
-"bot_empty_tip" = "可以添加你喜欢的机器人";
+"bot_empty_tip" = "可以收藏你喜欢的机器人";
 "bot_not_found" = "找不到这个机器人";
 "bot_pin_hint" = "可将常用机器人长按拖至此处，可显示于首页";
 "bots" = "机器人";

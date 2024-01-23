@@ -145,7 +145,7 @@
 	<string name="Blocked_Users">封鎖名單</string>
 	<string name="bold">粗體</string>
 	<string name="bot_dock_empty">長按並拖拽機器人置頂</string>
-	<string name="bot_empty_tip">可以新增你喜歡的機器人</string>
+	<string name="bot_empty_tip">可以收藏你喜歡的機器人</string>
 	<string name="bot_not_auth_yet">還未授權此機器人任何許可權</string>
 	<string name="Bot_not_found">找不到這個機器人</string>
 	<string name="BOTS">機器人</string>
