@@ -1749,4 +1749,4 @@
 | android,iOS | Explore | Explore | 探索  |     |     |     |
 | android,iOS | take_a_photo | Take a photo | 拍摄照片 |     |     |     |
 | android,iOS | link_desktop | Link Desktop | 链接桌面端 |     |     |     |
-|     |     | Link Mixin Messenger Desktop by QR code |     |     |     |     |
+| android,iOS | link_desktop_description | Link Mixin Messenger Desktop by QR code | 通过二维码链接桌面端 |     |     |     |

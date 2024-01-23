@@ -1748,5 +1748,5 @@
   <string name="Explore" platform="android,iOS">Explore</string>
   <string name="take_a_photo" platform="android,iOS">Take a photo</string>
   <string name="link_desktop" platform="android,iOS">Link Desktop</string>
-  <string name="" platform="">Link Mixin Messenger Desktop by QR code</string>
+  <string name="link_desktop_description" platform="android,iOS">Link Mixin Messenger Desktop by QR code</string>
 </resources>
