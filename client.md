@@ -1748,3 +1748,5 @@
 | android,iOS | Waiting_transaction_description | You have a transfer or withdrawal has not been completed, please try again later | 您有一笔转账或提现未完成，请稍后再试 |     |     |     |
 | android,iOS | Explore | Explore | 探索  |     |     |     |
 | android,iOS | take_a_photo | Take a photo | 拍摄照片 |     |     |     |
+| android,iOS | link_desktop | Link Desktop | 链接桌面端 |     |     |     |
+|     |     | Link Mixin Messenger Desktop by QR code |     |     |     |     |

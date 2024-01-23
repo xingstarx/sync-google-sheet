@@ -1719,4 +1719,5 @@
   <string name="Waiting_transaction_description" platform="android,iOS">您有一笔转账或提现未完成，请稍后再试</string>
   <string name="Explore" platform="android,iOS">探索</string>
   <string name="take_a_photo" platform="android,iOS">拍摄照片</string>
+  <string name="link_desktop" platform="android,iOS">链接桌面端</string>
 </resources>

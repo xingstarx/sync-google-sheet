@@ -1747,4 +1747,6 @@
   <string name="Waiting_transaction_description" platform="android,iOS">You have a transfer or withdrawal has not been completed, please try again later</string>
   <string name="Explore" platform="android,iOS">Explore</string>
   <string name="take_a_photo" platform="android,iOS">Take a photo</string>
+  <string name="link_desktop" platform="android,iOS">Link Desktop</string>
+  <string name="" platform="">Link Mixin Messenger Desktop by QR code</string>
 </resources>
