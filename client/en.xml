@@ -881,7 +881,7 @@
   <string name="My_Contacts" platform="android, iOS">My Contacts</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">My Mixin ID: %1$s</string>
   <string name="My_QR_Code" platform="android, iOS">My QR Code</string>
-  <string name="My_shared_bots" platform="android, iOS">My shared bots</string>
+  <string name="My_favorite_bots" platform="android, iOS">My Favorite Bots</string>
   <string name="My_Stickers" platform="android, iOS, Desktop">My Stickers</string>
   <string name="NA" platform="android, iOS, Desktop">N/A</string>
   <string name="Name" platform="android, iOS, Desktop">Name</string>

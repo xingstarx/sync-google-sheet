@@ -882,7 +882,7 @@
 | android, iOS | My_Contacts | My Contacts | 我的联系人 | 連絡先 | Kenalan Saya | Kontak Saya |
 | android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | 我的 Mixin ID：%1$s | マイMixin ID:%1$s | ID Mixin Saya: %1$s | ID Mixin saya: %1$s |
 | android, iOS | My_QR_Code | My QR Code | 我的二维码 | マイQRコード | Kod QR saya | Kode QR saya |
-| android, iOS | My_shared_bots | My shared bots | 我分享的机器人 | プロフィールに追加ずみのミニアプリ | Aplikasi kongsi saya | Aplikasi bersama saya |
+| android, iOS | My_favorite_bots | My Favorite Bots | 我收藏的机器人 |     |     |     |
 | android, iOS, Desktop | My_Stickers | My Stickers | 我的表情 | マイスタンプ |     |     |
 | android, iOS, Desktop | NA  | N/A | 暂无价格 | なし  | N/A | N/A |
 | android, iOS, Desktop | Name | Name | 名称  | 名前  | Nama | Nama |
