@@ -185,7 +185,7 @@
   <string name="bold" platform="android">粗体</string>
   <string name="Books" platform="iOS">图书</string>
   <string name="bot_dock_empty" platform="android">长按并拖拽机器人置顶</string>
-  <string name="bot_empty_tip" platform="android, iOS">可以添加你喜欢的机器人</string>
+  <string name="bot_empty_tip" platform="android, iOS">可以收藏你喜欢的机器人</string>
   <string name="bot_not_auth_yet" platform="android">还未授权此机器人任何权限</string>
   <string name="Bot_not_found" platform="android, iOS, Desktop">找不到这个机器人</string>
   <string name="bot_pin_hint" platform="iOS">可将常用机器人长按拖至此处，可显示于首页</string>
