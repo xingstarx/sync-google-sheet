@@ -1750,4 +1750,7 @@
   <string name="link_desktop" platform="android,iOS">Link Desktop</string>
   <string name="link_desktop_description" platform="android,iOS">Link Mixin Messenger Desktop by QR code</string>
   <string name="leave_message_to_team_mixin" platform="android,iOS">Leave a message to Team Mixin</string>
+  <string name="favorite" platform="android,iOS">Favorite</string>
+  <string name="my_favorite_bots" platform="android,iOS">My Favorite Bots</string>
+  <string name="add_or_remove_favorite_bots" platform="android,iOS">Add or remove favorite bots</string>
 </resources>

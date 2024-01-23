@@ -1751,3 +1751,6 @@
 | android,iOS | link_desktop | Link Desktop | 链接桌面端 |     |     |     |
 | android,iOS | link_desktop_description | Link Mixin Messenger Desktop by QR code | 通过二维码链接桌面端 |     |     |     |
 | android,iOS | leave_message_to_team_mixin | Leave a message to Team Mixin | 给 Team Mixin 留言 |     |     |     |
+| android,iOS | favorite | Favorite | 收藏  |     |     |     |
+| android,iOS | my_favorite_bots | My Favorite Bots | 我收藏的机器人 |     |     |     |
+| android,iOS | add_or_remove_favorite_bots | Add or remove favorite bots | 收藏或移除机器人 |     |     |     |
