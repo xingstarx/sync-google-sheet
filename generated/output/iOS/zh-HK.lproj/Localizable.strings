@@ -23,7 +23,7 @@
 "add_credit_or_debit_card" = "添加信用卡或借記卡";
 "add_emergency_contact" = "添加緊急聯繫人";
 "add_memo" = "點擊添加 Memo（備註）";
-"add_or_remove_favorite_bots" = "收藏或移除機器人";
+"add_or_remove_favorite_bots" = "添加或刪除收藏的機器人";
 "add_participants" = "添加成員";
 "add_sticker" = "添加貼紙";
 "add_stickers" = "添加貼紙";
@@ -257,11 +257,11 @@
 "contact_count" = "%d位聯繫人";
 "contact_count_count" = "%d位聯繫人";
 "contact_developer" = "聯繫開發者";
+"contact_favorite_bots_title" = "%@收藏的機器人";
 "contact_invite_content" = "我正在使用 Mixin 聊天。下載：https://mixin.one/messenger";
 "contact_mixin_id" = "Mixin ID：%@";
 "contact_mobile" = "手機：%@";
 "contact_phone_contact_hint" = "上傳你的手機通訊錄，如果你的通訊錄中有朋友已經註冊了 Mixin，系統會幫你自動添加為好友";
-"contact_share_bots_title" = "%@分享的機器人";
 "contact_support" = "聯繫客服";
 "contact_title" = "聯繫人";
 "contacts" = "聯繫人";
@@ -627,9 +627,9 @@
 "muted_until" = "已靜音至 %@";
 "my_contacts" = "我的聯繫人";
 "my_favorite_bots" = "我收藏的機器人";
+"my_favorite_bots" = "我收藏的機器人";
 "my_mixin_id" = "我的 Mixin ID：%@";
 "my_qr_code" = "我的二維碼";
-"my_shared_bots" = "我分享的機器人";
 "my_stickers" = "我的表情";
 "na" = "暫無價格";
 "name" = "名稱";

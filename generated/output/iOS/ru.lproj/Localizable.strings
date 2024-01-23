@@ -257,11 +257,11 @@
 "contact_count" = "%d контакт";
 "contact_count_count" = "%d контакты";
 "contact_developer" = "Связаться с разработчиком";
+"contact_favorite_bots_title" = "%@'s Favorite Bots";
 "contact_invite_content" = "Привет, я использую Mixin Messenger для общения. Загрузите его здесь: https://mixin.one/messenger";
 "contact_mixin_id" = "Идентификатор Mixin: %@";
 "contact_mobile" = "Мобильный: %@";
 "contact_phone_contact_hint" = "Загрузите мобильные контакты, чтобы найти других друзей Mixin.";
-"contact_share_bots_title" = "Общие боты пользователя %@";
 "contact_support" = "Contact Support";
 "contact_title" = "Контакты";
 "contacts" = "КОНТАКТЫ";
@@ -627,9 +627,9 @@
 "muted_until" = "Приглушено до %@";
 "my_contacts" = "Мои контакты";
 "my_favorite_bots" = "My Favorite Bots";
+"my_favorite_bots" = "My Favorite Bots";
 "my_mixin_id" = "Мой Mixin ID: %@";
 "my_qr_code" = "Мой QR-код";
-"my_shared_bots" = "Мои общие боты";
 "my_stickers" = "Мои стикеры";
 "na" = "Нет данных";
 "name" = "Имя";

@@ -344,7 +344,7 @@
   <string name="contact_mute_title" platform="android, Desktop">靜音通知</string>
   <string name="contact_new_group_chat_desc" platform="android">創建一個最多支持 256 人的羣</string>
   <string name="contact_phone_contact_hint" platform="iOS">上傳你的手機通訊錄，如果你的通訊錄中有朋友已經註冊了 Mixin，系統會幫你自動添加為好友</string>
-  <string name="contact_share_bots_title" platform="android, iOS">%1$s分享的機器人</string>
+  <string name="contact_favorite_bots_title" platform="android, iOS">%1$s收藏的機器人</string>
   <string name="contact_title" platform="iOS, Desktop">聯繫人</string>
   <string name="CONTACTS" platform="android, iOS">聯繫人</string>
   <string name="content_audio" platform="android, iOS">[語音]</string>
@@ -863,7 +863,7 @@
   <string name="My_Contacts" platform="android, iOS">我的聯繫人</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">我的 Mixin ID：%1$s</string>
   <string name="My_QR_Code" platform="android, iOS">我的二維碼</string>
-  <string name="My_shared_bots" platform="android, iOS">我分享的機器人</string>
+  <string name="My_favorite_bots" platform="android, iOS">我收藏的機器人</string>
   <string name="My_Stickers" platform="android, iOS, Desktop">我的表情</string>
   <string name="NA" platform="android, iOS, Desktop">暫無價格</string>
   <string name="Name" platform="android, iOS, Desktop">名稱</string>
@@ -1724,6 +1724,6 @@
   <string name="leave_message_to_team_mixin" platform="android,iOS">給 Team Mixin 留言</string>
   <string name="favorite" platform="android,iOS">收藏</string>
   <string name="my_favorite_bots" platform="android,iOS">我收藏的機器人</string>
-  <string name="add_or_remove_favorite_bots" platform="android,iOS">收藏或移除機器人</string>
+  <string name="add_or_remove_favorite_bots" platform="android,iOS">添加或刪除收藏的機器人</string>
   <string name="max_favorite_bots_description" platform="android,iOS">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
 </resources>

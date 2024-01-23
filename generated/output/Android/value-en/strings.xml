@@ -285,12 +285,12 @@
 	</plurals>
 	<string name="Contact_Developer">Contact Developer</string>
 	<string name="contact_empty_tip">Mixin needs access your contacts to help you connect with other people on Mixin.</string>
+	<string name="contact_favorite_bots_title">%1$s\'s Favorite Bots</string>
 	<string name="contact_invite_content">Hey, I\'m using Mixin Messenger to chat. Download it here: https://mixin.one/messenger</string>
 	<string name="contact_mixin_id">Mixin ID: %1$s</string>
 	<string name="contact_mobile">Mobile: %1$s</string>
 	<string name="contact_mute_title">Mute notifications for…</string>
 	<string name="contact_new_group_chat_desc">Create a group chat with up to  friends</string>
-	<string name="contact_share_bots_title">%1$s\'s Shared Bots</string>
 	<string name="contact_support">Contact Support</string>
 	<string name="CONTACTS">CONTACTS</string>
 	<string name="content_audio">[Audio]</string>
@@ -703,9 +703,9 @@
 	<string name="Mute_until">Until %1$s</string>
 	<string name="My_Contacts">My Contacts</string>
 	<string name="my_favorite_bots">My Favorite Bots</string>
+	<string name="My_favorite_bots">My Favorite Bots</string>
 	<string name="my_mixin_id">My Mixin ID: %1$s</string>
 	<string name="My_QR_Code">My QR Code</string>
-	<string name="My_shared_bots">My shared bots</string>
 	<string name="My_Stickers">My Stickers</string>
 	<string name="NA">N/A</string>
 	<string name="Name">Name</string>

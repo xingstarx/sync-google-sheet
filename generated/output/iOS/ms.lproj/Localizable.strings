@@ -258,11 +258,11 @@
 "contact_count" = "%d contact";
 "contact_count_count" = "%d kenalan";
 "contact_developer" = "Hubungi Pembangun";
+"contact_favorite_bots_title" = "%@'s Favorite Bots";
 "contact_invite_content" = "Hei, saya menggunakan Mixin Messenger untuk sembang. Muat turun di sini: https://mixin.one/messenger .";
 "contact_mixin_id" = "Mixin ID: %@";
 "contact_mobile" = "Mudah alih: %@";
 "contact_phone_contact_hint" = "Upload mobile contacts to find other Mixin friends.";
-"contact_share_bots_title" = "Aplikasi Dikongsi %@";
 "contact_support" = "Contact Support";
 "contact_title" = "Contacts";
 "contacts" = "KENALAN";
@@ -628,9 +628,9 @@
 "muted_until" = "Muted until %@";
 "my_contacts" = "Kenalan Saya";
 "my_favorite_bots" = "My Favorite Bots";
+"my_favorite_bots" = "My Favorite Bots";
 "my_mixin_id" = "ID Mixin Saya: %@";
 "my_qr_code" = "Kod QR saya";
-"my_shared_bots" = "Aplikasi kongsi saya";
 "my_stickers" = "My Stickers";
 "na" = "N/A";
 "name" = "Nama";

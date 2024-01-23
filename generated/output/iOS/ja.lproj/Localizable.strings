@@ -257,11 +257,11 @@
 "contact_count" = "%dの連絡先";
 "contact_count_count" = "%dの連絡先";
 "contact_developer" = "開発者情報";
+"contact_favorite_bots_title" = "%@'s Favorite Bots";
 "contact_invite_content" = "Mixinを使いませんか？ ここからダウンロードしてください: https://mixin.one/messenger";
 "contact_mixin_id" = "Mixin ID: %@";
 "contact_mobile" = "モバイル: %@";
 "contact_phone_contact_hint" = "スマホの連絡帳と同期して友だちを自動追加";
-"contact_share_bots_title" = "%@\のシェアしたミニアプリ";
 "contact_support" = "Contact Support";
 "contact_title" = "連絡先";
 "contacts" = "連絡先";
@@ -627,9 +627,9 @@
 "muted_until" = "%@までミュートする";
 "my_contacts" = "連絡先";
 "my_favorite_bots" = "My Favorite Bots";
+"my_favorite_bots" = "My Favorite Bots";
 "my_mixin_id" = "マイMixin ID:%@";
 "my_qr_code" = "マイQRコード";
-"my_shared_bots" = "プロフィールに追加ずみのミニアプリ";
 "my_stickers" = "マイスタンプ";
 "na" = "なし";
 "name" = "名前";

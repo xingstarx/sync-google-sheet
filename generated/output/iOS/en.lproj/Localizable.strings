@@ -257,11 +257,11 @@
 "contact_count" = "%d contact";
 "contact_count_count" = "%d contacts";
 "contact_developer" = "Contact Developer";
+"contact_favorite_bots_title" = "%@'s Favorite Bots";
 "contact_invite_content" = "Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger";
 "contact_mixin_id" = "Mixin ID: %@";
 "contact_mobile" = "Mobile: %@";
 "contact_phone_contact_hint" = "Upload mobile contacts to find other Mixin friends.";
-"contact_share_bots_title" = "%@'s Shared Bots";
 "contact_support" = "Contact Support";
 "contact_title" = "Contacts";
 "contacts" = "CONTACTS";
@@ -627,9 +627,9 @@
 "muted_until" = "Muted until %@";
 "my_contacts" = "My Contacts";
 "my_favorite_bots" = "My Favorite Bots";
+"my_favorite_bots" = "My Favorite Bots";
 "my_mixin_id" = "My Mixin ID: %@";
 "my_qr_code" = "My QR Code";
-"my_shared_bots" = "My shared bots";
 "my_stickers" = "My Stickers";
 "na" = "N/A";
 "name" = "Name";

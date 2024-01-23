@@ -33,7 +33,7 @@
 	<string name="Add_emergency_contact">新增緊急聯絡人</string>
 	<string name="Add_group_description">新增群公告</string>
 	<string name="Add_memo">點選新增 Memo（備註）</string>
-	<string name="add_or_remove_favorite_bots">收藏或移除機器人</string>
+	<string name="add_or_remove_favorite_bots">新增或刪除收藏的機器人</string>
 	<string name="Add_participants">新增成員</string>
 	<string name="Add_people_hint">透過 Mixin ID 或手機號新增聯絡人</string>
 	<string name="add_people_search_hint">Mixin ID 或手機號</string>
@@ -280,12 +280,12 @@
 	</plurals>
 	<string name="Contact_Developer">聯絡開發者</string>
 	<string name="contact_empty_tip">Mixin 需要訪問你的通訊錄來幫助你更快找到你的朋友。</string>
+	<string name="contact_favorite_bots_title">%1$s收藏的機器人</string>
 	<string name="contact_invite_content">我正在使用 Mixin 聊天。下載：https://mixin.one/messenger</string>
 	<string name="contact_mixin_id">Mixin ID：%1$s</string>
 	<string name="contact_mobile">手機：%1$s</string>
 	<string name="contact_mute_title">靜音通知</string>
 	<string name="contact_new_group_chat_desc">建立一個最多支援 256 人的群</string>
-	<string name="contact_share_bots_title">%1$s分享的機器人</string>
 	<string name="contact_support">聯絡客服</string>
 	<string name="CONTACTS">聯絡人</string>
 	<string name="content_audio">[語音]</string>
@@ -685,9 +685,9 @@
 	<string name="Mute_until">直到 %1$s</string>
 	<string name="My_Contacts">我的聯絡人</string>
 	<string name="my_favorite_bots">我收藏的機器人</string>
+	<string name="My_favorite_bots">我收藏的機器人</string>
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二維碼</string>
-	<string name="My_shared_bots">我分享的機器人</string>
 	<string name="My_Stickers">我的表情</string>
 	<string name="NA">暫無價格</string>
 	<string name="Name">名稱</string>
