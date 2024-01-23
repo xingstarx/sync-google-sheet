@@ -1723,7 +1723,6 @@
   <string name="link_desktop_description" platform="android,iOS">透過二維碼連結桌面端</string>
   <string name="leave_message_to_team_mixin" platform="android,iOS">給 Team Mixin 留言</string>
   <string name="favorite" platform="android,iOS">收藏</string>
-  <string name="my_favorite_bots" platform="android,iOS">我收藏的機器人</string>
   <string name="add_or_remove_favorite_bots" platform="android,iOS">新增或刪除收藏的機器人</string>
   <string name="max_favorite_bots_description" platform="android,iOS">最多可以新增 5 個喜歡的機器人，注意其他人可以在你的個人資訊彈窗裡檢視這些你喜歡的機器人。</string>
 </resources>

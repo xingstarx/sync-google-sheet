@@ -684,7 +684,6 @@
 	<string name="Mute">静音</string>
 	<string name="Mute_until">直到 %1$s</string>
 	<string name="My_Contacts">我的联系人</string>
-	<string name="my_favorite_bots">我收藏的机器人</string>
 	<string name="My_favorite_bots">我收藏的机器人</string>
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二维码</string>

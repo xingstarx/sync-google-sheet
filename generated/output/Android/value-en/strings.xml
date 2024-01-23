@@ -702,7 +702,6 @@
 	<string name="Mute">Mute</string>
 	<string name="Mute_until">Until %1$s</string>
 	<string name="My_Contacts">My Contacts</string>
-	<string name="my_favorite_bots">My Favorite Bots</string>
 	<string name="My_favorite_bots">My Favorite Bots</string>
 	<string name="my_mixin_id">My Mixin ID: %1$s</string>
 	<string name="My_QR_Code">My QR Code</string>
