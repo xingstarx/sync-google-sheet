@@ -350,7 +350,7 @@
 | android, Desktop | contact_mute_title | Mute notifications for… | 静音通知 | 通知をミュート | Senyapkan pemberitahuan untuk… | Matikan notifikasi selama… |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | 创建一个最多支持 256 人的群 | 友達と新しいグループチャットを作成 | Buat kumpulan sembang dengan sehingga rakan | Buat obrolan grup dengan maksimal teman |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |     |     |
-| android, iOS | contact_share_bots_title | %1$s's Shared Bots | %1$s分享的机器人 | %1$s\のシェアしたミニアプリ | Aplikasi Dikongsi %1$s | Aplikasi Bersama %1$s |
+| android, iOS | contact_favorite_bots_title | %1$s's Favorite Bots | %1$s收藏的机器人 |     |     |     |
 | iOS, Desktop | contact_title | Contacts | 联系人 | 連絡先 |     |     |
 | android, iOS | CONTACTS | CONTACTS | 联系人 | 連絡先 | KENALAN | KONTAK |
 | android, iOS | content_audio | [Audio] | [语音] | [音声メッセージ] | [Audio] | [Audio] |
