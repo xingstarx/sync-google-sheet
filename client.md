@@ -350,7 +350,7 @@
 | android, Desktop | contact_mute_title | Mute notifications for… | 静音通知 | 通知をミュート | Senyapkan pemberitahuan untuk… | Matikan notifikasi selama… |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | 创建一个最多支持 256 人的群 | 友達と新しいグループチャットを作成 | Buat kumpulan sembang dengan sehingga rakan | Buat obrolan grup dengan maksimal teman |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |     |     |
-| android, iOS | contact_share_bots_title | %1$s's Shared Bots | %1$s分享的机器人 | %1$s\のシェアしたミニアプリ | Aplikasi Dikongsi %1$s | Aplikasi Bersama %1$s |
+| android, iOS | contact_favorite_bots_title | %1$s's Favorite Bots | %1$s收藏的机器人 |     |     |     |
 | iOS, Desktop | contact_title | Contacts | 联系人 | 連絡先 |     |     |
 | android, iOS | CONTACTS | CONTACTS | 联系人 | 連絡先 | KENALAN | KONTAK |
 | android, iOS | content_audio | [Audio] | [语音] | [音声メッセージ] | [Audio] | [Audio] |
@@ -882,7 +882,7 @@
 | android, iOS | My_Contacts | My Contacts | 我的联系人 | 連絡先 | Kenalan Saya | Kontak Saya |
 | android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | 我的 Mixin ID：%1$s | マイMixin ID:%1$s | ID Mixin Saya: %1$s | ID Mixin saya: %1$s |
 | android, iOS | My_QR_Code | My QR Code | 我的二维码 | マイQRコード | Kod QR saya | Kode QR saya |
-| android, iOS | My_shared_bots | My shared bots | 我分享的机器人 | プロフィールに追加ずみのミニアプリ | Aplikasi kongsi saya | Aplikasi bersama saya |
+| android, iOS | My_favorite_bots | My Favorite Bots | 我收藏的机器人 |     |     |     |
 | android, iOS, Desktop | My_Stickers | My Stickers | 我的表情 | マイスタンプ |     |     |
 | android, iOS, Desktop | NA  | N/A | 暂无价格 | なし  | N/A | N/A |
 | android, iOS, Desktop | Name | Name | 名称  | 名前  | Nama | Nama |
@@ -1753,5 +1753,5 @@
 | android,iOS | leave_message_to_team_mixin | Leave a message to Team Mixin | 给 Team Mixin 留言 |     |     |     |
 | android,iOS | favorite | Favorite | 收藏  |     |     |     |
 | android,iOS | my_favorite_bots | My Favorite Bots | 我收藏的机器人 |     |     |     |
-| android,iOS | add_or_remove_favorite_bots | Add or remove favorite bots | 收藏或移除机器人 |     |     |     |
+| android,iOS | add_or_remove_favorite_bots | Add or remove favorite bots | 添加或删除收藏的机器人 |     |     |     |
 | android,iOS | max_favorite_bots_description | You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile. | 最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。 |     |     |     |

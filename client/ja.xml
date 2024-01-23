@@ -304,7 +304,6 @@
   <string name="contact_mute_title" platform="android, Desktop">通知をミュート</string>
   <string name="contact_new_group_chat_desc" platform="android">友達と新しいグループチャットを作成</string>
   <string name="contact_phone_contact_hint" platform="iOS">スマホの連絡帳と同期して友だちを自動追加</string>
-  <string name="contact_share_bots_title" platform="android, iOS">%1$s\のシェアしたミニアプリ</string>
   <string name="contact_title" platform="iOS, Desktop">連絡先</string>
   <string name="CONTACTS" platform="android, iOS">連絡先</string>
   <string name="content_audio" platform="android, iOS">[音声メッセージ]</string>
@@ -769,7 +768,6 @@
   <string name="My_Contacts" platform="android, iOS">連絡先</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">マイMixin ID:%1$s</string>
   <string name="My_QR_Code" platform="android, iOS">マイQRコード</string>
-  <string name="My_shared_bots" platform="android, iOS">プロフィールに追加ずみのミニアプリ</string>
   <string name="My_Stickers" platform="android, iOS, Desktop">マイスタンプ</string>
   <string name="NA" platform="android, iOS, Desktop">なし</string>
   <string name="Name" platform="android, iOS, Desktop">名前</string>
