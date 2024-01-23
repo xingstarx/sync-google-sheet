@@ -23,6 +23,7 @@
 "add_credit_or_debit_card" = "新增信用卡或簽帳金融卡";
 "add_emergency_contact" = "新增緊急聯絡人";
 "add_memo" = "點選新增 Memo（備註）";
+"add_or_remove_favorite_bots" = "收藏或移除機器人";
 "add_participants" = "新增成員";
 "add_sticker" = "新增貼紙";
 "add_stickers" = "新增貼紙";
@@ -458,6 +459,7 @@
 "failed_to_send_photo" = "傳送圖片失敗，請稍後重試";
 "failed_to_send_video" = "傳送影片失敗，請稍後重試";
 "fast" = "快速";
+"favorite" = "收藏";
 "fee" = "手續費";
 "feedback" = "反饋";
 "fees_by_gateway" = "支付閘道器費用";
@@ -552,10 +554,13 @@
 "last_years" = "最近 %@ 年";
 "later" = "稍後";
 "learn_more" = "瞭解更多";
+"leave_message_to_team_mixin" = "給 Team Mixin 留言";
 "legacy_network_transfer_hint" = "當前轉賬使用的是舊網路";
 "light" = "淺色";
 "line_busy" = "忙線未接聽";
 "line_busy_remote" = "對方忙";
+"link_desktop" = "連結桌面端";
+"link_desktop_description" = "透過二維碼連結桌面端";
 "link_recognition_failure" = "連結識別失敗";
 "link_shareable_false" = "該連結已被設定為不允許分享";
 "links" = "連結";
@@ -585,6 +590,7 @@
 "manage_bots" = "管理機器人";
 "manage_your_apps" = "管理你所有的機器人";
 "manage_your_circles" = "管理你所有的圈子";
+"max_favorite_bots_description" = "最多可以新增 5 個喜歡的機器人，注意其他人可以在你的個人資訊彈窗裡檢視這些你喜歡的機器人。";
 "media" = "媒體";
 "memo" = "備註";
 "message_e2ee" = "此對話中的訊息使用端對端加密。點選瞭解更多。";
@@ -620,6 +626,7 @@
 "muted" = "已靜音";
 "muted_until" = "已靜音至 %@";
 "my_contacts" = "我的聯絡人";
+"my_favorite_bots" = "我收藏的機器人";
 "my_mixin_id" = "我的 Mixin ID：%@";
 "my_qr_code" = "我的二維碼";
 "my_shared_bots" = "我分享的機器人";
@@ -1012,6 +1019,7 @@
 "system" = "跟隨系統";
 "system_time_is_unusual" = "系統時間異常";
 "tag" = "Tag（標籤）";
+"take_a_photo" = "拍攝照片";
 "tap_to_join" = "點選加入";
 "terms_of_service" = "服務條款";
 "text" = "資訊";

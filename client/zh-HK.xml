@@ -1718,4 +1718,12 @@
   <string name="Waiting_transaction" platform="android,iOS">正在等待交易</string>
   <string name="Waiting_transaction_description" platform="android,iOS">您有一筆轉賬或提現未完成，請稍後再試</string>
   <string name="Explore" platform="android,iOS">探索</string>
+  <string name="take_a_photo" platform="android,iOS">拍攝照片</string>
+  <string name="link_desktop" platform="android,iOS">鏈接桌面端</string>
+  <string name="link_desktop_description" platform="android,iOS">通過二維碼鏈接桌面端</string>
+  <string name="leave_message_to_team_mixin" platform="android,iOS">給 Team Mixin 留言</string>
+  <string name="favorite" platform="android,iOS">收藏</string>
+  <string name="my_favorite_bots" platform="android,iOS">我收藏的機器人</string>
+  <string name="add_or_remove_favorite_bots" platform="android,iOS">收藏或移除機器人</string>
+  <string name="max_favorite_bots_description" platform="android,iOS">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
 </resources>

@@ -33,6 +33,7 @@
 	<string name="Add_emergency_contact">添加紧急联系人</string>
 	<string name="Add_group_description">添加群公告</string>
 	<string name="Add_memo">点击添加 Memo（备注）</string>
+	<string name="add_or_remove_favorite_bots">收藏或移除机器人</string>
 	<string name="Add_participants">添加成员</string>
 	<string name="Add_people_hint">通过 Mixin ID 或手机号添加联系人</string>
 	<string name="add_people_search_hint">Mixin ID 或手机号</string>
@@ -500,6 +501,7 @@
 	<string name="Extract_QR_Code">识别二维码</string>
 	<string name="Failure">错误</string>
 	<string name="fast">快速</string>
+	<string name="favorite">收藏</string>
 	<string name="Fee">手续费</string>
 	<string name="Feedback">反馈</string>
 	<string name="fees_by_gateway">支付网关费用</string>
@@ -604,9 +606,12 @@
 	<string name="Last_years">最近 %1$s 年</string>
 	<string name="Later">稍后</string>
 	<string name="Learn_More">了解更多</string>
+	<string name="leave_message_to_team_mixin">给 Team Mixin 留言</string>
 	<string name="legacy_network_transfer_hint">当前转账使用的是旧网络</string>
 	<string name="Line_busy">忙线未接听</string>
 	<string name="Line_busy_remote">对方忙</string>
+	<string name="link_desktop">链接桌面端</string>
+	<string name="link_desktop_description">通过二维码链接桌面端</string>
 	<string name="Link_desktop_failed">登录桌面端失败</string>
 	<string name="Link_desktop_success">登录桌面端成功</string>
 	<string name="Links">链接</string>
@@ -642,6 +647,7 @@
 	<string name="Manager_Sticker">管理贴纸</string>
 	<string name="Manufacturer">生产商</string>
 	<string name="Mark_as_read">标记为已读</string>
+	<string name="max_favorite_bots_description">最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。</string>
 	<string name="Media">媒体</string>
 	<string name="Memo">备注</string>
 	<string name="message">消息</string>
@@ -678,6 +684,7 @@
 	<string name="Mute">静音</string>
 	<string name="Mute_until">直到 %1$s</string>
 	<string name="My_Contacts">我的联系人</string>
+	<string name="my_favorite_bots">我收藏的机器人</string>
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二维码</string>
 	<string name="My_shared_bots">我分享的机器人</string>
@@ -1078,6 +1085,7 @@
 	<string name="System_options">管理通知</string>
 	<string name="System_version">系统版本</string>
 	<string name="Tag">Tag（标签）</string>
+	<string name="take_a_photo">拍摄照片</string>
 	<string name="Tap_to_join">点击加入</string>
 	<string name="Terms_of_Service">服务条款</string>
 	<string name="Text">文字</string>

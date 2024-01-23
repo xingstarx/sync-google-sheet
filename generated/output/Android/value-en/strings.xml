@@ -33,6 +33,7 @@
 	<string name="Add_emergency_contact">Add emergency contact</string>
 	<string name="Add_group_description">Add group description</string>
 	<string name="Add_memo">Add Memo</string>
+	<string name="add_or_remove_favorite_bots">Add or remove favorite bots</string>
 	<string name="Add_participants">Add Participants</string>
 	<string name="Add_people_hint">Add people by Mixin ID or phone number</string>
 	<string name="add_people_search_hint">Mixin ID or Phone number</string>
@@ -509,6 +510,7 @@
 	<string name="Extract_QR_Code">Extract QR Code</string>
 	<string name="Failure">Failure</string>
 	<string name="fast">Fast</string>
+	<string name="favorite">Favorite</string>
 	<string name="Fee">Fee</string>
 	<string name="Feedback">Feedback</string>
 	<string name="fees_by_gateway">Fees by Processor</string>
@@ -620,9 +622,12 @@
 	<string name="Last_years">Last %1$s  years</string>
 	<string name="Later">Later</string>
 	<string name="Learn_More">Learn More</string>
+	<string name="leave_message_to_team_mixin">Leave a message to Team Mixin</string>
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
+	<string name="link_desktop">Link Desktop</string>
+	<string name="link_desktop_description">Link Mixin Messenger Desktop by QR code</string>
 	<string name="Link_desktop_failed">Link desktop failed</string>
 	<string name="Link_desktop_success">Link desktop success</string>
 	<string name="Links">Links</string>
@@ -659,6 +664,7 @@
 	<string name="Manager_Sticker">Manager Sticker</string>
 	<string name="Manufacturer">Manufacturer</string>
 	<string name="Mark_as_read">Mark as read</string>
+	<string name="max_favorite_bots_description">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
 	<string name="Media">Media</string>
 	<string name="Memo">Memo</string>
 	<string name="message">message</string>
@@ -696,6 +702,7 @@
 	<string name="Mute">Mute</string>
 	<string name="Mute_until">Until %1$s</string>
 	<string name="My_Contacts">My Contacts</string>
+	<string name="my_favorite_bots">My Favorite Bots</string>
 	<string name="my_mixin_id">My Mixin ID: %1$s</string>
 	<string name="My_QR_Code">My QR Code</string>
 	<string name="My_shared_bots">My shared bots</string>
@@ -1099,6 +1106,7 @@
 	<string name="System_options">System options</string>
 	<string name="System_version">System version</string>
 	<string name="Tag">Tag</string>
+	<string name="take_a_photo">Take a photo</string>
 	<string name="Tap_to_join">Tap to join</string>
 	<string name="Terms_of_Service">Terms of Service</string>
 	<string name="Text">Text</string>
