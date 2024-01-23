@@ -1747,3 +1747,11 @@
 | android,iOS | Waiting_transaction | Waiting Transaction | 正在等待交易 |     |     |     |
 | android,iOS | Waiting_transaction_description | You have a transfer or withdrawal has not been completed, please try again later | 您有一笔转账或提现未完成，请稍后再试 |     |     |     |
 | android,iOS | Explore | Explore | 探索  |     |     |     |
+| android,iOS | take_a_photo | Take a photo | 拍摄照片 |     |     |     |
+| android,iOS | link_desktop | Link Desktop | 链接桌面端 |     |     |     |
+| android,iOS | link_desktop_description | Link Mixin Messenger Desktop by QR code | 通过二维码链接桌面端 |     |     |     |
+| android,iOS | leave_message_to_team_mixin | Leave a message to Team Mixin | 给 Team Mixin 留言 |     |     |     |
+| android,iOS | favorite | Favorite | 收藏  |     |     |     |
+| android,iOS | my_favorite_bots | My Favorite Bots | 我收藏的机器人 |     |     |     |
+| android,iOS | add_or_remove_favorite_bots | Add or remove favorite bots | 收藏或移除机器人 |     |     |     |
+| android,iOS | max_favorite_bots_description | You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile. | 最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。 |     |     |     |
