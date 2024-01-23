@@ -1754,4 +1754,4 @@
 | android,iOS | favorite | Favorite | 收藏  |     |     |     |
 | android,iOS | my_favorite_bots | My Favorite Bots | 我收藏的机器人 |     |     |     |
 | android,iOS | add_or_remove_favorite_bots | Add or remove favorite bots | 收藏或移除机器人 |     |     |     |
-|     |     |     | 最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。 |     |     |     |
+| android,iOS | max_favorite_bots_description | You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile. | 最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。 |     |     |     |
