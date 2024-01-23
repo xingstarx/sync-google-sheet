@@ -1749,4 +1749,5 @@
   <string name="take_a_photo" platform="android,iOS">Take a photo</string>
   <string name="link_desktop" platform="android,iOS">Link Desktop</string>
   <string name="link_desktop_description" platform="android,iOS">Link Mixin Messenger Desktop by QR code</string>
+  <string name="leave_message_to_team_mixin" platform="android,iOS">Leave a message to Team Mixin</string>
 </resources>
