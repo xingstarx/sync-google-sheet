@@ -1721,4 +1721,5 @@
   <string name="take_a_photo" platform="android,iOS">拍摄照片</string>
   <string name="link_desktop" platform="android,iOS">链接桌面端</string>
   <string name="link_desktop_description" platform="android,iOS">通过二维码链接桌面端</string>
+  <string name="leave_message_to_team_mixin" platform="android,iOS">给 Team Mixin 留言</string>
 </resources>
