@@ -1710,7 +1710,7 @@
   <string name="take_a_photo" platform="android,iOS">拍摄照片</string>
   <string name="link_desktop" platform="android,iOS">链接桌面端</string>
   <string name="link_desktop_description" platform="android,iOS">通过二维码链接桌面端</string>
-  <string name="leave_message_to_team_mixin" platform="android,iOS">给 Team Mixin 留言</string>
+  <string name="leave_message_to_team_mixin" platform="android,iOS">给 Mixin 客服留言</string>
   <string name="favorite" platform="android,iOS">收藏</string>
   <string name="add_or_remove_favorite_bots" platform="android,iOS">添加或删除收藏的机器人</string>
   <string name="max_favorite_bots_description" platform="android,iOS">最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。</string>
