@@ -84,7 +84,7 @@
   <string name="Blocked" platform="android, iOS">Disekat</string>
   <string name="bold" platform="android">tebal</string>
   <string name="bot_dock_empty" platform="android">Tekan lama dan seret bot ke bahagian atas</string>
-  <string name="bot_empty_tip" platform="android, iOS">Sila masukkan bot kegemaran anda terlebih dahulu.</string>
+  <string name="bot_empty_tip" platform="android">Sila masukkan bot kegemaran anda terlebih dahulu.</string>
   <string name="Bot_not_found" platform="android, iOS, Desktop">Aplikasi tidak dijumpai</string>
   <string name="BOTS" platform="android, iOS, Desktop">BOT</string>
   <string name="bots_title" platform="android, iOS, Desktop">Bot</string>

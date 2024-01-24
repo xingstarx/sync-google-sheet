@@ -188,10 +188,9 @@
 | android | bold | bold | 粗体  | 太字  | tebal |     |
 | iOS | Books | Books | 图书  | 書物  |     |     |
 | android | bot_dock_empty | Long press and drag the bot to the top | 长按并拖拽机器人置顶 | ミニアプリを長押しして上部にドラッグします | Tekan lama dan seret bot ke bahagian atas | Tekan lama dan seret bot ke atas |
-| android, iOS | bot_empty_tip | Please add your favorite bot first. | 可以收藏你喜欢的机器人 | 最初にお気に入りのミニアプリを追加してください | Sila masukkan bot kegemaran anda terlebih dahulu. | Harap tambahkan bot favorit Anda terlebih dahulu. |
+| android | bot_empty_tip | Please add your favorite bot first. | 可以收藏你喜欢的机器人 | 最初にお気に入りのミニアプリを追加してください | Sila masukkan bot kegemaran anda terlebih dahulu. | Harap tambahkan bot favorit Anda terlebih dahulu. |
 | android | bot_not_auth_yet | No permission has been granted to this bot | 还未授权此机器人任何权限 | このミニアプリへのアクセス許可がありません |     |     |
 | android, iOS, Desktop | Bot_not_found | Bot not found | 找不到这个机器人 | ミニアプリが見つかりません | Aplikasi tidak dijumpai | Aplikasi tidak ditemukan |
-| iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home | 可将常用机器人长按拖至此处，可显示于首页 | お気に入りのミニアプリを長押ししてドラッグし、ここに表示できます。 |     |     |
 | android, iOS, Desktop | BOTS | BOTS | 机器人 | ミニアプリ | BOT | BOT |
 | android, iOS, Desktop | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
 | android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。 | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! |     |

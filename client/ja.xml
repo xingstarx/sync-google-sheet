@@ -161,10 +161,9 @@
   <string name="bold" platform="android">太字</string>
   <string name="Books" platform="iOS">書物</string>
   <string name="bot_dock_empty" platform="android">ミニアプリを長押しして上部にドラッグします</string>
-  <string name="bot_empty_tip" platform="android, iOS">最初にお気に入りのミニアプリを追加してください</string>
+  <string name="bot_empty_tip" platform="android">最初にお気に入りのミニアプリを追加してください</string>
   <string name="bot_not_auth_yet" platform="android">このミニアプリへのアクセス許可がありません</string>
   <string name="Bot_not_found" platform="android, iOS, Desktop">ミニアプリが見つかりません</string>
-  <string name="bot_pin_hint" platform="iOS">お気に入りのミニアプリを長押ししてドラッグし、ここに表示できます。</string>
   <string name="BOTS" platform="android, iOS, Desktop">ミニアプリ</string>
   <string name="bots_title" platform="android, iOS, Desktop">Myミニアプリ一覧</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。</string>

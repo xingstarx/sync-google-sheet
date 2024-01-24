@@ -81,7 +81,7 @@
   <string name="block_tip" platform="android, iOS">Pengguna yang diblokir tidak dapat mengirimi Anda pesan atau menambahkan Anda ke grup.</string>
   <string name="Blocked" platform="android, iOS">Diblokir</string>
   <string name="bot_dock_empty" platform="android">Tekan lama dan seret bot ke atas</string>
-  <string name="bot_empty_tip" platform="android, iOS">Harap tambahkan bot favorit Anda terlebih dahulu.</string>
+  <string name="bot_empty_tip" platform="android">Harap tambahkan bot favorit Anda terlebih dahulu.</string>
   <string name="Bot_not_found" platform="android, iOS, Desktop">Aplikasi tidak ditemukan</string>
   <string name="BOTS" platform="android, iOS, Desktop">BOT</string>
   <string name="bots_title" platform="android, iOS, Desktop">Bot</string>
