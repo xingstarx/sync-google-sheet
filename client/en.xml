@@ -185,7 +185,6 @@
   <string name="Blocked" platform="android, iOS">Blocked</string>
   <string name="Blocked_Users" platform="android, iOS">Blocked Users</string>
   <string name="bold" platform="android">bold</string>
-  <string name="Books" platform="iOS">Books</string>
   <string name="bot_dock_empty" platform="android">Long press and drag the bot to the top</string>
   <string name="bot_empty_tip" platform="android">Please add your favorite bot first.</string>
   <string name="bot_not_auth_yet" platform="android">No permission has been granted to this bot</string>
@@ -194,7 +193,6 @@
   <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
-  <string name="Business" platform="iOS">Business</string>
   <string name="Call" platform="android, iOS">Call</string>
   <string name="Call_declined" platform="android, iOS">Call declined</string>
   <string name="call_encryption_description" platform="android, iOS">No one outside of this call can view or listen to it. Not even Mixin.</string>
@@ -523,7 +521,6 @@
   <string name="edit_image_clear_warning" platform="Desktop">All changes will be lost. Are you sure you want to exit?</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">Edit Name</string>
   <string name="edit_profile" platform="Desktop">Edit Profile</string>
-  <string name="Education" platform="iOS">Education</string>
   <string name="Emergency_Contact" platform="android, iOS">Emergency Contact</string>
   <string name="Empty_address_book" platform="android">Empty address book</string>
   <string name="Enable_after_1_minute" platform="android">Enabled after 1 minute</string>
@@ -657,7 +654,6 @@
   <string name="Friday" platform="android">Friday</string>
   <string name="From" platform="android, iOS, Desktop">From</string>
   <string name="from_with_colon" platform="Desktop">From: </string>
-  <string name="Games" platform="iOS">Games</string>
   <string name="generating" platform="iOS">Generating...</string>
   <string name="Generating_keys" platform="android,iOS">Generating keys...</string>
   <string name="Get_a_new_wallet" platform="android, iOS">Get a new wallet</string>
@@ -871,7 +867,6 @@
   <string name="multisig_state_signed" platform="android, iOS">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
   <string name="multisig_state_unlocked" platform="android, iOS">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">Multisig Transaction</string>
-  <string name="Music" platform="iOS">Music</string>
   <string name="Mute" platform="android, iOS">Mute</string>
   <string name="mute" platform="Desktop">Mute</string>
   <string name="Mute_until" platform="android, iOS">Until %1$s</string>
@@ -907,7 +902,6 @@
   <string name="new_version_available" platform="Desktop">New version available</string>
   <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now?</string>
   <string name="new_wallet_hint" platform="android, iOS">Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.</string>
-  <string name="News" platform="iOS">News</string>
   <string name="Next" platform="android, iOS, Desktop">Next</string>
   <string name="next_conversation" platform="Desktop">Next conversation</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">NO AUDIO</string>
@@ -1351,7 +1345,6 @@
   <string name="share_to" platform="android">Share %1$s to…</string>
   <string name="Share_To" platform="iOS">Share To</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Shared Media</string>
-  <string name="Shopping" platform="iOS">Shopping</string>
   <string name="Show" platform="android, iOS, Desktop">Show</string>
   <string name="Show Selected" platform="iOS,android">Show Selected(%1$s)</string>
   <string name="Show_asset" platform="iOS">Show asset</string>
@@ -1376,7 +1369,6 @@
   <string name="smileys_and_people" platform="Desktop">Smileys &amp; People</string>
   <string name="snapshot_Hash" platform="android, iOS, Desktop">Snapshot Hash</string>
   <string name="Snapshot_not_found" platform="iOS">Snapshot not found.</string>
-  <string name="Social" platform="iOS">Social</string>
   <string name="Sort" platform="android">Sort</string>
   <string name="Sort_by" platform="android, iOS">Sort by</string>
   <string name="Start" platform="android,iOS">Start</string>
@@ -1441,12 +1433,10 @@
   <string name="To" platform="android, iOS, Desktop">To</string>
   <string name="Today" platform="android, iOS, Desktop">Today</string>
   <string name="toggle_chat_info" platform="Desktop">Toggle chat info</string>
-  <string name="Tools" platform="iOS">Tools</string>
   <string name="Touch_ID" platform="iOS">Touch ID</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">Touch the fingerprint sensor</string>
   <string name="Trace" platform="android, Desktop">Trace</string>
   <string name="Track_not_found" platform="iOS">Track not found</string>
-  <string name="Trading" platform="iOS">Trading</string>
   <string name="Transaction" platform="android, iOS">Transaction</string>
   <string name="transaction_failed" platform="android, iOS">Transaction Failed</string>
   <string name="transaction_Hash" platform="android, iOS, Desktop">Transaction Hash</string>

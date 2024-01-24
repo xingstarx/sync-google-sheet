@@ -186,7 +186,6 @@
 | android, iOS | Blocked | Blocked | 已屏蔽 | ブロック中 | Disekat | Diblokir |
 | android, iOS | Blocked_Users | Blocked Users | 屏蔽名单 | ブロック中のユーザー |     |     |
 | android | bold | bold | 粗体  | 太字  | tebal |     |
-| iOS | Books | Books | 图书  | 書物  |     |     |
 | android | bot_dock_empty | Long press and drag the bot to the top | 长按并拖拽机器人置顶 | ミニアプリを長押しして上部にドラッグします | Tekan lama dan seret bot ke bahagian atas | Tekan lama dan seret bot ke atas |
 | android | bot_empty_tip | Please add your favorite bot first. | 可以收藏你喜欢的机器人 | 最初にお気に入りのミニアプリを追加してください | Sila masukkan bot kegemaran anda terlebih dahulu. | Harap tambahkan bot favorit Anda terlebih dahulu. |
 | android | bot_not_auth_yet | No permission has been granted to this bot | 还未授权此机器人任何权限 | このミニアプリへのアクセス許可がありません |     |     |
@@ -195,7 +194,6 @@
 | android, iOS, Desktop | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
 | android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。 | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! |     |
 | Desktop | bring_all_to_front | Bring All To Front | 前置所有窗口 |     |     |     |
-| iOS | Business | Business | 商业  | ビジネス |     |     |
 | android, iOS | Call | Call | 语音  | 電話  |     |     |
 | android, iOS | Call_declined | Call declined | 对方已拒绝 | 応答拒否 | Panggilan ditolak | Panggilan ditolak |
 | android, iOS | call_encryption_description | No one outside of this call can view or listen to it. Not even Mixin. | 除了参与通话的人，其他人包含 Mixin 在内都无法听取或查看。 | この電話はMixinを含む外部から盗聴不可能です |     |     |
@@ -524,7 +522,6 @@
 | Desktop | edit_image_clear_warning | All changes will be lost. Are you sure you want to exit? | 退出将会清除此次所有的改动。 | すべての変更が失われます。本当に終了しますか？ |     |     |
 | android, iOS, Desktop | Edit_Name | Edit Name | 修改昵称 | 名前を変更 | Edit Nama | Edit Nama |
 | Desktop | edit_profile | Edit Profile | 编辑资料 | プロフィールを編集 |     |     |
-| iOS | Education | Education | 教育  | 教育  |     |     |
 | android, iOS | Emergency_Contact | Emergency Contact | 紧急联系人 | 緊急連絡先 | Kenalan kecemasan | Kontak darurat |
 | android | Empty_address_book | Empty address book | 通讯录内容为空 | アドレス帳になにもありません | Kosongkan buku alamat | Buku alamat kosong |
 | android | Enable_after_1_minute | Enabled after 1 minute | 在 1 分钟之后启动 | 1分後に有効化する |     |     |
@@ -658,7 +655,6 @@
 | android | Friday | Friday | 星期五 | 金曜日 | Jumaat | Jumat |
 | android, iOS, Desktop | From | From | 来自  | より  |     |     |
 | Desktop | from_with_colon | From:  | 来自：  | アイコンより： |     |     |
-| iOS | Games | Games | 游戏  | ゲーム |     |     |
 | iOS | generating | Generating... | 正在生成... |     |     |     |
 | android,iOS | Generating_keys | Generating keys... | 正在创建密钥... |     |     |     |
 | android, iOS | Get_a_new_wallet | Get a new wallet | 创建钱包 | 新たなウォレットを作成 |     |     |
@@ -872,7 +868,6 @@
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS, Desktop | Multisig_Transaction | Multisig Transaction | 多重签名交易 | マルチシグトランザクション | Transaksi Multisig | Transaksi Multisig |
-| iOS | Music | Music | 音乐  | 音楽  |     |     |
 | android, iOS | Mute | Mute | 静音  | ミュート | Senyap | Bisukan |
 | Desktop | mute | Mute | 静音  |     |     |     |
 | android, iOS | Mute_until | Until %1$s | 直到 %1$s | %1$sまで | Sehingga %1$s | Hingga %1$s |
@@ -908,7 +903,6 @@
 | Desktop | new_version_available | New version available | 发现新版本 | 最新版の公開 |     |     |
 | Desktop | new_version_description | Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now? | 发现新版本 Mixin Messenger %1$s，当前版本为 %2$s。是否要下载最新的版本？ | Mixin%1$sが利用可能です。今すぐアップデートしますか？ |     |     |
 | android, iOS | new_wallet_hint | Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency. | 创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。 | 簡単に仮想通貨をやり取りできるウォレットを作成しよう！ |     |     |
-| iOS | News | News | 新闻  | ニュース |     |     |
 | android, iOS, Desktop | Next | Next | 下一步 | 次へ  | Seterusnya | Berikutnya |
 | Desktop | next_conversation | Next conversation | 下一个会话 | 次のチャットルーム |     |     |
 | android, iOS, Desktop | NO_AUDIO | NO AUDIO | 没有音频 | 音声メッセージがありません | TIADA AUDIO | TIDAK ADA SUARA |
@@ -1352,7 +1346,6 @@
 | android | share_to | Share %1$s to… | 分享%1$s到… | 共有する | Kongsi %1$s ke… | Bagikan %1$s ke… |
 | iOS | Share_To | Share To | 分享给 | 共有する |     |     |
 | android, iOS, Desktop | Shared_Media | Shared Media | 媒体内容 | 共有されたメディア | Media Berkongsi | Media Bersama |
-| iOS | Shopping | Shopping | 购物  | 買い物 |     |     |
 | android, iOS, Desktop | Show | Show | 显示  | 表示  | Tunjuk | Tampilkan |
 | iOS,android | Show Selected | Show Selected(%1$s) | 显示选择（%1$s） |     |     |     |
 | iOS | Show_asset | Show asset | 显示资产 | 資産を表示する |     |     |
@@ -1377,7 +1370,6 @@
 | Desktop | smileys_and_people | Smileys & People | 表情符号与人物 |     |     |     |
 | android, iOS, Desktop | snapshot_Hash | Snapshot Hash | 快照哈希 |     |     |     |
 | iOS | Snapshot_not_found | Snapshot not found. | 找不到该转账记录。 | スナップショットは見つかりません |     |     |
-| iOS | Social | Social | 社交  | ソーシャル |     |     |
 | android | Sort | Sort | 排序  | 並びかえ | Susun | Urutkan |
 | android, iOS | Sort_by | Sort by | 顺序  | 並びかえ項目 |     |     |
 | android,iOS | Start | Start | 开始  |     |     |     |
@@ -1442,12 +1434,10 @@
 | android, iOS, Desktop | To  | To  | 至   | 宛先  |     |     |
 | android, iOS, Desktop | Today | Today | 今天  | 今日  | Hari ini | Hari ini |
 | Desktop | toggle_chat_info | Toggle chat info | 展开/关闭会话信息 | チャット情報のオン/オフ |     |     |
-| iOS | Tools | Tools | 工具  | ツール |     |     |
 | iOS | Touch_ID | Touch ID | 指纹  | 指紋認証 |     |     |
 | android | Touch_the_fingerprint_sensor | Touch the fingerprint sensor | 触摸指纹传感器 | 指紋センサーにタッチしてください |     |     |
 | android, Desktop | Trace | Trace |     | 記録情報 | Jejak |     |
 | iOS | Track_not_found | Track not found | Track 无效 | トラックが見つかりません |     |     |
-| iOS | Trading | Trading | 交易  | トレード |     |     |
 | android, iOS | Transaction | Transaction | 交易详情 | トランザクション | Urus Niaga | Transaksi |
 | android, iOS | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
 | android, iOS, Desktop | transaction_Hash | Transaction Hash | 交易哈希 | トランザクションハッシュ | Urus niaga Cincangan | Hash Transaksi |
