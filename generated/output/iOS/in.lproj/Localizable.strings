@@ -130,13 +130,9 @@
 "block_tip" = "Pengguna yang diblokir tidak dapat mengirimi Anda pesan atau menambahkan Anda ke grup.";
 "blocked" = "Diblokir";
 "blocked_users" = "Blocked Users";
-"books" = "Books";
-"bot_empty_tip" = "Harap tambahkan bot favorit Anda terlebih dahulu.";
 "bot_not_found" = "Aplikasi tidak ditemukan";
-"bot_pin_hint" = "You can long press and drag the frequently used bots here to display them on the home";
 "bots" = "BOT";
 "bots_title" = "Bot";
-"business" = "Business";
 "buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
@@ -386,7 +382,6 @@
 "edit_group_description" = "Edit deskripsi grup";
 "edit_group_name" = "Edit Nama";
 "edit_name" = "Edit Nama";
-"education" = "Education";
 "emergency_contact" = "Kontak darurat";
 "enable_emergency_contact" = "Aktifkan Kontak Darurat";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
@@ -478,7 +473,6 @@
 "fourth_pin_confirm_hint" = "Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang.";
 "free" = "FREE";
 "from" = "From";
-"games" = "Games";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Get a new wallet";
@@ -620,7 +614,6 @@
 "multisig_state_signed" = "Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda.";
 "multisig_state_unlocked" = "Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda.";
 "multisig_transaction" = "Transaksi Multisig";
-"music" = "Music";
 "mute" = "Bisukan";
 "mute_until" = "Hingga %@";
 "muted" = "Muted";
@@ -645,7 +638,6 @@
 "new_name" = "new name";
 "new_price" = "New Price";
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
-"news" = "News";
 "next" = "Berikutnya";
 "no_audio" = "TIDAK ADA SUARA";
 "no_authorizations" = "Tidak ada aplikasi yang diizinkan";
@@ -970,7 +962,6 @@
 "share_message_description_empty" = "Yakin ingin mengirim %@?";
 "share_to" = "Share To";
 "shared_media" = "Media Bersama";
-"shopping" = "Shopping";
 "show" = "Tampilkan";
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
@@ -986,7 +977,6 @@
 "slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Snapshot not found.";
-"social" = "Social";
 "sort_by" = "Sort by";
 "start" = "Start";
 "start_messaging" = "Mulai Mengirim Pesan";
@@ -1037,10 +1027,8 @@
 "to" = "To";
 "today" = "Hari ini";
 "token_amount" = "Token Amount";
-"tools" = "Tools";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
-"trading" = "Trading";
 "transaction" = "Transaksi";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Hash Transaksi";

@@ -130,13 +130,9 @@
 "block_tip" = "Pengguna yang disekat tidak dapat mengirim anda pesan atau menambahkan anda ke kumpulan.";
 "blocked" = "Disekat";
 "blocked_users" = "Blocked Users";
-"books" = "Books";
-"bot_empty_tip" = "Sila masukkan bot kegemaran anda terlebih dahulu.";
 "bot_not_found" = "Aplikasi tidak dijumpai";
-"bot_pin_hint" = "You can long press and drag the frequently used bots here to display them on the home";
 "bots" = "BOT";
 "bots_title" = "Bot";
-"business" = "Business";
 "buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
@@ -387,7 +383,6 @@
 "edit_group_description" = "Edit keterangan kumpulan";
 "edit_group_name" = "Edit Nama";
 "edit_name" = "Edit Nama";
-"education" = "Education";
 "emergency_contact" = "Kenalan kecemasan";
 "enable_emergency_contact" = "Bolehkan Kenalan Kecemasan";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
@@ -479,7 +474,6 @@
 "fourth_pin_confirm_hint" = "Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang.";
 "free" = "FREE";
 "from" = "From";
-"games" = "Games";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Get a new wallet";
@@ -621,7 +615,6 @@
 "multisig_state_signed" = "Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua.";
 "multisig_state_unlocked" = "Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.";
 "multisig_transaction" = "Transaksi Multisig";
-"music" = "Music";
 "mute" = "Senyap";
 "mute_until" = "Sehingga %@";
 "muted" = "Muted";
@@ -646,7 +639,6 @@
 "new_name" = "new name";
 "new_price" = "New Price";
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
-"news" = "News";
 "next" = "Seterusnya";
 "no_audio" = "TIADA AUDIO";
 "no_authorizations" = "Tiada aplikasi autentik";
@@ -971,7 +963,6 @@
 "share_message_description_empty" = "Adakah anda pasti mahu menghantar %@?";
 "share_to" = "Share To";
 "shared_media" = "Media Berkongsi";
-"shopping" = "Shopping";
 "show" = "Tunjuk";
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
@@ -987,7 +978,6 @@
 "slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Snapshot not found.";
-"social" = "Social";
 "sort_by" = "Sort by";
 "start" = "Start";
 "start_messaging" = "Mulakan Pemesejan";
@@ -1038,10 +1028,8 @@
 "to" = "To";
 "today" = "Hari ini";
 "token_amount" = "Token Amount";
-"tools" = "Tools";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
-"trading" = "Trading";
 "transaction" = "Urus Niaga";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Urus niaga Cincangan";
