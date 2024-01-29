@@ -1390,6 +1390,7 @@
   <string name="System_options" platform="android">管理通知</string>
   <string name="System_time_is_unusual" platform="iOS">系统时间异常</string>
   <string name="System_version" platform="android">系统版本</string>
+  <string name="suspend_deposit" platform="android, iOS">%1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。</string>
   <string name="Tag" platform="android, iOS">Tag（标签）</string>
   <string name="Tap_to_join" platform="android, iOS">点击加入</string>
   <string name="Terms_of_Service" platform="android, iOS, Desktop">服务条款</string>

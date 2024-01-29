@@ -1412,6 +1412,7 @@
 | android | System_options | System options | 管理通知 | システムオプション | Pilihan sistem | Opsi sistem     |
 | iOS | System_time_is_unusual | System time is unusual | 系统时间异常 | システム時刻に問題があります |     |     |
 | android | System_version | System version | 系统版本 | System version |     |     |
+| android, iOS | suspend_deposit | The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable. | %1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。 |     |     |     |
 | android, iOS | Tag | Tag | Tag（标签） | タグ  | Tag | Tag |
 | android, iOS | Tap_to_join | Tap to join | 点击加入 | タップして参加 | Ketuk untuk sertai | Ketuk untuk bergabung |
 | android, iOS, Desktop | Terms_of_Service | Terms of Service | 服务条款 | 利用規約 | Terma Perkhidmatan | Ketentuan Layanan |
