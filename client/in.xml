@@ -315,6 +315,7 @@
   <string name="in_connecting" platform="android, iOS">Menyambungkan…</string>
   <string name="Incoming_voice_call" platform="android, iOS">Panggilan suara masuk</string>
   <string name="Initializing" platform="android, iOS, Desktop">Memulai...</string>
+  <string name="insufficient_balance" platform="android, iOS">Saldo tidak cukup</string>
   <string name="Invalid_Link" platform="android">Tautan Tidak Valid</string>
   <string name="Invalid_payment_link" platform="android, iOS">Pembayaran tidak valid</string>
   <string name="Invalid_sticker_format" platform="android">Format stiker tidak valid</string>
@@ -698,5 +699,4 @@
   <string name="withdrawal_with_PIN" platform="android">Penarikan dengan PIN</string>
   <string name="You" platform="android, iOS, Desktop">Anda</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Anda menghapus pesan ini</string>
-  <string name="insufficient_balance" platform="android, iOS">Saldo tidak cukup</string>
 </resources>
