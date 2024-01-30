@@ -13,6 +13,7 @@
   <string name="About" platform="android, iOS, Desktop">About</string>
   <string name="about_version" platform="android">Version %1$s</string>
   <string name="Accept" platform="android">Accept</string>
+  <string name="accepted_cards" platform="android, iOS">Accepted cards: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
@@ -31,14 +32,17 @@
   <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
+  <string name="add_card" platform="android, iOS">Add Card</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
   <string name="Add_conversations" platform="android, iOS">Add Conversations</string>
+  <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
   <string name="Add_emergency_contact" platform="android, iOS">Add emergency contact</string>
   <string name="add_file" platform="Desktop">Add File</string>
   <string name="Add_group_description" platform="android, Desktop">Add group description</string>
   <string name="Add_memo" platform="android, iOS">Add Memo</string>
+  <string name="add_or_remove_favorite_bots" platform="android,iOS">Add or remove favorite bots</string>
   <string name="Add_participants" platform="android, iOS, Desktop">Add Participants</string>
   <string name="Add_people_hint" platform="android">Add people by Mixin ID or phone number</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin ID or Phone number</string>
@@ -116,6 +120,7 @@
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
   <string name="animals_and_nature" platform="Desktop">Animals &amp; Nature</string>
+  <string name="Anonymous" platform="android,iOS,Desktop">Anonymous</string>
   <string name="Anonymous_Number" platform="Desktop, android, iOS">Anonymous Number</string>
   <string name="ANSWER" platform="android">ANSWER</string>
   <string name="app_card_share_disallow" platform="Desktop">Disallow sharing of this URL</string>
@@ -128,6 +133,8 @@
   <string name="Apply" platform="android, iOS">Apply</string>
   <string name="archived_folder" platform="Desktop">archived folder</string>
   <string name="Asset_Key" platform="android, iOS">Asset Key</string>
+  <string name="Asset_Migration" platform="android,iOS">Network Upgrade</string>
+  <string name="asset_migration_hint" platform="android, iOS">You have assets in the legacy network, please view here.</string>
   <string name="Asset_not_found" platform="android, iOS">Asset not found.</string>
   <string name="Asset_Type" platform="iOS, Desktop">Asset Type</string>
   <string name="ASSETS" platform="android, iOS">ASSETS</string>
@@ -193,6 +200,15 @@
   <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
+  <string name="buy" platform="android, iOS">Buy</string>
+  <string name="buy_asset" platform="android, iOS">Buy %1$s</string>
+  <string name="buy_failed" platform="android, iOS">Failed</string>
+  <string name="buy_failed_description" platform="android, iOS">There was a problem processing the transaction, please try again later.</string>
+  <string name="buy_success" platform="android, iOS">Success</string>
+  <string name="buy_success_description" platform="android, iOS">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
+  <string name="buying_limitation" platform="android, iOS">Minimum %1$s, Maximum %2$s</string>
+  <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
+  <string name="calculating" platform="android, iOS">Calculating…</string>
   <string name="Call" platform="android, iOS">Call</string>
   <string name="Call_declined" platform="android, iOS">Call declined</string>
   <string name="call_encryption_description" platform="android, iOS">No one outside of this call can view or listen to it. Not even Mixin.</string>
@@ -211,6 +227,7 @@
   <string name="can_not_recognize_qr_code" platform="android, Desktop">Can not recognize the QR code</string>
   <string name="Cancel" platform="android, iOS, Desktop">Cancel</string>
   <string name="Cancel_Floating" platform="android, iOS">Cancel Floating</string>
+  <string name="cancel_order" platform="android, iOS">Cancel Order</string>
   <string name="Canceled" platform="android, iOS">Cancelled</string>
   <string name="Canceled_by_caller" platform="android, iOS">Cancelled by caller</string>
   <string name="Cant_receive_the_code" platform="android, iOS">Can't receive the code?</string>
@@ -219,6 +236,9 @@
   <string name="caption_send" platform="iOS">Send</string>
   <string name="Card" platform="android, Desktop">Card</string>
   <string name="card" platform="iOS">card</string>
+  <string name="card_number" platform="android, iOS">Card number</string>
+  <string name="card_number_error" platform="android, iOS">Please enter a valid card number</string>
+  <string name="cardholder_name" platform="android, iOS">Cardholder name</string>
   <string name="category_chats" platform="iOS">Chats</string>
   <string name="Chain" platform="android, iOS">Chain</string>
   <string name="Change" platform="android, iOS, Desktop">Change</string>
@@ -239,6 +259,7 @@
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s changed disappearing message settings.</string>
   <string name="Changing" platform="android">Changing...</string>
   <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">Changing PIN terminated unexpectedly, click "Continue" to complete the change</string>
+  <string name="chat" platform="Desktop">Chat</string>
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
   <string name="chat_audio_warning" platform="android">You cannot play audio if your're already on play another audio.</string>
@@ -279,6 +300,7 @@
   <string name="chat_text_size" platform="android, Desktop, iOS">Chat Text Size</string>
   <string name="Chat_unpinned" platform="android">Chat unpinned</string>
   <string name="chat_waiting" platform="android, iOS">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
+  <string name="chat_with_us" platform="android, iOS">Chat with us</string>
   <string name="CHATS" platform="android, iOS">CHATS</string>
   <string name="Chats_Count" platform="iOS,android">1 chat</string>
   <string name="Chats_Counts" platform="iOS,android">%1$s chats</string>
@@ -318,6 +340,8 @@
   <string name="collapse" platform="Desktop">Collapse</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">Combine and forward</string>
+  <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
+  <string name="coming_soon_to_your_region" platform="iOS">Coming soon to your region!</string>
   <string name="Compress_Database" platform="iOS">Compress Database</string>
   <string name="Compressed" platform="iOS">Compressed</string>
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
@@ -326,6 +350,7 @@
   <string name="Confirm_PIN" platform="android">Confirm PIN</string>
   <string name="confirm_sync_chats_from_phone" platform="Desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="confirm_sync_chats_to_phone" platform="Desktop">Are you sure to sync the chat history to the phone?</string>
+  <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android, iOS">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
@@ -334,19 +359,22 @@
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="connection_failed" platform="android, iOS">Connection Failed</string>
   <string name="Connection_unstable" platform="android, iOS">Connection unstable</string>
+  <string name="consolidation_utxo" platform="android,iOS">Consolidation UTXO</string>
+  <string name="consolidation_utxo_description" platform="android,iOS">Your number of UTXOs exceeds 256. For sending experience, please enter the PIN to consolidating UTXOs before operating.</string>
   <string name="Contact" platform="android, iOS, Desktop">Contact</string>
   <string name="contact_category" platform="iOS">contact</string>
   <string name="contact_count" platform="android, iOS">%1$d contact</string>
   <string name="contact_count.count" platform="android, iOS">%1$d contacts</string>
   <string name="Contact_Developer" platform="android, iOS">Contact Developer</string>
   <string name="contact_empty_tip" platform="android">Mixin needs access your contacts to help you connect with other people on Mixin.</string>
+  <string name="contact_favorite_bots_title" platform="android, iOS">%1$s's Favorite Bots</string>
   <string name="contact_invite_content" platform="android, iOS">Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger</string>
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Mobile: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Mute notifications for…</string>
   <string name="contact_new_group_chat_desc" platform="android">Create a group chat with up to  friends</string>
   <string name="contact_phone_contact_hint" platform="iOS">Upload mobile contacts to find other Mixin friends.</string>
-  <string name="contact_favorite_bots_title" platform="android, iOS">%1$s's Favorite Bots</string>
+  <string name="contact_support" platform="android,iOS">Contact Support</string>
   <string name="contact_title" platform="iOS, Desktop">Contacts</string>
   <string name="CONTACTS" platform="android, iOS">CONTACTS</string>
   <string name="content_audio" platform="android, iOS">[Audio]</string>
@@ -387,8 +415,7 @@
   <string name="Copy_invite" platform="android, iOS, Desktop">Copy Invite Link</string>
   <string name="Copy_link" platform="android, iOS, Desktop">Copy Link</string>
   <string name="Copy_User_Id" platform="iOS">Copy User ID</string>
-  <string name="consolidation_utxo" platform="android,iOS">Consolidation UTXO</string>
-  <string name="consolidation_utxo_description" platform="android,iOS">Your number of UTXOs exceeds 256. For sending experience, please enter the PIN to consolidating UTXOs before operating.</string>
+  <string name="copySelectedText" platform="Desktop">Copy Selected Text</string>
   <string name="Create" platform="android, iOS, Desktop">Create</string>
   <string name="create_circle" platform="Desktop">New Circle</string>
   <string name="create_conversation" platform="Desktop">New Conversation</string>
@@ -424,6 +451,7 @@
   <string name="date_format_month" platform="iOS">E, d MMM</string>
   <string name="date_format_week_date" platform="iOS">E, d MMM yyyy</string>
   <string name="db_debug_warning" platform="android">Attention: If a harmful SQL statement is executed, the result is irreversible!</string>
+  <string name="debit_or_credit_card" platform="android, iOS">Debit / Credit Card</string>
   <string name="Debug_database" platform="android">Debug database</string>
   <string name="Debug_Tools" platform="android">Debug Tools</string>
   <string name="Decline" platform="android">Decline</string>
@@ -436,6 +464,7 @@
   <string name="delete_account_detail_hint" platform="iOS, Desktop">Local messages and iCloud Backups will not be deleted automatically</string>
   <string name="delete_account_hint" platform="android, iOS, Desktop">Delete your account info and profile photo</string>
   <string name="Delete_address" platform="android, iOS">Delete address</string>
+  <string name="delete_card" platform="iOS">Delete Card</string>
   <string name="Delete_Chat" platform="iOS, Desktop">Delete Chat</string>
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Delete Circle</string>
@@ -455,14 +484,17 @@
   <string name="deposit_attention" platform="android, iOS">Please try a small amount for the first deposit.</string>
   <string name="deposit_confirmation" platform="android, iOS">Deposit will arrive %1$d block confirmation</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit will arrive %1$d block confirmations</string>
+  <string name="deposit_dust" platform="android, iOS">Minimum deposit: %1$s %2$s</string>
+  <string name="deposit_hash" platform="android,iOS,Desktop">Deposit Hash</string>
   <string name="deposit_memo_notice" platform="android">Memo is required, or you will lose your coins.</string>
   <string name="deposit_notice" platform="android">Both Memo and Address are required to deposit your %1$s to you account.</string>
-  <string name="deposit_dust" platform="android, iOS">Minimum deposit: %1$s %2$s</string>
   <string name="deposit_tip_btc" platform="android, iOS">This address only supports BTC.</string>
   <string name="deposit_tip_common" platform="android, iOS">This address only supports %1$s.</string>
   <string name="deposit_tip_eos" platform="android, iOS">This address supports all base on EOS tokens.</string>
   <string name="deposit_tip_eth" platform="android, iOS">This address supports all ERC-20 tokens, such as ETH, XIN, etc.</string>
   <string name="deposit_tip_trx" platform="android, iOS">This address supports all TRC-10 and TRC-20 tokens.</string>
+  <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
+  <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
   <string name="Deselect_All" platform="iOS,android">Deselect All</string>
   <string name="Designated_time_period" platform="iOS,android">Designated time period</string>
   <string name="desktop" platform="android">desktop</string>
@@ -533,6 +565,7 @@
   <string name="enable_pay_confirmation" platform="iOS">Enable %@ Pay?</string>
   <string name="enable_touch_pay_hint" platform="iOS">Confirm PIN to enable Touch Pay</string>
   <string name="Enable_web_debug" platform="android">Enable web debug</string>
+  <string name="encrypt_zip_file_with_password" platform="Desktop">Encrypt zip file with password</string>
   <string name="Encrypted" platform="android">Encrypted</string>
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
   <string name="Enter_new_anonymous_number" platform="android, iOS">Enter your new anonymous number</string>
@@ -546,6 +579,7 @@
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
+  <string name="Enter_your_PIN_to_verify" platform="android,iOS">Enter your PIN to verify</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>
   <string name="error_address_exists" platform="android, Desktop">The address does not exist, please make sure that the address is added successfully</string>
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
@@ -554,6 +588,8 @@
   <string name="error_bad_data" platform="android, Desktop">ERROR 10002: The request data has invalid field</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">ERROR 30100: Blockchain not in sync, please try again later.</string>
   <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA is invalid</string>
+  <string name="error_card_expired" platform="android, iOS">ERROR 10601: Card expired</string>
+  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: Card not supported</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Network connection timeout, please try again</string>
   <string name="error_expired_authorization_code" platform="android, iOS">ERROR 20121: Expired authorization code</string>
   <string name="error_full_group" platform="android, iOS, Desktop">ERROR 20116: The group chat is full.</string>
@@ -573,6 +609,8 @@
   <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: The number has reached the limit.</string>
   <string name="error_old_version" platform="android, Desktop">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
   <string name="error_open_location" platform="android, Desktop">Can't find an map app</string>
+  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
+  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: Payment capture failed</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
@@ -582,6 +620,7 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later.</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later.</string>
+  <string name="error_price_expired" platform="android, iOS">ERROR 10602: Price expired</string>
   <string name="error_recaptcha_is_invalid" platform="android, Desktop">ERROR 10004: Recaptcha is invalid</string>
   <string name="error_requires_captcha" platform="iOS">CAPTCHA is required.</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server is under maintenance: %1$d</string>
@@ -603,6 +642,7 @@
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="error_withdrawal_suspend" platform="android, iOS, Desktop">ERROR 20137: Withdrawal suspend.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
+  <string name="exchange_rate" platform="android, iOS">Exchange Rate</string>
   <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%%…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>
@@ -610,6 +650,9 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">Exit group and report inviter</string>
   <string name="exit_without_save" platform="android">Exit without save?</string>
   <string name="Expired" platform="android, iOS">Expired</string>
+  <string name="expiry_date" platform="android, iOS">Expiry Date</string>
+  <string name="expiry_date_error" platform="android, iOS">Please enter a valid expiry date</string>
+  <string name="Explore" platform="android,iOS">Explore</string>
   <string name="Export" platform="iOS">Export</string>
   <string name="Export_Chat" platform="android">Export Chat</string>
   <string name="Export_failed" platform="android, iOS">Export failed</string>
@@ -626,8 +669,12 @@
   <string name="Failed_to_send_video" platform="iOS">Failed to send video</string>
   <string name="Failure" platform="android">Failure</string>
   <string name="fast" platform="android, iOS">Fast</string>
+  <string name="favorite" platform="android,iOS">Favorite</string>
   <string name="Fee" platform="android, iOS, Desktop">Fee</string>
   <string name="Feedback" platform="android, iOS">Feedback</string>
+  <string name="fees_by_gateway" platform="android, iOS">Fees by Processor</string>
+  <string name="fees_by_mixin" platform="android, iOS">Fees by Mixin</string>
+  <string name="fees_explaination" platform="android, iOS">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
   <string name="File" platform="android, iOS, Desktop">File</string>
   <string name="File_chooser_error" platform="android, Desktop">File chooser error</string>
   <string name="File_does_not_exist" platform="android, Desktop">File does not exist</string>
@@ -651,6 +698,7 @@
   <string name="Forward_success" platform="android">Forwarded successfully</string>
   <string name="Forward_to_friend" platform="android">Forward to a friend</string>
   <string name="fourth_pin_confirm_hint" platform="android, iOS">Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost.</string>
+  <string name="free" platform="android,iOS">FREE</string>
   <string name="Friday" platform="android">Friday</string>
   <string name="From" platform="android, iOS, Desktop">From</string>
   <string name="from_with_colon" platform="Desktop">From: </string>
@@ -702,6 +750,8 @@
   <string name="how_are_you" platform="iOS, Desktop">Hi, how are you?</string>
   <string name="i_am_good" platform="iOS, Desktop">I’m good.</string>
   <string name="I_know" platform="android">I know</string>
+  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you a message once your verification has completed.</string>
+  <string name="identity_verifying" platform="android, iOS">Identity Verifying</string>
   <string name="ignore_this_version" platform="Desktop">Ignore the new version</string>
   <string name="image" platform="iOS, Desktop">image</string>
   <string name="image_shareable_false" platform="android, iOS">The image has been set to not allow sharing</string>
@@ -715,6 +765,7 @@
   <string name="Incoming_voice_call" platform="android, iOS">Incoming voice call</string>
   <string name="Info" platform="iOS">Info</string>
   <string name="Initializing" platform="android, iOS, Desktop">Initializing…</string>
+  <string name="insufficient_balance" platform="android, iOS">Insufficient balance</string>
   <string name="Insufficient_transaction_fee" platform="iOS">Insufficient transaction fee</string>
   <string name="Interface_style" platform="iOS">Interface Style</string>
   <string name="Invalid_candidate" platform="iOS">Invalid candidate</string>
@@ -769,10 +820,14 @@
   <string name="Last_years" platform="iOS,android">Last %1$s  years</string>
   <string name="Later" platform="android, iOS">Later</string>
   <string name="Learn_More" platform="android, iOS, Desktop">Learn More</string>
+  <string name="leave_message_to_team_mixin" platform="android,iOS">Leave a message to Team Mixin</string>
+  <string name="legacy_network_transfer_hint" platform="android,iOS">Current transfer is using legacy network</string>
   <string name="less" platform="Desktop">less</string>
   <string name="Light" platform="iOS, Desktop">Light</string>
   <string name="Line_busy" platform="android, iOS">Line busy</string>
   <string name="Line_busy_remote" platform="android, iOS">Line busy</string>
+  <string name="link_desktop" platform="android,iOS">Link Desktop</string>
+  <string name="link_desktop_description" platform="android,iOS">Link Mixin Messenger Desktop by QR code</string>
   <string name="Link_desktop_failed" platform="android">Link desktop failed</string>
   <string name="Link_desktop_success" platform="android">Link desktop success</string>
   <string name="Link_recognition_failure" platform="iOS">Link recognition failure</string>
@@ -825,6 +880,7 @@
   <string name="Manager_Sticker" platform="android">Manager Sticker</string>
   <string name="Manufacturer" platform="android">Manufacturer</string>
   <string name="Mark_as_read" platform="android">Mark as read</string>
+  <string name="max_favorite_bots_description" platform="android,iOS">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
   <string name="Media" platform="android, iOS, Desktop">Media</string>
   <string name="Memo" platform="android, iOS, Desktop">Memo</string>
   <string name="message" platform="android">message</string>
@@ -838,12 +894,14 @@
   <string name="Message_Preview" platform="iOS">Message Preview</string>
   <string name="message_preview_description" platform="Desktop">Preview message text inside new message notifications.</string>
   <string name="Message_sent" platform="android, iOS">Message sent</string>
+  <string name="message_shareable_false" platform="android">The message has been set to not allow sharing.</string>
   <string name="Message_unpinned" platform="android">Message unpinned</string>
   <string name="Messages" platform="android, iOS, Desktop">Messages</string>
   <string name="Messaging_Node" platform="android">Messaging Node</string>
   <string name="Messaging_node_running" platform="android">Messaging node running</string>
   <string name="method_not_supported" platform="android, iOS">Method %1$s is not supported</string>
   <string name="minimize" platform="Desktop">Minimize</string>
+  <string name="minimum_withdrawal" platform="android,iOS">Minimum Withdrawal</string>
   <string name="minute" platform="Desktop">%d Minute</string>
   <string name="Minute" platform="android, iOS">%d Minute</string>
   <string name="minute.count" platform="Desktop">%d Minutes</string>
@@ -862,8 +920,8 @@
   <string name="More" platform="android, iOS, Desktop">More</string>
   <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
   <string name="Multisig_by_PIN" platform="android, iOS">Multisig by PIN</string>
-  <string name="multisig_senders_threshold" platform="android, iOS">Senders (%1$s)</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Receivers (%1$s)</string>
+  <string name="multisig_senders_threshold" platform="android, iOS">Senders (%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
   <string name="multisig_state_unlocked" platform="android, iOS">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">Multisig Transaction</string>
@@ -873,9 +931,9 @@
   <string name="Muted" platform="iOS">Muted</string>
   <string name="Muted_until" platform="iOS">Muted until %@</string>
   <string name="My_Contacts" platform="android, iOS">My Contacts</string>
+  <string name="My_favorite_bots" platform="android, iOS">My Favorite Bots</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">My Mixin ID: %1$s</string>
   <string name="My_QR_Code" platform="android, iOS">My QR Code</string>
-  <string name="My_favorite_bots" platform="android, iOS">My Favorite Bots</string>
   <string name="My_Stickers" platform="android, iOS, Desktop">My Stickers</string>
   <string name="NA" platform="android, iOS, Desktop">N/A</string>
   <string name="Name" platform="android, iOS, Desktop">Name</string>
@@ -899,6 +957,7 @@
   <string name="New_Group_Chat" platform="android, iOS">New Group Chat</string>
   <string name="new_group_name" platform="android">new group name</string>
   <string name="new_name" platform="iOS">new name</string>
+  <string name="new_price" platform="android, iOS">New Price</string>
   <string name="new_version_available" platform="Desktop">New version available</string>
   <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now?</string>
   <string name="new_wallet_hint" platform="android, iOS">Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.</string>
@@ -967,6 +1026,7 @@
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
   <string name="Old_PIN" platform="android">Old PIN</string>
+  <string name="old_price" platform="android, iOS">Old Price</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">One-by-One Forward</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 Hour</string>
   <string name="one_week" platform="android, iOS, Desktop">1 Week</string>
@@ -987,6 +1047,7 @@
   <string name="Operator" platform="android">Operator</string>
   <string name="Optimize_Database" platform="iOS">Optimize Database</string>
   <string name="Optimized" platform="iOS">Optimized</string>
+  <string name="order_confirm" platform="android, iOS">Order Confirm</string>
   <string name="original_image" platform="Desktop">Original</string>
   <string name="OTHER" platform="android">OTHER</string>
   <string name="Other" platform="iOS">Other</string>
@@ -999,11 +1060,12 @@
   <string name="password" platform="Desktop">Password</string>
   <string name="Pause" platform="android">Pause</string>
   <string name="pay_paid" platform="android, iOS">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
-  <string name="Pay_with_biometry_type" platform="iOS">Pay with %@</string>
   <string name="Pay_with_Biometrics" platform="android">Pay with Biometrics</string>
+  <string name="Pay_with_biometry_type" platform="iOS">Pay with %@</string>
   <string name="Pay_with_PIN" platform="android, iOS">Pay with PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Pay with PIN interval</string>
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
+  <string name="payment_method" platform="android, iOS">Payment Method</string>
   <string name="Peer_closed" platform="iOS">Peer closed</string>
   <string name="Peer_not_found" platform="iOS">Peer not found</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmation</string>
@@ -1064,15 +1126,19 @@
   <string name="POST" platform="android">POST</string>
   <string name="Post" platform="android, iOS, Desktop">Post</string>
   <string name="post_sharing" platform="iOS">post</string>
+  <string name="powered_by_mixin_route_prefix" platform="android, iOS">Powered by</string>
+  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route</string>
   <string name="preferences" platform="Desktop">Preferences</string>
   <string name="Preparing" platform="iOS">Preparing...</string>
   <string name="Preparing_progress" platform="iOS">Preparing...(%@)</string>
   <string name="preview_unavailable" platform="android, iOS">Preview unavailable</string>
   <string name="preview_unavailable_description" platform="android, iOS">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
+  <string name="price_expired" platform="android, iOS">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Privacy Policy</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
+  <string name="processing" platform="android, iOS">Processing</string>
   <string name="Profile" platform="iOS">Profile</string>
   <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
@@ -1082,6 +1148,7 @@
   <string name="proxy_connection" platform="Desktop">Connection</string>
   <string name="proxy_type" platform="Desktop">Proxy Type</string>
   <string name="Public_profile" platform="android, iOS">Public profile (required)</string>
+  <string name="purchase_total_amount" platform="android, iOS">Purchase Total Amount</string>
   <string name="QR_Code" platform="android, iOS">QR Code</string>
   <string name="qr_code_camera_code" platform="android">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
   <string name="qr_code_expired_desc" platform="Desktop">QR Code expired, please retry</string>
@@ -1120,6 +1187,7 @@
   <string name="reedit" platform="Desktop">Re-edit</string>
   <string name="Refresh" platform="android, iOS, Desktop">Refresh</string>
   <string name="Refuse" platform="android">Refuse</string>
+  <string name="Registering" platform="android">Registering…</string>
   <string name="Reload" platform="android, iOS">Reload</string>
   <string name="Remove_all" platform="android, iOS">Remove All</string>
   <string name="Remove_all_floats" platform="android, iOS">Remove all floats?</string>
@@ -1234,11 +1302,16 @@
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Secured_by_TIP" platform="android,iOS">Secured by TIP</string>
   <string name="Security" platform="android, iOS, Desktop">Security</string>
+  <string name="security_code" platform="android, iOS">Security code</string>
+  <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
+  <string name="select_a_card" platform="android, iOS">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
+  <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
   <string name="Select_All" platform="iOS,android">Select All</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Emergency Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
+  <string name="select_payment_method" platform="android, iOS">Select Payment Method</string>
   <string name="selected_count" platform="iOS">%@ Selected</string>
   <string name="selected_Item" platform="iOS">Selected 1 Item</string>
   <string name="selected_Item.count" platform="iOS">Selected %1$d Items</string>
@@ -1261,10 +1334,10 @@
   <string name="send_signed_message_confirmation" platform="android, iOS">The message has been signed successfully, click the button below to send or discard the signed message</string>
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
-  <string name="Send_to_Contact" platform="android, iOS">Send to Contact</string>
-  <string name="Send_to_Contact_description" platform="android, iOS">Send crypto to Mixin contact</string>
   <string name="send_to_address" platform="android, iOS">Send to Address</string>
   <string name="send_to_address_description" platform="android, iOS">Send crypto to a wallet or exchange</string>
+  <string name="Send_to_Contact" platform="android, iOS">Send to Contact</string>
+  <string name="Send_to_Contact_description" platform="android, iOS">Send crypto to Mixin contact</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
@@ -1349,6 +1422,7 @@
   <string name="Show Selected" platform="iOS,android">Show Selected(%1$s)</string>
   <string name="Show_asset" platform="iOS">Show asset</string>
   <string name="show_avatar" platform="Desktop">Show avatar</string>
+  <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
   <string name="Show_in_chat" platform="android, iOS">Show in chat</string>
   <string name="show_mixin" platform="Desktop">Show Mixin</string>
   <string name="Shown" platform="android">Shown</string>
@@ -1373,6 +1447,7 @@
   <string name="Sort_by" platform="android, iOS">Sort by</string>
   <string name="Start" platform="android,iOS">Start</string>
   <string name="Start_Messaging" platform="android, iOS">Start Messaging</string>
+  <string name="Start_Migration" platform="android,iOS">Start the migration</string>
   <string name="started_group_call" platform="iOS">%@ has started a group call</string>
   <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
@@ -1397,8 +1472,11 @@
   <string name="strangers" platform="Desktop">Strangers</string>
   <string name="strikethrough" platform="android">strikethrough</string>
   <string name="Successful" platform="android, Desktop, iOS">Successful</string>
+  <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
   <string name="Sunday" platform="android">Sunday</string>
+  <string name="suspended_deposit" platform="android, iOS">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
+  <string name="switch_payment_method" platform="android, iOS">Switch Payment Method</string>
   <string name="Switching_currency" platform="android">Switching currency</string>
   <string name="Symbol" platform="android, iOS">Symbol</string>
   <string name="symbol_withdrawal" platform="android, iOS">%1$s Withdrawal</string>
@@ -1412,6 +1490,7 @@
   <string name="System_time_is_unusual" platform="iOS">System time is unusual</string>
   <string name="System_version" platform="android">System version</string>
   <string name="Tag" platform="android, iOS">Tag</string>
+  <string name="take_a_photo" platform="android,iOS">Take a photo</string>
   <string name="Tap_to_join" platform="android, iOS">Tap to join</string>
   <string name="Terms_of_Service" platform="android, iOS, Desktop">Terms of Service</string>
   <string name="Text" platform="android, Desktop">Text</string>
@@ -1425,14 +1504,15 @@
   <string name="Thursday" platform="android">Thursday</string>
   <string name="Time" platform="android, iOS, Desktop">Time</string>
   <string name="tip_create_pin_title" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet</string>
-  <string name="tip_recovery_failed" platform="android, iOS">TIP private key recovery failed.</string>
   <string name="TIP_creation_introduction" platform="android,iOS">Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
+  <string name="tip_recovery_failed" platform="android, iOS">TIP private key recovery failed.</string>
   <string name="title_participants" platform="android, iOS">%1$d Participant</string>
   <string name="title_participants.count" platform="android, iOS">%1$d Participants</string>
   <string name="To" platform="android, iOS, Desktop">To</string>
   <string name="Today" platform="android, iOS, Desktop">Today</string>
   <string name="toggle_chat_info" platform="Desktop">Toggle chat info</string>
+  <string name="token_amount" platform="android, iOS">Token Amount</string>
   <string name="Touch_ID" platform="iOS">Touch ID</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">Touch the fingerprint sensor</string>
   <string name="Trace" platform="android, Desktop">Trace</string>
@@ -1536,17 +1616,23 @@
   <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
   <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
   <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
+  <string name="use_new_price" platform="android, iOS">Use New Price</string>
   <string name="Use_System_Text_Size" platform="android, iOS">Use System Text Size</string>
   <string name="Use_touch_multisig" platform="iOS">Use Touch Multisig</string>
   <string name="Use_touch_pay" platform="iOS">Use Touch Pay</string>
   <string name="Use_touch_withdraw" platform="iOS">Use Touch Withdraw</string>
   <string name="user_delete_hint" platform="android, iOS, Desktop">The user has deleted his own account.</string>
+  <string name="user_deleted_hint" platform="android">The user has deleted the account.</string>
   <string name="User_is_reported" platform="iOS">User has been reported</string>
   <string name="User_not_found" platform="android, iOS, Desktop">User not found</string>
   <string name="username" platform="Desktop">Username</string>
+  <string name="utxo_count_exceeded" platform="android, iOS">This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.</string>
   <string name="Validation_timed_out" platform="iOS">Validation timed out</string>
   <string name="value_now" platform="android, iOS, Desktop">value now %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">value then %1$s</string>
+  <string name="verification_blocked_description" platform="android, iOS">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
+  <string name="verification_failed" platform="android, iOS">Verification Failed</string>
+  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
   <string name="Verify" platform="android, iOS">Verify</string>
   <string name="Verify_by_Biometric" platform="android">Verify by Biometric</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">Verify PIN</string>
@@ -1568,6 +1654,8 @@
   <string name="Waiting_for_Other_Device_Login" platform="iOS,android">Log in to your current account on the new device and select the option to restore from another phone.</string>
   <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">Connect the new device by scanning the QR code on the top</string>
   <string name="Waiting_for_this_message" platform="android, Desktop">Waiting for this message.</string>
+  <string name="Waiting_transaction" platform="android,iOS">Waiting Transaction</string>
+  <string name="Waiting_transaction_description" platform="android,iOS">You have a transfer or withdrawal has not been completed, please try again later</string>
   <string name="Wallet" platform="android, iOS">Wallet</string>
   <string name="wallet_add_asset_already_hidden" platform="android">Assets %1$s have been hidden by you, want to show them immediately on the wallet homepage?</string>
   <string name="wallet_address_add_tip" platform="android">Mixin does not support withdrawal to the</string>
@@ -1626,6 +1714,7 @@
   <string name="withdrawal_addr_pin_delete" platform="android">Enter PIN to delete address</string>
   <string name="withdrawal_addr_pin_modify" platform="android">Enter PIN to modify address</string>
   <string name="withdrawal_address_tips" platform="android, iOS">For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered!</string>
+  <string name="withdrawal_hash" platform="android,iOS,Desktop">Withdrawal Hash</string>
   <string name="withdrawal_label" platform="android, iOS">Label (e.g. exchanges, wallets, etc.)</string>
   <string name="withdrawal_memo" platform="android, iOS">Memo</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">Minimum withdraw amount is %1$s %2$s</string>
@@ -1633,6 +1722,9 @@
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">Minimum withdrawal: </string>
   <string name="withdrawal_network_fee" platform="android, iOS">Network fee: </string>
   <string name="withdrawal_no_memo" platform="android, iOS">No Memo</string>
+  <string name="withdrawal_pending" platform="android,iOS">Pending</string>
+  <string name="withdrawal_suspended" platform="android,iOS">%1$s Withdrawal Suspended</string>
+  <string name="withdrawal_suspended_description" platform="android,iOS">%1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.</string>
   <string name="withdrawal_to" platform="android, iOS">Withdraw to %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>
@@ -1651,95 +1743,4 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
-  <string name="identity_verifying" platform="android, iOS">Identity Verifying</string>
-  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you a message once your verification has completed.</string>
-  <string name="verification_failed" platform="android, iOS">Verification Failed</string>
-  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
-  <string name="verification_blocked_description" platform="android, iOS">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
-  <string name="chat_with_us" platform="android, iOS">Chat with us</string>
-  <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
-  <string name="buy_asset" platform="android, iOS">Buy %1$s</string>
-  <string name="select_payment_method" platform="android, iOS">Select Payment Method</string>
-  <string name="buying_limitation" platform="android, iOS">Minimum %1$s, Maximum %2$s</string>
-  <string name="add_card" platform="android, iOS">Add Card</string>
-  <string name="order_confirm" platform="android, iOS">Order Confirm</string>
-  <string name="debit_or_credit_card" platform="android, iOS">Debit / Credit Card</string>
-  <string name="accepted_cards" platform="android, iOS">Accepted cards: %1$s</string>
-  <string name="cardholder_name" platform="android, iOS">Cardholder name</string>
-  <string name="card_number" platform="android, iOS">Card number</string>
-  <string name="card_number_error" platform="android, iOS">Please enter a valid card number</string>
-  <string name="expiry_date" platform="android, iOS">Expiry Date</string>
-  <string name="expiry_date_error" platform="android, iOS">Please enter a valid expiry date</string>
-  <string name="security_code" platform="android, iOS">Security code</string>
-  <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
-  <string name="select_a_card" platform="android, iOS">Select a Card</string>
-  <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
-  <string name="payment_method" platform="android, iOS">Payment Method</string>
-  <string name="token_amount" platform="android, iOS">Token Amount</string>
-  <string name="exchange_rate" platform="android, iOS">Exchange Rate</string>
-  <string name="fees_by_gateway" platform="android, iOS">Fees by Processor</string>
-  <string name="fees_by_mixin" platform="android, iOS">Fees by Mixin</string>
-  <string name="purchase_total_amount" platform="android, iOS">Purchase Total Amount</string>
-  <string name="fees_explaination" platform="android, iOS">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
-  <string name="price_expired" platform="android, iOS">Price Expired</string>
-  <string name="use_new_price" platform="android, iOS">Use New Price</string>
-  <string name="old_price" platform="android, iOS">Old Price</string>
-  <string name="new_price" platform="android, iOS">New Price</string>
-  <string name="buy_success" platform="android, iOS">Success</string>
-  <string name="buy_success_description" platform="android, iOS">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
-  <string name="buy_failed" platform="android, iOS">Failed</string>
-  <string name="buy_failed_description" platform="android, iOS">There was a problem processing the transaction, please try again later.</string>
-  <string name="switch_payment_method" platform="android, iOS">Switch Payment Method</string>
-  <string name="cancel_order" platform="android, iOS">Cancel Order</string>
-  <string name="error_card_expired" platform="android, iOS">ERROR 10601: Card expired</string>
-  <string name="error_price_expired" platform="android, iOS">ERROR 10602: Price expired</string>
-  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: Payment capture failed</string>
-  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: Card not supported</string>
-  <string name="calculating" platform="android, iOS">Calculating…</string>
-  <string name="processing" platform="android, iOS">Processing</string>
-  <string name="buy" platform="android, iOS">Buy</string>
-  <string name="delete_card" platform="iOS">Delete Card</string>
-  <string name="powered_by_mixin_route_prefix" platform="android, iOS">Powered by</string>
-  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route</string>
-  <string name="coming_soon_to_your_region" platform="iOS">Coming soon to your region!</string>
-  <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
-  <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
-  <string name="chat" platform="Desktop">Chat</string>
-  <string name="asset_migration_hint" platform="android, iOS">You have assets in the legacy network, please view here.</string>
-  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
-  <string name="insufficient_balance" platform="android, iOS">Insufficient balance</string>
-  <string name="utxo_count_exceeded" platform="android, iOS">This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.</string>
-  <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
-  <string name="Asset_Migration" platform="android,iOS">Network Upgrade</string>
-  <string name="Start_Migration" platform="android,iOS">Start the migration</string>
-  <string name="Enter_your_PIN_to_verify" platform="android,iOS">Enter your PIN to verify</string>
-  <string name="Registering" platform="android">Registering…</string>
-  <string name="deposit_hash" platform="android,iOS,Desktop">Deposit Hash</string>
-  <string name="withdrawal_hash" platform="android,iOS,Desktop">Withdrawal Hash</string>
-  <string name="Anonymous" platform="android,iOS,Desktop">Anonymous</string>
-  <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
-  <string name="copySelectedText" platform="Desktop">Copy Selected Text</string>
-  <string name="legacy_network_transfer_hint" platform="android,iOS">Current transfer is using legacy network</string>
-  <string name="minimum_withdrawal" platform="android,iOS">Minimum Withdrawal</string>
-  <string name="withdrawal_suspended" platform="android,iOS">%1$s Withdrawal Suspended</string>
-  <string name="withdrawal_suspended_description" platform="android,iOS">%1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.</string>
-  <string name="contact_support" platform="android,iOS">Contact Support</string>
-  <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
-  <string name="withdrawal_pending" platform="android,iOS">Pending</string>
-  <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
-  <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
-  <string name="message_shareable_false" platform="android">The message has been set to not allow sharing.</string>
-  <string name="user_deleted_hint" platform="android">The user has deleted the account.</string>
-  <string name="encrypt_zip_file_with_password" platform="Desktop">Encrypt zip file with password</string>
-  <string name="free" platform="android,iOS">FREE</string>
-  <string name="Waiting_transaction" platform="android,iOS">Waiting Transaction</string>
-  <string name="Waiting_transaction_description" platform="android,iOS">You have a transfer or withdrawal has not been completed, please try again later</string>
-  <string name="Explore" platform="android,iOS">Explore</string>
-  <string name="take_a_photo" platform="android,iOS">Take a photo</string>
-  <string name="link_desktop" platform="android,iOS">Link Desktop</string>
-  <string name="link_desktop_description" platform="android,iOS">Link Mixin Messenger Desktop by QR code</string>
-  <string name="leave_message_to_team_mixin" platform="android,iOS">Leave a message to Team Mixin</string>
-  <string name="favorite" platform="android,iOS">Favorite</string>
-  <string name="add_or_remove_favorite_bots" platform="android,iOS">Add or remove favorite bots</string>
-  <string name="max_favorite_bots_description" platform="android,iOS">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
 </resources>

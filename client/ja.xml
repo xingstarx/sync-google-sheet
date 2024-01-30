@@ -623,6 +623,7 @@
   <string name="Incoming_voice_call" platform="android, iOS">着信</string>
   <string name="Info" platform="iOS">プロフィール</string>
   <string name="Initializing" platform="android, iOS, Desktop">初期化中…</string>
+  <string name="insufficient_balance" platform="android, iOS">残高が不足しています</string>
   <string name="Insufficient_transaction_fee" platform="iOS">取引手数料が不足しています</string>
   <string name="Interface_style" platform="iOS">外観モード</string>
   <string name="Invalid_candidate" platform="iOS">無効な候補</string>
@@ -869,8 +870,8 @@
   <string name="participants_count" platform="iOS, Desktop">%@人のメンバー</string>
   <string name="Pause" platform="android">一時停止</string>
   <string name="pay_paid" platform="android, iOS">この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。</string>
-  <string name="Pay_with_biometry_type" platform="iOS">%@で支払う</string>
   <string name="Pay_with_Biometrics" platform="android">生体認証で支払う</string>
+  <string name="Pay_with_biometry_type" platform="iOS">%@で支払う</string>
   <string name="Pay_with_PIN" platform="android, iOS">PINコードで支払う</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PINコードの再確認間隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">額 %@ %@\n手数料 %@ %@</string>
@@ -1391,5 +1392,4 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
-  <string name="insufficient_balance" platform="android, iOS">残高が不足しています</string>
 </resources>
