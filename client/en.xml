@@ -1003,7 +1003,7 @@
   <string name="Not_recognized" platform="android">Not recognized</string>
   <string name="Not_support" platform="android">Not support</string>
   <string name="not_support_biometric" platform="Desktop">This Device is not supported Biometric authentication</string>
-  <string name="not_supported_deposit" platform="android, iOS">Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**.</string>
+  <string name="not_supported_deposit" platform="android">Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**.</string>
   <string name="Not_turn_off_screen_hint" platform="iOS,android">Please do not turn off the screen and keep Mixin in the foreground when synchronizing.</string>
   <string name="Notice" platform="android">Notice</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Notification and Confirmation</string>

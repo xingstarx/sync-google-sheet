@@ -1004,7 +1004,7 @@
 | android | Not_recognized | Not recognized | 无法识别 | 認識できません |     |     |
 | android | Not_support | Not support | 不支持备份 | サポートしていない形式です | Tidak sokong | Tidak didukung |
 | Desktop | not_support_biometric | This Device is not supported Biometric authentication | 此设备不支持生物验证 |     |     |     |
-| android, iOS | not_supported_deposit | Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**. | Mixin 已停止支持 %1$s 的充值服务。您可以继续提现和转账钱包余额中的 %2$s。**了解更多**请阅读文档。 |     |     |     |
+| android | not_supported_deposit | Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**. | Mixin 已停止支持 %1$s 的充值服务。您可以继续提现和转账钱包余额中的 %2$s。**了解更多**请阅读文档。 |     |     |     |
 | iOS,android | Not_turn_off_screen_hint | Please do not turn off the screen and keep Mixin in the foreground when synchronizing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | android | Notice | Notice | 注意  | お知らせ |     |     |
 | android, iOS | Notification_and_Confirmation | Notification and Confirmation | 通知和确认 | 通知・送金確認 | Pemberitahuan dan Pengesahan | Notifikasi dan Konfirmasi |
