@@ -985,7 +985,7 @@
   <string name="Not_recognized" platform="android">无法识别</string>
   <string name="Not_support" platform="android">不支持备份</string>
   <string name="not_support_biometric" platform="Desktop">此设备不支持生物验证</string>
-  <string name="not_supported_deposit" platform="android, iOS">Mixin 已停止支持 %1$s 的充值服务。您可以继续提现和转账钱包余额中的 %2$s。**了解更多**请阅读文档。</string>
+  <string name="not_supported_deposit" platform="android">Mixin 已停止支持 %1$s 的充值服务。您可以继续提现和转账钱包余额中的 %2$s。**了解更多**请阅读文档。</string>
   <string name="Not_turn_off_screen_hint" platform="iOS,android">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="Notice" platform="android">注意</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">通知和确认</string>
