@@ -13,6 +13,7 @@
   <string name="About" platform="android, iOS, Desktop">關於</string>
   <string name="about_version" platform="android">版本 %1$s</string>
   <string name="Accept" platform="android">接聽</string>
+  <string name="accepted_cards" platform="android, iOS">接受以下卡片: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通訊錄到 Mixin 發現更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止訪問</string>
   <string name="Access_to_Contacts" platform="iOS,android">訪問通訊錄</string>
@@ -31,14 +32,17 @@
   <string name="Add_by_ID_or_Phone_number" platform="iOS">透過 Mixin ID 或手機號碼新增</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">透過手機通訊錄新增</string>
   <string name="Add_by_QR_Code" platform="iOS">透過二維碼新增</string>
+  <string name="add_card" platform="android, iOS">新增卡片</string>
   <string name="Add_circle" platform="android, iOS">新增圈子</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">新增聯絡人</string>
   <string name="add_contact_with_plus" platform="Desktop">+ 新增聯絡人</string>
   <string name="Add_conversations" platform="android, iOS">新增會話</string>
+  <string name="add_credit_or_debit_card" platform="android, iOS">新增信用卡或簽帳金融卡</string>
   <string name="Add_emergency_contact" platform="android, iOS">新增緊急聯絡人</string>
   <string name="add_file" platform="Desktop">新增檔案</string>
   <string name="Add_group_description" platform="android, Desktop">新增群公告</string>
   <string name="Add_memo" platform="android, iOS">點選新增 Memo（備註）</string>
+  <string name="add_or_remove_favorite_bots" platform="android,iOS">新增或刪除收藏的機器人</string>
   <string name="Add_participants" platform="android, iOS, Desktop">新增成員</string>
   <string name="Add_people_hint" platform="android">透過 Mixin ID 或手機號新增聯絡人</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin ID 或手機號</string>
@@ -116,6 +120,7 @@
   <string name="Amount" platform="android, iOS">金額</string>
   <string name="an_audio" platform="android">一條語音</string>
   <string name="animals_and_nature" platform="Desktop">動物與自然</string>
+  <string name="Anonymous" platform="android,iOS,Desktop">匿名</string>
   <string name="Anonymous_Number" platform="Desktop, android, iOS">匿名號碼</string>
   <string name="ANSWER" platform="android">接聽</string>
   <string name="app_card_share_disallow" platform="Desktop">該連結已被設定為不允許分享</string>
@@ -127,6 +132,8 @@
   <string name="Apply" platform="android, iOS">應用</string>
   <string name="archived_folder" platform="Desktop">存檔資料夾</string>
   <string name="Asset_Key" platform="android, iOS">資產標識</string>
+  <string name="Asset_Migration" platform="android,iOS">資產遷移</string>
+  <string name="asset_migration_hint" platform="android, iOS">您還有資產在舊的 Mixin 網路，點選檢視。</string>
   <string name="Asset_not_found" platform="android, iOS">找不到該資產</string>
   <string name="Asset_Type" platform="iOS, Desktop">資產型別</string>
   <string name="ASSETS" platform="android, iOS">資產</string>
@@ -191,6 +198,15 @@
   <string name="bots_title" platform="android, iOS, Desktop">機器人</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s 不是您的聯絡人，請確認收款人是否正確。如果您轉錯了人資產將無法追回！</string>
   <string name="bring_all_to_front" platform="Desktop">前置所有視窗</string>
+  <string name="buy" platform="android, iOS">購買</string>
+  <string name="buy_asset" platform="android, iOS">購買 %1$s</string>
+  <string name="buy_failed" platform="android, iOS">交易失敗</string>
+  <string name="buy_failed_description" platform="android, iOS">該交易在處理中出現了問題，請稍後重試。</string>
+  <string name="buy_success" platform="android, iOS">交易成功</string>
+  <string name="buy_success_description" platform="android, iOS">成功支付 %1$s。%2$s 將直接轉入 Mixin 錢包。</string>
+  <string name="buying_limitation" platform="android, iOS">最少 %1$s, 最多 %2$s</string>
+  <string name="buying_unavailable_description" platform="iOS">我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。</string>
+  <string name="calculating" platform="android, iOS">正在計算…</string>
   <string name="Call" platform="android, iOS">語音</string>
   <string name="Call_declined" platform="android, iOS">對方已拒絕</string>
   <string name="call_encryption_description" platform="android, iOS">除了參與通話的人，其他人包含 Mixin 在內都無法聽取或檢視。</string>
@@ -209,6 +225,7 @@
   <string name="can_not_recognize_qr_code" platform="android, Desktop">無法識別二維碼</string>
   <string name="Cancel" platform="android, iOS, Desktop">取消</string>
   <string name="Cancel_Floating" platform="android, iOS">取消浮窗</string>
+  <string name="cancel_order" platform="android, iOS">取消訂單</string>
   <string name="Canceled" platform="android, iOS">已取消</string>
   <string name="Canceled_by_caller" platform="android, iOS">對方已取消</string>
   <string name="Cant_receive_the_code" platform="android, iOS">接收不到驗證碼？</string>
@@ -217,6 +234,9 @@
   <string name="caption_send" platform="iOS">轉出</string>
   <string name="Card" platform="android, Desktop">卡片</string>
   <string name="card" platform="iOS">卡片</string>
+  <string name="card_number" platform="android, iOS">卡號</string>
+  <string name="card_number_error" platform="android, iOS">請輸入有效的卡號</string>
+  <string name="cardholder_name" platform="android, iOS">持卡人姓名</string>
   <string name="category_chats" platform="iOS">最近聊天</string>
   <string name="Chain" platform="android, iOS">所屬公鏈</string>
   <string name="Change" platform="android, iOS, Desktop">更改</string>
@@ -237,6 +257,7 @@
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s修改了限時訊息設定</string>
   <string name="Changing" platform="android">正在修改…</string>
   <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">更新 PIN 意外中止，點繼續完成 PIN 修改</string>
+  <string name="chat" platform="Desktop">聊天</string>
   <string name="chat_audio_discard_warning" platform="android">你確定要停止並放棄錄製的語音嗎？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放棄錄製語音</string>
   <string name="chat_audio_warning" platform="android">無法在 Mixin 錄音時播放語音</string>
@@ -274,6 +295,7 @@
   <string name="chat_text_size" platform="android, Desktop, iOS">聊天字型大小</string>
   <string name="Chat_unpinned" platform="android">置頂會話已取消</string>
   <string name="chat_waiting" platform="android, iOS">等待%1$s上線後建立加密會話。%2$s。</string>
+  <string name="chat_with_us" platform="android, iOS">聯絡客服</string>
   <string name="CHATS" platform="android, iOS">會話</string>
   <string name="Chats_Count" platform="iOS,android">1 個聊天</string>
   <string name="Chats_Counts" platform="iOS,android">%1$s 個聊天</string>
@@ -313,6 +335,8 @@
   <string name="collapse" platform="Desktop">摺疊</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">合併轉發</string>
+  <string name="Combine_utxo" platform="android, iOS">歸集 UTXO</string>
+  <string name="coming_soon_to_your_region" platform="iOS">即將來到您的地區！</string>
   <string name="Compress_Database" platform="iOS">壓縮資料庫</string>
   <string name="Compressed" platform="iOS">已壓縮</string>
   <string name="Confirm" platform="android, iOS, Desktop">確認</string>
@@ -321,6 +345,7 @@
   <string name="Confirm_PIN" platform="android">確認 PIN</string>
   <string name="confirm_sync_chats_from_phone" platform="Desktop">確認從手機端同步聊天記錄嗎？</string>
   <string name="confirm_sync_chats_to_phone" platform="Desktop">確認同步聊天記錄到手機端嗎？</string>
+  <string name="Confirmations" platform="android,iOS,Desktop">區塊確認數</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">連線 TIP 網路失敗，請嘗試切換網路後重試</string>
   <string name="connect_wallet" platform="android, iOS">連線錢包</string>
   <string name="Connected" platform="iOS">已連線</string>
@@ -329,19 +354,22 @@
   <string name="Connection_establishment_failed" platform="iOS">連線建立失敗</string>
   <string name="connection_failed" platform="android, iOS">連線失敗</string>
   <string name="Connection_unstable" platform="android, iOS">當前通話網路不佳</string>
+  <string name="consolidation_utxo" platform="android,iOS">合併 UTXO</string>
+  <string name="consolidation_utxo_description" platform="android,iOS">您的 UTXOs 數量超過了256，為了傳送體驗，請輸入 PIN 整合 UTXOs 後再操作</string>
   <string name="Contact" platform="android, iOS, Desktop">聯絡人</string>
   <string name="contact_category" platform="iOS">聯絡人</string>
   <string name="contact_count" platform="android, iOS">%1$d位聯絡人</string>
   <string name="contact_count.count" platform="android, iOS">%1$d位聯絡人</string>
   <string name="Contact_Developer" platform="android, iOS">聯絡開發者</string>
   <string name="contact_empty_tip" platform="android">Mixin 需要訪問你的通訊錄來幫助你更快找到你的朋友。</string>
+  <string name="contact_favorite_bots_title" platform="android, iOS">%1$s收藏的機器人</string>
   <string name="contact_invite_content" platform="android, iOS">我正在使用 Mixin 聊天。下載：https://mixin.one/messenger</string>
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID：%1$s</string>
   <string name="contact_mobile" platform="android, iOS">手機：%1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">靜音通知</string>
   <string name="contact_new_group_chat_desc" platform="android">建立一個最多支援 256 人的群</string>
   <string name="contact_phone_contact_hint" platform="iOS">上傳你的手機通訊錄，如果你的通訊錄中有朋友已經註冊了 Mixin，系統會幫你自動新增為好友</string>
-  <string name="contact_favorite_bots_title" platform="android, iOS">%1$s收藏的機器人</string>
+  <string name="contact_support" platform="android,iOS">聯絡客服</string>
   <string name="contact_title" platform="iOS, Desktop">聯絡人</string>
   <string name="CONTACTS" platform="android, iOS">聯絡人</string>
   <string name="content_audio" platform="android, iOS">[語音]</string>
@@ -382,8 +410,7 @@
   <string name="Copy_invite" platform="android, iOS, Desktop">複製邀請連結</string>
   <string name="Copy_link" platform="android, iOS, Desktop">複製連結</string>
   <string name="Copy_User_Id" platform="iOS">複製使用者 ID</string>
-  <string name="consolidation_utxo" platform="android,iOS">合併 UTXO</string>
-  <string name="consolidation_utxo_description" platform="android,iOS">您的 UTXOs 數量超過了256，為了傳送體驗，請輸入 PIN 整合 UTXOs 後再操作</string>
+  <string name="copySelectedText" platform="Desktop">複製已選擇的文字</string>
   <string name="Create" platform="android, iOS, Desktop">建立</string>
   <string name="create_circle" platform="Desktop">新建圈子</string>
   <string name="create_conversation" platform="Desktop">新建會話</string>
@@ -419,6 +446,7 @@
   <string name="date_format_month" platform="iOS">MM 月 d 日 E</string>
   <string name="date_format_week_date" platform="iOS">yyyy 年 MM 月 d 日 E</string>
   <string name="db_debug_warning" platform="android">注意：如果執行了有侵害性的 SQL，結果不可逆！</string>
+  <string name="debit_or_credit_card" platform="android, iOS">簽帳金融卡/信用卡</string>
   <string name="Decline" platform="android">結束通話</string>
   <string name="Declined" platform="android, iOS">已拒絕</string>
   <string name="deep_clean" platform="android">深度清理</string>
@@ -428,6 +456,7 @@
   <string name="delete_account_detail_hint" platform="iOS, Desktop">本地訊息和 iCloud 備份不會被自動刪除</string>
   <string name="delete_account_hint" platform="android, iOS, Desktop">刪除你的賬戶和個人照片</string>
   <string name="Delete_address" platform="android, iOS">刪除地址</string>
+  <string name="delete_card" platform="iOS">刪除卡片</string>
   <string name="Delete_Chat" platform="iOS, Desktop">刪除聊天</string>
   <string name="delete_chat_description" platform="Desktop">刪除會話只會刪除此裝置的聊天記錄，不會影響其他裝置。</string>
   <string name="Delete_Circle" platform="iOS, Desktop">刪除圈子</string>
@@ -447,14 +476,17 @@
   <string name="deposit_attention" platform="android, iOS">首次充值建議小額嘗試！</string>
   <string name="deposit_confirmation" platform="android, iOS">充值到賬需要 %1$d 個區塊確認。</string>
   <string name="deposit_confirmation.count" platform="android, iOS">充值到賬需要 %1$d 個區塊確認。</string>
+  <string name="deposit_dust" platform="android, iOS">最小充值數：%1$s %2$s</string>
+  <string name="deposit_hash" platform="android,iOS,Desktop">充值雜湊</string>
   <string name="deposit_memo_notice" platform="android">充值時務必填寫 Memo（備註），否則您會丟失您的數字幣</string>
   <string name="deposit_notice" platform="android">地址 和 Memo（備註）同時使用才能充值 %1$s 到你的賬號。</string>
-  <string name="deposit_dust" platform="android, iOS">最小充值數：%1$s %2$s</string>
   <string name="deposit_tip_btc" platform="android, iOS">該充值地址僅支援 BTC。</string>
   <string name="deposit_tip_common" platform="android, iOS">該充值地址僅支援 %1$s。</string>
   <string name="deposit_tip_eos" platform="android, iOS">支援所有基於 EOS 發行的代幣。</string>
   <string name="deposit_tip_eth" platform="android, iOS">支援所有符合 ERC-20 標準的代幣，例如 ETH、XIN 等。</string>
   <string name="deposit_tip_trx" platform="android, iOS">支援 TRX 和所有符合 TRC-10、TRC-20 標準的代幣。</string>
+  <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
+  <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址將隨著系統或網路升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。</string>
   <string name="Deselect_All" platform="iOS,android">取消所有選擇</string>
   <string name="Designated_time_period" platform="iOS,android">指定時間段</string>
   <string name="desktop" platform="android">桌面端</string>
@@ -524,6 +556,7 @@
   <string name="enable_pay_confirmation" platform="iOS">啟用%@支付？</string>
   <string name="enable_touch_pay_hint" platform="iOS">輸入 PIN 啟用指紋支付</string>
   <string name="Enable_web_debug" platform="android">已開啟 Web 除錯</string>
+  <string name="encrypt_zip_file_with_password" platform="Desktop">使用密碼來加密 zip 檔案</string>
   <string name="Encrypted" platform="android">端到端加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
   <string name="Enter_new_anonymous_number" platform="android, iOS">輸入你的新匿名號碼</string>
@@ -537,6 +570,7 @@
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">輸入你的手機號碼</string>
   <string name="Enter_your_PIN" platform="android, iOS">輸入你的 PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">輸入你的 PIN 以繼續</string>
+  <string name="Enter_your_PIN_to_verify" platform="android,iOS">輸入你的 PIN 來驗證</string>
   <string name="EOS_contract_address" platform="android">EOS 合約地址</string>
   <string name="error_address_exists" platform="android, Desktop">地址不存在，請確保地址是否新增成功</string>
   <string name="error_address_not_sync" platform="android, Desktop">地址重新整理失敗，請重試</string>
@@ -545,6 +579,8 @@
   <string name="error_bad_data" platform="android, Desktop">錯誤 10002：請求資料不合法</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">錯誤 30100：區塊鏈同步異常，請稍後重試</string>
   <string name="error_captcha_is_invalid" platform="iOS">錯誤 10004：驗證失敗</string>
+  <string name="error_card_expired" platform="android, iOS">錯誤 10601: 卡片已過期</string>
+  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支援此卡片</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">網路連線超時</string>
   <string name="error_expired_authorization_code" platform="android, iOS">錯誤 20121：授權碼已過期</string>
   <string name="error_full_group" platform="android, iOS, Desktop">錯誤 20116：群組已滿</string>
@@ -564,6 +600,8 @@
   <string name="error_number_reached_limit" platform="android, Desktop">錯誤 20132： 已達到上限</string>
   <string name="error_old_version" platform="android, Desktop">錯誤 10006：請更新 Mixin（%1$s） 至最新版。</string>
   <string name="error_open_location" platform="android, Desktop">無法找到地圖應用</string>
+  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 對方客戶端版本過低，請提醒對方更新客戶端到最新版本</string>
+  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付確認失敗</string>
   <string name="error_permission" platform="android, Desktop">請開啟相關許可權</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">錯誤 20110：手機號碼不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">錯誤 10003：傳送簡訊失敗</string>
@@ -573,6 +611,7 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">錯誤 20119：PIN 不正確</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">錯誤 20119：PIN 不正確。你還有 %1$d 次機會，使用完需等待 24 小時後再次嘗試。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">錯誤 20119：PIN 不正確。你還有 %1$d 次機會，使用完需等待 24 小時後再次嘗試。</string>
+  <string name="error_price_expired" platform="android, iOS">ERROR 10602: 價格已過期</string>
   <string name="error_recaptcha_is_invalid" platform="android, Desktop">錯誤 10004：驗證失敗</string>
   <string name="error_requires_captcha" platform="iOS">需要驗證碼。</string>
   <string name="error_server_5xx_code" platform="android, Desktop">伺服器出錯，請稍後重試：%1$d</string>
@@ -594,6 +633,7 @@
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">錯誤 20131：提現備註格式不正確</string>
   <string name="error_withdrawal_suspend" platform="android, iOS, Desktop">錯誤 20137：提現暫停</string>
   <string name="Everybody" platform="android, iOS">任何人</string>
+  <string name="exchange_rate" platform="android, iOS">價格</string>
   <string name="Exchanging_data" platform="android,iOS">正在同步金鑰分片，進度 %1$s%%…</string>
   <string name="Exit" platform="android, Desktop">退出</string>
   <string name="Exit_confirmation" platform="iOS">退出"%@"？</string>
@@ -601,6 +641,9 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">退出群組並舉報邀請人</string>
   <string name="exit_without_save" platform="android">不儲存就退出？</string>
   <string name="Expired" platform="android, iOS">已過期</string>
+  <string name="expiry_date" platform="android, iOS">有效期</string>
+  <string name="expiry_date_error" platform="android, iOS">請輸入正確的有效期</string>
+  <string name="Explore" platform="android,iOS">探索</string>
   <string name="Export" platform="iOS">匯出</string>
   <string name="Export_Chat" platform="android">匯出聊天記錄</string>
   <string name="Export_failed" platform="android, iOS">匯出失敗</string>
@@ -617,8 +660,12 @@
   <string name="Failed_to_send_video" platform="iOS">傳送影片失敗，請稍後重試</string>
   <string name="Failure" platform="android">錯誤</string>
   <string name="fast" platform="android, iOS">快速</string>
+  <string name="favorite" platform="android,iOS">收藏</string>
   <string name="Fee" platform="android, iOS, Desktop">手續費</string>
   <string name="Feedback" platform="android, iOS">反饋</string>
+  <string name="fees_by_gateway" platform="android, iOS">支付閘道器費用</string>
+  <string name="fees_by_mixin" platform="android, iOS">Mixin 手續費</string>
+  <string name="fees_explaination" platform="android, iOS">您有可能被您的銀行收取訂單之外的費用，請聯絡您的銀行了解更多詳情。</string>
   <string name="File" platform="android, iOS, Desktop">檔案</string>
   <string name="File_chooser_error" platform="android, Desktop">檔案選擇錯誤</string>
   <string name="File_does_not_exist" platform="android, Desktop">檔案不存在</string>
@@ -642,6 +689,7 @@
   <string name="Forward_success" platform="android">轉發成功</string>
   <string name="Forward_to_friend" platform="android">轉發給好友</string>
   <string name="fourth_pin_confirm_hint" platform="android, iOS">這是最後一次確認 PIN，記住：PIN 丟失將永遠無法找回！</string>
+  <string name="free" platform="android,iOS">免手續費</string>
   <string name="Friday" platform="android">星期五</string>
   <string name="From" platform="android, iOS, Desktop">來自</string>
   <string name="from_with_colon" platform="Desktop">來自： </string>
@@ -690,6 +738,8 @@
   <string name="how_are_you" platform="iOS, Desktop">嗨，你好嗎？</string>
   <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
+  <string name="identity_verification_description" platform="android, iOS">正在驗證您的身份。一旦您的驗證完成，我們將透過 Mixin Messenger 向您傳送訊息。</string>
+  <string name="identity_verifying" platform="android, iOS">正在稽核</string>
   <string name="ignore_this_version" platform="Desktop">忽略這次版本更新</string>
   <string name="image" platform="iOS, Desktop">影象</string>
   <string name="image_shareable_false" platform="android, iOS">該圖片已被設定為不允許轉發</string>
@@ -703,6 +753,7 @@
   <string name="Incoming_voice_call" platform="android, iOS">語音通話來電</string>
   <string name="Info" platform="iOS">資訊</string>
   <string name="Initializing" platform="android, iOS, Desktop">初始化…</string>
+  <string name="insufficient_balance" platform="android, iOS">餘額不足</string>
   <string name="Insufficient_transaction_fee" platform="iOS">手續費不足</string>
   <string name="Interface_style" platform="iOS">外觀</string>
   <string name="Invalid_candidate" platform="iOS">無效的 Candidate</string>
@@ -753,10 +804,14 @@
   <string name="Last_years" platform="iOS,android">最近 %1$s 年</string>
   <string name="Later" platform="android, iOS">稍後</string>
   <string name="Learn_More" platform="android, iOS, Desktop">瞭解更多</string>
+  <string name="leave_message_to_team_mixin" platform="android,iOS">給 Mixin 客服留言</string>
+  <string name="legacy_network_transfer_hint" platform="android,iOS">當前轉賬使用的是舊網路</string>
   <string name="less" platform="Desktop">更少</string>
   <string name="Light" platform="iOS, Desktop">淺色</string>
   <string name="Line_busy" platform="android, iOS">忙線未接聽</string>
   <string name="Line_busy_remote" platform="android, iOS">對方忙</string>
+  <string name="link_desktop" platform="android,iOS">連結桌面端</string>
+  <string name="link_desktop_description" platform="android,iOS">透過二維碼連結桌面端</string>
   <string name="Link_desktop_failed" platform="android">登入桌面端失敗</string>
   <string name="Link_desktop_success" platform="android">登入桌面端成功</string>
   <string name="Link_recognition_failure" platform="iOS">連結識別失敗</string>
@@ -808,6 +863,7 @@
   <string name="Manager_Sticker" platform="android">管理貼紙</string>
   <string name="Manufacturer" platform="android">生產商</string>
   <string name="Mark_as_read" platform="android">標記為已讀</string>
+  <string name="max_favorite_bots_description" platform="android,iOS">最多可以新增 5 個喜歡的機器人，注意其他人可以在你的個人資訊彈窗裡檢視這些你喜歡的機器人。</string>
   <string name="Media" platform="android, iOS, Desktop">媒體</string>
   <string name="Memo" platform="android, iOS, Desktop">備註</string>
   <string name="message" platform="android">訊息</string>
@@ -821,12 +877,14 @@
   <string name="Message_Preview" platform="iOS">顯示訊息內容</string>
   <string name="message_preview_description" platform="Desktop">預覽新訊息通知中的訊息文字。</string>
   <string name="Message_sent" platform="android, iOS">訊息已傳送</string>
+  <string name="message_shareable_false" platform="android">該訊息已被設定為不允許轉發</string>
   <string name="Message_unpinned" platform="android">置頂訊息已取消</string>
   <string name="Messages" platform="android, iOS, Desktop">訊息</string>
   <string name="Messaging_Node" platform="android">訊息節點</string>
   <string name="Messaging_node_running" platform="android">訊息節點正在執行</string>
   <string name="method_not_supported" platform="android, iOS">不支援此方法: %1$s</string>
   <string name="minimize" platform="Desktop">最小化</string>
+  <string name="minimum_withdrawal" platform="android,iOS">最小提現數量</string>
   <string name="minute" platform="Desktop">%d 分鐘</string>
   <string name="Minute" platform="android, iOS">%d 分鐘</string>
   <string name="minute.count" platform="Desktop">%d 分鐘</string>
@@ -844,8 +902,8 @@
   <string name="More" platform="android, iOS, Desktop">更多</string>
   <string name="Move_and_Scale" platform="iOS">移動和縮放</string>
   <string name="Multisig_by_PIN" platform="android, iOS">透過 PIN 簽名</string>
-  <string name="multisig_senders_threshold" platform="android, iOS">交易發起人（%1$s）</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">交易接收人（%1$s）</string>
+  <string name="multisig_senders_threshold" platform="android, iOS">交易發起人（%1$s）</string>
   <string name="multisig_state_signed" platform="android, iOS">您已經對這筆交易進行了簽名，您無法再次簽名。</string>
   <string name="multisig_state_unlocked" platform="android, iOS">這筆交易已經被其他人撤銷了，您無法再次撤銷。</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">多重簽名交易</string>
@@ -855,9 +913,9 @@
   <string name="Muted" platform="iOS">已靜音</string>
   <string name="Muted_until" platform="iOS">已靜音至 %@</string>
   <string name="My_Contacts" platform="android, iOS">我的聯絡人</string>
+  <string name="My_favorite_bots" platform="android, iOS">我收藏的機器人</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">我的 Mixin ID：%1$s</string>
   <string name="My_QR_Code" platform="android, iOS">我的二維碼</string>
-  <string name="My_favorite_bots" platform="android, iOS">我收藏的機器人</string>
   <string name="My_Stickers" platform="android, iOS, Desktop">我的表情</string>
   <string name="NA" platform="android, iOS, Desktop">暫無價格</string>
   <string name="Name" platform="android, iOS, Desktop">名稱</string>
@@ -881,6 +939,7 @@
   <string name="New_Group_Chat" platform="android, iOS">新群聊</string>
   <string name="new_group_name" platform="android">新群組名稱</string>
   <string name="new_name" platform="iOS">名稱</string>
+  <string name="new_price" platform="android, iOS">最新價格</string>
   <string name="new_version_available" platform="Desktop">發現新版本</string>
   <string name="new_version_description" platform="Desktop">發現新版本 Mixin Messenger %1$s，當前版本為 %2$s。是否要下載最新的版本？</string>
   <string name="new_wallet_hint" platform="android, iOS">建立你的第一個數字錢包，所有資產都在一個錢包，收發加密資產簡單易用。</string>
@@ -949,6 +1008,7 @@
   <string name="OK" platform="android, iOS">好的</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">確保舊的裝置已停留在同步等待掃碼的介面</string>
   <string name="Old_PIN" platform="android">驗證舊的 PIN</string>
+  <string name="old_price" platform="android, iOS">過期價格</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">逐條轉發</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 小時</string>
   <string name="one_week" platform="android, iOS, Desktop">1 星期</string>
@@ -969,6 +1029,7 @@
   <string name="Operator" platform="android">運營商</string>
   <string name="Optimize_Database" platform="iOS">最佳化查詢索引</string>
   <string name="Optimized" platform="iOS">已最佳化</string>
+  <string name="order_confirm" platform="android, iOS">訂單確認</string>
   <string name="original_image" platform="Desktop">原圖</string>
   <string name="OTHER" platform="android">其他</string>
   <string name="Other" platform="iOS">其他</string>
@@ -981,11 +1042,12 @@
   <string name="password" platform="Desktop">密碼</string>
   <string name="Pause" platform="android">暫停</string>
   <string name="pay_paid" platform="android, iOS">此付款連結已由某人支付，您無法進行重複付款。</string>
-  <string name="Pay_with_biometry_type" platform="iOS">%@支付</string>
   <string name="Pay_with_Biometrics" platform="android">用生物識別支付</string>
+  <string name="Pay_with_biometry_type" platform="iOS">%@支付</string>
   <string name="Pay_with_PIN" platform="android, iOS">用 PIN 支付</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PIN 使用間隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">數量 %@ %@\n手續費 %@ %@</string>
+  <string name="payment_method" platform="android, iOS">支付方式</string>
   <string name="Peer_closed" platform="iOS">Peer 已關閉</string>
   <string name="Peer_not_found" platform="iOS">Peer 無效</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d 區塊確認數</string>
@@ -1046,15 +1108,19 @@
   <string name="POST" platform="android">文章</string>
   <string name="Post" platform="android, iOS, Desktop">文章</string>
   <string name="post_sharing" platform="iOS">文章</string>
+  <string name="powered_by_mixin_route_prefix" platform="android, iOS">由</string>
+  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route 提供服務</string>
   <string name="preferences" platform="Desktop">偏好設定</string>
   <string name="Preparing" platform="iOS">準備...</string>
   <string name="Preparing_progress" platform="iOS">備份中...（%@）</string>
   <string name="preview_unavailable" platform="android, iOS">預覽不可用</string>
   <string name="preview_unavailable_description" platform="android, iOS">無法預覽資產變化。請確保你信任此 dapp。</string>
   <string name="previous_conversation" platform="Desktop">上一個會話</string>
+  <string name="price_expired" platform="android, iOS">報價已過期</string>
   <string name="Privacy" platform="android, iOS">隱私</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">隱私政策</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
+  <string name="processing" platform="android, iOS">處理中</string>
   <string name="Profile" platform="iOS">個人資料</string>
   <string name="profile_modify_number" platform="android">你想要修改手機號碼麼？</string>
   <string name="Profile_photo" platform="android, iOS">個人頭像</string>
@@ -1064,6 +1130,7 @@
   <string name="proxy_connection" platform="Desktop">連線</string>
   <string name="proxy_type" platform="Desktop">代理型別</string>
   <string name="Public_profile" platform="android, iOS">個人資料（必須）</string>
+  <string name="purchase_total_amount" platform="android, iOS">購買總金額</string>
   <string name="QR_Code" platform="android, iOS">二維碼</string>
   <string name="qr_code_camera_code" platform="android">開啟相機會預設開啟二維碼識別，當二維碼被檢測到時會顯示一個通知，點選通知識別二維碼。</string>
   <string name="qr_code_expired_desc" platform="Desktop">二維碼過期，請重試</string>
@@ -1101,6 +1168,7 @@
   <string name="reedit" platform="Desktop">重新編輯</string>
   <string name="Refresh" platform="android, iOS, Desktop">重新整理</string>
   <string name="Refuse" platform="android">拒絕</string>
+  <string name="Registering" platform="android">註冊中...</string>
   <string name="Reload" platform="android, iOS">重新載入</string>
   <string name="Remove_all" platform="android, iOS">全部刪除</string>
   <string name="Remove_all_floats" platform="android, iOS">確定刪除全部浮窗？</string>
@@ -1214,11 +1282,16 @@
   <string name="Searching" platform="android">搜尋中</string>
   <string name="Secured_by_TIP" platform="android,iOS">由 TIP 提供安全保障</string>
   <string name="Security" platform="android, iOS, Desktop">安全</string>
+  <string name="security_code" platform="android, iOS">安全碼</string>
+  <string name="security_code_error" platform="android, iOS">請輸入有效的安全碼</string>
   <string name="Select" platform="android, iOS, Desktop">選擇</string>
+  <string name="select_a_card" platform="android, iOS">選擇卡片</string>
   <string name="Select_a_country_or_region" platform="iOS">選擇一個國家或地區</string>
+  <string name="select_a_token_for_the_fee" platform="android,iOS">選擇支付手續費的幣種</string>
   <string name="Select_All" platform="iOS,android">選擇所有</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">選擇緊急聯絡人</string>
   <string name="Select_More_Photos" platform="iOS">選擇更多照片</string>
+  <string name="select_payment_method" platform="android, iOS">選擇支付方式</string>
   <string name="selected_count" platform="iOS">選擇了 %@ 個訊息</string>
   <string name="selected_Item" platform="iOS">已選擇 1 項</string>
   <string name="selected_Item.count" platform="iOS">已選擇 %1$d 項</string>
@@ -1241,10 +1314,10 @@
   <string name="send_signed_message_confirmation" platform="android, iOS">此訊息已被簽名，點選下方按鈕以傳送或丟棄</string>
   <string name="Send_This_Location" platform="android, iOS">傳送這個位置</string>
   <string name="send_to" platform="android, iOS">傳送給 %1$s</string>
-  <string name="Send_to_Contact" platform="android, iOS">轉出到聯絡人</string>
-  <string name="Send_to_Contact_description" platform="android, iOS">轉出加密貨幣到 Mixin 聯絡人</string>
   <string name="send_to_address" platform="android, iOS">轉出到地址</string>
   <string name="send_to_address_description" platform="android, iOS">轉出加密貨幣到錢包或交易所</string>
+  <string name="Send_to_Contact" platform="android, iOS">轉出到聯絡人</string>
+  <string name="Send_to_Contact_description" platform="android, iOS">轉出加密貨幣到 Mixin 聯絡人</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日誌發給開發者</string>
   <string name="Send_To_Title" platform="iOS">轉給</string>
   <string name="Send_transfer" platform="android">轉出</string>
@@ -1328,6 +1401,7 @@
   <string name="Show Selected" platform="iOS,android">顯示選擇（%1$s）</string>
   <string name="Show_asset" platform="iOS">顯示資產</string>
   <string name="show_avatar" platform="Desktop">顯示頭像</string>
+  <string name="show_identity_number" platform="Desktop">顯示 ID</string>
   <string name="Show_in_chat" platform="android, iOS">在聊天中展示</string>
   <string name="show_mixin" platform="Desktop">顯示 Mixin</string>
   <string name="Shown" platform="android">顯示</string>
@@ -1352,6 +1426,7 @@
   <string name="Sort_by" platform="android, iOS">順序</string>
   <string name="Start" platform="android,iOS">開始</string>
   <string name="Start_Messaging" platform="android, iOS">開始聊天</string>
+  <string name="Start_Migration" platform="android,iOS">開始遷移</string>
   <string name="started_group_call" platform="iOS">%@ 開始了群通話</string>
   <string name="Status" platform="android, iOS, Desktop">交易狀態</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
@@ -1376,8 +1451,11 @@
   <string name="strangers" platform="Desktop">陌生人</string>
   <string name="strikethrough" platform="android">刪除線</string>
   <string name="Successful" platform="android, Desktop, iOS">成功</string>
+  <string name="sumsub_not_ready" platform="android, iOS">KYC服務不可用</string>
   <string name="Sunday" platform="android">星期日</string>
+  <string name="suspended_deposit" platform="android, iOS">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網路硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑連結</string>
+  <string name="switch_payment_method" platform="android, iOS">使用其他支付方式</string>
   <string name="Switching_currency" platform="android">切換貨幣中</string>
   <string name="Symbol" platform="android, iOS">符號</string>
   <string name="symbol_withdrawal" platform="android, iOS">%1$s 提現</string>
@@ -1391,6 +1469,7 @@
   <string name="System_time_is_unusual" platform="iOS">系統時間異常</string>
   <string name="System_version" platform="android">系統版本</string>
   <string name="Tag" platform="android, iOS">Tag（標籤）</string>
+  <string name="take_a_photo" platform="android,iOS">拍攝照片</string>
   <string name="Tap_to_join" platform="android, iOS">點選加入</string>
   <string name="Terms_of_Service" platform="android, iOS, Desktop">服務條款</string>
   <string name="Text" platform="android, Desktop">文字</string>
@@ -1404,14 +1483,15 @@
   <string name="Thursday" platform="android">星期四</string>
   <string name="Time" platform="android, iOS, Desktop">時間</string>
   <string name="tip_create_pin_title" platform="android, iOS">設定 6 位數字 PIN 建立你的第一個數字錢包</string>
-  <string name="tip_recovery_failed" platform="android, iOS">TIP 私鑰恢復失敗。</string>
   <string name="TIP_creation_introduction" platform="android,iOS">設定 6 位數字 PIN 建立你的第一個加密貨幣錢包，PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
   <string name="TIP_introduction" platform="android,iOS">6 位數字 PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
+  <string name="tip_recovery_failed" platform="android, iOS">TIP 私鑰恢復失敗。</string>
   <string name="title_participants" platform="android, iOS">%1$d 成員</string>
   <string name="title_participants.count" platform="android, iOS">%1$d 成員</string>
   <string name="To" platform="android, iOS, Desktop">至</string>
   <string name="Today" platform="android, iOS, Desktop">今天</string>
   <string name="toggle_chat_info" platform="Desktop">展開/關閉會話資訊</string>
+  <string name="token_amount" platform="android, iOS">代幣總數</string>
   <string name="Touch_ID" platform="iOS">指紋</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">觸控指紋感測器</string>
   <string name="Track_not_found" platform="iOS">Track 無效</string>
@@ -1514,17 +1594,23 @@
   <string name="Use_face_multisig" platform="iOS">使用面容簽名</string>
   <string name="Use_face_pay" platform="iOS">使用面容支付</string>
   <string name="Use_face_withdraw" platform="iOS">使用面容提現</string>
+  <string name="use_new_price" platform="android, iOS">使用最新報價</string>
   <string name="Use_System_Text_Size" platform="android, iOS">跟隨系統字型大小</string>
   <string name="Use_touch_multisig" platform="iOS">使用指紋簽名</string>
   <string name="Use_touch_pay" platform="iOS">使用指紋支付</string>
   <string name="Use_touch_withdraw" platform="iOS">使用指紋提現</string>
   <string name="user_delete_hint" platform="android, iOS, Desktop">該使用者已經刪除了賬號。</string>
+  <string name="user_deleted_hint" platform="android">該使用者已經刪除了賬號。</string>
   <string name="User_is_reported" platform="iOS">已舉報</string>
   <string name="User_not_found" platform="android, iOS, Desktop">找不到這個使用者</string>
   <string name="username" platform="Desktop">使用者名稱</string>
+  <string name="utxo_count_exceeded" platform="android, iOS">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
   <string name="Validation_timed_out" platform="iOS">驗證超時</string>
   <string name="value_now" platform="android, iOS, Desktop">價值 %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">當時價值 %1$s</string>
+  <string name="verification_blocked_description" platform="android, iOS">你的驗證失敗了，可能是因為提交的檔案有問題，請點選下面按鈕聯絡客服。</string>
+  <string name="verification_failed" platform="android, iOS">驗證失敗</string>
+  <string name="verification_failed_description" platform="android, iOS">您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。</string>
   <string name="Verify" platform="android, iOS">驗證</string>
   <string name="Verify_by_Biometric" platform="android">用生物識別來驗證</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">驗證 PIN</string>
@@ -1546,6 +1632,8 @@
   <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新裝置上登入當前賬戶並選擇從其他手機恢復</string>
   <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">新裝置掃上面的二維碼建立連線</string>
   <string name="Waiting_for_this_message" platform="android, Desktop">正在等待這條訊息。</string>
+  <string name="Waiting_transaction" platform="android,iOS">正在等待交易</string>
+  <string name="Waiting_transaction_description" platform="android,iOS">您有一筆轉賬或提現未完成，請稍後再試</string>
   <string name="Wallet" platform="android, iOS">錢包</string>
   <string name="wallet_add_asset_already_hidden" platform="android">資產 %1$s 已被你隱藏，要在錢包首頁立刻顯示？</string>
   <string name="wallet_address_add_tip" platform="android">Mixin 不支援提現到</string>
@@ -1602,6 +1690,7 @@
   <string name="withdrawal_addr_pin_delete" platform="android">請輸入 PIN 來完成刪除</string>
   <string name="withdrawal_addr_pin_modify" platform="android">請輸入 PIN 來完成修改</string>
   <string name="withdrawal_address_tips" platform="android, iOS">首次提現到新地址，建議小額嘗試！如果您提現到錯誤的地址資產將無法找回！</string>
+  <string name="withdrawal_hash" platform="android,iOS,Desktop">提現雜湊</string>
   <string name="withdrawal_label" platform="android, iOS">地址名稱，例如 OceanOne</string>
   <string name="withdrawal_memo" platform="android, iOS">Memo（備註）</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">提現金額最小 %1$s %2$s</string>
@@ -1609,6 +1698,9 @@
   <string name="withdrawal_minimum_withdrawal" platform="android, iOS">最小提現數量：</string>
   <string name="withdrawal_network_fee" platform="android, iOS">網路手續費：</string>
   <string name="withdrawal_no_memo" platform="android, iOS">點選不使用 Memo（備註）</string>
+  <string name="withdrawal_pending" platform="android,iOS">提現中</string>
+  <string name="withdrawal_suspended" platform="android,iOS">%1$s 提現暫停</string>
+  <string name="withdrawal_suspended_description" platform="android,iOS">%1$s 提現已暫停，可能的原因是因為節點故障、區塊鏈網路硬分叉或者擁堵，請耐心等候並稍後重試</string>
   <string name="withdrawal_to" platform="android, iOS">提現到 %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">用生物識別提現</string>
   <string name="withdrawal_with_PIN" platform="android">用 PIN 提現</string>
@@ -1623,95 +1715,4 @@
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已建立</string>
   <string name="zoom" platform="Desktop">縮放</string>
-  <string name="identity_verifying" platform="android, iOS">正在稽核</string>
-  <string name="identity_verification_description" platform="android, iOS">正在驗證您的身份。一旦您的驗證完成，我們將透過 Mixin Messenger 向您傳送訊息。</string>
-  <string name="verification_failed" platform="android, iOS">驗證失敗</string>
-  <string name="verification_failed_description" platform="android, iOS">您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。</string>
-  <string name="verification_blocked_description" platform="android, iOS">你的驗證失敗了，可能是因為提交的檔案有問題，請點選下面按鈕聯絡客服。</string>
-  <string name="chat_with_us" platform="android, iOS">聯絡客服</string>
-  <string name="sumsub_not_ready" platform="android, iOS">KYC服務不可用</string>
-  <string name="buy_asset" platform="android, iOS">購買 %1$s</string>
-  <string name="select_payment_method" platform="android, iOS">選擇支付方式</string>
-  <string name="buying_limitation" platform="android, iOS">最少 %1$s, 最多 %2$s</string>
-  <string name="add_card" platform="android, iOS">新增卡片</string>
-  <string name="order_confirm" platform="android, iOS">訂單確認</string>
-  <string name="debit_or_credit_card" platform="android, iOS">簽帳金融卡/信用卡</string>
-  <string name="accepted_cards" platform="android, iOS">接受以下卡片: %1$s</string>
-  <string name="cardholder_name" platform="android, iOS">持卡人姓名</string>
-  <string name="card_number" platform="android, iOS">卡號</string>
-  <string name="card_number_error" platform="android, iOS">請輸入有效的卡號</string>
-  <string name="expiry_date" platform="android, iOS">有效期</string>
-  <string name="expiry_date_error" platform="android, iOS">請輸入正確的有效期</string>
-  <string name="security_code" platform="android, iOS">安全碼</string>
-  <string name="security_code_error" platform="android, iOS">請輸入有效的安全碼</string>
-  <string name="select_a_card" platform="android, iOS">選擇卡片</string>
-  <string name="add_credit_or_debit_card" platform="android, iOS">新增信用卡或簽帳金融卡</string>
-  <string name="payment_method" platform="android, iOS">支付方式</string>
-  <string name="token_amount" platform="android, iOS">代幣總數</string>
-  <string name="exchange_rate" platform="android, iOS">價格</string>
-  <string name="fees_by_gateway" platform="android, iOS">支付閘道器費用</string>
-  <string name="fees_by_mixin" platform="android, iOS">Mixin 手續費</string>
-  <string name="purchase_total_amount" platform="android, iOS">購買總金額</string>
-  <string name="fees_explaination" platform="android, iOS">您有可能被您的銀行收取訂單之外的費用，請聯絡您的銀行了解更多詳情。</string>
-  <string name="price_expired" platform="android, iOS">報價已過期</string>
-  <string name="use_new_price" platform="android, iOS">使用最新報價</string>
-  <string name="old_price" platform="android, iOS">過期價格</string>
-  <string name="new_price" platform="android, iOS">最新價格</string>
-  <string name="buy_success" platform="android, iOS">交易成功</string>
-  <string name="buy_success_description" platform="android, iOS">成功支付 %1$s。%2$s 將直接轉入 Mixin 錢包。</string>
-  <string name="buy_failed" platform="android, iOS">交易失敗</string>
-  <string name="buy_failed_description" platform="android, iOS">該交易在處理中出現了問題，請稍後重試。</string>
-  <string name="switch_payment_method" platform="android, iOS">使用其他支付方式</string>
-  <string name="cancel_order" platform="android, iOS">取消訂單</string>
-  <string name="error_card_expired" platform="android, iOS">錯誤 10601: 卡片已過期</string>
-  <string name="error_price_expired" platform="android, iOS">ERROR 10602: 價格已過期</string>
-  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付確認失敗</string>
-  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支援此卡片</string>
-  <string name="calculating" platform="android, iOS">正在計算…</string>
-  <string name="processing" platform="android, iOS">處理中</string>
-  <string name="buy" platform="android, iOS">購買</string>
-  <string name="delete_card" platform="iOS">刪除卡片</string>
-  <string name="powered_by_mixin_route_prefix" platform="android, iOS">由</string>
-  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route 提供服務</string>
-  <string name="coming_soon_to_your_region" platform="iOS">即將來到您的地區！</string>
-  <string name="buying_unavailable_description" platform="iOS">我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。</string>
-  <string name="show_identity_number" platform="Desktop">顯示 ID</string>
-  <string name="chat" platform="Desktop">聊天</string>
-  <string name="asset_migration_hint" platform="android, iOS">您還有資產在舊的 Mixin 網路，點選檢視。</string>
-  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 對方客戶端版本過低，請提醒對方更新客戶端到最新版本</string>
-  <string name="insufficient_balance" platform="android, iOS">餘額不足</string>
-  <string name="utxo_count_exceeded" platform="android, iOS">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
-  <string name="Combine_utxo" platform="android, iOS">歸集 UTXO</string>
-  <string name="Asset_Migration" platform="android,iOS">資產遷移</string>
-  <string name="Start_Migration" platform="android,iOS">開始遷移</string>
-  <string name="Enter_your_PIN_to_verify" platform="android,iOS">輸入你的 PIN 來驗證</string>
-  <string name="Registering" platform="android">註冊中...</string>
-  <string name="deposit_hash" platform="android,iOS,Desktop">充值雜湊</string>
-  <string name="withdrawal_hash" platform="android,iOS,Desktop">提現雜湊</string>
-  <string name="Anonymous" platform="android,iOS,Desktop">匿名</string>
-  <string name="Confirmations" platform="android,iOS,Desktop">區塊確認數</string>
-  <string name="copySelectedText" platform="Desktop">複製已選擇的文字</string>
-  <string name="legacy_network_transfer_hint" platform="android,iOS">當前轉賬使用的是舊網路</string>
-  <string name="minimum_withdrawal" platform="android,iOS">最小提現數量</string>
-  <string name="withdrawal_suspended" platform="android,iOS">%1$s 提現暫停</string>
-  <string name="withdrawal_suspended_description" platform="android,iOS">%1$s 提現已暫停，可能的原因是因為節點故障、區塊鏈網路硬分叉或者擁堵，請耐心等候並稍後重試</string>
-  <string name="contact_support" platform="android,iOS">聯絡客服</string>
-  <string name="select_a_token_for_the_fee" platform="android,iOS">選擇支付手續費的幣種</string>
-  <string name="withdrawal_pending" platform="android,iOS">提現中</string>
-  <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
-  <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址將隨著系統或網路升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。</string>
-  <string name="message_shareable_false" platform="android">該訊息已被設定為不允許轉發</string>
-  <string name="user_deleted_hint" platform="android">該使用者已經刪除了賬號。</string>
-  <string name="encrypt_zip_file_with_password" platform="Desktop">使用密碼來加密 zip 檔案</string>
-  <string name="free" platform="android,iOS">免手續費</string>
-  <string name="Waiting_transaction" platform="android,iOS">正在等待交易</string>
-  <string name="Waiting_transaction_description" platform="android,iOS">您有一筆轉賬或提現未完成，請稍後再試</string>
-  <string name="Explore" platform="android,iOS">探索</string>
-  <string name="take_a_photo" platform="android,iOS">拍攝照片</string>
-  <string name="link_desktop" platform="android,iOS">連結桌面端</string>
-  <string name="link_desktop_description" platform="android,iOS">透過二維碼連結桌面端</string>
-  <string name="leave_message_to_team_mixin" platform="android,iOS">給 Mixin 客服留言</string>
-  <string name="favorite" platform="android,iOS">收藏</string>
-  <string name="add_or_remove_favorite_bots" platform="android,iOS">新增或刪除收藏的機器人</string>
-  <string name="max_favorite_bots_description" platform="android,iOS">最多可以新增 5 個喜歡的機器人，注意其他人可以在你的個人資訊彈窗裡檢視這些你喜歡的機器人。</string>
 </resources>

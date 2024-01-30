@@ -998,6 +998,7 @@
 "stranger_hint" = "連絡先にない相手からのメッセージです";
 "successful" = "成功";
 "sumsub_not_ready" = "KYC not available";
+"suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "不審なリンクです";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "シンボル";

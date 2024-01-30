@@ -1094,6 +1094,7 @@
 	<string name="Successful">Successful</string>
 	<string name="sumsub_not_ready">KYC not available</string>
 	<string name="Sunday">Sunday</string>
+	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
 	<string name="Switching_currency">Switching currency</string>

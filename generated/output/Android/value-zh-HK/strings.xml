@@ -1073,6 +1073,7 @@
 	<string name="Successful">成功</string>
 	<string name="sumsub_not_ready">KYC服務不可用</string>
 	<string name="Sunday">星期日</string>
+	<string name="suspended_deposit">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網絡硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
 	<string name="Suspicious_Link">可疑鏈接</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
 	<string name="Switching_currency">切換貨幣中</string>
