@@ -535,6 +535,7 @@
 	<string name="log_out_from_desktop">デスクトップ版からログアウト</string>
 	<string name="login_and_abort_account_deletion">そのままログインし、アカウント削除をキャンセルします</string>
 	<string name="Login_with_PIN">PINコードでMixinにログインする</string>
+	<string name="Logined">ログインしました</string>
 	<string name="Logout">ログアウト中…</string>
 	<string name="Logs">ログ</string>
 	<string name="Lost_your_mobile_number">電話番号をお忘れですか？</string>

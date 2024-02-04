@@ -565,6 +565,7 @@
 	<string name="log_out_from_desktop">Cerrar sesión desde el escritorio</string>
 	<string name="login_and_abort_account_deletion">Continuar para iniciar sesión y cancelar la eliminación de la cuenta</string>
 	<string name="Login_with_PIN">Iniciar sesión con PIN</string>
+	<string name="Logined">Sesión iniciada</string>
 	<string name="Logout">Cerrar sesión…</string>
 	<string name="Logs">Registros</string>
 	<string name="Lost_your_mobile_number">¿Has perdido tu número de móvil?</string>

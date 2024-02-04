@@ -656,6 +656,7 @@
 	<string name="login_and_abort_account_deletion">繼續登入並放棄刪除賬戶</string>
 	<string name="Login_desktop_first">請先登入桌面端</string>
 	<string name="Login_with_PIN">用 PIN 來登入</string>
+	<string name="Logined">已登入</string>
 	<string name="Logout">退出中…</string>
 	<string name="Logs">日誌</string>
 	<string name="Lost_your_mobile_number">手機丟失？</string>

@@ -673,6 +673,7 @@
 	<string name="login_and_abort_account_deletion">Continue to log in and abort account deletion</string>
 	<string name="Login_desktop_first">Please log in to the desktop first</string>
 	<string name="Login_with_PIN">Login with PIN</string>
+	<string name="Logined">Logged in</string>
 	<string name="Logout">Logout…</string>
 	<string name="Logs">Logs</string>
 	<string name="Lost_your_mobile_number">Lost your mobile number?</string>
