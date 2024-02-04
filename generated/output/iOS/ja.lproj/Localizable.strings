@@ -15,6 +15,7 @@
 "add_bot" = "ミニアプリを追加";
 "add_by_id_or_phone_number" = "Mixin IDか電話番号で追加";
 "add_by_phone_contacts" = "スマホの連絡先から追加";
+"add_by_pin" = "Add by PIN";
 "add_by_qr_code" = "QRコードから追加";
 "add_card" = "Add Card";
 "add_circle" = "グループリストを追加";
@@ -33,8 +34,10 @@
 "adding_address" = "Adding Address";
 "adding_address_failed" = "Adding Address Failed";
 "address" = "アドレス";
+"address_added" = "Address Added";
 "address_added_description" = "The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.";
 "address_adding_description" = "The request to add the address is currently under verification by the Mixin server. Please wait a moment.";
+"address_deleted" = "Address Deleted";
 "address_deleting_description" = "Deleting the address does not compromise security. Are you sure you want to delete this address?";
 "address_not_found" = "アドレスが見つかりません";
 "address_validity_reminder" = "Address validity reminder: Verify the validity of the address %1$@(%2$@); It has not been used for over 30 days.";
@@ -332,6 +335,7 @@
 "delete_account_detail_hint" = "ローカルメッセージとiCloudにバックアップされた内容は削除されません";
 "delete_account_hint" = "アカウント情報とプロフィール画像を削除します";
 "delete_address" = "アドレスを削除";
+"delete_by_pin" = "Delete by PIN";
 "delete_card" = "Delete Card";
 "delete_chat" = "チャットを削除";
 "delete_circle" = "グループリストを削除";

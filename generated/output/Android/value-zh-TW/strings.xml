@@ -25,6 +25,7 @@
 	<string name="Add">新增</string>
 	<string name="Add_address">新增地址</string>
 	<string name="Add_bot">新增機器人</string>
+	<string name="add_by_pin">透過 PIN 新增</string>
 	<string name="add_card">新增卡片</string>
 	<string name="Add_circle">新增圈子</string>
 	<string name="Add_Contact">新增聯絡人</string>
@@ -48,8 +49,10 @@
 	<string name="Adding_Address">正在新增地址</string>
 	<string name="Adding_Address_Failed">新增地址失敗</string>
 	<string name="Address">地址</string>
+	<string name="address_added">地址已新增</string>
 	<string name="address_added_description">您新增地址的請求已透過 Mixin 伺服器確認，您可以立刻使用該地址進行提現。</string>
 	<string name="address_adding_description">正在將新增地址的請求傳送到 Mixin 伺服器驗證，請稍候。</string>
+	<string name="address_deleted">地址已刪除</string>
 	<string name="address_deleting_description">刪除地址不影響資金安全，確認刪除該地址嗎？</string>
 	<string name="address_validity_reminder">地址確認提醒：請確認地址 %1$s（%2$s）仍然有效，您已經超過 30 天沒有使用該地址。</string>
 	<string name="address_will_receive">指定地址將收到</string>
@@ -353,6 +356,7 @@
 	<string name="Delete">刪除</string>
 	<string name="delete_account_hint">刪除你的賬戶和個人照片</string>
 	<string name="Delete_address">刪除地址</string>
+	<string name="delete_by_pin">透過 PIN 刪除</string>
 	<string name="Delete_emergency_contact">刪除緊急聯絡人</string>
 	<string name="Delete_for_everyone">撤回</string>
 	<string name="Delete_for_me">刪除</string>

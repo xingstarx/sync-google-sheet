@@ -25,6 +25,7 @@
 	<string name="Add">添加</string>
 	<string name="Add_address">添加地址</string>
 	<string name="Add_bot">添加机器人</string>
+	<string name="add_by_pin">通过 PIN 添加</string>
 	<string name="add_card">添加卡片</string>
 	<string name="Add_circle">添加圈子</string>
 	<string name="Add_Contact">添加联系人</string>
@@ -48,8 +49,10 @@
 	<string name="Adding_Address">正在添加地址</string>
 	<string name="Adding_Address_Failed">添加地址失败</string>
 	<string name="Address">地址</string>
+	<string name="address_added">地址已添加</string>
 	<string name="address_added_description">您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
 	<string name="address_adding_description">正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。</string>
+	<string name="address_deleted">地址已删除</string>
 	<string name="address_deleting_description">删除地址不影响资金安全，确认删除该地址吗？</string>
 	<string name="address_validity_reminder">地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。</string>
 	<string name="address_will_receive">指定地址将收到</string>
@@ -353,6 +356,7 @@
 	<string name="Delete">删除</string>
 	<string name="delete_account_hint">删除你的账户和个人照片</string>
 	<string name="Delete_address">删除地址</string>
+	<string name="delete_by_pin">通过 PIN 删除</string>
 	<string name="Delete_emergency_contact">删除紧急联系人</string>
 	<string name="Delete_for_everyone">撤回</string>
 	<string name="Delete_for_me">删除</string>

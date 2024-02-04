@@ -15,6 +15,7 @@
 "add_bot" = "添加機器人";
 "add_by_id_or_phone_number" = "通過 Mixin ID 或手機號碼添加";
 "add_by_phone_contacts" = "通過手機通訊錄添加";
+"add_by_pin" = "通過 PIN 添加";
 "add_by_qr_code" = "通過二維碼添加";
 "add_card" = "添加卡片";
 "add_circle" = "添加圈子";
@@ -33,8 +34,10 @@
 "adding_address" = "正在添加地址";
 "adding_address_failed" = "添加地址失敗";
 "address" = "地址";
+"address_added" = "地址已添加";
 "address_added_description" = "您添加地址的請求已通過 Mixin 服務器確認，您可以立刻使用該地址進行提現。";
 "address_adding_description" = "正在將添加地址的請求發送到 Mixin 服務器驗證，請稍候。";
+"address_deleted" = "地址已刪除";
 "address_deleting_description" = "刪除地址不影響資金安全，確認刪除該地址嗎？";
 "address_not_found" = "找不到該地址。";
 "address_validity_reminder" = "地址確認提醒：請確認地址 %1$@（%2$@）仍然有效，您已經超過 30 天沒有使用該地址。";
@@ -332,6 +335,7 @@
 "delete_account_detail_hint" = "本地消息和 iCloud 備份不會被自動刪除";
 "delete_account_hint" = "刪除你的賬户和個人照片";
 "delete_address" = "刪除地址";
+"delete_by_pin" = "通過 PIN 刪除";
 "delete_card" = "刪除卡片";
 "delete_chat" = "刪除聊天";
 "delete_circle" = "刪除圈子";
