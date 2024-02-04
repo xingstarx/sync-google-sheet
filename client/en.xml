@@ -1770,6 +1770,9 @@
   <string name="Revoke_Multisig_Signature" platform="android, iOS">Revoke Multisig Signature</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">Revoking Multisig Signature</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">Revoking Multisig Failed</string>
+  <string name="Confirm_Editing_Address" platform="android, iOS">Confirm Editing Address</string>
+  <string name="Editing_Address" platform="android, iOS">Editing Address</string>
+  <string name="Editing_Address_Failed" platform="android, iOS">Editing Address Failed</string>
   <string name="Confirm_Adding_Address" platform="android, iOS">Confirm Adding Address</string>
   <string name="Adding_Address" platform="android, iOS">Adding Address</string>
   <string name="Adding_Address_Failed" platform="android, iOS">Adding Address Failed</string>
@@ -1784,6 +1787,8 @@
   <string name="receiver_will_receive" platform="android, iOS">Receiver will receive</string>
   <string name="address_added" platform="android, iOS">Address Added</string>
   <string name="address_deleted" platform="android, iOS">Address Deleted</string>
+  <string name="address_edited" platform="android, iOS">Address Edited</string>
   <string name="add_by_pin" platform="android, iOS">Add by PIN</string>
   <string name="delete_by_pin" platform="android, iOS">Delete by PIN</string>
+  <string name="edit_by_pin" platform="android, iOS">Edit by PIN</string>
 </resources>

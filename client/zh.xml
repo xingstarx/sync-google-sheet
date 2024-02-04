@@ -1742,6 +1742,9 @@
   <string name="Revoke_Multisig_Signature" platform="android, iOS">撤销多签确认</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤销多签</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">撤销多签失败</string>
+  <string name="Confirm_Editing_Address" platform="android, iOS">修改地址确认</string>
+  <string name="Editing_Address" platform="android, iOS">正在修改地址</string>
+  <string name="Editing_Address_Failed" platform="android, iOS">修改地址失败</string>
   <string name="Confirm_Adding_Address" platform="android, iOS">添加地址确认</string>
   <string name="Adding_Address" platform="android, iOS">正在添加地址</string>
   <string name="Adding_Address_Failed" platform="android, iOS">添加地址失败</string>
@@ -1756,6 +1759,8 @@
   <string name="receiver_will_receive" platform="android, iOS">对方将收到</string>
   <string name="address_added" platform="android, iOS">地址已添加</string>
   <string name="address_deleted" platform="android, iOS">地址已删除</string>
+  <string name="address_edited" platform="android, iOS">地址已修改</string>
   <string name="add_by_pin" platform="android, iOS">通过 PIN 添加</string>
   <string name="delete_by_pin" platform="android, iOS">通过 PIN 删除</string>
+  <string name="edit_by_pin" platform="android, iOS">通过 PIN 修改</string>
 </resources>

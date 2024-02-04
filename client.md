@@ -1771,6 +1771,9 @@
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签确认 |     |     |     |
 | android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签 |     |     |     |
 | android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多签失败 |     |     |     |
+| android, iOS | Confirm_Editing_Address | Confirm Editing Address | 修改地址确认 |     |     |     |
+| android, iOS | Editing_Address | Editing Address | 正在修改地址 |     |     |     |
+| android, iOS | Editing_Address_Failed | Editing Address Failed | 修改地址失败 |     |     |     |
 | android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
@@ -1785,5 +1788,7 @@
 | android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |
 | android, iOS | address_added | Address Added | 地址已添加 |     |     |     |
 | android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
+| android, iOS | address_edited | Address Edited | 地址已修改 |     |     |     |
 | android, iOS | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
 | android, iOS | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
+| android, iOS | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
