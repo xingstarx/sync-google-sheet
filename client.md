@@ -1744,3 +1744,9 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
+| android, iOS | Confirm_Withdrawal | Confirm Withdrawal | 提现确认 |     |     |     |
+| android, iOS | Sending_Withdrawal_Request | Sending Withdrawal Request | 正在发送提现 |     |     |     |
+| android, iOS | Withdrawal_Request_Sent | Withdrawal Request Sent | 提现请求已提交 |     |     |     |
+| android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
+| android, iOS | withdrawal_reveiew_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |

@@ -1743,4 +1743,10 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
+  <string name="Confirm_Withdrawal" platform="android, iOS">Confirm Withdrawal</string>
+  <string name="Sending_Withdrawal_Request" platform="android, iOS">Sending Withdrawal Request</string>
+  <string name="Withdrawal_Request_Sent" platform="android, iOS">Withdrawal Request Sent</string>
+  <string name="Withdrawal_Failed" platform="android, iOS">Withdrawal Failed</string>
+  <string name="withdrawal_reveiew_hint" platform="android, iOS">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
+  <string name="address_validity_reminder" platform="android, iOS">Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
 </resources>
