@@ -1783,3 +1783,5 @@
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_will_receive | Address will receive | 指定地址将收到 |     |     |     |
 | android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |
+| android, iOS | address_added | Address Added | 地址已添加 |     |     |     |
+| android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
