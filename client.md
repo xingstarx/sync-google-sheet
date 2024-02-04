@@ -1785,3 +1785,4 @@
 | android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |
 | android, iOS | address_added | Address Added | 地址已添加 |     |     |     |
 | android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
+| android, iOS | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
