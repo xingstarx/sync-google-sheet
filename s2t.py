@@ -12,6 +12,7 @@ fuzzy_white_dict = {
     "文件":"檔案",
     "蜂窩移動網":"行動數據",
     "雲盤":"雲碟",
+    "多籤":"多簽",
 }
 
 tag_attr = 'traditional'
