@@ -38,6 +38,7 @@
 "address_deleting_description" = "刪除地址不影響資金安全，確認刪除該地址嗎？";
 "address_not_found" = "找不到該地址。";
 "address_validity_reminder" = "地址確認提醒：請確認地址 %1$@（%2$@）仍然有效，您已經超過 30 天沒有使用該地址。";
+"address_will_receive" = "指定地址將收到";
 "admin" = "管理員";
 "agree_hint" = "繼續使用即表示你同意 %@ 和 %@";
 "albums" = "相簿";
@@ -810,6 +811,7 @@
 "receive" = "轉入";
 "receive_money" = "我的收款碼";
 "receiver" = "至";
+"receiver_will_receive" = "對方將收到";
 "receivers" = "交易接收人";
 "recent" = "最近";
 "recent_chats" = "最近聊天";
@@ -865,9 +867,9 @@
 "restoring_progress" = "正在恢復 %@";
 "retry" = "重試";
 "return_to_merchant_description" = "來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。";
-"reveiew_address_hint" = "請仔細檢查地址、Memo（標籤）和網路，如果您轉錯了，資產將無法追回。";
-"reveiew_transfer_hint" = "請仔細檢查收款人、網路和金額，如果您轉錯了，資產將無法追回。";
-"reveiew_withdrawal_hint" = "請仔細檢查收款地址、網路和金額，如果您轉錯了，資產將無法追回。";
+"review_address_hint" = "請仔細檢查地址、Memo（標籤）和網路，如果您轉錯了，資產將無法追回。";
+"review_transfer_hint" = "請仔細檢查收款人、網路和金額，如果您轉錯了，資產將無法追回。";
+"review_withdrawal_hint" = "請仔細檢查收款地址、網路和金額，如果您轉錯了，資產將無法追回。";
 "revoke_access" = "取消授權";
 "revoke_multisig_signature" = "撤銷多簽確認";
 "revoke_multisig_transaction" = "撤銷多重簽名交易";

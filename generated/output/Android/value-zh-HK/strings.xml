@@ -52,6 +52,7 @@
 	<string name="address_adding_description">正在將添加地址的請求發送到 Mixin 服務器驗證，請稍候。</string>
 	<string name="address_deleting_description">刪除地址不影響資金安全，確認刪除該地址嗎？</string>
 	<string name="address_validity_reminder">地址確認提醒：請確認地址 %1$s（%2$s）仍然有效，您已經超過 30 天沒有使用該地址。</string>
+	<string name="address_will_receive">指定地址將收到</string>
 	<string name="Admin">管理員</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
@@ -876,6 +877,7 @@
 	<string name="RECEIVE">轉入</string>
 	<string name="Receive_Money">我的收款碼</string>
 	<string name="Receiver">至</string>
+	<string name="receiver_will_receive">對方將收到</string>
 	<string name="Recent">最近</string>
 	<string name="recent_chats">最近聊天</string>
 	<string name="Recent_searches">最近搜索</string>
@@ -927,9 +929,9 @@
 	<string name="Retry">重試</string>
 	<string name="Retry_upload_failed">重新上傳失敗。</string>
 	<string name="return_to_merchant_description">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
-	<string name="reveiew_address_hint">請仔細檢查地址、Memo（標籤）和網絡，如果您轉錯了，資產將無法追回。</string>
-	<string name="reveiew_transfer_hint">請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。</string>
-	<string name="reveiew_withdrawal_hint">請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。</string>
+	<string name="review_address_hint">請仔細檢查地址、Memo（標籤）和網絡，如果您轉錯了，資產將無法追回。</string>
+	<string name="review_transfer_hint">請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。</string>
+	<string name="review_withdrawal_hint">請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。</string>
 	<string name="Revoke_access">取消授權</string>
 	<string name="Revoke_Multisig_Signature">撤銷多簽確認</string>
 	<string name="Revoke_multisig_transaction">撤銷多重簽名交易</string>

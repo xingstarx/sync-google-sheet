@@ -38,6 +38,7 @@
 "address_deleting_description" = "Deleting the address does not compromise security. Are you sure you want to delete this address?";
 "address_not_found" = "Адрес не найден.";
 "address_validity_reminder" = "Address validity reminder: Verify the validity of the address %1$@(%2$@); It has not been used for over 30 days.";
+"address_will_receive" = "Address will receive";
 "admin" = "Администратор";
 "agree_hint" = "Продолжая, вы соглашаетесь с %@ и %@.";
 "albums" = "Альбомы";
@@ -810,6 +811,7 @@
 "receive" = "ПОЛУЧИТЬ";
 "receive_money" = "Получить деньги";
 "receiver" = "Получатель";
+"receiver_will_receive" = "Receiver will receive";
 "receivers" = "Получатели";
 "recent" = "Recent";
 "recent_chats" = "ЧАТЫ";
@@ -865,9 +867,9 @@
 "restoring_progress" = "Восстановление %@";
 "retry" = "Повторить";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
-"reveiew_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
-"reveiew_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
-"reveiew_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
+"review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
+"review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Отменить доступ";
 "revoke_multisig_signature" = "Revoke Multisig Signature";
 "revoke_multisig_transaction" = "Отозвать транзакцию с мультиподписью";
