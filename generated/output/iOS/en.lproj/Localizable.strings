@@ -39,6 +39,7 @@
 "address_adding_description" = "The request to add the address is currently under verification by the Mixin server. Please wait a moment.";
 "address_deleted" = "Address Deleted";
 "address_deleting_description" = "Deleting the address does not compromise security. Are you sure you want to delete this address?";
+"address_edited" = "Address Edited";
 "address_not_found" = "Address not found.";
 "address_validity_reminder" = "Address validity reminder: Verify the validity of the address %1$@(%2$@); It has not been used for over 30 days.";
 "address_will_receive" = "Address will receive";
@@ -249,6 +250,7 @@
 "confirm" = "Confirm";
 "confirm_adding_address" = "Confirm Adding Address";
 "confirm_deleteing_address" = "Confirm Deleteing Address";
+"confirm_editing_address" = "Confirm Editing Address";
 "confirm_signing_multisig" = "Confirm Signing Multisig";
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
@@ -397,11 +399,14 @@
 "edit" = "Edit";
 "edit_address" = "Edit %@ Address";
 "edit_biography" = "Edit Biography";
+"edit_by_pin" = "Edit by PIN";
 "edit_circle_name" = "Edit Circle Name";
 "edit_conversations" = "Edit Conversations";
 "edit_group_description" = "Edit Group Description";
 "edit_group_name" = "Edit Group Name";
 "edit_name" = "Edit Name";
+"editing_address" = "Editing Address";
+"editing_address_failed" = "Editing Address Failed";
 "emergency_contact" = "Emergency Contact";
 "enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
 "enable_emergency_contact" = "Enable Emergency Contact";

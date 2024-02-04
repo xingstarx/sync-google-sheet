@@ -54,6 +54,7 @@
 	<string name="address_adding_description">正在將新增地址的請求傳送到 Mixin 伺服器驗證，請稍候。</string>
 	<string name="address_deleted">地址已刪除</string>
 	<string name="address_deleting_description">刪除地址不影響資金安全，確認刪除該地址嗎？</string>
+	<string name="address_edited">地址已修改</string>
 	<string name="address_validity_reminder">地址確認提醒：請確認地址 %1$s（%2$s）仍然有效，您已經超過 30 天沒有使用該地址。</string>
 	<string name="address_will_receive">指定地址將收到</string>
 	<string name="Admin">管理員</string>
@@ -274,6 +275,7 @@
 	<string name="Confirm">確認</string>
 	<string name="Confirm_Adding_Address">新增地址確認</string>
 	<string name="Confirm_Deleteing_Address">刪除地址確認</string>
+	<string name="Confirm_Editing_Address">修改地址確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認 PIN</string>
 	<string name="Confirm_Signing_Multisig">多簽簽名確認</string>
@@ -422,11 +424,14 @@
 	<string name="Duration_is_too_short">時間太短</string>
 	<string name="edit_address">修改 %1$s 地址</string>
 	<string name="Edit_Biography">修改簡介</string>
+	<string name="edit_by_pin">透過 PIN 修改</string>
 	<string name="Edit_Circle_Name">編輯名稱</string>
 	<string name="Edit_Conversations">管理圈子</string>
 	<string name="Edit_Group_Description">編輯群公告</string>
 	<string name="Edit_group_name">編輯名稱</string>
 	<string name="Edit_Name">修改暱稱</string>
+	<string name="Editing_Address">正在修改地址</string>
+	<string name="Editing_Address_Failed">修改地址失敗</string>
 	<string name="Emergency_Contact">緊急聯絡人</string>
 	<string name="Empty_address_book">通訊錄內容為空</string>
 	<string name="Enable_after_1_minute">在 1 分鐘之後啟動</string>

@@ -39,6 +39,7 @@
 "address_adding_description" = "正在將新增地址的請求傳送到 Mixin 伺服器驗證，請稍候。";
 "address_deleted" = "地址已刪除";
 "address_deleting_description" = "刪除地址不影響資金安全，確認刪除該地址嗎？";
+"address_edited" = "地址已修改";
 "address_not_found" = "找不到該地址。";
 "address_validity_reminder" = "地址確認提醒：請確認地址 %1$@（%2$@）仍然有效，您已經超過 30 天沒有使用該地址。";
 "address_will_receive" = "指定地址將收到";
@@ -249,6 +250,7 @@
 "confirm" = "確認";
 "confirm_adding_address" = "新增地址確認";
 "confirm_deleteing_address" = "刪除地址確認";
+"confirm_editing_address" = "修改地址確認";
 "confirm_signing_multisig" = "多簽簽名確認";
 "confirm_transfer" = "轉賬確認";
 "confirm_withdrawal" = "提現確認";
@@ -397,11 +399,14 @@
 "edit" = "編輯";
 "edit_address" = "修改 %@ 地址";
 "edit_biography" = "修改簡介";
+"edit_by_pin" = "透過 PIN 修改";
 "edit_circle_name" = "編輯名稱";
 "edit_conversations" = "管理圈子";
 "edit_group_description" = "編輯群公告";
 "edit_group_name" = "編輯名稱";
 "edit_name" = "修改暱稱";
+"editing_address" = "正在修改地址";
+"editing_address_failed" = "修改地址失敗";
 "emergency_contact" = "緊急聯絡人";
 "enable_bioauth_description" = "想要開啟%@支付嗎？開啟後，轉賬時可驗證%@快速完成付款。";
 "enable_emergency_contact" = "啟用緊急聯絡人";
