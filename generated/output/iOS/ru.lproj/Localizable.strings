@@ -30,8 +30,14 @@
 "add_tag" = "Добавить тега";
 "add_to_stickers" = "Добавить в стикеры";
 "added" = "Добавлен";
+"adding_address" = "Adding Address";
+"adding_address_failed" = "Adding Address Failed";
 "address" = "Адрес";
+"address_added_description" = "The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.";
+"address_adding_description" = "The request to add the address is currently under verification by the Mixin server. Please wait a moment.";
+"address_deleting_description" = "Deleting the address does not compromise security. Are you sure you want to delete this address?";
 "address_not_found" = "Адрес не найден.";
+"address_validity_reminder" = "Address validity reminder: Verify the validity of the address %1$@(%2$@); It has not been used for over 30 days.";
 "admin" = "Администратор";
 "agree_hint" = "Продолжая, вы соглашаетесь с %@ и %@.";
 "albums" = "Альбомы";
@@ -237,6 +243,11 @@
 "compress_database" = "Сжать базу данных";
 "compressed" = "Сжатый";
 "confirm" = "Подтвердить";
+"confirm_adding_address" = "Confirm Adding Address";
+"confirm_deleteing_address" = "Confirm Deleteing Address";
+"confirm_signing_multisig" = "Confirm Signing Multisig";
+"confirm_transfer" = "Confirm Transfer";
+"confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_wallet" = "Connect Wallet";
@@ -332,6 +343,8 @@
 "delete_synced_contact" = "Удалить синхронизированные контакты";
 "delete_withdraw_address" = "Удалить адрес %@";
 "deleted" = "Удалено";
+"deleting_address" = "Deleting Address";
+"deleting_address_failed" = "Deleting Address Failed";
 "deposit" = "Депозит";
 "deposit_account_attention" = "Внимание: Пожалуйста, попробуйте небольшую сумму для первого депозита. Для успешного внесения %@ в Mixin Messenger необходимы как памятка, так и адрес.";
 "deposit_attention" = "Пожалуйста, попробуйте небольшую сумму для первого депозита.";
@@ -352,6 +365,7 @@
 "desktop_upgrade" = "Пожалуйста, обновите Mixin Messenger Desktop до последней версии.";
 "detect_qr_tip" = "Обнаружен QR-код Mixin, нажмите, чтобы распознать";
 "developer" = "Разработчик";
+"device_transfer_failed" = "Transfer failed";
 "devices_on_same_network" = "Please make sure both devices are connected to the same Wi-Fi or hotspot";
 "diagnose" = "Диагностировать";
 "diagnose_warning_hint" = "⚠️Используйте эти функции только по инструкции от команды Mixin.";
@@ -374,6 +388,7 @@
 "dont_have_assets" = "Don't have assets?";
 "duplicate_transfer_confirmation" = "Дубликат подтверждения перевода";
 "duplicate_withdraw_confirmation" = "Дубликат подтверждения вывода средств";
+"duplication_remainder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
 "edit" = "Редактировать";
 "edit_address" = "Изменить адрес %@";
 "edit_biography" = "Редактировать биографию";
@@ -383,6 +398,7 @@
 "edit_group_name" = "Изменить имя группы";
 "edit_name" = "Редактировать название";
 "emergency_contact" = "Экстренный контакт";
+"enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
 "enable_emergency_contact" = "Включить экстренный контакт";
 "enable_face_pay_hint" = "Подтвердите PIN-код, чтобы включить Face Pay";
 "enable_pay" = "Включить %@ Pay";
@@ -540,6 +556,7 @@
 "language" = "Язык";
 "large_amount_confirmation" = "Подтверждение крупной суммы";
 "large_amount_confirmation_with_symbol" = "Подтверждение крупной суммы(%@)";
+"large_amount_remainder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
 "last_active_time" = "Последнее посещение %@";
 "last_backup_hint" = "Последняя резервная копия %@, общий размер %@.";
 "last_month" = "Last month";
@@ -611,6 +628,7 @@
 "multisig_by_pin" = "Мультиподпись по PIN-коду";
 "multisig_receivers_threshold" = "Получатели (%@)";
 "multisig_senders_threshold" = "Senders (%@)";
+"multisig_signing_failed" = "Multisig Signing Failed";
 "multisig_state_signed" = "Эта мультиподписная ссылка уже подписана вами, вы не можете сделать дублирующую операцию.";
 "multisig_state_unlocked" = "Эта мультиподписная ссылка уже кем-то разблокирована, дублировать операцию нельзя.";
 "multisig_transaction" = "Мультиподписная транзакция";
@@ -846,8 +864,15 @@
 "restoring_chat_progress" = "Restoring Chat (%@%)";
 "restoring_progress" = "Восстановление %@";
 "retry" = "Повторить";
+"return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
+"reveiew_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"reveiew_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
+"reveiew_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Отменить доступ";
+"revoke_multisig_signature" = "Revoke Multisig Signature";
 "revoke_multisig_transaction" = "Отозвать транзакцию с мультиподписью";
+"revoking_multisig_failed" = "Revoking Multisig Failed";
+"revoking_multisig_signature" = "Revoking Multisig Signature";
 "room_is_full" = "Комната заполнена";
 "save" = "Сохранить";
 "save_by_pin" = "Сохранить по PIN-коду";
@@ -918,6 +943,9 @@
 "send_your_current_location" = "Отправить свое текущее местоположение";
 "send_count" = "Отправить(%d)";
 "senders" = "Отправители";
+"sending_multisig_signature" = "Sending Multisig Signature";
+"sending_transfer_request" = "Sending Transfer Request";
+"sending_withdrawal_request" = "Sending Withdrawal Request";
 "session_not_found" = "Session not found";
 "set" = "Установлен";
 "set_disappearing_message_time_to" = "%1$@ установил время исчезновения сообщения на %2$@.";
@@ -1042,7 +1070,7 @@
 "transfer_amount_count_down" = "Сумма перевода(%@)";
 "transfer_completed" = "Transfer completed";
 "transfer_error_pin_incorrect_with_times" = "ОШИБКА 20119: неверный PIN-код. У вас еще есть %@ шансов.";
-"transfer_failed" = "Transfer failed";
+"transfer_failed" = "Transfer Failed";
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_memo" = "Памятка (необязательно)";
@@ -1050,6 +1078,9 @@
 "transfer_now" = "Transfer Now";
 "transfer_protocol_version_not_matched" = "Protocol version does not match, transfer failed. Please upgrade the application first.";
 "transfer_qrcode_prompt" = "Отсканируйте QR-код, чтобы перевести меня на Mixin";
+"transfer_sending_description" = "The transfer request is being sent to the Mixin mainnet. Please wait a moment.";
+"transfer_sent_description" = "Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it.";
+"transfer_success" = "Transfer Success";
 "transfer_to" = "Перевести на %@";
 "transfer_to_another_phone" = "Transfer to Another Phone";
 "transfer_to_another_phone_hint" = "Transfer your chat history to another device";
@@ -1071,6 +1102,7 @@
 "unable_to_share_content" = "Невозможно поделиться этим контентом";
 "unauthorized" = "Неавторизованный";
 "unblock" = "Разблокировать";
+"unfamiliar_person_reminder" = "Unfamiliar person reminder: Confirm the transfer to %1$@ (%2$@)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.";
 "unit_day" = "день";
 "unit_day_count" = "дни";
 "unit_hour" = "час";
@@ -1170,6 +1202,7 @@
 "withdrawal_addr_new" = "Новый адрес %@";
 "withdrawal_addr_no_memo_or_tag" = "Если вам требуется заполнить тег назначения или номер ID или заметки, вы можете %@.";
 "withdrawal_address_tips" = "Для первого вывода на новый адрес попробуйте небольшие суммы! Если вы выведете активы не на тот адрес, они не будут восстановлены!";
+"withdrawal_failed" = "Withdrawal Failed";
 "withdrawal_hash" = "Withdrawal Hash";
 "withdrawal_label" = "Ярлык (например, биржи, кошельки и т.д.)";
 "withdrawal_memo" = "Памятка";
@@ -1179,6 +1212,9 @@
 "withdrawal_network_fee" = "Комиссия за сеть: ";
 "withdrawal_no_memo" = "Нет памятки";
 "withdrawal_pending" = "Pending";
+"withdrawal_request_sent" = "Withdrawal Request Sent";
+"withdrawal_sending_description" = "The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.";
+"withdrawal_sent_description" = "Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment.";
 "withdrawal_suspended" = "%@ Withdrawal Suspended";
 "withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.";
 "withdrawal_to" = "Вывод на %@";

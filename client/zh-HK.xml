@@ -1510,7 +1510,7 @@
   <string name="Transfer_completed" platform="iOS">傳輸已完成</string>
   <string name="transfer_completed" platform="Desktop, android">同步完成</string>
   <string name="transfer_error_pin_incorrect_with_times" platform="iOS">錯誤 20119：PIN 不正確。你還有 %@ 次機會嘗試。</string>
-  <string name="transfer_failed" platform="Desktop, android, iOS">同步失敗</string>
+  <string name="device_transfer_failed" platform="Desktop, android, iOS">同步失敗</string>
   <string name="Transfer_from_phone_hint" platform="iOS,android">將您的另一部手機的聊天記錄轉移過來。</string>
   <string name="Transfer_Hint" platform="iOS,android">同步你的聊天記錄到新的設備，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
   <string name="transfer_memo" platform="android, iOS">備註（可選）</string>
@@ -1715,4 +1715,40 @@
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已創建</string>
   <string name="zoom" platform="Desktop">縮放</string>
+  <string name="Confirm_Withdrawal" platform="android, iOS">提現確認</string>
+  <string name="Sending_Withdrawal_Request" platform="android, iOS">正在發送提現</string>
+  <string name="Withdrawal_Request_Sent" platform="android, iOS">提現請求已提交</string>
+  <string name="Withdrawal_Failed" platform="android, iOS">提現失敗</string>
+  <string name="reveiew_withdrawal_hint" platform="android, iOS">請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。</string>
+  <string name="address_validity_reminder" platform="android, iOS">地址確認提醒：請確認地址 %1$s（%2$s）仍然有效，您已經超過 30 天沒有使用該地址。</string>
+  <string name="withdrawal_sending_description" platform="android, iOS">正在將提現請求發送到 Mixin 主網驗證，請稍候。</string>
+  <string name="withdrawal_sent_description" platform="android, iOS">您的提現請求已通過 Mixin 主網確認，提現排隊處理中，請稍候。</string>
+  <string name="Confirm_Transfer" platform="android, iOS">轉賬確認</string>
+  <string name="Sending_Transfer_Request" platform="android, iOS">正在發送轉賬</string>
+  <string name="Transfer_Success" platform="android, iOS">轉賬成功</string>
+  <string name="Transfer_Failed" platform="android, iOS">轉賬失敗</string>
+  <string name="reveiew_transfer_hint" platform="android, iOS">請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。</string>
+  <string name="transfer_sending_description" platform="android, iOS">正在將轉賬請求發送到 Mixin 主網驗證，請稍候。</string>
+  <string name="transfer_sent_description" platform="android, iOS">您的轉賬請求已通過 Mixin 主網確認，收款人將很快就會收到轉賬。</string>
+  <string name="enable_bioauth_description" platform="iOS">想要開啓%@支付嗎？開啓後，轉賬時可驗證%@快速完成付款。</string>
+  <string name="return_to_merchant_description" platform="android, iOS">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
+  <string name="duplication_remainder" platform="android, iOS">重複轉賬提醒：您已經在%2$s前給該收款人轉賬了 %1$s。</string>
+  <string name="large_amount_remainder" platform="android, iOS">大額轉賬提醒：確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>
+  <string name="unfamiliar_person_reminder" platform="android, iOS">陌生轉賬提醒：確定給 %1$s（%2$s）轉賬？他不是你的聯繫人，如果您轉錯人，資產將無法追回。</string>
+  <string name="reveiew_address_hint" platform="android, iOS">請仔細檢查地址、Memo（標籤）和網絡，如果您轉錯了，資產將無法追回。</string>
+  <string name="Confirm_Signing_Multisig" platform="android, iOS">多籤簽名確認</string>
+  <string name="Sending_Multisig_Signature" platform="android, iOS">正在發送多籤簽名</string>
+  <string name="Multisig_Signing_Failed" platform="android, iOS">多籤簽名失敗</string>
+  <string name="Revoke_Multisig_Signature" platform="android, iOS">撤銷多籤確認</string>
+  <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤銷多籤</string>
+  <string name="Revoking_Multisig_Failed" platform="android, iOS">撤銷多籤失敗</string>
+  <string name="Confirm_Adding_Address" platform="android, iOS">添加地址確認</string>
+  <string name="Adding_Address" platform="android, iOS">正在添加地址</string>
+  <string name="Adding_Address_Failed" platform="android, iOS">添加地址失敗</string>
+  <string name="address_adding_description" platform="android, iOS">正在將添加地址的請求發送到 Mixin 服務器驗證，請稍候。</string>
+  <string name="address_added_description" platform="android, iOS">您添加地址的請求已通過 Mixin 服務器確認，您可以立刻使用該地址進行提現。</string>
+  <string name="Confirm_Deleteing_Address" platform="android, iOS">刪除地址確認</string>
+  <string name="Deleting_Address" platform="android, iOS">正在刪除地址</string>
+  <string name="Deleting_Address_Failed" platform="android, iOS">刪除地址失敗</string>
+  <string name="address_deleting_description" platform="android, iOS">刪除地址不影響資金安全，確認刪除該地址嗎？</string>
 </resources>

@@ -45,7 +45,13 @@
 	<string name="Add_to_Home_screen">Add to Home screen</string>
 	<string name="Added">Added</string>
 	<string name="Adding">Adding…</string>
+	<string name="Adding_Address">Adding Address</string>
+	<string name="Adding_Address_Failed">Adding Address Failed</string>
 	<string name="Address">Address</string>
+	<string name="address_added_description">The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.</string>
+	<string name="address_adding_description">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
+	<string name="address_deleting_description">Deleting the address does not compromise security. Are you sure you want to delete this address?</string>
+	<string name="address_validity_reminder">Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
 	<string name="Admin">Admin</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
@@ -267,8 +273,13 @@
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Confirm">Confirm</string>
+	<string name="Confirm_Adding_Address">Confirm Adding Address</string>
+	<string name="Confirm_Deleteing_Address">Confirm Deleteing Address</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
 	<string name="Confirm_PIN">Confirm PIN</string>
+	<string name="Confirm_Signing_Multisig">Confirm Signing Multisig</string>
+	<string name="Confirm_Transfer">Confirm Transfer</string>
+	<string name="Confirm_Withdrawal">Confirm Withdrawal</string>
 	<string name="Confirmations">Confirmations</string>
 	<string name="Connect_to_TIP_network_failed">Unable to connect to TIP network. Check your connection and try again.</string>
 	<string name="connect_wallet">Connect Wallet</string>
@@ -356,6 +367,8 @@
 	<string name="Delete_my_account">Delete My Account</string>
 	<string name="Delete_Synced_Contact">Delete Synced Contacts</string>
 	<string name="Delete_withdraw_Address">Delete %1$s Address</string>
+	<string name="Deleting_Address">Deleting Address</string>
+	<string name="Deleting_Address_Failed">Deleting Address Failed</string>
 	<string name="Deposit">Deposit</string>
 	<string name="deposit_account_attention">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger.</string>
 	<string name="deposit_attention">Please try a small amount for the first deposit.</string>
@@ -382,6 +395,7 @@
 	<string name="desktop_upgrade">Please upgrade Mixin Messenger Desktop to the latest version.</string>
 	<string name="detect_qr_tip">Detected a Mixin QR code, tap to recognize</string>
 	<string name="Developer">Developer</string>
+	<string name="device_transfer_failed">Transfer failed</string>
 	<string name="Device_unsupported">Device unsupported</string>
 	<string name="Diagnosis_Complete">Diagnosis Complete</string>
 	<string name="Disable_db_debug">Disable db debug</string>
@@ -408,6 +422,7 @@
 	<string name="Draw">Draw</string>
 	<string name="Duplicate_Transfer_Confirmation">Duplicate Transfer Confirmation</string>
 	<string name="Duplicate_Withdraw_Confirmation">Duplicate Withdraw Confirmation</string>
+	<string name="duplication_remainder">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
 	<string name="Duration_is_too_short">Duration is too short</string>
 	<string name="edit_address">Edit %1$s Address</string>
 	<string name="Edit_Biography">Edit Biography</string>
@@ -615,6 +630,7 @@
 	<string name="Language">Language</string>
 	<string name="Large_Amount_Confirmation">Large Amount Confirmation</string>
 	<string name="Large_Amount_Confirmation_with_symbol">Large Amount Confirmation(%1$s)</string>
+	<string name="large_amount_remainder">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
 	<string name="Last_Backup">Last Backup</string>
 	<string name="Last_month">Last month</string>
 	<string name="Last_months">Last %1$s months</string>
@@ -696,6 +712,7 @@
 	<string name="Multisig_by_PIN">Multisig by PIN</string>
 	<string name="multisig_receivers_threshold">Receivers (%1$s)</string>
 	<string name="multisig_senders_threshold">Senders (%1$s)</string>
+	<string name="Multisig_Signing_Failed">Multisig Signing Failed</string>
 	<string name="multisig_state_signed">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
 	<string name="multisig_state_unlocked">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
 	<string name="Multisig_Transaction">Multisig Transaction</string>
@@ -928,8 +945,15 @@
 	<string name="Restoring_Chat_Progress">Restoring Chat (%1$s%)</string>
 	<string name="Retry">Retry</string>
 	<string name="Retry_upload_failed">Retry upload failed.</string>
+	<string name="return_to_merchant_description">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
+	<string name="reveiew_address_hint">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
+	<string name="reveiew_transfer_hint">Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.</string>
+	<string name="reveiew_withdrawal_hint">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
 	<string name="Revoke_access">Revoke access</string>
+	<string name="Revoke_Multisig_Signature">Revoke Multisig Signature</string>
 	<string name="Revoke_multisig_transaction">Revoke Multisig Transaction</string>
+	<string name="Revoking_Multisig_Failed">Revoking Multisig Failed</string>
+	<string name="Revoking_Multisig_Signature">Revoking Multisig Signature</string>
 	<string name="Saturday">Saturday</string>
 	<string name="Save">Save</string>
 	<string name="Save_failure">Save failure</string>
@@ -989,6 +1013,9 @@
 	<string name="Send_Without_Sound">Send Without Sound</string>
 	<string name="Send_your_Current_Location">Send your Current Location</string>
 	<string name="Senders">Senders</string>
+	<string name="Sending_Multisig_Signature">Sending Multisig Signature</string>
+	<string name="Sending_Transfer_Request">Sending Transfer Request</string>
+	<string name="Sending_Withdrawal_Request">Sending Withdrawal Request</string>
 	<string name="session_not_found">Session not found</string>
 	<string name="Set">Set</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
@@ -1143,7 +1170,7 @@
 	<string name="Transfer_Amount">Transfer Amount</string>
 	<string name="Transfer_Amount_count_down">Transfer Amount(%1$s)</string>
 	<string name="transfer_completed">Transfer completed</string>
-	<string name="transfer_failed">Transfer failed</string>
+	<string name="Transfer_Failed">Transfer Failed</string>
 	<string name="Transfer_from_phone_hint">Transfer your chat history from your another phone.</string>
 	<string name="Transfer_Hint">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
 	<string name="transfer_memo">Memo (optional)</string>
@@ -1151,6 +1178,9 @@
 	<string name="Transfer_Now">Transfer Now</string>
 	<string name="transfer_protocol_version_not_matched">Protocol version does not match, transfer failed. Please upgrade the application first.</string>
 	<string name="transfer_qrcode_prompt">Scan the QR Code to transfer me on Mixin</string>
+	<string name="transfer_sending_description">The transfer request is being sent to the Mixin mainnet. Please wait a moment.</string>
+	<string name="transfer_sent_description">Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it.</string>
+	<string name="Transfer_Success">Transfer Success</string>
 	<string name="transfer_to">Transfer to %1$s</string>
 	<string name="Transfer_to_Another_Phone">Transfer to Another Phone</string>
 	<string name="Transfer_to_Another_Phone_Hint">Transfer your chat history to another device</string>
@@ -1170,6 +1200,7 @@
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
+	<string name="unfamiliar_person_reminder">Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
 	<plurals name="unit_day">
 		<item quantity="one">day</item>
 		<item quantity="other">days</item>
@@ -1292,6 +1323,7 @@
 	<string name="withdrawal_addr_pin_delete">Enter PIN to delete address</string>
 	<string name="withdrawal_addr_pin_modify">Enter PIN to modify address</string>
 	<string name="withdrawal_address_tips">For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered!</string>
+	<string name="Withdrawal_Failed">Withdrawal Failed</string>
 	<string name="withdrawal_hash">Withdrawal Hash</string>
 	<string name="withdrawal_label">Label (e.g. exchanges, wallets, etc.)</string>
 	<string name="withdrawal_memo">Memo</string>
@@ -1301,6 +1333,9 @@
 	<string name="withdrawal_network_fee">Network fee: </string>
 	<string name="withdrawal_no_memo">No Memo</string>
 	<string name="withdrawal_pending">Pending</string>
+	<string name="Withdrawal_Request_Sent">Withdrawal Request Sent</string>
+	<string name="withdrawal_sending_description">The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.</string>
+	<string name="withdrawal_sent_description">Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment.</string>
 	<string name="withdrawal_suspended">%1$s Withdrawal Suspended</string>
 	<string name="withdrawal_suspended_description">%1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.</string>
 	<string name="withdrawal_to">Withdraw to %1$s</string>

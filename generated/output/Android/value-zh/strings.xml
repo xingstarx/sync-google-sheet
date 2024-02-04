@@ -45,7 +45,13 @@
 	<string name="Add_to_Home_screen">添加到桌面</string>
 	<string name="Added">已添加</string>
 	<string name="Adding">正在添加…</string>
+	<string name="Adding_Address">正在添加地址</string>
+	<string name="Adding_Address_Failed">添加地址失败</string>
 	<string name="Address">地址</string>
+	<string name="address_added_description">您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
+	<string name="address_adding_description">正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。</string>
+	<string name="address_deleting_description">删除地址不影响资金安全，确认删除该地址吗？</string>
+	<string name="address_validity_reminder">地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。</string>
 	<string name="Admin">管理员</string>
 	<string name="After_1_minute">1分钟之后</string>
 	<string name="After_30_minutes">30分钟之后</string>
@@ -262,8 +268,13 @@
 	<string name="Combine_and_forward">合并转发</string>
 	<string name="Combine_utxo">归集 UTXO</string>
 	<string name="Confirm">确认</string>
+	<string name="Confirm_Adding_Address">添加地址确认</string>
+	<string name="Confirm_Deleteing_Address">删除地址确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
 	<string name="Confirm_PIN">确认 PIN</string>
+	<string name="Confirm_Signing_Multisig">多签签名确认</string>
+	<string name="Confirm_Transfer">转账确认</string>
+	<string name="Confirm_Withdrawal">提现确认</string>
 	<string name="Confirmations">区块确认数</string>
 	<string name="Connect_to_TIP_network_failed">连接 TIP 网络失败，请尝试切换网络后重试</string>
 	<string name="connect_wallet">连接钱包</string>
@@ -348,6 +359,8 @@
 	<string name="Delete_my_account">注销账户</string>
 	<string name="Delete_Synced_Contact">删除已同步的通讯录</string>
 	<string name="Delete_withdraw_Address">删除 %1$s 地址</string>
+	<string name="Deleting_Address">正在删除地址</string>
+	<string name="Deleting_Address_Failed">删除地址失败</string>
 	<string name="Deposit">充值</string>
 	<string name="deposit_account_attention">注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。</string>
 	<string name="deposit_attention">首次充值建议小额尝试！</string>
@@ -374,6 +387,7 @@
 	<string name="desktop_upgrade">请升级 Mixin Messenger 桌面端至最新版！</string>
 	<string name="detect_qr_tip">检测到一个 Mixin 二维码，点击识别</string>
 	<string name="Developer">开发者</string>
+	<string name="device_transfer_failed">同步失败</string>
 	<string name="Device_unsupported">当前设备不支持</string>
 	<string name="Diagnosis_Complete">诊断完成</string>
 	<string name="Disable_db_debug">已关闭 db 调试</string>
@@ -399,6 +413,7 @@
 	<string name="Draw">绘制</string>
 	<string name="Duplicate_Transfer_Confirmation">重复转账确认</string>
 	<string name="Duplicate_Withdraw_Confirmation">重复提现确认</string>
+	<string name="duplication_remainder">重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。</string>
 	<string name="Duration_is_too_short">时间太短</string>
 	<string name="edit_address">修改 %1$s 地址</string>
 	<string name="Edit_Biography">修改简介</string>
@@ -599,6 +614,7 @@
 	<string name="Language">语言</string>
 	<string name="Large_Amount_Confirmation">大额转账确认</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大额转账确认（%1$s）</string>
+	<string name="large_amount_remainder">大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？</string>
 	<string name="Last_Backup">上次备份</string>
 	<string name="Last_month">最近一个月</string>
 	<string name="Last_months">最近 %1$s 个月</string>
@@ -678,6 +694,7 @@
 	<string name="Multisig_by_PIN">通过 PIN 签名</string>
 	<string name="multisig_receivers_threshold">交易接收人（%1$s）</string>
 	<string name="multisig_senders_threshold">交易发起人（%1$s）</string>
+	<string name="Multisig_Signing_Failed">多签签名失败</string>
 	<string name="multisig_state_signed">您已经对这笔交易进行了签名，您无法再次签名。</string>
 	<string name="multisig_state_unlocked">这笔交易已经被其他人撤销了，您无法再次撤销。</string>
 	<string name="Multisig_Transaction">多重签名交易</string>
@@ -909,8 +926,15 @@
 	<string name="Restoring_Chat_Progress">恢复聊天记录（%1$s%）</string>
 	<string name="Retry">重试</string>
 	<string name="Retry_upload_failed">重新上传失败。</string>
+	<string name="return_to_merchant_description">来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。</string>
+	<string name="reveiew_address_hint">请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。</string>
+	<string name="reveiew_transfer_hint">请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。</string>
+	<string name="reveiew_withdrawal_hint">请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。</string>
 	<string name="Revoke_access">取消授权</string>
+	<string name="Revoke_Multisig_Signature">撤销多签确认</string>
 	<string name="Revoke_multisig_transaction">撤销多重签名交易</string>
+	<string name="Revoking_Multisig_Failed">撤销多签失败</string>
+	<string name="Revoking_Multisig_Signature">正在撤销多签</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>
 	<string name="Save_failure">保存失败</string>
@@ -969,6 +993,9 @@
 	<string name="Send_Without_Sound">静音发送</string>
 	<string name="Send_your_Current_Location">发送您当前的位置</string>
 	<string name="Senders">交易发起人</string>
+	<string name="Sending_Multisig_Signature">正在发送多签签名</string>
+	<string name="Sending_Transfer_Request">正在发送转账</string>
+	<string name="Sending_Withdrawal_Request">正在发送提现</string>
 	<string name="session_not_found">没有对应的连接</string>
 	<string name="Set">设置</string>
 	<string name="set_disappearing_message_time_to">%1$s将限时消息设置为 %2$s</string>
@@ -1121,7 +1148,7 @@
 	<string name="Transfer_Amount">转账金额</string>
 	<string name="Transfer_Amount_count_down">转账金额（%1$s）</string>
 	<string name="transfer_completed">同步完成</string>
-	<string name="transfer_failed">同步失败</string>
+	<string name="Transfer_Failed">转账失败</string>
 	<string name="Transfer_from_phone_hint">将您的另一部手机的聊天记录转移过来。</string>
 	<string name="Transfer_Hint">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
 	<string name="transfer_memo">备注（可选）</string>
@@ -1129,6 +1156,9 @@
 	<string name="Transfer_Now">开始传输</string>
 	<string name="transfer_protocol_version_not_matched">版本不匹配，无法同步数据，请先升级应用。</string>
 	<string name="transfer_qrcode_prompt">用 Mixin 扫描二维码给我转账</string>
+	<string name="transfer_sending_description">正在将转账请求发送到 Mixin 主网验证，请稍候。</string>
+	<string name="transfer_sent_description">您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。</string>
+	<string name="Transfer_Success">转账成功</string>
 	<string name="transfer_to">转账给 %1$s</string>
 	<string name="Transfer_to_Another_Phone">备份到另一台手机</string>
 	<string name="Transfer_to_Another_Phone_Hint">备份你的聊天记录到另一台设备</string>
@@ -1148,6 +1178,7 @@
 	<string name="unable_to_decode_the_request">无法解析请求: %1$s</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤销</string>
+	<string name="unfamiliar_person_reminder">陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">天</item>
 		<item quantity="other">天</item>
@@ -1268,6 +1299,7 @@
 	<string name="withdrawal_addr_pin_delete">请输入 PIN 来完成删除</string>
 	<string name="withdrawal_addr_pin_modify">请输入 PIN 来完成修改</string>
 	<string name="withdrawal_address_tips">首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！</string>
+	<string name="Withdrawal_Failed">提现失败</string>
 	<string name="withdrawal_hash">提现哈希</string>
 	<string name="withdrawal_label">地址名称，例如 OceanOne</string>
 	<string name="withdrawal_memo">Memo（备注）</string>
@@ -1277,6 +1309,9 @@
 	<string name="withdrawal_network_fee">网络手续费：</string>
 	<string name="withdrawal_no_memo">点击不使用 Memo（备注）</string>
 	<string name="withdrawal_pending">提现中</string>
+	<string name="Withdrawal_Request_Sent">提现请求已提交</string>
+	<string name="withdrawal_sending_description">正在将提现请求发送到 Mixin 主网验证，请稍候。</string>
+	<string name="withdrawal_sent_description">您的提现请求已通过 Mixin 主网确认，提现排队处理中，请稍候。</string>
 	<string name="withdrawal_suspended">%1$s 提现暂停</string>
 	<string name="withdrawal_suspended_description">%1$s 提现已暂停，可能的原因是因为节点故障、区块链网络硬分叉或者拥堵，请耐心等候并稍后重试</string>
 	<string name="withdrawal_to">提现到 %1$s</string>
