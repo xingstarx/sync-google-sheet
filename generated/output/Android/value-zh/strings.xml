@@ -55,6 +55,8 @@
 	<string name="address_deleted">地址已删除</string>
 	<string name="address_deleting_description">删除地址不影响资金安全，确认删除该地址吗？</string>
 	<string name="address_edited">地址已修改</string>
+	<string name="address_edited_description">您修改地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
+	<string name="address_editing_description">正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。</string>
 	<string name="address_validity_reminder">地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。</string>
 	<string name="address_will_receive">指定地址将收到</string>
 	<string name="Admin">管理员</string>
