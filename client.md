@@ -1533,7 +1533,7 @@
 | iOS | Transfer_completed | Transfer completed | 传输已完成 |     |     |     |
 | Desktop, android | transfer_completed | Transfer completed | 同步完成 |     |     |     |
 | iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. | 错误 20119：PIN 不正确。你还有 %@ 次机会尝试。 | エラー20119: PINコードが間違っています。あと%@回入力可能です。 |     |     |
-| Desktop, android, iOS | transfer_failed | Transfer failed | 同步失败 |     |     |     |
+| Desktop, android, iOS | device_transfer_failed | Transfer failed | 同步失败 |     |     |     |
 | iOS,android | Transfer_from_phone_hint | Transfer your chat history from your another phone. | 将您的另一部手机的聊天记录转移过来。 |     |     |     |
 | iOS,android | Transfer_Hint | Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 | android, iOS | transfer_memo | Memo (optional) | 备注（可选） | メモ（オプション） |     |     |
@@ -1744,3 +1744,39 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
+| android, iOS | Confirm_Withdrawal | Confirm Withdrawal | 提现确认 |     |     |     |
+| android, iOS | Sending_Withdrawal_Request | Sending Withdrawal Request | 正在发送提现 |     |     |     |
+| android, iOS | Withdrawal_Request_Sent | Withdrawal Request Sent | 提现请求已提交 |     |     |     |
+| android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
+| android, iOS | reveiew_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
+| android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在将提现请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
+| android, iOS | withdrawal_sent_description | Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment. | 您的提现请求已通过 Mixin 主网确认，提现排队处理中，请稍候。 |     |     |     |
+| android, iOS | Confirm_Transfer | Confirm Transfer | 转账确认 |     |     |     |
+| android, iOS | Sending_Transfer_Request | Sending Transfer Request | 正在发送转账 |     |     |     |
+| android, iOS | Transfer_Success | Transfer Success | 转账成功 |     |     |     |
+| android, iOS | Transfer_Failed | Transfer Failed | 转账失败 |     |     |     |
+| android, iOS | reveiew_transfer_hint | Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss. | 请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在将转账请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
+| android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。 |     |     |     |
+| iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要开启%@支付吗？开启后，转账时可验证%@快速完成付款。 |     |     |     |
+| android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
+| android, iOS | duplication_remainder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
+| android, iOS | large_amount_remainder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
+| android, iOS | unfamiliar_person_reminder | Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
+| android, iOS | reveiew_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签签名确认 |     |     |     |
+| android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签签名 |     |     |     |
+| android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签签名失败 |     |     |     |
+| android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签确认 |     |     |     |
+| android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签 |     |     |     |
+| android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多签失败 |     |     |     |
+| android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
+| android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
+| android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
+| android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
+| android, iOS | address_added_description | The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals. | 您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。 |     |     |     |
+| android, iOS | Confirm_Deleteing_Address | Confirm Deleteing Address | 删除地址确认 |     |     |     |
+| android, iOS | Deleting_Address | Deleting Address | 正在删除地址 |     |     |     |
+| android, iOS | Deleting_Address_Failed | Deleting Address Failed | 删除地址失败 |     |     |     |
+| android, iOS | address_deleting_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |

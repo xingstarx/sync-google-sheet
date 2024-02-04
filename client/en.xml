@@ -1532,7 +1532,7 @@
   <string name="Transfer_completed" platform="iOS">Transfer completed</string>
   <string name="transfer_completed" platform="Desktop, android">Transfer completed</string>
   <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ERROR 20119: PIN incorrect. You still have %@ chances.</string>
-  <string name="transfer_failed" platform="Desktop, android, iOS">Transfer failed</string>
+  <string name="device_transfer_failed" platform="Desktop, android, iOS">Transfer failed</string>
   <string name="Transfer_from_phone_hint" platform="iOS,android">Transfer your chat history from your another phone.</string>
   <string name="Transfer_Hint" platform="iOS,android">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="transfer_memo" platform="android, iOS">Memo (optional)</string>
@@ -1743,4 +1743,40 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
+  <string name="Confirm_Withdrawal" platform="android, iOS">Confirm Withdrawal</string>
+  <string name="Sending_Withdrawal_Request" platform="android, iOS">Sending Withdrawal Request</string>
+  <string name="Withdrawal_Request_Sent" platform="android, iOS">Withdrawal Request Sent</string>
+  <string name="Withdrawal_Failed" platform="android, iOS">Withdrawal Failed</string>
+  <string name="reveiew_withdrawal_hint" platform="android, iOS">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
+  <string name="address_validity_reminder" platform="android, iOS">Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
+  <string name="withdrawal_sending_description" platform="android, iOS">The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.</string>
+  <string name="withdrawal_sent_description" platform="android, iOS">Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment.</string>
+  <string name="Confirm_Transfer" platform="android, iOS">Confirm Transfer</string>
+  <string name="Sending_Transfer_Request" platform="android, iOS">Sending Transfer Request</string>
+  <string name="Transfer_Success" platform="android, iOS">Transfer Success</string>
+  <string name="Transfer_Failed" platform="android, iOS">Transfer Failed</string>
+  <string name="reveiew_transfer_hint" platform="android, iOS">Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.</string>
+  <string name="transfer_sending_description" platform="android, iOS">The transfer request is being sent to the Mixin mainnet. Please wait a moment.</string>
+  <string name="transfer_sent_description" platform="android, iOS">Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it.</string>
+  <string name="enable_bioauth_description" platform="iOS">What about %@? Once enabled, you can expedite authentication with %@.</string>
+  <string name="return_to_merchant_description" platform="android, iOS">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
+  <string name="duplication_remainder" platform="android, iOS">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
+  <string name="large_amount_remainder" platform="android, iOS">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
+  <string name="unfamiliar_person_reminder" platform="android, iOS">Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
+  <string name="reveiew_address_hint" platform="android, iOS">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
+  <string name="Confirm_Signing_Multisig" platform="android, iOS">Confirm Signing Multisig</string>
+  <string name="Sending_Multisig_Signature" platform="android, iOS">Sending Multisig Signature</string>
+  <string name="Multisig_Signing_Failed" platform="android, iOS">Multisig Signing Failed</string>
+  <string name="Revoke_Multisig_Signature" platform="android, iOS">Revoke Multisig Signature</string>
+  <string name="Revoking_Multisig_Signature" platform="android, iOS">Revoking Multisig Signature</string>
+  <string name="Revoking_Multisig_Failed" platform="android, iOS">Revoking Multisig Failed</string>
+  <string name="Confirm_Adding_Address" platform="android, iOS">Confirm Adding Address</string>
+  <string name="Adding_Address" platform="android, iOS">Adding Address</string>
+  <string name="Adding_Address_Failed" platform="android, iOS">Adding Address Failed</string>
+  <string name="address_adding_description" platform="android, iOS">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
+  <string name="address_added_description" platform="android, iOS">The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.</string>
+  <string name="Confirm_Deleteing_Address" platform="android, iOS">Confirm Deleteing Address</string>
+  <string name="Deleting_Address" platform="android, iOS">Deleting Address</string>
+  <string name="Deleting_Address_Failed" platform="android, iOS">Deleting Address Failed</string>
+  <string name="address_deleting_description" platform="android, iOS">Deleting the address does not compromise security. Are you sure you want to delete this address?</string>
 </resources>
