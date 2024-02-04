@@ -1757,4 +1757,5 @@
   <string name="address_added" platform="android, iOS">地址已添加</string>
   <string name="address_deleted" platform="android, iOS">地址已删除</string>
   <string name="add_by_pin" platform="android, iOS">通过 PIN 添加</string>
+  <string name="delete_by_pin" platform="android, iOS">通过 PIN 删除</string>
 </resources>
