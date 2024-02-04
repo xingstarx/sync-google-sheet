@@ -999,6 +999,7 @@
 	<string name="select_payment_method">Select Payment Method</string>
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>
+	<string name="send_by_pin">Send by PIN</string>
 	<string name="send_file_group">Send \"%1$s\" to \"%2$s\"?</string>
 	<string name="Send_Message">Send Message</string>
 	<string name="send_signed_message_confirmation">The message has been signed successfully, click the button below to send or discard the signed message</string>

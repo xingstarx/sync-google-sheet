@@ -979,6 +979,7 @@
 	<string name="select_payment_method">选择支付方式</string>
 	<string name="Send">发送</string>
 	<string name="Send_as_file">按文件发送</string>
+	<string name="send_by_pin">通过 PIN 发送</string>
 	<string name="send_file_group">将 \"%1$s\" 发送给 \"%2$s\"？</string>
 	<string name="Send_Message">发消息</string>
 	<string name="send_signed_message_confirmation">此消息已被签名，点击下方按钮以发送或丢弃</string>

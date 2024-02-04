@@ -245,7 +245,7 @@
 "confirm" = "確認";
 "confirm_adding_address" = "新增地址確認";
 "confirm_deleteing_address" = "刪除地址確認";
-"confirm_signing_multisig" = "多籤簽名確認";
+"confirm_signing_multisig" = "多簽簽名確認";
 "confirm_transfer" = "轉賬確認";
 "confirm_withdrawal" = "提現確認";
 "confirmations" = "區塊確認數";
@@ -628,7 +628,7 @@
 "multisig_by_pin" = "透過 PIN 簽名";
 "multisig_receivers_threshold" = "交易接收人（%@）";
 "multisig_senders_threshold" = "交易發起人（%@）";
-"multisig_signing_failed" = "多籤簽名失敗";
+"multisig_signing_failed" = "多簽簽名失敗";
 "multisig_state_signed" = "您已經對這筆交易進行了簽名，您無法再次簽名。";
 "multisig_state_unlocked" = "這筆交易已經被其他人撤銷了，您無法再次撤銷。";
 "multisig_transaction" = "多重簽名交易";
@@ -869,10 +869,10 @@
 "reveiew_transfer_hint" = "請仔細檢查收款人、網路和金額，如果您轉錯了，資產將無法追回。";
 "reveiew_withdrawal_hint" = "請仔細檢查收款地址、網路和金額，如果您轉錯了，資產將無法追回。";
 "revoke_access" = "取消授權";
-"revoke_multisig_signature" = "撤銷多籤確認";
+"revoke_multisig_signature" = "撤銷多簽確認";
 "revoke_multisig_transaction" = "撤銷多重簽名交易";
-"revoking_multisig_failed" = "撤銷多籤失敗";
-"revoking_multisig_signature" = "正在撤銷多籤";
+"revoking_multisig_failed" = "撤銷多簽失敗";
+"revoking_multisig_signature" = "正在撤銷多簽";
 "room_is_full" = "房間已滿";
 "save" = "儲存";
 "save_by_pin" = "透過 PIN 儲存";
@@ -922,6 +922,7 @@
 "send" = "傳送";
 "send_as_file" = "傳送為檔案";
 "send_as_files" = "傳送為檔案";
+"send_by_pin" = "透過 PIN 傳送";
 "send_item" = "傳送 1 項";
 "send_item_count" = "傳送 %d 項";
 "send_message" = "發訊息";
@@ -943,7 +944,7 @@
 "send_your_current_location" = "傳送您當前的位置";
 "send_count" = "傳送（%d）";
 "senders" = "交易發起人";
-"sending_multisig_signature" = "正在傳送多籤簽名";
+"sending_multisig_signature" = "正在傳送多簽簽名";
 "sending_transfer_request" = "正在傳送轉賬";
 "sending_withdrawal_request" = "正在傳送提現";
 "session_not_found" = "沒有對應的連線";

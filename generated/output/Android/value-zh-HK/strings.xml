@@ -272,7 +272,7 @@
 	<string name="Confirm_Deleteing_Address">刪除地址確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
 	<string name="Confirm_PIN">確認 PIN</string>
-	<string name="Confirm_Signing_Multisig">多籤簽名確認</string>
+	<string name="Confirm_Signing_Multisig">多簽簽名確認</string>
 	<string name="Confirm_Transfer">轉賬確認</string>
 	<string name="Confirm_Withdrawal">提現確認</string>
 	<string name="Confirmations">區塊確認數</string>
@@ -694,7 +694,7 @@
 	<string name="Multisig_by_PIN">通過 PIN 簽名</string>
 	<string name="multisig_receivers_threshold">交易接收人（%1$s）</string>
 	<string name="multisig_senders_threshold">交易發起人（%1$s）</string>
-	<string name="Multisig_Signing_Failed">多籤簽名失敗</string>
+	<string name="Multisig_Signing_Failed">多簽簽名失敗</string>
 	<string name="multisig_state_signed">您已經對這筆交易進行了簽名，您無法再次簽名。</string>
 	<string name="multisig_state_unlocked">這筆交易已經被其他人撤銷了，您無法再次撤銷。</string>
 	<string name="Multisig_Transaction">多重簽名交易</string>
@@ -931,10 +931,10 @@
 	<string name="reveiew_transfer_hint">請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。</string>
 	<string name="reveiew_withdrawal_hint">請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。</string>
 	<string name="Revoke_access">取消授權</string>
-	<string name="Revoke_Multisig_Signature">撤銷多籤確認</string>
+	<string name="Revoke_Multisig_Signature">撤銷多簽確認</string>
 	<string name="Revoke_multisig_transaction">撤銷多重簽名交易</string>
-	<string name="Revoking_Multisig_Failed">撤銷多籤失敗</string>
-	<string name="Revoking_Multisig_Signature">正在撤銷多籤</string>
+	<string name="Revoking_Multisig_Failed">撤銷多簽失敗</string>
+	<string name="Revoking_Multisig_Signature">正在撤銷多簽</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>
 	<string name="Save_failure">保存失敗</string>
@@ -979,6 +979,7 @@
 	<string name="select_payment_method">選擇支付方式</string>
 	<string name="Send">發送</string>
 	<string name="Send_as_file">按檔案發送</string>
+	<string name="send_by_pin">通過 PIN 發送</string>
 	<string name="send_file_group">將 \"%1$s\" 發送給 \"%2$s\"？</string>
 	<string name="Send_Message">發消息</string>
 	<string name="send_signed_message_confirmation">此消息已被簽名，點擊下方按鈕以發送或丟棄</string>
@@ -993,7 +994,7 @@
 	<string name="Send_Without_Sound">靜音發送</string>
 	<string name="Send_your_Current_Location">發送您當前的位置</string>
 	<string name="Senders">交易發起人</string>
-	<string name="Sending_Multisig_Signature">正在發送多籤簽名</string>
+	<string name="Sending_Multisig_Signature">正在發送多簽簽名</string>
 	<string name="Sending_Transfer_Request">正在發送轉賬</string>
 	<string name="Sending_Withdrawal_Request">正在發送提現</string>
 	<string name="session_not_found">沒有對應的連接</string>
