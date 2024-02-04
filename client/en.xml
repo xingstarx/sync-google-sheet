@@ -1749,4 +1749,10 @@
   <string name="Withdrawal_Failed" platform="android, iOS">Withdrawal Failed</string>
   <string name="withdrawal_reveiew_hint" platform="android, iOS">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
   <string name="address_validity_reminder" platform="android, iOS">Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
+  <string name="sending_withdrawal_request_description" platform="android, iOS">The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.</string>
+  <string name="withdrawal_request_sent_description" platform="android, iOS">Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment.</string>
+  <string name="Confirm_Transfer" platform="android, iOS">Confirm Transfer</string>
+  <string name="Sending_Transfer_Request" platform="android, iOS">Sending Transfer Request</string>
+  <string name="Transfer_Success" platform="android, iOS">Transfer Success</string>
+  <string name="Transfer_Failed" platform="android, iOS">Transfer Failed</string>
 </resources>

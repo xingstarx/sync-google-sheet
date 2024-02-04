@@ -1750,3 +1750,13 @@
 | android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
 | android, iOS | withdrawal_reveiew_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
+| android, iOS | sending_withdrawal_request_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在将提现请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
+| android, iOS | withdrawal_request_sent_description | Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment. | 您的提现请求已通过 Mixin 主网确认，提现排队处理中，请稍候。 |     |     |     |
+| android, iOS | Confirm_Transfer | Confirm Transfer | 转账确认 |     |     |     |
+| android, iOS | Sending_Transfer_Request | Sending Transfer Request | 正在发送转账 |     |     |     |
+| android, iOS | Transfer_Success | Transfer Success | 转账成功 |     |     |     |
+| android, iOS | Transfer_Failed | Transfer Failed | 转账失败 |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
