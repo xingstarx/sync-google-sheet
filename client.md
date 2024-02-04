@@ -1748,7 +1748,7 @@
 | android, iOS | Sending_Withdrawal_Request | Sending Withdrawal Request | 正在发送提现 |     |     |     |
 | android, iOS | Withdrawal_Request_Sent | Withdrawal Request Sent | 提现请求已提交 |     |     |     |
 | android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
-| android, iOS | reveiew_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | review_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
 | android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在将提现请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | withdrawal_sent_description | Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment. | 您的提现请求已通过 Mixin 主网确认，提现排队处理中，请稍候。 |     |     |     |
@@ -1756,7 +1756,7 @@
 | android, iOS | Sending_Transfer_Request | Sending Transfer Request | 正在发送转账 |     |     |     |
 | android, iOS | Transfer_Success | Transfer Success | 转账成功 |     |     |     |
 | android, iOS | Transfer_Failed | Transfer Failed | 转账失败 |     |     |     |
-| android, iOS | reveiew_transfer_hint | Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss. | 请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | review_transfer_hint | Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss. | 请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在将转账请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。 |     |     |     |
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要开启%@支付吗？开启后，转账时可验证%@快速完成付款。 |     |     |     |
@@ -1764,7 +1764,7 @@
 | android, iOS | duplication_remainder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
 | android, iOS | large_amount_remainder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
 | android, iOS | unfamiliar_person_reminder | Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
-| android, iOS | reveiew_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
+| android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签签名确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签签名 |     |     |     |
 | android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签签名失败 |     |     |     |
@@ -1781,3 +1781,4 @@
 | android, iOS | Deleting_Address_Failed | Deleting Address Failed | 删除地址失败 |     |     |     |
 | android, iOS | address_deleting_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
+| android, iOS |     |     |     |     |     |     |

@@ -1747,7 +1747,7 @@
   <string name="Sending_Withdrawal_Request" platform="android, iOS">Sending Withdrawal Request</string>
   <string name="Withdrawal_Request_Sent" platform="android, iOS">Withdrawal Request Sent</string>
   <string name="Withdrawal_Failed" platform="android, iOS">Withdrawal Failed</string>
-  <string name="reveiew_withdrawal_hint" platform="android, iOS">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
+  <string name="review_withdrawal_hint" platform="android, iOS">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
   <string name="address_validity_reminder" platform="android, iOS">Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
   <string name="withdrawal_sending_description" platform="android, iOS">The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.</string>
   <string name="withdrawal_sent_description" platform="android, iOS">Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment.</string>
@@ -1755,7 +1755,7 @@
   <string name="Sending_Transfer_Request" platform="android, iOS">Sending Transfer Request</string>
   <string name="Transfer_Success" platform="android, iOS">Transfer Success</string>
   <string name="Transfer_Failed" platform="android, iOS">Transfer Failed</string>
-  <string name="reveiew_transfer_hint" platform="android, iOS">Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.</string>
+  <string name="review_transfer_hint" platform="android, iOS">Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.</string>
   <string name="transfer_sending_description" platform="android, iOS">The transfer request is being sent to the Mixin mainnet. Please wait a moment.</string>
   <string name="transfer_sent_description" platform="android, iOS">Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it.</string>
   <string name="enable_bioauth_description" platform="iOS">What about %@? Once enabled, you can expedite authentication with %@.</string>
@@ -1763,7 +1763,7 @@
   <string name="duplication_remainder" platform="android, iOS">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
   <string name="large_amount_remainder" platform="android, iOS">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
   <string name="unfamiliar_person_reminder" platform="android, iOS">Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
-  <string name="reveiew_address_hint" platform="android, iOS">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
+  <string name="review_address_hint" platform="android, iOS">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
   <string name="Confirm_Signing_Multisig" platform="android, iOS">Confirm Signing Multisig</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">Sending Multisig Signature</string>
   <string name="Multisig_Signing_Failed" platform="android, iOS">Multisig Signing Failed</string>
