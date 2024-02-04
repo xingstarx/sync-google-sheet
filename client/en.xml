@@ -1775,8 +1775,8 @@
   <string name="Adding_Address_Failed" platform="android, iOS">Adding Address Failed</string>
   <string name="address_adding_description" platform="android, iOS">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
   <string name="address_added_description" platform="android, iOS">The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.</string>
-  <string name="Confirm_Deleteing_Address" platform="">Confirm Deleteing Address</string>
-  <string name="Deleteing_Address" platform="">Deleteing Address</string>
-  <string name="Deleteing_Address_Failed" platform="">Deleteing Address Failed</string>
-  <string name="" platform="">Deleting the address does not compromise security. Are you sure you want to delete this address?</string>
+  <string name="Confirm_Deleteing_Address" platform="android, iOS">Confirm Deleteing Address</string>
+  <string name="Deleting_Address" platform="android, iOS">Deleting Address</string>
+  <string name="Deleting_Address_Failed" platform="android, iOS">Deleting Address Failed</string>
+  <string name="address_deleting_description" platform="android, iOS">Deleting the address does not compromise security. Are you sure you want to delete this address?</string>
 </resources>

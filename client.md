@@ -1776,7 +1776,7 @@
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
 | android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
 | android, iOS | address_added_description | The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals. | 您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。 |     |     |     |
-|     | Confirm_Deleteing_Address | Confirm Deleteing Address | 删除地址确认 |     |     |     |
-|     | Deleteing_Address | Deleteing Address | 正在删除地址 |     |     |     |
-|     | Deleteing_Address_Failed | Deleteing Address Failed | 删除地址失败 |     |     |     |
-|     |     | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |
+| android, iOS | Confirm_Deleteing_Address | Confirm Deleteing Address | 删除地址确认 |     |     |     |
+| android, iOS | Deleting_Address | Deleting Address | 正在删除地址 |     |     |     |
+| android, iOS | Deleting_Address_Failed | Deleting Address Failed | 删除地址失败 |     |     |     |
+| android, iOS | address_deleting_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |
