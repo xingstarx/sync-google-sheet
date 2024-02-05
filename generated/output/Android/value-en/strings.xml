@@ -445,6 +445,7 @@
 	<string name="Editing_Address_Failed">Editing Address Failed</string>
 	<string name="Emergency_Contact">Emergency Contact</string>
 	<string name="Empty_address_book">Empty address book</string>
+	<string name="Enable">Enable</string>
 	<string name="Enable_after_1_minute">Enabled after 1 minute</string>
 	<string name="Enable_after_30_minutes">Enabled after 30 minutes</string>
 	<string name="Enable_db_debug">Enable db debug</string>

@@ -1730,7 +1730,7 @@
   <string name="review_transfer_hint" platform="android, iOS">請仔細檢查收款人、網路和金額，如果您轉錯了，資產將無法追回。</string>
   <string name="transfer_sending_description" platform="android, iOS">正在將轉賬請求傳送到 Mixin 主網驗證，請稍候。</string>
   <string name="transfer_sent_description" platform="android, iOS">您的轉賬請求已透過 Mixin 主網確認，收款人將很快就會收到轉賬。</string>
-  <string name="enable_bioauth_description" platform="iOS">想要開啟%@支付嗎？開啟後，轉賬時可驗證%@快速完成付款。</string>
+  <string name="enable_bioauth_description" platform="iOS">想要啟用%@支付嗎？啟用後，轉賬時可驗證%@快速完成付款。</string>
   <string name="return_to_merchant_description" platform="android, iOS">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
   <string name="duplication_remainder" platform="android, iOS">重複轉賬提醒：您已經在%2$s前給該收款人轉賬了 %1$s。</string>
   <string name="large_amount_remainder" platform="android, iOS">大額轉賬提醒：確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>
@@ -1765,4 +1765,5 @@
   <string name="add_by_pin" platform="android, iOS">透過 PIN 新增</string>
   <string name="delete_by_pin" platform="android, iOS">透過 PIN 刪除</string>
   <string name="edit_by_pin" platform="android, iOS">透過 PIN 修改</string>
+  <string name="Enable" platform="android, iOS">啟用</string>
 </resources>

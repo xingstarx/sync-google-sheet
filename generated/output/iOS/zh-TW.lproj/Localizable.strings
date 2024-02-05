@@ -410,7 +410,8 @@
 "editing_address" = "正在修改地址";
 "editing_address_failed" = "修改地址失敗";
 "emergency_contact" = "緊急聯絡人";
-"enable_bioauth_description" = "想要開啟%@支付嗎？開啟後，轉賬時可驗證%@快速完成付款。";
+"enable" = "啟用";
+"enable_bioauth_description" = "想要啟用%@支付嗎？啟用後，轉賬時可驗證%@快速完成付款。";
 "enable_emergency_contact" = "啟用緊急聯絡人";
 "enable_face_pay_hint" = "輸入 PIN 啟用面容支付";
 "enable_pay" = "啟用%@支付";

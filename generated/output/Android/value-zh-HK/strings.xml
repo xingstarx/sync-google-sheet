@@ -436,6 +436,7 @@
 	<string name="Editing_Address_Failed">修改地址失敗</string>
 	<string name="Emergency_Contact">緊急聯繫人</string>
 	<string name="Empty_address_book">通訊錄內容為空</string>
+	<string name="Enable">啓用</string>
 	<string name="Enable_after_1_minute">在 1 分鐘之後啓動</string>
 	<string name="Enable_after_30_minutes">在 30 分鐘後啓動</string>
 	<string name="Enable_db_debug">已開啓 db 調試</string>

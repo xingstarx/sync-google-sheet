@@ -410,6 +410,7 @@
 "editing_address" = "Editing Address";
 "editing_address_failed" = "Editing Address Failed";
 "emergency_contact" = "Emergency Contact";
+"enable" = "Enable";
 "enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
 "enable_emergency_contact" = "Enable Emergency Contact";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
