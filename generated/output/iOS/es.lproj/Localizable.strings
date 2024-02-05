@@ -695,6 +695,7 @@
 "not_all_signer_success" = "No todos los nodos tienen éxito";
 "not_enough_partials" = "No hay suficientes nodos que devuelvan fragmento de clave";
 "not_found" = "Extraviado";
+"not_now" = "Not Now";
 "not_playing" = "No se está reproduciendo";
 "not_turn_off_screen_hint" = "Please do not turn off the screen and keep Mixin in the foreground when synchronizing.";
 "notification_and_confirmation" = "Notificación y Confirmación";

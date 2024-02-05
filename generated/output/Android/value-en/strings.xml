@@ -789,6 +789,7 @@
 	<string name="Not_enough_partials">Not enough nodes return key shard</string>
 	<string name="Not_found">Not found</string>
 	<string name="Not_logged_in">Not logged in</string>
+	<string name="Not_Now">Not Now</string>
 	<string name="Not_recognized">Not recognized</string>
 	<string name="Not_support">Not support</string>
 	<string name="not_supported_deposit">Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**.</string>

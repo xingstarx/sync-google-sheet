@@ -695,6 +695,7 @@
 "not_all_signer_success" = "有些節點失敗了";
 "not_enough_partials" = "沒有足夠的節點返回金鑰分片";
 "not_found" = "沒有找到相應的訊息";
+"not_now" = "現在不要";
 "not_playing" = "未在播放";
 "not_turn_off_screen_hint" = "同步時請不要關閉螢幕並保持 Mixin 在前臺執行。";
 "notification_and_confirmation" = "通知和確認";

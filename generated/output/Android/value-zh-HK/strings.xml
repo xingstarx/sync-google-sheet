@@ -771,6 +771,7 @@
 	<string name="Not_enough_partials">沒有足夠的節點返回密鑰分片</string>
 	<string name="Not_found">沒有找到相應的消息</string>
 	<string name="Not_logged_in">還沒有登錄</string>
+	<string name="Not_Now">現在不要</string>
 	<string name="Not_recognized">無法識別</string>
 	<string name="Not_support">不支持備份</string>
 	<string name="not_supported_deposit">Mixin 已停止支持 %1$s 的充值服務。您可以繼續提現和轉賬錢包餘額中的 %2$s。**瞭解更多**請閲讀文檔。</string>

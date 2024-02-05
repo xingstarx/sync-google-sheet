@@ -695,6 +695,7 @@
 "not_all_signer_success" = "Not all node success";
 "not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "見つかりません";
+"not_now" = "Not Now";
 "not_playing" = "再生しません";
 "not_turn_off_screen_hint" = "Please do not turn off the screen and keep Mixin in the foreground when synchronizing.";
 "notification_and_confirmation" = "通知・送金確認";
