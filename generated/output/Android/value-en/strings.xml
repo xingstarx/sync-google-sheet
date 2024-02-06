@@ -472,10 +472,13 @@
 	<string name="error_bad_data">ERROR 10002: The request data has invalid field</string>
 	<string name="error_blockchain">ERROR 30100: Blockchain not in sync, please try again later.</string>
 	<string name="error_card_expired">ERROR 10601: Card expired</string>
+	<string name="error_card_holder_name_not_same">ERROR 10608: Card holder name not match</string>
 	<string name="error_card_not_supported">ERROR 10604: Card not supported</string>
 	<string name="error_connection_timeout">Network connection timeout, please try again</string>
 	<string name="error_expired_authorization_code">ERROR 20121: Expired authorization code</string>
+	<string name="error_expired_session">ERROR 10609: Session expired</string>
 	<string name="error_full_group">ERROR 20116: The group chat is full.</string>
+	<string name="error_inconsistent_country">ERROR 10610: Inconsistent country</string>
 	<string name="error_insufficient_balance">ERROR 20117: Insufficient balance</string>
 	<string name="error_insufficient_transaction_fee_with_amount">ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %1$s as fee</string>
 	<string name="error_invalid_address">ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address!</string>
@@ -484,7 +487,9 @@
 	<string name="error_invalid_emergency_contact">ERROR 20130: Invalid emergency contact</string>
 	<string name="error_invalid_pin_format">ERROR 20118: Invalid PIN format. </string>
 	<string name="error_memo_too_long">Memo has too many characters, maximum is 200</string>
+	<string name="error_not_approved_many_times">ERROR 10606: Not approved too many times</string>
 	<string name="error_not_found">ERROR 404: Not found</string>
+	<string name="error_not_support_card">ERROR 10604: Card does not support</string>
 	<string name="error_not_supported_audio_format">Not supported audio format, please open by other app.</string>
 	<string name="error_number_reached_limit">ERROR 20132: The number has reached the limit.</string>
 	<string name="error_old_version">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
@@ -505,6 +510,7 @@
 	<string name="error_price_expired">ERROR 10602: Price expired</string>
 	<string name="error_recaptcha_is_invalid">ERROR 10004: Recaptcha is invalid</string>
 	<string name="error_server_5xx_code">Server is under maintenance: %1$d</string>
+	<string name="error_too_many_card_added">ERROR 10607: Too many cards have been added</string>
 	<string name="error_too_many_friends">ERROR 20128: Too many friends</string>
 	<string name="error_too_many_request">ERROR 429: Rate limit exceeded</string>
 	<string name="error_too_many_stickers">ERROR 20126: Too many stickers</string>
@@ -516,6 +522,7 @@
 	<string name="error_unable_to_open_media">Can\'t find an app able to open this media.</string>
 	<string name="error_unknown_with_code">ERROR: %1$d</string>
 	<string name="error_unknown_with_message">ERROR: %1$s</string>
+	<string name="error_use_card_same_time">ERROR 10605: Use card same time</string>
 	<string name="error_used_phone">ERROR 20122: This phone number is already associated with another account.</string>
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
