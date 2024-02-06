@@ -641,10 +641,14 @@
 "multisig_by_pin" = "PINコードでマルチシグウォレットを使用する";
 "multisig_receivers_threshold" = "受取人(%@)";
 "multisig_senders_threshold" = "Senders (%@)";
+"multisig_signed_description" = "Your signature has been confirmed by the Mixin mainnet.";
+"multisig_signing_description" = "The signature is being sent to the Mixin mainnet. Please wait a moment.";
 "multisig_signing_failed" = "Multisig Signing Failed";
 "multisig_state_signed" = "このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません";
 "multisig_state_unlocked" = "このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。";
 "multisig_transaction" = "マルチシグトランザクション";
+"multisig_unlocked_description" = "Your signature has been revoked by the Mixin mainnet.";
+"multisig_unlocking_description" = "The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment.";
 "mute" = "ミュート";
 "mute_until" = "%@まで";
 "muted" = "ミュートされました";

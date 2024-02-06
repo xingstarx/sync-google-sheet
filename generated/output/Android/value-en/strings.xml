@@ -733,10 +733,14 @@
 	<string name="Multisig_by_PIN">Multisig by PIN</string>
 	<string name="multisig_receivers_threshold">Receivers (%1$s)</string>
 	<string name="multisig_senders_threshold">Senders (%1$s)</string>
+	<string name="multisig_signed_description">Your signature has been confirmed by the Mixin mainnet.</string>
+	<string name="multisig_signing_description">The signature is being sent to the Mixin mainnet. Please wait a moment.</string>
 	<string name="Multisig_Signing_Failed">Multisig Signing Failed</string>
 	<string name="multisig_state_signed">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
 	<string name="multisig_state_unlocked">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
 	<string name="Multisig_Transaction">Multisig Transaction</string>
+	<string name="multisig_unlocked_description">Your signature has been revoked by the Mixin mainnet.</string>
+	<string name="multisig_unlocking_description">The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment.</string>
 	<string name="Mute">Mute</string>
 	<string name="Mute_until">Until %1$s</string>
 	<string name="My_Contacts">My Contacts</string>

@@ -641,10 +641,14 @@
 "multisig_by_pin" = "通过 PIN 签名";
 "multisig_receivers_threshold" = "交易接收人（%@）";
 "multisig_senders_threshold" = "交易发起人（%@）";
+"multisig_signed_description" = "您的签名已通过 Mixin 主网确认";
+"multisig_signing_description" = "正在将签名发送到 Mixin 主网验证，请稍候。";
 "multisig_signing_failed" = "多签签名失败";
 "multisig_state_signed" = "您已经对这笔交易进行了签名，您无法再次签名。";
 "multisig_state_unlocked" = "这笔交易已经被其他人撤销了，您无法再次撤销。";
 "multisig_transaction" = "多重签名交易";
+"multisig_unlocked_description" = "您的签名已撤销";
+"multisig_unlocking_description" = "正在将撤销多签的请求发送到 Mixin 服务器验证，请稍候。";
 "mute" = "静音";
 "mute_until" = "直到 %@";
 "muted" = "已静音";
