@@ -958,6 +958,7 @@
 "send_without_sound" = "静音发送";
 "send_your_current_location" = "发送您当前的位置";
 "send_count" = "发送（%d）";
+"sender" = "交易发起人";
 "senders" = "交易发起人";
 "sending_multisig_signature" = "正在发送多签签名";
 "sending_transfer_request" = "正在发送转账";

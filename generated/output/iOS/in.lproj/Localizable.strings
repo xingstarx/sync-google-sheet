@@ -958,6 +958,7 @@
 "send_without_sound" = "Send Without Sound";
 "send_your_current_location" = "Kirim Lokasi Anda Saat Ini";
 "send_count" = "Send(%d)";
+"sender" = "Sender";
 "senders" = "Pengirim";
 "sending_multisig_signature" = "Sending Multisig Signature";
 "sending_transfer_request" = "Sending Transfer Request";

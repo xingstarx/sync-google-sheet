@@ -958,6 +958,7 @@
 "send_without_sound" = "通知音を鳴らさずに送信する";
 "send_your_current_location" = "現在地を送信";
 "send_count" = "送信(%d)";
+"sender" = "送信者";
 "senders" = "送信者";
 "sending_multisig_signature" = "Sending Multisig Signature";
 "sending_transfer_request" = "Sending Transfer Request";

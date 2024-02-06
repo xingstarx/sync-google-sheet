@@ -958,6 +958,7 @@
 "send_without_sound" = "Enviar sin sonido";
 "send_your_current_location" = "Envía tu ubicación actual";
 "send_count" = "Enviar(%d)";
+"sender" = "Sender";
 "senders" = "Remitentes";
 "sending_multisig_signature" = "Sending Multisig Signature";
 "sending_transfer_request" = "Sending Transfer Request";

@@ -958,6 +958,7 @@
 "send_without_sound" = "Отправить без звука";
 "send_your_current_location" = "Отправить свое текущее местоположение";
 "send_count" = "Отправить(%d)";
+"sender" = "Sender";
 "senders" = "Отправители";
 "sending_multisig_signature" = "Sending Multisig Signature";
 "sending_transfer_request" = "Sending Transfer Request";

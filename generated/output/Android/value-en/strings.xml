@@ -1029,6 +1029,7 @@
 	<string name="send_without_compression">Send without compression</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>
 	<string name="Send_your_Current_Location">Send your Current Location</string>
+	<string name="Sender">Sender</string>
 	<string name="Senders">Senders</string>
 	<string name="Sending_Multisig_Signature">Sending Multisig Signature</string>
 	<string name="Sending_Transfer_Request">Sending Transfer Request</string>

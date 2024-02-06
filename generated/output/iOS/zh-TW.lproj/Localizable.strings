@@ -958,6 +958,7 @@
 "send_without_sound" = "靜音傳送";
 "send_your_current_location" = "傳送您當前的位置";
 "send_count" = "傳送（%d）";
+"sender" = "交易發起人";
 "senders" = "交易發起人";
 "sending_multisig_signature" = "正在傳送多簽簽名";
 "sending_transfer_request" = "正在傳送轉賬";

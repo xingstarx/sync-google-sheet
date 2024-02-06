@@ -796,6 +796,7 @@
 	<string name="send_without_compression">圧縮せずに送信</string>
 	<string name="Send_Without_Sound">通知音を鳴らさずに送信する</string>
 	<string name="Send_your_Current_Location">現在地を送信</string>
+	<string name="Sender">送信者</string>
 	<string name="Senders">送信者</string>
 	<string name="Set">設定</string>
 	<string name="set_disappearing_message_time_to">1$sは、消えるメッセージの有効時間を%2$sに設定しました。</string>
