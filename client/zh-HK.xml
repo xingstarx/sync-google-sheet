@@ -1746,11 +1746,13 @@
   <string name="Confirm_Signing_Multisig" platform="android, iOS">多簽簽名確認</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">正在發送多簽簽名</string>
   <string name="Multisig_Signing_Failed" platform="android, iOS">多簽簽名失敗</string>
+  <string name="Multisig_Signed" platform="android, iOS">多簽簽名成功</string>
   <string name="multisig_signing_description" platform="android, iOS">正在將簽名發送到 Mixin 主網驗證，請稍候。</string>
   <string name="multisig_signed_description" platform="android, iOS">您的簽名已通過 Mixin 主網確認</string>
   <string name="Revoke_Multisig_Signature" platform="android, iOS">撤銷多簽確認</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤銷多簽</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">撤銷多簽失敗</string>
+  <string name="Multisig_Revoked" platform="android, iOS">已撤銷多簽</string>
   <string name="multisig_unlocking_description" platform="android, iOS">正在將撤銷多簽的請求發送到 Mixin 服務器驗證，請稍候。</string>
   <string name="multisig_unlocked_description" platform="android, iOS">您的簽名已撤銷</string>
   <string name="Confirm_Adding_Address" platform="android, iOS">添加地址確認</string>
