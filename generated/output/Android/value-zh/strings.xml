@@ -463,7 +463,7 @@
 	<string name="error_bad_data">错误 10002：请求数据不合法</string>
 	<string name="error_blockchain">错误 30100：区块链同步异常，请稍后重试</string>
 	<string name="error_card_expired">错误 10601: 卡片已过期</string>
-	<string name="error_card_holder_name_not_same">错误 10608: 与卡片持有者名字不一致</string>
+	<string name="error_card_holder_name_not_same">错误 10608: 卡片异常，请稍后尝试正确的卡片</string>
 	<string name="error_card_not_supported">ERROR 10604: 不支持此卡片</string>
 	<string name="error_connection_timeout">网络连接超时</string>
 	<string name="error_expired_authorization_code">错误 20121：授权码已过期</string>
@@ -480,7 +480,7 @@
 	<string name="error_memo_too_long">Memo 字符超长，最多为 200</string>
 	<string name="error_not_approved_many_times">错误 10606: 未批准多次</string>
 	<string name="error_not_found">错误 404：没有找到相应的信息</string>
-	<string name="error_not_support_card">错误 10604: 不支持此卡片</string>
+	<string name="error_not_support_card">错误 10604: 卡片异常，请稍后尝试正确的卡片</string>
 	<string name="error_not_supported_audio_format">不支持的音频格式，请用其他app打开。</string>
 	<string name="error_number_reached_limit">错误 20132： 已达到上限</string>
 	<string name="error_old_version">错误 10006：请更新 Mixin（%1$s） 至最新版。</string>
@@ -501,7 +501,7 @@
 	<string name="error_price_expired">ERROR 10602: 价格已过期</string>
 	<string name="error_recaptcha_is_invalid">错误 10004：验证失败</string>
 	<string name="error_server_5xx_code">服务器出错，请稍后重试：%1$d</string>
-	<string name="error_too_many_card_added">错误 10607: 已添加多张卡片</string>
+	<string name="error_too_many_card_added">错误 10607: 卡片异常，请稍后尝试正确的卡片</string>
 	<string name="error_too_many_friends">错误 20128：好友数已达上限</string>
 	<string name="error_too_many_request">错误 429：请求过于频繁</string>
 	<string name="error_too_many_stickers">错误 20126：贴纸数已达上限</string>
@@ -513,7 +513,7 @@
 	<string name="error_unable_to_open_media">无法找到能打开该媒体的应用</string>
 	<string name="error_unknown_with_code">错误：%1$d</string>
 	<string name="error_unknown_with_message">错误：%1$s</string>
-	<string name="error_use_card_same_time">错误 10605: 同时使用同一张卡片</string>
+	<string name="error_use_card_same_time">错误 10605: 卡片异常，请稍后尝试正确的卡片</string>
 	<string name="error_used_phone">错误 20122：电话号码已经被占用。</string>
 	<string name="error_user_invalid_format">用户数据不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">错误 20131：提现备注格式不正确</string>
