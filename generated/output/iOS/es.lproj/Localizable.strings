@@ -397,7 +397,7 @@
 "dont_have_assets" = "¿No tienes activos?";
 "duplicate_transfer_confirmation" = "Confirmación de transferencia duplicada";
 "duplicate_withdraw_confirmation" = "Confirmación de retiro duplicado";
-"duplication_remainder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
+"duplication_reminder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
 "edit" = "Editar";
 "edit_address" = "Editar dirección de %@";
 "edit_biography" = "Editar biografía";
@@ -569,7 +569,7 @@
 "language" = "Idioma";
 "large_amount_confirmation" = "Confirmación de gran cantidad";
 "large_amount_confirmation_with_symbol" = "Confirmación de gran cantidad(%@)";
-"large_amount_remainder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
+"large_amount_reminder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
 "last_active_time" = "Último Activo %@";
 "last_backup_hint" = "Última copia de seguridad en %@, tamaño total %@.";
 "last_month" = "Last month";

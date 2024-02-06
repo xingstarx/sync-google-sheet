@@ -431,7 +431,7 @@
 	<string name="Draw">Draw</string>
 	<string name="Duplicate_Transfer_Confirmation">Duplicate Transfer Confirmation</string>
 	<string name="Duplicate_Withdraw_Confirmation">Duplicate Withdraw Confirmation</string>
-	<string name="duplication_remainder">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
+	<string name="duplication_reminder">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
 	<string name="Duration_is_too_short">Duration is too short</string>
 	<string name="edit_address">Edit %1$s Address</string>
 	<string name="Edit_Biography">Edit Biography</string>
@@ -643,7 +643,7 @@
 	<string name="Language">Language</string>
 	<string name="Large_Amount_Confirmation">Large Amount Confirmation</string>
 	<string name="Large_Amount_Confirmation_with_symbol">Large Amount Confirmation(%1$s)</string>
-	<string name="large_amount_remainder">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
+	<string name="large_amount_reminder">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
 	<string name="Last_Backup">Last Backup</string>
 	<string name="Last_month">Last month</string>
 	<string name="Last_months">Last %1$s months</string>

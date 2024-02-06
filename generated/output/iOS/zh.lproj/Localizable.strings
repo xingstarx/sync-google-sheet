@@ -397,7 +397,7 @@
 "dont_have_assets" = "没有资产？";
 "duplicate_transfer_confirmation" = "重复转账确认";
 "duplicate_withdraw_confirmation" = "重复提现确认";
-"duplication_remainder" = "重复转账提醒：您已经在%2$@前给该收款人转账了 %1$@。";
+"duplication_reminder" = "重复转账提醒：您已经在%2$@前给该收款人转账了 %1$@。";
 "edit" = "编辑";
 "edit_address" = "修改 %@ 地址";
 "edit_biography" = "修改简介";
@@ -569,7 +569,7 @@
 "language" = "语言";
 "large_amount_confirmation" = "大额转账确认";
 "large_amount_confirmation_with_symbol" = "大额转账确认（%@）";
-"large_amount_remainder" = "大额转账提醒：确定给 %3$@（%4$@）转价值 %1$@ 的 %2$@？";
+"large_amount_reminder" = "大额转账提醒：确定给 %3$@（%4$@）转价值 %1$@ 的 %2$@？";
 "last_active_time" = "最后登入于 %@";
 "last_backup_hint" = "上次备份是 %@，占用空间 %@。";
 "last_month" = "最近一个月";

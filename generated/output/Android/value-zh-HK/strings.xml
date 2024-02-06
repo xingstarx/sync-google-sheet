@@ -422,7 +422,7 @@
 	<string name="Draw">繪製</string>
 	<string name="Duplicate_Transfer_Confirmation">重複轉賬確認</string>
 	<string name="Duplicate_Withdraw_Confirmation">重複提現確認</string>
-	<string name="duplication_remainder">重複轉賬提醒：您已經在%2$s前給該收款人轉賬了 %1$s。</string>
+	<string name="duplication_reminder">重複轉賬提醒：您已經在%2$s前給該收款人轉賬了 %1$s。</string>
 	<string name="Duration_is_too_short">時間太短</string>
 	<string name="edit_address">修改 %1$s 地址</string>
 	<string name="Edit_Biography">修改簡介</string>
@@ -627,7 +627,7 @@
 	<string name="Language">語言</string>
 	<string name="Large_Amount_Confirmation">大額轉賬確認</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大額轉賬確認（%1$s）</string>
-	<string name="large_amount_remainder">大額轉賬提醒：確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>
+	<string name="large_amount_reminder">大額轉賬提醒：確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>
 	<string name="Last_Backup">上次備份</string>
 	<string name="Last_month">最近一個月</string>
 	<string name="Last_months">最近 %1$s 個月</string>

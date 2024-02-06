@@ -397,7 +397,7 @@
 "dont_have_assets" = "Don't have assets?";
 "duplicate_transfer_confirmation" = "二重送金の確認";
 "duplicate_withdraw_confirmation" = "二重出金の確認";
-"duplication_remainder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
+"duplication_reminder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
 "edit" = "編集";
 "edit_address" = "%@アドレスを修正";
 "edit_biography" = "自己紹介文を変更";
@@ -569,7 +569,7 @@
 "language" = "言語";
 "large_amount_confirmation" = "送金時に通知を行う金額の設定";
 "large_amount_confirmation_with_symbol" = "送金時に通知を行う金額の設定（%@）";
-"large_amount_remainder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
+"large_amount_reminder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
 "last_active_time" = "直近のアクティビティ%@";
 "last_backup_hint" = "最後に行ったバックアップ %@, 合計サイズ %@.";
 "last_month" = "Last month";

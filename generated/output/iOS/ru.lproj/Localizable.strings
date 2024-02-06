@@ -397,7 +397,7 @@
 "dont_have_assets" = "Don't have assets?";
 "duplicate_transfer_confirmation" = "Дубликат подтверждения перевода";
 "duplicate_withdraw_confirmation" = "Дубликат подтверждения вывода средств";
-"duplication_remainder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
+"duplication_reminder" = "Duplication reminder: You transferred %1$@ to the recipient %2$@ ago.";
 "edit" = "Редактировать";
 "edit_address" = "Изменить адрес %@";
 "edit_biography" = "Редактировать биографию";
@@ -569,7 +569,7 @@
 "language" = "Язык";
 "large_amount_confirmation" = "Подтверждение крупной суммы";
 "large_amount_confirmation_with_symbol" = "Подтверждение крупной суммы(%@)";
-"large_amount_remainder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
+"large_amount_reminder" = "Large amount reminder: Confirm the transfer of %1$@ worth of %2$@ to %3$@ (%4$@)?";
 "last_active_time" = "Последнее посещение %@";
 "last_backup_hint" = "Последняя резервная копия %@, общий размер %@.";
 "last_month" = "Last month";

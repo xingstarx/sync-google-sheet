@@ -397,7 +397,7 @@
 "dont_have_assets" = "沒有資產？";
 "duplicate_transfer_confirmation" = "重複轉賬確認";
 "duplicate_withdraw_confirmation" = "重複提現確認";
-"duplication_remainder" = "重複轉賬提醒：您已經在%2$@前給該收款人轉賬了 %1$@。";
+"duplication_reminder" = "重複轉賬提醒：您已經在%2$@前給該收款人轉賬了 %1$@。";
 "edit" = "編輯";
 "edit_address" = "修改 %@ 地址";
 "edit_biography" = "修改簡介";
@@ -569,7 +569,7 @@
 "language" = "語言";
 "large_amount_confirmation" = "大額轉賬確認";
 "large_amount_confirmation_with_symbol" = "大額轉賬確認（%@）";
-"large_amount_remainder" = "大額轉賬提醒：確定給 %3$@（%4$@）轉價值 %1$@ 的 %2$@？";
+"large_amount_reminder" = "大額轉賬提醒：確定給 %3$@（%4$@）轉價值 %1$@ 的 %2$@？";
 "last_active_time" = "最後登入於 %@";
 "last_backup_hint" = "上次備份是 %@，佔用空間 %@。";
 "last_month" = "最近一個月";
