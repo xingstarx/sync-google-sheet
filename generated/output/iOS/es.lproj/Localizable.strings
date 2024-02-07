@@ -639,9 +639,11 @@
 "more" = "Más";
 "move_and_scale" = "Mover y escalar";
 "multisig_by_pin" = "Multifirma por PIN";
+"multisig_receiver" = "Receiver";
 "multisig_receivers" = "Receivers";
 "multisig_receivers_threshold" = "Receptores (%@)";
 "multisig_revoked" = "Multisig Revoked";
+"multisig_sender" = "Sender";
 "multisig_senders" = "Senders";
 "multisig_senders_threshold" = "Senders (%@)";
 "multisig_signed" = "Multisig Signed";

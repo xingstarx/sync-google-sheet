@@ -639,9 +639,11 @@
 "more" = "Lebih banyak";
 "move_and_scale" = "Move and Scale";
 "multisig_by_pin" = "Multisig dengan PIN";
+"multisig_receiver" = "Penerima";
 "multisig_receivers" = "Penerima";
 "multisig_receivers_threshold" = "Penerima (%@)";
 "multisig_revoked" = "Multisig Revoked";
+"multisig_sender" = "Sender";
 "multisig_senders" = "Senders";
 "multisig_senders_threshold" = "Senders (%@)";
 "multisig_signed" = "Multisig Signed";

@@ -639,9 +639,11 @@
 "more" = "更多";
 "move_and_scale" = "移动和缩放";
 "multisig_by_pin" = "通过 PIN 签名";
+"multisig_receiver" = "交易接收人";
 "multisig_receivers" = "交易接收人";
 "multisig_receivers_threshold" = "交易接收人（%@）";
 "multisig_revoked" = "已撤销多签";
+"multisig_sender" = "交易发起人";
 "multisig_senders" = "交易发起人";
 "multisig_senders_threshold" = "交易发起人（%@）";
 "multisig_signed" = "多签签名成功";

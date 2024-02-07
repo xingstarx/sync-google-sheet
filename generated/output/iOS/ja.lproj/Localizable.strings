@@ -639,9 +639,11 @@
 "more" = "もっとみる";
 "move_and_scale" = "移動と拡大縮小";
 "multisig_by_pin" = "PINコードでマルチシグウォレットを使用する";
+"multisig_receiver" = "受取人";
 "multisig_receivers" = "受取人";
 "multisig_receivers_threshold" = "受取人(%@)";
 "multisig_revoked" = "Multisig Revoked";
+"multisig_sender" = "Sender";
 "multisig_senders" = "Senders";
 "multisig_senders_threshold" = "Senders (%@)";
 "multisig_signed" = "Multisig Signed";

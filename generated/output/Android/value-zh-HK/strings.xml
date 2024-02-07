@@ -714,9 +714,11 @@
 	<string name="Month">月</string>
 	<string name="More">更多</string>
 	<string name="Multisig_by_PIN">通過 PIN 簽名</string>
+	<string name="multisig_receiver">交易接收人</string>
 	<string name="multisig_receivers">交易接收人</string>
 	<string name="multisig_receivers_threshold">交易接收人（%1$s）</string>
 	<string name="Multisig_Revoked">已撤銷多簽</string>
+	<string name="multisig_sender">交易發起人</string>
 	<string name="multisig_senders">交易發起人</string>
 	<string name="multisig_senders_threshold">交易發起人（%1$s）</string>
 	<string name="Multisig_Signed">多簽簽名成功</string>
