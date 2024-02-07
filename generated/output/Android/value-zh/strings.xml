@@ -53,7 +53,6 @@
 	<string name="address_added_description">您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
 	<string name="address_adding_description">正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。</string>
 	<string name="address_deleted">地址已删除</string>
-	<string name="address_deleting_description">删除地址不影响资金安全，确认删除该地址吗？</string>
 	<string name="address_edited">地址已修改</string>
 	<string name="address_edited_description">您修改地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
 	<string name="address_editing_description">正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。</string>
@@ -276,7 +275,7 @@
 	<string name="Combine_utxo">归集 UTXO</string>
 	<string name="Confirm">确认</string>
 	<string name="Confirm_Adding_Address">添加地址确认</string>
-	<string name="Confirm_Deleteing_Address">删除地址确认</string>
+	<string name="Confirm_Deleting_Address">删除地址确认</string>
 	<string name="Confirm_Editing_Address">修改地址确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
 	<string name="Confirm_PIN">确认 PIN</string>
@@ -360,6 +359,7 @@
 	<string name="Delete">删除</string>
 	<string name="delete_account_hint">删除你的账户和个人照片</string>
 	<string name="Delete_address">删除地址</string>
+	<string name="delete_address_description">删除地址不影响资金安全，确认删除该地址吗？</string>
 	<string name="delete_by_pin">通过 PIN 删除</string>
 	<string name="Delete_emergency_contact">删除紧急联系人</string>
 	<string name="Delete_for_everyone">撤回</string>

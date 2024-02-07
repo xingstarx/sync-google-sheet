@@ -1765,10 +1765,10 @@
   <string name="Editing_Address_Failed" platform="android, iOS">修改地址失敗</string>
   <string name="address_editing_description" platform="android, iOS">正在將修改地址的請求發送到 Mixin 服務器驗證，請稍候。</string>
   <string name="address_edited_description" platform="android, iOS">您修改地址的請求已通過 Mixin 服務器確認，您可以立刻使用該地址進行提現。</string>
-  <string name="Confirm_Deleteing_Address" platform="android, iOS">刪除地址確認</string>
+  <string name="Confirm_Deleting_Address" platform="android, iOS">刪除地址確認</string>
   <string name="Deleting_Address" platform="android, iOS">正在刪除地址</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">刪除地址失敗</string>
-  <string name="address_deleting_description" platform="android, iOS">刪除地址不影響資金安全，確認刪除該地址嗎？</string>
+  <string name="delete_address_description" platform="android, iOS">刪除地址不影響資金安全，確認刪除該地址嗎？</string>
   <string name="send_by_pin" platform="android, iOS">通過 PIN 發送</string>
   <string name="address_will_receive" platform="android, iOS">指定地址將收到</string>
   <string name="receiver_will_receive" platform="android, iOS">對方將收到</string>
