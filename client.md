@@ -928,6 +928,8 @@
 | android, iOS, Desktop | More | More | 更多  | もっとみる | Lebih banyak lagi | Lebih banyak |
 | iOS | Move_and_Scale | Move and Scale | 移动和缩放 | 移動と拡大縮小 |     |     |
 | android, iOS | Multisig_by_PIN | Multisig by PIN | 通过 PIN 签名 | PINコードでマルチシグウォレットを使用する | Multisig dengan PIN | Multisig dengan PIN |
+| android, iOS | multisig_receivers | Receivers | 交易接收人 | 受取人 | Penerima | Penerima |
+| android, iOS | multisig_senders | Senders | 交易发起人 |     |     |     |
 | android, iOS | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人(%1$s) | Penerima (%1$s) | Penerima (%1$s) |
 | android, iOS | multisig_senders_threshold | Senders (%1$s) | 交易发起人（%1$s） |     |     |     |
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
@@ -1767,6 +1769,7 @@
 | android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在将转账请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。 |     |     |     |
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。 |     |     |     |
+| android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
 | android, iOS | duplication_reminder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
 | android, iOS | large_amount_reminder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
