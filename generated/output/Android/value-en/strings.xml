@@ -733,11 +733,9 @@
 	<string name="More">More</string>
 	<string name="Multisig_by_PIN">Multisig by PIN</string>
 	<string name="multisig_receiver">Receiver</string>
-	<string name="multisig_receivers">Receivers</string>
 	<string name="multisig_receivers_threshold">Receivers (%1$s)</string>
 	<string name="Multisig_Revoked">Multisig Revoked</string>
 	<string name="multisig_sender">Sender</string>
-	<string name="multisig_senders">Senders</string>
 	<string name="multisig_senders_threshold">Senders (%1$s)</string>
 	<string name="Multisig_Signed">Multisig Signed</string>
 	<string name="multisig_signed_description">Your signature has been confirmed by the Mixin mainnet.</string>

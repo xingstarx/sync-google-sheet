@@ -910,9 +910,7 @@
   <string name="Move_and_Scale" platform="iOS">移動和縮放</string>
   <string name="Multisig_by_PIN" platform="android, iOS">透過 PIN 簽名</string>
   <string name="multisig_receiver" platform="android, iOS">交易接收人</string>
-  <string name="multisig_receivers" platform="android, iOS">交易接收人</string>
   <string name="multisig_sender" platform="android, iOS">交易發起人</string>
-  <string name="multisig_senders" platform="android, iOS">交易發起人</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">交易接收人（%1$s）</string>
   <string name="multisig_senders_threshold" platform="android, iOS">交易發起人（%1$s）</string>
   <string name="multisig_state_signed" platform="android, iOS">您已經對這筆交易進行了簽名，您無法再次簽名。</string>
