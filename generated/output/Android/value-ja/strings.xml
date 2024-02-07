@@ -571,6 +571,7 @@
 	<string name="Monday">月曜日</string>
 	<string name="More">もっとみる</string>
 	<string name="Multisig_by_PIN">PINコードでマルチシグウォレットを使用する</string>
+	<string name="multisig_receivers">受取人</string>
 	<string name="multisig_receivers_threshold">受取人(%1$s)</string>
 	<string name="multisig_state_signed">このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません</string>
 	<string name="multisig_state_unlocked">このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。</string>

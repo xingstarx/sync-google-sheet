@@ -909,6 +909,8 @@
   <string name="More" platform="android, iOS, Desktop">更多</string>
   <string name="Move_and_Scale" platform="iOS">移動和縮放</string>
   <string name="Multisig_by_PIN" platform="android, iOS">透過 PIN 簽名</string>
+  <string name="multisig_receivers" platform="android, iOS">交易接收人</string>
+  <string name="multisig_senders" platform="android, iOS">交易發起人</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">交易接收人（%1$s）</string>
   <string name="multisig_senders_threshold" platform="android, iOS">交易發起人（%1$s）</string>
   <string name="multisig_state_signed" platform="android, iOS">您已經對這筆交易進行了簽名，您無法再次簽名。</string>
@@ -1738,6 +1740,7 @@
   <string name="transfer_sending_description" platform="android, iOS">正在將轉賬請求傳送到 Mixin 主網驗證，請稍候。</string>
   <string name="transfer_sent_description" platform="android, iOS">您的轉賬請求已透過 Mixin 主網確認，收款人將很快就會收到轉賬。</string>
   <string name="enable_bioauth_description" platform="iOS">想要啟用%@支付嗎？啟用後，轉賬時可驗證%@快速完成付款。</string>
+  <string name="enable_biometric_description" platform="android">想要啟用生物識別支付嗎？啟用後，轉賬時可透過生物識別快速完成付款。</string>
   <string name="return_to_merchant_description" platform="android, iOS">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
   <string name="duplication_reminder" platform="android, iOS">重複轉賬提醒：您已經在%2$s前給該收款人轉賬了 %1$s。</string>
   <string name="large_amount_reminder" platform="android, iOS">大額轉賬提醒：確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>

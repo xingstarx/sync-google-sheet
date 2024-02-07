@@ -421,6 +421,7 @@
 	<string name="Monday">Isnin</string>
 	<string name="More">Lebih banyak lagi</string>
 	<string name="Multisig_by_PIN">Multisig dengan PIN</string>
+	<string name="multisig_receivers">Penerima</string>
 	<string name="multisig_receivers_threshold">Penerima (%1$s)</string>
 	<string name="multisig_state_signed">Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua.</string>
 	<string name="multisig_state_unlocked">Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.</string>

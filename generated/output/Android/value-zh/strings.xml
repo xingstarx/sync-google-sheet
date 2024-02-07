@@ -439,6 +439,7 @@
 	<string name="Enable">启用</string>
 	<string name="Enable_after_1_minute">在 1 分钟之后启动</string>
 	<string name="Enable_after_30_minutes">在 30 分钟后启动</string>
+	<string name="enable_biometric_description">想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。</string>
 	<string name="Enable_db_debug">已开启 db 调试</string>
 	<string name="Enable_Emergency_Contact">启用紧急联系人</string>
 	<string name="Enable_immediately">立即启动</string>
@@ -713,8 +714,10 @@
 	<string name="Month">月</string>
 	<string name="More">更多</string>
 	<string name="Multisig_by_PIN">通过 PIN 签名</string>
+	<string name="multisig_receivers">交易接收人</string>
 	<string name="multisig_receivers_threshold">交易接收人（%1$s）</string>
 	<string name="Multisig_Revoked">已撤销多签</string>
+	<string name="multisig_senders">交易发起人</string>
 	<string name="multisig_senders_threshold">交易发起人（%1$s）</string>
 	<string name="Multisig_Signed">多签签名成功</string>
 	<string name="multisig_signed_description">您的签名已通过 Mixin 主网确认</string>
