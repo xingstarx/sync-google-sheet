@@ -208,6 +208,7 @@
 	<string name="changed_disappearing_message_settings">%1$s修改了限時訊息設定</string>
 	<string name="Changing">正在修改…</string>
 	<string name="Changing_PIN_terminated_unexpectedly">更新 PIN 意外中止，點繼續完成 PIN 修改</string>
+	<string name="chat">聊天</string>
 	<string name="chat_audio_discard_warning">你確定要停止並放棄錄製的語音嗎？</string>
 	<string name="chat_audio_discard_warning_title">放棄錄製語音</string>
 	<string name="chat_audio_warning">無法在 Mixin 錄音時播放語音</string>

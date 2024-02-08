@@ -257,7 +257,7 @@
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s修改了限時消息設置</string>
   <string name="Changing" platform="android">正在修改…</string>
   <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">更新 PIN 意外中止，點繼續完成 PIN 修改</string>
-  <string name="chat" platform="Desktop">聊天</string>
+  <string name="chat" platform="android, iOS, Desktop">聊天</string>
   <string name="chat_audio_discard_warning" platform="android">你確定要停止並放棄錄製的語音嗎？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放棄錄製語音</string>
   <string name="chat_audio_warning" platform="android">無法在 Mixin 錄音時播放語音</string>
