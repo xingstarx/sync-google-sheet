@@ -1759,15 +1759,15 @@
 | android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
 | android, iOS | review_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
-| android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在将提现请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
-| android, iOS | withdrawal_sent_description | Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment. | 您的提现请求已通过 Mixin 主网确认，提现排队处理中，请稍候。 |     |     |     |
+| android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建提现，请稍候。 |     |     |     |
+| android, iOS | withdrawal_sent_description | Withdrawal request successful. Please wait a moment. | 提现成功。 |     |     |     |
 | android, iOS | Confirm_Transfer | Confirm Transfer | 转账确认 |     |     |     |
 | android, iOS | Sending_Transfer_Request | Sending Transfer Request | 正在发送转账 |     |     |     |
 | android, iOS | Transfer_Success | Transfer Success | 转账成功 |     |     |     |
 | android, iOS | Transfer_Failed | Transfer Failed | 转账失败 |     |     |     |
 | android, iOS | review_transfer_hint | Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss. | 请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
-| android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在将转账请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
-| android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。 |     |     |     |
+| android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建交易，请稍候。 |     |     |     |
+| android, iOS | transfer_sent_description | Transfer request successful. The recipient will promptly receive it. | 转账成功，收款人将很快就会收到转账。 |     |     |     |
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。 |     |     |     |
 | android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
@@ -1775,32 +1775,34 @@
 | android, iOS | large_amount_reminder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
 | android, iOS | unfamiliar_person_reminder | Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
 | android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
-| android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签签名确认 |     |     |     |
-| android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签签名 |     |     |     |
-| android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签签名失败 |     |     |     |
-| android, iOS | Multisig_Signed | Multisig Signed | 多签签名成功 |     |     |     |
-| android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在将签名发送到 Mixin 主网验证，请稍候。 |     |     |     |
-| android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已通过 Mixin 主网确认 |     |     |     |
-| android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签确认 |     |     |     |
-| android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签 |     |     |     |
-| android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多签失败 |     |     |     |
-| android, iOS | Multisig_Revoked | Multisig Revoked | 已撤销多签 |     |     |     |
-| android, iOS | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在将撤销多签的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
+| android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签交易确认 |     |     |     |
+| android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签交易 |     |     |     |
+| android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签交易失败 |     |     |     |
+| android, iOS | Multisig_Signed | Multisig Signed | 多签交易签名成功 |     |     |     |
+| android, iOS | multisig_signing_description | Requesting. Please wait a moment. | 正在发送，请稍候。 |     |     |     |
+| android, iOS | multisig_signed_description | Signature successful | 您的签名已成功 |     |     |     |
+| android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签交易确认 |     |     |     |
+| android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签交易 |     |     |     |
+| android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多重签名交易失败 |     |     |     |
+| android, iOS | Multisig_Revoked | Multisig Revoked | 已撤销多签交易 |     |     |     |
+| android, iOS | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在撤销多签交易，请稍候。 |     |     |     |
 | android, iOS | multisig_unlocked_description | Your signature has been revoked by the Mixin mainnet. | 您的签名已撤销 |     |     |     |
-| android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
+| android, iOS | Confirm_Adding_Address | Confirm Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
-| android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
-| android, iOS | address_added_description | The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals. | 您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。 |     |     |     |
+| android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在添加地址，请稍候。 |     |     |     |
+| android, iOS | address_added_description | Address has been added. You can immediately use this address for withdrawals. | 地址已添加，您可以立刻使用该地址进行提现。 |     |     |     |
+| android | address_deleting_description | The request to deleting the address is currently under verification by the Mixin server. Please wait a moment. | 正在删除地址，请稍候。 |     |     |     |
+| android | address_deleted_description | Address deleted. | 地址已删除。 |     |     |     |
 | android, iOS | Confirm_Editing_Address | Confirm Editing Address | 修改地址确认 |     |     |     |
 | android, iOS | Editing_Address | Editing Address | 正在修改地址 |     |     |     |
 | android, iOS | Editing_Address_Failed | Editing Address Failed | 修改地址失败 |     |     |     |
 | android, iOS | address_editing_description | The request to edit the address is currently under verification by the Mixin server. Please wait a moment. | 正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
 | android, iOS | address_edited_description | The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals. | 您修改地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。 |     |     |     |
-| android, iOS | Confirm_Deleting_Address | Confirm Deleting Address | 删除地址确认 |     |     |     |
-| android, iOS | Deleting_Address | Deleting Address | 正在删除地址 |     |     |     |
-| android, iOS | Deleting_Address_Failed | Deleting Address Failed | 删除地址失败 |     |     |     |
-| android, iOS | delete_address_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |
+| android, iOS | Confirm_Deleting_Address | Delete Address | 删除地址确认 |     |     |     |
+| android, iOS | Deleting_Address | Delete Address | 正在删除地址 |     |     |     |
+| android, iOS | Deleting_Address_Failed | DeleteAddress Failed | 删除地址失败 |     |     |     |
+| android, iOS | delete_address_description | Are you sure to delete this address? | 确认删除该地址吗？ |     |     |     |
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_will_receive | Address will receive | 指定地址将收到 |     |     |     |
 | android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |
