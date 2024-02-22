@@ -474,7 +474,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">アドレスの更新に失敗しました。もう一度やり直してください。</string>
   <string name="error_asset_exists" platform="Desktop">資産がありません</string>
   <string name="error_authentication" platform="android, Desktop">エラー 401：サインインをして続ける</string>
-  <string name="error_bad_data" platform="android, Desktop">エラー 10002：リクエストデータが無効です</string>
+  <string name="error_bad_data" platform="android, iOS, Desktop">エラー 10002：リクエストデータが無効です</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。</string>
   <string name="error_captcha_is_invalid" platform="iOS">エラー10004：captchaが無効です</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
@@ -485,14 +485,14 @@
   <string name="error_internal_with_msg" platform="iOS">内部エラー: %@</string>
   <string name="error_invalid_address" platform="android, Desktop">エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">エラー30102：無効なアドレス形式です</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
+  <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">エラー 20130：無効な緊急連絡先です</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">エラー 20118：無効なPINフォーマットです</string>
   <string name="error_memo_too_long" platform="android">メモの上限文字数は200文字です</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">エラー 404：結果なし</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">サポートされていないオーディオ形式です。他のアプリで開いてください。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">エラー 20132：数が上限に達しています</string>
+  <string name="error_number_reached_limit" platform="android, iOS, Desktop">エラー 20132：数が上限に達しています</string>
   <string name="error_old_version" platform="android, Desktop">エラー 10006：このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。</string>
   <string name="error_open_location" platform="android, Desktop">地図アプリがありません</string>
   <string name="error_permission" platform="android, Desktop">必要な権限を開いてください</string>
@@ -635,7 +635,6 @@
   <string name="Invalid_payment_link" platform="android, iOS">支払いが無効です</string>
   <string name="Invalid_QR_Code" platform="android, iOS">無効なQRコード</string>
   <string name="Invalid_request_body" platform="iOS">無効なリクエストボディ</string>
-  <string name="Invalid_request_data" platform="iOS">無効なリクエストデータ</string>
   <string name="Invalid_sdp" platform="iOS">無効なSDP</string>
   <string name="Invalid_sticker_format" platform="android">スタンプのフォーマットが無効です</string>
   <string name="Invalid_width" platform="iOS">無効な横幅</string>
@@ -840,7 +839,7 @@
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">位置情報へのアクセスは、位置情報の共有に使用されます</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">マイクは、通話やボイスメッセージに使用されます</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">アルバムは、プロフィール画像の設定、画像の共有に使用されます</string>
-  <string name="number_reached_limit" platform="android, iOS">数が上限に達しました</string>
+  <string name="number_reached_limit" platform="android">数が上限に達しました</string>
   <string name="Off" platform="android, iOS">オフ</string>
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_PIN" platform="android">変更前のPINコード</string>
@@ -1080,7 +1079,6 @@
   <string name="Send_to_Developer" platform="iOS, Desktop">開発者へ送信</string>
   <string name="Send_To_Title" platform="iOS">振替先</string>
   <string name="Send_transfer" platform="android">送信</string>
-  <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
   <string name="send_video" platform="iOS">ビデオを送信</string>
   <string name="send_video.count" platform="iOS">%1$d本のビデオを送信</string>
   <string name="send_without_compression" platform="android, Desktop">圧縮せずに送信</string>

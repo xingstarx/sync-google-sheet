@@ -586,11 +586,11 @@
 | android, Desktop | error_address_not_sync | Address refresh failed, please try again | 地址刷新失败，请重试 | アドレスの更新に失敗しました。もう一度やり直してください。 |     |     |
 | Desktop | error_asset_exists | Asset does not exist | 没有相关资产 | 資産がありません |     |     |
 | android, Desktop | error_authentication | ERROR 401: Sign in to continue | 错误 401：请重新登录 | エラー 401：サインインをして続ける | RALAT 401: Log masuk untuk meneruskan | KESALAHAN 401: Masuk untuk melanjutkan |
-| android, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | 错误 10002：请求数据不合法 | エラー 10002：リクエストデータが無効です | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid |
+| android, iOS, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | 错误 10002：请求数据不合法 | エラー 10002：リクエストデータが無効です | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid |
 | android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
 | iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid | 错误 10004：验证失败 | エラー10004：captchaが無効です |     |     |
 | android, iOS | error_card_expired | ERROR 10601: Card expired | 错误 10601: 卡片已过期 |     |     |     |
-| android, iOS | error_card_not_supported | ERROR 10604: Card not supported | ERROR 10604: 不支持此卡片 |     |     |     |
+| android, iOS | error_card_not_supported | ERROR 10604: Card not supported | 错误 10604: 不支持此卡片 |     |     |     |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | 网络连接超时 | ネットワーク接続がタイムアウトしました | Tamat masa sambungan rangkaian | Batas waktu sambungan jaringan |
 | android, iOS | error_expired_authorization_code | ERROR 20121: Expired authorization code | 错误 20121：授权码已过期 | 認証コードの期限切れ |     |     |
 | android, iOS, Desktop | error_full_group | ERROR 20116: The group chat is full. | 错误 20116：群组已满 | エラー 20116：グループチャットが満員です | RALAT 20116: Kumpulan sembang penuh. | KESALAHAN 20116: Obrolan grup sudah penuh. |
@@ -599,7 +599,7 @@
 | iOS | error_internal_with_msg | Internal error: %@ | 内部错误：%@ | 内部エラー: %@ |     |     |
 | android, Desktop | error_invalid_address | ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address! | 错误 30102：地址格式错误。请输入正确的 %1$s %2$s 的地址！ | エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。 |     |     |
 | android, iOS, Desktop | error_invalid_address_plain | ERROR 30102: Invalid address format. | 错误 30102：地址格式错误。 | エラー30102：無効なアドレス形式です | RALAT 30102: Format alamat tidak sah. | KESALAHAN 30102: Format alamat tidak valid. |
-| android, Desktop | error_invalid_code_too_frequent | ERROR 20129: Send verification code too frequent, please try again later. | 错误 20129：发送验证码太频繁，请稍后再试 | エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 | RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti. |
+| android, iOS, Desktop | error_invalid_code_too_frequent | ERROR 20129: Send verification code too frequent, please try again later. | 错误 20129：发送验证码太频繁，请稍后再试 | エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 | RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti. |
 | android, iOS, Desktop | error_invalid_emergency_contact | ERROR 20130: Invalid emergency contact | 错误 20130：紧急联系人不正确 | エラー 20130：無効な緊急連絡先です | RALAT 20130: Kenalan kecemasan tidak sah | KESALAHAN 20130: Kontak darurat tidak valid |
 | android, Desktop | error_invalid_pin_format | ERROR 20118: Invalid PIN format.  | 错误 20118：PIN 格式不正确 | エラー 20118：無効なPINフォーマットです | RALAT 20118: Format PIN tidak sah | KESALAHAN 20118: Format PIN tidak valid |
 | android | error_memo_too_long | Memo has too many characters, maximum is 200 | Memo 字符超长，最多为 200 | メモの上限文字数は200文字です |     |     |
@@ -607,11 +607,11 @@
 | Desktop | error_no_pin_token | No token, Please log in again and try this feature again. | 缺少凭据，请重新登录之后再尝试使用此功能。 |     |     |     |
 | android, iOS, Desktop | error_not_found | ERROR 404: Not found | 错误 404：没有找到相应的信息 | エラー 404：結果なし | RALAT 404: Tidak ditemui | KESALAHAN 404: Tidak ditemukan |
 | android, Desktop | error_not_supported_audio_format | Not supported audio format, please open by other app. | 不支持的音频格式，请用其他app打开。 | サポートされていないオーディオ形式です。他のアプリで開いてください。 | Tidak disokong format audio, sila buka oleh aplikasi lain. | Tidak mendukung format audio, harap buka dengan aplikasi lain. |
-| android, Desktop | error_number_reached_limit | ERROR 20132: The number has reached the limit. | 错误 20132： 已达到上限 | エラー 20132：数が上限に達しています | RALAT 20132: Angka telah mencapai had. | KESALAHAN 20132: Jumlahnya telah mencapai batas. |
+| android, iOS, Desktop | error_number_reached_limit | ERROR 20132: The number has reached the limit. | 错误 20132： 已达到上限 | エラー 20132：数が上限に達しています | RALAT 20132: Angka telah mencapai had. | KESALAHAN 20132: Jumlahnya telah mencapai batas. |
 | android, Desktop | error_old_version | ERROR 10006: Please update Mixin(%1$s) to continue use the service. | 错误 10006：请更新 Mixin（%1$s） 至最新版。 | エラー 10006：このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。 | RALAT 10006: Sila kemas kini Mixin(%1$s) untuk terus menggunakan perkhidmatan ini. | KESALAHAN 10006: Harap perbarui Mixin(%1$s) untuk terus menggunakan layanan. |
 | android, Desktop | error_open_location | Can't find an map app | 无法找到地图应用 | 地図アプリがありません | Tidak dapat mencari aplikasi peta | Tidak dapat menemukan aplikasi peta |
-| android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
-| android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
+| android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | 错误 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
+| android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | 错误 10603: 支付确认失败 |     |     |     |
 | android | error_not_support_card | ERROR 10604: Card anomaly, please try correct card later | 错误 10604: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_use_card_same_time | ERROR 10605: Card anomaly, please try correct card later | 错误 10605: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_not_approved_many_times | ERROR 10606: Not approved too many times | 错误 10606: 未批准多次 |     |     |     |
@@ -628,7 +628,7 @@
 | android, iOS, Desktop | error_pin_incorrect | ERROR 20119: PIN incorrect | 错误 20119：PIN 不正确 | PINコードが違います | RALAT 20119: PIN tidak betul | KESALAHAN 20119: PIN salah |
 | android, iOS, Desktop | error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later. | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー 20119：PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 |     |     |
 | android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later. | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー20119：PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 | RALAT 20119: PIN tidak betul. Anda masih mempunyai %1$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | KESALAHAN 20119: PIN salah. Anda masih memiliki %1$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. |
-| android, iOS | error_price_expired | ERROR 10602: Price expired | ERROR 10602: 价格已过期 |     |     |     |
+| android, iOS | error_price_expired | ERROR 10602: Price expired | 错误 10602: 价格已过期 |     |     |     |
 | android, Desktop | error_recaptcha_is_invalid | ERROR 10004: Recaptcha is invalid | 错误 10004：验证失败 | エラー 10004：Recaptchaが無効です | RALAT 10004: Recaptcha tidak sah | KESALAHAN 10004: Recaptcha tidak valid |
 | iOS | error_requires_captcha | CAPTCHA is required. | 需要验证码。 | Captcha認証が必要です |     |     |
 | android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | 服务器出错，请稍后重试：%1$d | サーバーメンテナンス中：%1$d | Pelayan sedang dalam penyelenggaraan: %1$d | Server sedang dalam pemeliharaan: %1$d |
@@ -785,7 +785,6 @@
 | android, iOS | Invalid_payment_link | Invalid payment link | 无效支付信息 | 支払いが無効です | Pembayaran tidak sah | Pembayaran tidak valid |
 | android, iOS | Invalid_QR_Code | Invalid QR-Code | 无效的二维码 | 無効なQRコード |     |     |
 | iOS | Invalid_request_body | Invalid request body | 无效的请求 | 無効なリクエストボディ |     |     |
-| iOS | Invalid_request_data | Invalid request data | 无效的请求数据 | 無効なリクエストデータ |     |     |
 | iOS | Invalid_sdp | Invalid SDP | 无效的 SDP | 無効なSDP |     |     |
 | android | Invalid_sticker_format | Invalid sticker format | 贴纸格式不支持 | スタンプのフォーマットが無効です | Format pelekat tidak sah | Format stiker tidak valid |
 | iOS | Invalid_width | Invalid width | 宽度无效 | 無効な横幅 |     |     |
@@ -1030,7 +1029,7 @@
 | iOSAuthorization | NSLocationWhenInUseUsageDescription | Turn on location services to send your current location or nearby places in conversation | 允许获取位置让您可以在对话中发送当前的位置或附近的地点 | 位置情報へのアクセスは、位置情報の共有に使用されます |     |     |
 | iOSAuthorization | NSMicrophoneUsageDescription | Mixin uses your microphone to record voice messages to share with your contacts | Mixin 使用你的麦克风录制语音消息发给你的联系人 | マイクは、通話やボイスメッセージに使用されます |     |     |
 | iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat | Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片 | アルバムは、プロフィール画像の設定、画像の共有に使用されます |     |     |
-| android, iOS | number_reached_limit | The number has reached the limit | 已达到上限 | 数が上限に達しました | Jumlahnya sudah mencapai had | Jumlahnya sudah mencapai batas |
+| android | number_reached_limit | The number has reached the limit | 已达到上限 | 数が上限に達しました | Jumlahnya sudah mencapai had | Jumlahnya sudah mencapai batas |
 | Desktop | objects | Objects | 物件  |     |     |     |
 | android, iOS | Off | Off | 关闭  | オフ  |     |     |
 | android, iOS | OK  | OK  | 好的  | OK  | okey | OK  |
@@ -1351,7 +1350,6 @@
 | iOS, Desktop | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
 | iOS | Send_To_Title | Send To | 转给  | 振替先 |     |     |
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
-| iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |
 | iOS | send_video | Send 1 Video | 发送 1 个视频 | ビデオを送信 |     |     |
 | iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$d本のビデオを送信 |     |     |
 | android, Desktop | send_without_compression | Send without compression | 发送原始文件 | 圧縮せずに送信 |     |     |

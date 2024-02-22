@@ -585,7 +585,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
   <string name="error_asset_exists" platform="Desktop">Asset does not exist</string>
   <string name="error_authentication" platform="android, Desktop">ERROR 401: Sign in to continue</string>
-  <string name="error_bad_data" platform="android, Desktop">ERROR 10002: The request data has invalid field</string>
+  <string name="error_bad_data" platform="android, iOS, Desktop">ERROR 10002: The request data has invalid field</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">ERROR 30100: Blockchain not in sync, please try again later.</string>
   <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA is invalid</string>
   <string name="error_card_expired" platform="android, iOS">ERROR 10601: Card expired</string>
@@ -598,7 +598,7 @@
   <string name="error_internal_with_msg" platform="iOS">Internal error: %@</string>
   <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: Invalid address format.</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
+  <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Invalid emergency contact</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Invalid PIN format. </string>
   <string name="error_memo_too_long" platform="android">Memo has too many characters, maximum is 200</string>
@@ -606,7 +606,7 @@
   <string name="error_no_pin_token" platform="Desktop">No token, Please log in again and try this feature again.</string>
   <string name="error_not_found" platform="android, iOS, Desktop">ERROR 404: Not found</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Not supported audio format, please open by other app.</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: The number has reached the limit.</string>
+  <string name="error_number_reached_limit" platform="android, iOS, Desktop">ERROR 20132: The number has reached the limit.</string>
   <string name="error_old_version" platform="android, Desktop">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
   <string name="error_open_location" platform="android, Desktop">Can't find an map app</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
@@ -784,7 +784,6 @@
   <string name="Invalid_payment_link" platform="android, iOS">Invalid payment link</string>
   <string name="Invalid_QR_Code" platform="android, iOS">Invalid QR-Code</string>
   <string name="Invalid_request_body" platform="iOS">Invalid request body</string>
-  <string name="Invalid_request_data" platform="iOS">Invalid request data</string>
   <string name="Invalid_sdp" platform="iOS">Invalid SDP</string>
   <string name="Invalid_sticker_format" platform="android">Invalid sticker format</string>
   <string name="Invalid_width" platform="iOS">Invalid width</string>
@@ -1029,7 +1028,7 @@
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Turn on location services to send your current location or nearby places in conversation</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin uses your microphone to record voice messages to share with your contacts</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
-  <string name="number_reached_limit" platform="android, iOS">The number has reached the limit</string>
+  <string name="number_reached_limit" platform="android">The number has reached the limit</string>
   <string name="objects" platform="Desktop">Objects</string>
   <string name="Off" platform="android, iOS">Off</string>
   <string name="OK" platform="android, iOS">OK</string>
@@ -1350,7 +1349,6 @@
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
-  <string name="Send_verification_code_frequent" platform="iOS">Send verification code too frequent, please try again later.</string>
   <string name="send_video" platform="iOS">Send 1 Video</string>
   <string name="send_video.count" platform="iOS">Send %1$d Videos</string>
   <string name="send_without_compression" platform="android, Desktop">Send without compression</string>
