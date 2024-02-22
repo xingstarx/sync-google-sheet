@@ -468,7 +468,7 @@
 	<string name="error_blockchain">錯誤 30100：區塊鏈同步異常，請稍後重試</string>
 	<string name="error_card_expired">錯誤 10601: 卡片已過期</string>
 	<string name="error_card_holder_name_not_same">錯誤 10608: 卡片異常，請稍後嘗試正確的卡片</string>
-	<string name="error_card_not_supported">ERROR 10604: 不支持此卡片</string>
+	<string name="error_card_not_supported">錯誤 10604: 不支持此卡片</string>
 	<string name="error_connection_timeout">網絡連接超時</string>
 	<string name="error_expired_authorization_code">錯誤 20121：授權碼已過期</string>
 	<string name="error_expired_session">錯誤 10609: 交易會話過期</string>
@@ -489,8 +489,8 @@
 	<string name="error_number_reached_limit">錯誤 20132： 已達到上限</string>
 	<string name="error_old_version">錯誤 10006：請更新 Mixin（%1$s） 至最新版。</string>
 	<string name="error_open_location">無法找到地圖應用</string>
-	<string name="error_opponent_not_registered_to_safe">ERROR 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本</string>
-	<string name="error_payment_capture_failed">ERROR 10603: 支付確認失敗</string>
+	<string name="error_opponent_not_registered_to_safe">錯誤 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本</string>
+	<string name="error_payment_capture_failed">錯誤 10603: 支付確認失敗</string>
 	<string name="error_permission">請開啓相關權限</string>
 	<string name="error_phone_invalid_format">錯誤 20110：手機號碼不合法</string>
 	<string name="error_phone_sms_delivery">錯誤 10003：發送短信失敗</string>
@@ -502,7 +502,7 @@
 		<item quantity="one">錯誤 20119：PIN 不正確。你還有 %1$d 次機會，使用完需等待 24 小時後再次嘗試。</item>
 		<item quantity="other">錯誤 20119：PIN 不正確。你還有 %1$d 次機會，使用完需等待 24 小時後再次嘗試。</item>
 	</plurals>
-	<string name="error_price_expired">ERROR 10602: 價格已過期</string>
+	<string name="error_price_expired">錯誤 10602: 價格已過期</string>
 	<string name="error_recaptcha_is_invalid">錯誤 10004：驗證失敗</string>
 	<string name="error_server_5xx_code">服務器出錯，請稍後重試：%1$d</string>
 	<string name="error_too_many_card_added">錯誤 10607: 卡片異常，請稍後嘗試正確的卡片</string>

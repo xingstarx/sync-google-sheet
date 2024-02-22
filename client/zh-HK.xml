@@ -576,11 +576,11 @@
   <string name="error_address_not_sync" platform="android, Desktop">地址刷新失敗，請重試</string>
   <string name="error_asset_exists" platform="Desktop">沒有相關資產</string>
   <string name="error_authentication" platform="android, Desktop">錯誤 401：請重新登錄</string>
-  <string name="error_bad_data" platform="android, Desktop">錯誤 10002：請求數據不合法</string>
+  <string name="error_bad_data" platform="android, iOS, Desktop">錯誤 10002：請求數據不合法</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">錯誤 30100：區塊鏈同步異常，請稍後重試</string>
   <string name="error_captcha_is_invalid" platform="iOS">錯誤 10004：驗證失敗</string>
   <string name="error_card_expired" platform="android, iOS">錯誤 10601: 卡片已過期</string>
-  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支持此卡片</string>
+  <string name="error_card_not_supported" platform="android, iOS">錯誤 10604: 不支持此卡片</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">網絡連接超時</string>
   <string name="error_expired_authorization_code" platform="android, iOS">錯誤 20121：授權碼已過期</string>
   <string name="error_full_group" platform="android, iOS, Desktop">錯誤 20116：羣組已滿</string>
@@ -589,7 +589,7 @@
   <string name="error_internal_with_msg" platform="iOS">內部錯誤：%@</string>
   <string name="error_invalid_address" platform="android, Desktop">錯誤 30102：地址格式錯誤。請輸入正確的 %1$s %2$s 的地址！</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">錯誤 30102：地址格式錯誤。</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">錯誤 20129：發送驗證碼太頻繁，請稍後再試</string>
+  <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">錯誤 20129：發送驗證碼太頻繁，請稍後再試</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">錯誤 20130：緊急聯繫人不正確</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">錯誤 20118：PIN 格式不正確</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超長，最多為 200</string>
@@ -597,11 +597,11 @@
   <string name="error_no_pin_token" platform="Desktop">缺少憑據，請重新登錄之後再嘗試使用此功能。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">錯誤 404：沒有找到相應的信息</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">不支持的音頻格式，請用其他app打開。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">錯誤 20132： 已達到上限</string>
+  <string name="error_number_reached_limit" platform="android, iOS, Desktop">錯誤 20132： 已達到上限</string>
   <string name="error_old_version" platform="android, Desktop">錯誤 10006：請更新 Mixin（%1$s） 至最新版。</string>
   <string name="error_open_location" platform="android, Desktop">無法找到地圖應用</string>
-  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本</string>
-  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付確認失敗</string>
+  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">錯誤 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本</string>
+  <string name="error_payment_capture_failed" platform="android, iOS">錯誤 10603: 支付確認失敗</string>
   <string name="error_not_support_card" platform="android">錯誤 10604: 卡片異常，請稍後嘗試正確的卡片</string>
   <string name="error_use_card_same_time" platform="android">錯誤 10605: 卡片異常，請稍後嘗試正確的卡片</string>
   <string name="error_not_approved_many_times" platform="android">錯誤 10606: 未批准多次</string>
@@ -618,7 +618,7 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">錯誤 20119：PIN 不正確</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">錯誤 20119：PIN 不正確。你還有 %1$d 次機會，使用完需等待 24 小時後再次嘗試。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">錯誤 20119：PIN 不正確。你還有 %1$d 次機會，使用完需等待 24 小時後再次嘗試。</string>
-  <string name="error_price_expired" platform="android, iOS">ERROR 10602: 價格已過期</string>
+  <string name="error_price_expired" platform="android, iOS">錯誤 10602: 價格已過期</string>
   <string name="error_recaptcha_is_invalid" platform="android, Desktop">錯誤 10004：驗證失敗</string>
   <string name="error_requires_captcha" platform="iOS">需要驗證碼。</string>
   <string name="error_server_5xx_code" platform="android, Desktop">服務器出錯，請稍後重試：%1$d</string>
@@ -772,7 +772,6 @@
   <string name="Invalid_payment_link" platform="android, iOS">無效支付信息</string>
   <string name="Invalid_QR_Code" platform="android, iOS">無效的二維碼</string>
   <string name="Invalid_request_body" platform="iOS">無效的請求</string>
-  <string name="Invalid_request_data" platform="iOS">無效的請求數據</string>
   <string name="Invalid_sdp" platform="iOS">無效的 SDP</string>
   <string name="Invalid_sticker_format" platform="android">貼紙格式不支持</string>
   <string name="Invalid_width" platform="iOS">寬度無效</string>
@@ -1011,7 +1010,7 @@
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允許獲取位置讓您可以在對話中發送當前的位置或附近的地點</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麥克風錄製語音消息發給你的聯繫人</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要訪問相冊的權限來設置頭像或在聊天室裏給你的聯繫人發送照片</string>
-  <string name="number_reached_limit" platform="android, iOS">已達到上限</string>
+  <string name="number_reached_limit" platform="android">已達到上限</string>
   <string name="objects" platform="Desktop">物件</string>
   <string name="Off" platform="android, iOS">關閉</string>
   <string name="OK" platform="android, iOS">好的</string>
@@ -1330,7 +1329,6 @@
   <string name="Send_to_Developer" platform="iOS, Desktop">把日誌發給開發者</string>
   <string name="Send_To_Title" platform="iOS">轉給</string>
   <string name="Send_transfer" platform="android">轉出</string>
-  <string name="Send_verification_code_frequent" platform="iOS">發送驗證碼太頻繁，請稍後再試</string>
   <string name="send_video" platform="iOS">發送 1 個視頻</string>
   <string name="send_video.count" platform="iOS">發送 %1$d 個視頻</string>
   <string name="send_without_compression" platform="android, Desktop">發送原始檔案</string>

@@ -431,6 +431,7 @@
 "enter_your_pin" = "Masukkan PIN anda";
 "enter_your_pin_to_continue" = "Enter your PIN to continue";
 "enter_your_pin_to_verify" = "Enter your PIN to verify";
+"error_bad_data" = "RALAT 10002: Data permintaan mempunyai medan yang tidak sah";
 "error_blockchain" = "RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.";
 "error_captcha_is_invalid" = "ERROR 10004: CAPTCHA is invalid";
 "error_card_expired" = "ERROR 10601: Card expired";
@@ -442,9 +443,11 @@
 "error_insufficient_transaction_fee_with_amount" = "ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %@ as fee";
 "error_internal_with_msg" = "Internal error: %@";
 "error_invalid_address_plain" = "RALAT 30102: Format alamat tidak sah.";
+"error_invalid_code_too_frequent" = "RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.";
 "error_invalid_emergency_contact" = "RALAT 20130: Kenalan kecemasan tidak sah";
 "error_network_task_failed" = "Network connection failed. Check or switch your network and try again";
 "error_not_found" = "RALAT 404: Tidak ditemui";
+"error_number_reached_limit" = "RALAT 20132: Angka telah mencapai had.";
 "error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
 "error_payment_capture_failed" = "ERROR 10603: Payment capture failed";
 "error_phone_invalid_format" = "RALAT 20110: Nombor telefon tidak sah";
@@ -551,7 +554,6 @@
 "invalid_payment_link" = "Pembayaran tidak sah";
 "invalid_qr_code" = "Invalid QR-Code";
 "invalid_request_body" = "Invalid request body";
-"invalid_request_data" = "Invalid request data";
 "invalid_sdp" = "Invalid SDP";
 "invalid_width" = "Invalid width";
 "invite" = "Invite";
@@ -712,7 +714,6 @@
 "notification_content" = "Jangan terlepas mesej daripada rakan anda.";
 "notification_message_preview_description" = "Preview message text inside new message notifications.";
 "now_an_addmin" = "%@ now an admin";
-"number_reached_limit" = "Jumlahnya sudah mencapai had";
 "off" = "Off";
 "ok" = "okey";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
@@ -962,7 +963,6 @@
 "send_to_contact_description" = "Send crypto to Mixin contact";
 "send_to_developer" = "Send to Developer";
 "send_to_title" = "Send To";
-"send_verification_code_frequent" = "Send verification code too frequent, please try again later.";
 "send_video" = "Send 1 Video";
 "send_video_count" = "Send %d Videos";
 "send_without_sound" = "Send Without Sound";
