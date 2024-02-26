@@ -58,8 +58,7 @@
 	<string name="address_edited">Address Edited</string>
 	<string name="address_edited_description">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
 	<string name="address_editing_description">The request to edit the address is currently under verification by the Mixin server. Please wait a moment.</string>
-	<string name="address_validity_reminder">Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
-	<string name="address_will_receive">Address will receive</string>
+	<string name="address_validity_reminder">Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
 	<string name="Admin">Admin</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
@@ -434,7 +433,7 @@
 	<string name="Draw">Draw</string>
 	<string name="Duplicate_Transfer_Confirmation">Duplicate Transfer Confirmation</string>
 	<string name="Duplicate_Withdraw_Confirmation">Duplicate Withdraw Confirmation</string>
-	<string name="duplication_reminder">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
+	<string name="duplication_reminder">You transferred %1$s to the recipient %2$s ago.</string>
 	<string name="Duration_is_too_short">Duration is too short</string>
 	<string name="edit_address">Edit %1$s Address</string>
 	<string name="Edit_Biography">Edit Biography</string>
@@ -654,7 +653,7 @@
 	<string name="Language">Language</string>
 	<string name="Large_Amount_Confirmation">Large Amount Confirmation</string>
 	<string name="Large_Amount_Confirmation_with_symbol">Large Amount Confirmation(%1$s)</string>
-	<string name="large_amount_reminder">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
+	<string name="large_amount_reminder">Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
 	<string name="Last_Backup">Last Backup</string>
 	<string name="Last_month">Last month</string>
 	<string name="Last_months">Last %1$s months</string>
@@ -929,7 +928,6 @@
 	<string name="RECEIVE">Receive</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Receiver">Receiver</string>
-	<string name="receiver_will_receive">Receiver will receive</string>
 	<string name="Recent">Recent</string>
 	<string name="recent_chats">CHATS</string>
 	<string name="Recent_searches">Recent searches</string>
@@ -1192,6 +1190,7 @@
 	<string name="To">To</string>
 	<string name="Today">Today</string>
 	<string name="token_amount">Token Amount</string>
+	<string name="total">Total</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
 	<string name="Transaction">Transaction</string>
@@ -1237,7 +1236,7 @@
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
-	<string name="unfamiliar_person_reminder">Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
+	<string name="unfamiliar_person_reminder">Confirm the transfer to %1$s (%2$s)? They are not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
 	<plurals name="unit_day">
 		<item quantity="one">day</item>
 		<item quantity="other">days</item>

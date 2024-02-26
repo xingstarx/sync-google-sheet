@@ -58,8 +58,7 @@
 	<string name="address_edited">地址已修改</string>
 	<string name="address_edited_description">您修改地址的請求已通過 Mixin 服務器確認，您可以立刻使用該地址進行提現。</string>
 	<string name="address_editing_description">正在將修改地址的請求發送到 Mixin 服務器驗證，請稍候。</string>
-	<string name="address_validity_reminder">地址確認提醒：請確認地址 %1$s（%2$s）仍然有效，您已經超過 30 天沒有使用該地址。</string>
-	<string name="address_will_receive">指定地址將收到</string>
+	<string name="address_validity_reminder">請確認地址 %1$s（%2$s）仍然有效，您已經超過 30 天沒有使用該地址。</string>
 	<string name="Admin">管理員</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
@@ -425,7 +424,7 @@
 	<string name="Draw">繪製</string>
 	<string name="Duplicate_Transfer_Confirmation">重複轉賬確認</string>
 	<string name="Duplicate_Withdraw_Confirmation">重複提現確認</string>
-	<string name="duplication_reminder">重複轉賬提醒：您已經在%2$s前給該收款人轉賬了 %1$s。</string>
+	<string name="duplication_reminder">您已經在%2$s前給該收款人轉賬了 %1$s。</string>
 	<string name="Duration_is_too_short">時間太短</string>
 	<string name="edit_address">修改 %1$s 地址</string>
 	<string name="Edit_Biography">修改簡介</string>
@@ -638,7 +637,7 @@
 	<string name="Language">語言</string>
 	<string name="Large_Amount_Confirmation">大額轉賬確認</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大額轉賬確認（%1$s）</string>
-	<string name="large_amount_reminder">大額轉賬提醒：確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>
+	<string name="large_amount_reminder">確定給 %3$s（%4$s）轉價值 %1$s 的 %2$s？</string>
 	<string name="Last_Backup">上次備份</string>
 	<string name="Last_month">最近一個月</string>
 	<string name="Last_months">最近 %1$s 個月</string>
@@ -910,7 +909,6 @@
 	<string name="RECEIVE">轉入</string>
 	<string name="Receive_Money">我的收款碼</string>
 	<string name="Receiver">至</string>
-	<string name="receiver_will_receive">對方將收到</string>
 	<string name="Recent">最近</string>
 	<string name="recent_chats">最近聊天</string>
 	<string name="Recent_searches">最近搜索</string>
@@ -1171,6 +1169,7 @@
 	<string name="To">至</string>
 	<string name="Today">今天</string>
 	<string name="token_amount">代幣總數</string>
+	<string name="total">共計</string>
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>
 	<string name="transaction_failed">轉賬失敗</string>
@@ -1215,7 +1214,7 @@
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤銷</string>
-	<string name="unfamiliar_person_reminder">陌生轉賬提醒：確定給 %1$s（%2$s）轉賬？他不是你的聯繫人，如果您轉錯人，資產將無法追回。</string>
+	<string name="unfamiliar_person_reminder">確定給 %1$s（%2$s）轉賬？他不是你的聯繫人，如果您轉錯人，資產將無法追回。</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">天</item>
 		<item quantity="other">天</item>
