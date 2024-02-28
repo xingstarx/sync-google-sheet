@@ -58,7 +58,7 @@
 	<string name="address_edited">地址已修改</string>
 	<string name="address_edited_description">您修改地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
 	<string name="address_editing_description">正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。</string>
-	<string name="address_validity_reminder">请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。</string>
+	<string name="address_validity_reminder">您已经超过 %3$s 天没有使用地址 %1$s（%2$s），请注意检查地址是否仍然有效。</string>
 	<string name="Admin">管理员</string>
 	<string name="After_1_minute">1分钟之后</string>
 	<string name="After_30_minutes">30分钟之后</string>
@@ -637,7 +637,7 @@
 	<string name="Language">语言</string>
 	<string name="Large_Amount_Confirmation">大额转账确认</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大额转账确认（%1$s）</string>
-	<string name="large_amount_reminder">确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？</string>
+	<string name="large_amount_reminder">本次转账 %1$s 的价值高达 %2$s，请注意金额是否正确。</string>
 	<string name="Last_Backup">上次备份</string>
 	<string name="Last_month">最近一个月</string>
 	<string name="Last_months">最近 %1$s 个月</string>
@@ -1214,7 +1214,7 @@
 	<string name="unable_to_decode_the_request">无法解析请求: %1$s</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤销</string>
-	<string name="unfamiliar_person_reminder">确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。</string>
+	<string name="unfamiliar_person_reminder">%1$s（%2$s）不是你的联系人，请注意收款人是否正确。</string>
 	<plurals name="unit_day" tools:ignore="UnusedQuantity">
 		<item quantity="one">天</item>
 		<item quantity="other">天</item>

@@ -58,7 +58,7 @@
 	<string name="address_edited">Address Edited</string>
 	<string name="address_edited_description">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
 	<string name="address_editing_description">The request to edit the address is currently under verification by the Mixin server. Please wait a moment.</string>
-	<string name="address_validity_reminder">Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
+	<string name="address_validity_reminder">The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid.</string>
 	<string name="Admin">Admin</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
@@ -653,7 +653,7 @@
 	<string name="Language">Language</string>
 	<string name="Large_Amount_Confirmation">Large Amount Confirmation</string>
 	<string name="Large_Amount_Confirmation_with_symbol">Large Amount Confirmation(%1$s)</string>
-	<string name="large_amount_reminder">Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
+	<string name="large_amount_reminder">The value of this transfer of %1$s is up to %2$s. Please ensure the amount is correct.</string>
 	<string name="Last_Backup">Last Backup</string>
 	<string name="Last_month">Last month</string>
 	<string name="Last_months">Last %1$s months</string>
@@ -1236,7 +1236,7 @@
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
-	<string name="unfamiliar_person_reminder">Confirm the transfer to %1$s (%2$s)? They are not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
+	<string name="unfamiliar_person_reminder">%1$s (%2$s) is not in your contacts. Please verify if the recipient is correct.</string>
 	<plurals name="unit_day">
 		<item quantity="one">day</item>
 		<item quantity="other">days</item>
