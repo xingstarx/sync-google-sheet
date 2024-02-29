@@ -300,6 +300,7 @@
 "continue" = "Continuar";
 "continue_need_verify_your_pin" = "Continuar necesita verificar su PIN anterior y PIN nuevo";
 "continue_open_url" = "Continuar Abrir URL";
+"continue_with_pin" = "Continue with PIN";
 "conversation" = "Conversación";
 "conversation_has_too_many_circles" = "La conversación tiene demasiados círculos.";
 "conversation_not_found" = "Conversación no encontrada.";
@@ -480,6 +481,15 @@
 "explore" = "Explore";
 "export" = "Exportar";
 "export_failed" = "Exportación fallida";
+"export_private_key" = "Export Private Key";
+"export_private_key_confirmation" = "Export Private Key Confirmation";
+"export_private_key_description" = "Kindly confirm your ability to securely store the private key and your willingness to accept the potential risk of leakage.";
+"export_private_key_discouragement" = "Mixin Messenger's MPC wallet is built on the decentralized key protocol TIP. The complete key of the wallet only exists in the TEE secure environment of current device, with no risk of leakage. Neither us nor any third party can access the private key. We strongly advise non-professionals not to export the private key. Read the documentation to learn more.";
+"export_private_key_discouragement_1" = "The private key enables transfer of all assets within current wallet, without the need for SMS or PIN code verification.";
+"export_private_key_discouragement_2" = "Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed.";
+"export_private_key_discouragement_3" = "It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger.";
+"exporting_private_key" = "Exporting Private Key";
+"exporting_private_key_description" = "Exporting the private key of your Mixin wallet, please wait.";
 "face_id" = "ID facial";
 "failed_to_compose_avatar" = "No se ha podido componer el avatar. Prueba con otra imagen en su lugar.";
 "failed_to_send_location" = "No se ha podido enviar la ubicación";
@@ -804,6 +814,9 @@
 "price_expired" = "Price Expired";
 "privacy" = "Privacidad";
 "privacy_policy" = "Política de privacidad";
+"private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
+"private_key_export_success_warning" = "Do not take screenshots or share the key on the internet.";
+"private_key_export_successful" = "Private Key Export Successful";
 "process_can_not_be_stop" = "El proceso no se puede cancelar cuando comienza. Recuerda el PIN de 6 dígitos y vuelva a introducirlo si el proceso se cancela inesperadamente.";
 "processing" = "Processing";
 "profile" = "Perfil";

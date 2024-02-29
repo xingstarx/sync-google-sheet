@@ -300,6 +300,7 @@
 "continue" = "続ける";
 "continue_need_verify_your_pin" = "Continue need to verify your old PIN and new PIN";
 "continue_open_url" = "URLを開く";
+"continue_with_pin" = "Continue with PIN";
 "conversation" = "チャットルーム";
 "conversation_has_too_many_circles" = "グループリスト数を減らしてください";
 "conversation_not_found" = "チャットルームが見つかりません";
@@ -480,6 +481,15 @@
 "explore" = "Explore";
 "export" = "エクスポート";
 "export_failed" = "エクスポート失敗";
+"export_private_key" = "Export Private Key";
+"export_private_key_confirmation" = "Export Private Key Confirmation";
+"export_private_key_description" = "Kindly confirm your ability to securely store the private key and your willingness to accept the potential risk of leakage.";
+"export_private_key_discouragement" = "Mixin Messenger's MPC wallet is built on the decentralized key protocol TIP. The complete key of the wallet only exists in the TEE secure environment of current device, with no risk of leakage. Neither us nor any third party can access the private key. We strongly advise non-professionals not to export the private key. Read the documentation to learn more.";
+"export_private_key_discouragement_1" = "The private key enables transfer of all assets within current wallet, without the need for SMS or PIN code verification.";
+"export_private_key_discouragement_2" = "Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed.";
+"export_private_key_discouragement_3" = "It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger.";
+"exporting_private_key" = "Exporting Private Key";
+"exporting_private_key_description" = "Exporting the private key of your Mixin wallet, please wait.";
 "face_id" = "顔認証";
 "failed_to_compose_avatar" = "アバターの作成に失敗しました。別の画像を使ってください";
 "failed_to_send_location" = "位置情報を送信できませんでした";
@@ -804,6 +814,9 @@
 "price_expired" = "Price Expired";
 "privacy" = "プライバシー";
 "privacy_policy" = "プライバシーポリシー";
+"private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
+"private_key_export_success_warning" = "Do not take screenshots or share the key on the internet.";
+"private_key_export_successful" = "Private Key Export Successful";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
 "processing" = "Processing";
 "profile" = "プロフィール";

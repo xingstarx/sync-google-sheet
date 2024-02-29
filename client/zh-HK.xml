@@ -1783,4 +1783,17 @@
   <string name="Not_Now" platform="android, iOS">現在不要</string>
   <string name="Sender" platform="android, iOS">交易發起人</string>
   <string name="total" platform="android, iOS">共計</string>
+  <string name="Export_Private_Key" platform="android, iOS">導出私鑰</string>
+  <string name="Export_Private_Key_Confirmation" platform="android, iOS">導出私鑰確認</string>
+  <string name="export_private_key_description" platform="android, iOS">請確認您具備安全保管私鑰的能力，並且願意承擔導出私鑰可能帶來的泄漏風險。</string>
+  <string name="Exporting_Private_Key" platform="android, iOS">正在導出私鑰</string>
+  <string name="exporting_private_key_description" platform="android, iOS">正在將導出您 Mixin 錢包的私鑰，請稍候。</string>
+  <string name="Private_Key_Export_Successful" platform="android, iOS">導出私鑰成功</string>
+  <string name="private_key_export_success_description" platform="android, iOS">請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。</string>
+  <string name="private_key_export_success_warning" platform="android, iOS">注意不要截屏或把密鑰分享到網絡上。</string>
+  <string name="export_private_key_discouragement" platform="android, iOS">Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，沒有泄漏風險，其他任何第三方包括我們均無法訪問該私鑰。我們強烈建議非專業人士不要手動導出備份私鑰，閲讀文檔瞭解更多。</string>
+  <string name="export_private_key_discouragement_1" platform="android, iOS">私鑰可直接轉移當前賬號錢包裏所有的資產，不需要藉助手機短信或 PIN 碼。</string>
+  <string name="export_private_key_discouragement_2" platform="android, iOS">Mixin Messenger 不支持私鑰導入，需要使用請通過主網工具來操作。</string>
+  <string name="export_private_key_discouragement_3" platform="android, iOS">強烈不推薦在 Mixin Messenger 賬號可用情況下使用該私鑰，否則相關資產在 Mixin Messenger 可能無法繼續使用。</string>
+  <string name="continue_with_pin" platform="android, iOS">輸入 PIN 繼續</string>
 </resources>
