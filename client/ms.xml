@@ -640,7 +640,7 @@
   <string name="Start_Messaging" platform="android, iOS">Mulakan Pemesejan</string>
   <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="Sticker" platform="android, iOS, Desktop">Pelekat</string>
-  <string name="sticker_add_invalid_size" platform="android">Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px.</string>
+  <string name="sticker_add_invalid_size" platform="android, Desktop">Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px.</string>
   <string name="Stop_Playing" platform="android, iOS">Berhenti bermain</string>
   <string name="storage_low_message" platform="android">Storan telefon anda hampir penuh, yang boleh menjejaskan pengalaman Mixin anda secara serius dan boleh mengakibatkan sembang yang rosak atau hilang dan data penting lain. Oleh itu, disarankan untuk nyahpasang aplikasi yang tidak digunakan untuk memberi lebih ruang</string>
   <string name="storage_low_title" platform="android">Storan telefon anda hampir penuh</string>

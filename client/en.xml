@@ -1459,7 +1459,7 @@
   <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
   <string name="Sticker" platform="android, iOS, Desktop">Sticker</string>
-  <string name="sticker_add_invalid_size" platform="android">Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px.</string>
+  <string name="sticker_add_invalid_size" platform="android, Desktop">Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px.</string>
   <string name="sticker_add_requirements" platform="iOS">Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels.</string>
   <string name="sticker_album_detail" platform="Desktop">Sticker album detail</string>
   <string name="Sticker_Store" platform="android, iOS, Desktop">Sticker Store</string>

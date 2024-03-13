@@ -1460,7 +1460,7 @@
 | android, iOS, Desktop | Status | Status | 交易状态 | ステータス | Status | Status |
 | android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
 | android, iOS, Desktop | Sticker | Sticker | 贴纸  | スタンプ | Pelekat | Stiker |
-| android | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. |
+| android, Desktop | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. |
 | iOS | sticker_add_requirements | Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels. | 贴纸要求大于 %@KB 且小于 %@KB，宽高大于 %@ 像素且小于 %@ 像素。 | スタンプのサイズは%@KB以上%@KB未満、 幅と高さは%@ピクセルから%@ピクセルである必要があります |     |     |
 | Desktop | sticker_album_detail | Sticker album detail | 表情详情 | スタンプアルバム詳細 |     |     |
 | android, iOS, Desktop | Sticker_Store | Sticker Store | 表情商店 | スタンプストア |     |     |

@@ -1173,7 +1173,7 @@
   <string name="started_group_call" platform="iOS">%@がグループ通話を開始しました</string>
   <string name="Status" platform="android, iOS, Desktop">ステータス</string>
   <string name="Sticker" platform="android, iOS, Desktop">スタンプ</string>
-  <string name="sticker_add_invalid_size" platform="android">スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります</string>
+  <string name="sticker_add_invalid_size" platform="android, Desktop">スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります</string>
   <string name="sticker_add_requirements" platform="iOS">スタンプのサイズは%@KB以上%@KB未満、 幅と高さは%@ピクセルから%@ピクセルである必要があります</string>
   <string name="sticker_album_detail" platform="Desktop">スタンプアルバム詳細</string>
   <string name="Sticker_Store" platform="android, iOS, Desktop">スタンプストア</string>
