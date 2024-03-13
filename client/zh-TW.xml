@@ -773,7 +773,7 @@
   <string name="Invalid_QR_Code" platform="android, iOS">無效的二維碼</string>
   <string name="Invalid_request_body" platform="iOS">無效的請求</string>
   <string name="Invalid_sdp" platform="iOS">無效的 SDP</string>
-  <string name="Invalid_sticker_format" platform="android">貼紙格式不支援</string>
+  <string name="Invalid_sticker_format" platform="android, Desktop">貼紙格式不支援</string>
   <string name="Invalid_width" platform="iOS">寬度無效</string>
   <string name="Invite" platform="iOS">邀請</string>
   <string name="Invite_a_Friend" platform="android, iOS">邀請好友</string>
@@ -1438,7 +1438,7 @@
   <string name="Status" platform="android, iOS, Desktop">交易狀態</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
   <string name="Sticker" platform="android, iOS, Desktop">貼紙</string>
-  <string name="sticker_add_invalid_size" platform="android">貼紙要求大於 1KB 且小於 1MB，寬高大於 128 畫素且小於 1024 畫素。</string>
+  <string name="sticker_add_invalid_size" platform="android, Desktop">貼紙要求大於 1KB 且小於 1MB，寬高大於 128 畫素且小於 1024 畫素。</string>
   <string name="sticker_add_requirements" platform="iOS">貼紙要求大於 %@KB 且小於 %@KB，寬高大於 %@ 畫素且小於 %@ 畫素。</string>
   <string name="sticker_album_detail" platform="Desktop">表情詳情</string>
   <string name="Sticker_Store" platform="android, iOS, Desktop">表情商店</string>
