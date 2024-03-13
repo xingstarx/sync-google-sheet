@@ -786,7 +786,7 @@
 | android, iOS | Invalid_QR_Code | Invalid QR-Code | 无效的二维码 | 無効なQRコード |     |     |
 | iOS | Invalid_request_body | Invalid request body | 无效的请求 | 無効なリクエストボディ |     |     |
 | iOS | Invalid_sdp | Invalid SDP | 无效的 SDP | 無効なSDP |     |     |
-| android | Invalid_sticker_format | Invalid sticker format | 贴纸格式不支持 | スタンプのフォーマットが無効です | Format pelekat tidak sah | Format stiker tidak valid |
+| android, Desktop | Invalid_sticker_format | Invalid sticker format | 贴纸格式不支持 | スタンプのフォーマットが無効です | Format pelekat tidak sah | Format stiker tidak valid |
 | iOS | Invalid_width | Invalid width | 宽度无效 | 無効な横幅 |     |     |
 | iOS | Invite | Invite | 邀请  | 招待する |     |     |
 | android, iOS | Invite_a_Friend | Invite a Friend | 邀请好友 | このアプリをシェアする | Kongsi Aplikasi Ini |     |

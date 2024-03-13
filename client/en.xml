@@ -785,7 +785,7 @@
   <string name="Invalid_QR_Code" platform="android, iOS">Invalid QR-Code</string>
   <string name="Invalid_request_body" platform="iOS">Invalid request body</string>
   <string name="Invalid_sdp" platform="iOS">Invalid SDP</string>
-  <string name="Invalid_sticker_format" platform="android">Invalid sticker format</string>
+  <string name="Invalid_sticker_format" platform="android, Desktop">Invalid sticker format</string>
   <string name="Invalid_width" platform="iOS">Invalid width</string>
   <string name="Invite" platform="iOS">Invite</string>
   <string name="Invite_a_Friend" platform="android, iOS">Invite a Friend</string>

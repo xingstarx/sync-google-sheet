@@ -339,7 +339,7 @@
   <string name="insufficient_balance" platform="android, iOS">Baki tidak mencukupi</string>
   <string name="Invalid_Link" platform="android">Pautan Tidak Sah</string>
   <string name="Invalid_payment_link" platform="android, iOS">Pembayaran tidak sah</string>
-  <string name="Invalid_sticker_format" platform="android">Format pelekat tidak sah</string>
+  <string name="Invalid_sticker_format" platform="android, Desktop">Format pelekat tidak sah</string>
   <string name="Invite_a_Friend" platform="android, iOS">Kongsi Aplikasi Ini</string>
   <string name="invite_info" platform="android, iOS, Desktop">Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai.</string>
   <string name="Invite_people" platform="android">Jemput Orang</string>

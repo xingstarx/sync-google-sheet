@@ -773,7 +773,7 @@
   <string name="Invalid_QR_Code" platform="android, iOS">无效的二维码</string>
   <string name="Invalid_request_body" platform="iOS">无效的请求</string>
   <string name="Invalid_sdp" platform="iOS">无效的 SDP</string>
-  <string name="Invalid_sticker_format" platform="android">贴纸格式不支持</string>
+  <string name="Invalid_sticker_format" platform="android, Desktop">贴纸格式不支持</string>
   <string name="Invalid_width" platform="iOS">宽度无效</string>
   <string name="Invite" platform="iOS">邀请</string>
   <string name="Invite_a_Friend" platform="android, iOS">邀请好友</string>
