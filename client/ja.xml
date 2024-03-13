@@ -636,7 +636,7 @@
   <string name="Invalid_QR_Code" platform="android, iOS">無効なQRコード</string>
   <string name="Invalid_request_body" platform="iOS">無効なリクエストボディ</string>
   <string name="Invalid_sdp" platform="iOS">無効なSDP</string>
-  <string name="Invalid_sticker_format" platform="android">スタンプのフォーマットが無効です</string>
+  <string name="Invalid_sticker_format" platform="android, Desktop">スタンプのフォーマットが無効です</string>
   <string name="Invalid_width" platform="iOS">無効な横幅</string>
   <string name="Invite" platform="iOS">招待する</string>
   <string name="Invite_a_Friend" platform="android, iOS">このアプリをシェアする</string>
@@ -1173,7 +1173,7 @@
   <string name="started_group_call" platform="iOS">%@がグループ通話を開始しました</string>
   <string name="Status" platform="android, iOS, Desktop">ステータス</string>
   <string name="Sticker" platform="android, iOS, Desktop">スタンプ</string>
-  <string name="sticker_add_invalid_size" platform="android">スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります</string>
+  <string name="sticker_add_invalid_size" platform="android, Desktop">スタンプのサイズは1KB以上1MB未満、 幅と高さは128ピクセルから1024ピクセルである必要があります</string>
   <string name="sticker_add_requirements" platform="iOS">スタンプのサイズは%@KB以上%@KB未満、 幅と高さは%@ピクセルから%@ピクセルである必要があります</string>
   <string name="sticker_album_detail" platform="Desktop">スタンプアルバム詳細</string>
   <string name="Sticker_Store" platform="android, iOS, Desktop">スタンプストア</string>
