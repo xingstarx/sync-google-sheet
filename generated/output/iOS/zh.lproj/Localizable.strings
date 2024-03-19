@@ -254,8 +254,8 @@
 "confirm_transfer" = "转账确认";
 "confirm_withdrawal" = "提现确认";
 "confirmations" = "区块确认数";
+"connect" = "连接";
 "connect_to_tip_network_failed" = "连接 TIP 网络失败，请尝试切换网络后重试";
-"connect_wallet" = "连接钱包";
 "connect_web3_account_description" = "授权应用查看你的账户地址，或者向你发送交易请求。";
 "connect_your_account" = "连接账户";
 "connected" = "已连接";
@@ -305,6 +305,7 @@
 "conversations" = "对话";
 "copied" = "已复制";
 "copy" = "复制";
+"copy_address" = "复制地址";
 "copy_conversation_id" = "复制对话 ID";
 "copy_invite" = "复制邀请链接";
 "copy_link" = "复制链接";
@@ -1148,7 +1149,9 @@
 "unlock_web3_account_agreement_2" = "在 %@ 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。";
 "unlock_web3_account_agreement_3" = "当您解锁 %1$@ 账户时，也将自动解锁 %2$@、%3$@ 等 EVM 账户。";
 "unlock_web3_account_description" = "您的 %@ 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。";
+"unlock_web3_account_failed" = "解锁失败";
 "unlock_web3_account_success" = "解锁成功";
+"unlocking" = "正在解锁";
 "unmute" = "取消静音";
 "unmuted" = "已取消静音";
 "unnamed_location" = "未命名地点";
@@ -1231,6 +1234,7 @@
 "web3_send_signature_description" = "点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。";
 "web3_signing" = "正在签名";
 "web3_signing_confirmation" = "签名确认";
+"web3_signing_failed" = "签名失败";
 "web3_signing_success" = "签名成功";
 "web3_signing_warning" = "我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。";
 "weekly" = "每周";

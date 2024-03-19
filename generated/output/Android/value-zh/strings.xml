@@ -286,6 +286,7 @@
 	<string name="Confirm_Transfer">转账确认</string>
 	<string name="Confirm_Withdrawal">提现确认</string>
 	<string name="Confirmations">区块确认数</string>
+	<string name="Connect">连接</string>
 	<string name="Connect_to_TIP_network_failed">连接 TIP 网络失败，请尝试切换网络后重试</string>
 	<string name="connect_wallet">连接钱包</string>
 	<string name="connect_web3_account_description">授权应用查看你的账户地址，或者向你发送交易请求。</string>
@@ -337,6 +338,7 @@
 	<string name="Conversation_not_found">找不到该会话</string>
 	<string name="copied_to_clipboard">已拷贝</string>
 	<string name="Copy">复制</string>
+	<string name="copy_address">复制地址</string>
 	<string name="Copy_invite">复制邀请链接</string>
 	<string name="Copy_link">复制链接</string>
 	<string name="Create">创建</string>
@@ -1264,9 +1266,11 @@
 	<string name="unlock_web3_account_agreement_2">在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。</string>
 	<string name="unlock_web3_account_agreement_3">当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。</string>
 	<string name="unlock_web3_account_description">您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。</string>
+	<string name="unlock_web3_account_failed">解锁失败</string>
 	<string name="unlock_web3_account_success">解锁成功</string>
 	<string name="Unlock_with_fingerprint">使用指纹解锁</string>
 	<string name="unlock_with_fingerprint_desc">启用后，您需要使用指纹解锁以开启 Mixin。</string>
+	<string name="Unlocking">正在解锁</string>
 	<string name="Unmute">取消静音</string>
 	<string name="Unnamed_location">未命名地点</string>
 	<string name="Unpin">取消置顶</string>
@@ -1356,6 +1360,7 @@
 	<string name="web3_send_signature_description">点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。</string>
 	<string name="web3_signing">正在签名</string>
 	<string name="web3_signing_confirmation">签名确认</string>
+	<string name="web3_signing_failed">签名失败</string>
 	<string name="web3_signing_success">签名成功</string>
 	<string name="web3_signing_warning">我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。</string>
 	<string name="Wednesday">星期三</string>

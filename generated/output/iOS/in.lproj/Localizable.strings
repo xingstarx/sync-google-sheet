@@ -254,8 +254,8 @@
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
+"connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
-"connect_wallet" = "Connect Wallet";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
 "connect_your_account" = "Connect Your Account";
 "connected" = "Connected";
@@ -305,6 +305,7 @@
 "conversations" = "Conversations";
 "copied" = "Copied";
 "copy" = "Salin";
+"copy_address" = "Copy Address";
 "copy_conversation_id" = "Copy Conversation ID";
 "copy_invite" = "Salin Tautan";
 "copy_link" = "Copy Link";
@@ -1148,7 +1149,9 @@
 "unlock_web3_account_agreement_2" = "Asset transfers between your %@ account and Mixin wallet incur network fees.";
 "unlock_web3_account_agreement_3" = "Unlocking your %1$@ account will also automatically unlock EVM accounts such as %2$@, %3$@ and others.";
 "unlock_web3_account_description" = "Your %@ account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol.";
+"unlock_web3_account_failed" = "Account Unlock Failed";
 "unlock_web3_account_success" = "Account Unlocked";
+"unlocking" = "Unlocking";
 "unmute" = "Suarakan";
 "unmuted" = "Unmuted";
 "unnamed_location" = "Lokasi tanpa nama";
@@ -1231,6 +1234,7 @@
 "web3_send_signature_description" = "Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.";
 "web3_signing" = "Signing";
 "web3_signing_confirmation" = "Confirm Signing";
+"web3_signing_failed" = "Signing Failed";
 "web3_signing_success" = "Signing Success";
 "web3_signing_warning" = "We cannot verify this request; please ensure you trust this dapp before proceeding with the request.";
 "weekly" = "Weekly";
