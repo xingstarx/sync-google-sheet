@@ -114,8 +114,8 @@
   <string name="Allow_bot_manage_bots" platform="android, iOS">Allow bot to add or modify your bots.</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">Allow bot to send messages represent of you.</string>
-  <string name="allow_dapp_access_public_address" platform="android, iOS">Allow dapp to access your wallet balance and activity.</string>
-  <string name="allow_dapp_request_approval" platform="android, iOS">Allow dapp to ask for your approval to make a transaction.</string>
+  <string name="allow_dapp_access_public_address" platform="android">Allow dapp to access your wallet balance and activity.</string>
+  <string name="allow_dapp_request_approval" platform="android">Allow dapp to ask for your approval to make a transaction.</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">Allow Manual Report Message</string>
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
@@ -354,7 +354,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android, iOS">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
-  <string name="connected_dapps" platform="android, iOS">Connected Dapps</string>
+  <string name="connected_dapps" platform="android">Connected Dapps</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="connection_failed" platform="android, iOS">Connection Failed</string>
@@ -400,7 +400,7 @@
   <string name="content_voice" platform="android, iOS, Desktop">[Voice call]</string>
   <string name="content_withdrawal" platform="iOS">[Withdrawal]</string>
   <string name="Continue" platform="android, iOS, Desktop">Continue</string>
-  <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continue need to verify your old PIN and new PIN</string>
+  <string name="Continue_need_verify_your_PIN" platform="android">Continue need to verify your old PIN and new PIN</string>
   <string name="Continue_Open_URL" platform="android, iOS">Continue Open URL</string>
   <string name="Conversation" platform="android, iOS, Desktop">Conversation</string>
   <string name="conversation_delete_tip" platform="android">Once deleted, all this chat messages will be cleared</string>
@@ -433,7 +433,7 @@
   <string name="Current_Selected" platform="iOS">Current Selected</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">Custom Time</string>
   <string name="Daily" platform="iOS">Daily</string>
-  <string name="dapp_description" platform="android, iOS">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
+  <string name="dapp_description" platform="android">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
   <string name="Dark" platform="iOS, Desktop">Dark</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Data and Storage Usage</string>
   <string name="Data_error" platform="android, Desktop">Data error</string>
@@ -978,7 +978,7 @@
   <string name="NO_BOTS" platform="android, iOS">NO BOTS</string>
   <string name="No_camera" platform="android, Desktop">No camera</string>
   <string name="No_CONTACTS" platform="iOS">NO CONTACTS</string>
-  <string name="NO_DAPP" platform="android, iOS">NO DAPP</string>
+  <string name="NO_DAPP" platform="android">NO DAPP</string>
   <string name="no_data" platform="Desktop">No Data</string>
   <string name="No_deposits" platform="android">No deposits</string>
   <string name="No_fees" platform="android">No fees</string>
@@ -1139,8 +1139,8 @@
   <string name="preferences" platform="Desktop">Preferences</string>
   <string name="Preparing" platform="iOS">Preparing...</string>
   <string name="Preparing_progress" platform="iOS">Preparing...(%@)</string>
-  <string name="preview_unavailable" platform="android, iOS">Preview unavailable</string>
-  <string name="preview_unavailable_description" platform="android, iOS">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
+  <string name="preview_unavailable" platform="android">Preview unavailable</string>
+  <string name="preview_unavailable_description" platform="android">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
   <string name="price_expired" platform="android, iOS">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
@@ -1222,7 +1222,7 @@
   <string name="report_title" platform="iOS, Desktop">Send the conversation log to developers?</string>
   <string name="Represent_Messages" platform="android, iOS">Represent Messages</string>
   <string name="Represent_send_messages" platform="android, iOS">Represent send messages</string>
-  <string name="request_approval" platform="android, iOS">Request approval</string>
+  <string name="request_approval" platform="android">Request approval</string>
   <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>
   <string name="request_rejected" platform="android, iOS">Request Rejected</string>
   <string name="request_rejected_reason_another_request_in_process" platform="android, iOS">Another request is in process, please retry after current request is finished</string>
@@ -1300,7 +1300,7 @@
   <string name="search_open_link" platform="iOS">Open Link: </string>
   <string name="search_placeholder_asset" platform="android, iOS">Name, Symbol</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, Name, Phone number</string>
-  <string name="search_placeholder_dapp" platform="android, iOS">Name, URL</string>
+  <string name="search_placeholder_dapp" platform="android">Name, URL</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">Search Mixin ID or phone number: </string>
   <string name="search_related_message" platform="android, iOS, Desktop">%1$d related message</string>
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d related messages</string>
@@ -1339,7 +1339,7 @@
   <string name="send_photo" platform="iOS">Send 1 Photo</string>
   <string name="send_photo.count" platform="iOS">Send %1$d Photos</string>
   <string name="send_quickly" platform="Desktop">Send quickly</string>
-  <string name="send_signed_message_confirmation" platform="android, iOS">The message has been signed successfully, click the button below to send or discard the signed message</string>
+  <string name="send_signed_message_confirmation" platform="android">The message has been signed successfully, click the button below to send or discard the signed message</string>
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="send_to_address" platform="android, iOS">Send to Address</string>
@@ -1433,7 +1433,7 @@
   <string name="Show_in_chat" platform="android, iOS">Show in chat</string>
   <string name="show_mixin" platform="Desktop">Show Mixin</string>
   <string name="Shown" platform="android">Shown</string>
-  <string name="sign_by_pin" platform="android, iOS">Sign by PIN</string>
+  <string name="sign_by_pin" platform="android">Sign by PIN</string>
   <string name="Sign_in" platform="android, iOS, Desktop">Sign in</string>
   <string name="Sign_in_desktop_app" platform="android">Sign in desktop app</string>
   <string name="sign_out" platform="DesktoP">Sign Out</string>
@@ -1441,7 +1441,7 @@
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Sign in with phone number</string>
   <string name="sign_with_qrcode" platform="Desktop">Sign in with QR code</string>
   <string name="signature_request" platform="android, iOS">Signature Request</string>
-  <string name="signature_request_warning" platform="android, iOS">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
+  <string name="signature_request_warning" platform="android">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
   <string name="Silence_Notification" platform="android">Silence Notification</string>
   <string name="Size" platform="android">Size</string>
   <string name="Skip" platform="android, iOS">Skip</string>
@@ -1467,7 +1467,7 @@
   <string name="Stop" platform="android, iOS">Stop</string>
   <string name="Stop_Playing" platform="android, iOS">Stop Playing</string>
   <string name="Stop_playing_this_list" platform="android, iOS">Stop playing this list?</string>
-  <string name="Stop_syncing_hint" platform="iOS,android">Do you want to stop syncing chat history?</string>
+  <string name="Stop_syncing_hint" platform="android">Do you want to stop syncing chat history?</string>
   <string name="Storage_almost_full" platform="iOS">Storage almost full</string>
   <string name="Storage_almost_full_tip" platform="iOS">You can free up storage by deleting items that are large or have been forwarded many times.</string>
   <string name="storage_auto_download_description" platform="Desktop">Change auto-download settings for medias.</string>
@@ -1525,7 +1525,7 @@
   <string name="Trace" platform="android, Desktop">Trace</string>
   <string name="Track_not_found" platform="iOS">Track not found</string>
   <string name="Transaction" platform="android, iOS">Transaction</string>
-  <string name="transaction_failed" platform="android, iOS">Transaction Failed</string>
+  <string name="transaction_failed" platform="android">Transaction Failed</string>
   <string name="transaction_Hash" platform="android, iOS, Desktop">Transaction Hash</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">Transaction Id</string>
   <string name="transaction_request" platform="android, iOS">Transaction Request</string>
@@ -1607,7 +1607,7 @@
   <string name="update_mixin_description" platform="android">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
   <string name="Upgrade" platform="android,iOS">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
-  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">Upgrade TIP successfully</string>
   <string name="Upgrading" platform="android, iOS, Desktop">Upgrading</string>
@@ -1800,13 +1800,13 @@
   <string name="Deleting_Address" platform="android, iOS">Delete Address</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">DeleteAddress Failed</string>
   <string name="delete_address_description" platform="android, iOS">Are you sure to delete this address?</string>
-  <string name="send_by_pin" platform="android, iOS">Send by PIN</string>
+  <string name="send_by_pin" platform="android">Send by PIN</string>
   <string name="address_added" platform="android, iOS">Address Added</string>
   <string name="address_deleted" platform="android, iOS">Address Deleted</string>
   <string name="address_edited" platform="android, iOS">Address Edited</string>
-  <string name="add_by_pin" platform="android, iOS">Add by PIN</string>
-  <string name="delete_by_pin" platform="android, iOS">Delete by PIN</string>
-  <string name="edit_by_pin" platform="android, iOS">Edit by PIN</string>
+  <string name="add_by_pin" platform="android">Add by PIN</string>
+  <string name="delete_by_pin" platform="android">Delete by PIN</string>
+  <string name="edit_by_pin" platform="android">Edit by PIN</string>
   <string name="Enable" platform="android, iOS">Enable</string>
   <string name="Not_Now" platform="android, iOS">Not Now</string>
   <string name="Sender" platform="android, iOS">Sender</string>
@@ -1824,4 +1824,30 @@
   <string name="export_private_key_discouragement_2" platform="android, iOS">Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed.</string>
   <string name="export_private_key_discouragement_3" platform="android, iOS">It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger.</string>
   <string name="continue_with_pin" platform="android, iOS">Continue with PIN</string>
+  <string name="web3_account_network" platform="android, iOS">%1$s Account</string>
+  <string name="web3_account" platform="android, iOS">Account</string>
+  <string name="access_dapps_defi_projects" platform="android, iOS">Access dapps and DeFi projects.</string>
+  <string name="unlock_web3_account" platform="android, iOS">Unlock %1$s Account</string>
+  <string name="Unlock" platform="android, iOS">Unlock</string>
+  <string name="unlock_web3_account_description" platform="android, iOS">Your %1$s account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol.</string>
+  <string name="unlock_web3_account_agreement" platform="android, iOS">It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dapps are completed.</string>
+  <string name="unlock_web3_account_agreement_1" platform="android, iOS">Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN.</string>
+  <string name="unlock_web3_account_agreement_2" platform="android, iOS">Asset transfers between your %1$s account and Mixin wallet incur network fees.</string>
+  <string name="unlock_web3_account_agreement_3" platform="android, iOS">Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others.</string>
+  <string name="unlock_web3_account_success" platform="android, iOS">Account Unlocked</string>
+  <string name="connect_your_account" platform="android, iOS">Connect Your Account</string>
+  <string name="connect_web3_account_description" platform="android, iOS">Allow the app to view your account address and ask for your approval to make a transaction.</string>
+  <string name="web3_account_connected" platform="android, iOS">Account Connected</string>
+  <string name="web3_signing_confirmation" platform="android, iOS">Confirm Signing</string>
+  <string name="web3_signing_warning" platform="android, iOS">We cannot verify this request; please ensure you trust this dapp before proceeding with the request.</string>
+  <string name="web3_signing" platform="android, iOS">Signing</string>
+  <string name="signed_message" platform="android, iOS">SIGNED MESSAGE</string>
+  <string name="unsigned_message" platform="android, iOS">UNSIGNED MESSAGE</string>
+  <string name="web3_signing_success" platform="android, iOS">Signing Success</string>
+  <string name="web3_send_signature_description" platform="android, iOS">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
+  <string name="estimated_balance_change" platform="android, iOS">Balance Change (estimate)</string>
+  <string name="fee_selection" platform="android, iOS">Fee (%1$s)</string>
+  <string name="preauthorize_amount" platform="android, iOS">Pre-authorize Amount</string>
+  <string name="unlimited_authorization_warning" platform="android, iOS">This application can access all %3$s in your %1$s account (%2$s).</string>
+  <string name="withdraw_all_of_token_warning" platform="android, iOS">This dapp can withdraw all your %1$s.</string>
 </resources>

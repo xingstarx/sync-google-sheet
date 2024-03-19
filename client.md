@@ -115,8 +115,8 @@
 | android, iOS | Allow_bot_manage_bots | Allow bot to add or modify your bots. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_manage_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你所有的圈子。 |     |     |     |
 | android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人代表你发消息。 |     |     |     |
-| android, iOS | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
-| android, iOS | allow_dapp_request_approval | Allow dapp to ask for your approval to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
+| android | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
+| android | allow_dapp_request_approval | Allow dapp to ask for your approval to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
 | iOS | Allow_Manual_Report_Message | Allow Manual Report Message | 允许手动上报消息 | メッセージ単位の報告を許可 |     |     |
 | android, iOS | Amount | Amount | 金额  | 数量  | Jumlah | Jumlah |
 | android | an_audio | an audio | 一条语音 | 音声ファイル |     |     |
@@ -355,7 +355,7 @@
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android, iOS | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
-| android, iOS | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
+| android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | android, iOS | connection_failed | Connection Failed | 连接失败 |     |     |     |
@@ -401,7 +401,7 @@
 | android, iOS, Desktop | content_voice | [Voice call] | [语音电话] | [音声通話] | [Panggilan suara] | [Panggilan suara] |
 | iOS | content_withdrawal | [Withdrawal] | [提现] | [出金] |     |     |
 | android, iOS, Desktop | Continue | Continue | 继续  | 続ける | Teruskan | Lanjutkan |
-| android,iOS | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
+| android | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
 | android, iOS | Continue_Open_URL | Continue Open URL | 继续访问 | URLを開く | Terus Buka URL | Lanjutkan Buka URL |
 | android, iOS, Desktop | Conversation | Conversation | 会话  | チャットルーム | Perbualan | Percakapan |
 | android | conversation_delete_tip | Once deleted, all this chat messages will be cleared | 删除后，将同时清空该聊天的消息记录 | チャットルームを削除すると、今までのやりとりがすべて消去されます | Setelah dipadamkan, semua mesej sembang ini akan dihapus | Setelah dihapus, semua pesan obrolan ini akan dibersihkan |
@@ -434,7 +434,7 @@
 | iOS | Current_Selected | Current Selected | 当前选择 | 選択  |     |     |
 | android, iOS, Desktop | Custom_Time | Custom Time | 自定义时间 | 日時  |     |     |
 | iOS | Daily | Daily | 每天  | 日   |     |     |
-| android, iOS | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
+| android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
 | iOS, Desktop | Dark | Dark | 深色  | ライト |     |     |
 | android, iOS, Desktop | Data_and_Storage_Usage | Data and Storage Usage | 数据与存储空间 | ストレージ使用率 | Penggunaan Data dan Storan | Penggunaan Data dan Penyimpanan |
 | android, Desktop | Data_error | Data error | 数据错误 | データエラー | Kesalahan data | Kesalahan data |
@@ -979,7 +979,7 @@
 | android, iOS | NO_BOTS | NO BOTS | 没有机器人 | ミニアプリがありません | TIADA APLIKASI | TIDAK ADA APLIKASI |
 | android, Desktop | No_camera | No camera | 没有相机 | カメラを認識できません | Tiada kamera | Tidak ada kamera |
 | iOS | No_CONTACTS | NO CONTACTS | 没有联系人 | 友達未追加 |     |     |
-| android, iOS | NO_DAPP | NO DAPP | 没有 Dapp |     |     |     |
+| android | NO_DAPP | NO DAPP | 没有 Dapp |     |     |     |
 | Desktop | no_data | No Data | 没有数据 | データがありません |     |     |
 | android | No_deposits | No deposits | 暂无充值记录 | 入金はありません | Tiada deposit | Tidak ada deposit |
 | android | No_fees | No fees | 暂无手续费记录 | 手数料はありません | Tanpa bayaran | Tidak ada biaya |
@@ -1140,8 +1140,8 @@
 | Desktop | preferences | Preferences | 偏好设置 | 環境設定 |     |     |
 | iOS | Preparing | Preparing... | 准备... | 準備中... |     |     |
 | iOS | Preparing_progress | Preparing...(%@) | 备份中...（%@） | 準備中...(%@) |     |     |
-| android, iOS | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
-| android, iOS | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
+| android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
+| android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
 | Desktop | previous_conversation | Previous conversation | 上一个会话 | 過去のチャットルーム |     |     |
 | android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
 | android, iOS | Privacy | Privacy | 隐私  | プライバシー | Privasi | Privasi |
@@ -1223,7 +1223,7 @@
 | iOS, Desktop | report_title | Send the conversation log to developers? | 给开发人员发送聊天日志？ | Mixinの開発者へ会話記録を送信しますか? |     |     |
 | android, iOS | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
 | android, iOS | Represent_send_messages | Represent send messages | 代表你发消息 |     |     |     |
-| android, iOS | request_approval | Request approval | 允许请求 |     |     |     |
+| android | request_approval | Request approval | 允许请求 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
 | android, iOS | request_rejected | Request Rejected | 请求已拒绝 |     |     |     |
 | android, iOS | request_rejected_reason_another_request_in_process | Another request is in process, please retry after current request is finished | 正在处理另一请求，请完成当前请求后重试 |     |     |     |
@@ -1301,7 +1301,7 @@
 | iOS | search_open_link | Open Link:  | 打开链接： | リンクを開く: |     |     |
 | android, iOS | search_placeholder_asset | Name, Symbol | 名称, 符号 | 名前、シンボル |     |     |
 | iOS | search_placeholder_contact | Mixin ID, Name, Phone number | Mixin ID, 名称, 手机号码 | Mixin ID, 名前, 電話番号 |     |     |
-| android, iOS | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
+| android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | android, iOS, Desktop | search_placeholder_number | Search Mixin ID or phone number:  | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |     |     |
 | android, iOS, Desktop | search_related_message | %1$d related message | %1$d 条相关的消息 | %1$d個の関連するメッセージ |     |     |
 | android, iOS, Desktop | search_related_message.count | %1$d related messages | %1$d 条相关的消息 | %1$d個の関連するメッセージ | %1$d mesej berkaitan | %1$d pesan terkait |
@@ -1340,7 +1340,7 @@
 | iOS | send_photo | Send 1 Photo | 发送 1 张图片 | 写真を送信 |     |     |
 | iOS | send_photo.count | Send %1$d Photos | 发送 %1$d 张图片 | %1$d枚の写真を送信 |     |     |
 | Desktop | send_quickly | Send quickly | 快速发送 | クイック送信 |     |     |
-| android, iOS | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
+| android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
 | android, iOS | send_to_address | Send to Address | 转出到地址 |     |     |     |
@@ -1434,7 +1434,7 @@
 | android, iOS | Show_in_chat | Show in chat | 在聊天中展示 | チャット内で表示 |     |     |
 | Desktop | show_mixin | Show Mixin | 显示 Mixin | Mixinを表示 |     |     |
 | android | Shown | Shown | 显示  | 表示ずみ | Tunjukkan | Ditampilkan |
-| android, iOS | sign_by_pin | Sign by PIN | 使用 PIN 签名 |     |     |     |
+| android | sign_by_pin | Sign by PIN | 使用 PIN 签名 |     |     |     |
 | android, iOS, Desktop | Sign_in | Sign in | 登录  | ログイン | Log masuk | Masuk |
 | android | Sign_in_desktop_app | Sign in desktop app | 登录桌面端 | デスクトップにログイン | Log masuk aplikasi desktop | Masuk aplikasi desktop |
 | DesktoP | sign_out | Sign Out | 登出  | サインアウト |     |     |
@@ -1442,7 +1442,7 @@
 | android, iOS, Desktop | Sign_with_phone_number | Sign in with phone number | 通过手机号登录 | 電話番号でログイン | Log masuk dengan nombor telefon | Masuk dengan nomor telepon |
 | Desktop | sign_with_qrcode | Sign in with QR code | 通过二维码登录 | QRコードでログイン |     |     |
 | android, iOS | signature_request | Signature Request | 请求签名 |     |     |     |
-| android, iOS | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此 App。 |     |     |     |
+| android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此 App。 |     |     |     |
 | android | Silence_Notification | Silence Notification | 静音通知 | サイレント通知 |     |     |
 | android | Size | Size | 大小  | サイズ |     |     |
 | android, iOS | Skip | Skip | 跳过  | スキップ | LANGKAU | LEWATI |
@@ -1468,7 +1468,7 @@
 | android, iOS | Stop | Stop | 暂停  |     |     |     |
 | android, iOS | Stop_Playing | Stop Playing | 停止播放 | 再生を止める | Berhenti bermain |     |
 | android, iOS | Stop_playing_this_list | Stop playing this list? | 确定要停止并关闭播放列表？ | 再生を止めて、プレイリストを閉じますか？ |     |     |
-| iOS,android | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
+| android | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
 | iOS | Storage_almost_full | Storage almost full | 存储空间几乎已满 |     |     |     |
 | iOS | Storage_almost_full_tip | You can free up storage by deleting items that are large or have been forwarded many times. | 您可以通过删除大的或已被多次转发的项目来释放存储空间。 |     |     |     |
 | Desktop | storage_auto_download_description | Change auto-download settings for medias. | 更改媒体的自动下载设置。 | メディアの自動ダウンロード設定を変更する |     |     |
@@ -1526,7 +1526,7 @@
 | android, Desktop | Trace | Trace |     | 記録情報 | Jejak |     |
 | iOS | Track_not_found | Track not found | Track 无效 | トラックが見つかりません |     |     |
 | android, iOS | Transaction | Transaction | 交易详情 | トランザクション | Urus Niaga | Transaksi |
-| android, iOS | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
+| android | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
 | android, iOS, Desktop | transaction_Hash | Transaction Hash | 交易哈希 | トランザクションハッシュ | Urus niaga Cincangan | Hash Transaksi |
 | android, iOS, Desktop | Transaction_Id | Transaction Id | 交易编号 | トランザクションID | Id Urus Niaga | ID Transaksi |
 | android, iOS | transaction_request | Transaction Request | 请求转账 |     |     |     |
@@ -1608,7 +1608,7 @@
 | android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 | 現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。 | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. |
 | android,iOS | Upgrade | Upgrade | 升级  |     |     |     |
 | android, iOS | Upgrade_Database | Upgrade Database | 数据库升级 | データベースをアップグレード | Naik taraf Pangkalan Data | Tingkatkan Database |
-| android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
+| android | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_TIP | Upgrade TIP | 升级 TIP |     |     |     |
 | android,iOS | Upgrade_TIP_successfully | Upgrade TIP successfully | TIP 升级成功 |     |     |     |
 | android, iOS, Desktop | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
@@ -1801,13 +1801,13 @@
 | android, iOS | Deleting_Address | Delete Address | 正在删除地址 |     |     |     |
 | android, iOS | Deleting_Address_Failed | DeleteAddress Failed | 删除地址失败 |     |     |     |
 | android, iOS | delete_address_description | Are you sure to delete this address? | 确认删除该地址吗？ |     |     |     |
-| android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
+| android | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_added | Address Added | 地址已添加 |     |     |     |
 | android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
 | android, iOS | address_edited | Address Edited | 地址已修改 |     |     |     |
-| android, iOS | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
-| android, iOS | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
-| android, iOS | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
+| android | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
+| android | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
+| android | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
 | android, iOS | Enable | Enable | 启用  |     |     |     |
 | android, iOS | Not_Now | Not Now | 现在不要 |     |     |     |
 | android, iOS | Sender | Sender | 交易发起人 | 送信者 |     |     |
@@ -1825,3 +1825,29 @@
 | android, iOS | export_private_key_discouragement_2 | Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed. | Mixin Messenger 不支持私钥导入，需要使用请通过主网工具来操作。 |     |     |     |
 | android, iOS | export_private_key_discouragement_3 | It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger. | 强烈不推荐在 Mixin Messenger 账号可用情况下使用该私钥，否则相关资产在 Mixin Messenger 可能无法继续使用。 |     |     |     |
 | android, iOS | continue_with_pin | Continue with PIN | 输入 PIN 继续 |     |     |     |
+| android, iOS | web3_account_network | %1$s Account | %1$s 账户 |     |     |     |
+| android, iOS | web3_account | Account | 账户  |     |     |     |
+| android, iOS | access_dapps_defi_projects | Access dapps and DeFi projects. | 访问 dapps 或 DeFi 项目 |     |     |     |
+| android, iOS | unlock_web3_account | Unlock %1$s Account | 解锁 %1$s 账户 |     |     |     |
+| android, iOS | Unlock | Unlock | 解锁  |     |     |     |
+| android, iOS | unlock_web3_account_description | Your %1$s account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol. | 您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement | It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dapps are completed. | 建议与去中心化应用程序交互完后尽快将资产转回更安全的 Mixin 钱包。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement_1 | Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN. | %1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement_2 | Asset transfers between your %1$s account and Mixin wallet incur network fees. | 在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement_3 | Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others. | 当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。 |     |     |     |
+| android, iOS | unlock_web3_account_success | Account Unlocked | 解锁成功 |     |     |     |
+| android, iOS | connect_your_account | Connect Your Account | 连接账户 |     |     |     |
+| android, iOS | connect_web3_account_description | Allow the app to view your account address and ask for your approval to make a transaction. | 授权应用查看你的账户地址，或者向你发送交易请求。 |     |     |     |
+| android, iOS | web3_account_connected | Account Connected | 连接成功 |     |     |     |
+| android, iOS | web3_signing_confirmation | Confirm Signing | 签名确认 |     |     |     |
+| android, iOS | web3_signing_warning | We cannot verify this request; please ensure you trust this dapp before proceeding with the request. | 我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。 |     |     |     |
+| android, iOS | web3_signing | Signing | 正在签名 |     |     |     |
+| android, iOS | signed_message | SIGNED MESSAGE | 签名  |     |     |     |
+| android, iOS | unsigned_message | UNSIGNED MESSAGE | 待签名消息 |     |     |     |
+| android, iOS | web3_signing_success | Signing Success | 签名成功 |     |     |     |
+| android, iOS | web3_send_signature_description | Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message. | 点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。 |     |     |     |
+| android, iOS | estimated_balance_change | Balance Change (estimate) | 余额变动（预估） |     |     |     |
+| android, iOS | fee_selection | Fee (%1$s) | 手续费（%1$s） |     |     |     |
+| android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
+| android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
+| android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
