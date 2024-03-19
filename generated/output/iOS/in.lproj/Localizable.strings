@@ -1,6 +1,7 @@
 "about" = "Tentang";
 "accepted_cards" = "Accepted cards: %@";
 "access_contacts_hint" = "Mixin syncs your address book to Mixin servers to help you connect with other Mixin users";
+"access_dapps_defi_projects" = "Access dapps and DeFi projects.";
 "access_denied" = "Akses ditolak";
 "access_to_contacts" = "Access to Contacts";
 "access_your_bots_list" = "mengakses daftar aplikasi Anda";
@@ -15,7 +16,6 @@
 "add_bot" = "Tambahkan Bot";
 "add_by_id_or_phone_number" = "Add by Mixin ID or Phone number";
 "add_by_phone_contacts" = "Add by Phone Contacts";
-"add_by_pin" = "Add by PIN";
 "add_by_qr_code" = "Add by QR Code";
 "add_card" = "Add Card";
 "add_circle" = "Tambahkan Lingkaran";
@@ -93,8 +93,6 @@
 "allow_bot_manage_bots" = "Allow bot to add or modify your bots.";
 "allow_bot_manage_circles" = "Allow bot to add, modify and delete your circles.";
 "allow_bot_send_messages" = "Allow bot to send messages represent of you.";
-"allow_dapp_access_public_address" = "Allow dapp to access your wallet balance and activity.";
-"allow_dapp_request_approval" = "Allow dapp to ask for your approval to make a transaction.";
 "allow_manual_report_message" = "Allow Manual Report Message";
 "amount" = "Jumlah";
 "anonymous" = "Anonymous";
@@ -258,8 +256,9 @@
 "confirmations" = "Confirmations";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_wallet" = "Connect Wallet";
+"connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
+"connect_your_account" = "Connect Your Account";
 "connected" = "Connected";
-"connected_dapps" = "Connected Dapps";
 "connecting" = "Menyambungkan";
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";
@@ -298,7 +297,6 @@
 "content_voice" = "[Panggilan suara]";
 "content_withdrawal" = "[Withdrawal]";
 "continue" = "Lanjutkan";
-"continue_need_verify_your_pin" = "Continue need to verify your old PIN and new PIN";
 "continue_open_url" = "Lanjutkan Buka URL";
 "continue_with_pin" = "Continue with PIN";
 "conversation" = "Percakapan";
@@ -322,7 +320,6 @@
 "current_selected" = "Current Selected";
 "custom_time" = "Custom Time";
 "daily" = "Daily";
-"dapp_description" = "This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.";
 "dark" = "Dark";
 "data_and_storage_usage" = "Penggunaan Data dan Penyimpanan";
 "data_parsing_error" = "Data parsing error";
@@ -340,7 +337,6 @@
 "delete_account_hint" = "Delete your account info and profile photo";
 "delete_address" = "Hapus alamat";
 "delete_address_description" = "Are you sure to delete this address?";
-"delete_by_pin" = "Delete by PIN";
 "delete_card" = "Delete Card";
 "delete_chat" = "Delete Chat";
 "delete_circle" = "Delete Circle";
@@ -402,7 +398,6 @@
 "edit" = "Edit";
 "edit_address" = "Edit %@ Address";
 "edit_biography" = "Edit Biografi";
-"edit_by_pin" = "Edit by PIN";
 "edit_circle_name" = "Edit Nama Lingkaran";
 "edit_conversations" = "Edit Percakapan";
 "edit_group_description" = "Edit deskripsi grup";
@@ -469,6 +464,7 @@
 "error_used_phone" = "KESALAHAN 20122: Ponsel digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "KESALAHAN 20131: Format memo penarikan salah.";
 "error_withdrawal_suspend" = "ERROR 20137: Withdrawal suspend.";
+"estimated_balance_change" = "Balance Change (estimate)";
 "everybody" = "Semua orang";
 "exchange_rate" = "Exchange Rate";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
@@ -498,6 +494,7 @@
 "fast" = "Fast";
 "favorite" = "Favorite";
 "fee" = "Biaya";
+"fee_selection" = "Fee (%@)";
 "feedback" = "Feedback";
 "fees_by_gateway" = "Fees by Processor";
 "fees_by_mixin" = "Fees by Mixin";
@@ -695,7 +692,6 @@
 "no_blocked_users" = "Tidak ada pengguna yang diblokir";
 "no_bots" = "TIDAK ADA APLIKASI";
 "no_contacts" = "NO CONTACTS";
-"no_dapp" = "NO DAPP";
 "no_files" = "TIDAK ADA FILE";
 "no_hidden_assets" = "Tidak ada aset tersembunyi";
 "no_items_selected" = "No Items Selected";
@@ -807,10 +803,9 @@
 "post_sharing" = "post";
 "powered_by_mixin_route_prefix" = "Powered by";
 "powered_by_mixin_route_suffix" = "Mixin Route";
+"preauthorize_amount" = "Pre-authorize Amount";
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
-"preview_unavailable" = "Preview unavailable";
-"preview_unavailable_description" = "Unable to estimate asset changes. Please make sure you trust this dapp.";
 "price_expired" = "Price Expired";
 "privacy" = "Privasi";
 "privacy_policy" = "Kebijakan Privasi";
@@ -874,7 +869,6 @@
 "report_title" = "Send the conversation log to developers?";
 "represent_messages" = "Mewakili Pesan";
 "represent_send_messages" = "Represent send messages";
-"request_approval" = "Request approval";
 "request_authorization" = "Request Authorization";
 "request_rejected" = "Request Rejected";
 "request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
@@ -931,7 +925,6 @@
 "search_open_link" = "Open Link: ";
 "search_placeholder_asset" = "Name, Symbol";
 "search_placeholder_contact" = "Mixin ID, Name, Phone number";
-"search_placeholder_dapp" = "Name, URL";
 "search_placeholder_number" = "Search Mixin ID or phone number: ";
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d pesan terkait";
@@ -958,13 +951,11 @@
 "send" = "Kirim";
 "send_as_file" = "Send as File";
 "send_as_files" = "Send as Files";
-"send_by_pin" = "Send by PIN";
 "send_item" = "Send 1 Item";
 "send_item_count" = "Send %d Items";
 "send_message" = "Kirim Pesan";
 "send_photo" = "Send 1 Photo";
 "send_photo_count" = "Send %d Photos";
-"send_signed_message_confirmation" = "The message has been signed successfully, click the button below to send or discard the signed message";
 "send_this_location" = "Kirim Lokasi Ini";
 "send_to" = "Kirim ke %@";
 "send_to_address" = "Send to Address";
@@ -1030,12 +1021,11 @@
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
 "show selected" = "Show Selected(%@)";
-"sign_by_pin" = "Sign by PIN";
 "sign_in" = "Masuk";
 "sign_with_emergency_contact" = "Masuk dengan kontak darurat";
 "sign_with_phone_number" = "Masuk dengan nomor telepon";
 "signature_request" = "Signature Request";
-"signature_request_warning" = "We cannot verify this signature request. Make sure you trust this app before signing this request.";
+"signed_message" = "SIGNED MESSAGE";
 "skip" = "LEWATI";
 "slide_to_cancel" = "Geser untuk Membatalkan";
 "slow" = "Slow";
@@ -1055,7 +1045,6 @@
 "stop" = "Stop";
 "stop_playing" = "Stop Playing";
 "stop_playing_this_list" = "Stop playing this list?";
-"stop_syncing_hint" = "Do you want to stop syncing chat history?";
 "storage_almost_full" = "Storage almost full";
 "storage_almost_full_tip" = "You can free up storage by deleting items that are large or have been forwarded many times.";
 "storage_usage" = "Penggunaan Penyimpanan";
@@ -1096,7 +1085,6 @@
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "transaction" = "Transaksi";
-"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Hash Transaksi";
 "transaction_id" = "ID Transaksi";
 "transaction_request" = "Transaction Request";
@@ -1152,6 +1140,15 @@
 "unit_week" = "week";
 "unit_week_count" = "weeks";
 "unknown_artist" = "Unknown Artist";
+"unlimited_authorization_warning" = "This application can access all %3$@ in your %1$@ account (%2$@).";
+"unlock" = "Unlock";
+"unlock_web3_account" = "Unlock %@ Account";
+"unlock_web3_account_agreement" = "It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dapps are completed.";
+"unlock_web3_account_agreement_1" = "Your assets in %@ account and Mixin wallet are isolated but managed using the same PIN.";
+"unlock_web3_account_agreement_2" = "Asset transfers between your %@ account and Mixin wallet incur network fees.";
+"unlock_web3_account_agreement_3" = "Unlocking your %1$@ account will also automatically unlock EVM accounts such as %2$@, %3$@ and others.";
+"unlock_web3_account_description" = "Your %@ account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol.";
+"unlock_web3_account_success" = "Account Unlocked";
 "unmute" = "Suarakan";
 "unmuted" = "Unmuted";
 "unnamed_location" = "Lokasi tanpa nama";
@@ -1160,11 +1157,11 @@
 "unpin_all_messages_confirmation" = "Are you sure you want to unpin all messages?";
 "unread_messages" = "Unread messages";
 "unrecognized_codes" = "Unrecognized codes";
+"unsigned_message" = "UNSIGNED MESSAGE";
 "update" = "Perbarui";
 "update_mixin" = "Perbarui Mixin";
 "upgrade" = "Upgrade";
 "upgrade_database" = "Tingkatkan Database";
-"upgrade_need_verify_your_pin" = "The upgrade requires verifying your PIN.";
 "upgrade_tip" = "Upgrade TIP";
 "upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "Meningkatkan";
@@ -1228,12 +1225,21 @@
 "web_cannot_reached_desc" = "%@ took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page.";
 "web_cannot_reached_title" = "This webpage can't be reached";
 "web_suspicious_link_tips" = "Tautan tidak dalam pola sumber daya yang sesuai.";
+"web3_account" = "Account";
+"web3_account_connected" = "Account Connected";
+"web3_account_network" = "%@ Account";
+"web3_send_signature_description" = "Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.";
+"web3_signing" = "Signing";
+"web3_signing_confirmation" = "Confirm Signing";
+"web3_signing_success" = "Signing Success";
+"web3_signing_warning" = "We cannot verify this request; please ensure you trust this dapp before proceeding with the request.";
 "weekly" = "Weekly";
 "weeks" = "weeks";
 "whats_your_name" = "Siapa nama Anda?";
 "wifi" = "Wi-Fi";
 "wifi_and_cellular" = "Wi-Fi and Cellular";
 "withdraw_address" = "Alamat";
+"withdraw_all_of_token_warning" = "This dapp can withdraw all your %@.";
 "withdraw_by_pin" = "Withdraw by PIN";
 "withdrawal" = "Penarikan";
 "withdrawal_addr_has_memo_or_tag" = "Tag Tujuan atau Nomor ID atau catatan. Jika tidak, Anda dapat mengaturnya %@.";

@@ -14,6 +14,7 @@
 	<string name="about_version">Version %1$s</string>
 	<string name="Accept">Accept</string>
 	<string name="accepted_cards">Accepted cards: %1$s</string>
+	<string name="access_dapps_defi_projects">Access dapps and DeFi projects.</string>
 	<string name="Access_denied">Access denied</string>
 	<string name="Access_to_Contacts">Access to Contacts</string>
 	<string name="access_your_bots_list">access your bots list</string>
@@ -292,6 +293,8 @@
 	<string name="Confirmations">Confirmations</string>
 	<string name="Connect_to_TIP_network_failed">Unable to connect to TIP network. Check your connection and try again.</string>
 	<string name="connect_wallet">Connect Wallet</string>
+	<string name="connect_web3_account_description">Allow the app to view your account address and ask for your approval to make a transaction.</string>
+	<string name="connect_your_account">Connect Your Account</string>
 	<string name="connected_dapps">Connected Dapps</string>
 	<string name="Connecting">Connecting</string>
 	<string name="connection_failed">Connection Failed</string>
@@ -531,6 +534,7 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="error_withdrawal_suspend">ERROR 20137: Withdrawal suspend.</string>
+	<string name="estimated_balance_change">Balance Change (estimate)</string>
 	<string name="Everybody">Everybody</string>
 	<string name="exchange_rate">Exchange Rate</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
@@ -560,6 +564,7 @@
 	<string name="fast">Fast</string>
 	<string name="favorite">Favorite</string>
 	<string name="Fee">Fee</string>
+	<string name="fee_selection">Fee (%1$s)</string>
 	<string name="Feedback">Feedback</string>
 	<string name="fees_by_gateway">Fees by Processor</string>
 	<string name="fees_by_mixin">Fees by Mixin</string>
@@ -898,6 +903,7 @@
 	<string name="POST">POST</string>
 	<string name="powered_by_mixin_route_prefix">Powered by</string>
 	<string name="powered_by_mixin_route_suffix">Mixin Route</string>
+	<string name="preauthorize_amount">Pre-authorize Amount</string>
 	<string name="preview_unavailable">Preview unavailable</string>
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
 	<string name="price_expired">Price Expired</string>
@@ -1139,6 +1145,7 @@
 	<string name="Sign_with_phone_number">Sign in with phone number</string>
 	<string name="signature_request">Signature Request</string>
 	<string name="signature_request_warning">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
+	<string name="signed_message">SIGNED MESSAGE</string>
 	<string name="Silence_Notification">Silence Notification</string>
 	<string name="Size">Size</string>
 	<string name="Skip">Skip</string>
@@ -1271,6 +1278,15 @@
 		<item quantity="other">weeks</item>
 	</plurals>
 	<string name="Unknown">Unknown</string>
+	<string name="unlimited_authorization_warning">This application can access all %3$s in your %1$s account (%2$s).</string>
+	<string name="Unlock">Unlock</string>
+	<string name="unlock_web3_account">Unlock %1$s Account</string>
+	<string name="unlock_web3_account_agreement">It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dapps are completed.</string>
+	<string name="unlock_web3_account_agreement_1">Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN.</string>
+	<string name="unlock_web3_account_agreement_2">Asset transfers between your %1$s account and Mixin wallet incur network fees.</string>
+	<string name="unlock_web3_account_agreement_3">Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others.</string>
+	<string name="unlock_web3_account_description">Your %1$s account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol.</string>
+	<string name="unlock_web3_account_success">Account Unlocked</string>
 	<string name="Unlock_with_fingerprint">Unlock with fingerprint</string>
 	<string name="unlock_with_fingerprint_desc">When enabled, you\'ll need to use fingerprint to open Mixin.</string>
 	<string name="Unmute">Unmute</string>
@@ -1279,6 +1295,7 @@
 	<string name="Unpin_All_Messages">Unpin All Messages</string>
 	<string name="unpin_all_messages_confirmation">Are you sure you want to unpin all messages?</string>
 	<string name="Unread_messages">Unread messages</string>
+	<string name="unsigned_message">UNSIGNED MESSAGE</string>
 	<string name="Update">Update</string>
 	<string name="update_downloaded">An update has just been downloaded.</string>
 	<string name="Update_Mixin">Update Mixin</string>
@@ -1355,12 +1372,21 @@
 	<string name="web_floating_permission">You can\'t floating as Mixin isn\'t authorized to use floating windows</string>
 	<string name="web_full">Floating limit reached. Close some before adding new ones.</string>
 	<string name="web_suspicious_link_tips">The link is not in the corresponding resource patterns.</string>
+	<string name="web3_account">Account</string>
+	<string name="web3_account_connected">Account Connected</string>
+	<string name="web3_account_network">%1$s Account</string>
+	<string name="web3_send_signature_description">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
+	<string name="web3_signing">Signing</string>
+	<string name="web3_signing_confirmation">Confirm Signing</string>
+	<string name="web3_signing_success">Signing Success</string>
+	<string name="web3_signing_warning">We cannot verify this request; please ensure you trust this dapp before proceeding with the request.</string>
 	<string name="website">https://mixin.one/messenger</string>
 	<string name="Wednesday">Wednesday</string>
 	<string name="Welcome_to_Mixin">Welcome to Mixin</string>
 	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
 	<string name="withdraw_Address">Address</string>
+	<string name="withdraw_all_of_token_warning">This dapp can withdraw all your %1$s.</string>
 	<string name="Withdrawal">Withdraw</string>
 	<string name="withdrawal_addr_biometric_add">Use Biometric to save address</string>
 	<string name="withdrawal_addr_biometric_delete">Use Biometric to delete address</string>

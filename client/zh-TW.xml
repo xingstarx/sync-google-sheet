@@ -114,8 +114,8 @@
   <string name="Allow_bot_manage_bots" platform="android, iOS">允許機器人新增或修改你的機器人列表。</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">允許機器人新增、修改和刪除你所有的圈子。</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">允許機器人代表你發訊息。</string>
-  <string name="allow_dapp_access_public_address" platform="android, iOS">允許 Dapp 訪問你的錢包餘額及活動。</string>
-  <string name="allow_dapp_request_approval" platform="android, iOS">允許 Dapp 向你傳送請求，如轉賬請求等</string>
+  <string name="allow_dapp_access_public_address" platform="android">允許 Dapp 訪問你的錢包餘額及活動。</string>
+  <string name="allow_dapp_request_approval" platform="android">允許 Dapp 向你傳送請求，如轉賬請求等</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">允許手動上報訊息</string>
   <string name="Amount" platform="android, iOS">金額</string>
   <string name="an_audio" platform="android">一條語音</string>
@@ -349,7 +349,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">連線 TIP 網路失敗，請嘗試切換網路後重試</string>
   <string name="connect_wallet" platform="android, iOS">連線錢包</string>
   <string name="Connected" platform="iOS">已連線</string>
-  <string name="connected_dapps" platform="android, iOS">已連線的 Dapp</string>
+  <string name="connected_dapps" platform="android">已連線的 Dapp</string>
   <string name="Connecting" platform="android, iOS">正在連線</string>
   <string name="Connection_establishment_failed" platform="iOS">連線建立失敗</string>
   <string name="connection_failed" platform="android, iOS">連線失敗</string>
@@ -395,7 +395,7 @@
   <string name="content_voice" platform="android, iOS, Desktop">[語音電話]</string>
   <string name="content_withdrawal" platform="iOS">[提現]</string>
   <string name="Continue" platform="android, iOS, Desktop">繼續</string>
-  <string name="Continue_need_verify_your_PIN" platform="android,iOS">繼續需要驗證你的舊 PIN 以及新 PIN</string>
+  <string name="Continue_need_verify_your_PIN" platform="android">繼續需要驗證你的舊 PIN 以及新 PIN</string>
   <string name="Continue_Open_URL" platform="android, iOS">繼續訪問</string>
   <string name="Conversation" platform="android, iOS, Desktop">會話</string>
   <string name="conversation_delete_tip" platform="android">刪除後，將同時清空該聊天的訊息記錄</string>
@@ -428,7 +428,7 @@
   <string name="Current_Selected" platform="iOS">當前選擇</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">自定義時間</string>
   <string name="Daily" platform="iOS">每天</string>
-  <string name="dapp_description" platform="android, iOS">此 Dapp 已經與你的錢包連線，並被授權檢視你的錢包餘額及活動，也可向你發出轉賬請求。</string>
+  <string name="dapp_description" platform="android">此 Dapp 已經與你的錢包連線，並被授權檢視你的錢包餘額及活動，也可向你發出轉賬請求。</string>
   <string name="Dark" platform="iOS, Desktop">深色</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">資料與儲存空間</string>
   <string name="Data_error" platform="android, Desktop">資料錯誤</string>
@@ -960,7 +960,7 @@
   <string name="NO_BOTS" platform="android, iOS">沒有機器人</string>
   <string name="No_camera" platform="android, Desktop">沒有相機</string>
   <string name="No_CONTACTS" platform="iOS">沒有聯絡人</string>
-  <string name="NO_DAPP" platform="android, iOS">沒有 Dapp</string>
+  <string name="NO_DAPP" platform="android">沒有 Dapp</string>
   <string name="no_data" platform="Desktop">沒有資料</string>
   <string name="No_deposits" platform="android">暫無充值記錄</string>
   <string name="No_fees" platform="android">暫無手續費記錄</string>
@@ -1121,8 +1121,8 @@
   <string name="preferences" platform="Desktop">偏好設定</string>
   <string name="Preparing" platform="iOS">準備...</string>
   <string name="Preparing_progress" platform="iOS">備份中...（%@）</string>
-  <string name="preview_unavailable" platform="android, iOS">預覽不可用</string>
-  <string name="preview_unavailable_description" platform="android, iOS">無法預覽資產變化。請確保你信任此 dapp。</string>
+  <string name="preview_unavailable" platform="android">預覽不可用</string>
+  <string name="preview_unavailable_description" platform="android">無法預覽資產變化。請確保你信任此 dapp。</string>
   <string name="previous_conversation" platform="Desktop">上一個會話</string>
   <string name="price_expired" platform="android, iOS">報價已過期</string>
   <string name="Privacy" platform="android, iOS">隱私</string>
@@ -1203,7 +1203,7 @@
   <string name="report_title" platform="iOS, Desktop">給開發人員傳送聊天日誌？</string>
   <string name="Represent_Messages" platform="android, iOS">代發訊息</string>
   <string name="Represent_send_messages" platform="android, iOS">代表你發訊息</string>
-  <string name="request_approval" platform="android, iOS">允許請求</string>
+  <string name="request_approval" platform="android">允許請求</string>
   <string name="Request_Authorization" platform="android, iOS">請求授權</string>
   <string name="request_rejected" platform="android, iOS">請求已拒絕</string>
   <string name="request_rejected_reason_another_request_in_process" platform="android, iOS">正在處理另一請求，請完成當前請求後重試</string>
@@ -1281,7 +1281,7 @@
   <string name="search_open_link" platform="iOS">開啟連結：</string>
   <string name="search_placeholder_asset" platform="android, iOS">名稱, 符號</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, 名稱, 手機號碼</string>
-  <string name="search_placeholder_dapp" platform="android, iOS">名稱, URL</string>
+  <string name="search_placeholder_dapp" platform="android">名稱, URL</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">搜尋 Mixin ID 或手機號碼：</string>
   <string name="search_related_message" platform="android, iOS, Desktop">%1$d 條相關的訊息</string>
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d 條相關的訊息</string>
@@ -1319,7 +1319,7 @@
   <string name="send_photo" platform="iOS">傳送 1 張圖片</string>
   <string name="send_photo.count" platform="iOS">傳送 %1$d 張圖片</string>
   <string name="send_quickly" platform="Desktop">快速傳送</string>
-  <string name="send_signed_message_confirmation" platform="android, iOS">此訊息已被簽名，點選下方按鈕以傳送或丟棄</string>
+  <string name="send_signed_message_confirmation" platform="android">此訊息已被簽名，點選下方按鈕以傳送或丟棄</string>
   <string name="Send_This_Location" platform="android, iOS">傳送這個位置</string>
   <string name="send_to" platform="android, iOS">傳送給 %1$s</string>
   <string name="send_to_address" platform="android, iOS">轉出到地址</string>
@@ -1412,7 +1412,7 @@
   <string name="Show_in_chat" platform="android, iOS">在聊天中展示</string>
   <string name="show_mixin" platform="Desktop">顯示 Mixin</string>
   <string name="Shown" platform="android">顯示</string>
-  <string name="sign_by_pin" platform="android, iOS">使用 PIN 簽名</string>
+  <string name="sign_by_pin" platform="android">使用 PIN 簽名</string>
   <string name="Sign_in" platform="android, iOS, Desktop">登入</string>
   <string name="Sign_in_desktop_app" platform="android">登入桌面端</string>
   <string name="sign_out" platform="DesktoP">登出</string>
@@ -1420,7 +1420,7 @@
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">透過手機號登入</string>
   <string name="sign_with_qrcode" platform="Desktop">透過二維碼登入</string>
   <string name="signature_request" platform="android, iOS">請求籤名</string>
-  <string name="signature_request_warning" platform="android, iOS">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
+  <string name="signature_request_warning" platform="android">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
   <string name="Silence_Notification" platform="android">靜音通知</string>
   <string name="Size" platform="android">大小</string>
   <string name="Skip" platform="android, iOS">跳過</string>
@@ -1446,7 +1446,7 @@
   <string name="Stop" platform="android, iOS">暫停</string>
   <string name="Stop_Playing" platform="android, iOS">停止播放</string>
   <string name="Stop_playing_this_list" platform="android, iOS">確定要停止並關閉播放列表？</string>
-  <string name="Stop_syncing_hint" platform="iOS,android">確定中止聊天記錄同步嗎？</string>
+  <string name="Stop_syncing_hint" platform="android">確定中止聊天記錄同步嗎？</string>
   <string name="Storage_almost_full" platform="iOS">儲存空間幾乎已滿</string>
   <string name="Storage_almost_full_tip" platform="iOS">您可以透過刪除大的或已被多次轉發的專案來釋放儲存空間。</string>
   <string name="storage_auto_download_description" platform="Desktop">更改媒體的自動下載設定。</string>
@@ -1503,7 +1503,7 @@
   <string name="Touch_the_fingerprint_sensor" platform="android">觸控指紋感測器</string>
   <string name="Track_not_found" platform="iOS">Track 無效</string>
   <string name="Transaction" platform="android, iOS">交易詳情</string>
-  <string name="transaction_failed" platform="android, iOS">轉賬失敗</string>
+  <string name="transaction_failed" platform="android">轉賬失敗</string>
   <string name="transaction_Hash" platform="android, iOS, Desktop">交易雜湊</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">交易編號</string>
   <string name="transaction_request" platform="android, iOS">請求轉賬</string>
@@ -1585,7 +1585,7 @@
   <string name="update_mixin_description" platform="android">當前版本（%1$s）不再可用!\n請點選下面的“更新”按鈕從應用商店更新到最新版本。</string>
   <string name="Upgrade" platform="android,iOS">升級</string>
   <string name="Upgrade_Database" platform="android, iOS">資料庫升級</string>
-  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">升級需要驗證你的 PIN</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android">升級需要驗證你的 PIN</string>
   <string name="Upgrade_TIP" platform="android,iOS">升級 TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">TIP 升級成功</string>
   <string name="Upgrading" platform="android, iOS, Desktop">升級中...</string>
@@ -1772,13 +1772,13 @@
   <string name="Deleting_Address" platform="android, iOS">正在刪除地址</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">刪除地址失敗</string>
   <string name="delete_address_description" platform="android, iOS">確認刪除該地址嗎？</string>
-  <string name="send_by_pin" platform="android, iOS">透過 PIN 傳送</string>
+  <string name="send_by_pin" platform="android">透過 PIN 傳送</string>
   <string name="address_added" platform="android, iOS">地址已新增</string>
   <string name="address_deleted" platform="android, iOS">地址已刪除</string>
   <string name="address_edited" platform="android, iOS">地址已修改</string>
-  <string name="add_by_pin" platform="android, iOS">透過 PIN 新增</string>
-  <string name="delete_by_pin" platform="android, iOS">透過 PIN 刪除</string>
-  <string name="edit_by_pin" platform="android, iOS">透過 PIN 修改</string>
+  <string name="add_by_pin" platform="android">透過 PIN 新增</string>
+  <string name="delete_by_pin" platform="android">透過 PIN 刪除</string>
+  <string name="edit_by_pin" platform="android">透過 PIN 修改</string>
   <string name="Enable" platform="android, iOS">啟用</string>
   <string name="Not_Now" platform="android, iOS">現在不要</string>
   <string name="Sender" platform="android, iOS">交易發起人</string>
@@ -1796,4 +1796,30 @@
   <string name="export_private_key_discouragement_2" platform="android, iOS">Mixin Messenger 不支援私鑰匯入，需要使用請透過主網工具來操作。</string>
   <string name="export_private_key_discouragement_3" platform="android, iOS">強烈不推薦在 Mixin Messenger 賬號可用情況下使用該私鑰，否則相關資產在 Mixin Messenger 可能無法繼續使用。</string>
   <string name="continue_with_pin" platform="android, iOS">輸入 PIN 繼續</string>
+  <string name="web3_account_network" platform="android, iOS">%1$s 賬戶</string>
+  <string name="web3_account" platform="android, iOS">賬戶</string>
+  <string name="access_dapps_defi_projects" platform="android, iOS">訪問 dapps 或 DeFi 專案</string>
+  <string name="unlock_web3_account" platform="android, iOS">解鎖 %1$s 賬戶</string>
+  <string name="Unlock" platform="android, iOS">解鎖</string>
+  <string name="unlock_web3_account_description" platform="android, iOS">您的 %1$s 賬戶基於 Mixin Messenger 的 MPC 錢包並根據 BIP44 協議派生而來。</string>
+  <string name="unlock_web3_account_agreement" platform="android, iOS">建議與去中心化應用程式互動完後儘快將資產轉回更安全的 Mixin 錢包。</string>
+  <string name="unlock_web3_account_agreement_1" platform="android, iOS">%1$s 賬戶與 Mixin 錢包資產隔離但使用同一個 PIN 進行資產管理。</string>
+  <string name="unlock_web3_account_agreement_2" platform="android, iOS">在 %1$s 賬戶與 Mixin 錢包之間劃轉資產需要支付網路礦工費。</string>
+  <string name="unlock_web3_account_agreement_3" platform="android, iOS">當您解鎖 %1$s 賬戶時，也將自動解鎖 %2$s、%3$s 等 EVM 賬戶。</string>
+  <string name="unlock_web3_account_success" platform="android, iOS">解鎖成功</string>
+  <string name="connect_your_account" platform="android, iOS">連線賬戶</string>
+  <string name="connect_web3_account_description" platform="android, iOS">授權應用檢視你的賬戶地址，或者向你傳送交易請求。</string>
+  <string name="web3_account_connected" platform="android, iOS">連線成功</string>
+  <string name="web3_signing_confirmation" platform="android, iOS">簽名確認</string>
+  <string name="web3_signing_warning" platform="android, iOS">我們無法驗證此請求，在傳送此請求之前，請確保您信任此應用程式。</string>
+  <string name="web3_signing" platform="android, iOS">正在簽名</string>
+  <string name="signed_message" platform="android, iOS">簽名</string>
+  <string name="unsigned_message" platform="android, iOS">待簽名訊息</string>
+  <string name="web3_signing_success" platform="android, iOS">簽名成功</string>
+  <string name="web3_send_signature_description" platform="android, iOS">點發送按鈕立刻廣播訊息或點丟棄按鈕丟棄已簽名的訊息。</string>
+  <string name="estimated_balance_change" platform="android, iOS">餘額變動（預估）</string>
+  <string name="fee_selection" platform="android, iOS">手續費（%1$s）</string>
+  <string name="preauthorize_amount" platform="android, iOS">預授權額度</string>
+  <string name="unlimited_authorization_warning" platform="android, iOS">這個應用可以提取你 %1$s 賬號（%2$s）裡所有的 %3$s 資產。</string>
+  <string name="withdraw_all_of_token_warning" platform="android, iOS">這個應用可以提取你所有的 %1$s。</string>
 </resources>
