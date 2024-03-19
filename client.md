@@ -353,7 +353,7 @@
 | Desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
 | android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
-| android, iOS | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
+| android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
 | android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
@@ -1835,7 +1835,9 @@
 | android, iOS | unlock_web3_account_agreement_1 | Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN. | %1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_2 | Asset transfers between your %1$s account and Mixin wallet incur network fees. | 在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_3 | Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others. | 当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。 |     |     |     |
+| android, iOS | Unlocking | Unlocking | 正在解锁 |     |     |     |
 | android, iOS | unlock_web3_account_success | Account Unlocked | 解锁成功 |     |     |     |
+| android, iOS | unlock_web3_account_failed | Account Unlock Failed | 解锁失败 |     |     |     |
 | android, iOS | connect_your_account | Connect Your Account | 连接账户 |     |     |     |
 | android, iOS | connect_web3_account_description | Allow the app to view your account address and ask for your approval to make a transaction. | 授权应用查看你的账户地址，或者向你发送交易请求。 |     |     |     |
 | android, iOS | web3_account_connected | Account Connected | 连接成功 |     |     |     |
@@ -1845,9 +1847,12 @@
 | android, iOS | signed_message | SIGNED MESSAGE | 签名  |     |     |     |
 | android, iOS | unsigned_message | UNSIGNED MESSAGE | 待签名消息 |     |     |     |
 | android, iOS | web3_signing_success | Signing Success | 签名成功 |     |     |     |
+| android, iOS | web3_signing_failed | Signing Failed | 签名失败 |     |     |     |
 | android, iOS | web3_send_signature_description | Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message. | 点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。 |     |     |     |
 | android, iOS | estimated_balance_change | Balance Change (estimate) | 余额变动（预估） |     |     |     |
 | android, iOS | fee_selection | Fee (%1$s) | 手续费（%1$s） |     |     |     |
 | android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
 | android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
+| android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
+| android, iOS | Connect | Connect | 连接  |     |     |     |
