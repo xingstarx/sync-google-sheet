@@ -361,6 +361,7 @@
 	<string name="debit_or_credit_card">借记卡/信用卡</string>
 	<string name="Decline">挂断</string>
 	<string name="Declined">已拒绝</string>
+	<string name="decode_transaction_failed">交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。</string>
 	<string name="deep_clean">深度清理</string>
 	<string name="deep_cleaning">正在清理…</string>
 	<string name="deep_cleaning_deleted">正在清理，已删除 %1$s</string>

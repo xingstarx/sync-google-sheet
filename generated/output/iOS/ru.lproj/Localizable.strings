@@ -333,6 +333,7 @@
 "date_format_week_date" = "EEE, d MMMM yyyy";
 "debit_or_credit_card" = "Debit / Credit Card";
 "declined" = "Отклоненный";
+"decode_transaction_failed" = "Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dapps you trust.";
 "delete" = "Удалить";
 "delete_account_detail_hint" = "Локальные сообщения и резервные копии iCloud не будут удаляться автоматически";
 "delete_account_hint" = "Удалить информацию об учетной записи и фото профиля";
