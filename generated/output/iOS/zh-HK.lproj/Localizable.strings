@@ -305,7 +305,6 @@
 "conversations" = "對話";
 "copied" = "已複製";
 "copy" = "複製";
-"copy_address" = "複製地址";
 "copy_conversation_id" = "複製對話 ID";
 "copy_invite" = "複製邀請鏈接";
 "copy_link" = "複製鏈接";
@@ -441,7 +440,7 @@
 "error_invalid_address_plain" = "錯誤 30102：地址格式錯誤。";
 "error_invalid_code_too_frequent" = "錯誤 20129：發送驗證碼太頻繁，請稍後再試";
 "error_invalid_emergency_contact" = "錯誤 20130：緊急聯繫人不正確";
-"error_network_task_failed" = "網絡連接失敗。檢查或切換網絡，然後重試";
+"error_network_task_failed" = "網絡連接失敗。檢查或切換網絡並重試";
 "error_not_found" = "錯誤 404：沒有找到相應的信息";
 "error_number_reached_limit" = "錯誤 20132： 已達到上限";
 "error_opponent_not_registered_to_safe" = "錯誤 10404: 對方客户端版本過低，請提醒對方更新客户端到最新版本";
@@ -545,7 +544,7 @@
 "immediately" = "立刻";
 "importing_chat_progress" = "導入聊天記錄（%@%）";
 "in_connecting" = "正在連接...";
-"include_files" = "包括檔案";
+"include_files" = "包含檔案";
 "include_videos" = "包括視頻";
 "incoming_voice_call" = "語音通話來電";
 "info" = "信息";
@@ -604,7 +603,7 @@
 "live_stream" = "直播卡片";
 "loading" = "正在加載...";
 "local_network_unable_accessed" = "本地網絡無法訪問，請開啓權限";
-"locating" = "定位...";
+"locating" = "正在定位...";
 "location" = "位置";
 "location_accuracy_to" = "精確到 %@";
 "location_distance" = "距離：%@";
@@ -806,7 +805,7 @@
 "powered_by_mixin_route_prefix" = "由";
 "powered_by_mixin_route_suffix" = "Mixin Route 提供服務";
 "preauthorize_amount" = "預授權額度";
-"preparing" = "準備...";
+"preparing" = "正在準備...";
 "preparing_progress" = "備份中...（%@）";
 "price_expired" = "報價已過期";
 "privacy" = "隱私";

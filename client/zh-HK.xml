@@ -593,7 +593,7 @@
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">錯誤 20130：緊急聯繫人不正確</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">錯誤 20118：PIN 格式不正確</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超長，最多為 200</string>
-  <string name="error_network_task_failed" platform="iOS, Desktop">網絡連接失敗。檢查或切換網絡，然後重試</string>
+  <string name="error_network_task_failed" platform="iOS, Desktop">網絡連接失敗。檢查或切換網絡並重試</string>
   <string name="error_no_pin_token" platform="Desktop">缺少憑據，請重新登錄之後再嘗試使用此功能。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">錯誤 404：沒有找到相應的信息</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">不支持的音頻格式，請用其他app打開。</string>
@@ -754,7 +754,7 @@
   <string name="Import" platform="android">導入聊天記錄</string>
   <string name="Importing_Chat_Progress" platform="iOS">導入聊天記錄（%1$s%）</string>
   <string name="in_connecting" platform="android, iOS">正在連接…</string>
-  <string name="Include_files" platform="iOS, Desktop">包括檔案</string>
+  <string name="Include_files" platform="iOS, Desktop">包含檔案</string>
   <string name="Include_videos" platform="iOS, Desktop">包括視頻</string>
   <string name="Incognito_Keyboard" platform="android">隱身鍵盤</string>
   <string name="Incoming_voice_call" platform="android, iOS">語音通話來電</string>
@@ -833,7 +833,7 @@
   <string name="Local_IP" platform="android">本地 IP</string>
   <string name="Local_network_unable_accessed" platform="iOS">本地網絡無法訪問，請開啓權限</string>
   <string name="locate_to_chat" platform="Desktop">定位到聊天</string>
-  <string name="Locating" platform="iOS">定位...</string>
+  <string name="Locating" platform="iOS">正在定位...</string>
   <string name="Location" platform="android, iOS, Desktop">位置</string>
   <string name="location_accuracy_to" platform="iOS">精確到 %@</string>
   <string name="location_accurate.count" platform="android">精確到 %1$d 米</string>
@@ -1119,7 +1119,7 @@
   <string name="powered_by_mixin_route_prefix" platform="android, iOS">由</string>
   <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route 提供服務</string>
   <string name="preferences" platform="Desktop">偏好設置</string>
-  <string name="Preparing" platform="iOS">準備...</string>
+  <string name="Preparing" platform="iOS">正在準備...</string>
   <string name="Preparing_progress" platform="iOS">備份中...（%@）</string>
   <string name="preview_unavailable" platform="android">預覽不可用</string>
   <string name="preview_unavailable_description" platform="android">無法預覽資產變化。請確保你信任此 dapp。</string>
@@ -1825,7 +1825,6 @@
   <string name="preauthorize_amount" platform="android, iOS">預授權額度</string>
   <string name="unlimited_authorization_warning" platform="android, iOS">這個應用可以提取你 %1$s 賬號（%2$s）裏所有的 %3$s 資產。</string>
   <string name="withdraw_all_of_token_warning" platform="android, iOS">這個應用可以提取你所有的 %1$s。</string>
-  <string name="copy_address" platform="android, iOS">複製地址</string>
   <string name="Connect" platform="android, iOS">連接</string>
   <string name="decode_transaction_failed" platform="android, iOS">交易解析失敗，無法估計資產變化，注意只給您信任的應用程序簽名。</string>
 </resources>
