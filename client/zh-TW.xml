@@ -1812,14 +1812,14 @@
   <string name="connect_your_account" platform="android, iOS">連線賬戶</string>
   <string name="connect_web3_account_description" platform="android, iOS">授權應用檢視你的賬戶地址，或者向你傳送交易請求。</string>
   <string name="web3_account_connected" platform="android, iOS">連線成功</string>
-  <string name="web3_signing_confirmation" platform="android, iOS">簽名確認</string>
+  <string name="web3_signing_confirmation" platform="android">簽名確認</string>
   <string name="web3_signing_warning" platform="android, iOS">我們無法驗證此請求，在傳送此請求之前，請確保您信任此應用程式。</string>
   <string name="web3_signing" platform="android, iOS">正在簽名</string>
   <string name="signed_message" platform="android, iOS">簽名</string>
   <string name="unsigned_message" platform="android, iOS">待簽名訊息</string>
-  <string name="web3_signing_success" platform="android, iOS">簽名成功</string>
+  <string name="web3_signing_success" platform="android">簽名成功</string>
   <string name="web3_signing_failed" platform="android, iOS">簽名失敗</string>
-  <string name="web3_send_signature_description" platform="android, iOS">點發送按鈕立刻廣播訊息或點丟棄按鈕丟棄已簽名的訊息。</string>
+  <string name="web3_send_signature_description" platform="android">點發送按鈕立刻廣播訊息或點丟棄按鈕丟棄已簽名的訊息。</string>
   <string name="estimated_balance_change" platform="android, iOS">餘額變動（預估）</string>
   <string name="fee_selection" platform="android, iOS">手續費（%1$s）</string>
   <string name="preauthorize_amount" platform="android, iOS">預授權額度</string>

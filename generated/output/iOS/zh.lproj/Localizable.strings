@@ -1236,13 +1236,10 @@
 "web3_account_network" = "%@ 账户";
 "web3_ensure_trust" = "请确保您信任此应用程序。";
 "web3_message_request" = "消息签名";
-"web3_send_signature_description" = "点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。";
 "web3_signing" = "正在签名";
-"web3_signing_confirmation" = "签名确认";
 "web3_signing_data_success" = "数据已签名并发送成功，请返回 dApp 继续操作。";
 "web3_signing_failed" = "签名失败";
 "web3_signing_message_success" = "消息已签名并发送成功，请返回 dApp 继续操作。";
-"web3_signing_success" = "签名成功";
 "web3_signing_transaction_success" = "交易已签名并发送成功，请返回 dApp 继续操作。";
 "web3_signing_warning" = "我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。";
 "web3_transaction_request" = "交易签名";
