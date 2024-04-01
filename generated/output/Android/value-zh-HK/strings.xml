@@ -360,7 +360,7 @@
 	<string name="debit_or_credit_card">借記卡/信用卡</string>
 	<string name="Decline">掛斷</string>
 	<string name="Declined">已拒絕</string>
-	<string name="decode_transaction_failed">交易解析失敗，無法估計資產變化，注意只給您信任的應用程序簽名。</string>
+	<string name="decode_transaction_failed">簽名解析失敗，無法估計資產變化，注意只給您信任的應用程序簽名。</string>
 	<string name="deep_clean">深度清理</string>
 	<string name="deep_cleaning">正在清理…</string>
 	<string name="deep_cleaning_deleted">正在清理，已刪除 %1$s</string>
@@ -1127,7 +1127,7 @@
 	<string name="Sign_in_desktop_app">登錄桌面端</string>
 	<string name="Sign_with_emergency_contact">通過緊急聯繫人登錄</string>
 	<string name="Sign_with_phone_number">通過手機號登錄</string>
-	<string name="signature_request">請求籤名</string>
+	<string name="signature_request">簽名確認</string>
 	<string name="signature_request_warning">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
 	<string name="signed_message">簽名</string>
 	<string name="Silence_Notification">靜音通知</string>
