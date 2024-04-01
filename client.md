@@ -1441,7 +1441,7 @@
 | android, iOS | Sign_with_emergency_contact | Sign in with emergency contact | 通过紧急联系人登录 | 緊急連絡先でログイン | Log masuk dengan kenalan kecemasan | Masuk dengan kontak darurat |
 | android, iOS, Desktop | Sign_with_phone_number | Sign in with phone number | 通过手机号登录 | 電話番号でログイン | Log masuk dengan nombor telefon | Masuk dengan nomor telepon |
 | Desktop | sign_with_qrcode | Sign in with QR code | 通过二维码登录 | QRコードでログイン |     |     |
-| android, iOS | signature_request | Signature Request | 请求签名 |     |     |     |
+| android, iOS | signature_request | Signature Request | 签名确认 |     |     |     |
 | android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此 App。 |     |     |     |
 | android | Silence_Notification | Silence Notification | 静音通知 | サイレント通知 |     |     |
 | android | Size | Size | 大小  | サイズ |     |     |
@@ -1855,7 +1855,7 @@
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
 | android, iOS | withdraw_all_of_token_warning | This dApp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
-| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust. | 交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
+| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust. | 签名解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
 | android, iOS | web3_ensure_trust | Please ensure you trust this dapp before proceeding with the request. | 请确保您信任此应用程序。 |     |     |     |
 | android, iOS | web3_transaction_request | Transaction Request | 交易签名 |     |     |     |
 | android, iOS | web3_message_request | Message Request | 消息签名 |     |     |     |
