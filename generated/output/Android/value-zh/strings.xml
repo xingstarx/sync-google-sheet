@@ -1049,6 +1049,7 @@
 	<string name="Send_your_Current_Location">发送您当前的位置</string>
 	<string name="Sender">交易发起人</string>
 	<string name="Senders">交易发起人</string>
+	<string name="Sending">正在发送</string>
 	<string name="Sending_Multisig_Signature">正在发送多签交易</string>
 	<string name="Sending_Transfer_Request">正在发送转账</string>
 	<string name="Sending_Withdrawal_Request">正在发送提现</string>

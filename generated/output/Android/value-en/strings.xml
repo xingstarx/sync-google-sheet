@@ -1069,6 +1069,7 @@
 	<string name="Send_your_Current_Location">Send your Current Location</string>
 	<string name="Sender">Sender</string>
 	<string name="Senders">Senders</string>
+	<string name="Sending">Sending</string>
 	<string name="Sending_Multisig_Signature">Sending Multisig Signature</string>
 	<string name="Sending_Transfer_Request">Sending Transfer Request</string>
 	<string name="Sending_Withdrawal_Request">Sending Withdrawal Request</string>

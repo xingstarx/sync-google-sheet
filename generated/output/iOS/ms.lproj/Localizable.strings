@@ -973,6 +973,7 @@
 "send_count" = "Send(%d)";
 "sender" = "Sender";
 "senders" = "Pengirim";
+"sending" = "Sending";
 "sending_multisig_signature" = "Sending Multisig Signature";
 "sending_transfer_request" = "Sending Transfer Request";
 "sending_withdrawal_request" = "Sending Withdrawal Request";

@@ -972,6 +972,7 @@
 "send_count" = "發送（%d）";
 "sender" = "交易發起人";
 "senders" = "交易發起人";
+"sending" = "正在發送";
 "sending_multisig_signature" = "正在發送多簽交易";
 "sending_transfer_request" = "正在發送轉賬";
 "sending_withdrawal_request" = "正在發送提現";
