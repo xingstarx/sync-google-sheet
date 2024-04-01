@@ -1050,7 +1050,9 @@
 	<string name="Sender">交易發起人</string>
 	<string name="Senders">交易發起人</string>
 	<string name="Sending">正在發送</string>
+	<string name="Sending_Failed">發送失敗</string>
 	<string name="Sending_Multisig_Signature">正在發送多簽交易</string>
+	<string name="sending_success">發送成功</string>
 	<string name="Sending_Transfer_Request">正在發送轉賬</string>
 	<string name="Sending_Withdrawal_Request">正在發送提現</string>
 	<string name="session_not_found">沒有對應的連接</string>
@@ -1361,7 +1363,6 @@
 	<string name="web3_ensure_trust">請確保您信任此應用程序。</string>
 	<string name="web3_message_request">消息簽名</string>
 	<string name="web3_send_signature_description">點發送按鈕立刻廣播消息或點丟棄按鈕丟棄已簽名的消息。</string>
-	<string name="web3_sending_success">發送成功</string>
 	<string name="web3_signing">正在簽名</string>
 	<string name="web3_signing_confirmation">簽名確認</string>
 	<string name="web3_signing_data_success">數據已簽名併發送成功，請返回 dApp 繼續操作。</string>

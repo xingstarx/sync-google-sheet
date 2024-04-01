@@ -973,7 +973,9 @@
 "sender" = "交易發起人";
 "senders" = "交易發起人";
 "sending" = "正在傳送";
+"sending_failed" = "傳送失敗";
 "sending_multisig_signature" = "正在傳送多簽交易";
+"sending_success" = "傳送成功";
 "sending_transfer_request" = "正在傳送轉賬";
 "sending_withdrawal_request" = "正在傳送提現";
 "session_not_found" = "沒有對應的連線";
@@ -1235,7 +1237,6 @@
 "web3_ensure_trust" = "請確保您信任此應用程式。";
 "web3_message_request" = "訊息簽名";
 "web3_send_signature_description" = "點發送按鈕立刻廣播訊息或點丟棄按鈕丟棄已簽名的訊息。";
-"web3_sending_success" = "傳送成功";
 "web3_signing" = "正在簽名";
 "web3_signing_confirmation" = "簽名確認";
 "web3_signing_data_success" = "資料已簽名併發送成功，請返回 dApp 繼續操作。";
