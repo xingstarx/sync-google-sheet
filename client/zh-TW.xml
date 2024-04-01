@@ -114,8 +114,8 @@
   <string name="Allow_bot_manage_bots" platform="android, iOS">允許機器人新增或修改你的機器人列表。</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">允許機器人新增、修改和刪除你所有的圈子。</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">允許機器人代表你發訊息。</string>
-  <string name="allow_dapp_access_public_address" platform="android">允許 Dapp 訪問你的錢包餘額及活動。</string>
-  <string name="allow_dapp_request_approval" platform="android">允許 Dapp 向你傳送請求，如轉賬請求等</string>
+  <string name="allow_dapp_access_public_address" platform="android">允許 dApp 訪問你的錢包餘額及活動。</string>
+  <string name="allow_dapp_request_approval" platform="android">允許 dApp 向你傳送請求，如轉賬請求等</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">允許手動上報訊息</string>
   <string name="Amount" platform="android, iOS">金額</string>
   <string name="an_audio" platform="android">一條語音</string>
@@ -349,7 +349,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">連線 TIP 網路失敗，請嘗試切換網路後重試</string>
   <string name="connect_wallet" platform="android">連線錢包</string>
   <string name="Connected" platform="iOS">已連線</string>
-  <string name="connected_dapps" platform="android">已連線的 Dapp</string>
+  <string name="connected_dapps" platform="android">已連線的 dApp</string>
   <string name="Connecting" platform="android, iOS">正在連線</string>
   <string name="Connection_establishment_failed" platform="iOS">連線建立失敗</string>
   <string name="connection_failed" platform="android, iOS">連線失敗</string>
@@ -428,7 +428,7 @@
   <string name="Current_Selected" platform="iOS">當前選擇</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">自定義時間</string>
   <string name="Daily" platform="iOS">每天</string>
-  <string name="dapp_description" platform="android">此 Dapp 已經與你的錢包連線，並被授權檢視你的錢包餘額及活動，也可向你發出轉賬請求。</string>
+  <string name="dapp_description" platform="android">此 dApp 已經與你的錢包連線，並被授權檢視你的錢包餘額及活動，也可向你發出轉賬請求。</string>
   <string name="Dark" platform="iOS, Desktop">深色</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">資料與儲存空間</string>
   <string name="Data_error" platform="android, Desktop">資料錯誤</string>
@@ -960,7 +960,7 @@
   <string name="NO_BOTS" platform="android, iOS">沒有機器人</string>
   <string name="No_camera" platform="android, Desktop">沒有相機</string>
   <string name="No_CONTACTS" platform="iOS">沒有聯絡人</string>
-  <string name="NO_DAPP" platform="android">沒有 Dapp</string>
+  <string name="NO_DAPP" platform="android">沒有 dApp</string>
   <string name="no_data" platform="Desktop">沒有資料</string>
   <string name="No_deposits" platform="android">暫無充值記錄</string>
   <string name="No_fees" platform="android">暫無手續費記錄</string>
@@ -1122,7 +1122,7 @@
   <string name="Preparing" platform="iOS">正在準備...</string>
   <string name="Preparing_progress" platform="iOS">備份中...（%@）</string>
   <string name="preview_unavailable" platform="android">預覽不可用</string>
-  <string name="preview_unavailable_description" platform="android">無法預覽資產變化。請確保你信任此 dapp。</string>
+  <string name="preview_unavailable_description" platform="android">無法預覽資產變化。請確保你信任此 dApp。</string>
   <string name="previous_conversation" platform="Desktop">上一個會話</string>
   <string name="price_expired" platform="android, iOS">報價已過期</string>
   <string name="Privacy" platform="android, iOS">隱私</string>
@@ -1798,7 +1798,7 @@
   <string name="continue_with_pin" platform="android, iOS">輸入 PIN 繼續</string>
   <string name="web3_account_network" platform="android, iOS">%1$s 賬戶</string>
   <string name="web3_account" platform="android, iOS">賬戶</string>
-  <string name="access_dapps_defi_projects" platform="android, iOS">訪問 dapps 或 DeFi 專案</string>
+  <string name="access_dapps_defi_projects" platform="android, iOS">訪問 dApps 或 DeFi 專案</string>
   <string name="unlock_web3_account" platform="android, iOS">解鎖 %1$s 賬戶</string>
   <string name="Unlock" platform="android, iOS">解鎖</string>
   <string name="unlock_web3_account_description" platform="android, iOS">您的 %1$s 賬戶基於 Mixin Messenger 的 MPC 錢包並根據 BIP44 協議派生而來。</string>
@@ -1827,4 +1827,11 @@
   <string name="withdraw_all_of_token_warning" platform="android, iOS">這個應用可以提取你所有的 %1$s。</string>
   <string name="Connect" platform="android, iOS">連線</string>
   <string name="decode_transaction_failed" platform="android, iOS">交易解析失敗，無法估計資產變化，注意只給您信任的應用程式簽名。</string>
+  <string name="web3_ensure_trust" platform="android, iOS">請確保您信任此應用程式。</string>
+  <string name="web3_transaction_request" platform="android, iOS">交易簽名</string>
+  <string name="web3_message_request" platform="android, iOS">訊息簽名</string>
+  <string name="web3_signing_message_success" platform="android, iOS">訊息已簽名併發送成功，請返回 dApp 繼續操作。</string>
+  <string name="web3_signing_transaction_success" platform="android, iOS">交易已簽名併發送成功，請返回 dApp 繼續操作。</string>
+  <string name="web3_signing_data_success" platform="android, iOS">資料已簽名併發送成功，請返回 dApp 繼續操作。</string>
+  <string name="web3_sending_success" platform="android, iOS">傳送成功</string>
 </resources>
