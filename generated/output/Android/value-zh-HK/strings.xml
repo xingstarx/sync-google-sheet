@@ -1013,6 +1013,7 @@
 	<string name="Search_GIPHY">搜索 GIPHY</string>
 	<string name="search_hint">搜索資產，聯繫人，消息</string>
 	<string name="SEARCH_MESSAGES">搜索消息</string>
+	<string name="search_placeholder_address">名稱, 地址</string>
 	<string name="search_placeholder_asset">名稱, 符號</string>
 	<string name="search_placeholder_dapp">名稱, URL</string>
 	<string name="search_placeholder_number">搜索 Mixin ID 或手機號碼：</string>
