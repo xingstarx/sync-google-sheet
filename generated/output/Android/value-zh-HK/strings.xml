@@ -1363,6 +1363,7 @@
 	<string name="web3_account">賬户</string>
 	<string name="web3_account_connected">連接成功</string>
 	<string name="web3_account_network">%1$s 賬户</string>
+	<string name="web3_deposit_description">使用此地址在 Ethereum、Polygon、BSC 網絡上接收代幣</string>
 	<string name="web3_ensure_trust">請確保您信任此應用程序。</string>
 	<string name="web3_message_request">消息簽名</string>
 	<string name="web3_send_signature_description">點發送按鈕立刻廣播消息或點丟棄按鈕丟棄已簽名的消息。</string>

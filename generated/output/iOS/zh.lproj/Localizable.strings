@@ -1237,6 +1237,7 @@
 "web3_account" = "账户";
 "web3_account_connected" = "连接成功";
 "web3_account_network" = "%@ 账户";
+"web3_deposit_description" = "使用此地址在 Ethereum、Polygon、BSC 网络上接收代币";
 "web3_ensure_trust" = "请确保您信任此应用程序。";
 "web3_message_request" = "消息签名";
 "web3_signing" = "正在签名";

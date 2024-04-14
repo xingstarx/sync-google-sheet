@@ -1385,6 +1385,7 @@
 	<string name="web3_account">Account</string>
 	<string name="web3_account_connected">Account Connected</string>
 	<string name="web3_account_network">%1$s Account</string>
+	<string name="web3_deposit_description">Use this address for receiving tokens on Ethereum, Polygon, BSC networks</string>
 	<string name="web3_ensure_trust">Please ensure you trust this dapp before proceeding with the request.</string>
 	<string name="web3_message_request">Message Request</string>
 	<string name="web3_send_signature_description">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
