@@ -142,6 +142,7 @@
 "bot_not_found" = "找不到这个机器人";
 "bots" = "机器人";
 "bots_title" = "机器人";
+"browser" = "浏览器";
 "buy" = "购买";
 "buy_asset" = "购买 %@";
 "buy_failed" = "交易失败";
@@ -305,6 +306,7 @@
 "conversations" = "对话";
 "copied" = "已复制";
 "copy" = "复制";
+"copy_address" = "复制地址";
 "copy_conversation_id" = "复制对话 ID";
 "copy_invite" = "复制邀请链接";
 "copy_link" = "复制链接";

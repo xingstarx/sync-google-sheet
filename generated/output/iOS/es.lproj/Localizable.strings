@@ -142,6 +142,7 @@
 "bot_not_found" = "Bot no encontrado";
 "bots" = "BOTS";
 "bots_title" = "Bots";
+"browser" = "Browser";
 "buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
@@ -305,6 +306,7 @@
 "conversations" = "Conversaciones";
 "copied" = "Copiado";
 "copy" = "Copiar";
+"copy_address" = "Copy Address";
 "copy_conversation_id" = "Copiar ID de conversación";
 "copy_invite" = "Copiar enlace de invitación";
 "copy_link" = "Copiar enlace";

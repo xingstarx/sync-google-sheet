@@ -167,6 +167,7 @@
 	<string name="BOTS">BOTS</string>
 	<string name="bots_title">Bots</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
+	<string name="Browser">Browser</string>
 	<string name="buy">Buy</string>
 	<string name="buy_asset">Buy %1$s</string>
 	<string name="buy_failed">Failed</string>
@@ -343,6 +344,7 @@
 	<string name="Conversation_not_found">Conversation not found.</string>
 	<string name="copied_to_clipboard">Copied to Clipboard</string>
 	<string name="Copy">Copy</string>
+	<string name="copy_address">Copy Address</string>
 	<string name="Copy_invite">Copy Invite Link</string>
 	<string name="Copy_link">Copy Link</string>
 	<string name="Create">Create</string>

@@ -142,6 +142,7 @@
 "bot_not_found" = "Бот не найден";
 "bots" = "БОТЫ";
 "bots_title" = "Боты";
+"browser" = "Browser";
 "buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
@@ -305,6 +306,7 @@
 "conversations" = "Разговоры";
 "copied" = "Скопировано";
 "copy" = "Копировать";
+"copy_address" = "Copy Address";
 "copy_conversation_id" = "Скопировать идентификатор беседы";
 "copy_invite" = "Скопировать пригласительную ссылку";
 "copy_link" = "Копировать ссылку";

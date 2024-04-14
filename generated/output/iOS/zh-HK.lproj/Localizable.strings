@@ -142,6 +142,7 @@
 "bot_not_found" = "找不到這個機器人";
 "bots" = "機器人";
 "bots_title" = "機器人";
+"browser" = "瀏覽器";
 "buy" = "購買";
 "buy_asset" = "購買 %@";
 "buy_failed" = "交易失敗";
@@ -305,6 +306,7 @@
 "conversations" = "對話";
 "copied" = "已複製";
 "copy" = "複製";
+"copy_address" = "複製地址";
 "copy_conversation_id" = "複製對話 ID";
 "copy_invite" = "複製邀請鏈接";
 "copy_link" = "複製鏈接";

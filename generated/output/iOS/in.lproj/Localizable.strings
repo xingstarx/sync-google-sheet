@@ -142,6 +142,7 @@
 "bot_not_found" = "Aplikasi tidak ditemukan";
 "bots" = "BOT";
 "bots_title" = "Bot";
+"browser" = "Browser";
 "buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
@@ -305,6 +306,7 @@
 "conversations" = "Conversations";
 "copied" = "Copied";
 "copy" = "Salin";
+"copy_address" = "Copy Address";
 "copy_conversation_id" = "Copy Conversation ID";
 "copy_invite" = "Salin Tautan";
 "copy_link" = "Copy Link";

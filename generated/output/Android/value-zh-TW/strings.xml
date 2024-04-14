@@ -165,6 +165,7 @@
 	<string name="BOTS">機器人</string>
 	<string name="bots_title">機器人</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s 不是您的聯絡人，請確認收款人是否正確。如果您轉錯了人資產將無法追回！</string>
+	<string name="Browser">瀏覽器</string>
 	<string name="buy">購買</string>
 	<string name="buy_asset">購買 %1$s</string>
 	<string name="buy_failed">交易失敗</string>
@@ -338,6 +339,7 @@
 	<string name="Conversation_not_found">找不到該會話</string>
 	<string name="copied_to_clipboard">已複製</string>
 	<string name="Copy">複製</string>
+	<string name="copy_address">複製地址</string>
 	<string name="Copy_invite">複製邀請連結</string>
 	<string name="Copy_link">複製連結</string>
 	<string name="Create">建立</string>

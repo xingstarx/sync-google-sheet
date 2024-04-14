@@ -142,6 +142,7 @@
 "bot_not_found" = "ミニアプリが見つかりません";
 "bots" = "ミニアプリ";
 "bots_title" = "Myミニアプリ一覧";
+"browser" = "Browser";
 "buy" = "Buy";
 "buy_asset" = "Buy %@";
 "buy_failed" = "Failed";
@@ -305,6 +306,7 @@
 "conversations" = "チャットルーム";
 "copied" = "コピーしました";
 "copy" = "コピー";
+"copy_address" = "Copy Address";
 "copy_conversation_id" = "チャットルームIDをコピー";
 "copy_invite" = "招待リンクをコピーする";
 "copy_link" = "リンクをコピー";
