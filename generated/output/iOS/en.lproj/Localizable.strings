@@ -242,6 +242,7 @@
 "close" = "Close";
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
+"collectibles" = "Collectibles";
 "combine_and_forward" = "Combine and forward";
 "combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
@@ -694,6 +695,7 @@
 "no_authorizations" = "NO AUTHORIZATIONS";
 "no_blocked_users" = "No blocked users";
 "no_bots" = "NO BOTS";
+"no_collectibles" = "NO COLLECTIBLES";
 "no_contacts" = "NO CONTACTS";
 "no_files" = "NO FILES";
 "no_hidden_assets" = "No hidden assets";

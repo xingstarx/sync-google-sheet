@@ -242,6 +242,7 @@
 "close" = "Close";
 "closing_balance" = "Closing Balance";
 "collectible_token_id" = "#%@";
+"collectibles" = "Collectibles";
 "combine_and_forward" = "Combine and forward";
 "combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
@@ -694,6 +695,7 @@
 "no_authorizations" = "Tidak ada aplikasi yang diizinkan";
 "no_blocked_users" = "Tidak ada pengguna yang diblokir";
 "no_bots" = "TIDAK ADA APLIKASI";
+"no_collectibles" = "NO COLLECTIBLES";
 "no_contacts" = "NO CONTACTS";
 "no_files" = "TIDAK ADA FILE";
 "no_hidden_assets" = "Tidak ada aset tersembunyi";

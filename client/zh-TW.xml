@@ -1841,4 +1841,6 @@
   <string name="Browser" platform="android, iOS">瀏覽器</string>
   <string name="web3_deposit_description" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC 網路上接收代幣</string>
   <string name="web3_no_asset" platform="android, iOS">沒有資產</string>
+  <string name="Collectibles" platform="android, iOS">藏品</string>
+  <string name="no_collectibles" platform="android, iOS">沒有藏品</string>
 </resources>

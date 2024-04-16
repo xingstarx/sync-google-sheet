@@ -275,6 +275,7 @@
 	<string name="Click_to_unlock">點選解鎖</string>
 	<string name="Close">關閉</string>
 	<string name="Closing_Balance">期末餘額</string>
+	<string name="Collectibles">藏品</string>
 	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Combine_utxo">歸集 UTXO</string>
 	<string name="Confirm">確認</string>
@@ -781,6 +782,7 @@
 	<string name="No_blocked_users">沒有封鎖任何人</string>
 	<string name="NO_BOTS">沒有機器人</string>
 	<string name="No_camera">沒有相機</string>
+	<string name="no_collectibles">沒有藏品</string>
 	<string name="NO_DAPP">沒有 dApp</string>
 	<string name="No_deposits">暫無充值記錄</string>
 	<string name="No_fees">暫無手續費記錄</string>

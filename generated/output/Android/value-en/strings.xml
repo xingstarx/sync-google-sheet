@@ -280,6 +280,7 @@
 	<string name="Click_to_unlock">Click to unlock</string>
 	<string name="Close">Close</string>
 	<string name="Closing_Balance">Closing Balance</string>
+	<string name="Collectibles">Collectibles</string>
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Confirm">Confirm</string>
@@ -799,6 +800,7 @@
 	<string name="No_blocked_users">No blocked users</string>
 	<string name="NO_BOTS">NO BOTS</string>
 	<string name="No_camera">No camera</string>
+	<string name="no_collectibles">NO COLLECTIBLES</string>
 	<string name="NO_DAPP">NO DAPP</string>
 	<string name="No_deposits">No deposits</string>
 	<string name="No_fees">No fees</string>
