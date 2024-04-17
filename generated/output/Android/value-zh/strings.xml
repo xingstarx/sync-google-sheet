@@ -588,6 +588,8 @@
 	<string name="free">免手续费</string>
 	<string name="Friday">星期五</string>
 	<string name="From">来自</string>
+	<string name="From_Address">从外部转入</string>
+	<string name="From_Mixin_Wallet">从 Mixin 钱包划转</string>
 	<string name="Generating_keys">正在创建密钥…</string>
 	<string name="Get_a_new_wallet">创建钱包</string>
 	<string name="Go">导航</string>
@@ -932,6 +934,7 @@
 	<string name="Recaptcha_timeout">验证超时</string>
 	<string name="Receive">转入</string>
 	<string name="RECEIVE">转入</string>
+	<string name="receive_from_address_description">从其他钱包或交易所转入</string>
 	<string name="Receive_Money">我的收款码</string>
 	<string name="Receiver">至</string>
 	<string name="Recent">最近</string>

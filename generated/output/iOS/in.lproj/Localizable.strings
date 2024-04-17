@@ -516,6 +516,8 @@
 "fourth_pin_confirm_hint" = "Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang.";
 "free" = "FREE";
 "from" = "From";
+"from_address" = "From Address";
+"from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Get a new wallet";
@@ -844,6 +846,7 @@
 "read_your_snapshots" = "Read your snapshots";
 "rebate" = "Potongan harga";
 "receive" = "Terima";
+"receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "Terima uang";
 "receiver" = "Penerima";
 "receivers" = "Receivers";
@@ -931,6 +934,7 @@
 "search_placeholder_address" = "Label, Address";
 "search_placeholder_asset" = "Name, Symbol";
 "search_placeholder_contact" = "Mixin ID, Name, Phone number";
+"search_placeholder_dapp" = "Name, URL";
 "search_placeholder_number" = "Search Mixin ID or phone number: ";
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d pesan terkait";

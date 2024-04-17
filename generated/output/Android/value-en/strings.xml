@@ -597,6 +597,8 @@
 	<string name="free">FREE</string>
 	<string name="Friday">Friday</string>
 	<string name="From">From</string>
+	<string name="From_Address">From Address</string>
+	<string name="From_Mixin_Wallet">From Mixin Wallet</string>
 	<string name="Generating_keys">Generating keys…</string>
 	<string name="Get_a_new_wallet">Get a new wallet</string>
 	<string name="GIF">GIF</string>
@@ -951,6 +953,7 @@
 	<string name="Recaptcha_timeout">Recaptcha timeout</string>
 	<string name="Receive">Receive</string>
 	<string name="RECEIVE">Receive</string>
+	<string name="receive_from_address_description">From another wallet or exchange</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Receiver">Receiver</string>
 	<string name="Recent">Recent</string>
