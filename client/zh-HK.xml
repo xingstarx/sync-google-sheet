@@ -1843,7 +1843,7 @@
   <string name="web3_no_asset" platform="android, iOS">沒有資產</string>
   <string name="Collectibles" platform="android, iOS">藏品</string>
   <string name="no_collectibles" platform="android, iOS">沒有藏品</string>
-  <string name="From_Mixin_Wallet" platform="android, iOS">從 Mixin 錢包劃轉</string>
+  <string name="From_Mixin_Wallet" platform="android, iOS">從 Mixin 錢包轉入</string>
   <string name="From_Address" platform="android, iOS">從外部轉入</string>
   <string name="receive_from_address_description" platform="android, iOS">從其他錢包或交易所轉入</string>
   <string name="insufficient_gas" platform="android, iOS">您的賬户中沒有足夠的 %1$s 來支付網絡費用</string>
@@ -1852,7 +1852,6 @@
   <string name="hint_address" platform="android, iOS">輸入錢包地址</string>
   <string name="Accounts" platform="android, iOS">賬户</string>
   <string name="to_mixin_wallet" platform="android, iOS">劃轉到 Mixin 錢包</string>
-  <string name="insufficient_gas" platform="android, iOS">您的賬户中沒有足夠的 %1$s 來支付網絡費用</string>
   <string name="From_mixin_wallet" platform="android, iOS">從 Mixin 錢包轉入</string>
   <string name="From_address" platform="android, iOS">從地址轉入</string>
   <string name="From_address_desc" platform="android, iOS">從其他錢包或交易所轉入</string>
