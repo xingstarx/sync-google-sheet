@@ -518,9 +518,6 @@
 "free" = "FREE";
 "from" = "より";
 "from_address" = "From address";
-"from_address" = "From Address";
-"from_address_desc" = "From another wallet or exchange";
-"from_mixin_wallet" = "From Mixin Wallet";
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";

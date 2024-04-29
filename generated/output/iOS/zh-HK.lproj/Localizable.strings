@@ -517,10 +517,7 @@
 "fourth_pin_confirm_hint" = "這是最後一次確認 PIN，記住：PIN 丟失將永遠無法找回！";
 "free" = "免手續費";
 "from" = "來自";
-"from_address" = "從地址轉入";
 "from_address" = "從外部轉入";
-"from_address_desc" = "從其他錢包或交易所轉入";
-"from_mixin_wallet" = "從 Mixin 錢包轉入";
 "from_mixin_wallet" = "從 Mixin 錢包轉入";
 "generating" = "正在生成...";
 "generating_keys" = "正在創建密鑰...";

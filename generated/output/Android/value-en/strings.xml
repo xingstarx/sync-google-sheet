@@ -598,10 +598,7 @@
 	<string name="free">FREE</string>
 	<string name="Friday">Friday</string>
 	<string name="From">From</string>
-	<string name="From_address">From address</string>
-	<string name="From_Address">From Address</string>
-	<string name="From_address_desc">From another wallet or exchange</string>
-	<string name="From_mixin_wallet">From Mixin Wallet</string>
+	<string name="From_Address">From address</string>
 	<string name="From_Mixin_Wallet">From Mixin Wallet</string>
 	<string name="Generating_keys">Generating keys…</string>
 	<string name="Get_a_new_wallet">Get a new wallet</string>

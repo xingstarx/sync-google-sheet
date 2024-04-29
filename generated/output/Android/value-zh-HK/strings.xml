@@ -589,10 +589,7 @@
 	<string name="free">免手續費</string>
 	<string name="Friday">星期五</string>
 	<string name="From">來自</string>
-	<string name="From_address">從地址轉入</string>
 	<string name="From_Address">從外部轉入</string>
-	<string name="From_address_desc">從其他錢包或交易所轉入</string>
-	<string name="From_mixin_wallet">從 Mixin 錢包轉入</string>
 	<string name="From_Mixin_Wallet">從 Mixin 錢包轉入</string>
 	<string name="Generating_keys">正在創建密鑰…</string>
 	<string name="Get_a_new_wallet">創建錢包</string>
