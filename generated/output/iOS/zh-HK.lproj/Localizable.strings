@@ -10,6 +10,7 @@
 "access_your_contacts_list" = "訪問你的聯繫人列表";
 "access_your_snapshots" = "訪問你的轉賬記錄";
 "account" = "賬號";
+"accounts" = "賬户";
 "acknowledgements" = "許可證";
 "add" = "添加";
 "add_address" = "添加地址";
@@ -516,7 +517,10 @@
 "fourth_pin_confirm_hint" = "這是最後一次確認 PIN，記住：PIN 丟失將永遠無法找回！";
 "free" = "免手續費";
 "from" = "來自";
+"from_address" = "從地址轉入";
 "from_address" = "從外部轉入";
+"from_address_desc" = "從其他錢包或交易所轉入";
+"from_mixin_wallet" = "從 Mixin 錢包轉入";
 "from_mixin_wallet" = "從 Mixin 錢包劃轉";
 "generating" = "正在生成...";
 "generating_keys" = "正在創建密鑰...";
@@ -537,6 +541,7 @@
 "hidden_assets" = "隱藏的資產";
 "hide" = "隱藏";
 "hide_asset" = "隱藏資產";
+"hint_address" = "輸入錢包地址";
 "hold_to_record_audio" = "長按説話，鬆手發送";
 "hour" = "%d 小時";
 "hour_count" = "%d 小時";
@@ -555,6 +560,7 @@
 "info" = "信息";
 "initializing" = "初始化...";
 "insufficient_balance" = "餘額不足";
+"insufficient_gas" = "您的賬户中沒有足夠的 %@ 來支付網絡費用";
 "insufficient_transaction_fee" = "手續費不足";
 "interface_style" = "外觀";
 "invalid_candidate" = "無效的 Candidate";
@@ -629,6 +635,7 @@
 "manage_bots" = "管理機器人";
 "manage_your_apps" = "管理你所有的機器人";
 "manage_your_circles" = "管理你所有的圈子";
+"max" = "最大值";
 "max_favorite_bots_description" = "最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。";
 "media" = "媒體";
 "memo" = "備註";
@@ -903,6 +910,7 @@
 "restoring_progress" = "正在恢復 %@";
 "retry" = "重試";
 "return_to_merchant_description" = "來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。";
+"review" = "預覽";
 "review_address_hint" = "請仔細檢查地址、Memo（標籤）和網絡，如果您轉錯了，資產將無法追回。";
 "review_transfer_hint" = "請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。";
 "review_withdrawal_hint" = "請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。";
@@ -1092,6 +1100,7 @@
 "title_participants" = "%d 成員";
 "title_participants_count" = "%d 成員";
 "to" = "至";
+"to_mixin_wallet" = "劃轉到 Mixin 錢包";
 "today" = "今天";
 "token_amount" = "代幣總數";
 "total" = "共計";

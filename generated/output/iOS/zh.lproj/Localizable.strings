@@ -10,6 +10,7 @@
 "access_your_contacts_list" = "访问你的联系人列表";
 "access_your_snapshots" = "访问你的转账记录";
 "account" = "账号";
+"accounts" = "账户";
 "acknowledgements" = "许可证";
 "add" = "添加";
 "add_address" = "添加地址";
@@ -516,7 +517,10 @@
 "fourth_pin_confirm_hint" = "这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！";
 "free" = "免手续费";
 "from" = "来自";
+"from_address" = "从地址转入";
 "from_address" = "从外部转入";
+"from_address_desc" = "从其他钱包或交易所转入";
+"from_mixin_wallet" = "从 Mixin 钱包转入";
 "from_mixin_wallet" = "从 Mixin 钱包划转";
 "generating" = "正在生成...";
 "generating_keys" = "正在创建密钥...";
@@ -537,6 +541,7 @@
 "hidden_assets" = "隐藏的资产";
 "hide" = "隐藏";
 "hide_asset" = "隐藏资产";
+"hint_address" = "输入钱包地址";
 "hold_to_record_audio" = "长按说话，松手发送";
 "hour" = "%d 小时";
 "hour_count" = "%d 小时";
@@ -555,6 +560,7 @@
 "info" = "信息";
 "initializing" = "初始化...";
 "insufficient_balance" = "余额不足";
+"insufficient_gas" = "您的账户中没有足够的 %@ 来支付网络费用";
 "insufficient_transaction_fee" = "手续费不足";
 "interface_style" = "外观";
 "invalid_candidate" = "无效的 Candidate";
@@ -629,6 +635,7 @@
 "manage_bots" = "管理机器人";
 "manage_your_apps" = "管理你所有的机器人";
 "manage_your_circles" = "管理你所有的圈子";
+"max" = "最大值";
 "max_favorite_bots_description" = "最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。";
 "media" = "媒体";
 "memo" = "备注";
@@ -903,6 +910,7 @@
 "restoring_progress" = "正在恢复 %@";
 "retry" = "重试";
 "return_to_merchant_description" = "来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。";
+"review" = "预览";
 "review_address_hint" = "请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。";
 "review_transfer_hint" = "请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。";
 "review_withdrawal_hint" = "请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。";
@@ -1092,6 +1100,7 @@
 "title_participants" = "%d 成员";
 "title_participants_count" = "%d 成员";
 "to" = "至";
+"to_mixin_wallet" = "划转到 Mixin 钱包";
 "today" = "今天";
 "token_amount" = "代币总数";
 "total" = "共计";

@@ -10,6 +10,7 @@
 "access_your_contacts_list" = "accede a tu lista de contactos";
 "access_your_snapshots" = "accede a tus instantáneas";
 "account" = "Cuenta";
+"accounts" = "Accounts";
 "acknowledgements" = "Agradecimientos";
 "add" = "Añadir";
 "add_address" = "Añadir dirección";
@@ -516,7 +517,10 @@
 "fourth_pin_confirm_hint" = "Sí, hay una cuarta confirmación de PIN y le prometo que es la última para asegurarse de que has recordado tu PIN. El PIN es irrecuperable si se pierde.";
 "free" = "FREE";
 "from" = "De";
+"from_address" = "From address";
 "from_address" = "From Address";
+"from_address_desc" = "From another wallet or exchange";
+"from_mixin_wallet" = "From Mixin Wallet";
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generando...";
 "generating_keys" = "Generando claves...";
@@ -537,6 +541,7 @@
 "hidden_assets" = "Activos ocultos";
 "hide" = "Ocultar";
 "hide_asset" = "Ocultar activo";
+"hint_address" = "Enter a wallet addres";
 "hold_to_record_audio" = "Sostén para grabar, suelta para enviar";
 "hour" = "%d Hora";
 "hour_count" = "%d Horas";
@@ -555,6 +560,7 @@
 "info" = "Información";
 "initializing" = "Inicializando...";
 "insufficient_balance" = "Insufficient balance";
+"insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Tarifa de transacción insuficiente";
 "interface_style" = "Estilo de interfaz";
 "invalid_candidate" = "Candidato inválido";
@@ -629,6 +635,7 @@
 "manage_bots" = "Administrar bots";
 "manage_your_apps" = "Administra tus bots";
 "manage_your_circles" = "Administra tus círculos";
+"max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "Medios de comunicación";
 "memo" = "Memorándum";
@@ -903,6 +910,7 @@
 "restoring_progress" = "Restaurando %@";
 "retry" = "Reintentar";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
+"review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
@@ -1092,6 +1100,7 @@
 "title_participants" = "%d Participante";
 "title_participants_count" = "%d Participantes";
 "to" = "A";
+"to_mixin_wallet" = "To my Mixin Wallet";
 "today" = "Hoy";
 "token_amount" = "Token Amount";
 "total" = "Total";

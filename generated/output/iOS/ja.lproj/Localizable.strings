@@ -10,6 +10,7 @@
 "access_your_contacts_list" = "友達一覧へのアクセス";
 "access_your_snapshots" = "スナップショットへのアクセス";
 "account" = "アカウント";
+"accounts" = "Accounts";
 "acknowledgements" = "謝辞";
 "add" = "追加";
 "add_address" = "アドレスに追加";
@@ -516,7 +517,10 @@
 "fourth_pin_confirm_hint" = "最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません";
 "free" = "FREE";
 "from" = "より";
+"from_address" = "From address";
 "from_address" = "From Address";
+"from_address_desc" = "From another wallet or exchange";
+"from_mixin_wallet" = "From Mixin Wallet";
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
@@ -537,6 +541,7 @@
 "hidden_assets" = "非表示資産";
 "hide" = "非表示";
 "hide_asset" = "資産を非表示にする";
+"hint_address" = "Enter a wallet addres";
 "hold_to_record_audio" = "長押しして録音、離して送信";
 "hour" = "%d時間";
 "hour_count" = "%d時間";
@@ -555,6 +560,7 @@
 "info" = "プロフィール";
 "initializing" = "初期化中...";
 "insufficient_balance" = "残高が不足しています";
+"insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "取引手数料が不足しています";
 "interface_style" = "外観モード";
 "invalid_candidate" = "無効な候補";
@@ -629,6 +635,7 @@
 "manage_bots" = "ミニアプリの管理";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
+"max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "メディア";
 "memo" = "メモ";
@@ -903,6 +910,7 @@
 "restoring_progress" = "%@を復元しています";
 "retry" = "リトライ";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
+"review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
@@ -1092,6 +1100,7 @@
 "title_participants" = "%d人の参加者";
 "title_participants_count" = "%d人の参加者";
 "to" = "宛先";
+"to_mixin_wallet" = "To my Mixin Wallet";
 "today" = "今日";
 "token_amount" = "Token Amount";
 "total" = "Total";

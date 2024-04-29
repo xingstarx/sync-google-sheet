@@ -10,6 +10,7 @@
 "access_your_contacts_list" = "akses senarai kenalan anda";
 "access_your_snapshots" = "akses gambar anda";
 "account" = "Akaun";
+"accounts" = "Accounts";
 "acknowledgements" = "Acknowledgements";
 "add" = "Add";
 "add_address" = "Tambah alamat";
@@ -517,7 +518,10 @@
 "fourth_pin_confirm_hint" = "Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang.";
 "free" = "FREE";
 "from" = "From";
+"from_address" = "From address";
 "from_address" = "From Address";
+"from_address_desc" = "From another wallet or exchange";
+"from_mixin_wallet" = "From Mixin Wallet";
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
@@ -538,6 +542,7 @@
 "hidden_assets" = "Aset Tersembunyi";
 "hide" = "Sembunyii";
 "hide_asset" = "Hide asset";
+"hint_address" = "Enter a wallet addres";
 "hold_to_record_audio" = "Tahan untuk merakam, lepaskan untuk hantar";
 "hour" = "%d Hour";
 "hour_count" = "%d Jam";
@@ -556,6 +561,7 @@
 "info" = "Info";
 "initializing" = "Memulakan...";
 "insufficient_balance" = "Baki tidak mencukupi";
+"insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Insufficient transaction fee";
 "interface_style" = "Interface Style";
 "invalid_candidate" = "Invalid candidate";
@@ -630,6 +636,7 @@
 "manage_bots" = "Urus Aplikasi";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
+"max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "Media";
 "memo" = "Memo";
@@ -904,6 +911,7 @@
 "restoring_progress" = "Restoring %@";
 "retry" = "CUBA SEMULA";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
+"review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
@@ -1093,6 +1101,7 @@
 "title_participants" = "%d Participant";
 "title_participants_count" = "%d peserta";
 "to" = "To";
+"to_mixin_wallet" = "To my Mixin Wallet";
 "today" = "Hari ini";
 "token_amount" = "Token Amount";
 "total" = "Total";

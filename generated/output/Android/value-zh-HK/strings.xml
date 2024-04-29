@@ -23,6 +23,7 @@
 	<string name="access_your_contacts_list">訪問你的聯繫人列表</string>
 	<string name="access_your_snapshots">訪問你的轉賬記錄</string>
 	<string name="Account">賬號</string>
+	<string name="Accounts">賬户</string>
 	<string name="Add">添加</string>
 	<string name="Add_address">添加地址</string>
 	<string name="Add_bot">添加機器人</string>
@@ -588,7 +589,10 @@
 	<string name="free">免手續費</string>
 	<string name="Friday">星期五</string>
 	<string name="From">來自</string>
+	<string name="From_address">從地址轉入</string>
 	<string name="From_Address">從外部轉入</string>
+	<string name="From_address_desc">從其他錢包或交易所轉入</string>
+	<string name="From_mixin_wallet">從 Mixin 錢包轉入</string>
 	<string name="From_Mixin_Wallet">從 Mixin 錢包劃轉</string>
 	<string name="Generating_keys">正在創建密鑰…</string>
 	<string name="Get_a_new_wallet">創建錢包</string>
@@ -617,6 +621,7 @@
 	<string name="Hidden">隱藏</string>
 	<string name="Hidden_Assets">隱藏的資產</string>
 	<string name="Hide">隱藏</string>
+	<string name="hint_address">輸入錢包地址</string>
 	<string name="hold_to_record_audio">長按説話，鬆手發送</string>
 	<plurals name="Hour" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 小時</item>
@@ -633,6 +638,7 @@
 	<string name="Incoming_voice_call">語音通話來電</string>
 	<string name="Initializing">初始化…</string>
 	<string name="insufficient_balance">餘額不足</string>
+	<string name="insufficient_gas">您的賬户中沒有足夠的 %1$s 來支付網絡費用</string>
 	<string name="Invalid_Link">無效鏈接</string>
 	<string name="Invalid_payment_link">無效支付信息</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>
@@ -709,6 +715,7 @@
 	<string name="Manager_Sticker">管理貼紙</string>
 	<string name="Manufacturer">生產商</string>
 	<string name="Mark_as_read">標記為已讀</string>
+	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
 	<string name="Media">媒體</string>
 	<string name="Memo">備註</string>
@@ -988,6 +995,7 @@
 	<string name="Retry">重試</string>
 	<string name="Retry_upload_failed">重新上傳失敗。</string>
 	<string name="return_to_merchant_description">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
+	<string name="Review">預覽</string>
 	<string name="review_address_hint">請仔細檢查地址、Memo（標籤）和網絡，如果您轉錯了，資產將無法追回。</string>
 	<string name="review_transfer_hint">請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。</string>
 	<string name="review_withdrawal_hint">請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。</string>
@@ -1200,6 +1208,7 @@
 		<item quantity="other">%1$d 成員</item>
 	</plurals>
 	<string name="To">至</string>
+	<string name="to_mixin_wallet">劃轉到 Mixin 錢包</string>
 	<string name="Today">今天</string>
 	<string name="token_amount">代幣總數</string>
 	<string name="total">共計</string>

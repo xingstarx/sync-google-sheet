@@ -23,6 +23,7 @@
 	<string name="access_your_contacts_list">access your contacts list</string>
 	<string name="access_your_snapshots">access your snapshots</string>
 	<string name="Account">Account</string>
+	<string name="Accounts">Accounts</string>
 	<string name="Add">Add</string>
 	<string name="Add_address">Add address</string>
 	<string name="Add_bot">Add Bot</string>
@@ -597,7 +598,10 @@
 	<string name="free">FREE</string>
 	<string name="Friday">Friday</string>
 	<string name="From">From</string>
+	<string name="From_address">From address</string>
 	<string name="From_Address">From Address</string>
+	<string name="From_address_desc">From another wallet or exchange</string>
+	<string name="From_mixin_wallet">From Mixin Wallet</string>
 	<string name="From_Mixin_Wallet">From Mixin Wallet</string>
 	<string name="Generating_keys">Generating keys…</string>
 	<string name="Get_a_new_wallet">Get a new wallet</string>
@@ -629,6 +633,7 @@
 	<string name="Hidden">Hidden</string>
 	<string name="Hidden_Assets">Hidden Assets</string>
 	<string name="Hide">Hide</string>
+	<string name="hint_address">Enter a wallet addres</string>
 	<string name="hold_to_record_audio">Hold to record, release to send.</string>
 	<plurals name="Hour">
 		<item quantity="one">%d Hour</item>
@@ -645,6 +650,7 @@
 	<string name="Incoming_voice_call">Incoming voice call</string>
 	<string name="Initializing">Initializing…</string>
 	<string name="insufficient_balance">Insufficient balance</string>
+	<string name="insufficient_gas">You do not have enough %1$s in your account to pay for network fees</string>
 	<string name="Invalid_Link">Invalid Link</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
@@ -726,6 +732,7 @@
 	<string name="Manager_Sticker">Manager Sticker</string>
 	<string name="Manufacturer">Manufacturer</string>
 	<string name="Mark_as_read">Mark as read</string>
+	<string name="Max">Max</string>
 	<string name="max_favorite_bots_description">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
 	<string name="Media">Media</string>
 	<string name="Memo">Memo</string>
@@ -1007,6 +1014,7 @@
 	<string name="Retry">Retry</string>
 	<string name="Retry_upload_failed">Retry upload failed.</string>
 	<string name="return_to_merchant_description">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
+	<string name="Review">Review</string>
 	<string name="review_address_hint">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
 	<string name="review_transfer_hint">Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.</string>
 	<string name="review_withdrawal_hint">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
@@ -1221,6 +1229,7 @@
 		<item quantity="other">%1$d Participants</item>
 	</plurals>
 	<string name="To">To</string>
+	<string name="to_mixin_wallet">To my Mixin Wallet</string>
 	<string name="Today">Today</string>
 	<string name="token_amount">Token Amount</string>
 	<string name="total">Total</string>
