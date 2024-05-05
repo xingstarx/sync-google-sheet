@@ -648,6 +648,7 @@
 	<string name="Initializing">Initializing…</string>
 	<string name="insufficient_balance">Insufficient balance</string>
 	<string name="insufficient_gas">You do not have enough %1$s in your account to pay for network fees</string>
+	<string name="Invalid_Address">Invalid Address</string>
 	<string name="Invalid_Link">Invalid Link</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>

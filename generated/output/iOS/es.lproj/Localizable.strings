@@ -560,6 +560,7 @@
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Tarifa de transacción insuficiente";
 "interface_style" = "Estilo de interfaz";
+"invalid_address" = "Invalid Address";
 "invalid_candidate" = "Candidato inválido";
 "invalid_height" = "Altura inválida";
 "invalid_malformed_address_eos_hint" = "Formato de dirección inválido. ¡Mixin no admite el retiro a la dirección del contrato EOS!";

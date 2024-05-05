@@ -560,6 +560,7 @@
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "取引手数料が不足しています";
 "interface_style" = "外観モード";
+"invalid_address" = "Invalid Address";
 "invalid_candidate" = "無効な候補";
 "invalid_height" = "無効な高さ";
 "invalid_malformed_address_eos_hint" = "無効なアドレスです。MixinはEOSアドレスへの引き出しに対応していません。";

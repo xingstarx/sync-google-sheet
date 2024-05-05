@@ -636,6 +636,7 @@
 	<string name="Initializing">初始化…</string>
 	<string name="insufficient_balance">餘額不足</string>
 	<string name="insufficient_gas">您的賬戶中沒有足夠的 %1$s 來支付網路費用</string>
+	<string name="Invalid_Address">無效的地址</string>
 	<string name="Invalid_Link">無效連結</string>
 	<string name="Invalid_payment_link">無效支付資訊</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>

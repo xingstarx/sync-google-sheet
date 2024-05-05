@@ -560,6 +560,7 @@
 "insufficient_gas" = "您的賬戶中沒有足夠的 %@ 來支付網路費用";
 "insufficient_transaction_fee" = "手續費不足";
 "interface_style" = "外觀";
+"invalid_address" = "無效的地址";
 "invalid_candidate" = "無效的 Candidate";
 "invalid_height" = "高度無效";
 "invalid_malformed_address_eos_hint" = "地址格式錯誤。Mixin 不支援提現到 EOS 合約地址！";

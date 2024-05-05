@@ -560,6 +560,7 @@
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Недостаточная комиссия за транзакцию";
 "interface_style" = "Стиль интерфейса";
+"invalid_address" = "Invalid Address";
 "invalid_candidate" = "Недействительный кандидат";
 "invalid_height" = "Неверный рост";
 "invalid_malformed_address_eos_hint" = "Неверный формат адреса. Mixin не поддерживает вывод средств на адрес контракта EOS!";
