@@ -539,7 +539,7 @@
 "hidden_assets" = "Aset Tersembunyi";
 "hide" = "Sembunyii";
 "hide_asset" = "Hide asset";
-"hint_address" = "Enter a wallet addres";
+"hint_address" = "Enter a wallet address";
 "hold_to_record_audio" = "Tahan untuk merakam, lepaskan untuk hantar";
 "hour" = "%d Hour";
 "hour_count" = "%d Jam";

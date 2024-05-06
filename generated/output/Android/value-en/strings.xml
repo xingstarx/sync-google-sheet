@@ -630,7 +630,7 @@
 	<string name="Hidden">Hidden</string>
 	<string name="Hidden_Assets">Hidden Assets</string>
 	<string name="Hide">Hide</string>
-	<string name="hint_address">Enter a wallet addres</string>
+	<string name="hint_address">Enter a wallet address</string>
 	<string name="hold_to_record_audio">Hold to record, release to send.</string>
 	<plurals name="Hour">
 		<item quantity="one">%d Hour</item>
