@@ -1401,6 +1401,7 @@
 	<string name="web3_ensure_trust">Please ensure you trust this dapp before proceeding with the request.</string>
 	<string name="web3_message_request">Message Request</string>
 	<string name="web3_no_asset">Don’t Have Assets</string>
+	<string name="web3_request_from_mixin">This signature request is issued by Mixin Messenger.</string>
 	<string name="web3_send_signature_description">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
 	<string name="web3_signing">Signing</string>
 	<string name="web3_signing_confirmation">Confirm Signing</string>

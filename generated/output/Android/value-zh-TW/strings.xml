@@ -1379,6 +1379,7 @@
 	<string name="web3_ensure_trust">請確保您信任此應用程式。</string>
 	<string name="web3_message_request">訊息簽名</string>
 	<string name="web3_no_asset">沒有資產</string>
+	<string name="web3_request_from_mixin">該簽名請求來自 Mixin Messenger。</string>
 	<string name="web3_send_signature_description">點發送按鈕立刻廣播訊息或點丟棄按鈕丟棄已簽名的訊息。</string>
 	<string name="web3_signing">正在簽名</string>
 	<string name="web3_signing_confirmation">簽名確認</string>
