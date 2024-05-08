@@ -1857,9 +1857,11 @@
   <string name="Collectibles" platform="android, iOS">收藏</string>
   <string name="content_collection" platform="android, iOS">[藏品]</string>
   <string name="NO_COLLECTIBLES" platform="android, iOS">没有藏品</string>
+  <string name="Collection" platform="android, iOS">藏品</string>
   <string name="COLLECTION" platform="android, iOS">藏品</string>
   <string name="NFT_TOKEN" platform="android, iOS">NFT 代币</string>
   <string name="Collectible" platform="android, iOS">藏品</string>
   <string name="search_placeholder_inscription" platform="android, iOS">搜索名称</string>
   <string name="alert_key_contact_inscription_message" platform="android, iOS">发送一个藏品</string>
+  <string name="inscription_Hash" platform="android, iOS">藏品 Hash</string>
 </resources>
