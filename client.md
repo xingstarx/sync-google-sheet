@@ -1892,3 +1892,4 @@
 | android, iOS | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
 | android, iOS | Collectible | Collectibles | 藏品  |     |     |     |
 | android, iOS | search_placeholder_inscription | Search name | 搜索名称 |     |     |     |
+| android, iOS | alert_key_contact_inscription_message | sent you a inscription | 发送一个藏品 |     |     |     |
