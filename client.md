@@ -1884,7 +1884,7 @@
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
 | android, iOS | web3_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
 | android, iOS | Collectibles | Collectibles | 收藏  |     |     |     |
-| android, iOS | content_collection | content_collection | [藏品] |     |     |     |
+| android, iOS | content_collection | [Collectibles] | [藏品] |     |     |     |
 | android, iOS | NO_COLLECTIBLES | NO_COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS | HASH | HASH |     |     |     |     |
 | android, iOS | ID  | ID  |     |     |     |     |
