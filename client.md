@@ -1870,7 +1870,7 @@
 | android, iOS | Browser | Browser | 浏览器 |     |     |     |
 | android, iOS | web3_deposit_description | Use this address for receiving tokens on Ethereum, Polygon, BSC networks | 使用此地址在 Ethereum、Polygon、BSC 网络上接收代币 |     |     |     |
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
-| android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
+| android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包转入 |     |     |     |
 | android, iOS | From_Address | From address | 从外部转入 |     |     |     |
