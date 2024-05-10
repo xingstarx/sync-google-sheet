@@ -1870,7 +1870,7 @@
 | android, iOS | Browser | Browser | 浏览器 |     |     |     |
 | android, iOS | web3_deposit_description | Use this address for receiving tokens on Ethereum, Polygon, BSC networks | 使用此地址在 Ethereum、Polygon、BSC 网络上接收代币 |     |     |     |
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
-| android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
+| android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包转入 |     |     |     |
 | android, iOS | From_Address | From address | 从外部转入 |     |     |     |
@@ -1883,3 +1883,14 @@
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
 | android, iOS | web3_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
+| android, iOS | Collectibles | Collectibles | 收藏  |     |     |     |
+| android, iOS | content_collection | [Collectibles] | [藏品] |     |     |     |
+| android, iOS | NO_COLLECTIBLES | NO_COLLECTIBLES | 没有藏品 |     |     |     |
+| android, iOS, Desktop | HASH | HASH |     |     |     |     |
+| android, iOS, Desktop | ID  | ID  |     |     |     |     |
+| android, iOS, Desktop | Collection | Collection | 合集  |     |     |     |
+| android, iOS, Desktop | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
+| android, iOS, Desktop | Collectible | Collectible | 藏品  |     |     |     |
+| android, iOS | search_placeholder_inscription | Search name | 搜索名称 |     |     |     |
+| android, iOS | alert_key_contact_inscription_message | sent you a inscription | 发送一个藏品 |     |     |     |
+| android, iOS | inscription_Hash | Inscription Hash | 藏品 Hash |     |     |     |
