@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "llamada de voz cancelada";
 "alert_key_contact_audio_call_message" = "te invita a una llamada de voz";
 "alert_key_contact_audio_message" = "te ha enviado un audio";
+"alert_key_contact_collectible_message" = "sent you an inscription";
 "alert_key_contact_contact_message" = "te ha enviado un contacto";
 "alert_key_contact_data_message" = "te ha enviado un archivo";
 "alert_key_contact_image_message" = "te ha enviado una foto";
-"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "te ha enviado una transmisión en vivo";
 "alert_key_contact_location_message" = "te ha enviado una ubicación";
 "alert_key_contact_message" = "te ha enviado un mensaje";
@@ -285,7 +285,7 @@
 "contact_title" = "Contactos";
 "contacts" = "CONTACTOS";
 "content_audio" = "[Audio]";
-"content_collection" = "[Collectibles]";
+"content_collection" = "[Collectible]";
 "content_contact" = "[Contacto]";
 "content_deposit" = "[Depósito]";
 "content_fee" = "[Tarifa]";
@@ -711,7 +711,6 @@
 "no_blocked_users" = "Sin usuarios bloqueados";
 "no_bots" = "SIN BOTS";
 "no_collectibles" = "NO COLLECTIBLES";
-"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "SIN CONTACTOS";
 "no_files" = "SIN ARCHIVOS";
 "no_hidden_assets" = "Sin activos ocultos";

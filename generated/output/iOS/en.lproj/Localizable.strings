@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
 "alert_key_contact_audio_call_message" = "invites you to a voice call";
 "alert_key_contact_audio_message" = "sent you an audio";
+"alert_key_contact_collectible_message" = "sent you an inscription";
 "alert_key_contact_contact_message" = "sent you a contact";
 "alert_key_contact_data_message" = "sent you a file";
 "alert_key_contact_image_message" = "sent you a photo";
-"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "sent you a live stream";
 "alert_key_contact_location_message" = "sent you a location";
 "alert_key_contact_message" = "sent you a message";
@@ -285,7 +285,7 @@
 "contact_title" = "Contacts";
 "contacts" = "CONTACTS";
 "content_audio" = "[Audio]";
-"content_collection" = "[Collectibles]";
+"content_collection" = "[Collectible]";
 "content_contact" = "[Contact]";
 "content_deposit" = "[Deposit]";
 "content_fee" = "[Fee]";
@@ -711,7 +711,6 @@
 "no_blocked_users" = "No blocked users";
 "no_bots" = "NO BOTS";
 "no_collectibles" = "NO COLLECTIBLES";
-"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "NO CONTACTS";
 "no_files" = "NO FILES";
 "no_hidden_assets" = "No hidden assets";

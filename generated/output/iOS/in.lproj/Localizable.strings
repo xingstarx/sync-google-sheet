@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
 "alert_key_contact_audio_call_message" = "meminta panggilan audio dengan Anda";
 "alert_key_contact_audio_message" = "mengirim audio";
+"alert_key_contact_collectible_message" = "sent you an inscription";
 "alert_key_contact_contact_message" = "berbagi kontak";
 "alert_key_contact_data_message" = "mengirim file";
 "alert_key_contact_image_message" = "mengirimi Anda foto";
-"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "mengirimi Anda siaran langsung";
 "alert_key_contact_location_message" = "mengirim lokasi";
 "alert_key_contact_message" = "sent you a message";
@@ -285,7 +285,7 @@
 "contact_title" = "Contacts";
 "contacts" = "KONTAK";
 "content_audio" = "[Audio]";
-"content_collection" = "[Collectibles]";
+"content_collection" = "[Collectible]";
 "content_contact" = "[Kontak]";
 "content_deposit" = "[Deposit]";
 "content_fee" = "[Fee]";
@@ -711,7 +711,6 @@
 "no_blocked_users" = "Tidak ada pengguna yang diblokir";
 "no_bots" = "TIDAK ADA APLIKASI";
 "no_collectibles" = "NO COLLECTIBLES";
-"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "NO CONTACTS";
 "no_files" = "TIDAK ADA FILE";
 "no_hidden_assets" = "Tidak ada aset tersembunyi";

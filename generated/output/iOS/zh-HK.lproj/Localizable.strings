@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "對方已取消語音通話";
 "alert_key_contact_audio_call_message" = "發起了語音通話";
 "alert_key_contact_audio_message" = "發送一條語音";
+"alert_key_contact_collectible_message" = "發送一個藏品";
 "alert_key_contact_contact_message" = "分享了一個聯繫人";
 "alert_key_contact_data_message" = "發送一個檔案";
 "alert_key_contact_image_message" = "發送一張照片";
-"alert_key_contact_inscription_message" = "發送一個藏品";
 "alert_key_contact_live_message" = "發送一個直播";
 "alert_key_contact_location_message" = "發送了一個位置";
 "alert_key_contact_message" = "發送一條消息";
@@ -245,7 +245,7 @@
 "closing_balance" = "期末餘額";
 "collectible" = "藏品";
 "collectible_token_id" = "#%@";
-"collectibles" = "收藏";
+"collectibles" = "藏品";
 "collection" = "合集";
 "combine_and_forward" = "合併轉發";
 "combine_utxo" = "歸集 UTXO";
@@ -710,7 +710,6 @@
 "no_authorizations" = "沒有授權任何機器人";
 "no_blocked_users" = "沒有屏蔽任何人";
 "no_bots" = "沒有機器人";
-"no_collectibles" = "沒有藏品";
 "no_collectibles" = "沒有藏品";
 "no_contacts" = "沒有聯繫人";
 "no_files" = "沒有檔案";

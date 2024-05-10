@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "キャンセル";
 "alert_key_contact_audio_call_message" = "グループ通話に招待されました";
 "alert_key_contact_audio_message" = "音声メッセージが届きました";
+"alert_key_contact_collectible_message" = "sent you an inscription";
 "alert_key_contact_contact_message" = "連絡先が届きました";
 "alert_key_contact_data_message" = "ファイルが届きました";
 "alert_key_contact_image_message" = "画像が届きました";
-"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "配信が届きました";
 "alert_key_contact_location_message" = "位置情報が届きました";
 "alert_key_contact_message" = "メッセージが届きました";
@@ -285,7 +285,7 @@
 "contact_title" = "連絡先";
 "contacts" = "連絡先";
 "content_audio" = "[音声メッセージ]";
-"content_collection" = "[Collectibles]";
+"content_collection" = "[Collectible]";
 "content_contact" = "[連絡先]";
 "content_deposit" = "[入金]";
 "content_fee" = "[手数料]";
@@ -711,7 +711,6 @@
 "no_blocked_users" = "ブロック済みのユーザーはいません";
 "no_bots" = "ミニアプリがありません";
 "no_collectibles" = "NO COLLECTIBLES";
-"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "友達未追加";
 "no_files" = "ファイルがありません";
 "no_hidden_assets" = "非表示資産はありません";

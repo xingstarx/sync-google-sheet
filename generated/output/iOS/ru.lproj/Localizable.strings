@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "голосовой вызов отменен";
 "alert_key_contact_audio_call_message" = "приглашает вас на голосовой вызов";
 "alert_key_contact_audio_message" = "отправил вам аудио";
+"alert_key_contact_collectible_message" = "sent you an inscription";
 "alert_key_contact_contact_message" = "отправил вам контакт";
 "alert_key_contact_data_message" = "отправил вам файл";
 "alert_key_contact_image_message" = "отправил вам фото";
-"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "отправил вам прямую трансляцию";
 "alert_key_contact_location_message" = "отправил вам местоположение";
 "alert_key_contact_message" = "отправил вам сообщение";
@@ -285,7 +285,7 @@
 "contact_title" = "Контакты";
 "contacts" = "КОНТАКТЫ";
 "content_audio" = "[Аудио]";
-"content_collection" = "[Collectibles]";
+"content_collection" = "[Collectible]";
 "content_contact" = "[Контакт]";
 "content_deposit" = "[Депозит]";
 "content_fee" = "[Комиссия]";
@@ -711,7 +711,6 @@
 "no_blocked_users" = "Нет заблокированных пользователей";
 "no_bots" = "НЕТ БОТОВ";
 "no_collectibles" = "NO COLLECTIBLES";
-"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "НЕТ КОНТАКТОВ";
 "no_files" = "ФАЙЛОВ НЕТ";
 "no_hidden_assets" = "Нет скрытых активов";

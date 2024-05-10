@@ -50,10 +50,10 @@
 "alert_key_contact_audio_call_cancelled_message" = "对方已取消语音通话";
 "alert_key_contact_audio_call_message" = "发起了语音通话";
 "alert_key_contact_audio_message" = "发送一条语音";
+"alert_key_contact_collectible_message" = "发送一个藏品";
 "alert_key_contact_contact_message" = "分享了一个联系人";
 "alert_key_contact_data_message" = "发送一个文件";
 "alert_key_contact_image_message" = "发送一张照片";
-"alert_key_contact_inscription_message" = "发送一个藏品";
 "alert_key_contact_live_message" = "发送一个直播";
 "alert_key_contact_location_message" = "发送了一个位置";
 "alert_key_contact_message" = "发送一条消息";
@@ -245,7 +245,7 @@
 "closing_balance" = "期末余额";
 "collectible" = "藏品";
 "collectible_token_id" = "#%@";
-"collectibles" = "收藏";
+"collectibles" = "藏品";
 "collection" = "合集";
 "combine_and_forward" = "合并转发";
 "combine_utxo" = "归集 UTXO";
@@ -710,7 +710,6 @@
 "no_authorizations" = "没有授权任何机器人";
 "no_blocked_users" = "没有屏蔽任何人";
 "no_bots" = "没有机器人";
-"no_collectibles" = "没有藏品";
 "no_collectibles" = "没有藏品";
 "no_contacts" = "没有联系人";
 "no_files" = "没有文件";

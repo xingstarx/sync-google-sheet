@@ -67,10 +67,10 @@
 	<string name="Agree_and_Continue">同意並繼續</string>
 	<string name="alert_key_contact_audio_call_message">發起了語音通話</string>
 	<string name="alert_key_contact_audio_message">傳送一條語音</string>
+	<string name="alert_key_contact_collectible_message">傳送一個藏品</string>
 	<string name="alert_key_contact_contact_message">分享了一個聯絡人</string>
 	<string name="alert_key_contact_data_message">傳送一個檔案</string>
 	<string name="alert_key_contact_image_message">傳送一張照片</string>
-	<string name="alert_key_contact_inscription_message">傳送一個藏品</string>
 	<string name="alert_key_contact_live_message">傳送一個直播</string>
 	<string name="alert_key_contact_location_message">傳送了一個位置</string>
 	<string name="alert_key_contact_post_message">傳送了一篇文章</string>
@@ -278,7 +278,7 @@
 	<string name="Close">關閉</string>
 	<string name="Closing_Balance">期末餘額</string>
 	<string name="Collectible">藏品</string>
-	<string name="Collectibles">收藏</string>
+	<string name="Collectibles">藏品</string>
 	<string name="Collection">合集</string>
 	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Combine_utxo">歸集 UTXO</string>
@@ -618,6 +618,7 @@
 	<string name="group_role">你現在成為管理員</string>
 	<string name="Groups_In_Common">共同群組</string>
 	<string name="Hang_up">結束通話</string>
+	<string name="HASH">HASH</string>
 	<string name="Help_center">幫助中心</string>
 	<string name="Hidden">隱藏</string>
 	<string name="Hidden_Assets">隱藏的資產</string>
@@ -629,6 +630,7 @@
 		<item quantity="other">%d 小時</item>
 	</plurals>
 	<string name="I_know">我知道了</string>
+	<string name="ID">ID</string>
 	<string name="identity_verification_description">正在驗證您的身份。一旦您的驗證完成，我們將透過 Mixin Messenger 向您傳送訊息。</string>
 	<string name="identity_verifying">正在稽核</string>
 	<string name="image_shareable_false">該圖片已被設定為不允許轉發</string>
@@ -796,7 +798,6 @@
 	<string name="NO_BOTS">沒有機器人</string>
 	<string name="No_camera">沒有相機</string>
 	<string name="no_collectibles">沒有藏品</string>
-	<string name="NO_COLLECTIBLES">沒有藏品</string>
 	<string name="NO_DAPP">沒有 dApp</string>
 	<string name="No_deposits">暫無充值記錄</string>
 	<string name="No_fees">暫無手續費記錄</string>
