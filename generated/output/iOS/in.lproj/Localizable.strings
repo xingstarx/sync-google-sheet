@@ -285,7 +285,7 @@
 "contact_title" = "Contacts";
 "contacts" = "KONTAK";
 "content_audio" = "[Audio]";
-"content_collection" = "[Collectible]";
+"content_collectible" = "[Collectible]";
 "content_contact" = "[Kontak]";
 "content_deposit" = "[Deposit]";
 "content_fee" = "[Fee]";

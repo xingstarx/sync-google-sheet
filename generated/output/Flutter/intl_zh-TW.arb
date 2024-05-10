@@ -227,7 +227,7 @@
 "groupPopMenuRemove" : "移除 {arg0}",
 "groups" : "群組",
 "groupsInCommon" : "共同群組",
-"hash" : "HASH",
+"hash" : "雜湊",
 "help" : "幫助",
 "helpCenter" : "幫助中心",
 "hideMixin" : "隱藏 Mixin",

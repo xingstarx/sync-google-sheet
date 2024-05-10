@@ -286,7 +286,7 @@
 "contact_title" = "Contacts";
 "contacts" = "KENALAN";
 "content_audio" = "[Audio]";
-"content_collection" = "[Collectible]";
+"content_collectible" = "[Collectible]";
 "content_contact" = "[Hubungi]";
 "content_deposit" = "[Deposit]";
 "content_fee" = "[Fee]";

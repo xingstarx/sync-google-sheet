@@ -319,7 +319,7 @@
 	<string name="contact_support">聯絡客服</string>
 	<string name="CONTACTS">聯絡人</string>
 	<string name="content_audio">[語音]</string>
-	<string name="content_collection">[藏品]</string>
+	<string name="content_collectible">[藏品]</string>
 	<string name="content_contact">[聯絡人]</string>
 	<string name="content_file">[檔案]</string>
 	<string name="content_group_call">[群組語音]</string>
@@ -618,7 +618,7 @@
 	<string name="group_role">你現在成為管理員</string>
 	<string name="Groups_In_Common">共同群組</string>
 	<string name="Hang_up">結束通話</string>
-	<string name="HASH">HASH</string>
+	<string name="HASH">雜湊</string>
 	<string name="Help_center">幫助中心</string>
 	<string name="Hidden">隱藏</string>
 	<string name="Hidden_Assets">隱藏的資產</string>

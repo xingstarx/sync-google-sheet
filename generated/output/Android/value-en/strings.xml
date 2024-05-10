@@ -324,7 +324,7 @@
 	<string name="contact_support">Contact Support</string>
 	<string name="CONTACTS">CONTACTS</string>
 	<string name="content_audio">[Audio]</string>
-	<string name="content_collection">[Collectible]</string>
+	<string name="content_collectible">[Collectible]</string>
 	<string name="content_contact">[Contact]</string>
 	<string name="content_file">[File]</string>
 	<string name="content_group_call">[Group Call]</string>

@@ -285,7 +285,7 @@
 "contact_title" = "聯繫人";
 "contacts" = "聯繫人";
 "content_audio" = "[語音]";
-"content_collection" = "[藏品]";
+"content_collectible" = "[藏品]";
 "content_contact" = "[聯繫人]";
 "content_deposit" = "充值";
 "content_fee" = "[手續費]";
@@ -537,7 +537,7 @@
 "group_participant_add_limit" = "不能再添加成員，一次最多添加 50 個。";
 "group_qr_code_prompt" = "掃描二維碼加入羣組";
 "groups_in_common" = "共同羣組";
-"hash" = "HASH";
+"hash" = "哈希";
 "help" = "幫助";
 "help_center" = "幫助中心";
 "hidden_assets" = "隱藏的資產";
