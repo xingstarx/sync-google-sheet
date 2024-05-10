@@ -1887,7 +1887,7 @@
   <string name="NO_COLLECTIBLES" platform="android, iOS">NO_COLLECTIBLES</string>
   <string name="HASH" platform="android, iOS, Desktop">HASH</string>
   <string name="ID" platform="android, iOS">ID</string>
-  <string name="Collection" platform="android, iOS">Collection</string>
+  <string name="Collection" platform="android, iOS, Desktop">Collection</string>
   <string name="NFT_TOKEN" platform="android, iOS">NFT TOKEN</string>
   <string name="Collectible" platform="android, iOS">Collectibles</string>
   <string name="search_placeholder_inscription" platform="android, iOS">Search name</string>

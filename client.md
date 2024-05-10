@@ -1888,7 +1888,7 @@
 | android, iOS | NO_COLLECTIBLES | NO_COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS, Desktop | HASH | HASH |     |     |     |     |
 | android, iOS | ID  | ID  |     |     |     |     |
-| android, iOS | Collection | Collection | 合集  |     |     |     |
+| android, iOS, Desktop | Collection | Collection | 合集  |     |     |     |
 | android, iOS | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
 | android, iOS | Collectible | Collectibles | 藏品  |     |     |     |
 | android, iOS | search_placeholder_inscription | Search name | 搜索名称 |     |     |     |
