@@ -1887,10 +1887,10 @@
 | android, iOS | content_collection | [Collectibles] | [藏品] |     |     |     |
 | android, iOS | NO_COLLECTIBLES | NO_COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS, Desktop | HASH | HASH |     |     |     |     |
-| android, iOS | ID  | ID  |     |     |     |     |
+| android, iOS, Desktop | ID  | ID  |     |     |     |     |
 | android, iOS, Desktop | Collection | Collection | 合集  |     |     |     |
-| android, iOS | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
-| android, iOS | Collectible | Collectibles | 藏品  |     |     |     |
+| android, iOS, Desktop | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
+| android, iOS, Desktop | Collectible | Collectibles | 藏品  |     |     |     |
 | android, iOS | search_placeholder_inscription | Search name | 搜索名称 |     |     |     |
 | android, iOS | alert_key_contact_inscription_message | sent you a inscription | 发送一个藏品 |     |     |     |
 | android, iOS | inscription_Hash | Inscription Hash | 藏品 Hash |     |     |     |
