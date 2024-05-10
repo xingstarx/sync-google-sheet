@@ -53,6 +53,7 @@
 "alert_key_contact_contact_message" = "連絡先が届きました";
 "alert_key_contact_data_message" = "ファイルが届きました";
 "alert_key_contact_image_message" = "画像が届きました";
+"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "配信が届きました";
 "alert_key_contact_location_message" = "位置情報が届きました";
 "alert_key_contact_message" = "メッセージが届きました";
@@ -242,8 +243,10 @@
 "clock_skew_hint" = "設定を変更してください。 設定 > 一般 > 日付と時刻 > 自動設定をオン";
 "close" = "閉じる";
 "closing_balance" = "Closing Balance";
+"collectible" = "Collectible";
 "collectible_token_id" = "#%@";
 "collectibles" = "Collectibles";
+"collection" = "Collection";
 "combine_and_forward" = "まとめて転送";
 "combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
@@ -282,6 +285,7 @@
 "contact_title" = "連絡先";
 "contacts" = "連絡先";
 "content_audio" = "[音声メッセージ]";
+"content_collection" = "[Collectibles]";
 "content_contact" = "[連絡先]";
 "content_deposit" = "[入金]";
 "content_fee" = "[手数料]";
@@ -533,6 +537,7 @@
 "group_participant_add_limit" = "一度に追加できるメンバーは最大50人です";
 "group_qr_code_prompt" = "QRコードをスキャンしてこのグループに参加";
 "groups_in_common" = "共通のグループ";
+"hash" = "HASH";
 "help" = "ヘルプ";
 "help_center" = "ヘルプセンター";
 "hidden_assets" = "非表示資産";
@@ -544,6 +549,7 @@
 "hour_count" = "%d時間";
 "how_are_you" = "こんにちは、調子はどうですか";
 "i_am_good" = "いい気分";
+"id" = "ID";
 "identity_verification_description" = "Your identity is being verified. We will send you a message once your verification has completed.";
 "identity_verifying" = "Identity Verifying";
 "image" = "画像";
@@ -556,6 +562,7 @@
 "incoming_voice_call" = "着信";
 "info" = "プロフィール";
 "initializing" = "初期化中...";
+"inscription_hash" = "Inscription Hash";
 "insufficient_balance" = "残高が不足しています";
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "取引手数料が不足しています";
@@ -698,11 +705,13 @@
 "new_price" = "New Price";
 "new_wallet_hint" = "簡単に仮想通貨をやり取りできるウォレットを作成しよう！";
 "next" = "次へ";
+"nft_token" = "NFT TOKEN";
 "no_audio" = "音声メッセージがありません";
 "no_authorizations" = "権限がありません";
 "no_blocked_users" = "ブロック済みのユーザーはいません";
 "no_bots" = "ミニアプリがありません";
 "no_collectibles" = "NO COLLECTIBLES";
+"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "友達未追加";
 "no_files" = "ファイルがありません";
 "no_hidden_assets" = "非表示資産はありません";
@@ -941,6 +950,7 @@
 "search_placeholder_asset" = "名前、シンボル";
 "search_placeholder_contact" = "Mixin ID, 名前, 電話番号";
 "search_placeholder_dapp" = "Name, URL";
+"search_placeholder_inscription" = "Search name";
 "search_placeholder_number" = "Mixin ID または電話番号を検索";
 "search_related_message" = "%d個の関連するメッセージ";
 "search_related_message_count" = "%d個の関連するメッセージ";

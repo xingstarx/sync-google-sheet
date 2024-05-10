@@ -53,6 +53,7 @@
 "alert_key_contact_contact_message" = "分享了一个联系人";
 "alert_key_contact_data_message" = "发送一个文件";
 "alert_key_contact_image_message" = "发送一张照片";
+"alert_key_contact_inscription_message" = "发送一个藏品";
 "alert_key_contact_live_message" = "发送一个直播";
 "alert_key_contact_location_message" = "发送了一个位置";
 "alert_key_contact_message" = "发送一条消息";
@@ -242,8 +243,10 @@
 "clock_skew_hint" = "请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。";
 "close" = "关闭";
 "closing_balance" = "期末余额";
+"collectible" = "藏品";
 "collectible_token_id" = "#%@";
-"collectibles" = "藏品";
+"collectibles" = "收藏";
+"collection" = "合集";
 "combine_and_forward" = "合并转发";
 "combine_utxo" = "归集 UTXO";
 "coming_soon_to_your_region" = "即将来到您的地区！";
@@ -282,6 +285,7 @@
 "contact_title" = "联系人";
 "contacts" = "联系人";
 "content_audio" = "[语音]";
+"content_collection" = "[藏品]";
 "content_contact" = "[联系人]";
 "content_deposit" = "充值";
 "content_fee" = "[手续费]";
@@ -533,6 +537,7 @@
 "group_participant_add_limit" = "不能再添加成员，一次最多添加 50 个。";
 "group_qr_code_prompt" = "扫描二维码加入群组";
 "groups_in_common" = "共同群组";
+"hash" = "HASH";
 "help" = "帮助";
 "help_center" = "帮助中心";
 "hidden_assets" = "隐藏的资产";
@@ -544,6 +549,7 @@
 "hour_count" = "%d 小时";
 "how_are_you" = "嗨，你好吗？";
 "i_am_good" = "我很好。";
+"id" = "ID";
 "identity_verification_description" = "正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。";
 "identity_verifying" = "正在审核";
 "image" = "图像";
@@ -556,6 +562,7 @@
 "incoming_voice_call" = "语音通话来电";
 "info" = "信息";
 "initializing" = "初始化...";
+"inscription_hash" = "藏品 Hash";
 "insufficient_balance" = "余额不足";
 "insufficient_gas" = "您的账户中没有足够的 %@ 来支付网络费用";
 "insufficient_transaction_fee" = "手续费不足";
@@ -698,10 +705,12 @@
 "new_price" = "最新价格";
 "new_wallet_hint" = "创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。";
 "next" = "下一步";
+"nft_token" = "NFT 代币";
 "no_audio" = "没有音频";
 "no_authorizations" = "没有授权任何机器人";
 "no_blocked_users" = "没有屏蔽任何人";
 "no_bots" = "没有机器人";
+"no_collectibles" = "没有藏品";
 "no_collectibles" = "没有藏品";
 "no_contacts" = "没有联系人";
 "no_files" = "没有文件";
@@ -941,6 +950,7 @@
 "search_placeholder_asset" = "名称, 符号";
 "search_placeholder_contact" = "Mixin ID, 名称, 手机号码";
 "search_placeholder_dapp" = "名称, URL";
+"search_placeholder_inscription" = "搜索名称";
 "search_placeholder_number" = "搜索 Mixin ID 或手机号码：";
 "search_related_message" = "%d 条相关的消息";
 "search_related_message_count" = "%d 条相关的消息";

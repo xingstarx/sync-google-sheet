@@ -53,6 +53,7 @@
 "alert_key_contact_contact_message" = "te ha enviado un contacto";
 "alert_key_contact_data_message" = "te ha enviado un archivo";
 "alert_key_contact_image_message" = "te ha enviado una foto";
+"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "te ha enviado una transmisión en vivo";
 "alert_key_contact_location_message" = "te ha enviado una ubicación";
 "alert_key_contact_message" = "te ha enviado un mensaje";
@@ -242,8 +243,10 @@
 "clock_skew_hint" = "Continúa usándolo nuevamente después de la corrección. Configuración > General > Fecha y hora > Activar Establecer automáticamente";
 "close" = "Cerrar";
 "closing_balance" = "Closing Balance";
+"collectible" = "Collectible";
 "collectible_token_id" = "#%@";
 "collectibles" = "Collectibles";
+"collection" = "Collection";
 "combine_and_forward" = "Combinar y avanzar";
 "combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
@@ -282,6 +285,7 @@
 "contact_title" = "Contactos";
 "contacts" = "CONTACTOS";
 "content_audio" = "[Audio]";
+"content_collection" = "[Collectibles]";
 "content_contact" = "[Contacto]";
 "content_deposit" = "[Depósito]";
 "content_fee" = "[Tarifa]";
@@ -533,6 +537,7 @@
 "group_participant_add_limit" = "No puede añadir a este participante porque solo puede añadir hasta 50 a la vez.";
 "group_qr_code_prompt" = "Escanea el código QR para unirte a este grupo";
 "groups_in_common" = "Grupos en común";
+"hash" = "HASH";
 "help" = "Ayuda";
 "help_center" = "Centro de ayuda";
 "hidden_assets" = "Activos ocultos";
@@ -544,6 +549,7 @@
 "hour_count" = "%d Horas";
 "how_are_you" = "¿Hola, cómo estás?";
 "i_am_good" = "Estoy bien.";
+"id" = "ID";
 "identity_verification_description" = "Your identity is being verified. We will send you a message once your verification has completed.";
 "identity_verifying" = "Identity Verifying";
 "image" = "imagen";
@@ -556,6 +562,7 @@
 "incoming_voice_call" = "Llamada de voz entrante";
 "info" = "Información";
 "initializing" = "Inicializando...";
+"inscription_hash" = "Inscription Hash";
 "insufficient_balance" = "Insufficient balance";
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Tarifa de transacción insuficiente";
@@ -698,11 +705,13 @@
 "new_price" = "New Price";
 "new_wallet_hint" = "Crea tu primera cartera digital, todos tus activos digitales en una cartera, envía y recibe fácilmente criptomonedas.";
 "next" = "Próximo";
+"nft_token" = "NFT TOKEN";
 "no_audio" = "SIN AUDIO";
 "no_authorizations" = "SIN AUTORIZACIONES";
 "no_blocked_users" = "Sin usuarios bloqueados";
 "no_bots" = "SIN BOTS";
 "no_collectibles" = "NO COLLECTIBLES";
+"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "SIN CONTACTOS";
 "no_files" = "SIN ARCHIVOS";
 "no_hidden_assets" = "Sin activos ocultos";
@@ -941,6 +950,7 @@
 "search_placeholder_asset" = "Nombre, Símbolo";
 "search_placeholder_contact" = "Mixin ID, nombre, número de teléfono";
 "search_placeholder_dapp" = "Name, URL";
+"search_placeholder_inscription" = "Search name";
 "search_placeholder_number" = "Buscar Mixin ID o número de teléfono: ";
 "search_related_message" = "%d mensaje relacionado";
 "search_related_message_count" = "%d mensajes relacionados";

@@ -70,6 +70,7 @@
 	<string name="alert_key_contact_contact_message">分享了一個聯絡人</string>
 	<string name="alert_key_contact_data_message">傳送一個檔案</string>
 	<string name="alert_key_contact_image_message">傳送一張照片</string>
+	<string name="alert_key_contact_inscription_message">傳送一個藏品</string>
 	<string name="alert_key_contact_live_message">傳送一個直播</string>
 	<string name="alert_key_contact_location_message">傳送了一個位置</string>
 	<string name="alert_key_contact_post_message">傳送了一篇文章</string>
@@ -276,7 +277,9 @@
 	<string name="Click_to_unlock">點選解鎖</string>
 	<string name="Close">關閉</string>
 	<string name="Closing_Balance">期末餘額</string>
-	<string name="Collectibles">藏品</string>
+	<string name="Collectible">藏品</string>
+	<string name="Collectibles">收藏</string>
+	<string name="Collection">合集</string>
 	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Combine_utxo">歸集 UTXO</string>
 	<string name="Confirm">確認</string>
@@ -316,6 +319,7 @@
 	<string name="contact_support">聯絡客服</string>
 	<string name="CONTACTS">聯絡人</string>
 	<string name="content_audio">[語音]</string>
+	<string name="content_collection">[藏品]</string>
 	<string name="content_contact">[聯絡人]</string>
 	<string name="content_file">[檔案]</string>
 	<string name="content_group_call">[群組語音]</string>
@@ -634,6 +638,7 @@
 	<string name="Incognito_Keyboard">隱身鍵盤</string>
 	<string name="Incoming_voice_call">語音通話來電</string>
 	<string name="Initializing">初始化…</string>
+	<string name="inscription_Hash">藏品 Hash</string>
 	<string name="insufficient_balance">餘額不足</string>
 	<string name="insufficient_gas">您的賬戶中沒有足夠的 %1$s 來支付網路費用</string>
 	<string name="Invalid_Address">無效的地址</string>
@@ -783,6 +788,7 @@
 	<string name="new_price">最新價格</string>
 	<string name="new_wallet_hint">建立你的第一個數字錢包，所有資產都在一個錢包，收發加密資產簡單易用。</string>
 	<string name="Next">下一步</string>
+	<string name="NFT_TOKEN">NFT 代幣</string>
 	<string name="NO_AUDIO">沒有音訊</string>
 	<string name="NO_AUTHORIZATIONS">沒有授權任何機器人</string>
 	<string name="No_Available_Assets">沒有可用資產</string>
@@ -790,6 +796,7 @@
 	<string name="NO_BOTS">沒有機器人</string>
 	<string name="No_camera">沒有相機</string>
 	<string name="no_collectibles">沒有藏品</string>
+	<string name="NO_COLLECTIBLES">沒有藏品</string>
 	<string name="NO_DAPP">沒有 dApp</string>
 	<string name="No_deposits">暫無充值記錄</string>
 	<string name="No_fees">暫無手續費記錄</string>
@@ -1029,6 +1036,7 @@
 	<string name="search_placeholder_address">名稱, 地址</string>
 	<string name="search_placeholder_asset">名稱, 符號</string>
 	<string name="search_placeholder_dapp">名稱, URL</string>
+	<string name="search_placeholder_inscription">搜尋名稱</string>
 	<string name="search_placeholder_number">搜尋 Mixin ID 或手機號碼：</string>
 	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 條相關的訊息</item>

@@ -53,6 +53,7 @@
 "alert_key_contact_contact_message" = "berkongsi kenalan";
 "alert_key_contact_data_message" = "hantar fail";
 "alert_key_contact_image_message" = "menghantar foto kepada anda";
+"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "menghantar anda secara langsung";
 "alert_key_contact_location_message" = "hantar lokasi";
 "alert_key_contact_message" = "sent you a message";
@@ -243,8 +244,10 @@
 "clock_skew_hint" = "Please continue to use again after correction. Settings > General > Date & Time > Turn on Set Automatically";
 "close" = "Close";
 "closing_balance" = "Closing Balance";
+"collectible" = "Collectible";
 "collectible_token_id" = "#%@";
 "collectibles" = "Collectibles";
+"collection" = "Collection";
 "combine_and_forward" = "Combine and forward";
 "combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
@@ -283,6 +286,7 @@
 "contact_title" = "Contacts";
 "contacts" = "KENALAN";
 "content_audio" = "[Audio]";
+"content_collection" = "[Collectibles]";
 "content_contact" = "[Hubungi]";
 "content_deposit" = "[Deposit]";
 "content_fee" = "[Fee]";
@@ -534,6 +538,7 @@
 "group_participant_add_limit" = "You can’t add this participant because only add up to 50 at a time.";
 "group_qr_code_prompt" = "Scan the QR Code to join this group";
 "groups_in_common" = "Groups in Common";
+"hash" = "HASH";
 "help" = "Help";
 "help_center" = "Pusat bantuan";
 "hidden_assets" = "Aset Tersembunyi";
@@ -545,6 +550,7 @@
 "hour_count" = "%d Jam";
 "how_are_you" = "Hi, how are you?";
 "i_am_good" = "I’m good.";
+"id" = "ID";
 "identity_verification_description" = "Your identity is being verified. We will send you a message once your verification has completed.";
 "identity_verifying" = "Identity Verifying";
 "image" = "image";
@@ -557,6 +563,7 @@
 "incoming_voice_call" = "Panggilan suara masuk";
 "info" = "Info";
 "initializing" = "Memulakan...";
+"inscription_hash" = "Inscription Hash";
 "insufficient_balance" = "Baki tidak mencukupi";
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Insufficient transaction fee";
@@ -699,11 +706,13 @@
 "new_price" = "New Price";
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "next" = "Seterusnya";
+"nft_token" = "NFT TOKEN";
 "no_audio" = "TIADA AUDIO";
 "no_authorizations" = "Tiada aplikasi autentik";
 "no_blocked_users" = "Tiada pengguna yang disekat";
 "no_bots" = "TIADA APLIKASI";
 "no_collectibles" = "NO COLLECTIBLES";
+"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "NO CONTACTS";
 "no_files" = "TIADA FAIL";
 "no_hidden_assets" = "Tiada aset tersembunyi";
@@ -942,6 +951,7 @@
 "search_placeholder_asset" = "Name, Symbol";
 "search_placeholder_contact" = "Mixin ID, Name, Phone number";
 "search_placeholder_dapp" = "Name, URL";
+"search_placeholder_inscription" = "Search name";
 "search_placeholder_number" = "Search Mixin ID or phone number: ";
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d mesej berkaitan";

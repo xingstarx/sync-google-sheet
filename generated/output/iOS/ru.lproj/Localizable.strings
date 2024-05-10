@@ -53,6 +53,7 @@
 "alert_key_contact_contact_message" = "отправил вам контакт";
 "alert_key_contact_data_message" = "отправил вам файл";
 "alert_key_contact_image_message" = "отправил вам фото";
+"alert_key_contact_inscription_message" = "sent you a inscription";
 "alert_key_contact_live_message" = "отправил вам прямую трансляцию";
 "alert_key_contact_location_message" = "отправил вам местоположение";
 "alert_key_contact_message" = "отправил вам сообщение";
@@ -242,8 +243,10 @@
 "clock_skew_hint" = "Пожалуйста, продолжайте использовать снова после исправления. «Настройки» > «Основные» > «Дата и время» > «Включить автоматическую установку»";
 "close" = "Закрыть";
 "closing_balance" = "Closing Balance";
+"collectible" = "Collectible";
 "collectible_token_id" = "#%@";
 "collectibles" = "Collectibles";
+"collection" = "Collection";
 "combine_and_forward" = "Объединить и вперед";
 "combine_utxo" = "Combine UTXOs";
 "coming_soon_to_your_region" = "Coming soon to your region!";
@@ -282,6 +285,7 @@
 "contact_title" = "Контакты";
 "contacts" = "КОНТАКТЫ";
 "content_audio" = "[Аудио]";
+"content_collection" = "[Collectibles]";
 "content_contact" = "[Контакт]";
 "content_deposit" = "[Депозит]";
 "content_fee" = "[Комиссия]";
@@ -533,6 +537,7 @@
 "group_participant_add_limit" = "Вы не можете добавить этого участника, потому что за раз можно добавить не более 50 человек.";
 "group_qr_code_prompt" = "Отсканируйте QR-код, чтобы присоединиться к этой группе";
 "groups_in_common" = "Общие группы";
+"hash" = "HASH";
 "help" = "Помощь";
 "help_center" = "Центр помощи";
 "hidden_assets" = "Скрытые активы";
@@ -544,6 +549,7 @@
 "hour_count" = "%d часы";
 "how_are_you" = "Привет, как дела?";
 "i_am_good" = "Я в порядке.";
+"id" = "ID";
 "identity_verification_description" = "Your identity is being verified. We will send you a message once your verification has completed.";
 "identity_verifying" = "Identity Verifying";
 "image" = "изображение";
@@ -556,6 +562,7 @@
 "incoming_voice_call" = "Входящий голосовой вызов";
 "info" = "Информация";
 "initializing" = "Инициализация...";
+"inscription_hash" = "Inscription Hash";
 "insufficient_balance" = "Insufficient balance";
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Недостаточная комиссия за транзакцию";
@@ -698,11 +705,13 @@
 "new_price" = "New Price";
 "new_wallet_hint" = "Создайте свой первый цифровой кошелек, все ваши цифровые активы в одном кошельке, легко отправляйте и получайте криптовалюту.";
 "next" = "Следующий";
+"nft_token" = "NFT TOKEN";
 "no_audio" = "НЕТ АУДИО";
 "no_authorizations" = "НЕТ РАЗРЕШЕНИЙ";
 "no_blocked_users" = "Нет заблокированных пользователей";
 "no_bots" = "НЕТ БОТОВ";
 "no_collectibles" = "NO COLLECTIBLES";
+"no_collectibles" = "NO_COLLECTIBLES";
 "no_contacts" = "НЕТ КОНТАКТОВ";
 "no_files" = "ФАЙЛОВ НЕТ";
 "no_hidden_assets" = "Нет скрытых активов";
@@ -941,6 +950,7 @@
 "search_placeholder_asset" = "Имя, Символ";
 "search_placeholder_contact" = "Mixin ID, имя, номер телефона";
 "search_placeholder_dapp" = "Name, URL";
+"search_placeholder_inscription" = "Search name";
 "search_placeholder_number" = "Найдите Mixin ID или номер телефона: ";
 "search_related_message" = "%d связанное сообщение";
 "search_related_message_count" = "%d похожие сообщения";
