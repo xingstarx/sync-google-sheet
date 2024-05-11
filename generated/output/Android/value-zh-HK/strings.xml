@@ -1037,7 +1037,7 @@
 	<string name="search_placeholder_address">名稱, 地址</string>
 	<string name="search_placeholder_asset">名稱, 符號</string>
 	<string name="search_placeholder_dapp">名稱, URL</string>
-	<string name="search_placeholder_inscription">搜索名稱</string>
+	<string name="search_placeholder_inscription">名稱</string>
 	<string name="search_placeholder_number">搜索 Mixin ID 或手機號碼：</string>
 	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 條相關的消息</item>
