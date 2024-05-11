@@ -562,7 +562,7 @@
 "incoming_voice_call" = "語音通話來電";
 "info" = "信息";
 "initializing" = "初始化...";
-"inscription_hash" = "藏品 Hash";
+"inscription_hash" = "藏品哈希";
 "insufficient_balance" = "餘額不足";
 "insufficient_gas" = "您的賬户中沒有足夠的 %@ 來支付網絡費用";
 "insufficient_transaction_fee" = "手續費不足";

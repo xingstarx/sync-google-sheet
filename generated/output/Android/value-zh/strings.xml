@@ -640,7 +640,7 @@
 	<string name="Incognito_Keyboard">隐身键盘</string>
 	<string name="Incoming_voice_call">语音通话来电</string>
 	<string name="Initializing">初始化…</string>
-	<string name="inscription_Hash">藏品 Hash</string>
+	<string name="inscription_Hash">藏品哈希</string>
 	<string name="insufficient_balance">余额不足</string>
 	<string name="insufficient_gas">您的账户中没有足够的 %1$s 来支付网络费用</string>
 	<string name="Invalid_Address">无效的地址</string>
