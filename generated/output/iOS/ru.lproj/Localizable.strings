@@ -136,6 +136,9 @@
 "backup_disable_hint" = "Войдите в iCloud, чтобы создать резервную копию своей истории. Настройки > iCloud > Включить iCloud Drive.";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Баланс";
+"balance_half" = "HALF";
+"balance_max" = "MAX";
+"best_price" = "Best price";
 "block" = "Блокировать";
 "block_hint" = "Заблокированные контакты больше не смогут звонить вам или отправлять вам сообщения";
 "block_tip" = "Заблокированные пользователи не могут отправлять вам сообщения или добавлять вас в группы.";
@@ -260,6 +263,7 @@
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
+"confirming_transaction" = "Confirming Transaction";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
@@ -306,6 +310,7 @@
 "continue" = "Продолжить";
 "continue_open_url" = "Продолжить Открыть URL";
 "continue_with_pin" = "Continue with PIN";
+"contract" = "Contract";
 "conversation" = "Беседа";
 "conversation_has_too_many_circles" = "В беседе слишком много кругов";
 "conversation_not_found" = "Разговор не найден.";
@@ -765,6 +770,7 @@
 "owner" = "Владелец";
 "participants" = "Участники";
 "participants_count" = "%@ УЧАСТНИКОВ";
+"pay" = "Pay";
 "pay_paid" = "Эта платежная ссылка уже кем-то оплачена, повторный платеж сделать нельзя.";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin" = "Оплатить PIN-кодом";
@@ -861,6 +867,7 @@
 "receive" = "ПОЛУЧИТЬ";
 "receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "Получить деньги";
+"received" = "received";
 "receiver" = "Получатель";
 "receivers" = "Получатели";
 "recent" = "Recent";
@@ -918,6 +925,7 @@
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"review_order" = "Review Order";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Отменить доступ";
@@ -954,6 +962,7 @@
 "search_related_message" = "%d связанное сообщение";
 "search_related_message_count" = "%d похожие сообщения";
 "search_result_prefix_phone" = "Номер телефона: ";
+"search_swap_token" = "Search by token or address";
 "secured_by_tip" = "Secured by TIP";
 "security" = "Безопасность";
 "security_code" = "Security code";
@@ -966,6 +975,7 @@
 "select_emergency_contact" = "Выберите экстренный контакт";
 "select_more_photos" = "Выберите больше фотографий";
 "select_payment_method" = "Select Payment Method";
+"select_token" = "Select Token";
 "selected_count" = "%@ Выбрано";
 "selected_item" = "Выбрано 1 элемент";
 "selected_item_count" = "Выбрано %d элементов";
@@ -1056,6 +1066,14 @@
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "Пропустить";
 "slide_to_cancel" = "Сдвиньте, чтобы отменить";
+"slippage" = "Slippage";
+"slippage_auto" = "Auto";
+"slippage_auto_desc" = "Recommends the right slippage for different currencies to help you trade successfully";
+"slippage_custom" = "Custom";
+"slippage_custom_desc" = "Trades will be executed according to the slippage you set";
+"slippage_high_warning" = "Your transaction may be frontrun and result in an unfavourable trade";
+"slippage_invalid" = "Slippage cannot be greater than 50% and cannot be less than 0.1%";
+"slippage_tolerance_exceeded" = "Slippage tolerance exceeded";
 "slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Снимок не найден.";
@@ -1081,6 +1099,9 @@
 "sumsub_not_ready" = "KYC not available";
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Подозрительная ссылка";
+"swap" = "Swap";
+"swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "Символ";
 "symbol_withdrawal" = "%@ Снятие средств";
@@ -1114,9 +1135,11 @@
 "touch_id" = "Сенсорный идентификатор";
 "track_not_found" = "Трек не найден";
 "transaction" = "Сделка";
+"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Хэш транзакции";
 "transaction_id" = "ID транзакции";
 "transaction_request" = "Transaction Request";
+"transaction_success" = "Transaction Success";
 "transaction_type" = "Тип операции";
 "transactions" = "Транзакции";
 "transactions_cannot_be_deleted" = "Транзакции НЕ МОГУТ быть удалены";
@@ -1228,7 +1251,9 @@
 "videos" = "Видео";
 "view_authorization" = "Просмотр авторизации";
 "view_emergency_contact" = "Посмотреть экстренный контакт";
+"view_on_explorer" = "View on Explorer";
 "view_storage" = "View Storage";
+"view_transaction" = "View Transaction";
 "view_wallet" = "Посмотреть кошелек";
 "voice_call_cancelled" = "голосовой вызов отменен";
 "voice_call_has_been_declined" = "Голосовой вызов был отклонен";

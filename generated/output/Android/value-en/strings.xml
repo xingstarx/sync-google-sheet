@@ -156,6 +156,9 @@
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
 	<string name="Backup_success">Backup success</string>
+	<string name="balance_half">HALF</string>
+	<string name="balance_max">MAX</string>
+	<string name="Best_price">Best price</string>
 	<string name="Biometric_Payment">Biometric Payment</string>
 	<string name="Block">Block</string>
 	<string name="block_tip">Blocked users can\'t send you messages or add you to groups.</string>
@@ -297,6 +300,7 @@
 	<string name="Confirm_Transfer">Confirm Transfer</string>
 	<string name="Confirm_Withdrawal">Confirm Withdrawal</string>
 	<string name="Confirmations">Confirmations</string>
+	<string name="Confirming_Transaction">Confirming Transaction</string>
 	<string name="Connect">Connect</string>
 	<string name="Connect_to_TIP_network_failed">Unable to connect to TIP network. Check your connection and try again.</string>
 	<string name="connect_wallet">Connect Wallet</string>
@@ -344,6 +348,7 @@
 	<string name="Continue_need_verify_your_PIN">Continue need to verify your old PIN and new PIN</string>
 	<string name="Continue_Open_URL">Continue Open URL</string>
 	<string name="continue_with_pin">Continue with PIN</string>
+	<string name="Contract">Contract</string>
 	<string name="Conversation">Conversation</string>
 	<string name="conversation_delete_tip">Once deleted, all this chat messages will be cleared</string>
 	<string name="conversation_delete_title">Delete chat: %1$s</string>
@@ -878,6 +883,7 @@
 	<string name="parse_dns_result">Parse DNS result: </string>
 	<string name="Participants">Participants</string>
 	<string name="Pause">Pause</string>
+	<string name="Pay">Pay</string>
 	<string name="pay_paid">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
 	<string name="Pay_with_Biometrics">Pay with Biometrics</string>
 	<string name="Pay_with_PIN">Pay with PIN</string>
@@ -968,6 +974,7 @@
 	<string name="RECEIVE">Receive</string>
 	<string name="receive_from_address_description">From another wallet or exchange</string>
 	<string name="Receive_Money">Receive Money</string>
+	<string name="Received">received</string>
 	<string name="Receiver">Receiver</string>
 	<string name="Recent">Recent</string>
 	<string name="recent_chats">CHATS</string>
@@ -1022,6 +1029,7 @@
 	<string name="return_to_merchant_description">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
 	<string name="Review">Review</string>
 	<string name="review_address_hint">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
+	<string name="Review_Order">Review Order</string>
 	<string name="review_transfer_hint">Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.</string>
 	<string name="review_withdrawal_hint">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
 	<string name="Revoke_access">Revoke access</string>
@@ -1062,6 +1070,7 @@
 		<item quantity="one">%1$d related message</item>
 		<item quantity="other">%1$d related messages</item>
 	</plurals>
+	<string name="search_swap_token">Search by token or address</string>
 	<string name="Searching">Searching</string>
 	<string name="secret_url">https://mixin.one/pages/1000007</string>
 	<string name="Secured_by_TIP">Secured by TIP</string>
@@ -1074,6 +1083,7 @@
 	<string name="Select_All">Select All</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
 	<string name="select_payment_method">Select Payment Method</string>
+	<string name="select_token">Select Token</string>
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>
 	<string name="send_by_pin">Send by PIN</string>
@@ -1178,6 +1188,14 @@
 	<string name="Size">Size</string>
 	<string name="Skip">Skip</string>
 	<string name="Slide_to_cancel">Slide to Cancel</string>
+	<string name="Slippage">Slippage</string>
+	<string name="slippage_auto">Auto</string>
+	<string name="slippage_auto_desc">Recommends the right slippage for different currencies to help you trade successfully</string>
+	<string name="slippage_custom">Custom</string>
+	<string name="slippage_custom_desc">Trades will be executed according to the slippage you set</string>
+	<string name="slippage_high_warning">Your transaction may be frontrun and result in an unfavourable trade</string>
+	<string name="slippage_invalid">Slippage cannot be greater than 50% and cannot be less than 0.1%</string>
+	<string name="Slippage_tolerance_exceeded">Slippage tolerance exceeded</string>
 	<string name="slow">Slow</string>
 	<string name="snapshot_Hash">Snapshot Hash</string>
 	<string name="Sort">Sort</string>
@@ -1206,6 +1224,9 @@
 	<string name="Sunday">Sunday</string>
 	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
+	<string name="Swap">Swap</string>
+	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
+	<string name="Swapping">Swapping</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
 	<string name="Switching_currency">Switching currency</string>
 	<string name="Symbol">Symbol</string>
@@ -1244,9 +1265,11 @@
 	<string name="Trace">Trace</string>
 	<string name="Transaction">Transaction</string>
 	<string name="transaction_failed">Transaction Failed</string>
+	<string name="Transaction_Failed">Transaction Failed</string>
 	<string name="transaction_Hash">Transaction Hash</string>
 	<string name="Transaction_Id">Transaction Id</string>
 	<string name="transaction_request">Transaction Request</string>
+	<string name="Transaction_Success">Transaction Success</string>
 	<string name="Transaction_Type">Transaction Type</string>
 	<string name="Transactions">Transactions</string>
 	<string name="Transactions_CANNOT_be_deleted">Transactions CANNOT be deleted</string>
@@ -1363,6 +1386,8 @@
 	<string name="View">View</string>
 	<string name="View_Authorization">View Authorization</string>
 	<string name="View_emergency_contact">View emergency contact</string>
+	<string name="view_on_explorer">View on Explorer</string>
+	<string name="View_Transaction">View Transaction</string>
 	<string name="View_Wallet">View Wallet</string>
 	<string name="Voice_call">Voice call</string>
 	<string name="Waiting">Waiting</string>

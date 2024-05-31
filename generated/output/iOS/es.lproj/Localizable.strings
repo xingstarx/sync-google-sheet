@@ -136,6 +136,9 @@
 "backup_disable_hint" = "Inicie sesión en iCloud para realizar una copia de seguridad de tu historial. Configuración > iCloud > Activar iCloud Drive.";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
+"balance_half" = "HALF";
+"balance_max" = "MAX";
+"best_price" = "Best price";
 "block" = "Bloquear";
 "block_hint" = "Los contactos bloqueados ya no podrán llamarte ni enviarte mensajes";
 "block_tip" = "Los usuarios bloqueados no pueden enviarte mensajes ni añadirte a grupos.";
@@ -260,6 +263,7 @@
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
+"confirming_transaction" = "Confirming Transaction";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "No se puede conectar a la red TIP. Comprueba tu conexión e inténtalo de nuevo.";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
@@ -306,6 +310,7 @@
 "continue" = "Continuar";
 "continue_open_url" = "Continuar Abrir URL";
 "continue_with_pin" = "Continue with PIN";
+"contract" = "Contract";
 "conversation" = "Conversación";
 "conversation_has_too_many_circles" = "La conversación tiene demasiados círculos.";
 "conversation_not_found" = "Conversación no encontrada.";
@@ -765,6 +770,7 @@
 "owner" = "Propietario";
 "participants" = "Participantes";
 "participants_count" = "%@ PARTICIPANTES";
+"pay" = "Pay";
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin" = "Pagar con PIN";
@@ -861,6 +867,7 @@
 "receive" = "Recibir";
 "receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "Recibir dinero";
+"received" = "received";
 "receiver" = "Receptor";
 "receivers" = "Receptores";
 "recent" = "Recent";
@@ -918,6 +925,7 @@
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"review_order" = "Review Order";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Revocar el acceso";
@@ -954,6 +962,7 @@
 "search_related_message" = "%d mensaje relacionado";
 "search_related_message_count" = "%d mensajes relacionados";
 "search_result_prefix_phone" = "Número de teléfono: ";
+"search_swap_token" = "Search by token or address";
 "secured_by_tip" = "Protegido por TIP";
 "security" = "Seguridad";
 "security_code" = "Security code";
@@ -966,6 +975,7 @@
 "select_emergency_contact" = "Seleccionar contacto de emergencia";
 "select_more_photos" = "Seleccionar más fotos";
 "select_payment_method" = "Select Payment Method";
+"select_token" = "Select Token";
 "selected_count" = "%@ Seleccionado";
 "selected_item" = "1 artículo seleccionado";
 "selected_item_count" = "%d elementos seleccionados";
@@ -1056,6 +1066,14 @@
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "Saltar";
 "slide_to_cancel" = "Deslizar para cancelar";
+"slippage" = "Slippage";
+"slippage_auto" = "Auto";
+"slippage_auto_desc" = "Recommends the right slippage for different currencies to help you trade successfully";
+"slippage_custom" = "Custom";
+"slippage_custom_desc" = "Trades will be executed according to the slippage you set";
+"slippage_high_warning" = "Your transaction may be frontrun and result in an unfavourable trade";
+"slippage_invalid" = "Slippage cannot be greater than 50% and cannot be less than 0.1%";
+"slippage_tolerance_exceeded" = "Slippage tolerance exceeded";
 "slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Instantánea no encontrada.";
@@ -1081,6 +1099,9 @@
 "sumsub_not_ready" = "KYC not available";
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Enlace sospechoso";
+"swap" = "Swap";
+"swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "Símbolo";
 "symbol_withdrawal" = "Retiro de %@";
@@ -1114,9 +1135,11 @@
 "touch_id" = "identifición de toque";
 "track_not_found" = "Pista no encontrada";
 "transaction" = "Transacción";
+"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Hash de transacción";
 "transaction_id" = "ID de transacción";
 "transaction_request" = "Transaction Request";
+"transaction_success" = "Transaction Success";
 "transaction_type" = "Tipo de transacción";
 "transactions" = "Transacciones";
 "transactions_cannot_be_deleted" = "Las transacciones NO se pueden eliminar";
@@ -1228,7 +1251,9 @@
 "videos" = "Vídeos";
 "view_authorization" = "Ver autorización";
 "view_emergency_contact" = "Ver contacto de emergencia";
+"view_on_explorer" = "View on Explorer";
 "view_storage" = "View Storage";
+"view_transaction" = "View Transaction";
 "view_wallet" = "Ver Cartera";
 "voice_call_cancelled" = "llamada de voz cancelada";
 "voice_call_has_been_declined" = "La llamada de voz ha sido rechazada";

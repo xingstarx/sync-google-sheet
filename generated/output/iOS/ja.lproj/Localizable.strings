@@ -136,6 +136,9 @@
 "backup_disable_hint" = "履歴をバックアップするためにサインインしてください：設定＞ユーザー名＞iCloud＞iCloud Driveをオン";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "残高";
+"balance_half" = "HALF";
+"balance_max" = "MAX";
+"best_price" = "Best price";
 "block" = "ブロック";
 "block_hint" = "あなたにブロックされたユーザーは電話をかけたりメッセージを送ることができなくなります";
 "block_tip" = "ブロックされたユーザーはあなたのグループへ追加やメッセージ送信ができません";
@@ -260,6 +263,7 @@
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
+"confirming_transaction" = "Confirming Transaction";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
@@ -306,6 +310,7 @@
 "continue" = "続ける";
 "continue_open_url" = "URLを開く";
 "continue_with_pin" = "Continue with PIN";
+"contract" = "Contract";
 "conversation" = "チャットルーム";
 "conversation_has_too_many_circles" = "グループリスト数を減らしてください";
 "conversation_not_found" = "チャットルームが見つかりません";
@@ -765,6 +770,7 @@
 "owner" = "オーナー";
 "participants" = "参加者";
 "participants_count" = "%@人のメンバー";
+"pay" = "Pay";
 "pay_paid" = "この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。";
 "pay_with_biometry_type" = "%@で支払う";
 "pay_with_pin" = "PINコードで支払う";
@@ -861,6 +867,7 @@
 "receive" = "入金";
 "receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "仮想通貨を受け取る";
+"received" = "received";
 "receiver" = "受取人";
 "receivers" = "受取人";
 "recent" = "Recent";
@@ -918,6 +925,7 @@
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"review_order" = "Review Order";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "アクセスを取り消す";
@@ -954,6 +962,7 @@
 "search_related_message" = "%d個の関連するメッセージ";
 "search_related_message_count" = "%d個の関連するメッセージ";
 "search_result_prefix_phone" = "電話番号: ";
+"search_swap_token" = "Search by token or address";
 "secured_by_tip" = "Secured by TIP";
 "security" = "セキュリティ";
 "security_code" = "Security code";
@@ -966,6 +975,7 @@
 "select_emergency_contact" = "緊急連絡先を選択";
 "select_more_photos" = "さらに選択";
 "select_payment_method" = "Select Payment Method";
+"select_token" = "Select Token";
 "selected_count" = "%@を選択しています。";
 "selected_item" = "選択されたアイテム";
 "selected_item_count" = "%d件選択中";
@@ -1056,6 +1066,14 @@
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "スキップ";
 "slide_to_cancel" = "スライドしてキャンセル";
+"slippage" = "Slippage";
+"slippage_auto" = "Auto";
+"slippage_auto_desc" = "Recommends the right slippage for different currencies to help you trade successfully";
+"slippage_custom" = "Custom";
+"slippage_custom_desc" = "Trades will be executed according to the slippage you set";
+"slippage_high_warning" = "Your transaction may be frontrun and result in an unfavourable trade";
+"slippage_invalid" = "Slippage cannot be greater than 50% and cannot be less than 0.1%";
+"slippage_tolerance_exceeded" = "Slippage tolerance exceeded";
 "slow" = "低速";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "スナップショットは見つかりません";
@@ -1081,6 +1099,9 @@
 "sumsub_not_ready" = "KYC not available";
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "不審なリンクです";
+"swap" = "Swap";
+"swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "シンボル";
 "symbol_withdrawal" = "%@ 出金";
@@ -1114,9 +1135,11 @@
 "touch_id" = "指紋認証";
 "track_not_found" = "トラックが見つかりません";
 "transaction" = "トランザクション";
+"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "トランザクションハッシュ";
 "transaction_id" = "トランザクションID";
 "transaction_request" = "Transaction Request";
+"transaction_success" = "Transaction Success";
 "transaction_type" = "トランザクションタイプ";
 "transactions" = "もらった・あげたコイン💰";
 "transactions_cannot_be_deleted" = "トランザクション履歴を削除することはできません";
@@ -1228,7 +1251,9 @@
 "videos" = "動画";
 "view_authorization" = "閲覧権限";
 "view_emergency_contact" = "緊急連絡先を確認";
+"view_on_explorer" = "View on Explorer";
 "view_storage" = "View Storage";
+"view_transaction" = "View Transaction";
 "view_wallet" = "ウォレットを確認";
 "voice_call_cancelled" = "グループ通話がキャンセルされました";
 "voice_call_has_been_declined" = "権限不足です";

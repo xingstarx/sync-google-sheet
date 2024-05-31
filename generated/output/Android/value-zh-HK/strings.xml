@@ -154,6 +154,9 @@
 	<string name="backup_notification_content">正在準備備份…</string>
 	<string name="backup_notification_title">備份正在進行中</string>
 	<string name="Backup_success">備份成功</string>
+	<string name="balance_half">取半</string>
+	<string name="balance_max">最大</string>
+	<string name="Best_price">最優價格</string>
 	<string name="Biometric_Payment">生物識別支付</string>
 	<string name="Block">屏蔽用户</string>
 	<string name="block_tip">被屏蔽的用户不能給你發送消息或者邀請你加入羣聊</string>
@@ -292,6 +295,7 @@
 	<string name="Confirm_Transfer">轉賬確認</string>
 	<string name="Confirm_Withdrawal">提現確認</string>
 	<string name="Confirmations">區塊確認數</string>
+	<string name="Confirming_Transaction">正在確認交易</string>
 	<string name="Connect">連接</string>
 	<string name="Connect_to_TIP_network_failed">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
 	<string name="connect_wallet">連接錢包</string>
@@ -339,6 +343,7 @@
 	<string name="Continue_need_verify_your_PIN">繼續需要驗證你的舊 PIN 以及新 PIN</string>
 	<string name="Continue_Open_URL">繼續訪問</string>
 	<string name="continue_with_pin">輸入 PIN 繼續</string>
+	<string name="Contract">合約</string>
 	<string name="Conversation">會話</string>
 	<string name="conversation_delete_tip">刪除後，將同時清空該聊天的消息記錄</string>
 	<string name="conversation_delete_title">刪除會話：%1$s</string>
@@ -860,6 +865,7 @@
 	<string name="parse_dns_result">解析 DNS 結果</string>
 	<string name="Participants">成員</string>
 	<string name="Pause">暫停</string>
+	<string name="Pay">支付</string>
 	<string name="pay_paid">此付款鏈接已由某人支付，您無法進行重複付款。</string>
 	<string name="Pay_with_Biometrics">用生物識別支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>
@@ -949,6 +955,7 @@
 	<string name="RECEIVE">轉入</string>
 	<string name="receive_from_address_description">從其他錢包或交易所轉入</string>
 	<string name="Receive_Money">我的收款碼</string>
+	<string name="Received">收到</string>
 	<string name="Receiver">至</string>
 	<string name="Recent">最近</string>
 	<string name="recent_chats">最近聊天</string>
@@ -1003,6 +1010,7 @@
 	<string name="return_to_merchant_description">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
 	<string name="Review">預覽</string>
 	<string name="review_address_hint">請仔細檢查地址、Memo（標籤）和網絡，如果您轉錯了，資產將無法追回。</string>
+	<string name="Review_Order">預覽訂單</string>
 	<string name="review_transfer_hint">請仔細檢查收款人、網絡和金額，如果您轉錯了，資產將無法追回。</string>
 	<string name="review_withdrawal_hint">請仔細檢查收款地址、網絡和金額，如果您轉錯了，資產將無法追回。</string>
 	<string name="Revoke_access">取消授權</string>
@@ -1043,6 +1051,7 @@
 		<item quantity="one">%1$d 條相關的消息</item>
 		<item quantity="other">%1$d 條相關的消息</item>
 	</plurals>
+	<string name="search_swap_token">按代幣或合約地址搜索</string>
 	<string name="Searching">搜索中</string>
 	<string name="Secured_by_TIP">由 TIP 提供安全保障</string>
 	<string name="Security">安全</string>
@@ -1054,6 +1063,7 @@
 	<string name="Select_All">選擇所有</string>
 	<string name="Select_Emergency_Contact">選擇緊急聯繫人</string>
 	<string name="select_payment_method">選擇支付方式</string>
+	<string name="select_token">選擇代幣</string>
 	<string name="Send">發送</string>
 	<string name="Send_as_file">按檔案發送</string>
 	<string name="send_by_pin">通過 PIN 發送</string>
@@ -1157,6 +1167,14 @@
 	<string name="Size">大小</string>
 	<string name="Skip">跳過</string>
 	<string name="Slide_to_cancel">滑動取消</string>
+	<string name="Slippage">滑點</string>
+	<string name="slippage_auto">自動</string>
+	<string name="slippage_auto_desc">根據不同幣種推薦合適的滑點，幫助你交易成功</string>
+	<string name="slippage_custom">自定義</string>
+	<string name="slippage_custom_desc">將按照您設置的滑點執行交易</string>
+	<string name="slippage_high_warning">您的交易可能會搶先交易並導致不利的交易</string>
+	<string name="slippage_invalid">滑點不可大於 50% 且不可小於 0.1%</string>
+	<string name="Slippage_tolerance_exceeded">超出滑點範圍</string>
 	<string name="slow">緩慢</string>
 	<string name="snapshot_Hash">快照哈希</string>
 	<string name="Sort">排序</string>
@@ -1185,6 +1203,9 @@
 	<string name="Sunday">星期日</string>
 	<string name="suspended_deposit">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網絡硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
 	<string name="Suspicious_Link">可疑鏈接</string>
+	<string name="Swap">閃兑</string>
+	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
+	<string name="Swapping">兑換中</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
 	<string name="Switching_currency">切換貨幣中</string>
 	<string name="Symbol">符號</string>
@@ -1222,9 +1243,11 @@
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>
 	<string name="transaction_failed">轉賬失敗</string>
+	<string name="Transaction_Failed">交易失敗</string>
 	<string name="transaction_Hash">交易哈希</string>
 	<string name="Transaction_Id">交易編號</string>
 	<string name="transaction_request">請求轉賬</string>
+	<string name="Transaction_Success">交易成功</string>
 	<string name="Transaction_Type">交易類型</string>
 	<string name="Transactions">轉賬記錄</string>
 	<string name="Transactions_CANNOT_be_deleted">轉賬記錄不會被刪除</string>
@@ -1341,6 +1364,8 @@
 	<string name="View">查看</string>
 	<string name="View_Authorization">查看授權</string>
 	<string name="View_emergency_contact">查看緊急聯繫人</string>
+	<string name="view_on_explorer">在瀏覽器查看</string>
+	<string name="View_Transaction">查看區塊鏈瀏覽器</string>
 	<string name="View_Wallet">查看錢包</string>
 	<string name="Voice_call">語音通話</string>
 	<string name="Waiting">等待中</string>

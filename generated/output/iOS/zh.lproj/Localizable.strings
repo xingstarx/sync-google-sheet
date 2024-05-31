@@ -136,6 +136,9 @@
 "backup_disable_hint" = "需要登录 iCloud 来备份你的聊天记录。 设置 > iCloud > 打开 iCloud 云盘。";
 "backup_to_icloud" = "备份到 iCloud";
 "balance" = "余额";
+"balance_half" = "取半";
+"balance_max" = "最大";
+"best_price" = "最优价格";
 "block" = "屏蔽用户";
 "block_hint" = "屏蔽后对方无法向您拨打电话或发送消息";
 "block_tip" = "被屏蔽的用户不能给你发送消息或者邀请你加入群聊";
@@ -260,6 +263,7 @@
 "confirm_transfer" = "转账确认";
 "confirm_withdrawal" = "提现确认";
 "confirmations" = "区块确认数";
+"confirming_transaction" = "正在确认交易";
 "connect" = "连接";
 "connect_to_tip_network_failed" = "连接 TIP 网络失败，请尝试切换网络后重试";
 "connect_web3_account_description" = "授权应用查看你的账户地址，或者向你发送交易请求。";
@@ -306,6 +310,7 @@
 "continue" = "继续";
 "continue_open_url" = "继续访问";
 "continue_with_pin" = "输入 PIN 继续";
+"contract" = "合约";
 "conversation" = "会话";
 "conversation_has_too_many_circles" = "已达圈子数上限";
 "conversation_not_found" = "找不到该会话";
@@ -765,6 +770,7 @@
 "owner" = "群主";
 "participants" = "成员";
 "participants_count" = "%@ 位群组成员";
+"pay" = "支付";
 "pay_paid" = "此付款链接已由某人支付，您无法进行重复付款。";
 "pay_with_biometry_type" = "%@支付";
 "pay_with_pin" = "用 PIN 支付";
@@ -861,6 +867,7 @@
 "receive" = "转入";
 "receive_from_address_description" = "从其他钱包或交易所转入";
 "receive_money" = "我的收款码";
+"received" = "收到";
 "receiver" = "至";
 "receivers" = "交易接收人";
 "recent" = "最近";
@@ -918,6 +925,7 @@
 "return_to_merchant_description" = "来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。";
 "review" = "预览";
 "review_address_hint" = "请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。";
+"review_order" = "预览订单";
 "review_transfer_hint" = "请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。";
 "review_withdrawal_hint" = "请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。";
 "revoke_access" = "取消授权";
@@ -954,6 +962,7 @@
 "search_related_message" = "%d 条相关的消息";
 "search_related_message_count" = "%d 条相关的消息";
 "search_result_prefix_phone" = "手机号码：";
+"search_swap_token" = "按代币或合约地址搜索";
 "secured_by_tip" = "由 TIP 提供安全保障";
 "security" = "安全";
 "security_code" = "安全码";
@@ -966,6 +975,7 @@
 "select_emergency_contact" = "选择紧急联系人";
 "select_more_photos" = "选择更多照片";
 "select_payment_method" = "选择支付方式";
+"select_token" = "选择代币";
 "selected_count" = "选择了 %@ 个消息";
 "selected_item" = "已选择 1 项";
 "selected_item_count" = "已选择 %d 项";
@@ -1056,6 +1066,14 @@
 "signed_message" = "签名";
 "skip" = "跳过";
 "slide_to_cancel" = "滑动取消";
+"slippage" = "滑点";
+"slippage_auto" = "自动";
+"slippage_auto_desc" = "根据不同币种推荐合适的滑点，帮助你交易成功";
+"slippage_custom" = "自定义";
+"slippage_custom_desc" = "将按照您设置的滑点执行交易";
+"slippage_high_warning" = "您的交易可能会抢先交易并导致不利的交易";
+"slippage_invalid" = "滑点不可大于 50% 且不可小于 0.1%";
+"slippage_tolerance_exceeded" = "超出滑点范围";
 "slow" = "缓慢";
 "snapshot_hash" = "快照哈希";
 "snapshot_not_found" = "找不到该转账记录。";
@@ -1081,6 +1099,9 @@
 "sumsub_not_ready" = "KYC服务不可用";
 "suspended_deposit" = "%1$@ 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$@ 资产可以继续转账。";
 "suspicious_link" = "可疑链接";
+"swap" = "闪兑";
+"swap_desc" = "%@ 将会在交易完成后存入您的钱包";
+"swapping" = "兑换中";
 "switch_payment_method" = "使用其他支付方式";
 "symbol" = "符号";
 "symbol_withdrawal" = "%@ 提现";
@@ -1114,9 +1135,11 @@
 "touch_id" = "指纹";
 "track_not_found" = "Track 无效";
 "transaction" = "交易详情";
+"transaction_failed" = "交易失败";
 "transaction_hash" = "交易哈希";
 "transaction_id" = "交易编号";
 "transaction_request" = "请求转账";
+"transaction_success" = "交易成功";
 "transaction_type" = "交易类型";
 "transactions" = "转账记录";
 "transactions_cannot_be_deleted" = "转账记录不会被删除";
@@ -1228,7 +1251,9 @@
 "videos" = "视频";
 "view_authorization" = "查看授权";
 "view_emergency_contact" = "查看紧急联系人";
+"view_on_explorer" = "在浏览器查看";
 "view_storage" = "查看存储空间";
+"view_transaction" = "查看区块链浏览器";
 "view_wallet" = "查看钱包";
 "voice_call_cancelled" = "对方已取消语音通话";
 "voice_call_has_been_declined" = "已拒绝通话";

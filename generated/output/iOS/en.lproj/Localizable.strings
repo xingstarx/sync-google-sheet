@@ -136,6 +136,9 @@
 "backup_disable_hint" = "Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive.";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
+"balance_half" = "HALF";
+"balance_max" = "MAX";
+"best_price" = "Best price";
 "block" = "Block";
 "block_hint" = "Blocked contacts will no longer be able to call you or send you messages";
 "block_tip" = "Blocked users can't send you messages or add you to groups.";
@@ -260,6 +263,7 @@
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
+"confirming_transaction" = "Confirming Transaction";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
@@ -306,6 +310,7 @@
 "continue" = "Continue";
 "continue_open_url" = "Continue Open URL";
 "continue_with_pin" = "Continue with PIN";
+"contract" = "Contract";
 "conversation" = "Conversation";
 "conversation_has_too_many_circles" = "The conversation has too many circles";
 "conversation_not_found" = "Conversation not found.";
@@ -765,6 +770,7 @@
 "owner" = "Owner";
 "participants" = "Participants";
 "participants_count" = "%@ PARTICIPANTS";
+"pay" = "Pay";
 "pay_paid" = "This payment link has already been paid by someone, you can not make a duplicate payment.";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin" = "Pay with PIN";
@@ -861,6 +867,7 @@
 "receive" = "Receive";
 "receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "Receive Money";
+"received" = "received";
 "receiver" = "Receiver";
 "receivers" = "Receivers";
 "recent" = "Recent";
@@ -918,6 +925,7 @@
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"review_order" = "Review Order";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Revoke access";
@@ -954,6 +962,7 @@
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d related messages";
 "search_result_prefix_phone" = "Phone Number: ";
+"search_swap_token" = "Search by token or address";
 "secured_by_tip" = "Secured by TIP";
 "security" = "Security";
 "security_code" = "Security code";
@@ -966,6 +975,7 @@
 "select_emergency_contact" = "Select Emergency Contact";
 "select_more_photos" = "Select More Photos";
 "select_payment_method" = "Select Payment Method";
+"select_token" = "Select Token";
 "selected_count" = "%@ Selected";
 "selected_item" = "Selected 1 Item";
 "selected_item_count" = "Selected %d Items";
@@ -1056,6 +1066,14 @@
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "Skip";
 "slide_to_cancel" = "Slide to Cancel";
+"slippage" = "Slippage";
+"slippage_auto" = "Auto";
+"slippage_auto_desc" = "Recommends the right slippage for different currencies to help you trade successfully";
+"slippage_custom" = "Custom";
+"slippage_custom_desc" = "Trades will be executed according to the slippage you set";
+"slippage_high_warning" = "Your transaction may be frontrun and result in an unfavourable trade";
+"slippage_invalid" = "Slippage cannot be greater than 50% and cannot be less than 0.1%";
+"slippage_tolerance_exceeded" = "Slippage tolerance exceeded";
 "slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Snapshot not found.";
@@ -1081,6 +1099,9 @@
 "sumsub_not_ready" = "KYC not available";
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Suspicious Link";
+"swap" = "Swap";
+"swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "Symbol";
 "symbol_withdrawal" = "%@ Withdrawal";
@@ -1114,9 +1135,11 @@
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "transaction" = "Transaction";
+"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Transaction Hash";
 "transaction_id" = "Transaction Id";
 "transaction_request" = "Transaction Request";
+"transaction_success" = "Transaction Success";
 "transaction_type" = "Transaction Type";
 "transactions" = "Transactions";
 "transactions_cannot_be_deleted" = "Transactions CANNOT be deleted";
@@ -1228,7 +1251,9 @@
 "videos" = "Videos";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "View emergency contact";
+"view_on_explorer" = "View on Explorer";
 "view_storage" = "View Storage";
+"view_transaction" = "View Transaction";
 "view_wallet" = "View Wallet";
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";

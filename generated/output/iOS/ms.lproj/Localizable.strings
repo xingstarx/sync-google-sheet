@@ -136,6 +136,9 @@
 "backup_disable_hint" = "Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive.";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
+"balance_half" = "HALF";
+"balance_max" = "MAX";
+"best_price" = "Best price";
 "block" = "Sekat";
 "block_hint" = "Blocked contacts will no longer be able to call you or send you messages";
 "block_tip" = "Pengguna yang disekat tidak dapat mengirim anda pesan atau menambahkan anda ke kumpulan.";
@@ -261,6 +264,7 @@
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
 "confirmations" = "Confirmations";
+"confirming_transaction" = "Confirming Transaction";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
@@ -307,6 +311,7 @@
 "continue" = "Teruskan";
 "continue_open_url" = "Terus Buka URL";
 "continue_with_pin" = "Continue with PIN";
+"contract" = "Contract";
 "conversation" = "Perbualan";
 "conversation_has_too_many_circles" = "The conversation has too many circles";
 "conversation_not_found" = "Conversation not found.";
@@ -766,6 +771,7 @@
 "owner" = "pemilik";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
+"pay" = "Pay";
 "pay_paid" = "Pautan pembayaran ini telah dibayar oleh seseorang, anda tidak boleh membuat pembayaran pendua.";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin" = "Bayar dengan PIN";
@@ -862,6 +868,7 @@
 "receive" = "Terima";
 "receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "Terima Wang";
+"received" = "received";
 "receiver" = "Penerima";
 "receivers" = "Receivers";
 "recent" = "Recent";
@@ -919,6 +926,7 @@
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
+"review_order" = "Review Order";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Batal akses";
@@ -955,6 +963,7 @@
 "search_related_message" = "%d related message";
 "search_related_message_count" = "%d mesej berkaitan";
 "search_result_prefix_phone" = "Phone Number: ";
+"search_swap_token" = "Search by token or address";
 "secured_by_tip" = "Secured by TIP";
 "security" = "Keselamatan";
 "security_code" = "Security code";
@@ -967,6 +976,7 @@
 "select_emergency_contact" = "Pilih Kenalan Kecemasan";
 "select_more_photos" = "Select More Photos";
 "select_payment_method" = "Select Payment Method";
+"select_token" = "Select Token";
 "selected_count" = "%@ Selected";
 "selected_item" = "Selected 1 Item";
 "selected_item_count" = "Selected %d Items";
@@ -1057,6 +1067,14 @@
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "LANGKAU";
 "slide_to_cancel" = "Slaid untuk Batal";
+"slippage" = "Slippage";
+"slippage_auto" = "Auto";
+"slippage_auto_desc" = "Recommends the right slippage for different currencies to help you trade successfully";
+"slippage_custom" = "Custom";
+"slippage_custom_desc" = "Trades will be executed according to the slippage you set";
+"slippage_high_warning" = "Your transaction may be frontrun and result in an unfavourable trade";
+"slippage_invalid" = "Slippage cannot be greater than 50% and cannot be less than 0.1%";
+"slippage_tolerance_exceeded" = "Slippage tolerance exceeded";
 "slow" = "Slow";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Snapshot not found.";
@@ -1082,6 +1100,9 @@
 "sumsub_not_ready" = "KYC not available";
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Pautan yang mencurigakan";
+"swap" = "Swap";
+"swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "Simbol";
 "symbol_withdrawal" = "%@ Withdrawal";
@@ -1115,9 +1136,11 @@
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "transaction" = "Urus Niaga";
+"transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Urus niaga Cincangan";
 "transaction_id" = "Id Urus Niaga";
 "transaction_request" = "Transaction Request";
+"transaction_success" = "Transaction Success";
 "transaction_type" = "Jenis Transaksi";
 "transactions" = "Urus Niaga";
 "transactions_cannot_be_deleted" = "Transactions CANNOT be deleted";
@@ -1229,7 +1252,9 @@
 "videos" = "Video";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "Lihat kenalan kecemasan";
+"view_on_explorer" = "View on Explorer";
 "view_storage" = "View Storage";
+"view_transaction" = "View Transaction";
 "view_wallet" = "View Wallet";
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";
