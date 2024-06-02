@@ -406,7 +406,7 @@
 "disconnecting" = "Disconnecting";
 "dismiss_as_admin" = "Ketepikan pentadbir";
 "done" = "Selesai";
-"dont_have_assets" = "Don't have assets?";
+"dont_have_assets" = "No assets";
 "duplicate_transfer_confirmation" = "Pengesahan Pemindahan Pendua";
 "duplicate_withdraw_confirmation" = "Pengesahan Pengunduran Pendua";
 "duplication_reminder" = "You transferred %1$@ to the recipient %2$@ ago.";

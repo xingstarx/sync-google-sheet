@@ -405,7 +405,7 @@
 "disconnecting" = "Disconnecting";
 "dismiss_as_admin" = "Dismiss as Admin";
 "done" = "Done";
-"dont_have_assets" = "Don't have assets?";
+"dont_have_assets" = "No assets";
 "duplicate_transfer_confirmation" = "Duplicate Transfer Confirmation";
 "duplicate_withdraw_confirmation" = "Duplicate Withdraw Confirmation";
 "duplication_reminder" = "You transferred %1$@ to the recipient %2$@ ago.";
