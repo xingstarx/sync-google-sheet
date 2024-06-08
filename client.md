@@ -1868,7 +1868,7 @@
 | android, iOS | Sending_Failed | Sending Failed | 发送失败 |     |     |     |
 | android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
 | android, iOS | Browser | Browser | 浏览器 |     |     |     |
-| android, iOS | web3_deposit_description_evm | Use this address for receiving tokens on Ethereum, Polygon, BSC networks | 使用此地址在 Ethereum、Polygon、BSC 网络上接收代币 |     |     |     |
+| android, iOS | web3_deposit_description_evm | Use this address for receiving tokens on Ethereum, Polygon, BSC, Base, Arbitrum, Optimism networks | 使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 网络上接收代币 |     |     |     |
 | android, iOS | web3_deposit_description_solana | Use this address for receiving tokens on Solana network | 使用此地址在 Solana 网络上接收代币 |     |     |     |
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
 | android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
@@ -1919,3 +1919,33 @@
 | android,iOS | Slippage_tolerance_exceeded | Slippage tolerance exceeded | 超出滑点范围 |     |     |     |
 | android,iOS | balance_max | MAX | 最大  |     |     |     |
 | android,iOS | balance_half | HALF | 取半  |     |     |     |
+| android,iOS | web3_approve | Approve | 批准  |     |     |     |
+| android,iOS | web3_borrow | Borrow | 借款  |     |     |     |
+| android,iOS | web3_burn | Burn | 燃烧  |     |     |     |
+| android,iOS | web3_cancel | Cancel | 取消  |     |     |     |
+| android,iOS | web3_claim | Claim | 认领  |     |     |     |
+| android,iOS | web3_deploy | Deploy | 部署  |     |     |     |
+| android,iOS | web3_deposit | Deposit | 存款  |     |     |     |
+| android,iOS | web3_execute | Execute | 执行  |     |     |     |
+| android,iOS | web3_mint | Mint | 铸造  |     |     |     |
+| android,iOS | web3_receive | Receive | 接收  |     |     |     |
+| android,iOS | web3_repay | Repay | 还款  |     |     |     |
+| android,iOS | web3_send | Send | 发送  |     |     |     |
+| android,iOS | web3_stake | Stake | 质押  |     |     |     |
+| android,iOS | web3_trade | Trade | 交易  |     |     |     |
+| android,iOS | web3_unstake | Unstake | 解押  |     |     |     |
+| android,iOS | web3_withdraw | Withdraw | 提现  |     |     |     |
+| android,iOS | web3_nft_mint | NFT mint | NFT铸造 |     |     |     |
+| android,iOS | web3_nft_transfer | NFT transfer | NFT转移 |     |     |     |
+| android,iOS | web3_nft_burn | NFT burn | NFT燃烧 |     |     |     |
+| android,iOS | web3_unknown | Unknown | 未知  |     |     |     |
+| android,iOS | Release | Release | 分解  |     |     |     |
+| android,iOS | inscription_releasing | Releasing | 分解中 |     |     |     |
+| android,iOS | inscription_releasing_description | The inscription is being released, please wait! | 铭文正在分解中，请稍候！ |     |     |     |
+| android,iOS | inscription_release_success | Release Successful | 分解成功 |     |     |     |
+| android,iOS | inscription_release_failed | Release Failed | 分解失败 |     |     |     |
+| android,iOS | inscription_released_description | The inscription was released successfully. Click to view the tokens. | 收藏品分解成功，点击查看代币。 |     |     |     |
+| android,iOS | inscription_release_confirmation | Release Inscription | 分解收藏品 |     |     |     |
+| android,iOS | inscription_release_hint | Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions. | 分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。 |     |     |     |
+| android,iOS | inscription_not_found | Inscription does not exist | 藏品不存在 |     |     |     |
+| android,iOS | Token | Token | 代币  |     |     |     |
