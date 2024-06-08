@@ -1839,7 +1839,7 @@
   <string name="Sending_Failed" platform="android, iOS">傳送失敗</string>
   <string name="copy_address" platform="android, iOS">複製地址</string>
   <string name="Browser" platform="android, iOS">瀏覽器</string>
-  <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC 網路上接收代幣</string>
+  <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 網路上接收代幣</string>
   <string name="web3_deposit_description_solana" platform="android, iOS">使用此地址在 Solana 網路上接收代幣</string>
   <string name="web3_no_asset" platform="android, iOS">沒有資產</string>
   <string name="Collectibles" platform="android, iOS, Desktop">藏品</string>
@@ -1890,4 +1890,34 @@
   <string name="Slippage_tolerance_exceeded" platform="android,iOS">超出滑點範圍</string>
   <string name="balance_max" platform="android,iOS">最大</string>
   <string name="balance_half" platform="android,iOS">取半</string>
+  <string name="web3_approve" platform="android,iOS">批准</string>
+  <string name="web3_borrow" platform="android,iOS">借款</string>
+  <string name="web3_burn" platform="android,iOS">燃燒</string>
+  <string name="web3_cancel" platform="android,iOS">取消</string>
+  <string name="web3_claim" platform="android,iOS">認領</string>
+  <string name="web3_deploy" platform="android,iOS">部署</string>
+  <string name="web3_deposit" platform="android,iOS">存款</string>
+  <string name="web3_execute" platform="android,iOS">執行</string>
+  <string name="web3_mint" platform="android,iOS">鑄造</string>
+  <string name="web3_receive" platform="android,iOS">接收</string>
+  <string name="web3_repay" platform="android,iOS">還款</string>
+  <string name="web3_send" platform="android,iOS">傳送</string>
+  <string name="web3_stake" platform="android,iOS">質押</string>
+  <string name="web3_trade" platform="android,iOS">交易</string>
+  <string name="web3_unstake" platform="android,iOS">解押</string>
+  <string name="web3_withdraw" platform="android,iOS">提現</string>
+  <string name="web3_nft_mint" platform="android,iOS">NFT鑄造</string>
+  <string name="web3_nft_transfer" platform="android,iOS">NFT轉移</string>
+  <string name="web3_nft_burn" platform="android,iOS">NFT燃燒</string>
+  <string name="web3_unknown" platform="android,iOS">未知</string>
+  <string name="Release" platform="android,iOS">分解</string>
+  <string name="inscription_releasing" platform="android,iOS">分解中</string>
+  <string name="inscription_releasing_description" platform="android,iOS">銘文正在分解中，請稍候！</string>
+  <string name="inscription_release_success" platform="android,iOS">分解成功</string>
+  <string name="inscription_release_failed" platform="android,iOS">分解失敗</string>
+  <string name="inscription_released_description" platform="android,iOS">收藏品分解成功，點選檢視代幣。</string>
+  <string name="inscription_release_confirmation" platform="android,iOS">分解收藏品</string>
+  <string name="inscription_release_hint" platform="android,iOS">分解收藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造收藏品。</string>
+  <string name="inscription_not_found" platform="android,iOS">藏品不存在</string>
+  <string name="Token" platform="android,iOS">代幣</string>
 </resources>
