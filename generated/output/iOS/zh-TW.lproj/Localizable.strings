@@ -269,6 +269,7 @@
 "connect_web3_account_description" = "授權應用檢視你的賬戶地址，或者向你傳送交易請求。";
 "connect_your_account" = "連線賬戶";
 "connected" = "已連線";
+"connected_dapps" = "已連線的 dApp";
 "connecting" = "正在連線";
 "connection_establishment_failed" = "連線建立失敗";
 "connection_failed" = "連線失敗";

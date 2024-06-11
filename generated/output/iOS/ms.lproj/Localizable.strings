@@ -270,6 +270,7 @@
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
 "connect_your_account" = "Connect Your Account";
 "connected" = "Connected";
+"connected_dapps" = "Connected dApps";
 "connecting" = "Menyambung";
 "connection_establishment_failed" = "Connection establishment failed";
 "connection_failed" = "Connection Failed";

@@ -269,6 +269,7 @@
 "connect_web3_account_description" = "授权应用查看你的账户地址，或者向你发送交易请求。";
 "connect_your_account" = "连接账户";
 "connected" = "已连接";
+"connected_dapps" = "已连接的 dApp";
 "connecting" = "正在连接";
 "connection_establishment_failed" = "连接建立失败";
 "connection_failed" = "连接失败";

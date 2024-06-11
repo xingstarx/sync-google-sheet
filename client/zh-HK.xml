@@ -349,7 +349,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
   <string name="connect_wallet" platform="android">連接錢包</string>
   <string name="Connected" platform="iOS">已連接</string>
-  <string name="connected_dapps" platform="android">已連接的 dApp</string>
+  <string name="connected_dapps" platform="android, iOS">已連接的 dApp</string>
   <string name="Connecting" platform="android, iOS">正在連接</string>
   <string name="Connection_establishment_failed" platform="iOS">連接建立失敗</string>
   <string name="connection_failed" platform="android, iOS">連接失敗</string>
