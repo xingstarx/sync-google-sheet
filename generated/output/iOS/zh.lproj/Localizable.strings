@@ -569,7 +569,6 @@
 "info" = "信息";
 "initializing" = "初始化...";
 "inscription_hash" = "藏品哈希";
-"inscription_not_found" = "藏品不存在";
 "inscription_release_confirmation" = "分解收藏品";
 "inscription_release_failed" = "分解失败";
 "inscription_release_hint" = "分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。";
@@ -623,6 +622,7 @@
 "light" = "浅色";
 "line_busy" = "忙线未接听";
 "line_busy_remote" = "对方忙";
+"link" = "链接";
 "link_desktop" = "链接桌面端";
 "link_desktop_description" = "通过二维码链接桌面端";
 "link_recognition_failure" = "链接识别失败";

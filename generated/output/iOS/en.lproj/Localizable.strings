@@ -569,7 +569,6 @@
 "info" = "Info";
 "initializing" = "Initializing...";
 "inscription_hash" = "Inscription Hash";
-"inscription_not_found" = "Inscription does not exist";
 "inscription_release_confirmation" = "Release Inscription";
 "inscription_release_failed" = "Release Failed";
 "inscription_release_hint" = "Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions.";
@@ -623,6 +622,7 @@
 "light" = "Light";
 "line_busy" = "Line busy";
 "line_busy_remote" = "Line busy";
+"link" = "Link";
 "link_desktop" = "Link Desktop";
 "link_desktop_description" = "Link Mixin Messenger Desktop by QR code";
 "link_recognition_failure" = "Link recognition failure";

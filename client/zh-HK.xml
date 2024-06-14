@@ -1918,6 +1918,7 @@
   <string name="inscription_released_description" platform="android,iOS">收藏品分解成功，點擊查看代幣。</string>
   <string name="inscription_release_confirmation" platform="android,iOS">分解收藏品</string>
   <string name="inscription_release_hint" platform="android,iOS">分解收藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造收藏品。</string>
-  <string name="inscription_not_found" platform="android,iOS">藏品不存在</string>
+  <string name="inscription_not_found" platform="android">藏品不存在</string>
   <string name="Token" platform="android,iOS">代幣</string>
+  <string name="Link" platform="android,iOS">鏈接</string>
 </resources>

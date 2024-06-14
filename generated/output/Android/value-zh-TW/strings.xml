@@ -695,6 +695,7 @@
 	<string name="legacy_network_transfer_hint">當前轉賬使用的是舊網路</string>
 	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">對方忙</string>
+	<string name="Link">連結</string>
 	<string name="link_desktop">連結桌面端</string>
 	<string name="link_desktop_description">透過二維碼連結桌面端</string>
 	<string name="Link_desktop_failed">登入桌面端失敗</string>

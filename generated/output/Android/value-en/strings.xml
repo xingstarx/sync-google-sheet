@@ -711,6 +711,7 @@
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
+	<string name="Link">Link</string>
 	<string name="link_desktop">Link Desktop</string>
 	<string name="link_desktop_description">Link Mixin Messenger Desktop by QR code</string>
 	<string name="Link_desktop_failed">Link desktop failed</string>
