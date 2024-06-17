@@ -1827,7 +1827,7 @@
   <string name="unlimited_authorization_warning" platform="android, iOS">這個應用可以提取你 %1$s 賬號（%2$s）裏所有的 %3$s 資產。</string>
   <string name="withdraw_all_of_token_warning" platform="android, iOS">這個應用可以提取你所有的 %1$s。</string>
   <string name="Connect" platform="android, iOS">連接</string>
-  <string name="decode_transaction_failed" platform="android, iOS">簽名解析失敗，無法估計資產變化，注意只給您信任的應用程序簽名。</string>
+  <string name="decode_transaction_failed" platform="android, iOS">無法估計資產變化，注意只給您信任的應用程序簽名。</string>
   <string name="web3_ensure_trust" platform="android, iOS">請確保您信任此應用程序。</string>
   <string name="web3_transaction_request" platform="android, iOS">交易簽名</string>
   <string name="web3_message_request" platform="android, iOS">消息簽名</string>

@@ -373,7 +373,7 @@
 	<string name="debit_or_credit_card">借記卡/信用卡</string>
 	<string name="Decline">掛斷</string>
 	<string name="Declined">已拒絕</string>
-	<string name="decode_transaction_failed">簽名解析失敗，無法估計資產變化，注意只給您信任的應用程序簽名。</string>
+	<string name="decode_transaction_failed">無法估計資產變化，注意只給您信任的應用程序簽名。</string>
 	<string name="deep_clean">深度清理</string>
 	<string name="deep_cleaning">正在清理…</string>
 	<string name="deep_cleaning_deleted">正在清理，已刪除 %1$s</string>

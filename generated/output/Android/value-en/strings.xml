@@ -380,7 +380,7 @@
 	<string name="Debug_Tools">Debug Tools</string>
 	<string name="Decline">Decline</string>
 	<string name="Declined">Declined</string>
-	<string name="decode_transaction_failed">Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust.</string>
+	<string name="decode_transaction_failed">Unable to estimate asset changes. Be cautious and only sign transactions for dApps you trust.</string>
 	<string name="deep_clean">Deep clean</string>
 	<string name="deep_cleaning">Cleaning up…</string>
 	<string name="deep_cleaning_deleted">Cleaning up, %1$s deleted</string>
