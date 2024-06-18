@@ -1921,4 +1921,5 @@
   <string name="inscription_not_found" platform="android">藏品不存在</string>
   <string name="Token" platform="android,iOS">代幣</string>
   <string name="Link" platform="android,iOS">鏈接</string>
+  <string name="Set_as_avatar" platform="android,iOS">設置為頭像</string>
 </resources>

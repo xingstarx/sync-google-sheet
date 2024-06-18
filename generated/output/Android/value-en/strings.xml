@@ -1120,6 +1120,7 @@
 	<string name="Sending_Withdrawal_Request">Sending Withdrawal Request</string>
 	<string name="session_not_found">Session not found</string>
 	<string name="Set">Set</string>
+	<string name="Set_as_avatar">Set as Avatar</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
 	<string name="Set_emergency_create_successfully">Set emergency contact successfully</string>
 	<string name="Set_new_PIN">Set a new PIN</string>

@@ -1100,6 +1100,7 @@
 	<string name="Sending_Withdrawal_Request">正在發送提現</string>
 	<string name="session_not_found">沒有對應的連接</string>
 	<string name="Set">設置</string>
+	<string name="Set_as_avatar">設置為頭像</string>
 	<string name="set_disappearing_message_time_to">%1$s將限時消息設置為 %2$s</string>
 	<string name="Set_emergency_create_successfully">設置緊急聯繫人成功</string>
 	<string name="Set_new_PIN">設置新的 PIN</string>
