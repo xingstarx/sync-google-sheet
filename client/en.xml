@@ -795,8 +795,8 @@
   <string name="invites_you_to_a_voice_call" platform="iOS">invites you to a voice call</string>
   <string name="is_network_available" platform="android">isNetworkAvailable</string>
   <string name="italic" platform="android">italic</string>
-  <string name="Items_Selected_Count" platform="iOS,android">1 Item Selected</string>
-  <string name="Items_Selected_Counts" platform="iOS,android">%1$s Items Selected</string>
+  <string name="Items_Selected_Count" platform="android">1 Item Selected</string>
+  <string name="Items_Selected_Counts" platform="android">%1$s Items Selected</string>
   <string name="Join_group" platform="android, iOS">Join Group</string>
   <string name="join_group_with_plus" platform="Desktop">+ Join group</string>
   <string name="Joined_in" platform="android, iOS, Desktop">Joined on %1$s</string>
@@ -818,10 +818,10 @@
   <string name="Last_active_time" platform="iOS">Last active %@</string>
   <string name="Last_Backup" platform="android">Last Backup</string>
   <string name="last_backup_hint" platform="iOS">Last backup on %@, total size %@.</string>
-  <string name="Last_month" platform="iOS,android">Last month</string>
-  <string name="Last_months" platform="iOS,android">Last %1$s months</string>
-  <string name="Last_year" platform="iOS,android">Last year</string>
-  <string name="Last_years" platform="iOS,android">Last %1$s  years</string>
+  <string name="Last_month" platform="android">Last month</string>
+  <string name="Last_months" platform="android">Last %1$s months</string>
+  <string name="Last_year" platform="android">Last year</string>
+  <string name="Last_years" platform="android">Last %1$s  years</string>
   <string name="Later" platform="android, iOS">Later</string>
   <string name="Learn_More" platform="android, iOS, Desktop">Learn More</string>
   <string name="leave_message_to_team_mixin" platform="android,iOS">Leave a message to Team Mixin</string>
@@ -876,9 +876,9 @@
   <string name="Lost_your_mobile_number" platform="android, iOS">Lost your mobile number?</string>
   <string name="Make_group_admin" platform="android, iOS, Desktop">Make group admin</string>
   <string name="Manage" platform="iOS">Manage</string>
-  <string name="manage_all_your_bots" platform="android, iOS">mange all your bots</string>
-  <string name="manage_all_your_circles" platform="android, iOS">manage all your circles</string>
-  <string name="Manage_Bots" platform="android, iOS">Manage Bots</string>
+  <string name="manage_all_your_bots" platform="android">mange all your bots</string>
+  <string name="manage_all_your_circles" platform="android">manage all your circles</string>
+  <string name="Manage_Bots" platform="android">Manage Bots</string>
   <string name="Manage_your_apps" platform="android, iOS">Manage your bots</string>
   <string name="Manage_your_circles" platform="android, iOS">Manage your circles</string>
   <string name="Manager_Sticker" platform="android">Manager Sticker</string>
@@ -919,7 +919,7 @@
   <string name="Mobile_Contacts" platform="iOS">Mobile Contacts</string>
   <string name="Model" platform="android">Model</string>
   <string name="Monday" platform="android">Monday</string>
-  <string name="Month" platform="iOS,android">Month</string>
+  <string name="Month" platform="android">Month</string>
   <string name="Monthly" platform="iOS">Monthly</string>
   <string name="More" platform="android, iOS, Desktop">More</string>
   <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
@@ -1165,21 +1165,21 @@
   <string name="Random_keyboard" platform="android">Random keyboard</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
-  <string name="Read_Assets" platform="android">Read Assets</string>
-  <string name="Read_Bots" platform="android">Read Bots</string>
-  <string name="Read_Circles" platform="android">Read Circles</string>
-  <string name="Read_Collectibles" platform="android">Read Collectibles</string>
-  <string name="Read_Contacts" platform="android">Read Contacts</string>
-  <string name="Read_Snapshots" platform="android">Read Snapshots</string>
-  <string name="Read_your_apps" platform="android">Read your bots</string>
-  <string name="Read_your_assets" platform="android">Read your assets</string>
-  <string name="Read_your_circles" platform="android">Read your circles</string>
-  <string name="Read_your_contacts" platform="android">Read your contacts</string>
-  <string name="Read_your_NFTs" platform="android">Read your NFTs</string>
-  <string name="Read_your_phone_number" platform="android">Read your phone number</string>
-  <string name="read_your_public_address" platform="android">Read your public address</string>
-  <string name="Read_your_public_profile" platform="android">Read your public profile</string>
-  <string name="Read_your_snapshots" platform="android">Read your snapshots</string>
+  <string name="Read_Assets" platform="android, iOS">Read Assets</string>
+  <string name="Read_Bots" platform="android, iOS">Read Bots</string>
+  <string name="Read_Circles" platform="android, iOS">Read Circles</string>
+  <string name="Read_Collectibles" platform="android, iOS">Read Collectibles</string>
+  <string name="Read_Contacts" platform="android, iOS">Read Contacts</string>
+  <string name="Read_Snapshots" platform="android, iOS">Read Snapshots</string>
+  <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
+  <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
+  <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
+  <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
+  <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
+  <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
+  <string name="read_your_public_address" platform="android, iOS">Read your public address</string>
+  <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
+  <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebate</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptcha timeout</string>
   <string name="Receive" platform="android">Receive</string>
