@@ -192,7 +192,7 @@
   <string name="Calling" platform="android, iOS">Вызов…</string>
   <string name="Camera" platform="android, iOS">Камера</string>
   <string name="can_not_recognize_qr_code" platform="android, Desktop">Не могу распознать QR-код</string>
-  <string name="Cancel" platform="android, iOS, Desktop">Отмена</string>
+  <string name="Cancel" platform="android, iOS, Desktop">Отменить</string>
   <string name="Cancel_Floating" platform="android, iOS">Отменить всплывание</string>
   <string name="Canceled" platform="android, iOS">Отменено</string>
   <string name="Canceled_by_caller" platform="android, iOS">Отменено звонившим</string>
@@ -880,7 +880,6 @@
   <string name="Pay_with_Biometrics" platform="android">Оплата с помощью биометрии</string>
   <string name="Pay_with_PIN" platform="android, iOS">Оплатить PIN-кодом</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Оплата с интервалом PIN</string>
-  <string name="Pay_withdrawal_memo" platform="iOS">Сумма %@ %@&#13;\nКомиссия %@ %@</string>
   <string name="Peer_closed" platform="iOS">Пир закрыт</string>
   <string name="Peer_not_found" platform="iOS">Пир не найден</string>
   <string name="pending_confirmation" platform="android, iOS">%1$d/%2$d подтверждение</string>
