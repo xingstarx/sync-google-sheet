@@ -854,7 +854,7 @@
 "restore_completed" = "Restore completed";
 "restore_from_another_phone" = "Restore from Another Phone";
 "restore_from_icloud" = "Restore from iCloud";
-"restore_from_icloud_confirmation" = "There are already %1$d local chat records, and the last message was created at %1$@. Are you sure you want to overwrite the local data with the chat data on iCloud?";
+"restore_from_icloud_confirmation" = "There are already %1$d local chat records, and the last message was created at %2$@. Are you sure you want to overwrite the local data with the chat data on iCloud?";
 "restore_from_pc" = "Restore from PC";
 "restore_from_pc_hint" = "Restore your chat history from PC";
 "restore_from_pc_tip" = "Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.";
