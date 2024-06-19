@@ -3,9 +3,9 @@
   <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Akses ditolak</string>
-  <string name="access_your_bots_list" platform="android, iOS">mengakses daftar aplikasi Anda</string>
-  <string name="access_your_contacts_list" platform="android, iOS">mengakses daftar kontak Anda</string>
-  <string name="access_your_snapshots" platform="android, iOS">mengakses snapshot Anda</string>
+  <string name="access_your_bots_list" platform="android">mengakses daftar aplikasi Anda</string>
+  <string name="access_your_contacts_list" platform="android">mengakses daftar kontak Anda</string>
+  <string name="access_your_snapshots" platform="android">mengakses snapshot Anda</string>
   <string name="Account" platform="android, iOS, Desktop">Akun</string>
   <string name="Add_address" platform="android, iOS">Tambahkan alamat</string>
   <string name="Add_bot" platform="android, iOS">Tambahkan Bot</string>
@@ -58,9 +58,9 @@
   <string name="Asset_Key" platform="android, iOS">Kode Aset</string>
   <string name="ASSETS" platform="android, iOS">ASET</string>
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$s dan lainnya</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">Izinkan bot untuk mengirim pesan yang mewakili Anda</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, foto profil</string>
+  <string name="auth_assets_more" platform="android">%1$s dan lainnya</string>
+  <string name="auth_messages_represent_description" platform="android">Izinkan bot untuk mengirim pesan yang mewakili Anda</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, foto profil</string>
   <string name="authorization" platform="android, iOS">otorisasi</string>
   <string name="Authorizations" platform="android, iOS">Otorisasi</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
@@ -476,10 +476,10 @@
   <string name="qr_code_camera_code" platform="android">Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya.</string>
   <string name="QR_Code_not_found" platform="android, iOS">Kode Qr tidak ditemukan</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
-  <string name="Read_Assets" platform="android, iOS">Membaca Aset</string>
-  <string name="Read_Bots" platform="android, iOS">Membaca Aplikasi</string>
-  <string name="Read_Contacts" platform="android, iOS">Membaca Kontak</string>
-  <string name="Read_Snapshots" platform="android, iOS">Membaca Snapshot</string>
+  <string name="Read_Assets" platform="android">Membaca Aset</string>
+  <string name="Read_Bots" platform="android">Membaca Aplikasi</string>
+  <string name="Read_Contacts" platform="android">Membaca Kontak</string>
+  <string name="Read_Snapshots" platform="android">Membaca Snapshot</string>
   <string name="Rebate" platform="android, iOS, Desktop">Potongan harga</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Batas waktu recaptcha</string>
   <string name="RECEIVE" platform="android, iOS">Terima</string>
@@ -495,7 +495,7 @@
   <string name="Remove_Participants" platform="android">Hapus Peserta</string>
   <string name="Removing" platform="android">Menghapus…</string>
   <string name="Report" platform="android, iOS, Desktop">Laporkan</string>
-  <string name="Represent_Messages" platform="android, iOS">Mewakili Pesan</string>
+  <string name="Represent_Messages" platform="android">Mewakili Pesan</string>
   <string name="Requests_access_to_your" platform="android">Meminta akses ke Anda</string>
   <string name="Resend_code" platform="android, iOS, Desktop">Kirim ulang kode</string>
   <string name="Resend_code_in" platform="android, Desktop">Kirim ulang kode dalam %1$d d</string>

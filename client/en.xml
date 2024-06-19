@@ -17,11 +17,11 @@
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
-  <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
-  <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
-  <string name="access_your_collectibles" platform="android, iOS">access your collectibles</string>
-  <string name="access_your_contacts_list" platform="android, iOS">access your contacts list</string>
-  <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
+  <string name="access_your_bots_list" platform="android">access your bots list</string>
+  <string name="access_your_circle_list" platform="android">access your circle list</string>
+  <string name="access_your_collectibles" platform="android">access your collectibles</string>
+  <string name="access_your_contacts_list" platform="android">access your contacts list</string>
+  <string name="access_your_snapshots" platform="android">access your snapshots</string>
   <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
   <string name="activity" platform="Desktop">Activity</string>
@@ -94,10 +94,10 @@
   <string name="alert_key_group_transcript_message" platform="android, iOS">%1$s sent a transcript</string>
   <string name="alert_key_group_video_message" platform="android, iOS">%1$s sent a video</string>
   <string name="All" platform="android, iOS">All</string>
-  <string name="All_chats" platform="iOS,android">All chats</string>
+  <string name="All_chats" platform="android">All chats</string>
   <string name="all_chats" platform="Desktop">Chats</string>
   <string name="All_Conversations" platform="android, iOS">All Conversations</string>
-  <string name="All_dates" platform="iOS,android">All dates</string>
+  <string name="All_dates" platform="android">All dates</string>
   <string name="All_Media" platform="android">All Media</string>
   <string name="All_Photos" platform="iOS">All Photos</string>
   <string name="All_signer_failure" platform="android,iOS">All node failure</string>
@@ -133,7 +133,7 @@
   <string name="Apply" platform="android, iOS">Apply</string>
   <string name="archived_folder" platform="Desktop">archived folder</string>
   <string name="Asset_Key" platform="android, iOS">Asset Key</string>
-  <string name="Asset_Migration" platform="android,iOS">Network Upgrade</string>
+  <string name="Asset_Migration" platform="android">Network Upgrade</string>
   <string name="asset_migration_hint" platform="android, iOS">You have assets in the legacy network, please view here.</string>
   <string name="Asset_not_found" platform="android, iOS">Asset not found.</string>
   <string name="Asset_Type" platform="iOS, Desktop">Asset Type</string>
@@ -142,9 +142,9 @@
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
   <string name="audio_shareable_false" platform="android, iOS">The audio has been set to not allow sharing</string>
   <string name="Audios" platform="android, iOS, Desktop">Audios</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$s and more</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">allow bot to send messages represent of you</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, profile photo</string>
+  <string name="auth_assets_more" platform="android">%1$s and more</string>
+  <string name="auth_messages_represent_description" platform="android">allow bot to send messages represent of you</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, profile photo</string>
   <string name="authorization" platform="android, iOS">authorization</string>
   <string name="Authorizations" platform="android, iOS">Authorizations</string>
   <string name="Authorize" platform="iOS">Authorize</string>
@@ -300,10 +300,10 @@
   <string name="chat_text_size" platform="android, Desktop, iOS">Chat Text Size</string>
   <string name="Chat_unpinned" platform="android">Chat unpinned</string>
   <string name="chat_waiting" platform="android, iOS">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
-  <string name="chat_with_us" platform="android, iOS">Chat with us</string>
+  <string name="chat_with_us" platform="android">Chat with us</string>
   <string name="CHATS" platform="android, iOS">CHATS</string>
-  <string name="Chats_Count" platform="iOS,android">1 chat</string>
-  <string name="Chats_Counts" platform="iOS,android">%1$s chats</string>
+  <string name="Chats_Count" platform="android">1 chat</string>
+  <string name="Chats_Counts" platform="android">%1$s chats</string>
   <string name="check_new_version" platform="Desktop">Check new version</string>
   <string name="check_trace_failed" platform="android">Check trace info failed, please try again</string>
   <string name="Checking_link" platform="android">Checking link</string>
@@ -340,7 +340,7 @@
   <string name="collapse" platform="Desktop">Collapse</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">Combine and forward</string>
-  <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
+  <string name="Combine_utxo" platform="android">Combine UTXOs</string>
   <string name="Compress_Database" platform="iOS">Compress Database</string>
   <string name="Compressed" platform="iOS">Compressed</string>
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
@@ -349,7 +349,7 @@
   <string name="Confirm_PIN" platform="android">Confirm PIN</string>
   <string name="confirm_sync_chats_from_phone" platform="Desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="confirm_sync_chats_to_phone" platform="Desktop">Are you sure to sync the chat history to the phone?</string>
-  <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
+  <string name="Confirmations" platform="android,Desktop">Confirmations</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
@@ -1032,7 +1032,7 @@
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
   <string name="Old_PIN" platform="android">Old PIN</string>
-  <string name="old_price" platform="android, iOS">Old Price</string>
+  <string name="old_price" platform="android">Old Price</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">One-by-One Forward</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 Hour</string>
   <string name="one_week" platform="android, iOS, Desktop">1 Week</string>
@@ -1071,7 +1071,7 @@
   <string name="Pay_with_PIN" platform="android">Pay with PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Pay with PIN interval</string>
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
-  <string name="payment_method" platform="android, iOS">Payment Method</string>
+  <string name="payment_method" platform="android">Payment Method</string>
   <string name="Peer_closed" platform="iOS">Peer closed</string>
   <string name="Peer_not_found" platform="iOS">Peer not found</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmation</string>
@@ -1165,21 +1165,21 @@
   <string name="Random_keyboard" platform="android">Random keyboard</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
-  <string name="Read_Assets" platform="android, iOS">Read Assets</string>
-  <string name="Read_Bots" platform="android, iOS">Read Bots</string>
-  <string name="Read_Circles" platform="android, iOS">Read Circles</string>
-  <string name="Read_Collectibles" platform="android, iOS">Read Collectibles</string>
-  <string name="Read_Contacts" platform="android, iOS">Read Contacts</string>
-  <string name="Read_Snapshots" platform="android, iOS">Read Snapshots</string>
-  <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
-  <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
-  <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
-  <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
-  <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
-  <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
-  <string name="read_your_public_address" platform="android, iOS">Read your public address</string>
-  <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
-  <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
+  <string name="Read_Assets" platform="android">Read Assets</string>
+  <string name="Read_Bots" platform="android">Read Bots</string>
+  <string name="Read_Circles" platform="android">Read Circles</string>
+  <string name="Read_Collectibles" platform="android">Read Collectibles</string>
+  <string name="Read_Contacts" platform="android">Read Contacts</string>
+  <string name="Read_Snapshots" platform="android">Read Snapshots</string>
+  <string name="Read_your_apps" platform="android">Read your bots</string>
+  <string name="Read_your_assets" platform="android">Read your assets</string>
+  <string name="Read_your_circles" platform="android">Read your circles</string>
+  <string name="Read_your_contacts" platform="android">Read your contacts</string>
+  <string name="Read_your_NFTs" platform="android">Read your NFTs</string>
+  <string name="Read_your_phone_number" platform="android">Read your phone number</string>
+  <string name="read_your_public_address" platform="android">Read your public address</string>
+  <string name="Read_your_public_profile" platform="android">Read your public profile</string>
+  <string name="Read_your_snapshots" platform="android">Read your snapshots</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebate</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptcha timeout</string>
   <string name="Receive" platform="android">Receive</string>
@@ -1209,16 +1209,11 @@
   <string name="Remove_Participants" platform="android">Remove Participants</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">Remove Stickers</string>
   <string name="Removing" platform="android">Removing…</string>
-  <string name="Repair" platform="iOS">Repair</string>
-  <string name="Repair_Chat_History" platform="iOS">Repair Chat History</string>
-  <string name="Repair_Chat_History_Hint" platform="iOS">The database file is found to be damaged, some messages may be lost, please try to repair it.</string>
-  <string name="Repair_Chat_History_Success" platform="iOS">The chat history has been repaired successfully! Chat records before  %1$s have been restored.</string>
-  <string name="Repairing" platform="iOS">Repairing</string>
   <string name="Reply" platform="android, iOS, Desktop">Reply</string>
   <string name="Report" platform="android, iOS, Desktop">Report</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">Report and block?</string>
   <string name="report_title" platform="iOS, Desktop">Send the conversation log to developers?</string>
-  <string name="Represent_Messages" platform="android, iOS">Represent Messages</string>
+  <string name="Represent_Messages" platform="android">Represent Messages</string>
   <string name="Represent_send_messages" platform="android, iOS">Represent send messages</string>
   <string name="request_approval" platform="android">Request approval</string>
   <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>
@@ -1254,7 +1249,7 @@
   <string name="restore_path" platform="android">Path: %1$s</string>
   <string name="Restore_Your_Chat_History" platform="iOS">Restore Your Chat History</string>
   <string name="Restoring" platform="android, iOS">Restoring...</string>
-  <string name="Restoring_Chat_Progress" platform="iOS,android">Restoring Chat (%1$s%)</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">Restoring Chat (%1$s%%)</string>
   <string name="Restoring_progress" platform="iOS">Restoring %@</string>
   <string name="Retry" platform="android, iOS, Desktop">Retry</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Retry upload failed.</string>
@@ -1311,7 +1306,7 @@
   <string name="security_code" platform="android, iOS">Security code</string>
   <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
-  <string name="select_a_card" platform="android, iOS">Select a Card</string>
+  <string name="select_a_card" platform="android">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
   <string name="Select_All" platform="iOS,android">Select All</string>
@@ -1452,7 +1447,7 @@
   <string name="Sort_by" platform="android, iOS">Sort by</string>
   <string name="Start" platform="android,iOS">Start</string>
   <string name="Start_Messaging" platform="android, iOS">Start Messaging</string>
-  <string name="Start_Migration" platform="android,iOS">Start the migration</string>
+  <string name="Start_Migration" platform="android">Start the migration</string>
   <string name="started_group_call" platform="iOS">%@ has started a group call</string>
   <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
@@ -1551,7 +1546,7 @@
   <string name="Transfer_to_PC_Hint" platform="iOS,android">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">Transfer to user or bot</string>
   <string name="transfer_without_pin" platform="android">You must setup PIN for transfer</string>
-  <string name="Transferring_chat_Progress" platform="iOS,android">Transferring Chat (%1$s%)</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">Transferring Chat (%1$s%%)</string>
   <string name="transferring_chats" platform="Desktop">Transferring Chat </string>
   <string name="transferring_chats_tips" platform="Desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
   <string name="travel_and_places" platform="Desktop">Travel &amp; Places</string>
@@ -1616,14 +1611,8 @@
   <string name="use_biometric" platform="Desktop">Use Biometric</string>
   <string name="Use_Biometric_Multisig" platform="android">Use Biometric Multisig</string>
   <string name="use_biometry" platform="iOS">Use %@</string>
-  <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
-  <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
-  <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
-  <string name="use_new_price" platform="android, iOS">Use New Price</string>
+  <string name="use_new_price" platform="android">Use New Price</string>
   <string name="Use_System_Text_Size" platform="android, iOS">Use System Text Size</string>
-  <string name="Use_touch_multisig" platform="iOS">Use Touch Multisig</string>
-  <string name="Use_touch_pay" platform="iOS">Use Touch Pay</string>
-  <string name="Use_touch_withdraw" platform="iOS">Use Touch Withdraw</string>
   <string name="user_delete_hint" platform="android, iOS, Desktop">The user has deleted his own account.</string>
   <string name="user_deleted_hint" platform="android">The user has deleted the account.</string>
   <string name="User_is_reported" platform="iOS">User has been reported</string>
@@ -1705,7 +1694,6 @@
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fi and Cellular</string>
   <string name="window" platform="Desktop">Window</string>
   <string name="withdraw_Address" platform="android, iOS">Address</string>
-  <string name="Withdraw_by_PIN" platform="iOS">Withdraw by PIN</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">Withdraw</string>
   <string name="withdrawal_addr_biometric_add" platform="android">Use Biometric to save address</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Use Biometric to delete address</string>
@@ -1731,7 +1719,7 @@
   <string name="withdrawal_to" platform="android, iOS">Withdraw to %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>
-  <string name="Year" platform="iOS,android">Year</string>
+  <string name="Year" platform="android">Year</string>
   <string name="you" platform="android">you</string>
   <string name="You" platform="android, iOS, Desktop">You</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">You deleted this message</string>
@@ -1892,9 +1880,9 @@
   <string name="Swapping" platform="android,iOS">Swapping</string>
   <string name="Pay" platform="android,iOS">Pay</string>
   <string name="Received" platform="android,iOS">received</string>
-  <string name="Review_Order" platform="android,iOS">Review Order</string>
+  <string name="Review_Order" platform="android">Review Order</string>
   <string name="View_Transaction" platform="android,iOS">View Transaction</string>
-  <string name="Confirming_Transaction" platform="android,iOS">Confirming Transaction</string>
+  <string name="Confirming_Transaction" platform="android">Confirming Transaction</string>
   <string name="Transaction_Success" platform="android,iOS">Transaction Success</string>
   <string name="Transaction_Failed" platform="android,iOS">Transaction Failed</string>
   <string name="Best_price" platform="android,iOS">Best price</string>

@@ -16,11 +16,11 @@
   <string name="Access_Contacts_Hint" platform="iOS">MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
   <string name="Access_denied" platform="android, iOS, Desktop">アクセスが拒否されました</string>
   <string name="Access_to_Contacts" platform="iOS,android">連絡先へのアクセス</string>
-  <string name="access_your_bots_list" platform="android, iOS">あなたのミニアプリ一覧へのアクセス</string>
-  <string name="access_your_circle_list" platform="android, iOS">グループリスト一覧へのアクセス</string>
-  <string name="access_your_collectibles" platform="android, iOS">あなたのNFTコレクションへのアクセス</string>
-  <string name="access_your_contacts_list" platform="android, iOS">友達一覧へのアクセス</string>
-  <string name="access_your_snapshots" platform="android, iOS">スナップショットへのアクセス</string>
+  <string name="access_your_bots_list" platform="android">あなたのミニアプリ一覧へのアクセス</string>
+  <string name="access_your_circle_list" platform="android">グループリスト一覧へのアクセス</string>
+  <string name="access_your_collectibles" platform="android">あなたのNFTコレクションへのアクセス</string>
+  <string name="access_your_contacts_list" platform="android">友達一覧へのアクセス</string>
+  <string name="access_your_snapshots" platform="android">スナップショットへのアクセス</string>
   <string name="Account" platform="android, iOS, Desktop">アカウント</string>
   <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
@@ -114,9 +114,9 @@
   <string name="assets_title" platform="iOS">資産</string>
   <string name="Audio" platform="android, iOS, Desktop">音声メッセージ</string>
   <string name="Audios" platform="android, iOS, Desktop">音声メッセージ</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$sとさらに</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">あなたの代わりにミニアプリがメッセージを送ることを許可</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, プロフィール画像</string>
+  <string name="auth_assets_more" platform="android">%1$sとさらに</string>
+  <string name="auth_messages_represent_description" platform="android">あなたの代わりにミニアプリがメッセージを送ることを許可</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, プロフィール画像</string>
   <string name="authorization" platform="android, iOS">認証</string>
   <string name="Authorizations" platform="android, iOS">許可</string>
   <string name="Authorize" platform="iOS">許可する</string>
@@ -949,12 +949,12 @@
   <string name="quit_mixin" platform="Desktop">終了</string>
   <string name="quote" platform="android">引用</string>
   <string name="Raw" platform="android, iOS, Desktop">その他</string>
-  <string name="Read_Assets" platform="android, iOS">ウォレット資産識別</string>
-  <string name="Read_Bots" platform="android, iOS">ミニアプリの識別</string>
-  <string name="Read_Circles" platform="android, iOS">グループリストの識別</string>
-  <string name="Read_Collectibles" platform="android, iOS">NFTコレクションの識別</string>
-  <string name="Read_Contacts" platform="android, iOS">連絡先の識別</string>
-  <string name="Read_Snapshots" platform="android, iOS">スナップショットの識別</string>
+  <string name="Read_Assets" platform="android">ウォレット資産識別</string>
+  <string name="Read_Bots" platform="android">ミニアプリの識別</string>
+  <string name="Read_Circles" platform="android">グループリストの識別</string>
+  <string name="Read_Collectibles" platform="android">NFTコレクションの識別</string>
+  <string name="Read_Contacts" platform="android">連絡先の識別</string>
+  <string name="Read_Snapshots" platform="android">スナップショットの識別</string>
   <string name="Rebate" platform="android, iOS, Desktop">払い戻し</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptchaがタイムアウトしました</string>
   <string name="Receive" platform="android">入金</string>
@@ -986,7 +986,7 @@
   <string name="Report" platform="android, iOS, Desktop">報告</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">報告してブロックしますか?</string>
   <string name="report_title" platform="iOS, Desktop">Mixinの開発者へ会話記録を送信しますか?</string>
-  <string name="Represent_Messages" platform="android, iOS">ミニアプリからの通知</string>
+  <string name="Represent_Messages" platform="android">ミニアプリからの通知</string>
   <string name="Requests_access_to_your" platform="android">権限リクエスト</string>
   <string name="Resend_code" platform="android, iOS, Desktop">コードを再送する</string>
   <string name="Resend_code_in" platform="android, Desktop">%1$d秒後にコードを再送</string>
@@ -1288,12 +1288,6 @@
   <string name="url_unrecognized_hint" platform="iOS">%@を認識できません、Mixinを最新版にアップデートするか、もしくは開発陣に連絡してリンクを確認してください。</string>
   <string name="Use_Biometric_Multisig" platform="android">生体認証マルチシグを使用する</string>
   <string name="use_biometry" platform="iOS">%@を使用する</string>
-  <string name="Use_face_multisig" platform="iOS">顔認証マルチシグを使用</string>
-  <string name="Use_face_pay" platform="iOS">顔認証で支払う</string>
-  <string name="Use_face_withdraw" platform="iOS">顔認証で出金する</string>
-  <string name="Use_touch_multisig" platform="iOS">指紋認証マルチシグを使用</string>
-  <string name="Use_touch_pay" platform="iOS">指紋認証で支払う</string>
-  <string name="Use_touch_withdraw" platform="iOS">指紋認証で出金する</string>
   <string name="User_is_reported" platform="iOS">報告しました。</string>
   <string name="User_not_found" platform="android, iOS, Desktop">ユーザーが見つかりませんでした</string>
   <string name="Validation_timed_out" platform="iOS">認証時間切れ</string>
@@ -1360,7 +1354,6 @@
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fiとデータ通信</string>
   <string name="window" platform="Desktop">Window</string>
   <string name="withdraw_Address" platform="android, iOS">アドレス</string>
-  <string name="Withdraw_by_PIN" platform="iOS">PINコードを使って出金する</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">出金</string>
   <string name="withdrawal_addr_biometric_add" platform="android">生体認証を使用してアドレスを保存</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">生体認証を使用してアドレスを削除</string>

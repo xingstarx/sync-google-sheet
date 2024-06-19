@@ -17,11 +17,11 @@
   <string name="Access_Contacts_Hint" platform="iOS">同步通讯录到 Mixin 发现更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
-  <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
-  <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
-  <string name="access_your_collectibles" platform="android, iOS">访问你的 NFT 列表</string>
-  <string name="access_your_contacts_list" platform="android, iOS">访问你的联系人列表</string>
-  <string name="access_your_snapshots" platform="android, iOS">访问你的转账记录</string>
+  <string name="access_your_bots_list" platform="android">访问你的机器人列表</string>
+  <string name="access_your_circle_list" platform="android">访问你的圈子列表</string>
+  <string name="access_your_collectibles" platform="android">访问你的 NFT 列表</string>
+  <string name="access_your_contacts_list" platform="android">访问你的联系人列表</string>
+  <string name="access_your_snapshots" platform="android">访问你的转账记录</string>
   <string name="Account" platform="android, iOS, Desktop">账号</string>
   <string name="Acknowledgements" platform="iOS">许可证</string>
   <string name="activity" platform="Desktop">活动</string>
@@ -94,10 +94,10 @@
   <string name="alert_key_group_transcript_message" platform="android, iOS">%1$s分享一个聊天记录</string>
   <string name="alert_key_group_video_message" platform="android, iOS">%1$s发送一个视频</string>
   <string name="All" platform="android, iOS">全部</string>
-  <string name="All_chats" platform="iOS,android">所有聊天</string>
+  <string name="All_chats" platform="android">所有聊天</string>
   <string name="all_chats" platform="Desktop">全部聊天</string>
   <string name="All_Conversations" platform="android, iOS">所有会话</string>
-  <string name="All_dates" platform="iOS,android">所有日期</string>
+  <string name="All_dates" platform="android">所有日期</string>
   <string name="All_Media" platform="android">全部</string>
   <string name="All_Photos" platform="iOS">所有照片</string>
   <string name="All_signer_failure" platform="android,iOS">所有节点失败</string>
@@ -132,7 +132,7 @@
   <string name="Apply" platform="android, iOS">应用</string>
   <string name="archived_folder" platform="Desktop">存档文件夹</string>
   <string name="Asset_Key" platform="android, iOS">资产标识</string>
-  <string name="Asset_Migration" platform="android,iOS">资产迁移</string>
+  <string name="Asset_Migration" platform="android">资产迁移</string>
   <string name="asset_migration_hint" platform="android, iOS">您还有资产在旧的 Mixin 网络，点击查看。</string>
   <string name="Asset_not_found" platform="android, iOS">找不到该资产</string>
   <string name="Asset_Type" platform="iOS, Desktop">资产类型</string>
@@ -141,9 +141,9 @@
   <string name="Audio" platform="android, iOS, Desktop">语音</string>
   <string name="audio_shareable_false" platform="android, iOS">该语音已被设置为不允许转发</string>
   <string name="Audios" platform="android, iOS, Desktop">音频</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$s等</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">允许机器人代表你发消息</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, 头像</string>
+  <string name="auth_assets_more" platform="android">%1$s等</string>
+  <string name="auth_messages_represent_description" platform="android">允许机器人代表你发消息</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, 头像</string>
   <string name="authorization" platform="android, iOS">授权</string>
   <string name="Authorizations" platform="android, iOS">授权</string>
   <string name="Authorize" platform="iOS">授权</string>
@@ -295,10 +295,10 @@
   <string name="chat_text_size" platform="android, Desktop, iOS">聊天字体大小</string>
   <string name="Chat_unpinned" platform="android">置顶会话已取消</string>
   <string name="chat_waiting" platform="android, iOS">等待%1$s上线后建立加密会话。%2$s。</string>
-  <string name="chat_with_us" platform="android, iOS">联系客服</string>
+  <string name="chat_with_us" platform="android">联系客服</string>
   <string name="CHATS" platform="android, iOS">会话</string>
-  <string name="Chats_Count" platform="iOS,android">1 个聊天</string>
-  <string name="Chats_Counts" platform="iOS,android">%1$s 个聊天</string>
+  <string name="Chats_Count" platform="android">1 个聊天</string>
+  <string name="Chats_Counts" platform="android">%1$s 个聊天</string>
   <string name="check_new_version" platform="Desktop">检查新版本</string>
   <string name="check_trace_failed" platform="android">检查支付信息失败，请重试</string>
   <string name="Checking_link" platform="android">正在检查链接</string>
@@ -335,7 +335,7 @@
   <string name="collapse" platform="Desktop">折叠</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">合并转发</string>
-  <string name="Combine_utxo" platform="android, iOS">归集 UTXO</string>
+  <string name="Combine_utxo" platform="android">归集 UTXO</string>
   <string name="Compress_Database" platform="iOS">压缩数据库</string>
   <string name="Compressed" platform="iOS">已压缩</string>
   <string name="Confirm" platform="android, iOS, Desktop">确认</string>
@@ -344,7 +344,7 @@
   <string name="Confirm_PIN" platform="android">确认 PIN</string>
   <string name="confirm_sync_chats_from_phone" platform="Desktop">确认从手机端同步聊天记录吗？</string>
   <string name="confirm_sync_chats_to_phone" platform="Desktop">确认同步聊天记录到手机端吗？</string>
-  <string name="Confirmations" platform="android,iOS,Desktop">区块确认数</string>
+  <string name="Confirmations" platform="android,Desktop">区块确认数</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">连接 TIP 网络失败，请尝试切换网络后重试</string>
   <string name="connect_wallet" platform="android">连接钱包</string>
   <string name="Connected" platform="iOS">已连接</string>
@@ -1014,7 +1014,7 @@
   <string name="OK" platform="android, iOS">好的</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">确保旧的设备已停留在同步等待扫码的界面</string>
   <string name="Old_PIN" platform="android">验证旧的 PIN</string>
-  <string name="old_price" platform="android, iOS">过期价格</string>
+  <string name="old_price" platform="android">过期价格</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">逐条转发</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 小时</string>
   <string name="one_week" platform="android, iOS, Desktop">1 星期</string>
@@ -1053,7 +1053,7 @@
   <string name="Pay_with_PIN" platform="android">用 PIN 支付</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PIN 使用间隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">数量 %@ %@\n手续费 %@ %@</string>
-  <string name="payment_method" platform="android, iOS">支付方式</string>
+  <string name="payment_method" platform="android">支付方式</string>
   <string name="Peer_closed" platform="iOS">Peer 已关闭</string>
   <string name="Peer_not_found" platform="iOS">Peer 无效</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d 区块确认数</string>
@@ -1146,21 +1146,21 @@
   <string name="quote" platform="android">引用</string>
   <string name="Random_keyboard" platform="android">随机键盘</string>
   <string name="Raw" platform="android, iOS, Desktop">其他</string>
-  <string name="Read_Assets" platform="android, iOS">查看资产</string>
-  <string name="Read_Bots" platform="android, iOS">查看应用</string>
-  <string name="Read_Circles" platform="android, iOS">查看圈子</string>
-  <string name="Read_Collectibles" platform="android, iOS">查看 NFT</string>
-  <string name="Read_Contacts" platform="android, iOS">查看联系人</string>
-  <string name="Read_Snapshots" platform="android, iOS">查看转账记录</string>
-  <string name="Read_your_apps" platform="android, iOS">读取你的机器人列表</string>
-  <string name="Read_your_assets" platform="android, iOS">读取你的所有资产</string>
-  <string name="Read_your_circles" platform="android, iOS">读取你的圈子列表</string>
-  <string name="Read_your_contacts" platform="android, iOS">读取你的联系人列表</string>
-  <string name="Read_your_NFTs" platform="android, iOS">读取你的 NFT 列表</string>
-  <string name="Read_your_phone_number" platform="android, iOS">读取你的手机号</string>
-  <string name="read_your_public_address" platform="android, iOS">读取你的地址</string>
-  <string name="Read_your_public_profile" platform="android, iOS">读取你的个人资料</string>
-  <string name="Read_your_snapshots" platform="android, iOS">读取你的转账记录</string>
+  <string name="Read_Assets" platform="android">查看资产</string>
+  <string name="Read_Bots" platform="android">查看应用</string>
+  <string name="Read_Circles" platform="android">查看圈子</string>
+  <string name="Read_Collectibles" platform="android">查看 NFT</string>
+  <string name="Read_Contacts" platform="android">查看联系人</string>
+  <string name="Read_Snapshots" platform="android">查看转账记录</string>
+  <string name="Read_your_apps" platform="android">读取你的机器人列表</string>
+  <string name="Read_your_assets" platform="android">读取你的所有资产</string>
+  <string name="Read_your_circles" platform="android">读取你的圈子列表</string>
+  <string name="Read_your_contacts" platform="android">读取你的联系人列表</string>
+  <string name="Read_your_NFTs" platform="android">读取你的 NFT 列表</string>
+  <string name="Read_your_phone_number" platform="android">读取你的手机号</string>
+  <string name="read_your_public_address" platform="android">读取你的地址</string>
+  <string name="Read_your_public_profile" platform="android">读取你的个人资料</string>
+  <string name="Read_your_snapshots" platform="android">读取你的转账记录</string>
   <string name="Rebate" platform="android, iOS, Desktop">退款</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">验证超时</string>
   <string name="Receive" platform="android">转入</string>
@@ -1190,16 +1190,11 @@
   <string name="Remove_Participants" platform="android">移除成员</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">移除所有表情</string>
   <string name="Removing" platform="android">正在移除…</string>
-  <string name="Repair" platform="iOS">修复</string>
-  <string name="Repair_Chat_History" platform="iOS">修复聊天记录</string>
-  <string name="Repair_Chat_History_Hint" platform="iOS">数据库文件被发现损坏，可能会丢失一些信息，请尝试修复它。</string>
-  <string name="Repair_Chat_History_Success" platform="iOS">聊天记录修复成功！%1$s之前的聊天记录已经恢复。</string>
-  <string name="Repairing" platform="iOS">修复中</string>
   <string name="Reply" platform="android, iOS, Desktop">回复</string>
   <string name="Report" platform="android, iOS, Desktop">举报</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">举报并屏蔽？</string>
   <string name="report_title" platform="iOS, Desktop">给开发人员发送聊天日志？</string>
-  <string name="Represent_Messages" platform="android, iOS">代发消息</string>
+  <string name="Represent_Messages" platform="android">代发消息</string>
   <string name="Represent_send_messages" platform="android, iOS">代表你发消息</string>
   <string name="request_approval" platform="android">允许请求</string>
   <string name="Request_Authorization" platform="android, iOS">请求授权</string>
@@ -1235,7 +1230,7 @@
   <string name="restore_path" platform="android">备份路径：%1$s</string>
   <string name="Restore_Your_Chat_History" platform="iOS">恢复你的聊天记录</string>
   <string name="Restoring" platform="android, iOS">正在恢复...</string>
-  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%1$s%）</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%1$s%%）</string>
   <string name="Restoring_progress" platform="iOS">正在恢复 %@</string>
   <string name="Retry" platform="android, iOS, Desktop">重试</string>
   <string name="Retry_upload_failed" platform="android, Desktop">重新上传失败。</string>
@@ -1291,7 +1286,7 @@
   <string name="security_code" platform="android, iOS">安全码</string>
   <string name="security_code_error" platform="android, iOS">请输入有效的安全码</string>
   <string name="Select" platform="android, iOS, Desktop">选择</string>
-  <string name="select_a_card" platform="android, iOS">选择卡片</string>
+  <string name="select_a_card" platform="android">选择卡片</string>
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">选择支付手续费的币种</string>
   <string name="Select_All" platform="iOS,android">选择所有</string>
@@ -1431,7 +1426,7 @@
   <string name="Sort_by" platform="android, iOS">顺序</string>
   <string name="Start" platform="android,iOS">开始</string>
   <string name="Start_Messaging" platform="android, iOS">开始聊天</string>
-  <string name="Start_Migration" platform="android,iOS">开始迁移</string>
+  <string name="Start_Migration" platform="android">开始迁移</string>
   <string name="started_group_call" platform="iOS">%@ 开始了群通话</string>
   <string name="Status" platform="android, iOS, Desktop">交易状态</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
@@ -1529,7 +1524,7 @@
   <string name="Transfer_to_PC_Hint" platform="iOS,android">同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">给用户或机器人转账</string>
   <string name="transfer_without_pin" platform="android">转账前请先设置 PIN</string>
-  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（%1$s%）</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（%1$s%%）</string>
   <string name="transferring_chats" platform="Desktop">同步聊天记录中</string>
   <string name="transferring_chats_tips" platform="Desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="travel_and_places" platform="Desktop">旅行与地点</string>
@@ -1594,14 +1589,8 @@
   <string name="use_biometric" platform="Desktop">使用生物识别</string>
   <string name="Use_Biometric_Multisig" platform="android">使用生物识别签名</string>
   <string name="use_biometry" platform="iOS">采用%@</string>
-  <string name="Use_face_multisig" platform="iOS">使用面容签名</string>
-  <string name="Use_face_pay" platform="iOS">使用面容支付</string>
-  <string name="Use_face_withdraw" platform="iOS">使用面容提现</string>
-  <string name="use_new_price" platform="android, iOS">使用最新报价</string>
+  <string name="use_new_price" platform="android">使用最新报价</string>
   <string name="Use_System_Text_Size" platform="android, iOS">跟随系统字体大小</string>
-  <string name="Use_touch_multisig" platform="iOS">使用指纹签名</string>
-  <string name="Use_touch_pay" platform="iOS">使用指纹支付</string>
-  <string name="Use_touch_withdraw" platform="iOS">使用指纹提现</string>
   <string name="user_delete_hint" platform="android, iOS, Desktop">该用户已经删除了账号。</string>
   <string name="user_deleted_hint" platform="android">该用户已经删除了账号。</string>
   <string name="User_is_reported" platform="iOS">已举报</string>
@@ -1681,7 +1670,6 @@
   <string name="WiFi_and_cellular" platform="iOS">WLAN 与蜂窝移动网</string>
   <string name="window" platform="Desktop">窗口</string>
   <string name="withdraw_Address" platform="android, iOS">提现地址</string>
-  <string name="Withdraw_by_PIN" platform="iOS">通过 PIN 提现</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">提现</string>
   <string name="withdrawal_addr_biometric_add" platform="android">使用生物识别来完成添加</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">使用生物识别来完成删除</string>
@@ -1707,7 +1695,7 @@
   <string name="withdrawal_to" platform="android, iOS">提现到 %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">用生物识别提现</string>
   <string name="withdrawal_with_PIN" platform="android">用 PIN 提现</string>
-  <string name="Year" platform="iOS,android">年</string>
+  <string name="Year" platform="android">年</string>
   <string name="you" platform="android">你</string>
   <string name="You" platform="android, iOS, Desktop">你</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">你撤回了一条消息</string>
@@ -1864,9 +1852,9 @@
   <string name="Swapping" platform="android,iOS">兑换中</string>
   <string name="Pay" platform="android,iOS">支付</string>
   <string name="Received" platform="android,iOS">收到</string>
-  <string name="Review_Order" platform="android,iOS">预览订单</string>
+  <string name="Review_Order" platform="android">预览订单</string>
   <string name="View_Transaction" platform="android,iOS">查看区块链浏览器</string>
-  <string name="Confirming_Transaction" platform="android,iOS">正在确认交易</string>
+  <string name="Confirming_Transaction" platform="android">正在确认交易</string>
   <string name="Transaction_Success" platform="android,iOS">交易成功</string>
   <string name="Transaction_Failed" platform="android,iOS">交易失败</string>
   <string name="Best_price" platform="android,iOS">最优价格</string>

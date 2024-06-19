@@ -18,11 +18,11 @@
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
-| android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
-| android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
-| android, iOS | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
-| android, iOS | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
-| android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
+| android | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
+| android | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
+| android | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
+| android | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
+| android | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
@@ -95,10 +95,10 @@
 | android, iOS | alert_key_group_transcript_message | %1$s sent a transcript | %1$s分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |     |     |
 | android, iOS | alert_key_group_video_message | %1$s sent a video | %1$s发送一个视频 | %1$sが動画を送信しました | %1$s hantar video | %1$s mengirim video |
 | android, iOS | All | All | 全部  | すべて | Semua | Semua |
-| iOS,android | All_chats | All chats | 所有聊天 |     |     |     |
+| android | All_chats | All chats | 所有聊天 |     |     |     |
 | Desktop | all_chats | Chats | 全部聊天 | チャット |     |     |
 | android, iOS | All_Conversations | All Conversations | 所有会话 | すべてのチャットルーム | Semua Perbualan | Semua Percakapan |
-| iOS,android | All_dates | All dates | 所有日期 |     |     |     |
+| android | All_dates | All dates | 所有日期 |     |     |     |
 | android | All_Media | All Media | 全部  | 全てのメディア | Semua Media | Semua Media |
 | iOS | All_Photos | All Photos | 所有照片 | 全ての画像 |     |     |
 | android,iOS | All_signer_failure | All node failure | 所有节点失败 |     |     |     |
@@ -134,7 +134,7 @@
 | android, iOS | Apply | Apply | 应用  | 適用  | Guna | Terapkan |
 | Desktop | archived_folder | archived folder | 存档文件夹 | アーカイブされたフォルダ |     |     |
 | android, iOS | Asset_Key | Asset Key | 资产标识 | 資産のキー | Kunci Aset | Kode Aset |
-| android,iOS | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
+| android | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
 | android, iOS | asset_migration_hint | You have assets in the legacy network, please view here. | 您还有资产在旧的 Mixin 网络，点击查看。 |     |     |     |
 | android, iOS | Asset_not_found | Asset not found. | 找不到该资产 | 資産が存在しません |     |     |
 | iOS, Desktop | Asset_Type | Asset Type | 资产类型 | 資産タイプ |     |     |
@@ -143,9 +143,9 @@
 | android, iOS, Desktop | Audio | Audio | 语音  | 音声メッセージ | Audio | Audio |
 | android, iOS | audio_shareable_false | The audio has been set to not allow sharing | 该语音已被设置为不允许转发 |     |     |     |
 | android, iOS, Desktop | Audios | Audios | 音频  | 音声メッセージ |     |     |
-| android, iOS | auth_assets_more | %1$s and more | %1$s等 | %1$sとさらに | %1$s dan banyak lagi | %1$s dan lainnya |
-| android, iOS | auth_messages_represent_description | allow bot to send messages represent of you | 允许机器人代表你发消息 | あなたの代わりにミニアプリがメッセージを送ることを許可 | benarkan bot menghantar mesej mewakili anda | Izinkan bot untuk mengirim pesan yang mewakili Anda |
-| android, iOS | auth_profile_content | %1$s, %2$s, profile photo | %1$s, %2$s, 头像 | %1$s, %2$s, プロフィール画像 | %1$s, %2$s, foto profil | %1$s, %2$s, foto profil |
+| android | auth_assets_more | %1$s and more | %1$s等 | %1$sとさらに | %1$s dan banyak lagi | %1$s dan lainnya |
+| android | auth_messages_represent_description | allow bot to send messages represent of you | 允许机器人代表你发消息 | あなたの代わりにミニアプリがメッセージを送ることを許可 | benarkan bot menghantar mesej mewakili anda | Izinkan bot untuk mengirim pesan yang mewakili Anda |
+| android | auth_profile_content | %1$s, %2$s, profile photo | %1$s, %2$s, 头像 | %1$s, %2$s, プロフィール画像 | %1$s, %2$s, foto profil | %1$s, %2$s, foto profil |
 | android, iOS | authorization | authorization | 授权  | 認証  | keizinan | otorisasi |
 | android, iOS | Authorizations | Authorizations | 授权  | 許可  | Kebenaran | Otorisasi |
 | iOS | Authorize | Authorize | 授权  | 許可する |     |     |
@@ -301,10 +301,10 @@
 | android, Desktop, iOS | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
 | android | Chat_unpinned | Chat unpinned | 置顶会话已取消 | ピン留めを解除 |     |     |
 | android, iOS | chat_waiting | Waiting for %1$s to get online and establish an encrypted session. %2$s. | 等待%1$s上线后建立加密会话。%2$s。 | オンラインで暗号化されたやりとりを開始するまであと%1$s。%2$s | Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s. | Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s. |
-| android, iOS | chat_with_us | Chat with us | 联系客服 |     |     |     |
+| android | chat_with_us | Chat with us | 联系客服 |     |     |     |
 | android, iOS | CHATS | CHATS | 会话  | チャット | SEMBANG | OBROLAN |
-| iOS,android | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
-| iOS,android | Chats_Counts | %1$s chats | %1$s 个聊天 |     |     |     |
+| android | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
+| android | Chats_Counts | %1$s chats | %1$s 个聊天 |     |     |     |
 | Desktop | check_new_version | Check new version | 检查新版本 | 最新版をチェック |     |     |
 | android | check_trace_failed | Check trace info failed, please try again | 检查支付信息失败，请重试 | 記録情報の確認失敗、もう一度お試しください | Periksa maklumat jejak gagal, sila cuba lagi | Gagal memeiksa info jejak, coba lagi |
 | android | Checking_link | Checking link | 正在检查链接 | リンク確認中 | Memeriksa pautan | Memeriksa tautan |
@@ -341,7 +341,7 @@
 | Desktop | collapse | Collapse | 折叠  | サイドバー |     |     |
 | iOS | collectible_token_id | #%@ | #%@ | #%@ |     |     |
 | android, iOS, Desktop | Combine_and_forward | Combine and forward | 合并转发 | まとめて転送 |     |     |
-| android, iOS | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
+| android | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
 | iOS | Compress_Database | Compress Database | 压缩数据库 | データの圧縮 |     |     |
 | iOS | Compressed | Compressed | 已压缩 | 圧縮しました |     |     |
 | android, iOS, Desktop | Confirm | Confirm | 确认  | 確認する | Sahkan | Konfirmasi |
@@ -350,7 +350,7 @@
 | android | Confirm_PIN | Confirm PIN | 确认 PIN | PINコードを確認 | Sahkan PIN | Konfirmasikan PIN |
 | Desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
 | Desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
-| android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
+| android,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
@@ -1033,7 +1033,7 @@
 | android, iOS | OK  | OK  | 好的  | OK  | okey | OK  |
 | iOS,android | Old_Device_is_waiting | Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization. | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
 | android | Old_PIN | Old PIN | 验证旧的 PIN | 変更前のPINコード | PIN lama | PIN Lama |
-| android, iOS | old_price | Old Price | 过期价格 |     |     |     |
+| android | old_price | Old Price | 过期价格 |     |     |     |
 | iOS, Desktop | One_by_One_Forward | One-by-One Forward | 逐条转发 | それぞれ転送する |     |     |
 | android, iOS, Desktop | one_hour | 1 Hour | 1 小时 | 1時間 | 1 jam | 1 Jam |
 | android, iOS, Desktop | one_week | 1 Week | 1 星期 | 1週間 | 1 minggu | 1 Minggu |
@@ -1072,7 +1072,7 @@
 | android | Pay_with_PIN | Pay with PIN | 用 PIN 支付 | PINコードで支払う | Bayar dengan PIN | Bayar dengan PIN |
 | android, iOS | Pay_with_PIN_interval | Pay with PIN interval | PIN 使用间隔 | PINコードの再確認間隔 | Bayar dengan selang PIN | Bayar dengan interval PIN |
 | iOS | Pay_withdrawal_memo | Amount %@ %@\nFee %@ %@ | 数量 %@ %@\n手续费 %@ %@ | 額 %@ %@\n手数料 %@ %@ |     |     |
-| android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |
+| android | payment_method | Payment Method | 支付方式 |     |     |     |
 | iOS | Peer_closed | Peer closed | Peer 已关闭 | ピアが閉じています |     |     |
 | iOS | Peer_not_found | Peer not found | Peer 无效 | ピアが見つかりません |     |     |
 | android, iOS, Desktop | pending_confirmation | %1$d/%2$d confirmation | %1$d/%2$d 区块确认数 | %1$d/%2$d 承認 |     |     |
@@ -1166,21 +1166,21 @@
 | android | Random_keyboard | Random keyboard | 随机键盘 |     |     |     |
 | android, iOS, Desktop | Raw | Raw | 其他  | その他 | Mentah | Raw |
 | android | Raw_Transfer | Raw Transfer |     |     |     |     |
-| android, iOS | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
-| android, iOS | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
-| android, iOS | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
-| android, iOS | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
-| android, iOS | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
-| android, iOS | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
-| android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
-| android, iOS | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
-| android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
-| android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
-| android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
-| android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
-| android, iOS | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
-| android, iOS | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
-| android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
+| android | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
+| android | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
+| android | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
+| android | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
+| android | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
+| android | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
+| android | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
+| android | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
+| android | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
+| android | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
+| android | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
+| android | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
+| android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
+| android | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
+| android | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
 | android, iOS, Desktop | Rebate | Rebate | 退款  | 払い戻し | Rebat | Potongan harga |
 | android, Desktop | Recaptcha_timeout | Recaptcha timeout | 验证超时 | Recaptchaがタイムアウトしました | Tamat masa Recaptcha | Batas waktu recaptcha |
 | android | Receive | Receive | 转入  | 入金  |     |     |
@@ -1210,16 +1210,11 @@
 | android | Remove_Participants | Remove Participants | 移除成员 | グループから退会させる | Keluarkan Peserta | Hapus Peserta |
 | android, iOS, Desktop | Remove_Stickers | Remove Stickers | 移除所有表情 | スタンプの削除 |     |     |
 | android | Removing | Removing… | 正在移除… | 削除中… | Mengalih keluar ... | Menghapus… |
-| iOS | Repair | Repair | 修复  |     |     |     |
-| iOS | Repair_Chat_History | Repair Chat History | 修复聊天记录 |     |     |     |
-| iOS | Repair_Chat_History_Hint | The database file is found to be damaged, some messages may be lost, please try to repair it. | 数据库文件被发现损坏，可能会丢失一些信息，请尝试修复它。 |     |     |     |
-| iOS | Repair_Chat_History_Success | The chat history has been repaired successfully! Chat records before  %1$s have been restored. | 聊天记录修复成功！%1$s之前的聊天记录已经恢复。 |     |     |     |
-| iOS | Repairing | Repairing | 修复中 |     |     |     |
 | android, iOS, Desktop | Reply | Reply | 回复  | 返信  |     |     |
 | android, iOS, Desktop | Report | Report | 举报  | 報告  | Lapor | Laporkan |
 | android, iOS, Desktop | Report_and_block | Report and block? | 举报并屏蔽？ | 報告してブロックしますか? |     |     |
 | iOS, Desktop | report_title | Send the conversation log to developers? | 给开发人员发送聊天日志？ | Mixinの開発者へ会話記録を送信しますか? |     |     |
-| android, iOS | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
+| android | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
 | android, iOS | Represent_send_messages | Represent send messages | 代表你发消息 |     |     |     |
 | android | request_approval | Request approval | 允许请求 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
@@ -1255,7 +1250,7 @@
 | android | restore_path | Path: %1$s | 备份路径：%1$s | パス：%1$s | Laluan: %1$s |     |
 | iOS | Restore_Your_Chat_History | Restore Your Chat History | 恢复你的聊天记录 |     |     |     |
 | android, iOS | Restoring | Restoring... | 正在恢复... | …の復元を準備中 |     |     |
-| iOS,android | Restoring_Chat_Progress | Restoring Chat (%1$s%) | 恢复聊天记录（%1$s%） |     |     |     |
+| iOS,android | Restoring_Chat_Progress | Restoring Chat (%1$s%%) | 恢复聊天记录（%1$s%%） |     |     |     |
 | iOS | Restoring_progress | Restoring %@ | 正在恢复 %@ | %@を復元しています |     |     |
 | android, iOS, Desktop | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
 | android, Desktop | Retry_upload_failed | Retry upload failed. | 重新上传失败。 | アップロードの再試行に失敗しました。 | Gagal memuat naik semula. | Unggahan ulang gagal. |
@@ -1312,7 +1307,7 @@
 | android, iOS | security_code | Security code | 安全码 |     |     |     |
 | android, iOS | security_code_error | Please enter a valid security code | 请输入有效的安全码 |     |     |     |
 | android, iOS, Desktop | Select | Select | 选择  | 選択  | Pilih | Pilih |
-| android, iOS | select_a_card | Select a Card | 选择卡片 |     |     |     |
+| android | select_a_card | Select a Card | 选择卡片 |     |     |     |
 | iOS | Select_a_country_or_region | Select a Country or Region | 选择一个国家或地区 | 国と地域を選択 |     |     |
 | android,iOS | select_a_token_for_the_fee | Select a token for the fee | 选择支付手续费的币种 |     |     |     |
 | iOS,android | Select_All | Select All | 选择所有 |     |     |     |
@@ -1453,7 +1448,7 @@
 | android, iOS | Sort_by | Sort by | 顺序  | 並びかえ項目 |     |     |
 | android,iOS | Start | Start | 开始  |     |     |     |
 | android, iOS | Start_Messaging | Start Messaging | 开始聊天 | メッセージを開始 | Mulakan Pemesejan | Mulai Mengirim Pesan |
-| android,iOS | Start_Migration | Start the migration | 开始迁移 |     |     |     |
+| android | Start_Migration | Start the migration | 开始迁移 |     |     |     |
 | iOS | started_group_call | %@ has started a group call | %@ 开始了群通话 | %@がグループ通話を開始しました |     |     |
 | android, iOS, Desktop | Status | Status | 交易状态 | ステータス | Status | Status |
 | android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
@@ -1552,7 +1547,7 @@
 | iOS,android | Transfer_to_PC_Hint | Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 | iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
 | android | transfer_without_pin | You must setup PIN for transfer | 转账前请先设置 PIN | 送金するにはPINコードの設定が必要です | Anda mesti sediakan PIN untuk pemindahan | Anda harus membuat PIN untuk transfer |
-| iOS,android | Transferring_chat_Progress | Transferring Chat (%1$s%) | 传输聊天记录（%1$s%） |     |     |     |
+| iOS,android | Transferring_chat_Progress | Transferring Chat (%1$s%%) | 传输聊天记录（%1$s%%） |     |     |     |
 | Desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
 | Desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | Desktop | travel_and_places | Travel & Places | 旅行与地点 |     |     |     |
@@ -1617,14 +1612,8 @@
 | Desktop | use_biometric | Use Biometric | 使用生物识别 |     |     |     |
 | android | Use_Biometric_Multisig | Use Biometric Multisig | 使用生物识别签名 | 生体認証マルチシグを使用する | Gunakan Biometric Multisig | Gunakan Multisig Biometrik |
 | iOS | use_biometry | Use %@ | 采用%@ | %@を使用する |     |     |
-| iOS | Use_face_multisig | Use Face Multisig | 使用面容签名 | 顔認証マルチシグを使用 |     |     |
-| iOS | Use_face_pay | Use Face Pay | 使用面容支付 | 顔認証で支払う |     |     |
-| iOS | Use_face_withdraw | Use Face Withdraw | 使用面容提现 | 顔認証で出金する |     |     |
-| android, iOS | use_new_price | Use New Price | 使用最新报价 |     |     |     |
+| android | use_new_price | Use New Price | 使用最新报价 |     |     |     |
 | android, iOS | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
-| iOS | Use_touch_multisig | Use Touch Multisig | 使用指纹签名 | 指紋認証マルチシグを使用 |     |     |
-| iOS | Use_touch_pay | Use Touch Pay | 使用指纹支付 | 指紋認証で支払う |     |     |
-| iOS | Use_touch_withdraw | Use Touch Withdraw | 使用指纹提现 | 指紋認証で出金する |     |     |
 | android, iOS, Desktop | user_delete_hint | The user has deleted his own account. | 该用户已经删除了账号。 |     |     |     |
 | android | user_deleted_hint | The user has deleted the account. | 该用户已经删除了账号。 |     |     |     |
 | iOS | User_is_reported | User has been reported | 已举报 | 報告しました。 |     |     |
@@ -1706,7 +1695,6 @@
 | iOS | WiFi_and_cellular | Wi-Fi and Cellular | WLAN 与蜂窝移动网 | Wi-Fiとデータ通信 |     |     |
 | Desktop | window | Window | 窗口  | Window |     |     |
 | android, iOS | withdraw_Address | Address | 提现地址 | アドレス | Alamat | Alamat |
-| iOS | Withdraw_by_PIN | Withdraw by PIN | 通过 PIN 提现 | PINコードを使って出金する |     |     |
 | android, iOS, Desktop | Withdrawal | Withdraw | 提现  | 出金  | Pengeluaran | Penarikan |
 | android | withdrawal_addr_biometric_add | Use Biometric to save address | 使用生物识别来完成添加 | 生体認証を使用してアドレスを保存 | Gunakan Biometrik untuk menyimpan alamat | Gunakan Biometrik untuk menyimpan alamat |
 | android | withdrawal_addr_biometric_delete | Use Biometric to delete address | 使用生物识别来完成删除 | 生体認証を使用してアドレスを削除 | Gunakan Biometrik untuk memadam alamat | Gunakan Biometrik untuk menghapus alamat |
@@ -1732,7 +1720,7 @@
 | android, iOS | withdrawal_to | Withdraw to %1$s | 提现到 %1$s | %1$sへ出金 | Pengeluaran ke %1$s | Penarikan ke %1$s |
 | android | withdrawal_with_biometric | Withdrawal with Biometric | 用生物识别提现 | 生体認証を使用して出金 | Pengeluaran dengan Biometrik | Penarikan dengan Biometrik |
 | android | withdrawal_with_PIN | Withdrawal with PIN | 用 PIN 提现 | PINコードを使用して出金 | Pengeluaran dengan PIN | Penarikan dengan PIN |
-| iOS,android | Year | Year | 年   |     |     |     |
+| android | Year | Year | 年   |     |     |     |
 | android | you | you | 你   | 自分  |     |     |
 | android, iOS, Desktop | You | You | 你   | 自分  | Anda | Anda |
 | android, iOS, Desktop | You_deleted_this_message | You deleted this message | 你撤回了一条消息 | このメッセージを削除しました。 | Anda memadamkan mesej ini | Anda menghapus pesan ini |
@@ -1893,9 +1881,9 @@
 | android,iOS | Swapping | Swapping | 兑换中 |     |     |     |
 | android,iOS | Pay | Pay | 支付  |     |     |     |
 | android,iOS | Received | received | 收到  |     |     |     |
-| android,iOS | Review_Order | Review Order | 预览订单 |     |     |     |
+| android | Review_Order | Review Order | 预览订单 |     |     |     |
 | android,iOS | View_Transaction | View Transaction | 查看区块链浏览器 |     |     |     |
-| android,iOS | Confirming_Transaction | Confirming Transaction | 正在确认交易 |     |     |     |
+| android | Confirming_Transaction | Confirming Transaction | 正在确认交易 |     |     |     |
 | android,iOS | Transaction_Success | Transaction Success | 交易成功 |     |     |     |
 | android,iOS | Transaction_Failed | Transaction Failed | 交易失败 |     |     |     |
 | android,iOS | Best_price | Best price | 最优价格 |     |     |     |

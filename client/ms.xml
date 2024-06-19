@@ -4,10 +4,10 @@
   <string name="Accept" platform="android">Terima</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Akses dinafikan</string>
   <string name="Access_to_Contacts" platform="iOS,android"> </string>
-  <string name="access_your_bots_list" platform="android, iOS">akses senarai aplikasi anda</string>
-  <string name="access_your_circle_list" platform="android, iOS">akses senarai lingkaran anda</string>
-  <string name="access_your_contacts_list" platform="android, iOS">akses senarai kenalan anda</string>
-  <string name="access_your_snapshots" platform="android, iOS">akses gambar anda</string>
+  <string name="access_your_bots_list" platform="android">akses senarai aplikasi anda</string>
+  <string name="access_your_circle_list" platform="android">akses senarai lingkaran anda</string>
+  <string name="access_your_contacts_list" platform="android">akses senarai kenalan anda</string>
+  <string name="access_your_snapshots" platform="android">akses gambar anda</string>
   <string name="Account" platform="android, iOS, Desktop">Akaun</string>
   <string name="Add_address" platform="android, iOS">Tambah alamat</string>
   <string name="Add_bot" platform="android, iOS">Tambah Bot</string>
@@ -60,9 +60,9 @@
   <string name="Asset_Key" platform="android, iOS">Kunci Aset</string>
   <string name="ASSETS" platform="android, iOS">ASET</string>
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$s dan banyak lagi</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">benarkan bot menghantar mesej mewakili anda</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, foto profil</string>
+  <string name="auth_assets_more" platform="android">%1$s dan banyak lagi</string>
+  <string name="auth_messages_represent_description" platform="android">benarkan bot menghantar mesej mewakili anda</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, foto profil</string>
   <string name="authorization" platform="android, iOS">keizinan</string>
   <string name="Authorizations" platform="android, iOS">Kebenaran</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
@@ -510,11 +510,11 @@
   <string name="QR_Code_not_found" platform="android, iOS">Kod Qr tidak dijumpai</string>
   <string name="quote" platform="android">petikan</string>
   <string name="Raw" platform="android, iOS, Desktop">Mentah</string>
-  <string name="Read_Assets" platform="android, iOS">Baca Aset</string>
-  <string name="Read_Bots" platform="android, iOS">Aplikasi baca</string>
-  <string name="Read_Circles" platform="android, iOS">Lingkaran Baca</string>
-  <string name="Read_Contacts" platform="android, iOS">Baca Kenalan</string>
-  <string name="Read_Snapshots" platform="android, iOS">Baca Syot kilat</string>
+  <string name="Read_Assets" platform="android">Baca Aset</string>
+  <string name="Read_Bots" platform="android">Aplikasi baca</string>
+  <string name="Read_Circles" platform="android">Lingkaran Baca</string>
+  <string name="Read_Contacts" platform="android">Baca Kenalan</string>
+  <string name="Read_Snapshots" platform="android">Baca Syot kilat</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebat</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Tamat masa Recaptcha</string>
   <string name="RECEIVE" platform="android, iOS">Terima</string>
@@ -534,7 +534,7 @@
   <string name="Remove_Participants" platform="android">Keluarkan Peserta</string>
   <string name="Removing" platform="android">Mengalih keluar ...</string>
   <string name="Report" platform="android, iOS, Desktop">Lapor</string>
-  <string name="Represent_Messages" platform="android, iOS">Wakilkan Mesej</string>
+  <string name="Represent_Messages" platform="android">Wakilkan Mesej</string>
   <string name="Requests_access_to_your" platform="android">Meminta akses ke anda</string>
   <string name="Resend_code" platform="android, iOS, Desktop">Hantar semula kod</string>
   <string name="Resend_code_in" platform="android, Desktop">Hantar semula kod dalam %1$d s</string>
