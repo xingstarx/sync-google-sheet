@@ -282,6 +282,15 @@
 	<string name="Close">關閉</string>
 	<string name="Closing_Balance">期末餘額</string>
 	<string name="Collectible">藏品</string>
+	<string name="Collectible_Hash">藏品雜湊</string>
+	<string name="collectible_not_found">藏品不存在</string>
+	<string name="collectible_release_confirmation">分解藏品</string>
+	<string name="collectible_release_failed">分解失敗</string>
+	<string name="collectible_release_hint">分解藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造藏品。</string>
+	<string name="collectible_release_success">分解成功</string>
+	<string name="collectible_released_description">藏品分解成功，點選檢視代幣。</string>
+	<string name="collectible_releasing">分解中</string>
+	<string name="collectible_releasing_description">正在分解藏品，請稍候。</string>
 	<string name="Collectibles">藏品</string>
 	<string name="Collection">合集</string>
 	<string name="Combine_and_forward">合併轉發</string>
@@ -648,15 +657,6 @@
 	<string name="Incognito_Keyboard">隱身鍵盤</string>
 	<string name="Incoming_voice_call">語音通話來電</string>
 	<string name="Initializing">初始化…</string>
-	<string name="inscription_Hash">藏品雜湊</string>
-	<string name="inscription_not_found">藏品不存在</string>
-	<string name="inscription_release_confirmation">分解收藏品</string>
-	<string name="inscription_release_failed">分解失敗</string>
-	<string name="inscription_release_hint">分解收藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造收藏品。</string>
-	<string name="inscription_release_success">分解成功</string>
-	<string name="inscription_released_description">收藏品分解成功，點選檢視代幣。</string>
-	<string name="inscription_releasing">分解中</string>
-	<string name="inscription_releasing_description">銘文正在分解中，請稍候！</string>
 	<string name="insufficient_balance">餘額不足</string>
 	<string name="insufficient_gas">您的賬戶中沒有足夠的 %1$s 來支付網路費用</string>
 	<string name="Invalid_Address">無效的地址</string>
@@ -807,7 +807,6 @@
 	<string name="new_price">最新價格</string>
 	<string name="new_wallet_hint">建立你的第一個數字錢包，所有資產都在一個錢包，收發加密資產簡單易用。</string>
 	<string name="Next">下一步</string>
-	<string name="NFT_TOKEN">NFT 代幣</string>
 	<string name="NO_AUDIO">沒有音訊</string>
 	<string name="NO_AUTHORIZATIONS">沒有授權任何機器人</string>
 	<string name="No_Available_Assets">沒有可用資產</string>
@@ -1057,8 +1056,8 @@
 	<string name="SEARCH_MESSAGES">搜尋訊息</string>
 	<string name="search_placeholder_address">名稱, 地址</string>
 	<string name="search_placeholder_asset">名稱, 符號</string>
+	<string name="search_placeholder_collectible">名稱</string>
 	<string name="search_placeholder_dapp">名稱, URL</string>
-	<string name="search_placeholder_inscription">名稱</string>
 	<string name="search_placeholder_number">搜尋 Mixin ID 或手機號碼：</string>
 	<plurals name="search_related_message" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d 條相關的訊息</item>

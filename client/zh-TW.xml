@@ -1843,12 +1843,11 @@
   <string name="HASH" platform="android, iOS, Desktop">雜湊</string>
   <string name="ID" platform="android, iOS, Desktop">ID</string>
   <string name="Collection" platform="android, iOS, Desktop">合集</string>
-  <string name="NFT_TOKEN" platform="android, iOS, Desktop">NFT 代幣</string>
   <string name="Collectible" platform="android, iOS, Desktop">藏品</string>
   <string name="Collectibles" platform="android, iOS, Desktop">藏品</string>
-  <string name="search_placeholder_inscription" platform="android, iOS">名稱</string>
+  <string name="search_placeholder_collectible" platform="android, iOS">名稱</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">傳送一個藏品</string>
-  <string name="inscription_Hash" platform="android, iOS">藏品雜湊</string>
+  <string name="Collectible_Hash" platform="android, iOS">藏品雜湊</string>
   <string name="Swap" platform="android,iOS">閃兌</string>
   <string name="Swapping" platform="android,iOS">兌換中</string>
   <string name="Pay" platform="android,iOS">支付</string>
@@ -1895,14 +1894,14 @@
   <string name="web3_nft_burn" platform="android,iOS">NFT燃燒</string>
   <string name="web3_unknown" platform="android,iOS">未知</string>
   <string name="Release" platform="android,iOS">分解</string>
-  <string name="inscription_releasing" platform="android,iOS">分解中</string>
-  <string name="inscription_releasing_description" platform="android,iOS">銘文正在分解中，請稍候！</string>
-  <string name="inscription_release_success" platform="android,iOS">分解成功</string>
-  <string name="inscription_release_failed" platform="android,iOS">分解失敗</string>
-  <string name="inscription_released_description" platform="android,iOS">收藏品分解成功，點選檢視代幣。</string>
-  <string name="inscription_release_confirmation" platform="android,iOS">分解收藏品</string>
-  <string name="inscription_release_hint" platform="android,iOS">分解收藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造收藏品。</string>
-  <string name="inscription_not_found" platform="android">藏品不存在</string>
+  <string name="collectible_releasing" platform="android,iOS">分解中</string>
+  <string name="collectible_releasing_description" platform="android,iOS">正在分解藏品，請稍候。</string>
+  <string name="collectible_release_success" platform="android,iOS">分解成功</string>
+  <string name="collectible_release_failed" platform="android,iOS">分解失敗</string>
+  <string name="collectible_released_description" platform="android,iOS">藏品分解成功，點選檢視代幣。</string>
+  <string name="collectible_release_confirmation" platform="android,iOS">分解藏品</string>
+  <string name="collectible_release_hint" platform="android,iOS">分解藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造藏品。</string>
+  <string name="collectible_not_found" platform="android">藏品不存在</string>
   <string name="Token" platform="android,iOS">代幣</string>
   <string name="Link" platform="android,iOS">連結</string>
   <string name="Set_as_avatar" platform="android,iOS">設定為頭像</string>
