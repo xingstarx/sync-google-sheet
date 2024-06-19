@@ -150,7 +150,7 @@
 "call_with_mixin" = "Позвонить с Mixin";
 "calling" = "Вызов...";
 "camera" = "Камера";
-"cancel" = "Отмена";
+"cancel" = "Отменить";
 "cancel_floating" = "Отменить всплывание";
 "canceled" = "Отменено";
 "canceled_by_caller" = "Отменено звонившим";
@@ -728,7 +728,7 @@
 "pay_paid" = "Эта платежная ссылка уже кем-то оплачена, повторный платеж сделать нельзя.";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin_interval" = "Оплата с интервалом PIN";
-"pay_withdrawal_memo" = "Сумма %@ %@\nКомиссия %@ %@";
+"pay_withdrawal_memo" = "Amount %@ %@\nFee %@ %@";
 "peer_closed" = "Пир закрыт";
 "peer_not_found" = "Пир не найден";
 "pending_confirmation" = "%1$d/%2$d подтверждение";

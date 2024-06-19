@@ -138,7 +138,7 @@
 	<string name="Calling">Вызов…</string>
 	<string name="Camera">Камера</string>
 	<string name="can_not_recognize_qr_code">Не могу распознать QR-код</string>
-	<string name="Cancel">Отмена</string>
+	<string name="Cancel">Отменить</string>
 	<string name="Cancel_Floating">Отменить всплывание</string>
 	<string name="Canceled">Отменено</string>
 	<string name="Canceled_by_caller">Отменено звонившим</string>
