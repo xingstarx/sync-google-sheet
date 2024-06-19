@@ -426,7 +426,7 @@
 	<string name="error_too_small_withdraw_amount">ERROR 20127: Cantidad de retiro demasiado pequeña</string>
 	<string name="error_transcript_forward">Reenvía todos los archivos adjuntos después de que se hayan descargado.</string>
 	<string name="error_transfer_is_already_paid">ERROR 20125: La transferencia ya está pagada.</string>
-	<string name="error_unable_to_open_link">No puedo encontrar una aplicación capaz de abrir este enlace.\n%1$s</string>
+	<string name="error_unable_to_open_link">No puedo encontrar una aplicación capaz de abrir este enlace.\n%1$s</string>
 	<string name="error_unable_to_open_media">No puedo encontrar una aplicación capaz de abrir este medio.</string>
 	<string name="error_unknown_with_code">ERROR: %1$d</string>
 	<string name="error_unknown_with_message">ERROR: %1$s</string>
@@ -556,7 +556,7 @@
 		<item quantity="other">Precisión de %1$d metros</item>
 	</plurals>
 	<string name="location_distance_away">%1$s %2$s de distancia</string>
-	<string name="location_empty">No ha habido resultados para %1$s\nPrueba una nueva búsqueda</string>
+	<string name="location_empty">No ha habido resultados para %1$s\nPrueba una nueva búsqueda</string>
 	<string name="location_enable_title">Habilita tu GPS para acceder a la ubicación</string>
 	<string name="location_google_error">El servicio de Google no está instalado.</string>
 	<string name="location_kilometre">km</string>

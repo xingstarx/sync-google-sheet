@@ -590,7 +590,7 @@
 "location" = "Localización";
 "location_accuracy_to" = "Preciso al %@";
 "location_distance" = "Distancia: %@";
-"location_empty" = "No ha habido resultados para %@\nPrueba una nueva búsqueda";
+"location_empty" = "No ha habido resultados para %@\nPrueba una nueva búsqueda";
 "location_undetermined" = "Tu ubicación aún no se ha determinado. Por favor, inténtalo de nuevo más tarde";
 "lock_with_biometric" = "Bloquear con %@";
 "log_in" = "Iniciar sesión";
@@ -728,7 +728,7 @@
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin_interval" = "Intervalo de pago con PIN";
-"pay_withdrawal_memo" = "Importe %@ %@\nTarifa %@ %@";
+"pay_withdrawal_memo" = "Importe %@ %@\nTarifa %@ %@";
 "peer_closed" = "Par cerrado";
 "peer_not_found" = "Par no encontrado";
 "pending_confirmation" = "%1$d/%2$d confirmación";
@@ -847,7 +847,7 @@
 "reset_link" = "Restablecer enlace";
 "restore" = "Restaurar";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
-"restore_chat_hint" = "Restaura tu\nhistorial de chat desde iCloud";
+"restore_chat_hint" = "Restaura tu\nhistorial de chat desde iCloud";
 "restore_chat_history" = "Restore Chat History";
 "restore_chat_history_failed" = "Restore from iCloud failed";
 "restore_chat_history_hint" = "Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring.";
