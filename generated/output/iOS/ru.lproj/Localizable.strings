@@ -3,11 +3,6 @@
 "access_dapps_defi_projects" = "Access dApps and DeFi projects.";
 "access_denied" = "В доступе отказано";
 "access_to_contacts" = "Доступ к контактам";
-"access_your_bots_list" = "получить доступ к списку ботов";
-"access_your_circle_list" = "доступ к вашему списку кругов";
-"access_your_collectibles" = "получить доступ к своим коллекционным предметам";
-"access_your_contacts_list" = "получить доступ к списку контактов";
-"access_your_snapshots" = "получить доступ к вашим снимкам";
 "account" = "Аккаунт";
 "accounts" = "Accounts";
 "acknowledgements" = "Благодарности";
@@ -74,9 +69,7 @@
 "alert_key_group_transcript_message" = "%@ отправил стенограмму";
 "alert_key_group_video_message" = "%@ отправил видео";
 "all" = "Все";
-"all_chats" = "All chats";
 "all_conversations" = "Все разговоры";
-"all_dates" = "All dates";
 "all_photos" = "Все фотографии";
 "all_signer_failure" = "All node failure";
 "all_transactions" = "Все транзакции";
@@ -103,7 +96,6 @@
 "appearance" = "Вид";
 "apply" = "Подать заявление";
 "asset_key" = "Ключ актива";
-"asset_migration" = "Network Upgrade";
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Актив не найден.";
 "asset_type" = "Тип актива";
@@ -112,9 +104,6 @@
 "audio" = "Аудио";
 "audio_shareable_false" = "The audio has been set to not allow sharing";
 "audios" = "Аудио";
-"auth_assets_more" = "%@ и более";
-"auth_messages_represent_description" = "разрешить боту отправлять сообщения, представляющие вас";
-"auth_profile_content" = "%1$@, %2$@, фото профиля";
 "authorization" = "авторизация";
 "authorizations" = "Авторизации";
 "authorize" = "Разрешить";
@@ -211,10 +200,7 @@
 "chat_restore_subtitle" = "Вы не сможете восстановить позже, если откажетесь от восстановления сейчас. Медиафайлы будут продолжать восстанавливаться в фоновом режиме после восстановления сообщений.";
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Ожидание, пока %1$@ подключится к сети и установит зашифрованный сеанс. %2$@.";
-"chat_with_us" = "Chat with us";
 "chats" = "ЧАТЫ";
-"chats_count" = "1 chat";
-"chats_counts" = "%@ chats";
 "choose_network" = "Choose Network";
 "choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Выбрать фото";
@@ -238,7 +224,6 @@
 "collectibles" = "Collectibles";
 "collection" = "Collection";
 "combine_and_forward" = "Объединить и вперед";
-"combine_utxo" = "Combine UTXOs";
 "compress_database" = "Сжать базу данных";
 "compressed" = "Сжатый";
 "confirm" = "Подтвердить";
@@ -248,8 +233,6 @@
 "confirm_signing_multisig" = "Confirm Signing Multisig";
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
-"confirmations" = "Confirmations";
-"confirming_transaction" = "Confirming Transaction";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
@@ -729,7 +712,6 @@
 "off" = "Выключенный";
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
-"old_price" = "Old Price";
 "one_by_one_forward" = "Один за другим вперед";
 "one_hour" = "1 час";
 "one_week" = "1 неделя";
@@ -757,7 +739,6 @@
 "pay_with_biometry_type" = "Pay with %@";
 "pay_with_pin_interval" = "Оплата с интервалом PIN";
 "pay_withdrawal_memo" = "Сумма %@ %@\nКомиссия %@ %@";
-"payment_method" = "Payment Method";
 "peer_closed" = "Пир закрыт";
 "peer_not_found" = "Пир не найден";
 "pending_confirmation" = "%1$d/%2$d подтверждение";
@@ -824,21 +805,6 @@
 "qr_code" = "QR код";
 "qr_code_not_found" = "QR-код не найден";
 "raw" = "Исходный";
-"read_assets" = "Чтение активов";
-"read_bots" = "Чтение ботов";
-"read_circles" = "Чтение кругов";
-"read_collectibles" = "Чтение коллекционных предметов";
-"read_contacts" = "Чтение контактов";
-"read_snapshots" = "Чтение снимков";
-"read_your_apps" = "Read your bots";
-"read_your_assets" = "Read your assets";
-"read_your_circles" = "Read your circles";
-"read_your_contacts" = "Read your contacts";
-"read_your_nfts" = "Read your NFTs";
-"read_your_phone_number" = "Read your phone number";
-"read_your_public_address" = "Read your public address";
-"read_your_public_profile" = "Read your public profile";
-"read_your_snapshots" = "Read your snapshots";
 "rebate" = "Скидка";
 "receive" = "ПОЛУЧИТЬ";
 "receive_from_address_description" = "From another wallet or exchange";
@@ -863,16 +829,10 @@
 "remove_emergency_contact_for_sure" = "Точно удалить экстренный контакт?";
 "remove_from_group" = "Удалить из группы";
 "remove_stickers" = "Удалить наклейки";
-"repair" = "Repair";
-"repair_chat_history" = "Repair Chat History";
-"repair_chat_history_hint" = "The database file is found to be damaged, some messages may be lost, please try to repair it.";
-"repair_chat_history_success" = "The chat history has been repaired successfully! Chat records before  %@ have been restored.";
-"repairing" = "Repairing";
 "reply" = "Ответить";
 "report" = "Отчет";
 "report_and_block" = "Пожаловаться и заблокировать?";
 "report_title" = "Отправить журнал бесед разработчикам?";
-"represent_messages" = "Представить сообщения";
 "represent_send_messages" = "Represent send messages";
 "request_authorization" = "Request Authorization";
 "request_rejected" = "Request Rejected";
@@ -896,13 +856,12 @@
 "restore_now" = "Restore Now";
 "restore_your_chat_history" = "Restore Your Chat History";
 "restoring" = "Восстановление...";
-"restoring_chat_progress" = "Restoring Chat (%@%)";
+"restoring_chat_progress" = "Restoring Chat (%@%%)";
 "restoring_progress" = "Восстановление %@";
 "retry" = "Повторить";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
 "review_address_hint" = "Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.";
-"review_order" = "Review Order";
 "review_transfer_hint" = "Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss.";
 "review_withdrawal_hint" = "Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.";
 "revoke_access" = "Отменить доступ";
@@ -944,7 +903,6 @@
 "security_code" = "Security code";
 "security_code_error" = "Please enter a valid security code";
 "select" = "Выбрать";
-"select_a_card" = "Select a Card";
 "select_a_country_or_region" = "Выберите страну или регион";
 "select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
@@ -1057,7 +1015,6 @@
 "sort_by" = "Сортировать по";
 "start" = "Start";
 "start_messaging" = "Начать обмен сообщениями";
-"start_migration" = "Start the migration";
 "started_group_call" = "%@ начал групповой вызов";
 "status" = "Статус";
 "stay_in_mixin" = "Stay in Mixin";
@@ -1141,7 +1098,7 @@
 "transfer_to_pc" = "Transfer to PC";
 "transfer_to_pc_hint" = "Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_to_user_or_bot" = "Перевод пользователю или боту";
-"transferring_chat_progress" = "Transferring Chat (%@%)";
+"transferring_chat_progress" = "Transferring Chat (%@%%)";
 "trending" = "В тренде";
 "try_again" = "Попробуйте еще раз";
 "trying_connect_tip_network" = "Connecting the TIP network";
@@ -1200,14 +1157,7 @@
 "uploading_progress" = "Загрузка: %@ из %@ (%@)";
 "url_unrecognized_hint" = "%@ не удалось распознать, обновите Mixin до последней версии или свяжитесь с разработчиком, чтобы проверить ссылку";
 "use_biometry" = "Использовать %@";
-"use_face_multisig" = "Используйте Face Multisig";
-"use_face_pay" = "Используйте Face Pay";
-"use_face_withdraw" = "Используйте Face Withdraw";
-"use_new_price" = "Use New Price";
 "use_system_text_size" = "Use System Text Size";
-"use_touch_multisig" = "Используйте сенсорную мультиподпись";
-"use_touch_pay" = "Используйте сенсорную оплату";
-"use_touch_withdraw" = "Используйте сенсорный вывод";
 "user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "Сообщено о пользователе";
 "user_not_found" = "Пользователь не найден";
@@ -1296,7 +1246,6 @@
 "wifi_and_cellular" = "Wi-Fi и сотовая связь";
 "withdraw_address" = "Адрес";
 "withdraw_all_of_token_warning" = "This dApp can withdraw all your %@.";
-"withdraw_by_pin" = "Вывод по PIN-коду";
 "withdrawal" = "Вывести";
 "withdrawal_addr_has_memo_or_tag" = "Тег назначения или номер ID или заметки. Если нет, вы можете установить это %@.";
 "withdrawal_addr_new" = "Новый адрес %@";
@@ -1318,7 +1267,6 @@
 "withdrawal_suspended" = "%@ Withdrawal Suspended";
 "withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.";
 "withdrawal_to" = "Вывод на %@";
-"year" = "Year";
 "you" = "Вы";
 "you_deleted_this_message" = "Вы удалили это сообщение";
 "you_have_a_new_message" = "У вас новое сообщение";

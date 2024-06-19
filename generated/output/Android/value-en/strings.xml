@@ -1035,7 +1035,7 @@
 	<string name="Restore_Now">Restore Now</string>
 	<string name="restore_path">Path: %1$s</string>
 	<string name="Restoring">Restoring…</string>
-	<string name="Restoring_Chat_Progress">Restoring Chat (%1$s%)</string>
+	<string name="Restoring_Chat_Progress">Restoring Chat (%1$s%%)</string>
 	<string name="Retry">Retry</string>
 	<string name="Retry_upload_failed">Retry upload failed.</string>
 	<string name="return_to_merchant_description">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
@@ -1309,7 +1309,7 @@
 	<string name="Transfer_to_PC">Transfer to PC</string>
 	<string name="Transfer_to_PC_Hint">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
 	<string name="transfer_without_pin">You must setup PIN for transfer</string>
-	<string name="Transferring_chat_Progress">Transferring Chat (%1$s%)</string>
+	<string name="Transferring_chat_Progress">Transferring Chat (%1$s%%)</string>
 	<string name="Trending">Trending</string>
 	<string name="Try_Again">Try Again</string>
 	<string name="Trying_connect_tip_network">Connecting the TIP network</string>

@@ -1016,7 +1016,7 @@
 	<string name="Restore_Now">開始恢復</string>
 	<string name="restore_path">備份路徑：%1$s</string>
 	<string name="Restoring">正在恢復…</string>
-	<string name="Restoring_Chat_Progress">恢復聊天記錄（%1$s%）</string>
+	<string name="Restoring_Chat_Progress">恢復聊天記錄（%1$s%%）</string>
 	<string name="Retry">重試</string>
 	<string name="Retry_upload_failed">重新上傳失敗。</string>
 	<string name="return_to_merchant_description">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>
@@ -1287,7 +1287,7 @@
 	<string name="Transfer_to_PC">備份到桌面端</string>
 	<string name="Transfer_to_PC_Hint">同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩臺裝置接入同一個 Wi-Fi 或熱點。</string>
 	<string name="transfer_without_pin">轉賬前請先設定 PIN</string>
-	<string name="Transferring_chat_Progress">傳輸聊天記錄（%1$s%）</string>
+	<string name="Transferring_chat_Progress">傳輸聊天記錄（%1$s%%）</string>
 	<string name="Trending">熱門資產</string>
 	<string name="Try_Again">請重試</string>
 	<string name="Trying_connect_tip_network">正在連線 TIP 網路</string>
