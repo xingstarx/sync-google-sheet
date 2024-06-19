@@ -750,7 +750,7 @@
   <string name="Monthly" platform="iOS">月</string>
   <string name="More" platform="android, iOS, Desktop">もっとみる</string>
   <string name="Move_and_Scale" platform="iOS">移動と拡大縮小</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">PINコードでマルチシグウォレットを使用する</string>
+  <string name="Multisig_by_PIN" platform="android">PINコードでマルチシグウォレットを使用する</string>
   <string name="multisig_receiver" platform="android, iOS">受取人</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">受取人(%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません</string>
@@ -801,7 +801,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">ファイルがありません</string>
   <string name="No_hidden_assets" platform="android, iOS">非表示資産はありません</string>
   <string name="No_Items_Selected" platform="iOS">選択してください</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">リンクがありません</string>
+  <string name="NO_LINKS" platform="android, Desktop">リンクがありません</string>
   <string name="No_logs" platform="android, iOS">ログがありません</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">メディアがありません</string>
   <string name="No_media_yet" platform="android">メディアがありません</string>
@@ -872,7 +872,7 @@
   <string name="pay_paid" platform="android, iOS">この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。</string>
   <string name="Pay_with_Biometrics" platform="android">生体認証で支払う</string>
   <string name="Pay_with_biometry_type" platform="iOS">%@で支払う</string>
-  <string name="Pay_with_PIN" platform="android, iOS">PINコードで支払う</string>
+  <string name="Pay_with_PIN" platform="android">PINコードで支払う</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PINコードの再確認間隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">額 %@ %@\n手数料 %@ %@</string>
   <string name="Peer_closed" platform="iOS">ピアが閉じています</string>
@@ -941,7 +941,7 @@
   <string name="profile_modify_number" platform="android">電話番号を変更しますか?</string>
   <string name="Profile_photo" platform="android, iOS">プロフィール画像</string>
   <string name="profile_share_bot_hint" platform="android, iOS">ミニアプリをシェアしたい場合は、まずミニアプリを連絡先に追加してください。</string>
-  <string name="Public_profile" platform="android, iOS">プロフィール(必須)</string>
+  <string name="Public_profile" platform="android">プロフィール(必須)</string>
   <string name="QR_Code" platform="android, iOS">QRコード</string>
   <string name="qr_code_camera_code" platform="android">内蔵カメラでQRコードを読み取ります。コードが検出されたら、通知をタップしてください</string>
   <string name="QR_Code_not_found" platform="android, iOS">QRコードが見つかりません</string>
@@ -1013,7 +1013,6 @@
   <string name="Saturday" platform="android">土曜日</string>
   <string name="Save" platform="android, iOS, Desktop">保存</string>
   <string name="save_as" platform="Desktop">名前をつけて保存</string>
-  <string name="Save_by_PIN" platform="iOS">ピンで保存</string>
   <string name="Save_failure" platform="android">保存失敗</string>
   <string name="Save_image" platform="android, iOS">画像を保存する</string>
   <string name="Save_success" platform="android">保存成功</string>

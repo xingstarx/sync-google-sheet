@@ -13,7 +13,7 @@
   <string name="About" platform="android, iOS, Desktop">About</string>
   <string name="about_version" platform="android">Version %1$s</string>
   <string name="Accept" platform="android">Accept</string>
-  <string name="accepted_cards" platform="android, iOS">Accepted cards: %1$s</string>
+  <string name="accepted_cards" platform="android">Accepted cards: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
@@ -32,12 +32,12 @@
   <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
-  <string name="add_card" platform="android, iOS">Add Card</string>
+  <string name="add_card" platform="android">Add Card</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
   <string name="Add_conversations" platform="android, iOS">Add Conversations</string>
-  <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
+  <string name="add_credit_or_debit_card" platform="android">Add credit or debit card</string>
   <string name="Add_emergency_contact" platform="android, iOS">Add emergency contact</string>
   <string name="add_file" platform="Desktop">Add File</string>
   <string name="Add_group_description" platform="android, Desktop">Add group description</string>
@@ -200,13 +200,13 @@
   <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
-  <string name="buy" platform="android, iOS">Buy</string>
-  <string name="buy_asset" platform="android, iOS">Buy %1$s</string>
-  <string name="buy_failed" platform="android, iOS">Failed</string>
-  <string name="buy_failed_description" platform="android, iOS">There was a problem processing the transaction, please try again later.</string>
-  <string name="buy_success" platform="android, iOS">Success</string>
-  <string name="buy_success_description" platform="android, iOS">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
-  <string name="buying_limitation" platform="android, iOS">Minimum %1$s, Maximum %2$s</string>
+  <string name="buy" platform="android">Buy</string>
+  <string name="buy_asset" platform="android">Buy %1$s</string>
+  <string name="buy_failed" platform="android">Failed</string>
+  <string name="buy_failed_description" platform="android">There was a problem processing the transaction, please try again later.</string>
+  <string name="buy_success" platform="android">Success</string>
+  <string name="buy_success_description" platform="android">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
+  <string name="buying_limitation" platform="android">Minimum %1$s, Maximum %2$s</string>
   <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
   <string name="calculating" platform="android, iOS">Calculating…</string>
   <string name="Call" platform="android, iOS">Call</string>
@@ -227,7 +227,7 @@
   <string name="can_not_recognize_qr_code" platform="android, Desktop">Can not recognize the QR code</string>
   <string name="Cancel" platform="android, iOS, Desktop">Cancel</string>
   <string name="Cancel_Floating" platform="android, iOS">Cancel Floating</string>
-  <string name="cancel_order" platform="android, iOS">Cancel Order</string>
+  <string name="cancel_order" platform="android">Cancel Order</string>
   <string name="Canceled" platform="android, iOS">Cancelled</string>
   <string name="Canceled_by_caller" platform="android, iOS">Cancelled by caller</string>
   <string name="Cant_receive_the_code" platform="android, iOS">Can't receive the code?</string>
@@ -236,9 +236,9 @@
   <string name="caption_send" platform="iOS">Send</string>
   <string name="Card" platform="android, Desktop">Card</string>
   <string name="card" platform="iOS">card</string>
-  <string name="card_number" platform="android, iOS">Card number</string>
-  <string name="card_number_error" platform="android, iOS">Please enter a valid card number</string>
-  <string name="cardholder_name" platform="android, iOS">Cardholder name</string>
+  <string name="card_number" platform="android">Card number</string>
+  <string name="card_number_error" platform="android">Please enter a valid card number</string>
+  <string name="cardholder_name" platform="android">Cardholder name</string>
   <string name="category_chats" platform="iOS">Chats</string>
   <string name="Chain" platform="android, iOS">Chain</string>
   <string name="Change" platform="android, iOS, Desktop">Change</string>
@@ -341,7 +341,6 @@
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">Combine and forward</string>
   <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
-  <string name="coming_soon_to_your_region" platform="iOS">Coming soon to your region!</string>
   <string name="Compress_Database" platform="iOS">Compress Database</string>
   <string name="Compressed" platform="iOS">Compressed</string>
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
@@ -451,7 +450,7 @@
   <string name="date_format_month" platform="iOS">E, d MMM</string>
   <string name="date_format_week_date" platform="iOS">E, d MMM yyyy</string>
   <string name="db_debug_warning" platform="android">Attention: If a harmful SQL statement is executed, the result is irreversible!</string>
-  <string name="debit_or_credit_card" platform="android, iOS">Debit / Credit Card</string>
+  <string name="debit_or_credit_card" platform="android">Debit / Credit Card</string>
   <string name="Debug_database" platform="android">Debug database</string>
   <string name="Debug_Tools" platform="android">Debug Tools</string>
   <string name="Decline" platform="android">Decline</string>
@@ -464,7 +463,6 @@
   <string name="delete_account_detail_hint" platform="iOS, Desktop">Local messages and iCloud Backups will not be deleted automatically</string>
   <string name="delete_account_hint" platform="android, iOS, Desktop">Delete your account info and profile photo</string>
   <string name="Delete_address" platform="android, iOS">Delete address</string>
-  <string name="delete_card" platform="iOS">Delete Card</string>
   <string name="Delete_Chat" platform="iOS, Desktop">Delete Chat</string>
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Delete Circle</string>
@@ -579,7 +577,7 @@
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
-  <string name="Enter_your_PIN_to_verify" platform="android,iOS">Enter your PIN to verify</string>
+  <string name="Enter_your_PIN_to_verify" platform="android">Enter your PIN to verify</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>
   <string name="error_address_exists" platform="android, Desktop">The address does not exist, please make sure that the address is added successfully</string>
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
@@ -649,7 +647,7 @@
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="error_withdrawal_suspend" platform="android, iOS, Desktop">ERROR 20137: Withdrawal suspend.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
-  <string name="exchange_rate" platform="android, iOS">Exchange Rate</string>
+  <string name="exchange_rate" platform="android">Exchange Rate</string>
   <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%%…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>
@@ -657,8 +655,8 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">Exit group and report inviter</string>
   <string name="exit_without_save" platform="android">Exit without save?</string>
   <string name="Expired" platform="android, iOS">Expired</string>
-  <string name="expiry_date" platform="android, iOS">Expiry Date</string>
-  <string name="expiry_date_error" platform="android, iOS">Please enter a valid expiry date</string>
+  <string name="expiry_date" platform="android">Expiry Date</string>
+  <string name="expiry_date_error" platform="android">Please enter a valid expiry date</string>
   <string name="Explore" platform="android,iOS">Explore</string>
   <string name="Export" platform="iOS">Export</string>
   <string name="Export_Chat" platform="android">Export Chat</string>
@@ -679,9 +677,9 @@
   <string name="favorite" platform="android,iOS">Favorite</string>
   <string name="Fee" platform="android, iOS, Desktop">Fee</string>
   <string name="Feedback" platform="android, iOS">Feedback</string>
-  <string name="fees_by_gateway" platform="android, iOS">Fees by Processor</string>
-  <string name="fees_by_mixin" platform="android, iOS">Fees by Mixin</string>
-  <string name="fees_explaination" platform="android, iOS">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
+  <string name="fees_by_gateway" platform="android">Fees by Processor</string>
+  <string name="fees_by_mixin" platform="android">Fees by Mixin</string>
+  <string name="fees_explaination" platform="android">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
   <string name="File" platform="android, iOS, Desktop">File</string>
   <string name="File_chooser_error" platform="android, Desktop">File chooser error</string>
   <string name="File_does_not_exist" platform="android, Desktop">File does not exist</string>
@@ -757,8 +755,8 @@
   <string name="how_are_you" platform="iOS, Desktop">Hi, how are you?</string>
   <string name="i_am_good" platform="iOS, Desktop">I’m good.</string>
   <string name="I_know" platform="android">I know</string>
-  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you a message once your verification has completed.</string>
-  <string name="identity_verifying" platform="android, iOS">Identity Verifying</string>
+  <string name="identity_verification_description" platform="android">Your identity is being verified. We will send you a message once your verification has completed.</string>
+  <string name="identity_verifying" platform="android">Identity Verifying</string>
   <string name="ignore_this_version" platform="Desktop">Ignore the new version</string>
   <string name="image" platform="iOS, Desktop">image</string>
   <string name="image_shareable_false" platform="android, iOS">The image has been set to not allow sharing</string>
@@ -925,7 +923,7 @@
   <string name="Monthly" platform="iOS">Monthly</string>
   <string name="More" platform="android, iOS, Desktop">More</string>
   <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">Multisig by PIN</string>
+  <string name="Multisig_by_PIN" platform="android">Multisig by PIN</string>
   <string name="multisig_receiver" platform="android, iOS">Receiver</string>
   <string name="multisig_sender" platform="android, iOS">Sender</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Receivers (%1$s)</string>
@@ -985,7 +983,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">NO FILES</string>
   <string name="No_hidden_assets" platform="android, iOS">No hidden assets</string>
   <string name="No_Items_Selected" platform="iOS">No Items Selected</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">NO LINKS</string>
+  <string name="NO_LINKS" platform="android, Desktop">NO LINKS</string>
   <string name="No_logs" platform="android, iOS">No logs</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">NO MEDIA</string>
   <string name="No_media_yet" platform="android">No media yet</string>
@@ -1055,7 +1053,7 @@
   <string name="Operator" platform="android">Operator</string>
   <string name="Optimize_Database" platform="iOS">Optimize Database</string>
   <string name="Optimized" platform="iOS">Optimized</string>
-  <string name="order_confirm" platform="android, iOS">Order Confirm</string>
+  <string name="order_confirm" platform="android">Order Confirm</string>
   <string name="original_image" platform="Desktop">Original</string>
   <string name="OTHER" platform="android">OTHER</string>
   <string name="Other" platform="iOS">Other</string>
@@ -1070,7 +1068,7 @@
   <string name="pay_paid" platform="android, iOS">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
   <string name="Pay_with_Biometrics" platform="android">Pay with Biometrics</string>
   <string name="Pay_with_biometry_type" platform="iOS">Pay with %@</string>
-  <string name="Pay_with_PIN" platform="android, iOS">Pay with PIN</string>
+  <string name="Pay_with_PIN" platform="android">Pay with PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Pay with PIN interval</string>
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
   <string name="payment_method" platform="android, iOS">Payment Method</string>
@@ -1134,15 +1132,15 @@
   <string name="POST" platform="android">POST</string>
   <string name="Post" platform="android, iOS, Desktop">Post</string>
   <string name="post_sharing" platform="iOS">post</string>
-  <string name="powered_by_mixin_route_prefix" platform="android, iOS">Powered by</string>
-  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route</string>
+  <string name="powered_by_mixin_route_prefix" platform="android">Powered by</string>
+  <string name="powered_by_mixin_route_suffix" platform="android">Mixin Route</string>
   <string name="preferences" platform="Desktop">Preferences</string>
   <string name="Preparing" platform="iOS">Preparing...</string>
   <string name="Preparing_progress" platform="iOS">Preparing...(%@)</string>
   <string name="preview_unavailable" platform="android">Preview unavailable</string>
   <string name="preview_unavailable_description" platform="android">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
-  <string name="price_expired" platform="android, iOS">Price Expired</string>
+  <string name="price_expired" platform="android">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Privacy Policy</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
@@ -1155,8 +1153,8 @@
   <string name="proxy_auth" platform="Desktop">Authentication (Optional)</string>
   <string name="proxy_connection" platform="Desktop">Connection</string>
   <string name="proxy_type" platform="Desktop">Proxy Type</string>
-  <string name="Public_profile" platform="android, iOS">Public profile (required)</string>
-  <string name="purchase_total_amount" platform="android, iOS">Purchase Total Amount</string>
+  <string name="Public_profile" platform="android">Public profile (required)</string>
+  <string name="purchase_total_amount" platform="android">Purchase Total Amount</string>
   <string name="QR_Code" platform="android, iOS">QR Code</string>
   <string name="qr_code_camera_code" platform="android">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
   <string name="qr_code_expired_desc" platform="Desktop">QR Code expired, please retry</string>
@@ -1266,7 +1264,6 @@
   <string name="Saturday" platform="android">Saturday</string>
   <string name="Save" platform="android, iOS, Desktop">Save</string>
   <string name="save_as" platform="Desktop">Save as</string>
-  <string name="Save_by_PIN" platform="iOS">Save by PIN</string>
   <string name="Save_failure" platform="android">Save failure</string>
   <string name="Save_image" platform="android, iOS">Save Image</string>
   <string name="Save_success" platform="android">Save success</string>
@@ -1469,8 +1466,6 @@
   <string name="Stop_Playing" platform="android, iOS">Stop Playing</string>
   <string name="Stop_playing_this_list" platform="android, iOS">Stop playing this list?</string>
   <string name="Stop_syncing_hint" platform="android">Do you want to stop syncing chat history?</string>
-  <string name="Storage_almost_full" platform="iOS">Storage almost full</string>
-  <string name="Storage_almost_full_tip" platform="iOS">You can free up storage by deleting items that are large or have been forwarded many times.</string>
   <string name="storage_auto_download_description" platform="Desktop">Change auto-download settings for medias.</string>
   <string name="storage_low_message" platform="android">Your phone is low on storage, which can seriously affect your Mixin experience and may even result in corrupted or lost chats and other important data. So it's recommended to uninstall unused apps to clear up enough space</string>
   <string name="storage_low_title" platform="android">Your phone is low on storage</string>
@@ -1480,7 +1475,7 @@
   <string name="strangers" platform="Desktop">Strangers</string>
   <string name="strikethrough" platform="android">strikethrough</string>
   <string name="Successful" platform="android, Desktop, iOS">Successful</string>
-  <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
+  <string name="sumsub_not_ready" platform="android">KYC not available</string>
   <string name="Sunday" platform="android">Sunday</string>
   <string name="suspended_deposit" platform="android, iOS">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
@@ -1638,9 +1633,9 @@
   <string name="Validation_timed_out" platform="iOS">Validation timed out</string>
   <string name="value_now" platform="android, iOS, Desktop">value now %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">value then %1$s</string>
-  <string name="verification_blocked_description" platform="android, iOS">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
-  <string name="verification_failed" platform="android, iOS">Verification Failed</string>
-  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
+  <string name="verification_blocked_description" platform="android">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
+  <string name="verification_failed" platform="android">Verification Failed</string>
+  <string name="verification_failed_description" platform="android">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
   <string name="Verify" platform="android, iOS">Verify</string>
   <string name="Verify_by_Biometric" platform="android">Verify by Biometric</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">Verify PIN</string>

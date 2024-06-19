@@ -380,7 +380,7 @@
   <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger Desktop</string>
   <string name="Monday" platform="android">Senin</string>
   <string name="More" platform="android, iOS, Desktop">Lebih banyak</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">Multisig dengan PIN</string>
+  <string name="Multisig_by_PIN" platform="android">Multisig dengan PIN</string>
   <string name="multisig_receiver" platform="android, iOS">Penerima</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Penerima (%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda.</string>
@@ -411,7 +411,7 @@
   <string name="No_fees" platform="android">Tidak ada biaya</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">TIDAK ADA FILE</string>
   <string name="No_hidden_assets" platform="android, iOS">Tidak ada aset tersembunyi</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">TIDAK ADA TAUTAN</string>
+  <string name="NO_LINKS" platform="android, Desktop">TIDAK ADA TAUTAN</string>
   <string name="No_logs" platform="android, iOS">Tidak ada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIDAK ADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada media</string>
@@ -447,7 +447,7 @@
   <string name="Participants" platform="android, iOS">Peserta</string>
   <string name="pay_paid" platform="android, iOS">Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda.</string>
   <string name="Pay_with_Biometrics" platform="android">Bayar dengan Biometrik</string>
-  <string name="Pay_with_PIN" platform="android, iOS">Bayar dengan PIN</string>
+  <string name="Pay_with_PIN" platform="android">Bayar dengan PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Bayar dengan interval PIN</string>
   <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d konfirmasi</string>
   <string name="permission_camera" platform="android">Izinkan mengambil gambar?</string>
@@ -472,7 +472,7 @@
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Kebijakan Privasi</string>
   <string name="profile_modify_number" platform="android">Ingin mengubah nomor telepon Anda?</string>
   <string name="Profile_photo" platform="android, iOS">Foto Profil</string>
-  <string name="Public_profile" platform="android, iOS">Profil publik (wajib diisi)</string>
+  <string name="Public_profile" platform="android">Profil publik (wajib diisi)</string>
   <string name="qr_code_camera_code" platform="android">Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya.</string>
   <string name="QR_Code_not_found" platform="android, iOS">Kode Qr tidak ditemukan</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
