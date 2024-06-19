@@ -620,7 +620,7 @@
 	<string name="Need_help">¿Necesitas ayuda?</string>
 	<string name="Net_Diagnosis">Diagnóstico de red</string>
 	<string name="Network_error">Error de red</string>
-	<string name="network_fee">Tarifa de red: %1$s</string>
+	<string name="network_fee">Tarifa de red</string>
 	<string name="Network_Operator">Operador de red</string>
 	<string name="Network_Type">Tipo de red</string>
 	<string name="Network_unavailable">Red no disponible</string>
