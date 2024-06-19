@@ -1040,7 +1040,7 @@
 | android, iOS, Desktop | one_year | 1 Year | 1 年 | 1年間 | 1 tahun | 1 Tahun |
 | android | Ongoing_voice_call | Ongoing voice call | 正在进行语音通话 | 進行中の音声通話 | Panggilan suara sedang berlangsung | Panggilan suara sedang berlangsung |
 | android, iOS | Open | Open | 打开  | 開く  | Buka | Buka |
-| iOS,android | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
+| iOS,android | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的 Mixin Messenger 桌面端来确认此操作。 |     |     |     |
 | android, iOS, Desktop | Open_Home_page | Open Home page | 打开主页 | ホームページを開く | Buka laman Utama | Buka Beranda |
 | android, iOS | Open_in_browser | Open in browser | 在浏览器中打开 | ブラウザで開く | Buka dalam pelayar | Buka di browser |
 | iOS | Open_in_gaode_maps | Open in 高德地图 | 在高德地图中打开 | Gaodeマップで開く |     |     |
@@ -1643,7 +1643,7 @@
 | iOS | voice_call_cancelled | voice call cancelled | 对方已取消语音通话 | グループ通話がキャンセルされました |     |     |
 | iOS | Voice_call_has_been_declined | Voice call has been declined | 已拒绝通话 | 権限不足です |     |     |
 | android, iOS | Waiting | Waiting | 等待中 | 待機中 | Menunggu | Menunggu |
-| iOS,android | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备…… |     |     |     |
+| iOS,android | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备… |     |     |     |
 | iOS,android | Waiting_for_Other_Device_Login | Log in to your current account on the new device and select the option to restore from another phone. | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
 | iOS,android | Waiting_for_Other_Device_Scan | Connect the new device by scanning the QR code on the top | 新设备扫上面的二维码建立连接 |     |     |     |
 | android, Desktop | Waiting_for_this_message | Waiting for this message. | 正在等待这条消息。 | このメッセージを待っています。 |     |     |
