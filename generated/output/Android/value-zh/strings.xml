@@ -1002,7 +1002,7 @@
 	<string name="Reset_notifications">重置通知设置</string>
 	<string name="RESTART">重启应用</string>
 	<string name="Restore">恢复</string>
-	<string name="Restore_chat_from_iCloud">从iCloud恢复您的聊天记录。</string>
+	<string name="Restore_chat_from_iCloud">从 iCloud 恢复您的聊天记录。</string>
 	<string name="restore_choose_backup_folder">未找到备份文件，选择备份文件夹</string>
 	<string name="Restore_from_Another_Phone">从其他手机恢复</string>
 	<string name="Restore_from_iCloud">从 iCloud 恢复</string>

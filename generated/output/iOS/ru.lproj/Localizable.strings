@@ -1,5 +1,4 @@
 "about" = "Про";
-"accepted_cards" = "Accepted cards: %@";
 "access_contacts_hint" = "Mixin синхронизирует вашу адресную книгу с серверами Mixin, чтобы помочь вам связаться с другими пользователями Mixin.";
 "access_dapps_defi_projects" = "Access dApps and DeFi projects.";
 "access_denied" = "В доступе отказано";
@@ -18,11 +17,9 @@
 "add_by_id_or_phone_number" = "Добавить по Mixin ID или номеру телефона";
 "add_by_phone_contacts" = "Добавить по телефону из Контактов";
 "add_by_qr_code" = "Добавить по QR-коду";
-"add_card" = "Add Card";
 "add_circle" = "Добавить круг";
 "add_contact" = "Добавить контакт";
 "add_conversations" = "Добавить беседы";
-"add_credit_or_debit_card" = "Add credit or debit card";
 "add_emergency_contact" = "Добавить экстренный контакт";
 "add_memo" = "добавить памятку";
 "add_or_remove_favorite_bots" = "Add or remove favorite bots";
@@ -149,13 +146,6 @@
 "bots" = "БОТЫ";
 "bots_title" = "Боты";
 "browser" = "Browser";
-"buy" = "Buy";
-"buy_asset" = "Buy %@";
-"buy_failed" = "Failed";
-"buy_failed_description" = "There was a problem processing the transaction, please try again later.";
-"buy_success" = "Success";
-"buy_success_description" = "Successful purchase of %1$@. %2$@ will be transferred directly to Mixin wallet.";
-"buying_limitation" = "Minimum %1$@, Maximum %2$@";
 "buying_unavailable_description" = "Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.";
 "calculating" = "Calculating...";
 "call" = "Вызов";
@@ -173,15 +163,11 @@
 "camera" = "Камера";
 "cancel" = "Отмена";
 "cancel_floating" = "Отменить всплывание";
-"cancel_order" = "Cancel Order";
 "canceled" = "Отменено";
 "canceled_by_caller" = "Отменено звонившим";
 "cant_receive_the_code" = "Не можете получить код?";
 "caption_send" = "ОТПРАВИТЬ";
 "card" = "карта";
-"card_number" = "Card number";
-"card_number_error" = "Please enter a valid card number";
-"cardholder_name" = "Cardholder name";
 "category_chats" = "Чаты";
 "chain" = "Цепь";
 "change" = "Изменить";
@@ -253,7 +239,6 @@
 "collection" = "Collection";
 "combine_and_forward" = "Объединить и вперед";
 "combine_utxo" = "Combine UTXOs";
-"coming_soon_to_your_region" = "Coming soon to your region!";
 "compress_database" = "Сжать базу данных";
 "compressed" = "Сжатый";
 "confirm" = "Подтвердить";
@@ -345,7 +330,6 @@
 "date_format_day" = "H:mm";
 "date_format_month" = "EEE, d MMMM";
 "date_format_week_date" = "EEE, d MMMM yyyy";
-"debit_or_credit_card" = "Debit / Credit Card";
 "declined" = "Отклоненный";
 "decode_transaction_failed" = "Unable to estimate asset changes. Be cautious and only sign transactions for dApps you trust.";
 "delete" = "Удалить";
@@ -353,7 +337,6 @@
 "delete_account_hint" = "Удалить информацию об учетной записи и фото профиля";
 "delete_address" = "Удалить адрес";
 "delete_address_description" = "Are you sure to delete this address?";
-"delete_card" = "Delete Card";
 "delete_chat" = "Удалить чат";
 "delete_circle" = "Удалить круг";
 "delete_contact_chat_confirmation" = "Удалить чат с %@?";
@@ -440,7 +423,6 @@
 "enter_your_phone_number" = "Введите свой номер телефона";
 "enter_your_pin" = "Введите свой PIN-код";
 "enter_your_pin_to_continue" = "Введите PIN-код, чтобы продолжить";
-"enter_your_pin_to_verify" = "Enter your PIN to verify";
 "error_bad_data" = "ОШИБКА 10002: Данные запроса содержат недопустимое поле";
 "error_blockchain" = "ОШИБКА 30100: Блокчейн не синхронизирован, повторите попытку позже.";
 "error_captcha_is_invalid" = "ОШИБКА 10004: CAPTCHA недействительна";
@@ -482,14 +464,11 @@
 "error_withdrawal_suspend" = "ERROR 20137: Withdrawal suspend.";
 "estimated_balance_change" = "Balance Change (estimate)";
 "everybody" = "Все";
-"exchange_rate" = "Exchange Rate";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Выйти из %@?";
 "exit_group" = "Выйти из группы";
 "exit_group_and_report_inviter" = "Выйти из группы и сообщить о приглашении";
 "expired" = "Истекший";
-"expiry_date" = "Expiry Date";
-"expiry_date_error" = "Please enter a valid expiry date";
 "explore" = "Explore";
 "export" = "Экспорт";
 "export_failed" = "Не удалось экспортировать";
@@ -512,9 +491,6 @@
 "fee" = "Комиссия";
 "fee_selection" = "Fee (%@)";
 "feedback" = "Обратная связь";
-"fees_by_gateway" = "Fees by Processor";
-"fees_by_mixin" = "Fees by Mixin";
-"fees_explaination" = "You may be charged fees outside of your order by your bank, please contact your bank for more details.";
 "file" = "Файл";
 "file_shareable_false" = "The file has been set to not allow sharing";
 "files" = "Файлы";
@@ -558,8 +534,6 @@
 "how_are_you" = "Привет, как дела?";
 "i_am_good" = "Я в порядке.";
 "id" = "ID";
-"identity_verification_description" = "Your identity is being verified. We will send you a message once your verification has completed.";
-"identity_verifying" = "Identity Verifying";
 "image" = "изображение";
 "image_shareable_false" = "The image has been set to not allow sharing";
 "immediately" = "Немедленно";
@@ -681,7 +655,6 @@
 "monthly" = "Ежемесячно";
 "more" = "Больше";
 "move_and_scale" = "Move and Scale";
-"multisig_by_pin" = "Мультиподпись по PIN-коду";
 "multisig_receiver" = "Receiver";
 "multisig_receivers_threshold" = "Получатели (%@)";
 "multisig_revoked" = "Multisig Revoked";
@@ -731,7 +704,6 @@
 "no_files" = "ФАЙЛОВ НЕТ";
 "no_hidden_assets" = "Нет скрытых активов";
 "no_items_selected" = "Элементы не выбраны";
-"no_links" = "НЕТ ССЫЛОК";
 "no_logs" = "Нет журналов";
 "no_media" = "НЕТ МЕДИА";
 "no_memo" = "Нет памятки";
@@ -775,7 +747,6 @@
 "operation_failed" = "Операция не удалась, повторите попытку позже";
 "optimize_database" = "Оптимизировать базу данных";
 "optimized" = "Оптимизировано";
-"order_confirm" = "Order Confirm";
 "other" = "Другой";
 "overwrite" = "Overwrite";
 "owner" = "Владелец";
@@ -784,7 +755,6 @@
 "pay" = "Pay";
 "pay_paid" = "Эта платежная ссылка уже кем-то оплачена, повторный платеж сделать нельзя.";
 "pay_with_biometry_type" = "Pay with %@";
-"pay_with_pin" = "Оплатить PIN-кодом";
 "pay_with_pin_interval" = "Оплата с интервалом PIN";
 "pay_withdrawal_memo" = "Сумма %@ %@\nКомиссия %@ %@";
 "payment_method" = "Payment Method";
@@ -838,12 +808,9 @@
 "please_use_when_network_is_connected" = "Please complete the operation under a stable network environment.";
 "post" = "Публикация";
 "post_sharing" = "публикация";
-"powered_by_mixin_route_prefix" = "Powered by";
-"powered_by_mixin_route_suffix" = "Mixin Route";
 "preauthorize_amount" = "Pre-authorize Amount";
 "preparing" = "Подготовка...";
 "preparing_progress" = "Подготовка...(%@)";
-"price_expired" = "Price Expired";
 "privacy" = "Конфиденциальность";
 "privacy_policy" = "Политика конфиденциальности";
 "private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
@@ -854,8 +821,6 @@
 "profile" = "Профиль";
 "profile_photo" = "Аватар";
 "profile_share_bot_hint" = "Если вы хотите поделиться ботом, сначала добавьте его в контакты";
-"public_profile" = "Публичный профиль (обязательно)";
-"purchase_total_amount" = "Purchase Total Amount";
 "qr_code" = "QR код";
 "qr_code_not_found" = "QR-код не найден";
 "raw" = "Исходный";
@@ -947,7 +912,6 @@
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "room_is_full" = "Комната заполнена";
 "save" = "Сохранить";
-"save_by_pin" = "Сохранить по PIN-коду";
 "save_image" = "Сохранить изображение";
 "save_to_camera_roll" = "Сохранить в ленту камеры";
 "saved" = "Сохранено";
@@ -1104,12 +1068,9 @@
 "stop" = "Stop";
 "stop_playing" = "Хватит играть";
 "stop_playing_this_list" = "Прекратить воспроизведение этого списка?";
-"storage_almost_full" = "Storage almost full";
-"storage_almost_full_tip" = "You can free up storage by deleting items that are large or have been forwarded many times.";
 "storage_usage" = "Использование хранилища";
 "stranger_hint" = "Этого отправителя нет в ваших контактах";
 "successful" = "Успешный";
-"sumsub_not_ready" = "KYC not available";
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Подозрительная ссылка";
 "swap" = "Swap";
@@ -1254,9 +1215,6 @@
 "validation_timed_out" = "Время проверки истекло";
 "value_now" = "значение сейчас %@";
 "value_then" = "значение затем %@";
-"verification_blocked_description" = "Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.";
-"verification_failed" = "Verification Failed";
-"verification_failed_description" = "Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.";
 "verify" = "Проверить";
 "verify_pin" = "Подтвердить PIN-код";
 "version_update" = "Обновление версии";

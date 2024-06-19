@@ -1,5 +1,4 @@
 "about" = "關於";
-"accepted_cards" = "接受以下卡片: %@";
 "access_contacts_hint" = "同步通訊錄到 Mixin 發現更多好友";
 "access_dapps_defi_projects" = "訪問 dApps 或 DeFi 專案";
 "access_denied" = "禁止訪問";
@@ -18,11 +17,9 @@
 "add_by_id_or_phone_number" = "透過 Mixin ID 或手機號碼新增";
 "add_by_phone_contacts" = "透過手機通訊錄新增";
 "add_by_qr_code" = "透過二維碼新增";
-"add_card" = "新增卡片";
 "add_circle" = "新增圈子";
 "add_contact" = "新增聯絡人";
 "add_conversations" = "新增會話";
-"add_credit_or_debit_card" = "新增信用卡或簽帳金融卡";
 "add_emergency_contact" = "新增緊急聯絡人";
 "add_memo" = "點選新增 Memo（備註）";
 "add_or_remove_favorite_bots" = "新增或刪除收藏的機器人";
@@ -149,13 +146,6 @@
 "bots" = "機器人";
 "bots_title" = "機器人";
 "browser" = "瀏覽器";
-"buy" = "購買";
-"buy_asset" = "購買 %@";
-"buy_failed" = "交易失敗";
-"buy_failed_description" = "該交易在處理中出現了問題，請稍後重試。";
-"buy_success" = "交易成功";
-"buy_success_description" = "成功支付 %1$@。%2$@ 將直接轉入 Mixin 錢包。";
-"buying_limitation" = "最少 %1$@, 最多 %2$@";
 "buying_unavailable_description" = "我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。";
 "calculating" = "正在計算...";
 "call" = "語音";
@@ -173,15 +163,11 @@
 "camera" = "相機";
 "cancel" = "取消";
 "cancel_floating" = "取消浮窗";
-"cancel_order" = "取消訂單";
 "canceled" = "已取消";
 "canceled_by_caller" = "對方已取消";
 "cant_receive_the_code" = "接收不到驗證碼？";
 "caption_send" = "轉出";
 "card" = "卡片";
-"card_number" = "卡號";
-"card_number_error" = "請輸入有效的卡號";
-"cardholder_name" = "持卡人姓名";
 "category_chats" = "最近聊天";
 "chain" = "所屬公鏈";
 "change" = "更改";
@@ -253,7 +239,6 @@
 "collection" = "合集";
 "combine_and_forward" = "合併轉發";
 "combine_utxo" = "歸集 UTXO";
-"coming_soon_to_your_region" = "即將來到您的地區！";
 "compress_database" = "壓縮資料庫";
 "compressed" = "已壓縮";
 "confirm" = "確認";
@@ -345,7 +330,6 @@
 "date_format_day" = "ahh:mm";
 "date_format_month" = "MM 月 d 日 E";
 "date_format_week_date" = "yyyy 年 MM 月 d 日 E";
-"debit_or_credit_card" = "簽帳金融卡/信用卡";
 "declined" = "已拒絕";
 "decode_transaction_failed" = "無法估計資產變化，注意只給您信任的應用程式簽名。";
 "delete" = "刪除";
@@ -353,7 +337,6 @@
 "delete_account_hint" = "刪除你的賬戶和個人照片";
 "delete_address" = "刪除地址";
 "delete_address_description" = "確認刪除該地址嗎？";
-"delete_card" = "刪除卡片";
 "delete_chat" = "刪除聊天";
 "delete_circle" = "刪除圈子";
 "delete_contact_chat_confirmation" = "刪除與\"%@\"的會話並清空聊天記錄？";
@@ -440,7 +423,6 @@
 "enter_your_phone_number" = "輸入你的手機號碼";
 "enter_your_pin" = "輸入你的 PIN";
 "enter_your_pin_to_continue" = "輸入你的 PIN 以繼續";
-"enter_your_pin_to_verify" = "輸入你的 PIN 來驗證";
 "error_bad_data" = "錯誤 10002：請求資料不合法";
 "error_blockchain" = "錯誤 30100：區塊鏈同步異常，請稍後重試";
 "error_captcha_is_invalid" = "錯誤 10004：驗證失敗";
@@ -482,14 +464,11 @@
 "error_withdrawal_suspend" = "錯誤 20137：提現暫停";
 "estimated_balance_change" = "餘額變動（預估）";
 "everybody" = "任何人";
-"exchange_rate" = "價格";
 "exchanging_data" = "正在同步金鑰分片，進度 %@%%...";
 "exit_confirmation" = "退出\"%@\"？";
 "exit_group" = "退出群組";
 "exit_group_and_report_inviter" = "退出群組並舉報邀請人";
 "expired" = "已過期";
-"expiry_date" = "有效期";
-"expiry_date_error" = "請輸入正確的有效期";
 "explore" = "探索";
 "export" = "匯出";
 "export_failed" = "匯出失敗";
@@ -512,9 +491,6 @@
 "fee" = "手續費";
 "fee_selection" = "手續費（%@）";
 "feedback" = "反饋";
-"fees_by_gateway" = "支付閘道器費用";
-"fees_by_mixin" = "Mixin 手續費";
-"fees_explaination" = "您有可能被您的銀行收取訂單之外的費用，請聯絡您的銀行了解更多詳情。";
 "file" = "檔案";
 "file_shareable_false" = "該檔案已被設定為不允許轉發";
 "files" = "檔案";
@@ -558,8 +534,6 @@
 "how_are_you" = "嗨，你好嗎？";
 "i_am_good" = "我很好。";
 "id" = "ID";
-"identity_verification_description" = "正在驗證您的身份。一旦您的驗證完成，我們將透過 Mixin Messenger 向您傳送訊息。";
-"identity_verifying" = "正在稽核";
 "image" = "影象";
 "image_shareable_false" = "該圖片已被設定為不允許轉發";
 "immediately" = "立刻";
@@ -681,7 +655,6 @@
 "monthly" = "每月";
 "more" = "更多";
 "move_and_scale" = "移動和縮放";
-"multisig_by_pin" = "透過 PIN 簽名";
 "multisig_receiver" = "交易接收人";
 "multisig_receivers_threshold" = "交易接收人（%@）";
 "multisig_revoked" = "已撤銷多簽交易";
@@ -731,7 +704,6 @@
 "no_files" = "沒有檔案";
 "no_hidden_assets" = "沒有隱藏的資產";
 "no_items_selected" = "未選定專案";
-"no_links" = "沒有連結";
 "no_logs" = "沒有日誌";
 "no_media" = "沒有媒體";
 "no_memo" = "沒有 Memo（備註）";
@@ -775,7 +747,6 @@
 "operation_failed" = "操作失敗，請稍後重試";
 "optimize_database" = "最佳化查詢索引";
 "optimized" = "已最佳化";
-"order_confirm" = "訂單確認";
 "other" = "其他";
 "overwrite" = "覆蓋";
 "owner" = "群主";
@@ -784,7 +755,6 @@
 "pay" = "支付";
 "pay_paid" = "此付款連結已由某人支付，您無法進行重複付款。";
 "pay_with_biometry_type" = "%@支付";
-"pay_with_pin" = "用 PIN 支付";
 "pay_with_pin_interval" = "PIN 使用間隔";
 "pay_withdrawal_memo" = "數量 %@ %@\n手續費 %@ %@";
 "payment_method" = "支付方式";
@@ -838,12 +808,9 @@
 "please_use_when_network_is_connected" = "請在網路流暢的環境下進行此操作";
 "post" = "文章";
 "post_sharing" = "文章";
-"powered_by_mixin_route_prefix" = "由";
-"powered_by_mixin_route_suffix" = "Mixin Route 提供服務";
 "preauthorize_amount" = "預授權額度";
 "preparing" = "正在準備...";
 "preparing_progress" = "備份中...（%@）";
-"price_expired" = "報價已過期";
 "privacy" = "隱私";
 "privacy_policy" = "隱私政策";
 "private_key_export_success_description" = "請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。";
@@ -854,8 +821,6 @@
 "profile" = "個人資料";
 "profile_photo" = "個人頭像";
 "profile_share_bot_hint" = "如果您希望分享機器人，請先新增聯絡人。";
-"public_profile" = "個人資料（必須）";
-"purchase_total_amount" = "購買總金額";
 "qr_code" = "二維碼";
 "qr_code_not_found" = "未發現二維碼";
 "raw" = "其他";
@@ -916,11 +881,11 @@
 "resend_code_pending" = "%@ 後重新發送驗證碼";
 "reset_link" = "重置邀請連結";
 "restore" = "恢復";
-"restore_chat_from_icloud" = "從iCloud恢復您的聊天記錄。";
+"restore_chat_from_icloud" = "從 iCloud 恢復您的聊天記錄。";
 "restore_chat_hint" = "從 iCloud 恢復\n您的聊天記錄";
 "restore_chat_history" = "恢復聊天記錄";
 "restore_chat_history_failed" = "從 iCloud 恢復失敗";
-"restore_chat_history_hint" = "從 iCloud 恢復聊天記錄不會覆蓋本地記錄，只會增量同步，恢復時請不要關閉螢幕並保持Mixin 在前臺執行。";
+"restore_chat_history_hint" = "從 iCloud 恢復聊天記錄不會覆蓋本地記錄，只會增量同步，恢復時請不要關閉螢幕並保持 Mixin 在前臺執行。";
 "restore_completed" = "恢復已完成";
 "restore_from_another_phone" = "從其他手機恢復";
 "restore_from_icloud" = "從 iCloud 恢復";
@@ -947,7 +912,6 @@
 "revoking_multisig_signature" = "正在撤銷多簽交易";
 "room_is_full" = "房間已滿";
 "save" = "儲存";
-"save_by_pin" = "透過 PIN 儲存";
 "save_image" = "儲存圖片";
 "save_to_camera_roll" = "儲存到相簿";
 "saved" = "已儲存";
@@ -1104,12 +1068,9 @@
 "stop" = "暫停";
 "stop_playing" = "停止播放";
 "stop_playing_this_list" = "確定要停止並關閉播放列表？";
-"storage_almost_full" = "儲存空間幾乎已滿";
-"storage_almost_full_tip" = "您可以透過刪除大的或已被多次轉發的專案來釋放儲存空間。";
 "storage_usage" = "儲存空間";
 "stranger_hint" = "對方不是你的聯絡人";
 "successful" = "成功";
-"sumsub_not_ready" = "KYC服務不可用";
 "suspended_deposit" = "%1$@ 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網路硬分叉或者擁堵，注意已轉入的 %2$@ 資產可以繼續轉賬。";
 "suspicious_link" = "可疑連結";
 "swap" = "閃兌";
@@ -1254,9 +1215,6 @@
 "validation_timed_out" = "驗證超時";
 "value_now" = "價值 %@";
 "value_then" = "當時價值 %@";
-"verification_blocked_description" = "你的驗證失敗了，可能是因為提交的檔案有問題，請點選下面按鈕聯絡客服。";
-"verification_failed" = "驗證失敗";
-"verification_failed_description" = "您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。";
 "verify" = "驗證";
 "verify_pin" = "驗證 PIN";
 "version_update" = "版本更新";
