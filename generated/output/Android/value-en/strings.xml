@@ -509,6 +509,7 @@
 	<string name="error_invalid_code_too_frequent">ERROR 20129: Send verification code too frequent, please try again later.</string>
 	<string name="error_invalid_emergency_contact">ERROR 20130: Invalid emergency contact</string>
 	<string name="error_invalid_pin_format">ERROR 20118: Invalid PIN format. </string>
+	<string name="error_invalid_swap">ERROR 10611: Invalid swap</string>
 	<string name="error_memo_too_long">Memo has too many characters, maximum is 200</string>
 	<string name="error_not_approved_many_times">ERROR 10606: Not approved too many times</string>
 	<string name="error_not_found">ERROR 404: Not found</string>

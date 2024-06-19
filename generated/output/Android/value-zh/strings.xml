@@ -500,6 +500,7 @@
 	<string name="error_invalid_code_too_frequent">错误 20129：发送验证码太频繁，请稍后再试</string>
 	<string name="error_invalid_emergency_contact">错误 20130：紧急联系人不正确</string>
 	<string name="error_invalid_pin_format">错误 20118：PIN 格式不正确</string>
+	<string name="error_invalid_swap">错误 10611: 无效的闪兑</string>
 	<string name="error_memo_too_long">Memo 字符超长，最多为 200</string>
 	<string name="error_not_approved_many_times">错误 10606: 未批准多次</string>
 	<string name="error_not_found">错误 404：没有找到相应的信息</string>
