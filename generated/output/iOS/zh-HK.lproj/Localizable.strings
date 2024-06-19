@@ -707,7 +707,7 @@
 "one_week" = "1 星期";
 "one_year" = "1 年";
 "open" = "打開";
-"open_desktop_to_confirm" = "請打開您的Mixin Messenger 桌面端來確認此操作。";
+"open_desktop_to_confirm" = "請打開您的 Mixin Messenger 桌面端來確認此操作。";
 "open_home_page" = "打開主頁";
 "open_in_browser" = "在瀏覽器中打開";
 "open_in_gaode_maps" = "在高德地圖中打開";
@@ -1185,7 +1185,7 @@
 "voice_call_cancelled" = "對方已取消語音通話";
 "voice_call_has_been_declined" = "已拒絕通話";
 "waiting" = "等待中";
-"waiting_for_other_device" = "等待其他設備......";
+"waiting_for_other_device" = "等待其他設備...";
 "waiting_for_other_device_login" = "在新設備上登錄當前賬户並選擇從其他手機恢復";
 "waiting_for_other_device_scan" = "新設備掃上面的二維碼建立連接";
 "waiting_transaction" = "正在等待交易";
