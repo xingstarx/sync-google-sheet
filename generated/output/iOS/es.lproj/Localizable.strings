@@ -96,6 +96,7 @@
 "allow_bot_manage_circles" = "Permite que el bot añada, modifique y elimine tus círculos.";
 "allow_bot_send_messages" = "Permita que el bot envíe mensajes que lo representen.";
 "allow_manual_report_message" = "Permitir mensaje de informe manual";
+"alphabetical" = "Alphabetical";
 "amount" = "Cantidad";
 "anonymous" = "Anonymous";
 "anonymous_number" = "Anonymous Number";
@@ -521,6 +522,7 @@
 "filter_by" = "FILTRADO POR";
 "floating" = "Flotante";
 "floats_allows_up_to_count" = "Los flotadores permiten hasta %d unos";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Síguenos en Facebook";
 "follow_us_on_twitter" = "Síguenos en Twitter";
 "forward" = "Adelante";

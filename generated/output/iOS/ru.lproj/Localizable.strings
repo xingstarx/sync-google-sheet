@@ -96,6 +96,7 @@
 "allow_bot_manage_circles" = "Allow bot to add, modify and delete your circles.";
 "allow_bot_send_messages" = "Allow bot to send messages represent of you.";
 "allow_manual_report_message" = "Разрешить сообщение ручного отчета";
+"alphabetical" = "Alphabetical";
 "amount" = "Количество";
 "anonymous" = "Anonymous";
 "anonymous_number" = "Anonymous Number";
@@ -521,6 +522,7 @@
 "filter_by" = "СОРТИРОВАТЬ ПО";
 "floating" = "Плавающий";
 "floats_allows_up_to_count" = "Поплавки позволяют использовать до %d единиц.";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Следите за нами на Фейсбуке";
 "follow_us_on_twitter" = "Следите за нами на Twitter";
 "forward" = "Перенаправить";

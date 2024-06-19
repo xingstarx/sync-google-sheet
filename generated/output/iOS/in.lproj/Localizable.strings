@@ -96,6 +96,7 @@
 "allow_bot_manage_circles" = "Allow bot to add, modify and delete your circles.";
 "allow_bot_send_messages" = "Allow bot to send messages represent of you.";
 "allow_manual_report_message" = "Allow Manual Report Message";
+"alphabetical" = "Alphabetical";
 "amount" = "Jumlah";
 "anonymous" = "Anonymous";
 "anonymous_number" = "Anonymous Number";
@@ -521,6 +522,7 @@
 "filter_by" = "FILTER BERDASARKAN";
 "floating" = "Floating";
 "floats_allows_up_to_count" = "Floats allows up to %d ones";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Ikuti kami di Facebook";
 "follow_us_on_twitter" = "Ikuti kami di Twitter";
 "forward" = "Teruskan";

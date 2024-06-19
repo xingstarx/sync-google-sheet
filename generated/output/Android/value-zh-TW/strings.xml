@@ -111,6 +111,7 @@
 	<string name="Allow_bot_send_messages">允許機器人代表你發訊息。</string>
 	<string name="allow_dapp_access_public_address">允許 dApp 訪問你的錢包餘額及活動。</string>
 	<string name="allow_dapp_request_approval">允許 dApp 向你傳送請求，如轉賬請求等</string>
+	<string name="Alphabetical">按字母順序</string>
 	<string name="Amount">金額</string>
 	<string name="an_audio">一條語音</string>
 	<string name="Anonymous">匿名</string>
@@ -586,6 +587,7 @@
 	<string name="fingerprint_lock">指紋鎖定</string>
 	<string name="Flash_unit_not_available">閃光燈/手電筒硬體不可用</string>
 	<string name="Floating">浮窗</string>
+	<string name="Floor_Price">最低價格</string>
 	<string name="Follow_system">跟隨系統</string>
 	<string name="Follow_us_on_facebook">關注我們的 Facebook</string>
 	<string name="Follow_us_on_twitter">關注我們的 Twitter</string>

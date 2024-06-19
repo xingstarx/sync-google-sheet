@@ -96,6 +96,7 @@
 "allow_bot_manage_circles" = "允许机器人添加、修改和删除你所有的圈子。";
 "allow_bot_send_messages" = "允许机器人代表你发消息。";
 "allow_manual_report_message" = "允许手动上报消息";
+"alphabetical" = "按字母顺序";
 "amount" = "金额";
 "anonymous" = "匿名";
 "anonymous_number" = "匿名号码";
@@ -521,6 +522,7 @@
 "filter_by" = "筛选";
 "floating" = "浮窗";
 "floats_allows_up_to_count" = "最多支持 %d 个浮窗";
+"floor_price" = "最低价格";
 "follow_us_on_facebook" = "关注我们的 Facebook";
 "follow_us_on_twitter" = "关注我们的 Twitter";
 "forward" = "转发";

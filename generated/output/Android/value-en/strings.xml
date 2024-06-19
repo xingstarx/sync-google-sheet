@@ -111,6 +111,7 @@
 	<string name="Allow_bot_send_messages">Allow bot to send messages represent of you.</string>
 	<string name="allow_dapp_access_public_address">Allow dApp to access your wallet balance and activity.</string>
 	<string name="allow_dapp_request_approval">Allow dApp to ask for your approval to make a transaction.</string>
+	<string name="Alphabetical">Alphabetical</string>
 	<string name="Amount">Amount</string>
 	<string name="an_audio">an audio</string>
 	<string name="Anonymous">Anonymous</string>
@@ -595,6 +596,7 @@
 	<string name="fingerprint_lock">Fingerprint lock</string>
 	<string name="Flash_unit_not_available">Flash unit not available</string>
 	<string name="Floating">Floating</string>
+	<string name="Floor_Price">Floor Price</string>
 	<string name="Follow_system">Follow System</string>
 	<string name="Follow_us_on_facebook">Follow us on Facebook</string>
 	<string name="Follow_us_on_twitter">Follow us on Twitter</string>
