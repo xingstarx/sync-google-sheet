@@ -1898,7 +1898,7 @@
   <string name="collectible_releasing_description" platform="android,iOS">正在分解藏品，請稍候。</string>
   <string name="collectible_release_success" platform="android,iOS">分解成功</string>
   <string name="collectible_release_failed" platform="android,iOS">分解失敗</string>
-  <string name="collectible_released_description" platform="android,iOS">藏品分解成功，點選檢視代幣。</string>
+  <string name="collectible_released_description" platform="android,iOS">藏品分解成功。</string>
   <string name="collectible_release_confirmation" platform="android,iOS">分解藏品</string>
   <string name="collectible_release_hint" platform="android,iOS">分解藏品可以立刻獲得相應的代幣，代幣可轉賬、交易或重新鑄造藏品。</string>
   <string name="collectible_not_found" platform="android">藏品不存在</string>
@@ -1907,5 +1907,6 @@
   <string name="Set_as_avatar" platform="android,iOS">設定為頭像</string>
   <string name="Recent" platform="android,iOS">最近</string>
   <string name="Alphabetical" platform="android,iOS">按字母順序</string>
-  <string name="Floor_Price" platform="android,iOS">最低價格</string>
+  <string name="Floor_Price" platform="">最低價格</string>
+  <string name="Collection_collected" platform="android,iOS">已收藏 %1$d 件</string>
 </resources>

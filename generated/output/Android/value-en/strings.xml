@@ -293,11 +293,12 @@
 	<string name="collectible_release_failed">Release Failed</string>
 	<string name="collectible_release_hint">Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new collectibles.</string>
 	<string name="collectible_release_success">Release Successful</string>
-	<string name="collectible_released_description">The collectible was released successfully. Click to view the tokens.</string>
+	<string name="collectible_released_description">The collectible was released successfully.</string>
 	<string name="collectible_releasing">Releasing</string>
 	<string name="collectible_releasing_description">The collectible is being released, please wait.</string>
 	<string name="Collectibles">Collectibles</string>
 	<string name="Collection">Collection</string>
+	<string name="Collection_collected">%1$d collected</string>
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Confirm">Confirm</string>
@@ -606,7 +607,6 @@
 	<string name="fingerprint_lock">Fingerprint lock</string>
 	<string name="Flash_unit_not_available">Flash unit not available</string>
 	<string name="Floating">Floating</string>
-	<string name="Floor_Price">Floor Price</string>
 	<string name="Follow_system">Follow System</string>
 	<string name="Follow_us_on_facebook">Follow us on Facebook</string>
 	<string name="Follow_us_on_twitter">Follow us on Twitter</string>

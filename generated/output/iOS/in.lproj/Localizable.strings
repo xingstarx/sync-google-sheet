@@ -225,12 +225,13 @@
 "collectible_release_failed" = "Release Failed";
 "collectible_release_hint" = "Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new collectibles.";
 "collectible_release_success" = "Release Successful";
-"collectible_released_description" = "The collectible was released successfully. Click to view the tokens.";
+"collectible_released_description" = "The collectible was released successfully.";
 "collectible_releasing" = "Releasing";
 "collectible_releasing_description" = "The collectible is being released, please wait.";
 "collectible_token_id" = "#%@";
 "collectibles" = "Collectibles";
 "collection" = "Collection";
+"collection_collected" = "%d collected";
 "combine_and_forward" = "Combine and forward";
 "compress_database" = "Compress Database";
 "compressed" = "Compressed";
@@ -489,7 +490,6 @@
 "filter_by" = "FILTER BERDASARKAN";
 "floating" = "Floating";
 "floats_allows_up_to_count" = "Floats allows up to %d ones";
-"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Ikuti kami di Facebook";
 "follow_us_on_twitter" = "Ikuti kami di Twitter";
 "forward" = "Teruskan";
