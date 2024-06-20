@@ -224,7 +224,7 @@
 "collectible_hash" = "Collectible Hash";
 "collectible_release_confirmation" = "Release Collectible";
 "collectible_release_failed" = "Release Failed";
-"collectible_release_hint" = "Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new collectibles.";
+"collectible_release_hint" = "Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to occupy a collectible.";
 "collectible_release_success" = "Release Successful";
 "collectible_released_description" = "The collectible was released successfully.";
 "collectible_releasing" = "Releasing";
