@@ -1178,6 +1178,7 @@
 "view_authorization" = "查看授权";
 "view_emergency_contact" = "查看紧急联系人";
 "view_on_explorer" = "在浏览器查看";
+"view_on_marketplace" = "在市场查看";
 "view_storage" = "查看存储空间";
 "view_transaction" = "查看区块链浏览器";
 "view_wallet" = "查看钱包";

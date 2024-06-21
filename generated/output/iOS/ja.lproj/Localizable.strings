@@ -1178,6 +1178,7 @@
 "view_authorization" = "閲覧権限";
 "view_emergency_contact" = "緊急連絡先を確認";
 "view_on_explorer" = "View on Explorer";
+"view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";
 "view_transaction" = "View Transaction";
 "view_wallet" = "ウォレットを確認";

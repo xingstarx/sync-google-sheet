@@ -1178,6 +1178,7 @@
 "view_authorization" = "查看授權";
 "view_emergency_contact" = "查看緊急聯繫人";
 "view_on_explorer" = "在瀏覽器查看";
+"view_on_marketplace" = "在市場查看";
 "view_storage" = "查看存儲空間";
 "view_transaction" = "查看區塊鏈瀏覽器";
 "view_wallet" = "查看錢包";

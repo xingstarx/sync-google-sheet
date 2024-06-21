@@ -1178,6 +1178,7 @@
 "view_authorization" = "Просмотр авторизации";
 "view_emergency_contact" = "Посмотреть экстренный контакт";
 "view_on_explorer" = "View on Explorer";
+"view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";
 "view_transaction" = "View Transaction";
 "view_wallet" = "Посмотреть кошелек";
