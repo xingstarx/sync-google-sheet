@@ -1936,6 +1936,8 @@
 | android,iOS | Set_as_avatar | Set as Avatar | 设置为头像 |     |     |     |
 | android,iOS | Recent | Recent | 最近  |     |     |     |
 | android,iOS | Alphabetical | Alphabetical | 按字母顺序 |     |     |     |
-|     | Floor_Price | Floor Price | 最低价格 |     |     |     |
+| android,iOS | Floor_Price | Floor Price | 最低价格 |     |     |     |
 | android,iOS | Collection_collected | %1$d collected | 已收藏 %1$d 件 |     |     |     |
-| android,iOS | view_on_marketplace | View on Marketplace | 在市场查看 |     |     |     |
+| android,iOS | View_on_Marketplace | View on Marketplace | 在市场查看 |     |     |     |
+| android,iOS | View_on_Explorer | View on Explorer | 在浏览器中查看 |     |     |     |
+| android,iOS | content_type | Content Type | 内容类型 |     |     |     |
