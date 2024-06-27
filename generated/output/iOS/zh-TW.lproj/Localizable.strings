@@ -282,6 +282,7 @@
 "content_sticker" = "[貼紙]";
 "content_transcript" = "[聊天記錄]";
 "content_transfer" = "[轉賬]";
+"content_type" = "內容型別";
 "content_unknown" = "[未知]";
 "content_video" = "[影片]";
 "content_voice" = "[語音電話]";
@@ -490,6 +491,7 @@
 "filter_by" = "篩選";
 "floating" = "浮窗";
 "floats_allows_up_to_count" = "最多支援 %d 個浮窗";
+"floor_price" = "最低價格";
 "follow_us_on_facebook" = "關注我們的 Facebook";
 "follow_us_on_twitter" = "關注我們的 Twitter";
 "forward" = "轉發";
@@ -1178,6 +1180,7 @@
 "view_authorization" = "檢視授權";
 "view_emergency_contact" = "檢視緊急聯絡人";
 "view_on_explorer" = "在瀏覽器檢視";
+"view_on_explorer" = "在瀏覽器中檢視";
 "view_on_marketplace" = "在市場檢視";
 "view_storage" = "檢視儲存空間";
 "view_transaction" = "檢視區塊鏈瀏覽器";

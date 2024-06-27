@@ -353,6 +353,7 @@
 	<string name="Content_too_long">Content too long</string>
 	<string name="content_transcript">[Transcript]</string>
 	<string name="content_transfer">[Transfer]</string>
+	<string name="content_type">Content Type</string>
 	<string name="content_video">[Video]</string>
 	<string name="content_voice">[Voice call]</string>
 	<string name="Continue">Continue</string>
@@ -607,6 +608,7 @@
 	<string name="fingerprint_lock">Fingerprint lock</string>
 	<string name="Flash_unit_not_available">Flash unit not available</string>
 	<string name="Floating">Floating</string>
+	<string name="Floor_Price">Floor Price</string>
 	<string name="Follow_system">Follow System</string>
 	<string name="Follow_us_on_facebook">Follow us on Facebook</string>
 	<string name="Follow_us_on_twitter">Follow us on Twitter</string>
@@ -1401,7 +1403,8 @@
 	<string name="View_Authorization">View Authorization</string>
 	<string name="View_emergency_contact">View emergency contact</string>
 	<string name="view_on_explorer">View on Explorer</string>
-	<string name="view_on_marketplace">View on Marketplace</string>
+	<string name="View_on_Explorer">View on Explorer</string>
+	<string name="View_on_Marketplace">View on Marketplace</string>
 	<string name="View_Transaction">View Transaction</string>
 	<string name="View_Wallet">View Wallet</string>
 	<string name="Voice_call">Voice call</string>

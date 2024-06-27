@@ -282,6 +282,7 @@
 "content_sticker" = "[Pegatina]";
 "content_transcript" = "[Transcripción]";
 "content_transfer" = "[Transferir]";
+"content_type" = "Content Type";
 "content_unknown" = "[Desconocido]";
 "content_video" = "[Video]";
 "content_voice" = "[Llamada de voz]";
@@ -490,6 +491,7 @@
 "filter_by" = "FILTRADO POR";
 "floating" = "Flotante";
 "floats_allows_up_to_count" = "Los flotadores permiten hasta %d unos";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Síguenos en Facebook";
 "follow_us_on_twitter" = "Síguenos en Twitter";
 "forward" = "Adelante";
@@ -1177,6 +1179,7 @@
 "videos" = "Vídeos";
 "view_authorization" = "Ver autorización";
 "view_emergency_contact" = "Ver contacto de emergencia";
+"view_on_explorer" = "View on Explorer";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";

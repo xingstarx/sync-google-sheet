@@ -282,6 +282,7 @@
 "content_sticker" = "[Наклейка]";
 "content_transcript" = "[Расшифровка]";
 "content_transfer" = "[Передача]";
+"content_type" = "Content Type";
 "content_unknown" = "[Неизвестный]";
 "content_video" = "[Видео]";
 "content_voice" = "[Голосовой вызов]";
@@ -490,6 +491,7 @@
 "filter_by" = "СОРТИРОВАТЬ ПО";
 "floating" = "Плавающий";
 "floats_allows_up_to_count" = "Поплавки позволяют использовать до %d единиц.";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Следите за нами на Фейсбуке";
 "follow_us_on_twitter" = "Следите за нами на Twitter";
 "forward" = "Перенаправить";
@@ -1177,6 +1179,7 @@
 "videos" = "Видео";
 "view_authorization" = "Просмотр авторизации";
 "view_emergency_contact" = "Посмотреть экстренный контакт";
+"view_on_explorer" = "View on Explorer";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";

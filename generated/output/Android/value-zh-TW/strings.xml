@@ -348,6 +348,7 @@
 	<string name="Content_too_long">內容過長</string>
 	<string name="content_transcript">[聊天記錄]</string>
 	<string name="content_transfer">[轉賬]</string>
+	<string name="content_type">內容型別</string>
 	<string name="content_video">[影片]</string>
 	<string name="content_voice">[語音電話]</string>
 	<string name="Continue">繼續</string>
@@ -598,6 +599,7 @@
 	<string name="fingerprint_lock">指紋鎖定</string>
 	<string name="Flash_unit_not_available">閃光燈/手電筒硬體不可用</string>
 	<string name="Floating">浮窗</string>
+	<string name="Floor_Price">最低價格</string>
 	<string name="Follow_system">跟隨系統</string>
 	<string name="Follow_us_on_facebook">關注我們的 Facebook</string>
 	<string name="Follow_us_on_twitter">關注我們的 Twitter</string>
@@ -1379,7 +1381,8 @@
 	<string name="View_Authorization">檢視授權</string>
 	<string name="View_emergency_contact">檢視緊急聯絡人</string>
 	<string name="view_on_explorer">在瀏覽器檢視</string>
-	<string name="view_on_marketplace">在市場檢視</string>
+	<string name="View_on_Explorer">在瀏覽器中檢視</string>
+	<string name="View_on_Marketplace">在市場檢視</string>
 	<string name="View_Transaction">檢視區塊鏈瀏覽器</string>
 	<string name="View_Wallet">檢視錢包</string>
 	<string name="Voice_call">語音通話</string>

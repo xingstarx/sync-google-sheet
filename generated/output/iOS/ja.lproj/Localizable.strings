@@ -282,6 +282,7 @@
 "content_sticker" = "[スタンプ]";
 "content_transcript" = "[メッセージ履歴]";
 "content_transfer" = "[送金]";
+"content_type" = "Content Type";
 "content_unknown" = "不明";
 "content_video" = "[動画]";
 "content_voice" = "[音声通話]";
@@ -490,6 +491,7 @@
 "filter_by" = "絞り込み：";
 "floating" = "フローティング";
 "floats_allows_up_to_count" = "フロート数の上限 %d";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "FacebookでMixinをフォロー";
 "follow_us_on_twitter" = "TwitterでMixinをフォロー";
 "forward" = "転送";
@@ -1177,6 +1179,7 @@
 "videos" = "動画";
 "view_authorization" = "閲覧権限";
 "view_emergency_contact" = "緊急連絡先を確認";
+"view_on_explorer" = "View on Explorer";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";

@@ -348,6 +348,7 @@
 	<string name="Content_too_long">内容过长</string>
 	<string name="content_transcript">[聊天记录]</string>
 	<string name="content_transfer">[转账]</string>
+	<string name="content_type">内容类型</string>
 	<string name="content_video">[视频]</string>
 	<string name="content_voice">[语音电话]</string>
 	<string name="Continue">继续</string>
@@ -598,6 +599,7 @@
 	<string name="fingerprint_lock">指纹锁定</string>
 	<string name="Flash_unit_not_available">闪光灯/手电筒硬件不可用</string>
 	<string name="Floating">浮窗</string>
+	<string name="Floor_Price">最低价格</string>
 	<string name="Follow_system">跟随系统</string>
 	<string name="Follow_us_on_facebook">关注我们的 Facebook</string>
 	<string name="Follow_us_on_twitter">关注我们的 Twitter</string>
@@ -1379,7 +1381,8 @@
 	<string name="View_Authorization">查看授权</string>
 	<string name="View_emergency_contact">查看紧急联系人</string>
 	<string name="view_on_explorer">在浏览器查看</string>
-	<string name="view_on_marketplace">在市场查看</string>
+	<string name="View_on_Explorer">在浏览器中查看</string>
+	<string name="View_on_Marketplace">在市场查看</string>
 	<string name="View_Transaction">查看区块链浏览器</string>
 	<string name="View_Wallet">查看钱包</string>
 	<string name="Voice_call">语音通话</string>

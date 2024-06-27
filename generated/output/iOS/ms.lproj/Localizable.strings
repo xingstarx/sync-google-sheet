@@ -283,6 +283,7 @@
 "content_sticker" = "[Pelekat]";
 "content_transcript" = "[Transcript]";
 "content_transfer" = "[Pindah]";
+"content_type" = "Content Type";
 "content_unknown" = "[Unknown]";
 "content_video" = "[Video]";
 "content_voice" = "[Panggilan suara]";
@@ -491,6 +492,7 @@
 "filter_by" = "DITAPIS DENGAN";
 "floating" = "Terapung";
 "floats_allows_up_to_count" = "Floats allows up to %d ones";
+"floor_price" = "Floor Price";
 "follow_us_on_facebook" = "Ikuti kami di Facebook";
 "follow_us_on_twitter" = "Ikuti kami di Twitter";
 "forward" = "Ke hadapan";
@@ -1178,6 +1180,7 @@
 "videos" = "Video";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "Lihat kenalan kecemasan";
+"view_on_explorer" = "View on Explorer";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";
