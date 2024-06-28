@@ -1912,4 +1912,6 @@
   <string name="View_on_Marketplace" platform="android,iOS">在市場檢視</string>
   <string name="View_on_Explorer" platform="android,iOS">在瀏覽器中檢視</string>
   <string name="content_type" platform="android,iOS">內容型別</string>
+  <string name="collectible_owner" platform="android,iOS">擁有者</string>
+  <string name="collectible_traits" platform="android,iOS">屬性</string>
 </resources>

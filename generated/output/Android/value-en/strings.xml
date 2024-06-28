@@ -289,6 +289,7 @@
 	<string name="Collectible">Collectible</string>
 	<string name="Collectible_Hash">Collectible Hash</string>
 	<string name="collectible_not_found">Collectible does not exist</string>
+	<string name="collectible_owner">Owner</string>
 	<string name="collectible_release_confirmation">Release Collectible</string>
 	<string name="collectible_release_failed">Release Failed</string>
 	<string name="collectible_release_hint">Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to occupy a collectible.</string>
@@ -296,6 +297,7 @@
 	<string name="collectible_released_description">The collectible was released successfully.</string>
 	<string name="collectible_releasing">Releasing</string>
 	<string name="collectible_releasing_description">The collectible is being released, please wait.</string>
+	<string name="collectible_traits">Traits</string>
 	<string name="Collectibles">Collectibles</string>
 	<string name="Collection">Collection</string>
 	<string name="Collection_collected">%1$d collected</string>
