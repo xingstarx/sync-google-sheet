@@ -1823,7 +1823,7 @@
   <string name="Sending_Failed" platform="android, iOS">發送失敗</string>
   <string name="copy_address" platform="android, iOS">複製地址</string>
   <string name="Browser" platform="android, iOS">瀏覽器</string>
-  <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 網絡上接收代幣</string>
+  <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Blast、Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 網絡上接收代幣</string>
   <string name="web3_deposit_description_solana" platform="android, iOS">使用此地址在 Solana 網絡上接收代幣</string>
   <string name="web3_no_asset" platform="android, iOS">沒有資產</string>
   <string name="Collectibles" platform="android, iOS, Desktop">藏品</string>
@@ -1909,9 +1909,9 @@
   <string name="Alphabetical" platform="android,iOS">按字母順序</string>
   <string name="Floor_Price" platform="android,iOS">最低價格</string>
   <string name="Collection_collected" platform="android,iOS">已收藏 %1$d 件</string>
-  <string name="View_on_Marketplace" platform="android,iOS">在市場查看</string>
+  <string name="View_on_Marketplace" platform="android,iOS">在市場中查看</string>
   <string name="View_on_Explorer" platform="android,iOS">在瀏覽器中查看</string>
   <string name="content_type" platform="android,iOS">內容類型</string>
   <string name="collectible_owner" platform="android,iOS">擁有者</string>
-  <string name="collectible_traits" platform="android,iOS">屬性</string>
+  <string name="collectible_traits" platform="android,iOS">特徵</string>
 </resources>

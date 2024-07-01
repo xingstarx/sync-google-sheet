@@ -292,7 +292,7 @@
 	<string name="collectible_released_description">藏品分解成功。</string>
 	<string name="collectible_releasing">分解中</string>
 	<string name="collectible_releasing_description">正在分解藏品，请稍候。</string>
-	<string name="collectible_traits">属性</string>
+	<string name="collectible_traits">特征</string>
 	<string name="Collectibles">藏品</string>
 	<string name="Collection">合集</string>
 	<string name="Collection_collected">已收藏 %1$d 件</string>
@@ -1384,7 +1384,7 @@
 	<string name="View_emergency_contact">查看紧急联系人</string>
 	<string name="view_on_explorer">在浏览器查看</string>
 	<string name="View_on_Explorer">在浏览器中查看</string>
-	<string name="View_on_Marketplace">在市场查看</string>
+	<string name="View_on_Marketplace">在市场中查看</string>
 	<string name="View_Transaction">查看区块链浏览器</string>
 	<string name="View_Wallet">查看钱包</string>
 	<string name="Voice_call">语音通话</string>
@@ -1436,7 +1436,7 @@
 	<string name="web3_claim">认领</string>
 	<string name="web3_deploy">部署</string>
 	<string name="web3_deposit">存款</string>
-	<string name="web3_deposit_description_evm">使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 网络上接收代币</string>
+	<string name="web3_deposit_description_evm">使用此地址在 Blast、Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 网络上接收代币</string>
 	<string name="web3_deposit_description_solana">使用此地址在 Solana 网络上接收代币</string>
 	<string name="web3_ensure_trust">请确保您信任此应用程序。</string>
 	<string name="web3_execute">执行</string>
