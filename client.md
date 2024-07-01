@@ -1897,7 +1897,7 @@
 | android,iOS | select_token | Select Token | 选择代币 |     |     |     |
 | android,iOS | Contract | Contract | 合约  |     |     |     |
 | android,iOS | swap_desc | %1$s will be deposited into your wallet once the transaction is complete | %1$s 将会在交易完成后存入您的钱包 |     |     |     |
-| android,iOS | view_on_explorer | View on Explorer | 在浏览器查看 |     |     |     |
+| android,iOS | view_on_explorer | View on Explorer | 在浏览器中查看 |     |     |     |
 | android,iOS | search_swap_token | Search by token or address | 按代币或合约地址搜索 |     |     |     |
 | android,iOS | Slippage_tolerance_exceeded | Slippage tolerance exceeded | 超出滑点范围 |     |     |     |
 | android,iOS | balance_max | MAX | 最大  |     |     |     |
@@ -1939,7 +1939,6 @@
 | android,iOS | Floor_Price | Floor Price | 最低价格 |     |     |     |
 | android,iOS | Collection_collected | %1$d collected | 已收藏 %1$d 件 |     |     |     |
 | android,iOS | View_on_Marketplace | View on Marketplace | 在市场中查看 |     |     |     |
-| android,iOS | View_on_Explorer | View on Explorer | 在浏览器中查看 |     |     |     |
 | android,iOS | content_type | Content Type | 内容类型 |     |     |     |
 | android,iOS | collectible_owner | Owner | 拥有者 |     |     |     |
 | android,iOS | collectible_traits | Traits | 特征  |     |     |     |
