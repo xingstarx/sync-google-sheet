@@ -1868,7 +1868,7 @@
   <string name="select_token" platform="android,iOS">選擇代幣</string>
   <string name="Contract" platform="android,iOS">合約</string>
   <string name="swap_desc" platform="android,iOS">%1$s 將會在交易完成後存入您的錢包</string>
-  <string name="view_on_explorer" platform="android,iOS">在瀏覽器檢視</string>
+  <string name="view_on_explorer" platform="android,iOS">在瀏覽器中檢視</string>
   <string name="search_swap_token" platform="android,iOS">按代幣或合約地址搜尋</string>
   <string name="Slippage_tolerance_exceeded" platform="android,iOS">超出滑點範圍</string>
   <string name="balance_max" platform="android,iOS">最大</string>
@@ -1910,7 +1910,6 @@
   <string name="Floor_Price" platform="android,iOS">最低價格</string>
   <string name="Collection_collected" platform="android,iOS">已收藏 %1$d 件</string>
   <string name="View_on_Marketplace" platform="android,iOS">在市場中檢視</string>
-  <string name="View_on_Explorer" platform="android,iOS">在瀏覽器中檢視</string>
   <string name="content_type" platform="android,iOS">內容型別</string>
   <string name="collectible_owner" platform="android,iOS">擁有者</string>
   <string name="collectible_traits" platform="android,iOS">特徵</string>

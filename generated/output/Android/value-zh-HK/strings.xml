@@ -1382,8 +1382,7 @@
 	<string name="View">查看</string>
 	<string name="View_Authorization">查看授權</string>
 	<string name="View_emergency_contact">查看緊急聯繫人</string>
-	<string name="view_on_explorer">在瀏覽器查看</string>
-	<string name="View_on_Explorer">在瀏覽器中查看</string>
+	<string name="view_on_explorer">在瀏覽器中查看</string>
 	<string name="View_on_Marketplace">在市場中查看</string>
 	<string name="View_Transaction">查看區塊鏈瀏覽器</string>
 	<string name="View_Wallet">查看錢包</string>
