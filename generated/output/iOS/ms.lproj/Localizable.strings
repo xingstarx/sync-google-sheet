@@ -1223,7 +1223,7 @@
 "web3_claim" = "Claim";
 "web3_deploy" = "Deploy";
 "web3_deposit" = "Deposit";
-"web3_deposit_description_evm" = "Use this address for receiving tokens on Blast, Ethereum, Polygon, BSC, Base, Arbitrum, Optimism networks";
+"web3_deposit_description_evm" = "Use this address for receiving tokens on Ethereum, Polygon, BSC, Base, Arbitrum, Optimism, Blast networks";
 "web3_deposit_description_solana" = "Use this address for receiving tokens on Solana network";
 "web3_ensure_trust" = "Please ensure you trust this dapp before proceeding with the request.";
 "web3_execute" = "Execute";
