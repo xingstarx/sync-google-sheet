@@ -323,6 +323,7 @@
 "phoneNumber" : "Phone Number",
 "photos" : "Photos",
 "pickAConversation" : "Select a conversation and start sending a message",
+"picturesAndVideos" : "Pictures & Videos",
 "pinTitle" : "Pin",
 "pinnedMessageTitle" : "{count, plural, one{{arg0} Pinned Message} other{{arg0} Pinned Messages}}",
 "port" : "Port",

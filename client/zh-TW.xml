@@ -1913,4 +1913,5 @@
   <string name="content_type" platform="android,iOS">內容型別</string>
   <string name="collectible_owner" platform="android,iOS">擁有者</string>
   <string name="collectible_traits" platform="android,iOS">特徵</string>
+  <string name="pictures_and_videos" platform="desktop">影象 &amp; 影片</string>
 </resources>

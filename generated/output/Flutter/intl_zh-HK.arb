@@ -322,6 +322,7 @@
 "phoneNumber" : "手機號碼",
 "photos" : "照片",
 "pickAConversation" : "選擇一個對話，開始發送信息",
+"picturesAndVideos" : "圖像 & 視頻",
 "pinTitle" : "置頂",
 "pinnedMessageTitle" : "{count, plural, one{{arg0} 條置頂消息} other{{arg0} 條置頂消息}}",
 "port" : "端口號",
