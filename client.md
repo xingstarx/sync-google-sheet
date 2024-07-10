@@ -6,7 +6,7 @@
 | android | a_live | a live | 一个直播 | 配信  |     |     |
 | android | a_location | a location | 一个位置 | 位置情報 |     |     |
 | android, Desktop | a_message | a message | 一条消息 | メッセージ |     |     |
-| android | a_photo | a photo | 一张照片 | 写真  |     |     |
+| android | a_photo | P   | 一张照片 | 写真  |     |     |
 | android | a_post | a post | 一篇文章 | 投稿  |     |     |
 | android | a_sticker | a sticker | 一张贴纸 | スタンプ |     |     |
 | android | a_transcript | a transcript | 一个聊天记录 | メッセージ履歴 |     |     |
