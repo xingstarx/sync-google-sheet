@@ -5,7 +5,7 @@
   <string name="a_live" platform="android">a live</string>
   <string name="a_location" platform="android">a location</string>
   <string name="a_message" platform="android, Desktop">a message</string>
-  <string name="a_photo" platform="android">P</string>
+  <string name="a_photo" platform="android">a photo</string>
   <string name="a_post" platform="android">a post</string>
   <string name="a_sticker" platform="android">a sticker</string>
   <string name="a_transcript" platform="android">a transcript</string>
