@@ -1942,3 +1942,4 @@
 | android,iOS | content_type | Content Type | 内容类型 |     |     |     |
 | android,iOS | collectible_owner | Owner | 拥有者 |     |     |     |
 | android,iOS | collectible_traits | Traits | 特征  |     |     |     |
+| desktop | pictures_and_videos |  Pictures & Videos | 图像 & 视频 |     |     |     |
