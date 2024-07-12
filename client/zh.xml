@@ -464,7 +464,7 @@
   <string name="Delete_for_me" platform="android, iOS, Desktop">删除</string>
   <string name="Delete_Group" platform="android, Desktop">删除群组</string>
   <string name="delete_group_chat_confirmation" platform="iOS">删除"%@"的聊天？</string>
-  <string name="Delete_my_account" platform="android, iOS, Desktop">注销账户</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">删除账号</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">删除已同步的通讯录</string>
   <string name="delete_the_circle" platform="Desktop">确定删除%1$s圈子吗？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">删除 %1$s 地址</string>
