@@ -473,7 +473,7 @@
 | android, iOS, Desktop | Delete_for_me | Delete for me | 删除  | あなたのチャットから削除 | Padamkan untuk saya | Hapus untuk saya |
 | android, Desktop | Delete_Group | Delete Group | 删除群组 | グループを削除 | Padam Kumpulan | Hapus Grup |
 | iOS | delete_group_chat_confirmation | Delete "%@" group chat? | 删除"%@"的聊天？ | "%@"のグループチャットを削除しますか? |     |     |
-| android, iOS, Desktop | Delete_my_account | Delete My Account | 注销账户 | アカウント削除 |     |     |
+| android, iOS, Desktop | Delete_my_account | Delete My Account | 删除账号 | アカウント削除 |     |     |
 | android, iOS | Delete_Synced_Contact | Delete Synced Contacts | 删除已同步的通讯录 | 同期済みの連絡先を削除する | Padam Kenalan yang selaraskan | Hapus Kontak yang Disinkronkan |
 | Desktop | delete_the_circle | Do you want to delete %1$s circle? | 确定删除%1$s圈子吗？ | %1$sのグループリストを削除しますか？ |     |     |
 | android, iOS | Delete_withdraw_Address | Delete %1$s Address | 删除 %1$s 地址 | %1$sのアドレス削除 | Padamkan Alamat %1$s | Hapus Alamat %1$s |
@@ -1943,3 +1943,4 @@
 | android,iOS | collectible_owner | Owner | 拥有者 |     |     |     |
 | android,iOS | collectible_traits | Traits | 特征  |     |     |     |
 | desktop | pictures_and_videos |  Pictures & Videos | 图像 & 视频 |     |     |     |
+| desktop | add_a_caption | Add a caption | 添加说明 |     |     |     |
