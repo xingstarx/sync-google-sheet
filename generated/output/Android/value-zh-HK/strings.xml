@@ -400,7 +400,7 @@
 	<string name="Delete_for_everyone">撤回</string>
 	<string name="Delete_for_me">刪除</string>
 	<string name="Delete_Group">刪除羣組</string>
-	<string name="Delete_my_account">註銷賬户</string>
+	<string name="Delete_my_account">刪除賬號</string>
 	<string name="Delete_Synced_Contact">刪除已同步的通訊錄</string>
 	<string name="Delete_withdraw_Address">刪除 %1$s 地址</string>
 	<string name="Deleting_Address">正在刪除地址</string>

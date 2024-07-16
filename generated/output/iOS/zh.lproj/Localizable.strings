@@ -339,7 +339,7 @@
 "delete_for_everyone" = "撤回";
 "delete_for_me" = "删除";
 "delete_group_chat_confirmation" = "删除\"%@\"的聊天？";
-"delete_my_account" = "注销账户";
+"delete_my_account" = "删除账号";
 "delete_synced_contact" = "删除已同步的通讯录";
 "delete_withdraw_address" = "删除 %@ 地址";
 "deleted" = "已删除";

@@ -464,7 +464,7 @@
   <string name="Delete_for_me" platform="android, iOS, Desktop">刪除</string>
   <string name="Delete_Group" platform="android, Desktop">刪除群組</string>
   <string name="delete_group_chat_confirmation" platform="iOS">刪除"%@"的聊天？</string>
-  <string name="Delete_my_account" platform="android, iOS, Desktop">登出賬戶</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">刪除賬號</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">刪除已同步的通訊錄</string>
   <string name="delete_the_circle" platform="Desktop">確定刪除%1$s圈子嗎？</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">刪除 %1$s 地址</string>
@@ -1914,4 +1914,5 @@
   <string name="collectible_owner" platform="android,iOS">擁有者</string>
   <string name="collectible_traits" platform="android,iOS">特徵</string>
   <string name="pictures_and_videos" platform="desktop">影象 &amp; 影片</string>
+  <string name="add_a_caption" platform="desktop">新增說明</string>
 </resources>

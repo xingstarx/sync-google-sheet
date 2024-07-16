@@ -339,7 +339,7 @@
 "delete_for_everyone" = "撤回";
 "delete_for_me" = "刪除";
 "delete_group_chat_confirmation" = "刪除\"%@\"的聊天？";
-"delete_my_account" = "註銷賬户";
+"delete_my_account" = "刪除賬號";
 "delete_synced_contact" = "刪除已同步的通訊錄";
 "delete_withdraw_address" = "刪除 %@ 地址";
 "deleted" = "已刪除";
