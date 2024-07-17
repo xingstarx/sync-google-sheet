@@ -1915,4 +1915,5 @@
   <string name="collectible_traits" platform="android,iOS">特征</string>
   <string name="pictures_and_videos" platform="desktop">图像 &amp; 视频</string>
   <string name="add_a_caption" platform="desktop">添加说明</string>
+  <string name="copy_image" platform="desktop">复制图像</string>
 </resources>
