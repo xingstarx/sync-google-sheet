@@ -1944,3 +1944,5 @@
 | android,iOS | collectible_traits | Traits | 特征  |     |     |     |
 | desktop | pictures_and_videos |  Pictures & Videos | 图像 & 视频 |     |     |     |
 | desktop | add_a_caption | Add a caption | 添加说明 |     |     |     |
+| desktop | copy_image | Copy Image | 复制图片 |     |     |     |
+| desktop | copy_text | Copy Text | 复制文字 |     |     |     |
