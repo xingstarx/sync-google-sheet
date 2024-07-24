@@ -113,6 +113,7 @@
 	<string name="allow_dapp_request_approval">Allow dApp to ask for your approval to make a transaction.</string>
 	<string name="Alphabetical">Alphabetical</string>
 	<string name="Amount">Amount</string>
+	<string name="amount_descending">Amount Descending</string>
 	<string name="an_audio">an audio</string>
 	<string name="Anonymous">Anonymous</string>
 	<string name="Anonymous_Number">Anonymous Number</string>
@@ -126,6 +127,7 @@
 	<string name="Asset_Migration">Network Upgrade</string>
 	<string name="asset_migration_hint">You have assets in the legacy network, please view here.</string>
 	<string name="Asset_not_found">Asset not found.</string>
+	<string name="Assets">Assets</string>
 	<string name="ASSETS">ASSETS</string>
 	<string name="Audio">Audio</string>
 	<string name="audio_shareable_false">The audio has been set to not allow sharing</string>
@@ -157,6 +159,7 @@
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
 	<string name="Backup_success">Backup success</string>
+	<string name="balance_abbreviation">Bal %1$s</string>
 	<string name="balance_half">HALF</string>
 	<string name="balance_max">MAX</string>
 	<string name="Best_price">Best price</string>
@@ -522,8 +525,10 @@
 	<string name="error_invalid_code_too_frequent">ERROR 20129: Send verification code too frequent, please try again later.</string>
 	<string name="error_invalid_emergency_contact">ERROR 20130: Invalid emergency contact</string>
 	<string name="error_invalid_pin_format">ERROR 20118: Invalid PIN format. </string>
+	<string name="error_invalid_quote_amount">ERROR 10614: Invalid quote amount</string>
 	<string name="error_invalid_swap">ERROR 10611: Invalid swap</string>
 	<string name="error_memo_too_long">Memo has too many characters, maximum is 200</string>
+	<string name="error_no_available_quote">ERROR 10615: No available quote</string>
 	<string name="error_not_approved_many_times">ERROR 10606: Not approved too many times</string>
 	<string name="error_not_found">ERROR 404: Not found</string>
 	<string name="error_not_support_card">ERROR 10604: Card anomaly, please try correct card later</string>
@@ -874,12 +879,15 @@
 	<string name="notification_content">Don\'t miss messages from your friends.</string>
 	<string name="Notifications">Notifications</string>
 	<string name="Now_Playing">Now Playing</string>
+	<string name="number_of_assets">%1$d Assets</string>
+	<string name="number_of_recipients">%1$d Recipients</string>
 	<string name="number_reached_limit">The number has reached the limit</string>
 	<string name="Off">Off</string>
 	<string name="OK">OK</string>
 	<string name="Old_Device_is_waiting">Make sure that the old device is still on the screen that says \"Waiting for Other Device…\" to ensure synchronization.</string>
 	<string name="Old_PIN">Old PIN</string>
 	<string name="old_price">Old Price</string>
+	<string name="Oldest">Oldest</string>
 	<string name="one_hour">1 Hour</string>
 	<string name="one_week">1 Week</string>
 	<string name="one_year">1 Year</string>
@@ -994,6 +1002,7 @@
 	<string name="Recent">Recent</string>
 	<string name="recent_chats">CHATS</string>
 	<string name="Recent_searches">Recent searches</string>
+	<string name="Recipients">Recipients</string>
 	<string name="Refresh">Refresh</string>
 	<string name="Refuse">Refuse</string>
 	<string name="Registering">Registering…</string>
@@ -1098,6 +1107,7 @@
 	<string name="select_a_token_for_the_fee">Select a token for the fee</string>
 	<string name="Select_All">Select All</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
+	<string name="Select_LIMIT">Select up to %1$d</string>
 	<string name="select_payment_method">Select Payment Method</string>
 	<string name="select_token">Select Token</string>
 	<string name="Send">Send</string>
@@ -1199,6 +1209,7 @@
 	<string name="Sign_with_emergency_contact">Sign in with emergency contact</string>
 	<string name="Sign_with_phone_number">Sign in with phone number</string>
 	<string name="signature_request">Signature Request</string>
+	<string name="signature_request_from_mixin">This signature request is issued by Mixin Messenger.</string>
 	<string name="signature_request_warning">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
 	<string name="signed_message">SIGNED MESSAGE</string>
 	<string name="Silence_Notification">Silence Notification</string>
@@ -1217,6 +1228,10 @@
 	<string name="snapshot_Hash">Snapshot Hash</string>
 	<string name="Sort">Sort</string>
 	<string name="Sort_by">Sort by</string>
+	<string name="sort_by_amount">Sort by Amount</string>
+	<string name="sort_by_oldest">Sort by Oldest</string>
+	<string name="sort_by_recent">Sort by Recent</string>
+	<string name="sort_by_value">Sort by Value</string>
 	<string name="Start">Start</string>
 	<string name="Start_Messaging">Start Messaging</string>
 	<string name="Start_Migration">Start the migration</string>
@@ -1242,7 +1257,10 @@
 	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
+	<string name="swap_confirmation">Swap Confirm</string>
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
+	<string name="swap_failed">Swap Failed</string>
+	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
 	<string name="Swapping">Swapping</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
 	<string name="Switching_currency">Switching currency</string>
@@ -1388,6 +1406,7 @@
 	<string name="user_deleted_hint">The user has deleted the account.</string>
 	<string name="User_not_found">User not found</string>
 	<string name="utxo_count_exceeded">This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.</string>
+	<string name="value_descending">Value Descending</string>
 	<string name="value_now">value now %1$s</string>
 	<string name="value_then">value then %1$s</string>
 	<string name="verification_blocked_description">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
@@ -1469,7 +1488,6 @@
 	<string name="web3_no_asset">Don’t Have Assets</string>
 	<string name="web3_receive">Receive</string>
 	<string name="web3_repay">Repay</string>
-	<string name="web3_request_from_mixin">This signature request is issued by Mixin Messenger.</string>
 	<string name="web3_send">Send</string>
 	<string name="web3_send_signature_description">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
 	<string name="web3_signing">Signing</string>

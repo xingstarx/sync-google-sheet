@@ -113,6 +113,7 @@
 	<string name="allow_dapp_request_approval">允許 dApp 向你傳送請求，如轉賬請求等</string>
 	<string name="Alphabetical">按字母順序</string>
 	<string name="Amount">金額</string>
+	<string name="amount_descending">價值降序</string>
 	<string name="an_audio">一條語音</string>
 	<string name="Anonymous">匿名</string>
 	<string name="Anonymous_Number">匿名號碼</string>
@@ -125,6 +126,7 @@
 	<string name="Asset_Migration">資產遷移</string>
 	<string name="asset_migration_hint">您還有資產在舊的 Mixin 網路，點選檢視。</string>
 	<string name="Asset_not_found">找不到該資產</string>
+	<string name="Assets">資產</string>
 	<string name="ASSETS">資產</string>
 	<string name="Audio">語音</string>
 	<string name="audio_shareable_false">該語音已被設定為不允許轉發</string>
@@ -155,6 +157,7 @@
 	<string name="backup_notification_content">正在準備備份…</string>
 	<string name="backup_notification_title">備份正在進行中</string>
 	<string name="Backup_success">備份成功</string>
+	<string name="balance_abbreviation">餘額 %1$s</string>
 	<string name="balance_half">取半</string>
 	<string name="balance_max">最大</string>
 	<string name="Best_price">最優價格</string>
@@ -513,8 +516,10 @@
 	<string name="error_invalid_code_too_frequent">錯誤 20129：傳送驗證碼太頻繁，請稍後再試</string>
 	<string name="error_invalid_emergency_contact">錯誤 20130：緊急聯絡人不正確</string>
 	<string name="error_invalid_pin_format">錯誤 20118：PIN 格式不正確</string>
-	<string name="error_invalid_swap">錯誤 10611: 無效的閃兌</string>
+	<string name="error_invalid_quote_amount">錯誤 10614: 數量無效</string>
+	<string name="error_invalid_swap">錯誤 10611: 閃兌無效</string>
 	<string name="error_memo_too_long">Memo 字元超長，最多為 200</string>
+	<string name="error_no_available_quote">錯誤 10615: 沒有報價</string>
 	<string name="error_not_approved_many_times">錯誤 10606: 未批准多次</string>
 	<string name="error_not_found">錯誤 404：沒有找到相應的資訊</string>
 	<string name="error_not_support_card">錯誤 10604: 卡片異常，請稍後嘗試正確的卡片</string>
@@ -856,12 +861,15 @@
 	<string name="notification_content">不再遺漏好友的訊息。</string>
 	<string name="Notifications">通知</string>
 	<string name="Now_Playing">正在播放</string>
+	<string name="number_of_assets">%1$d 資產</string>
+	<string name="number_of_recipients">%1$d 收款人</string>
 	<string name="number_reached_limit">已達到上限</string>
 	<string name="Off">關閉</string>
 	<string name="OK">好的</string>
 	<string name="Old_Device_is_waiting">確保舊的裝置已停留在同步等待掃碼的介面</string>
 	<string name="Old_PIN">驗證舊的 PIN</string>
 	<string name="old_price">過期價格</string>
+	<string name="Oldest">最早  </string>
 	<string name="one_hour">1 小時</string>
 	<string name="one_week">1 星期</string>
 	<string name="one_year">1 年</string>
@@ -975,6 +983,7 @@
 	<string name="Recent">最近</string>
 	<string name="recent_chats">最近聊天</string>
 	<string name="Recent_searches">最近搜尋</string>
+	<string name="Recipients">收款人</string>
 	<string name="Refresh">重新整理</string>
 	<string name="Refuse">拒絕</string>
 	<string name="Registering">註冊中…</string>
@@ -1078,6 +1087,7 @@
 	<string name="select_a_token_for_the_fee">選擇支付手續費的幣種</string>
 	<string name="Select_All">選擇所有</string>
 	<string name="Select_Emergency_Contact">選擇緊急聯絡人</string>
+	<string name="Select_LIMIT">最多選擇 %1$d 個</string>
 	<string name="select_payment_method">選擇支付方式</string>
 	<string name="select_token">選擇代幣</string>
 	<string name="Send">傳送</string>
@@ -1178,6 +1188,7 @@
 	<string name="Sign_with_emergency_contact">透過緊急聯絡人登入</string>
 	<string name="Sign_with_phone_number">透過手機號登入</string>
 	<string name="signature_request">簽名確認</string>
+	<string name="signature_request_from_mixin">該簽名請求來自 Mixin Messenger。</string>
 	<string name="signature_request_warning">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
 	<string name="signed_message">簽名</string>
 	<string name="Silence_Notification">靜音通知</string>
@@ -1196,6 +1207,10 @@
 	<string name="snapshot_Hash">快照雜湊</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">順序</string>
+	<string name="sort_by_amount">按金額排序</string>
+	<string name="sort_by_oldest">按最早排序</string>
+	<string name="sort_by_recent">按最近排序</string>
+	<string name="sort_by_value">按價值排序</string>
 	<string name="Start">開始</string>
 	<string name="Start_Messaging">開始聊天</string>
 	<string name="Start_Migration">開始遷移</string>
@@ -1221,7 +1236,10 @@
 	<string name="suspended_deposit">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網路硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
 	<string name="Suspicious_Link">可疑連結</string>
 	<string name="Swap">閃兌</string>
+	<string name="swap_confirmation">確認閃兌</string>
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
+	<string name="swap_failed">閃兌失敗</string>
+	<string name="swap_message_success">您的閃兌交易已傳送至網路，交易將很快被處理。</string>
 	<string name="Swapping">兌換中</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
 	<string name="Switching_currency">切換貨幣中</string>
@@ -1366,6 +1384,7 @@
 	<string name="user_deleted_hint">該使用者已經刪除了賬號。</string>
 	<string name="User_not_found">找不到這個使用者</string>
 	<string name="utxo_count_exceeded">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
+	<string name="value_descending">金額降序</string>
 	<string name="value_now">價值 %1$s</string>
 	<string name="value_then">當時價值 %1$s</string>
 	<string name="verification_blocked_description">你的驗證失敗了，可能是因為提交的檔案有問題，請點選下面按鈕聯絡客服。</string>
@@ -1447,7 +1466,6 @@
 	<string name="web3_no_asset">沒有資產</string>
 	<string name="web3_receive">接收</string>
 	<string name="web3_repay">還款</string>
-	<string name="web3_request_from_mixin">該簽名請求來自 Mixin Messenger。</string>
 	<string name="web3_send">傳送</string>
 	<string name="web3_send_signature_description">點發送按鈕立刻廣播訊息或點丟棄按鈕丟棄已簽名的訊息。</string>
 	<string name="web3_signing">正在簽名</string>

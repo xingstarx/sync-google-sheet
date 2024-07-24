@@ -88,6 +88,7 @@
 "allow_manual_report_message" = "メッセージ単位の報告を許可";
 "alphabetical" = "Alphabetical";
 "amount" = "数量";
+"amount_descending" = "Amount Descending";
 "anonymous" = "Anonymous";
 "anonymous_number" = "匿名番号";
 "app_card_shareable_false" = "このカードを共有することはできません";
@@ -99,6 +100,7 @@
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "資産が存在しません";
 "asset_type" = "資産タイプ";
+"assets" = "Assets";
 "assets" = "資産";
 "assets_title" = "資産";
 "audio" = "音声メッセージ";
@@ -123,6 +125,7 @@
 "backup_disable_hint" = "履歴をバックアップするためにサインインしてください：設定＞ユーザー名＞iCloud＞iCloud Driveをオン";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "残高";
+"balance_abbreviation" = "Bal %@";
 "balance_half" = "HALF";
 "balance_max" = "MAX";
 "best_price" = "Best price";
@@ -432,7 +435,10 @@
 "error_invalid_address_plain" = "エラー30102：無効なアドレス形式です";
 "error_invalid_code_too_frequent" = "エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。";
 "error_invalid_emergency_contact" = "エラー 20130：無効な緊急連絡先です";
+"error_invalid_quote_amount" = "ERROR 10614: Invalid quote amount";
+"error_invalid_swap" = "ERROR 10611: Invalid swap";
 "error_network_task_failed" = "ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。";
+"error_no_available_quote" = "ERROR 10615: No available quote";
 "error_not_found" = "エラー 404：結果なし";
 "error_number_reached_limit" = "エラー 20132：数が上限に達しています";
 "error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
@@ -702,9 +708,12 @@
 "notification_content" = "友達からのメッセージを見逃さないで！";
 "notification_message_preview_description" = "通知でメッセージ内容を表示する";
 "now_an_addmin" = "%@は管理者です";
+"number_of_assets" = "%d Assets";
+"number_of_recipients" = "%d Recipients";
 "off" = "オフ";
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
+"oldest" = "Oldest";
 "one_by_one_forward" = "それぞれ転送する";
 "one_hour" = "1時間";
 "one_week" = "1週間";
@@ -823,6 +832,7 @@
 "recent" = "Recent";
 "recent_chats" = "チャット";
 "recent_searches" = "最近の検索";
+"recipients" = "Recipients";
 "refresh" = "更新";
 "release" = "Release";
 "reload" = "リロード";
@@ -915,6 +925,7 @@
 "select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
 "select_emergency_contact" = "緊急連絡先を選択";
+"select_limit" = "Select up to %d";
 "select_more_photos" = "さらに選択";
 "select_payment_method" = "Select Payment Method";
 "select_token" = "Select Token";
@@ -1006,6 +1017,7 @@
 "sign_with_emergency_contact" = "緊急連絡先でログイン";
 "sign_with_phone_number" = "電話番号でログイン";
 "signature_request" = "Signature Request";
+"signature_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "スキップ";
 "slide_to_cancel" = "スライドしてキャンセル";
@@ -1021,6 +1033,10 @@
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "スナップショットは見つかりません";
 "sort_by" = "並びかえ項目";
+"sort_by_amount" = "Sort by Amount";
+"sort_by_oldest" = "Sort by Oldest";
+"sort_by_recent" = "Sort by Recent";
+"sort_by_value" = "Sort by Value";
 "start" = "Start";
 "start_messaging" = "メッセージを開始";
 "started_group_call" = "%@がグループ通話を開始しました";
@@ -1039,7 +1055,10 @@
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "不審なリンクです";
 "swap" = "Swap";
+"swap_confirmation" = "Swap Confirm";
 "swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swap_failed" = "Swap Failed";
+"swap_message_success" = "Your transaction has been sent to network and will be processed within a few minutes.";
 "swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "シンボル";
@@ -1171,6 +1190,7 @@
 "user_not_found" = "ユーザーが見つかりませんでした";
 "utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "認証時間切れ";
+"value_descending" = "Value Descending";
 "value_now" = "現在価格 %@";
 "value_then" = "当時の価格 %@";
 "verify" = "認証";
@@ -1234,7 +1254,6 @@
 "web3_no_asset" = "Don’t Have Assets";
 "web3_receive" = "Receive";
 "web3_repay" = "Repay";
-"web3_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
 "web3_send" = "Send";
 "web3_signing" = "Signing";
 "web3_signing_data_success" = "The data has been signed and sent successfully, please return to dApp to continue.";

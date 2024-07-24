@@ -88,6 +88,7 @@
 "allow_manual_report_message" = "Разрешить сообщение ручного отчета";
 "alphabetical" = "Alphabetical";
 "amount" = "Количество";
+"amount_descending" = "Amount Descending";
 "anonymous" = "Anonymous";
 "anonymous_number" = "Anonymous Number";
 "app_card_shareable_false" = "Карта была настроена так, чтобы не разрешать совместное использование";
@@ -99,6 +100,7 @@
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Актив не найден.";
 "asset_type" = "Тип актива";
+"assets" = "Assets";
 "assets" = "АКТИВЫ";
 "assets_title" = "Активы";
 "audio" = "Аудио";
@@ -123,6 +125,7 @@
 "backup_disable_hint" = "Войдите в iCloud, чтобы создать резервную копию своей истории. Настройки > iCloud > Включить iCloud Drive.";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Баланс";
+"balance_abbreviation" = "Bal %@";
 "balance_half" = "HALF";
 "balance_max" = "MAX";
 "best_price" = "Best price";
@@ -432,7 +435,10 @@
 "error_invalid_address_plain" = "ОШИБКА 30102: Недопустимый формат адреса.";
 "error_invalid_code_too_frequent" = "ОШИБКА 20129: Код подтверждения отправляется слишком часто. Повторите попытку позже.";
 "error_invalid_emergency_contact" = "ОШИБКА 20130: Недопустимый экстренный контакт";
+"error_invalid_quote_amount" = "ERROR 10614: Invalid quote amount";
+"error_invalid_swap" = "ERROR 10611: Invalid swap";
 "error_network_task_failed" = "Не удалось подключиться к сети. Проверьте или переключите сеть и повторите попытку.";
+"error_no_available_quote" = "ERROR 10615: No available quote";
 "error_not_found" = "Ошибка 404: Не найдено";
 "error_number_reached_limit" = "ОШИБКА 20132: число достигло предела.";
 "error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
@@ -702,9 +708,12 @@
 "notification_content" = "Не пропустите сообщения от друзей.";
 "notification_message_preview_description" = "Предварительный просмотр текста сообщения в уведомлениях о новых сообщениях.";
 "now_an_addmin" = "%@ теперь администратор";
+"number_of_assets" = "%d Assets";
+"number_of_recipients" = "%d Recipients";
 "off" = "Выключенный";
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
+"oldest" = "Oldest";
 "one_by_one_forward" = "Один за другим вперед";
 "one_hour" = "1 час";
 "one_week" = "1 неделя";
@@ -823,6 +832,7 @@
 "recent" = "Recent";
 "recent_chats" = "ЧАТЫ";
 "recent_searches" = "Недавние поиски";
+"recipients" = "Recipients";
 "refresh" = "Обновить";
 "release" = "Release";
 "reload" = "Перезагрузить";
@@ -915,6 +925,7 @@
 "select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
 "select_emergency_contact" = "Выберите экстренный контакт";
+"select_limit" = "Select up to %d";
 "select_more_photos" = "Выберите больше фотографий";
 "select_payment_method" = "Select Payment Method";
 "select_token" = "Select Token";
@@ -1006,6 +1017,7 @@
 "sign_with_emergency_contact" = "Войти через контакт для экстренных случаев";
 "sign_with_phone_number" = "Войти через номер телефона";
 "signature_request" = "Signature Request";
+"signature_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "Пропустить";
 "slide_to_cancel" = "Сдвиньте, чтобы отменить";
@@ -1021,6 +1033,10 @@
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Снимок не найден.";
 "sort_by" = "Сортировать по";
+"sort_by_amount" = "Sort by Amount";
+"sort_by_oldest" = "Sort by Oldest";
+"sort_by_recent" = "Sort by Recent";
+"sort_by_value" = "Sort by Value";
 "start" = "Start";
 "start_messaging" = "Начать обмен сообщениями";
 "started_group_call" = "%@ начал групповой вызов";
@@ -1039,7 +1055,10 @@
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Подозрительная ссылка";
 "swap" = "Swap";
+"swap_confirmation" = "Swap Confirm";
 "swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swap_failed" = "Swap Failed";
+"swap_message_success" = "Your transaction has been sent to network and will be processed within a few minutes.";
 "swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "Символ";
@@ -1171,6 +1190,7 @@
 "user_not_found" = "Пользователь не найден";
 "utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "Время проверки истекло";
+"value_descending" = "Value Descending";
 "value_now" = "значение сейчас %@";
 "value_then" = "значение затем %@";
 "verify" = "Проверить";
@@ -1234,7 +1254,6 @@
 "web3_no_asset" = "Don’t Have Assets";
 "web3_receive" = "Receive";
 "web3_repay" = "Repay";
-"web3_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
 "web3_send" = "Send";
 "web3_signing" = "Signing";
 "web3_signing_data_success" = "The data has been signed and sent successfully, please return to dApp to continue.";

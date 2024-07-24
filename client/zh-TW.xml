@@ -607,7 +607,9 @@
   <string name="error_card_holder_name_not_same" platform="android">錯誤 10608: 卡片異常，請稍後嘗試正確的卡片</string>
   <string name="error_expired_session" platform="android">錯誤 10609: 交易會話過期</string>
   <string name="error_inconsistent_country" platform="android">錯誤 10610: 國家不一致</string>
-  <string name="error_invalid_swap" platform="android">錯誤 10611: 無效的閃兌</string>
+  <string name="error_invalid_swap" platform="android, iOS">錯誤 10611: 閃兌無效</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">錯誤 10614: 數量無效</string>
+  <string name="error_no_available_quote" platform="android, iOS">錯誤 10615: 沒有報價</string>
   <string name="error_permission" platform="android, Desktop">請開啟相關許可權</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">錯誤 20110：手機號碼不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">錯誤 10003：傳送簡訊失敗</string>
@@ -1838,7 +1840,7 @@
   <string name="Accounts" platform="android, iOS">賬戶</string>
   <string name="to_mixin_wallet" platform="android, iOS">劃轉到 Mixin 錢包</string>
   <string name="Invalid_Address" platform="android, iOS">無效的地址</string>
-  <string name="web3_request_from_mixin" platform="android, iOS">該簽名請求來自 Mixin Messenger。</string>
+  <string name="signature_request_from_mixin" platform="android, iOS">該簽名請求來自 Mixin Messenger。</string>
   <string name="content_collectible" platform="android, iOS">[藏品]</string>
   <string name="HASH" platform="android, iOS, Desktop">雜湊</string>
   <string name="ID" platform="android, iOS, Desktop">ID</string>
@@ -1917,4 +1919,20 @@
   <string name="add_a_caption" platform="desktop">新增說明</string>
   <string name="copy_image" platform="desktop">複製圖片</string>
   <string name="copy_text" platform="desktop">複製文字</string>
+  <string name="Oldest" platform="android,iOS">最早  </string>
+  <string name="amount_descending" platform="android,iOS">價值降序</string>
+  <string name="value_descending" platform="android,iOS">金額降序</string>
+  <string name="sort_by_recent" platform="android,iOS">按最近排序</string>
+  <string name="sort_by_oldest" platform="android,iOS">按最早排序</string>
+  <string name="sort_by_value" platform="android,iOS">按價值排序</string>
+  <string name="sort_by_amount" platform="android,iOS">按金額排序</string>
+  <string name="Assets" platform="android,iOS">資產</string>
+  <string name="Recipients" platform="android,iOS">收款人</string>
+  <string name="number_of_assets" platform="android,iOS">%1$d 資產</string>
+  <string name="number_of_recipients" platform="android,iOS">%1$d 收款人</string>
+  <string name="Select_LIMIT" platform="android,iOS">最多選擇 %1$d 個</string>
+  <string name="balance_abbreviation" platform="android,iOS">餘額 %1$s</string>
+  <string name="swap_confirmation" platform="android,iOS">確認閃兌</string>
+  <string name="swap_failed" platform="android,iOS">閃兌失敗</string>
+  <string name="swap_message_success" platform="android,iOS">您的閃兌交易已傳送至網路，交易將很快被處理。</string>
 </resources>
