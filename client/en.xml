@@ -616,7 +616,9 @@
   <string name="error_card_holder_name_not_same" platform="android">ERROR 10608: Card anomaly, please try correct card later</string>
   <string name="error_expired_session" platform="android">ERROR 10609: Session expired</string>
   <string name="error_inconsistent_country" platform="android">ERROR 10610: Inconsistent country</string>
-  <string name="error_invalid_swap" platform="android">ERROR 10611: Invalid swap</string>
+  <string name="error_invalid_swap" platform="android, iOS">ERROR 10611: Invalid swap</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">ERROR 10614: Invalid quote amount</string>
+  <string name="error_no_available_quote" platform="android, iOS">ERROR 10615: No available quote</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
@@ -1866,7 +1868,7 @@
   <string name="Accounts" platform="android, iOS">Accounts</string>
   <string name="to_mixin_wallet" platform="android, iOS">To my Mixin Wallet</string>
   <string name="Invalid_Address" platform="android, iOS">Invalid Address</string>
-  <string name="web3_request_from_mixin" platform="android, iOS">This signature request is issued by Mixin Messenger.</string>
+  <string name="signature_request_from_mixin" platform="android, iOS">This signature request is issued by Mixin Messenger.</string>
   <string name="content_collectible" platform="android, iOS">[Collectible]</string>
   <string name="HASH" platform="android, iOS, Desktop">HASH</string>
   <string name="ID" platform="android, iOS, Desktop">ID</string>
@@ -1945,4 +1947,20 @@
   <string name="add_a_caption" platform="desktop">Add a caption</string>
   <string name="copy_image" platform="desktop">Copy Image</string>
   <string name="copy_text" platform="desktop">Copy Text</string>
+  <string name="Oldest" platform="android,iOS">Oldest</string>
+  <string name="amount_descending" platform="android,iOS">Amount Descending</string>
+  <string name="value_descending" platform="android,iOS">Value Descending</string>
+  <string name="sort_by_recent" platform="android,iOS">Sort by Recent</string>
+  <string name="sort_by_oldest" platform="android,iOS">Sort by Oldest</string>
+  <string name="sort_by_value" platform="android,iOS">Sort by Value</string>
+  <string name="sort_by_amount" platform="android,iOS">Sort by Amount</string>
+  <string name="Assets" platform="android,iOS">Assets</string>
+  <string name="Recipients" platform="android,iOS">Recipients</string>
+  <string name="number_of_assets" platform="android,iOS">%1$d Assets</string>
+  <string name="number_of_recipients" platform="android,iOS">%1$d Recipients</string>
+  <string name="Select_LIMIT" platform="android,iOS">Select up to %1$d</string>
+  <string name="balance_abbreviation" platform="android,iOS">Bal %1$s</string>
+  <string name="swap_confirmation" platform="android,iOS">Swap Confirm</string>
+  <string name="swap_failed" platform="android,iOS">Swap Failed</string>
+  <string name="swap_message_success" platform="android,iOS">Your transaction has been sent to network and will be processed within a few minutes.</string>
 </resources>

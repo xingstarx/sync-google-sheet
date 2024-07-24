@@ -617,7 +617,9 @@
 | android | error_card_holder_name_not_same | ERROR 10608: Card anomaly, please try correct card later | 错误 10608: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_expired_session | ERROR 10609: Session expired | 错误 10609: 交易会话过期 |     |     |     |
 | android | error_inconsistent_country | ERROR 10610: Inconsistent country | 错误 10610: 国家不一致 |     |     |     |
-| android | error_invalid_swap | ERROR 10611: Invalid swap | 错误 10611: 无效的闪兑 |     |     |     |
+| android, iOS | error_invalid_swap | ERROR 10611: Invalid swap | 错误 10611: 闪兑无效 |     |     |     |
+| android, iOS | error_invalid_quote_amount | ERROR 10614: Invalid quote amount | 错误 10614: 数量无效 |     |     |     |
+| android, iOS | error_no_available_quote | ERROR 10615: No available quote | 错误 10615: 没有报价 |     |     |     |
 | android, Desktop | error_permission | Please open the necessary permissions | 请开启相关权限 | 必要な権限を開いてください | Sila buka kebenaran yang diperlukan | Harap buka izin yang diperlukan |
 | android, iOS, Desktop | error_phone_invalid_format | ERROR 20110: Invalid phone number | 错误 20110：手机号码不合法 | エラー 20110：無効な電話番号です | RALAT 20110: Nombor telefon tidak sah | KESALAHAN 20110: Nomor telepon tidak valid |
 | android, iOS, Desktop | error_phone_sms_delivery | ERROR 10003: Failed to deliver SMS | 错误 10003：发送短信失败 | エラー 10003：SMSの送信に失敗しました | RALAT 10003: Gagal menghantar SMS | KESALAHAN 10003: Gagal mengirim SMS |
@@ -1867,7 +1869,7 @@
 | android, iOS | Accounts | Accounts | 账户  |     |     |     |
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
-| android, iOS | web3_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
+| android, iOS | signature_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
 | android, iOS | content_collectible | [Collectible] | [藏品] |     |     |     |
 | android, iOS, Desktop | HASH | HASH | 哈希  |     |     |     |
 | android, iOS, Desktop | ID  | ID  | ID  |     |     |     |
@@ -1946,3 +1948,19 @@
 | desktop | add_a_caption | Add a caption | 添加说明 |     |     |     |
 | desktop | copy_image | Copy Image | 复制图片 |     |     |     |
 | desktop | copy_text | Copy Text | 复制文字 |     |     |     |
+| android,iOS | Oldest | Oldest | 最早   |     |     |     |
+| android,iOS | amount_descending | Amount Descending | 价值降序 |     |     |     |
+| android,iOS | value_descending | Value Descending | 金额降序 |     |     |     |
+| android,iOS | sort_by_recent | Sort by Recent | 按最近排序 |     |     |     |
+| android,iOS | sort_by_oldest | Sort by Oldest | 按最早排序 |     |     |     |
+| android,iOS | sort_by_value | Sort by Value | 按价值排序 |     |     |     |
+| android,iOS | sort_by_amount | Sort by Amount | 按金额排序 |     |     |     |
+| android,iOS | Assets | Assets | 资产  |     |     |     |
+| android,iOS | Recipients | Recipients | 收款人 |     |     |     |
+| android,iOS | number_of_assets | %1$d Assets | %1$d 资产 |     |     |     |
+| android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
+| android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
+| android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
+| android,iOS | swap_confirmation | Swap Confirm | 确认闪兑 |     |     |     |
+| android,iOS | swap_failed | Swap Failed | 闪兑失败 |     |     |     |
+| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
