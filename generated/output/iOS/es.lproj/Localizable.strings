@@ -691,6 +691,7 @@
 "no_memo" = "Sin memorando";
 "no_network_connection" = "No hay conexion de red";
 "no_posts" = "SIN PUBLICACIONES";
+"no_quote" = "No available quotes found. Please try a different token or amount.";
 "no_results" = "SIN RESULTADOS";
 "no_stickers" = "SIN PEGATINAS";
 "no_tag" = "Sin etiqueta";

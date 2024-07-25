@@ -691,6 +691,7 @@
 "no_memo" = "Tanpa Memo";
 "no_network_connection" = "Tidak ada sambungan jaringan";
 "no_posts" = "TIDAK ADA POSTINGAN";
+"no_quote" = "No available quotes found. Please try a different token or amount.";
 "no_results" = "Tidak ada hasil";
 "no_stickers" = "NO STICKERS";
 "no_tag" = "Tanpa Tag";

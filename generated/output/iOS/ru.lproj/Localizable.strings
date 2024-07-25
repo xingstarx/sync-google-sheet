@@ -691,6 +691,7 @@
 "no_memo" = "Нет памятки";
 "no_network_connection" = "Нет подключения к сети";
 "no_posts" = "НЕТ СООБЩЕНИЙ";
+"no_quote" = "No available quotes found. Please try a different token or amount.";
 "no_results" = "НЕТ РЕЗУЛЬТАТОВ";
 "no_stickers" = "НЕТ НАКЛЕЕК";
 "no_tag" = "Нет тега";

@@ -853,6 +853,7 @@
 	<string name="No_Memo">No Memo</string>
 	<string name="No_network_connection">No network connection</string>
 	<string name="NO_POSTS">NO POSTS</string>
+	<string name="no_quote">No available quotes found. Please try a different token or amount.</string>
 	<string name="No_raws">No raws</string>
 	<string name="No_rebates">No rebates</string>
 	<string name="NO_RESULTS">NO RESULTS</string>

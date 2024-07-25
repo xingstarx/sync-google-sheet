@@ -691,6 +691,7 @@
 "no_memo" = "沒有 Memo（備註）";
 "no_network_connection" = "無網路連線";
 "no_posts" = "沒有文章";
+"no_quote" = "沒有報價。請嘗試切換幣種或者修改金額。";
 "no_results" = "未找到相關結果";
 "no_stickers" = "還未新增任何表情";
 "no_tag" = "點選不使用 Tag（標籤）";

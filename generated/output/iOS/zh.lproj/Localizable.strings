@@ -691,6 +691,7 @@
 "no_memo" = "没有 Memo（备注）";
 "no_network_connection" = "无网络连接";
 "no_posts" = "没有文章";
+"no_quote" = "没有报价。请尝试切换币种或者修改金额。";
 "no_results" = "未找到相关结果";
 "no_stickers" = "还未添加任何表情";
 "no_tag" = "点击不使用 Tag（标签）";
