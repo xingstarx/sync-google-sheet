@@ -1056,7 +1056,6 @@
 "suspicious_link" = "可疑鏈接";
 "swap" = "閃兑";
 "swap_confirmation" = "確認閃兑";
-"swap_desc" = "%@ 將會在交易完成後存入您的錢包";
 "swap_failed" = "閃兑失敗";
 "swap_message_success" = "您的閃兑交易已發送至網絡，交易將很快被處理。";
 "swapping" = "兑換中";

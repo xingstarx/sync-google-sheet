@@ -1055,8 +1055,7 @@
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Подозрительная ссылка";
 "swap" = "Swap";
-"swap_confirmation" = "Swap Confirm";
-"swap_desc" = "%@ will be deposited into your wallet once the transaction is complete";
+"swap_confirmation" = "Swap Confirmation";
 "swap_failed" = "Swap Failed";
 "swap_message_success" = "Your transaction has been sent to network and will be processed within a few minutes.";
 "swapping" = "Swapping";

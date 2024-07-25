@@ -1257,7 +1257,7 @@
 	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
-	<string name="swap_confirmation">Swap Confirm</string>
+	<string name="swap_confirmation">Swap Confirmation</string>
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
 	<string name="swap_failed">Swap Failed</string>
 	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
