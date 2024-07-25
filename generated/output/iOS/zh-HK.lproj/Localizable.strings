@@ -794,6 +794,7 @@
 "preauthorize_amount" = "預授權額度";
 "preparing" = "正在準備...";
 "preparing_progress" = "備份中...（%@）";
+"price" = "價格";
 "privacy" = "隱私";
 "privacy_policy" = "隱私政策";
 "private_key_export_success_description" = "請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。";
@@ -1055,6 +1056,7 @@
 "suspended_deposit" = "%1$@ 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網絡硬分叉或者擁堵，注意已轉入的 %2$@ 資產可以繼續轉賬。";
 "suspicious_link" = "可疑鏈接";
 "swap" = "閃兑";
+"swap_asset_change" = "資產變動（預估）";
 "swap_confirmation" = "確認閃兑";
 "swap_failed" = "閃兑失敗";
 "swap_message_success" = "您的閃兑交易已發送至網絡，交易將很快被處理。";

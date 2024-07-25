@@ -794,6 +794,7 @@
 "preauthorize_amount" = "Pre-authorize Amount";
 "preparing" = "準備中...";
 "preparing_progress" = "準備中...(%@)";
+"price" = "Price";
 "privacy" = "プライバシー";
 "privacy_policy" = "プライバシーポリシー";
 "private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
@@ -1055,6 +1056,7 @@
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "不審なリンクです";
 "swap" = "Swap";
+"swap_asset_change" = "Asset changes (estimate)";
 "swap_confirmation" = "Swap Confirmation";
 "swap_failed" = "Swap Failed";
 "swap_message_success" = "Your transaction has been sent to network and will be processed within a few minutes.";

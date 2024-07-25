@@ -956,6 +956,7 @@
 	<string name="preauthorize_amount">Pre-authorize Amount</string>
 	<string name="preview_unavailable">Preview unavailable</string>
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
+	<string name="Price">Price</string>
 	<string name="price_expired">Price Expired</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
@@ -1257,6 +1258,7 @@
 	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
+	<string name="swap_asset_change">Asset changes (estimate)</string>
 	<string name="swap_confirmation">Swap Confirmation</string>
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
 	<string name="swap_failed">Swap Failed</string>

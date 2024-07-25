@@ -794,6 +794,7 @@
 "preauthorize_amount" = "预授权额度";
 "preparing" = "正在准备...";
 "preparing_progress" = "备份中...（%@）";
+"price" = "价格";
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
 "private_key_export_success_description" = "请把私钥写到一张纸上并存在保险柜或其他安全的地方。";
@@ -1055,6 +1056,7 @@
 "suspended_deposit" = "%1$@ 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$@ 资产可以继续转账。";
 "suspicious_link" = "可疑链接";
 "swap" = "闪兑";
+"swap_asset_change" = "资产变动（预估）";
 "swap_confirmation" = "确认闪兑";
 "swap_failed" = "闪兑失败";
 "swap_message_success" = "您的闪兑交易已发送至网络，交易将很快被处理。";
