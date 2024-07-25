@@ -853,7 +853,6 @@
 	<string name="No_Memo">No Memo</string>
 	<string name="No_network_connection">No network connection</string>
 	<string name="NO_POSTS">NO POSTS</string>
-	<string name="no_quote">No available quotes found. Please try a different token or amount.</string>
 	<string name="No_raws">No raws</string>
 	<string name="No_rebates">No rebates</string>
 	<string name="NO_RESULTS">NO RESULTS</string>
@@ -1264,6 +1263,9 @@
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
 	<string name="swap_failed">Swap Failed</string>
 	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
+	<string name="swap_no_quote">No available quotes found. Please try a different token or amount.</string>
+	<string name="swap_receive">Receive</string>
+	<string name="swap_send">Send</string>
 	<string name="Swapping">Swapping</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
 	<string name="Switching_currency">Switching currency</string>

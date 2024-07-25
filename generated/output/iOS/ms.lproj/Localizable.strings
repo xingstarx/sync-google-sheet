@@ -692,7 +692,6 @@
 "no_memo" = "Tiada Memo";
 "no_network_connection" = "Tiada sambungan rangkaian";
 "no_posts" = "TIADA POST";
-"no_quote" = "No available quotes found. Please try a different token or amount.";
 "no_results" = "Tiada keputusan";
 "no_stickers" = "NO STICKERS";
 "no_tag" = "Tiada Tag";
@@ -1062,6 +1061,9 @@
 "swap_confirmation" = "Swap Confirmation";
 "swap_failed" = "Swap Failed";
 "swap_message_success" = "Your transaction has been sent to network and will be processed within a few minutes.";
+"swap_no_quote" = "No available quotes found. Please try a different token or amount.";
+"swap_receive" = "Receive";
+"swap_send" = "Send";
 "swapping" = "Swapping";
 "switch_payment_method" = "Switch Payment Method";
 "symbol" = "Simbol";

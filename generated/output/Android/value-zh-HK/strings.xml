@@ -835,7 +835,6 @@
 	<string name="No_Memo">沒有 Memo（備註）</string>
 	<string name="No_network_connection">無網絡連接</string>
 	<string name="NO_POSTS">沒有文章</string>
-	<string name="no_quote">沒有報價。請嘗試切換幣種或者修改金額。</string>
 	<string name="No_raws">暫無其他記錄</string>
 	<string name="No_rebates">暫無退款記錄</string>
 	<string name="NO_RESULTS">未找到相關結果</string>
@@ -1243,6 +1242,9 @@
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
 	<string name="swap_failed">閃兑失敗</string>
 	<string name="swap_message_success">您的閃兑交易已發送至網絡，交易將很快被處理。</string>
+	<string name="swap_no_quote">沒有報價。請嘗試切換幣種或者修改金額。</string>
+	<string name="swap_receive">獲得</string>
+	<string name="swap_send">支付</string>
 	<string name="Swapping">兑換中</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
 	<string name="Switching_currency">切換貨幣中</string>
