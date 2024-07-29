@@ -1935,7 +1935,8 @@
   <string name="swap_message_success" platform="android,iOS">您的閃兌交易已傳送至網路，交易將很快被處理。</string>
   <string name="Price" platform="android,iOS">價格</string>
   <string name="swap_asset_change" platform="android,iOS">資產變動（預估）</string>
-  <string name="swap_no_quote" platform="android,iOS">沒有報價。請嘗試切換幣種或者修改金額。</string>
+  <string name="swap_no_available_quote" platform="android,iOS">沒有報價。請嘗試切換幣種。</string>
+  <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">獲得</string>
 </resources>

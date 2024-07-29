@@ -1241,8 +1241,9 @@
 	<string name="swap_confirmation">确认闪兑</string>
 	<string name="swap_desc">%1$s 将会在交易完成后存入您的钱包</string>
 	<string name="swap_failed">闪兑失败</string>
+	<string name="swap_invalid_amount">没有报价。请尝试修改金额。</string>
 	<string name="swap_message_success">您的闪兑交易已发送至网络，交易将很快被处理。</string>
-	<string name="swap_no_quote">没有报价。请尝试切换币种或者修改金额。</string>
+	<string name="swap_no_available_quote">没有报价。请尝试切换币种。</string>
 	<string name="swap_receive">获得</string>
 	<string name="swap_send">支付</string>
 	<string name="Swapping">兑换中</string>

@@ -1241,8 +1241,9 @@
 	<string name="swap_confirmation">確認閃兌</string>
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
 	<string name="swap_failed">閃兌失敗</string>
+	<string name="swap_invalid_amount">沒有報價。請嘗試修改金額。</string>
 	<string name="swap_message_success">您的閃兌交易已傳送至網路，交易將很快被處理。</string>
-	<string name="swap_no_quote">沒有報價。請嘗試切換幣種或者修改金額。</string>
+	<string name="swap_no_available_quote">沒有報價。請嘗試切換幣種。</string>
 	<string name="swap_receive">獲得</string>
 	<string name="swap_send">支付</string>
 	<string name="Swapping">兌換中</string>
