@@ -749,7 +749,7 @@
   <string name="identity_verification_description" platform="android">正在驗證您的身份。一旦您的驗證完成，我們將透過 Mixin Messenger 向您傳送訊息。</string>
   <string name="identity_verifying" platform="android">正在稽核</string>
   <string name="ignore_this_version" platform="Desktop">忽略這次版本更新</string>
-  <string name="image" platform="iOS, Desktop">影象</string>
+  <string name="image" platform="iOS, Desktop">影像</string>
   <string name="image_shareable_false" platform="android, iOS">該圖片已被設定為不允許轉發</string>
   <string name="Immediately" platform="android, iOS">立刻</string>
   <string name="Import" platform="android">匯入聊天記錄</string>
@@ -1913,7 +1913,7 @@
   <string name="content_type" platform="android,iOS">內容型別</string>
   <string name="collectible_owner" platform="android,iOS">擁有者</string>
   <string name="collectible_traits" platform="android,iOS">特徵</string>
-  <string name="pictures_and_videos" platform="desktop">影象 &amp; 影片</string>
+  <string name="pictures_and_videos" platform="desktop">影像 &amp; 影片</string>
   <string name="add_a_caption" platform="desktop">新增說明</string>
   <string name="copy_image" platform="desktop">複製圖片</string>
   <string name="copy_text" platform="desktop">複製文字</string>
@@ -1939,4 +1939,5 @@
   <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">獲得</string>
+  <string name="swap_not_supported" platform="android,iOS">不支援 %1$s 閃兌，已切換</string>
 </resources>

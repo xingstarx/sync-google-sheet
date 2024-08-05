@@ -535,7 +535,7 @@
 "how_are_you" = "嗨，你好嗎？";
 "i_am_good" = "我很好。";
 "id" = "ID";
-"image" = "影象";
+"image" = "影像";
 "image_shareable_false" = "該圖片已被設定為不允許轉發";
 "immediately" = "立刻";
 "importing_chat_progress" = "匯入聊天記錄（%@%）";
@@ -1062,6 +1062,7 @@
 "swap_invalid_amount" = "沒有報價。請嘗試修改金額。";
 "swap_message_success" = "您的閃兌交易已傳送至網路，交易將很快被處理。";
 "swap_no_available_quote" = "沒有報價。請嘗試切換幣種。";
+"swap_not_supported" = "不支援 %@ 閃兌，已切換";
 "swap_receive" = "獲得";
 "swap_send" = "支付";
 "swapping" = "兌換中";
