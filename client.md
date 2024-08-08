@@ -98,7 +98,7 @@
 | android | All_chats | All chats | 所有聊天 |     |     |     |
 | Desktop | all_chats | Chats | 全部聊天 | チャット |     |     |
 | android, iOS | All_Conversations | All Conversations | 所有会话 | すべてのチャットルーム | Semua Perbualan | Semua Percakapan |
-| android | All_dates | All dates | 所有日期 |     |     |     |
+| android, iOS | All_dates | All Dates | 所有日期 |     |     |     |
 | android | All_Media | All Media | 全部  | 全てのメディア | Semua Media | Semua Media |
 | iOS | All_Photos | All Photos | 所有照片 | 全ての画像 |     |     |
 | android,iOS | All_signer_failure | All node failure | 所有节点失败 |     |     |     |
@@ -183,7 +183,7 @@
 | android | backup_notification_title | Backup in progress | 备份正在进行中 | バックアップが進行中 | Sandaran sedang dijalankan | Pencadangan sedang berlangsung |
 | android | Backup_success | Backup success | 备份成功 | バックアップ成功 | Kejayaan sandaran | Pencadangan berhasil |
 | iOS | Backup_to_iCloud | Backup to iCloud | 备份到 iCloud |     |     |     |
-| iOS | Balance | Balance | 余额  | 残高  |     |     |
+| android,iOS | Balance | Balance | 余额  | 残高  |     |     |
 | Desktop | biography | Biography | 简介  | 自己紹介文 |     |     |
 | Desktop | biometric | Biometric | 生物识别 |     |     |     |
 | android | Biometric_Payment | Biometric Payment | 生物识别支付 | 生体認証で支払う | Pembayaran Biometrik | Pembayaran Biometrik |
@@ -1227,7 +1227,7 @@
 | android, iOS, Desktop | Resend_code | Resend code | 重发验证码 | コードを再送する | Hantar semula kod | Kirim ulang kode |
 | android, Desktop | Resend_code_in | Resend code in %1$d s | %1$d 秒后重新发送验证码 | %1$d秒後にコードを再送 | Hantar semula kod dalam %1$d s | Kirim ulang kode dalam %1$d d |
 | iOS | resend_code_pending | Resend code in %@ | %@ 后重新发送验证码 | %@ 後にコードを再送 | Hantar semula kod dalam %1$d s | Kirim ulang kode dalam %1$d d |
-| android, Desktop | reset | Reset | 重置  | リセット |     |     |
+| android, iOS, Desktop | reset | Reset | 重置  | リセット |     |     |
 | android, iOS, Desktop | Reset_Link | Reset Link | 重置邀请链接 | リンクを取り消す |     |     |
 | android | Reset_notifications | Reset notifications | 重置通知设置 | 通知設定をリセット | Tetapkan semula pemberitahuan | Reset notifikasi |
 | android | RESTART | RESTART | 重启应用 | リスタート | MULA SEMULA | MULAI ULANG |
@@ -1969,3 +1969,20 @@
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
 | android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
+| android,iOS | Price_data_unavailable | Price data unavailable | 价格数据不可用 |     |     |     |
+| android,iOS | Market | Market | 行情  |     |     |     |
+| android,iOS | view_all | View All | 查看全部 |     |     |     |
+| android,iOS | My_Balance | My Balance | 我的余额 |     |     |     |
+| android,iOS | All_Networks | All networks | 所有网络 |     |     |     |
+| android,iOS | Introduction | Introduction | 介绍  |     |     |     |
+| android,iOS | Contract_Address | Contract Address | 合约地址 |     |     |     |
+| android,iOS | All_Time_Low | All Time Low | 历史最低 |     |     |     |
+| android,iOS | All_Time_High | All Time High | 历史最高 |     |     |     |
+| android,iOS | Circulation_Supply | Circulation Supply | 流通量 |     |     |     |
+| android,iOS | Total_Supply | Total Supply | 总量  |     |     |     |
+| android,iOS | address_warning | Contract address is NOT a deposit address! | 合同地址不是充值地址！ |     |     |     |
+| android,iOS | Transaction_History | Transaction History | 转账记录 |     |     |     |
+| android,iOS | from_date | From %1$s | 自%1$s |     |     |     |
+| android,iOS | until_date | Until %1$s | 至%1$s |     |     |     |
+| android,iOS | Select_Date | Select Date | 选择日期 |     |     |     |
+| android,iOS | number_of_days | %1$d Days | %1$d天 |     |     |     |
