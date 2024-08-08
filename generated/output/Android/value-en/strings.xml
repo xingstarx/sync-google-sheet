@@ -1431,6 +1431,7 @@
 	<string name="user_deleted_hint">The user has deleted the account.</string>
 	<string name="User_not_found">User not found</string>
 	<string name="utxo_count_exceeded">This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.</string>
+	<string name="Value">Value</string>
 	<string name="value_descending">Value Descending</string>
 	<string name="value_now">value now %1$s</string>
 	<string name="value_then">value then %1$s</string>

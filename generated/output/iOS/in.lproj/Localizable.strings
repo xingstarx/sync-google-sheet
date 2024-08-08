@@ -1215,6 +1215,7 @@
 "user_not_found" = "Pengguna tidak ditemukan";
 "utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "Validation timed out";
+"value" = "Value";
 "value_descending" = "Value Descending";
 "value_now" = "value now %@";
 "value_then" = "value then %@";
