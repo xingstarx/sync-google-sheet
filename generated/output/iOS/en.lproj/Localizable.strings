@@ -36,6 +36,7 @@
 "address_editing_description" = "The request to edit the address is currently under verification by the Mixin server. Please wait a moment.";
 "address_not_found" = "Address not found.";
 "address_validity_reminder" = "The address %1$@(%2$@) has not been used for over %3$@ days. Please check if the address is still valid.";
+"address_warning" = "Contract address is NOT a deposit address!";
 "admin" = "Admin";
 "agree_hint" = "By proceeding, you agree to the %@ and %@.";
 "albums" = "Albums";
@@ -70,8 +71,12 @@
 "alert_key_group_video_message" = "%@ sent a video";
 "all" = "All";
 "all_conversations" = "All Conversations";
+"all_dates" = "All Dates";
+"all_networks" = "All networks";
 "all_photos" = "All Photos";
 "all_signer_failure" = "All node failure";
+"all_time_high" = "All Time High";
+"all_time_low" = "All Time Low";
 "all_transactions" = "All Transactions";
 "allow" = "Allow";
 "allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
@@ -213,6 +218,7 @@
 "circle_subtitle_count" = "%d Conversations";
 "circle_title" = "%@'s Circles";
 "circles" = "Circles";
+"circulation_supply" = "Circulation Supply";
 "clear" = "Clear";
 "clear_cache" = "Clear Cache";
 "clear_chat" = "Clear Chat";
@@ -296,6 +302,7 @@
 "continue_open_url" = "Continue Open URL";
 "continue_with_pin" = "Continue with PIN";
 "contract" = "Contract";
+"contract_address" = "Contract Address";
 "conversation" = "Conversation";
 "conversation_has_too_many_circles" = "The conversation has too many circles";
 "conversation_not_found" = "Conversation not found.";
@@ -507,6 +514,7 @@
 "free" = "FREE";
 "from" = "From";
 "from_address" = "From address";
+"from_date" = "From %@";
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
@@ -549,6 +557,7 @@
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "Insufficient transaction fee";
 "interface_style" = "Interface Style";
+"introduction" = "Introduction";
 "invalid_address" = "Invalid Address";
 "invalid_candidate" = "Invalid candidate";
 "invalid_height" = "Invalid height";
@@ -614,6 +623,7 @@
 "manage" = "Manage";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
+"market" = "Market";
 "max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "Media";
@@ -656,6 +666,7 @@
 "mute_until" = "Until %@";
 "muted" = "Muted";
 "muted_until" = "Muted until %@";
+"my_balance" = "My Balance";
 "my_contacts" = "My Contacts";
 "my_favorite_bots" = "My Favorite Bots";
 "my_mixin_id" = "My Mixin ID: %@";
@@ -709,6 +720,7 @@
 "notification_message_preview_description" = "Preview message text inside new message notifications.";
 "now_an_addmin" = "%@ now an admin";
 "number_of_assets" = "%d Assets";
+"number_of_days" = "%d Days";
 "number_of_recipients" = "%d Recipients";
 "off" = "Off";
 "ok" = "OK";
@@ -795,6 +807,7 @@
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
 "price" = "Price";
+"price_data_unavailable" = "Price data unavailable";
 "privacy" = "Privacy";
 "privacy_policy" = "Privacy Policy";
 "private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
@@ -858,6 +871,7 @@
 "request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
 "resend_code" = "Resend code";
 "resend_code_pending" = "Resend code in %@";
+"reset" = "Reset";
 "reset_link" = "Reset Link";
 "restore" = "Restore";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
@@ -925,6 +939,7 @@
 "select_a_country_or_region" = "Select a Country or Region";
 "select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
+"select_date" = "Select Date";
 "select_emergency_contact" = "Select Emergency Contact";
 "select_limit" = "Select up to %d";
 "select_more_photos" = "Select More Photos";
@@ -1097,11 +1112,13 @@
 "token" = "Token";
 "token_amount" = "Token Amount";
 "total" = "Total";
+"total_supply" = "Total Supply";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "transaction" = "Transaction";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Transaction Hash";
+"transaction_history" = "Transaction History";
 "transaction_id" = "Transaction Id";
 "transaction_request" = "Transaction Request";
 "transaction_success" = "Transaction Success";
@@ -1177,6 +1194,7 @@
 "unread_messages" = "Unread messages";
 "unrecognized_codes" = "Unrecognized codes";
 "unsigned_message" = "UNSIGNED MESSAGE";
+"until_date" = "Until %@";
 "update" = "Update";
 "update_mixin" = "Update Mixin";
 "upgrade" = "Upgrade";
@@ -1205,6 +1223,7 @@
 "video" = "Video";
 "video_shareable_false" = "The video has been set to not allow sharing";
 "videos" = "Videos";
+"view_all" = "View All";
 "view_authorization" = "View Authorization";
 "view_emergency_contact" = "View emergency contact";
 "view_on_explorer" = "View on Explorer";

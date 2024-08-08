@@ -36,6 +36,7 @@
 "address_editing_description" = "The request to edit the address is currently under verification by the Mixin server. Please wait a moment.";
 "address_not_found" = "アドレスが見つかりません";
 "address_validity_reminder" = "The address %1$@(%2$@) has not been used for over %3$@ days. Please check if the address is still valid.";
+"address_warning" = "Contract address is NOT a deposit address!";
 "admin" = "管理者";
 "agree_hint" = "%@と%@に同意し次へ進む";
 "albums" = "アルバム";
@@ -70,8 +71,12 @@
 "alert_key_group_video_message" = "%@が動画を送信しました";
 "all" = "すべて";
 "all_conversations" = "すべてのチャットルーム";
+"all_dates" = "All Dates";
+"all_networks" = "All networks";
 "all_photos" = "全ての画像";
 "all_signer_failure" = "All node failure";
+"all_time_high" = "All Time High";
+"all_time_low" = "All Time Low";
 "all_transactions" = "もらった・あげたコイン💰";
 "allow" = "許可";
 "allow_bot_access_asset" = "Allow bot to access your asset list and balance.";
@@ -213,6 +218,7 @@
 "circle_subtitle_count" = "%dのチャットルーム";
 "circle_title" = "%@のグループリスト";
 "circles" = "グループリスト";
+"circulation_supply" = "Circulation Supply";
 "clear" = "削除";
 "clear_cache" = "キャッシュをクリア";
 "clear_chat" = "チャットを削除する";
@@ -296,6 +302,7 @@
 "continue_open_url" = "URLを開く";
 "continue_with_pin" = "Continue with PIN";
 "contract" = "Contract";
+"contract_address" = "Contract Address";
 "conversation" = "チャットルーム";
 "conversation_has_too_many_circles" = "グループリスト数を減らしてください";
 "conversation_not_found" = "チャットルームが見つかりません";
@@ -507,6 +514,7 @@
 "free" = "FREE";
 "from" = "より";
 "from_address" = "From address";
+"from_date" = "From %@";
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
@@ -549,6 +557,7 @@
 "insufficient_gas" = "You do not have enough %@ in your account to pay for network fees";
 "insufficient_transaction_fee" = "取引手数料が不足しています";
 "interface_style" = "外観モード";
+"introduction" = "Introduction";
 "invalid_address" = "Invalid Address";
 "invalid_candidate" = "無効な候補";
 "invalid_height" = "無効な高さ";
@@ -614,6 +623,7 @@
 "manage" = "管理";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
+"market" = "Market";
 "max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "メディア";
@@ -656,6 +666,7 @@
 "mute_until" = "%@まで";
 "muted" = "ミュートされました";
 "muted_until" = "%@までミュートする";
+"my_balance" = "My Balance";
 "my_contacts" = "連絡先";
 "my_favorite_bots" = "My Favorite Bots";
 "my_mixin_id" = "マイMixin ID:%@";
@@ -709,6 +720,7 @@
 "notification_message_preview_description" = "通知でメッセージ内容を表示する";
 "now_an_addmin" = "%@は管理者です";
 "number_of_assets" = "%d Assets";
+"number_of_days" = "%d Days";
 "number_of_recipients" = "%d Recipients";
 "off" = "オフ";
 "ok" = "OK";
@@ -795,6 +807,7 @@
 "preparing" = "準備中...";
 "preparing_progress" = "準備中...(%@)";
 "price" = "Price";
+"price_data_unavailable" = "Price data unavailable";
 "privacy" = "プライバシー";
 "privacy_policy" = "プライバシーポリシー";
 "private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
@@ -858,6 +871,7 @@
 "request_rejected_reason_another_request_in_process" = "Another request is in process, please retry after current request is finished";
 "resend_code" = "コードを再送する";
 "resend_code_pending" = "%@ 後にコードを再送";
+"reset" = "リセット";
 "reset_link" = "リンクを取り消す";
 "restore" = "復元";
 "restore_chat_from_icloud" = "Restore your chat history from iCloud.";
@@ -925,6 +939,7 @@
 "select_a_country_or_region" = "国と地域を選択";
 "select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
+"select_date" = "Select Date";
 "select_emergency_contact" = "緊急連絡先を選択";
 "select_limit" = "Select up to %d";
 "select_more_photos" = "さらに選択";
@@ -1097,11 +1112,13 @@
 "token" = "Token";
 "token_amount" = "Token Amount";
 "total" = "Total";
+"total_supply" = "Total Supply";
 "touch_id" = "指紋認証";
 "track_not_found" = "トラックが見つかりません";
 "transaction" = "トランザクション";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "トランザクションハッシュ";
+"transaction_history" = "Transaction History";
 "transaction_id" = "トランザクションID";
 "transaction_request" = "Transaction Request";
 "transaction_success" = "Transaction Success";
@@ -1177,6 +1194,7 @@
 "unread_messages" = "新しいメッセージ";
 "unrecognized_codes" = "不明なコード";
 "unsigned_message" = "UNSIGNED MESSAGE";
+"until_date" = "Until %@";
 "update" = "アップデート";
 "update_mixin" = "Mixinのアップデート";
 "upgrade" = "Upgrade";
@@ -1205,6 +1223,7 @@
 "video" = "動画";
 "video_shareable_false" = "The video has been set to not allow sharing";
 "videos" = "動画";
+"view_all" = "View All";
 "view_authorization" = "閲覧権限";
 "view_emergency_contact" = "緊急連絡先を確認";
 "view_on_explorer" = "View on Explorer";

@@ -61,6 +61,7 @@
 	<string name="address_edited_description">您修改地址的請求已通過 Mixin 服務器確認，您可以立刻使用該地址進行提現。</string>
 	<string name="address_editing_description">正在將修改地址的請求發送到 Mixin 服務器驗證，請稍候。</string>
 	<string name="address_validity_reminder">您已經超過 %3$s 天沒有使用地址 %1$s（%2$s），請注意檢查地址是否仍然有效。</string>
+	<string name="address_warning">合同地址不是充值地址！</string>
 	<string name="Admin">管理員</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
@@ -96,7 +97,10 @@
 	<string name="All_Conversations">所有會話</string>
 	<string name="All_dates">所有日期</string>
 	<string name="All_Media">全部</string>
+	<string name="All_Networks">所有網絡</string>
 	<string name="All_signer_failure">所有節點失敗</string>
+	<string name="All_Time_High">歷史最高</string>
+	<string name="All_Time_Low">歷史最低</string>
 	<string name="All_Transactions">所有交易記錄</string>
 	<string name="Allow_bot_access_asset">允許機器人查看你的所有資產和餘額。</string>
 	<string name="Allow_bot_access_bots">允許機器人訪問你的機器人列表。</string>
@@ -157,6 +161,7 @@
 	<string name="backup_notification_content">正在準備備份…</string>
 	<string name="backup_notification_title">備份正在進行中</string>
 	<string name="Backup_success">備份成功</string>
+	<string name="Balance">餘額</string>
 	<string name="balance_abbreviation">餘額 %1$s</string>
 	<string name="balance_half">取半</string>
 	<string name="balance_max">最大</string>
@@ -276,6 +281,7 @@
 	</plurals>
 	<string name="circle_title">%1$s的圈子</string>
 	<string name="Circles">圈子</string>
+	<string name="Circulation_Supply">流通量</string>
 	<string name="Clear">清理</string>
 	<string name="Clear_chat">清除聊天記錄</string>
 	<string name="Clearing">正在清理…</string>
@@ -361,6 +367,7 @@
 	<string name="Continue_Open_URL">繼續訪問</string>
 	<string name="continue_with_pin">輸入 PIN 繼續</string>
 	<string name="Contract">合約</string>
+	<string name="Contract_Address">合約地址</string>
 	<string name="Conversation">會話</string>
 	<string name="conversation_delete_tip">刪除後，將同時清空該聊天的消息記錄</string>
 	<string name="conversation_delete_title">刪除會話：%1$s</string>
@@ -620,6 +627,7 @@
 	<string name="Friday">星期五</string>
 	<string name="From">來自</string>
 	<string name="From_Address">從外部轉入</string>
+	<string name="from_date">自%1$s</string>
 	<string name="From_Mixin_Wallet">從 Mixin 錢包轉入</string>
 	<string name="Generating_keys">正在創建密鑰…</string>
 	<string name="Get_a_new_wallet">創建錢包</string>
@@ -668,6 +676,7 @@
 	<string name="Initializing">初始化…</string>
 	<string name="insufficient_balance">餘額不足</string>
 	<string name="insufficient_gas">您的賬户中沒有足夠的 %1$s 來支付網絡費用</string>
+	<string name="Introduction">介紹</string>
 	<string name="Invalid_Address">無效的地址</string>
 	<string name="Invalid_Link">無效鏈接</string>
 	<string name="Invalid_payment_link">無效支付信息</string>
@@ -746,6 +755,7 @@
 	<string name="Manager_Sticker">管理貼紙</string>
 	<string name="Manufacturer">生產商</string>
 	<string name="Mark_as_read">標記為已讀</string>
+	<string name="Market">行情</string>
 	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
 	<string name="Media">媒體</string>
@@ -792,6 +802,7 @@
 	<string name="multisig_unlocking_description">正在撤銷多簽交易，請稍候。</string>
 	<string name="Mute">靜音</string>
 	<string name="Mute_until">直到 %1$s</string>
+	<string name="My_Balance">我的餘額</string>
 	<string name="My_Contacts">我的聯繫人</string>
 	<string name="My_favorite_bots">我收藏的機器人</string>
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
@@ -862,6 +873,7 @@
 	<string name="Notifications">通知</string>
 	<string name="Now_Playing">正在播放</string>
 	<string name="number_of_assets">%1$d 資產</string>
+	<string name="number_of_days">%1$d天</string>
 	<string name="number_of_recipients">%1$d 收款人</string>
 	<string name="number_reached_limit">已達到上限</string>
 	<string name="Off">關閉</string>
@@ -939,6 +951,7 @@
 	<string name="preview_unavailable">預覽不可用</string>
 	<string name="preview_unavailable_description">無法預覽資產變化。請確保你信任此 dApp。</string>
 	<string name="Price">價格</string>
+	<string name="Price_data_unavailable">價格數據不可用</string>
 	<string name="price_expired">報價已過期</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
@@ -1087,6 +1100,7 @@
 	<string name="select_a_card">選擇卡片</string>
 	<string name="select_a_token_for_the_fee">選擇支付手續費的幣種</string>
 	<string name="Select_All">選擇所有</string>
+	<string name="Select_Date">選擇日期</string>
 	<string name="Select_Emergency_Contact">選擇緊急聯繫人</string>
 	<string name="Select_LIMIT">最多選擇 %1$d 個</string>
 	<string name="select_payment_method">選擇支付方式</string>
@@ -1283,11 +1297,13 @@
 	<string name="Token">代幣</string>
 	<string name="token_amount">代幣總數</string>
 	<string name="total">共計</string>
+	<string name="Total_Supply">總量</string>
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>
 	<string name="transaction_failed">轉賬失敗</string>
 	<string name="Transaction_Failed">交易失敗</string>
 	<string name="transaction_Hash">交易哈希</string>
+	<string name="Transaction_History">轉賬記錄</string>
 	<string name="Transaction_Id">交易編號</string>
 	<string name="transaction_request">請求轉賬</string>
 	<string name="Transaction_Success">交易成功</string>
@@ -1371,6 +1387,7 @@
 	<string name="unpin_all_messages_confirmation">確定取消置頂所有消息麼？</string>
 	<string name="Unread_messages">未讀消息</string>
 	<string name="unsigned_message">待簽名消息</string>
+	<string name="until_date">至%1$s</string>
 	<string name="Update">升級</string>
 	<string name="update_downloaded">一個更新剛下載完成。</string>
 	<string name="Update_Mixin">升級 Mixin</string>
@@ -1406,6 +1423,7 @@
 	<string name="video_shareable_false">該視頻已被設置為不允許轉發</string>
 	<string name="Videos">視頻</string>
 	<string name="View">查看</string>
+	<string name="view_all">查看全部</string>
 	<string name="View_Authorization">查看授權</string>
 	<string name="View_emergency_contact">查看緊急聯繫人</string>
 	<string name="view_on_explorer">在瀏覽器中查看</string>

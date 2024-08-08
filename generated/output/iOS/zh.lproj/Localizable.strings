@@ -36,6 +36,7 @@
 "address_editing_description" = "正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。";
 "address_not_found" = "找不到该地址。";
 "address_validity_reminder" = "您已经超过 %3$@ 天没有使用地址 %1$@（%2$@），请注意检查地址是否仍然有效。";
+"address_warning" = "合同地址不是充值地址！";
 "admin" = "管理员";
 "agree_hint" = "继续使用即表示你同意 %@ 和 %@";
 "albums" = "相册";
@@ -70,8 +71,12 @@
 "alert_key_group_video_message" = "%@发送一个视频";
 "all" = "全部";
 "all_conversations" = "所有会话";
+"all_dates" = "所有日期";
+"all_networks" = "所有网络";
 "all_photos" = "所有照片";
 "all_signer_failure" = "所有节点失败";
+"all_time_high" = "历史最高";
+"all_time_low" = "历史最低";
 "all_transactions" = "所有交易记录";
 "allow" = "允许";
 "allow_bot_access_asset" = "允许机器人查看你的所有资产和余额。";
@@ -213,6 +218,7 @@
 "circle_subtitle_count" = "%d 会话";
 "circle_title" = "%@的圈子";
 "circles" = "圈子";
+"circulation_supply" = "流通量";
 "clear" = "清理";
 "clear_cache" = "清理缓存";
 "clear_chat" = "清除聊天记录";
@@ -296,6 +302,7 @@
 "continue_open_url" = "继续访问";
 "continue_with_pin" = "输入 PIN 继续";
 "contract" = "合约";
+"contract_address" = "合约地址";
 "conversation" = "会话";
 "conversation_has_too_many_circles" = "已达圈子数上限";
 "conversation_not_found" = "找不到该会话";
@@ -507,6 +514,7 @@
 "free" = "免手续费";
 "from" = "来自";
 "from_address" = "从外部转入";
+"from_date" = "自%@";
 "from_mixin_wallet" = "从 Mixin 钱包转入";
 "generating" = "正在生成...";
 "generating_keys" = "正在创建密钥...";
@@ -549,6 +557,7 @@
 "insufficient_gas" = "您的账户中没有足够的 %@ 来支付网络费用";
 "insufficient_transaction_fee" = "手续费不足";
 "interface_style" = "外观";
+"introduction" = "介绍";
 "invalid_address" = "无效的地址";
 "invalid_candidate" = "无效的 Candidate";
 "invalid_height" = "高度无效";
@@ -614,6 +623,7 @@
 "manage" = "管理";
 "manage_your_apps" = "管理你所有的机器人";
 "manage_your_circles" = "管理你所有的圈子";
+"market" = "行情";
 "max" = "最大值";
 "max_favorite_bots_description" = "最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。";
 "media" = "媒体";
@@ -656,6 +666,7 @@
 "mute_until" = "直到 %@";
 "muted" = "已静音";
 "muted_until" = "已静音至 %@";
+"my_balance" = "我的余额";
 "my_contacts" = "我的联系人";
 "my_favorite_bots" = "我收藏的机器人";
 "my_mixin_id" = "我的 Mixin ID：%@";
@@ -709,6 +720,7 @@
 "notification_message_preview_description" = "在推送通知中显示消息内容。";
 "now_an_addmin" = "%@现在是管理员";
 "number_of_assets" = "%d 资产";
+"number_of_days" = "%d天";
 "number_of_recipients" = "%d 收款人";
 "off" = "关闭";
 "ok" = "好的";
@@ -795,6 +807,7 @@
 "preparing" = "正在准备...";
 "preparing_progress" = "备份中...（%@）";
 "price" = "价格";
+"price_data_unavailable" = "价格数据不可用";
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
 "private_key_export_success_description" = "请把私钥写到一张纸上并存在保险柜或其他安全的地方。";
@@ -858,6 +871,7 @@
 "request_rejected_reason_another_request_in_process" = "正在处理另一请求，请完成当前请求后重试";
 "resend_code" = "重发验证码";
 "resend_code_pending" = "%@ 后重新发送验证码";
+"reset" = "重置";
 "reset_link" = "重置邀请链接";
 "restore" = "恢复";
 "restore_chat_from_icloud" = "从 iCloud 恢复您的聊天记录。";
@@ -925,6 +939,7 @@
 "select_a_country_or_region" = "选择一个国家或地区";
 "select_a_token_for_the_fee" = "选择支付手续费的币种";
 "select_all" = "选择所有";
+"select_date" = "选择日期";
 "select_emergency_contact" = "选择紧急联系人";
 "select_limit" = "最多选择 %d 个";
 "select_more_photos" = "选择更多照片";
@@ -1097,11 +1112,13 @@
 "token" = "代币";
 "token_amount" = "代币总数";
 "total" = "共计";
+"total_supply" = "总量";
 "touch_id" = "指纹";
 "track_not_found" = "Track 无效";
 "transaction" = "交易详情";
 "transaction_failed" = "交易失败";
 "transaction_hash" = "交易哈希";
+"transaction_history" = "转账记录";
 "transaction_id" = "交易编号";
 "transaction_request" = "请求转账";
 "transaction_success" = "交易成功";
@@ -1177,6 +1194,7 @@
 "unread_messages" = "未读消息";
 "unrecognized_codes" = "未识别的链接";
 "unsigned_message" = "待签名消息";
+"until_date" = "至%@";
 "update" = "升级";
 "update_mixin" = "升级 Mixin";
 "upgrade" = "升级";
@@ -1205,6 +1223,7 @@
 "video" = "视频";
 "video_shareable_false" = "该视频已被设置为不允许转发";
 "videos" = "视频";
+"view_all" = "查看全部";
 "view_authorization" = "查看授权";
 "view_emergency_contact" = "查看紧急联系人";
 "view_on_explorer" = "在浏览器中查看";

@@ -61,6 +61,7 @@
 	<string name="address_edited_description">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
 	<string name="address_editing_description">The request to edit the address is currently under verification by the Mixin server. Please wait a moment.</string>
 	<string name="address_validity_reminder">The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid.</string>
+	<string name="address_warning">Contract address is NOT a deposit address!</string>
 	<string name="Admin">Admin</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
@@ -94,9 +95,12 @@
 	<string name="All">All</string>
 	<string name="All_chats">All chats</string>
 	<string name="All_Conversations">All Conversations</string>
-	<string name="All_dates">All dates</string>
+	<string name="All_dates">All Dates</string>
 	<string name="All_Media">All Media</string>
+	<string name="All_Networks">All networks</string>
 	<string name="All_signer_failure">All node failure</string>
+	<string name="All_Time_High">All Time High</string>
+	<string name="All_Time_Low">All Time Low</string>
 	<string name="All_Transactions">All Transactions</string>
 	<string name="Allow_bot_access_asset">Allow bot to access your asset list and balance.</string>
 	<string name="Allow_bot_access_bots">Allow bot to access your bot list.</string>
@@ -159,6 +163,7 @@
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
 	<string name="Backup_success">Backup success</string>
+	<string name="Balance">Balance</string>
 	<string name="balance_abbreviation">Bal %1$s</string>
 	<string name="balance_half">HALF</string>
 	<string name="balance_max">MAX</string>
@@ -281,6 +286,7 @@
 	</plurals>
 	<string name="circle_title">%1$s\'s Circles</string>
 	<string name="Circles">Circles</string>
+	<string name="Circulation_Supply">Circulation Supply</string>
 	<string name="Clear">Clear</string>
 	<string name="Clear_chat">Clear Chat</string>
 	<string name="Clearing">Clearing…</string>
@@ -366,6 +372,7 @@
 	<string name="Continue_Open_URL">Continue Open URL</string>
 	<string name="continue_with_pin">Continue with PIN</string>
 	<string name="Contract">Contract</string>
+	<string name="Contract_Address">Contract Address</string>
 	<string name="Conversation">Conversation</string>
 	<string name="conversation_delete_tip">Once deleted, all this chat messages will be cleared</string>
 	<string name="conversation_delete_title">Delete chat: %1$s</string>
@@ -629,6 +636,7 @@
 	<string name="Friday">Friday</string>
 	<string name="From">From</string>
 	<string name="From_Address">From address</string>
+	<string name="from_date">From %1$s</string>
 	<string name="From_Mixin_Wallet">From Mixin Wallet</string>
 	<string name="Generating_keys">Generating keys…</string>
 	<string name="Get_a_new_wallet">Get a new wallet</string>
@@ -680,6 +688,7 @@
 	<string name="Initializing">Initializing…</string>
 	<string name="insufficient_balance">Insufficient balance</string>
 	<string name="insufficient_gas">You do not have enough %1$s in your account to pay for network fees</string>
+	<string name="Introduction">Introduction</string>
 	<string name="Invalid_Address">Invalid Address</string>
 	<string name="Invalid_Link">Invalid Link</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
@@ -763,6 +772,7 @@
 	<string name="Manager_Sticker">Manager Sticker</string>
 	<string name="Manufacturer">Manufacturer</string>
 	<string name="Mark_as_read">Mark as read</string>
+	<string name="Market">Market</string>
 	<string name="Max">Max</string>
 	<string name="max_favorite_bots_description">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
 	<string name="Media">Media</string>
@@ -810,6 +820,7 @@
 	<string name="multisig_unlocking_description">The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment.</string>
 	<string name="Mute">Mute</string>
 	<string name="Mute_until">Until %1$s</string>
+	<string name="My_Balance">My Balance</string>
 	<string name="My_Contacts">My Contacts</string>
 	<string name="My_favorite_bots">My Favorite Bots</string>
 	<string name="my_mixin_id">My Mixin ID: %1$s</string>
@@ -880,6 +891,7 @@
 	<string name="Notifications">Notifications</string>
 	<string name="Now_Playing">Now Playing</string>
 	<string name="number_of_assets">%1$d Assets</string>
+	<string name="number_of_days">%1$d Days</string>
 	<string name="number_of_recipients">%1$d Recipients</string>
 	<string name="number_reached_limit">The number has reached the limit</string>
 	<string name="Off">Off</string>
@@ -957,6 +969,7 @@
 	<string name="preview_unavailable">Preview unavailable</string>
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
 	<string name="Price">Price</string>
+	<string name="Price_data_unavailable">Price data unavailable</string>
 	<string name="price_expired">Price Expired</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
@@ -1107,6 +1120,7 @@
 	<string name="select_a_card">Select a Card</string>
 	<string name="select_a_token_for_the_fee">Select a token for the fee</string>
 	<string name="Select_All">Select All</string>
+	<string name="Select_Date">Select Date</string>
 	<string name="Select_Emergency_Contact">Select Emergency Contact</string>
 	<string name="Select_LIMIT">Select up to %1$d</string>
 	<string name="select_payment_method">Select Payment Method</string>
@@ -1304,12 +1318,14 @@
 	<string name="Token">Token</string>
 	<string name="token_amount">Token Amount</string>
 	<string name="total">Total</string>
+	<string name="Total_Supply">Total Supply</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
 	<string name="Transaction">Transaction</string>
 	<string name="transaction_failed">Transaction Failed</string>
 	<string name="Transaction_Failed">Transaction Failed</string>
 	<string name="transaction_Hash">Transaction Hash</string>
+	<string name="Transaction_History">Transaction History</string>
 	<string name="Transaction_Id">Transaction Id</string>
 	<string name="transaction_request">Transaction Request</string>
 	<string name="Transaction_Success">Transaction Success</string>
@@ -1393,6 +1409,7 @@
 	<string name="unpin_all_messages_confirmation">Are you sure you want to unpin all messages?</string>
 	<string name="Unread_messages">Unread messages</string>
 	<string name="unsigned_message">UNSIGNED MESSAGE</string>
+	<string name="until_date">Until %1$s</string>
 	<string name="Update">Update</string>
 	<string name="update_downloaded">An update has just been downloaded.</string>
 	<string name="Update_Mixin">Update Mixin</string>
@@ -1428,6 +1445,7 @@
 	<string name="video_shareable_false">The video has been set to not allow sharing</string>
 	<string name="Videos">Videos</string>
 	<string name="View">View</string>
+	<string name="view_all">View All</string>
 	<string name="View_Authorization">View Authorization</string>
 	<string name="View_emergency_contact">View emergency contact</string>
 	<string name="view_on_explorer">View on Explorer</string>

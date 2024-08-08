@@ -128,6 +128,7 @@
 	<string name="backup_notification_content">Preparando copia de seguridad…</string>
 	<string name="backup_notification_title">Copia de seguridad en proceso</string>
 	<string name="Backup_success">Éxito de la copia de seguridad</string>
+	<string name="Balance">Balance</string>
 	<string name="Biometric_Payment">Pago biométrico</string>
 	<string name="Block">Bloquear</string>
 	<string name="block_tip">Los usuarios bloqueados no pueden enviarte mensajes ni añadirte a grupos.</string>
