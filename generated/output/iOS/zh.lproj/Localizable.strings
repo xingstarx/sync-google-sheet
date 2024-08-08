@@ -417,6 +417,7 @@
 "enable_pay" = "启用%@支付";
 "enable_pay_confirmation" = "启用%@支付？";
 "enable_touch_pay_hint" = "输入 PIN 启用指纹支付";
+"end" = "结束";
 "end_to_end_encryption" = "端到端加密";
 "enter_new_anonymous_number" = "输入你的新匿名号码";
 "enter_new_phone_number" = "输入你的新手机号码";
@@ -725,7 +726,7 @@
 "off" = "关闭";
 "ok" = "好的";
 "old_device_is_waiting" = "确保旧的设备已停留在同步等待扫码的界面";
-"oldest" = "最早  ";
+"oldest" = "最早";
 "one_by_one_forward" = "逐条转发";
 "one_hour" = "1 小时";
 "one_week" = "1 星期";

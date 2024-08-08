@@ -1917,7 +1917,7 @@
   <string name="add_a_caption" platform="desktop">添加説明</string>
   <string name="copy_image" platform="desktop">複製圖片</string>
   <string name="copy_text" platform="desktop">複製文字</string>
-  <string name="Oldest" platform="android,iOS">最早  </string>
+  <string name="Oldest" platform="android,iOS">最早</string>
   <string name="amount_descending" platform="android,iOS">價值降序</string>
   <string name="value_descending" platform="android,iOS">金額降序</string>
   <string name="sort_by_recent" platform="android,iOS">按最近排序</string>
@@ -1957,4 +1957,5 @@
   <string name="until_date" platform="android,iOS">至%1$s</string>
   <string name="Select_Date" platform="android,iOS">選擇日期</string>
   <string name="number_of_days" platform="android,iOS">%1$d天</string>
+  <string name="End" platform="android,iOS">結束</string>
 </resources>

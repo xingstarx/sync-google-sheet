@@ -417,6 +417,7 @@
 "enable_pay" = "Habilitar %@ Pagar";
 "enable_pay_confirmation" = "¿Habilitar %@ Pagar?";
 "enable_touch_pay_hint" = "Confirme el PIN para habilitar Touch Pay";
+"end" = "End";
 "end_to_end_encryption" = "Cifrado de extremo a extremo";
 "enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Introduce tu nuevo número de teléfono";

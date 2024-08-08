@@ -417,6 +417,7 @@
 "enable_pay" = "啟用%@支付";
 "enable_pay_confirmation" = "啟用%@支付？";
 "enable_touch_pay_hint" = "輸入 PIN 啟用指紋支付";
+"end" = "結束";
 "end_to_end_encryption" = "端到端加密";
 "enter_new_anonymous_number" = "輸入你的新匿名號碼";
 "enter_new_phone_number" = "輸入你的新手機號碼";
@@ -725,7 +726,7 @@
 "off" = "關閉";
 "ok" = "好的";
 "old_device_is_waiting" = "確保舊的裝置已停留在同步等待掃碼的介面";
-"oldest" = "最早  ";
+"oldest" = "最早";
 "one_by_one_forward" = "逐條轉發";
 "one_hour" = "1 小時";
 "one_week" = "1 星期";

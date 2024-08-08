@@ -490,6 +490,7 @@
 	<string name="Enable_immediately">立即启动</string>
 	<string name="Enable_web_debug">已开启 Web 调试</string>
 	<string name="Encrypted">端到端加密</string>
+	<string name="End">结束</string>
 	<string name="End_to_End_Encryption">端到端加密</string>
 	<string name="Enter_new_anonymous_number">输入你的新匿名号码</string>
 	<string name="Enter_new_phone_number">输入你的新手机号码</string>
@@ -881,7 +882,7 @@
 	<string name="Old_Device_is_waiting">确保旧的设备已停留在同步等待扫码的界面</string>
 	<string name="Old_PIN">验证旧的 PIN</string>
 	<string name="old_price">过期价格</string>
-	<string name="Oldest">最早  </string>
+	<string name="Oldest">最早</string>
 	<string name="one_hour">1 小时</string>
 	<string name="one_week">1 星期</string>
 	<string name="one_year">1 年</string>

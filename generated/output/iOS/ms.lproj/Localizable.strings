@@ -418,6 +418,7 @@
 "enable_pay" = "Enable %@ Pay";
 "enable_pay_confirmation" = "Enable %@ Pay?";
 "enable_touch_pay_hint" = "Confirm PIN to enable Touch Pay";
+"end" = "End";
 "end_to_end_encryption" = "Disulitkan";
 "enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Masukkan nombor telefon bimbit baharu anda";

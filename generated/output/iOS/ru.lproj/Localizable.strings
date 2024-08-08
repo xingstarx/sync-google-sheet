@@ -417,6 +417,7 @@
 "enable_pay" = "Включить %@ Pay";
 "enable_pay_confirmation" = "Включить %@ Pay?";
 "enable_touch_pay_hint" = "Подтвердите PIN-код, чтобы включить Touch Pay";
+"end" = "End";
 "end_to_end_encryption" = "Сквозное шифрование";
 "enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Введите новый номер телефона";
