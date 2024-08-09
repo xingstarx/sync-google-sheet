@@ -607,7 +607,7 @@
   <string name="error_card_holder_name_not_same" platform="android">錯誤 10608: 卡片異常，請稍後嘗試正確的卡片</string>
   <string name="error_expired_session" platform="android">錯誤 10609: 交易會話過期</string>
   <string name="error_inconsistent_country" platform="android">錯誤 10610: 國家不一致</string>
-  <string name="error_invalid_swap" platform="android, iOS">錯誤 10611: 閃兑無效</string>
+  <string name="error_invalid_swap" platform="android, iOS">錯誤 10611: 交易無效</string>
   <string name="error_invalid_quote_amount" platform="android, iOS">錯誤 10614: 數量無效</string>
   <string name="error_no_available_quote" platform="android, iOS">錯誤 10615: 沒有報價</string>
   <string name="error_permission" platform="android, Desktop">請開啓相關權限</string>
@@ -1398,7 +1398,7 @@
   <string name="share_message_description_empty" platform="android, iOS, Desktop">你確定要發送該%1$s？</string>
   <string name="Share_QR_Code" platform="android">分享二維碼</string>
   <string name="share_to" platform="android">分享%1$s到…</string>
-  <string name="Share_To" platform="iOS">分享給</string>
+  <string name="Share_To" platform="iOS">分享到</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">媒體內容</string>
   <string name="Show" platform="android, iOS, Desktop">顯示</string>
   <string name="Show Selected" platform="iOS,android">顯示選擇（%1$s）</string>
@@ -1849,7 +1849,7 @@
   <string name="search_placeholder_collectible" platform="android, iOS">名稱</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">發送一個藏品</string>
   <string name="Collectible_Hash" platform="android, iOS">藏品哈希</string>
-  <string name="Swap" platform="android,iOS">閃兑</string>
+  <string name="Swap" platform="android,iOS">交易</string>
   <string name="Swapping" platform="android,iOS">兑換中</string>
   <string name="Pay" platform="android,iOS">支付</string>
   <string name="Received" platform="android,iOS">收到</string>
@@ -1930,16 +1930,16 @@
   <string name="number_of_recipients" platform="android,iOS">%1$d 收款人</string>
   <string name="Select_LIMIT" platform="android,iOS">最多選擇 %1$d 個</string>
   <string name="balance_abbreviation" platform="android,iOS">餘額 %1$s</string>
-  <string name="swap_confirmation" platform="android,iOS">確認閃兑</string>
-  <string name="swap_failed" platform="android,iOS">閃兑失敗</string>
-  <string name="swap_message_success" platform="android,iOS">您的閃兑交易已發送至網絡，交易將很快被處理。</string>
+  <string name="swap_confirmation" platform="android,iOS">確認交易</string>
+  <string name="swap_failed" platform="android,iOS">交易失敗</string>
+  <string name="swap_message_success" platform="android,iOS">您的閃兑交易已發送至網絡，將很快被處理。</string>
   <string name="Price" platform="android,iOS">價格</string>
   <string name="swap_asset_change" platform="android,iOS">資產變動（預估）</string>
   <string name="swap_no_available_quote" platform="android,iOS">沒有報價。請嘗試切換幣種。</string>
   <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">獲得</string>
-  <string name="swap_not_supported" platform="android,iOS">不支持 %1$s 閃兑，已切換</string>
+  <string name="swap_not_supported" platform="android,iOS">不支持 %1$s 交易，已切換</string>
   <string name="Price_data_unavailable" platform="android,iOS">價格數據不可用</string>
   <string name="Market" platform="android,iOS">行情</string>
   <string name="view_all" platform="android,iOS">查看全部</string>
