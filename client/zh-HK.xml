@@ -1932,7 +1932,7 @@
   <string name="balance_abbreviation" platform="android,iOS">餘額 %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">確認交易</string>
   <string name="swap_failed" platform="android,iOS">交易失敗</string>
-  <string name="swap_message_success" platform="android,iOS">您的閃兑交易已發送至網絡，將很快被處理。</string>
+  <string name="swap_message_success" platform="android,iOS">您的交易已發送至網絡，將很快被處理。</string>
   <string name="Price" platform="android,iOS">價格</string>
   <string name="swap_asset_change" platform="android,iOS">資產變動（預估）</string>
   <string name="swap_no_available_quote" platform="android,iOS">沒有報價。請嘗試切換幣種。</string>
