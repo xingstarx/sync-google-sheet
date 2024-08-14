@@ -393,6 +393,7 @@
 	<string name="database_upgrade_tips">正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。</string>
 	<string name="Date">日期</string>
 	<string name="date_format_date">yyyy 年 MM 月 dd 日</string>
+	<string name="days_count_short">%1$d天</string>
 	<string name="db_debug_warning">注意：如果执行了有侵害性的 SQL，结果不可逆！</string>
 	<string name="debit_or_credit_card">借记卡/信用卡</string>
 	<string name="Decline">挂断</string>
@@ -658,6 +659,7 @@
 	<string name="Hidden">隐藏</string>
 	<string name="Hidden_Assets">隐藏的资产</string>
 	<string name="Hide">隐藏</string>
+	<string name="high_24h">24小时最高</string>
 	<string name="hint_address">输入钱包地址</string>
 	<string name="hold_to_record_audio">长按说话，松手发送</string>
 	<plurals name="Hour" tools:ignore="UnusedQuantity">
@@ -747,6 +749,7 @@
 	<string name="Logout">退出中…</string>
 	<string name="Logs">日志</string>
 	<string name="Lost_your_mobile_number">手机丢失？</string>
+	<string name="low_24h">24小时最低</string>
 	<string name="Make_group_admin">设定为群组管理员</string>
 	<string name="manage_all_your_bots">管理你所有的机器人</string>
 	<string name="manage_all_your_circles">管理你所有的圈子</string>
@@ -757,6 +760,8 @@
 	<string name="Manufacturer">生产商</string>
 	<string name="Mark_as_read">标记为已读</string>
 	<string name="Market">行情</string>
+	<string name="Market_Cap">市值</string>
+	<string name="Market_States">行情数据</string>
 	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。</string>
 	<string name="Media">媒体</string>
@@ -785,6 +790,7 @@
 	<string name="Model">手机型号</string>
 	<string name="Monday">星期一</string>
 	<string name="Month">月</string>
+	<string name="months_count_short">%1$d月</string>
 	<string name="More">更多</string>
 	<string name="Multisig_by_PIN">通过 PIN 签名</string>
 	<string name="multisig_receiver">交易接收人</string>
@@ -1259,7 +1265,7 @@
 	<string name="swap_invalid_amount">没有报价。请尝试修改金额。</string>
 	<string name="swap_message_success">您的交易已发送至网络，将很快被处理。</string>
 	<string name="swap_no_available_quote">没有报价。请尝试切换币种。</string>
-	<string name="swap_not_supported">不支持 %1$s 交易</string>
+	<string name="swap_not_supported">不支持 %1$s 交易。</string>
 	<string name="swap_receive">获得</string>
 	<string name="swap_send">支付</string>
 	<string name="Swapping">兑换中</string>
@@ -1433,6 +1439,7 @@
 	<string name="View_Transaction">查看区块链浏览器</string>
 	<string name="View_Wallet">查看钱包</string>
 	<string name="Voice_call">语音通话</string>
+	<string name="vol_24h">24小时交易量（%1$s）</string>
 	<string name="Waiting">等待中</string>
 	<string name="Waiting_for_Other_Device">等待其他设备…</string>
 	<string name="Waiting_for_Other_Device_Login">在新设备上登录当前账户并选择从其他手机恢复</string>
@@ -1510,6 +1517,7 @@
 	<string name="web3_unstake">解押</string>
 	<string name="web3_withdraw">提现</string>
 	<string name="Wednesday">星期三</string>
+	<string name="weeks_count_short">%1$d周</string>
 	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">当漫游时</string>
 	<string name="withdraw_Address">提现地址</string>
@@ -1550,4 +1558,5 @@
 	<string name="You_have_left_the_group">你不在此群组</string>
 	<string name="Your_emergency_contact_has_been_changed">紧急联系人已更改</string>
 	<string name="your_pin_has_been_created">PIN 已创建</string>
+	<string name="ytd">年初至今</string>
 </resources>

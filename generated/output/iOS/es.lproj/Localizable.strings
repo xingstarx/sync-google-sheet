@@ -335,6 +335,7 @@
 "date_format_day" = "hh:mm un";
 "date_format_month" = "E, D MMM";
 "date_format_week_date" = "E, d MMM aaaa";
+"days_count_short" = "%dD";
 "declined" = "Rechazado";
 "decode_transaction_failed" = "Unable to estimate asset changes. Be cautious and only sign transactions for dApps you trust.";
 "delete" = "Borrar";
@@ -537,6 +538,7 @@
 "hidden_assets" = "Activos ocultos";
 "hide" = "Ocultar";
 "hide_asset" = "Ocultar activo";
+"high_24h" = "24H HIGH";
 "hint_address" = "Enter a wallet address";
 "hold_to_record_audio" = "Sostén para grabar, suelta para enviar";
 "hour" = "%d Hora";
@@ -620,11 +622,14 @@
 "logined" = "Sesión iniciada";
 "logs" = "Registros";
 "lost_your_mobile_number" = "¿Has perdido tu número de móvil?";
+"low_24h" = "24H LOW";
 "make_group_admin" = "Hacer administrador de grupo";
 "manage" = "Administrar";
 "manage_your_apps" = "Administra tus bots";
 "manage_your_circles" = "Administra tus círculos";
 "market" = "Market";
+"market_cap" = "Market Cap";
+"market_states" = "Market States";
 "max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "Medios de comunicación";
@@ -647,6 +652,7 @@
 "mixin_server_encounters_errors" = "El servidor Mixin encuentra errores";
 "mobile_contacts" = "Contactos móviles";
 "monthly" = "Mensual";
+"months_count_short" = "%dM";
 "more" = "Más";
 "move_and_scale" = "Mover y escalar";
 "multisig_receiver" = "Receiver";
@@ -1078,7 +1084,7 @@
 "swap_invalid_amount" = "No available quote found. Please try a different amount.";
 "swap_message_success" = "Your transaction has been sent to network and will be processed within a few minutes.";
 "swap_no_available_quote" = "No available quote found. Please try a different token.";
-"swap_not_supported" = "%@ swapping is not supported";
+"swap_not_supported" = "%@ swapping is not supported.";
 "swap_receive" = "Receive";
 "swap_send" = "Send";
 "swapping" = "Swapping";
@@ -1235,6 +1241,7 @@
 "view_wallet" = "Ver Cartera";
 "voice_call_cancelled" = "llamada de voz cancelada";
 "voice_call_has_been_declined" = "La llamada de voz ha sido rechazada";
+"vol_24h" = "24H VOL(%@)";
 "waiting" = "Esperando";
 "waiting_for_other_device" = "Waiting for Other Device...";
 "waiting_for_other_device_login" = "Log in to your current account on the new device and select the option to restore from another phone.";
@@ -1296,6 +1303,7 @@
 "web3_withdraw" = "Withdraw";
 "weekly" = "Semanalmente";
 "weeks" = "semanas";
+"weeks_count_short" = "%dW";
 "whats_your_name" = "¿Cómo te llamas?";
 "wifi" = "Wi-Fi";
 "wifi_and_cellular" = "Wi-Fi y móvil";
@@ -1330,3 +1338,4 @@
 "your_phone_number_has_been_changed" = "Tu número de teléfono se ha cambiado";
 "your_pin_has_been_changed" = "Tu PIN se ha cambiado";
 "your_pin_has_been_created" = "Tu PIN se ha creado";
+"ytd" = "YTD";

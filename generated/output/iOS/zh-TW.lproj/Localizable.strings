@@ -335,6 +335,7 @@
 "date_format_day" = "ahh:mm";
 "date_format_month" = "MM 月 d 日 E";
 "date_format_week_date" = "yyyy 年 MM 月 d 日 E";
+"days_count_short" = "%d天";
 "declined" = "已拒絕";
 "decode_transaction_failed" = "無法估計資產變化，注意只給您信任的應用程式簽名。";
 "delete" = "刪除";
@@ -537,6 +538,7 @@
 "hidden_assets" = "隱藏的資產";
 "hide" = "隱藏";
 "hide_asset" = "隱藏資產";
+"high_24h" = "24小時最高";
 "hint_address" = "輸入錢包地址";
 "hold_to_record_audio" = "長按說話，鬆手傳送";
 "hour" = "%d 小時";
@@ -620,11 +622,14 @@
 "logined" = "已登入";
 "logs" = "日誌";
 "lost_your_mobile_number" = "手機丟失？";
+"low_24h" = "24小時最低";
 "make_group_admin" = "設定為群組管理員";
 "manage" = "管理";
 "manage_your_apps" = "管理你所有的機器人";
 "manage_your_circles" = "管理你所有的圈子";
 "market" = "行情";
+"market_cap" = "市值";
+"market_states" = "行情資料";
 "max" = "最大值";
 "max_favorite_bots_description" = "最多可以新增 5 個喜歡的機器人，注意其他人可以在你的個人資訊彈窗裡檢視這些你喜歡的機器人。";
 "media" = "媒體";
@@ -647,6 +652,7 @@
 "mixin_server_encounters_errors" = "伺服器出錯，請稍後重試";
 "mobile_contacts" = "通訊錄";
 "monthly" = "每月";
+"months_count_short" = "%d月";
 "more" = "更多";
 "move_and_scale" = "移動和縮放";
 "multisig_receiver" = "交易接收人";
@@ -1078,7 +1084,7 @@
 "swap_invalid_amount" = "沒有報價。請嘗試修改金額。";
 "swap_message_success" = "您的交易已傳送至網路，將很快被處理。";
 "swap_no_available_quote" = "沒有報價。請嘗試切換幣種。";
-"swap_not_supported" = "不支援 %@ 交易";
+"swap_not_supported" = "不支援 %@ 交易。";
 "swap_receive" = "獲得";
 "swap_send" = "支付";
 "swapping" = "兌換中";
@@ -1235,6 +1241,7 @@
 "view_wallet" = "檢視錢包";
 "voice_call_cancelled" = "對方已取消語音通話";
 "voice_call_has_been_declined" = "已拒絕通話";
+"vol_24h" = "24小時交易量（%@）";
 "waiting" = "等待中";
 "waiting_for_other_device" = "等待其他裝置...";
 "waiting_for_other_device_login" = "在新裝置上登入當前賬戶並選擇從其他手機恢復";
@@ -1296,6 +1303,7 @@
 "web3_withdraw" = "提現";
 "weekly" = "每週";
 "weeks" = "週";
+"weeks_count_short" = "%d周";
 "whats_your_name" = "你的名字？";
 "wifi" = "WLAN";
 "wifi_and_cellular" = "WLAN 與行動數據";
@@ -1330,3 +1338,4 @@
 "your_phone_number_has_been_changed" = "更換手機號";
 "your_pin_has_been_changed" = "修改 PIN";
 "your_pin_has_been_created" = "PIN 已建立";
+"ytd" = "年初至今";

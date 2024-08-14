@@ -335,6 +335,7 @@
 "date_format_day" = "ahh:mm";
 "date_format_month" = "MM 月 d 日 E";
 "date_format_week_date" = "yyyy 年 MM 月 d 日 E";
+"days_count_short" = "%d天";
 "declined" = "已拒绝";
 "decode_transaction_failed" = "无法估计资产变化，注意只给您信任的应用程序签名。";
 "delete" = "删除";
@@ -537,6 +538,7 @@
 "hidden_assets" = "隐藏的资产";
 "hide" = "隐藏";
 "hide_asset" = "隐藏资产";
+"high_24h" = "24小时最高";
 "hint_address" = "输入钱包地址";
 "hold_to_record_audio" = "长按说话，松手发送";
 "hour" = "%d 小时";
@@ -620,11 +622,14 @@
 "logined" = "已登录";
 "logs" = "日志";
 "lost_your_mobile_number" = "手机丢失？";
+"low_24h" = "24小时最低";
 "make_group_admin" = "设定为群组管理员";
 "manage" = "管理";
 "manage_your_apps" = "管理你所有的机器人";
 "manage_your_circles" = "管理你所有的圈子";
 "market" = "行情";
+"market_cap" = "市值";
+"market_states" = "行情数据";
 "max" = "最大值";
 "max_favorite_bots_description" = "最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。";
 "media" = "媒体";
@@ -647,6 +652,7 @@
 "mixin_server_encounters_errors" = "服务器出错，请稍后重试";
 "mobile_contacts" = "通讯录";
 "monthly" = "每月";
+"months_count_short" = "%d月";
 "more" = "更多";
 "move_and_scale" = "移动和缩放";
 "multisig_receiver" = "交易接收人";
@@ -1078,7 +1084,7 @@
 "swap_invalid_amount" = "没有报价。请尝试修改金额。";
 "swap_message_success" = "您的交易已发送至网络，将很快被处理。";
 "swap_no_available_quote" = "没有报价。请尝试切换币种。";
-"swap_not_supported" = "不支持 %@ 交易";
+"swap_not_supported" = "不支持 %@ 交易。";
 "swap_receive" = "获得";
 "swap_send" = "支付";
 "swapping" = "兑换中";
@@ -1235,6 +1241,7 @@
 "view_wallet" = "查看钱包";
 "voice_call_cancelled" = "对方已取消语音通话";
 "voice_call_has_been_declined" = "已拒绝通话";
+"vol_24h" = "24小时交易量（%@）";
 "waiting" = "等待中";
 "waiting_for_other_device" = "等待其他设备...";
 "waiting_for_other_device_login" = "在新设备上登录当前账户并选择从其他手机恢复";
@@ -1296,6 +1303,7 @@
 "web3_withdraw" = "提现";
 "weekly" = "每周";
 "weeks" = "周";
+"weeks_count_short" = "%d周";
 "whats_your_name" = "你的名字？";
 "wifi" = "WLAN";
 "wifi_and_cellular" = "WLAN 与蜂窝移动网";
@@ -1330,3 +1338,4 @@
 "your_phone_number_has_been_changed" = "更换手机号";
 "your_pin_has_been_changed" = "修改 PIN";
 "your_pin_has_been_created" = "PIN 已创建";
+"ytd" = "年初至今";

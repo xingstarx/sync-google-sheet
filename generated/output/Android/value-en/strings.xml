@@ -398,6 +398,7 @@
 	<string name="database_upgrade_tips">The database is being upgraded, it may take several minutes, please do not close this App.</string>
 	<string name="Date">Date</string>
 	<string name="date_format_date">MMM dd, yyyy</string>
+	<string name="days_count_short">%1$dD</string>
 	<string name="db_debug_warning">Attention: If a harmful SQL statement is executed, the result is irreversible!</string>
 	<string name="debit_or_credit_card">Debit / Credit Card</string>
 	<string name="Debug_database">Debug database</string>
@@ -670,6 +671,7 @@
 	<string name="Hidden">Hidden</string>
 	<string name="Hidden_Assets">Hidden Assets</string>
 	<string name="Hide">Hide</string>
+	<string name="high_24h">24H HIGH</string>
 	<string name="hint_address">Enter a wallet address</string>
 	<string name="hold_to_record_audio">Hold to record, release to send.</string>
 	<plurals name="Hour">
@@ -764,6 +766,7 @@
 	<string name="Logout">Logout…</string>
 	<string name="Logs">Logs</string>
 	<string name="Lost_your_mobile_number">Lost your mobile number?</string>
+	<string name="low_24h">24H LOW</string>
 	<string name="Make_group_admin">Make group admin</string>
 	<string name="manage_all_your_bots">mange all your bots</string>
 	<string name="manage_all_your_circles">manage all your circles</string>
@@ -774,6 +777,8 @@
 	<string name="Manufacturer">Manufacturer</string>
 	<string name="Mark_as_read">Mark as read</string>
 	<string name="Market">Market</string>
+	<string name="Market_Cap">Market Cap</string>
+	<string name="Market_States">Market States</string>
 	<string name="Max">Max</string>
 	<string name="max_favorite_bots_description">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
 	<string name="Media">Media</string>
@@ -803,6 +808,7 @@
 	<string name="Model">Model</string>
 	<string name="Monday">Monday</string>
 	<string name="Month">Month</string>
+	<string name="months_count_short">%1$dM</string>
 	<string name="More">More</string>
 	<string name="Multisig_by_PIN">Multisig by PIN</string>
 	<string name="multisig_receiver">Receiver</string>
@@ -1280,7 +1286,7 @@
 	<string name="swap_invalid_amount">No available quote found. Please try a different amount.</string>
 	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
 	<string name="swap_no_available_quote">No available quote found. Please try a different token.</string>
-	<string name="swap_not_supported">%1$s swapping is not supported</string>
+	<string name="swap_not_supported">%1$s swapping is not supported.</string>
 	<string name="swap_receive">Receive</string>
 	<string name="swap_send">Send</string>
 	<string name="Swapping">Swapping</string>
@@ -1455,6 +1461,7 @@
 	<string name="View_Transaction">View Transaction</string>
 	<string name="View_Wallet">View Wallet</string>
 	<string name="Voice_call">Voice call</string>
+	<string name="vol_24h">24H VOL(%1$s)</string>
 	<string name="Waiting">Waiting</string>
 	<string name="Waiting_for_Other_Device">Waiting for Other Device…</string>
 	<string name="Waiting_for_Other_Device_Login">Log in to your current account on the new device and select the option to restore from another phone.</string>
@@ -1533,6 +1540,7 @@
 	<string name="web3_withdraw">Withdraw</string>
 	<string name="website">https://mixin.one/messenger</string>
 	<string name="Wednesday">Wednesday</string>
+	<string name="weeks_count_short">%1$dW</string>
 	<string name="Welcome_to_Mixin">Welcome to Mixin</string>
 	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
@@ -1574,4 +1582,5 @@
 	<string name="You_have_left_the_group">You have left the group</string>
 	<string name="Your_emergency_contact_has_been_changed">Your emergency contact has been changed</string>
 	<string name="your_pin_has_been_created">Your PIN has been created</string>
+	<string name="ytd">YTD</string>
 </resources>

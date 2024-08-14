@@ -1939,7 +1939,7 @@
   <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">獲得</string>
-  <string name="swap_not_supported" platform="android,iOS">不支援 %1$s 交易</string>
+  <string name="swap_not_supported" platform="android,iOS">不支援 %1$s 交易。</string>
   <string name="Price_data_unavailable" platform="android,iOS">價格資料不可用</string>
   <string name="Market" platform="android,iOS">行情</string>
   <string name="view_all" platform="android,iOS">檢視全部</string>
@@ -1959,4 +1959,13 @@
   <string name="number_of_days" platform="android,iOS">%1$d天</string>
   <string name="End" platform="android,iOS">結束</string>
   <string name="Value" platform="android,iOS">價值</string>
+  <string name="Market_States" platform="android,iOS">行情資料</string>
+  <string name="high_24h" platform="android,iOS">24小時最高</string>
+  <string name="low_24h" platform="android,iOS">24小時最低</string>
+  <string name="vol_24h" platform="android,iOS">24小時交易量（%1$s）</string>
+  <string name="days_count_short" platform="android,iOS">%1$d天</string>
+  <string name="weeks_count_short" platform="android,iOS">%1$d周</string>
+  <string name="months_count_short" platform="android,iOS">%1$d月</string>
+  <string name="ytd" platform="android,iOS">年初至今</string>
+  <string name="Market_Cap" platform="android,iOS">市值</string>
 </resources>
