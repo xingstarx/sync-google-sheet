@@ -543,6 +543,7 @@
 "hold_to_record_audio" = "長押しして録音、離して送信";
 "hour" = "%d時間";
 "hour_count" = "%d時間";
+"hours_count_short" = "%dH";
 "how_are_you" = "こんにちは、調子はどうですか";
 "i_am_good" = "いい気分";
 "id" = "ID";

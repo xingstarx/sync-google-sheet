@@ -666,6 +666,7 @@
 		<item quantity="one">%d 小時</item>
 		<item quantity="other">%d 小時</item>
 	</plurals>
+	<string name="hours_count_short">%1$d小時</string>
 	<string name="I_know">我知道了</string>
 	<string name="ID">ID</string>
 	<string name="identity_verification_description">正在驗證您的身份。一旦您的驗證完成，我們將通過 Mixin Messenger 向您發送消息。</string>

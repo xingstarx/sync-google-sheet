@@ -543,6 +543,7 @@
 "hold_to_record_audio" = "Удерживайте, чтобы записать, отпустите, чтобы отправить";
 "hour" = "%d час";
 "hour_count" = "%d часы";
+"hours_count_short" = "%dH";
 "how_are_you" = "Привет, как дела?";
 "i_am_good" = "Я в порядке.";
 "id" = "ID";

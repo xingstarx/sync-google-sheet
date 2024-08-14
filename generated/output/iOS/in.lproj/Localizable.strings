@@ -543,6 +543,7 @@
 "hold_to_record_audio" = "Tahan untuk merekam, lepaskan untuk mengirim";
 "hour" = "%d Hour";
 "hour_count" = "%d Jam";
+"hours_count_short" = "%dH";
 "how_are_you" = "Hi, how are you?";
 "i_am_good" = "I’m good.";
 "id" = "ID";

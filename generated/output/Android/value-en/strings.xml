@@ -678,6 +678,7 @@
 		<item quantity="one">%d Hour</item>
 		<item quantity="other">%d Hours</item>
 	</plurals>
+	<string name="hours_count_short">%1$dH</string>
 	<string name="I_know">I know</string>
 	<string name="ID">ID</string>
 	<string name="identity_verification_description">Your identity is being verified. We will send you a message once your verification has completed.</string>

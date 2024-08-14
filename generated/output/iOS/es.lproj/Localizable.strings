@@ -543,6 +543,7 @@
 "hold_to_record_audio" = "Sostén para grabar, suelta para enviar";
 "hour" = "%d Hora";
 "hour_count" = "%d Horas";
+"hours_count_short" = "%dH";
 "how_are_you" = "¿Hola, cómo estás?";
 "i_am_good" = "Estoy bien.";
 "id" = "ID";

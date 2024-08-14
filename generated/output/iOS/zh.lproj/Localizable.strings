@@ -543,6 +543,7 @@
 "hold_to_record_audio" = "长按说话，松手发送";
 "hour" = "%d 小时";
 "hour_count" = "%d 小时";
+"hours_count_short" = "%d小时";
 "how_are_you" = "嗨，你好吗？";
 "i_am_good" = "我很好。";
 "id" = "ID";
