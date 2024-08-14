@@ -1968,7 +1968,7 @@
 | android,iOS | swap_invalid_amount | No available quote found. Please try a different amount. | 没有报价。请尝试修改金额。 |     |     |     |
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
-| android,iOS | swap_not_supported | %1$s swapping is not supported | 不支持 %1$s 交易 |     |     |     |
+| android,iOS | swap_not_supported | %1$s swapping is not supported. | 不支持 %1$s 交易。 |     |     |     |
 | android,iOS | Price_data_unavailable | Price data unavailable | 价格数据不可用 |     |     |     |
 | android,iOS | Market | Market | 行情  |     |     |     |
 | android,iOS | view_all | View All | 查看全部 |     |     |     |
@@ -1988,3 +1988,12 @@
 | android,iOS | number_of_days | %1$d Days | %1$d天 |     |     |     |
 | android,iOS | End | End | 结束  |     |     |     |
 | android,iOS | Value | Value | 价值  |     |     |     |
+| android,iOS | Market_States | Market States | 行情数据 |     |     |     |
+| android,iOS | high_24h | 24H HIGH | 24小时最高 |     |     |     |
+| android,iOS | low_24h | 24H LOW | 24小时最低 |     |     |     |
+| android,iOS | vol_24h | 24H VOL(%1$s) | 24小时交易量（%1$s） |     |     |     |
+| android,iOS | days_count_short | %1$dD | %1$d天 |     |     |     |
+| android,iOS | weeks_count_short | %1$dW | %1$d周 |     |     |     |
+| android,iOS | months_count_short | %1$dM | %1$d月 |     |     |     |
+| android,iOS | ytd | YTD | 年初至今 |     |     |     |
+| android,iOS | Market_Cap | Market Cap | 市值  |     |     |     |
