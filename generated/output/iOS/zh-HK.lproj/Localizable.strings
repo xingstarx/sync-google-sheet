@@ -536,7 +536,7 @@
 "hidden_assets" = "隱藏的資產";
 "hide" = "隱藏";
 "hide_asset" = "隱藏資產";
-"high_24h" = "24小時最高";
+"high_24h" = "24 小時最高";
 "hint_address" = "輸入錢包地址";
 "hold_to_record_audio" = "長按説話，鬆手發送";
 "hour" = "%d 小時";
@@ -621,7 +621,7 @@
 "logined" = "已登錄";
 "logs" = "日誌";
 "lost_your_mobile_number" = "手機丟失？";
-"low_24h" = "24小時最低";
+"low_24h" = "24 小時最低";
 "make_group_admin" = "設定為羣組管理員";
 "manage" = "管理";
 "manage_your_apps" = "管理你所有的機器人";
@@ -1240,7 +1240,7 @@
 "view_wallet" = "查看錢包";
 "voice_call_cancelled" = "對方已取消語音通話";
 "voice_call_has_been_declined" = "已拒絕通話";
-"vol_24h" = "24小時交易量（%@）";
+"vol_24h" = "24 小時交易量（%@）";
 "waiting" = "等待中";
 "waiting_for_other_device" = "等待其他設備...";
 "waiting_for_other_device_login" = "在新設備上登錄當前賬户並選擇從其他手機恢復";
