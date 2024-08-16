@@ -1959,7 +1959,7 @@
   <string name="number_of_days" platform="android,iOS">%1$d天</string>
   <string name="End" platform="android,iOS">結束</string>
   <string name="Value" platform="android,iOS">價值</string>
-  <string name="Market_Stats" platform="android,iOS">行情統計</string>
+  <string name="Stats" platform="android,iOS">統計</string>
   <string name="high_24h" platform="android,iOS">24小時最高</string>
   <string name="low_24h" platform="android,iOS">24小時最低</string>
   <string name="vol_24h" platform="android,iOS">24小時交易量（%1$s）</string>

@@ -762,7 +762,6 @@
 	<string name="Mark_as_read">標記為已讀</string>
 	<string name="Market">行情</string>
 	<string name="Market_Cap">市值</string>
-	<string name="Market_Stats">行情統計</string>
 	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以新增 5 個喜歡的機器人，注意其他人可以在你的個人資訊彈窗裡檢視這些你喜歡的機器人。</string>
 	<string name="Media">媒體</string>
@@ -1237,6 +1236,7 @@
 	<string name="Start">開始</string>
 	<string name="Start_Messaging">開始聊天</string>
 	<string name="Start_Migration">開始遷移</string>
+	<string name="Stats">統計</string>
 	<string name="Status">交易狀態</string>
 	<string name="stay_in_mixin">留在 Mixin</string>
 	<string name="Sticker">貼紙</string>
