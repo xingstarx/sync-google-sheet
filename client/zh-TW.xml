@@ -365,7 +365,7 @@
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID：%1$s</string>
   <string name="contact_mobile" platform="android, iOS">手機：%1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">靜音通知</string>
-  <string name="contact_new_group_chat_desc" platform="android">建立一個最多支援 256 人的群</string>
+  <string name="contact_new_group_chat_desc" platform="android">建立一個群聊</string>
   <string name="contact_phone_contact_hint" platform="iOS">上傳你的手機通訊錄，如果你的通訊錄中有朋友已經註冊了 Mixin，系統會幫你自動新增為好友</string>
   <string name="contact_support" platform="android,iOS">聯絡客服</string>
   <string name="contact_title" platform="iOS, Desktop">聯絡人</string>
