@@ -309,7 +309,6 @@
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Идентификатор Mixin: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Мобильный: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Отключить уведомления для…</string>
-  <string name="contact_new_group_chat_desc" platform="android">Создайте групповой чат с друзьями</string>
   <string name="contact_phone_contact_hint" platform="iOS">Загрузите мобильные контакты, чтобы найти других друзей Mixin.</string>
   <string name="contact_share_bots_title" platform="android, iOS">Общие боты пользователя %1$s</string>
   <string name="contact_title" platform="iOS">Контакты</string>
