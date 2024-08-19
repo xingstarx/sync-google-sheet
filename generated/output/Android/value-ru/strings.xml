@@ -239,7 +239,6 @@
 	<string name="contact_mixin_id">Идентификатор Mixin: %1$s</string>
 	<string name="contact_mobile">Мобильный: %1$s</string>
 	<string name="contact_mute_title">Отключить уведомления для…</string>
-	<string name="contact_new_group_chat_desc">Создайте групповой чат с друзьями</string>
 	<string name="CONTACTS">КОНТАКТЫ</string>
 	<string name="content_audio">[Аудио]</string>
 	<string name="content_contact">[Контакт]</string>
@@ -407,7 +406,8 @@
 	<string name="error_too_small_withdraw_amount">ОШИБКА 20127: Слишком маленькая сумма вывода</string>
 	<string name="error_transcript_forward">Пожалуйста, пересылайте все вложения после их загрузки</string>
 	<string name="error_transfer_is_already_paid">ОШИБКА 20125: Перевод уже оплачен.</string>
-	<string name="error_unable_to_open_link">Не могу найти приложение, которое может открыть эту ссылку.\n%1$s</string>
+	<string name="error_unable_to_open_link">Не могу найти приложение, которое может открыть эту ссылку.
+\n%1$s</string>
 	<string name="error_unable_to_open_media">Не удается найти приложение, способное открыть этот носитель.</string>
 	<string name="error_unknown_with_code">ОШИБКА: %1$d</string>
 	<string name="error_unknown_with_message">ОШИБКА: %1$s</string>

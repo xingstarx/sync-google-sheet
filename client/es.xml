@@ -340,7 +340,6 @@
   <string name="contact_mixin_id" platform="android, iOS, Desktop">ID de Mixin: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Móvil: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Silenciar notificaciones para…</string>
-  <string name="contact_new_group_chat_desc" platform="android">Crea un chat grupal con hasta amigos</string>
   <string name="contact_phone_contact_hint" platform="iOS">Carga contactos móviles para encontrar otros amigos de Mixin.</string>
   <string name="contact_share_bots_title" platform="android, iOS">Bots compartidos de %1$s</string>
   <string name="contact_title" platform="iOS, Desktop">Contactos</string>
