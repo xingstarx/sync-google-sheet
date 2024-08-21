@@ -126,6 +126,9 @@
 	<string name="App_version">應用版本</string>
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
+	<string name="Approve">批准</string>
+	<string name="Approve_Transaction">批准交易</string>
+	<string name="Approving_Transaction">正在批准</string>
 	<string name="Asset_Key">資產標識</string>
 	<string name="Asset_Migration">資產遷移</string>
 	<string name="asset_migration_hint">您還有資產在舊的 Mixin 網路，點選檢視。</string>
@@ -1008,6 +1011,8 @@
 	<string name="Refresh">重新整理</string>
 	<string name="Refuse">拒絕</string>
 	<string name="Registering">註冊中…</string>
+	<string name="Reject_Transaction">拒絕交易</string>
+	<string name="Rejecting_Transaction">正在拒絕</string>
 	<string name="Release">分解</string>
 	<string name="Reload">重新載入</string>
 	<string name="Remove_all">全部刪除</string>
@@ -1064,6 +1069,7 @@
 	<string name="Revoke_multisig_transaction">撤銷多重簽名交易</string>
 	<string name="Revoking_Multisig_Failed">撤銷多重簽名交易失敗</string>
 	<string name="Revoking_Multisig_Signature">正在撤銷多簽交易</string>
+	<string name="SAFE">金庫</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">儲存</string>
 	<string name="Save_failure">儲存失敗</string>
@@ -1210,7 +1216,7 @@
 	<string name="Sign_with_emergency_contact">透過緊急聯絡人登入</string>
 	<string name="Sign_with_phone_number">透過手機號登入</string>
 	<string name="signature_request">簽名確認</string>
-	<string name="signature_request_from_mixin">該簽名請求來自 Mixin Messenger。</string>
+	<string name="signature_request_from">該簽名請求來自 %1$s。</string>
 	<string name="signature_request_warning">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
 	<string name="signed_message">簽名</string>
 	<string name="Silence_Notification">靜音通知</string>
@@ -1308,11 +1314,13 @@
 	<string name="Total_Supply">總量</string>
 	<string name="Touch_the_fingerprint_sensor">觸控指紋感測器</string>
 	<string name="Transaction">交易詳情</string>
+	<string name="Transaction_Approved">批准成功</string>
 	<string name="transaction_failed">轉賬失敗</string>
 	<string name="Transaction_Failed">交易失敗</string>
 	<string name="transaction_Hash">交易雜湊</string>
 	<string name="Transaction_History">轉賬記錄</string>
 	<string name="Transaction_Id">交易編號</string>
+	<string name="Transaction_Rejected">拒絕成功</string>
 	<string name="transaction_request">請求轉賬</string>
 	<string name="Transaction_Success">交易成功</string>
 	<string name="Transaction_Type">交易型別</string>

@@ -1838,7 +1838,7 @@
   <string name="Accounts" platform="android, iOS">賬戶</string>
   <string name="to_mixin_wallet" platform="android, iOS">劃轉到 Mixin 錢包</string>
   <string name="Invalid_Address" platform="android, iOS">無效的地址</string>
-  <string name="signature_request_from_mixin" platform="android, iOS">該簽名請求來自 Mixin Messenger。</string>
+  <string name="signature_request_from" platform="android, iOS">該簽名請求來自 %1$s。</string>
   <string name="content_collectible" platform="android, iOS">[藏品]</string>
   <string name="HASH" platform="android, iOS, Desktop">雜湊</string>
   <string name="ID" platform="android, iOS, Desktop">ID</string>
@@ -1968,4 +1968,12 @@
   <string name="months_count_short" platform="android,iOS">%1$d月</string>
   <string name="ytd" platform="android,iOS">年初至今</string>
   <string name="Market_Cap" platform="android,iOS">市值</string>
+  <string name="Approve_Transaction" platform="android,iOS">批准交易</string>
+  <string name="Approving_Transaction" platform="android,iOS">正在批准</string>
+  <string name="Transaction_Approved" platform="android,iOS">批准成功</string>
+  <string name="Approve" platform="android,iOS">批准</string>
+  <string name="Reject_Transaction" platform="android,iOS">拒絕交易</string>
+  <string name="Rejecting_Transaction" platform="android,iOS">正在拒絕</string>
+  <string name="Transaction_Rejected" platform="android,iOS">拒絕成功</string>
+  <string name="SAFE" platform="android,iOS">金庫</string>
 </resources>

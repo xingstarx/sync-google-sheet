@@ -101,6 +101,9 @@
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
 "appearance" = "Appearance";
 "apply" = "Apply";
+"approve" = "Approve";
+"approve_transaction" = "Approve Transaction";
+"approving_transaction" = "Approving Transaction";
 "asset_key" = "Asset Key";
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Asset not found.";
@@ -853,6 +856,8 @@
 "recent_searches" = "Recent searches";
 "recipients" = "Recipients";
 "refresh" = "Refresh";
+"reject_transaction" = "Reject Transaction";
+"rejecting_transaction" = "Rejecting Transaction";
 "release" = "Release";
 "reload" = "Reload";
 "remove_all" = "Remove All";
@@ -908,6 +913,7 @@
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "room_is_full" = "Room is full";
+"safe" = "SAFE";
 "save" = "Save";
 "save_image" = "Save Image";
 "save_to_camera_roll" = "Save to Camera Roll";
@@ -1038,7 +1044,7 @@
 "sign_with_emergency_contact" = "Sign in with emergency contact";
 "sign_with_phone_number" = "Sign in with phone number";
 "signature_request" = "Signature Request";
-"signature_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
+"signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "Skip";
 "slide_to_cancel" = "Slide to Cancel";
@@ -1122,10 +1128,12 @@
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "transaction" = "Transaction";
+"transaction_approved" = "Transaction Approved";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Transaction Hash";
 "transaction_history" = "Transaction History";
 "transaction_id" = "Transaction Id";
+"transaction_rejected" = "Transaction Rejected";
 "transaction_request" = "Transaction Request";
 "transaction_success" = "Transaction Success";
 "transaction_type" = "Transaction Type";

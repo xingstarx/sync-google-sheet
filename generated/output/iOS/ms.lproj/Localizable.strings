@@ -101,6 +101,9 @@
 "app_update_tips" = "The current version (%@) is no longer available! Please click \"Update\" below to update to the latest version from the App Store.";
 "appearance" = "Penampilan";
 "apply" = "Guna";
+"approve" = "Approve";
+"approve_transaction" = "Approve Transaction";
+"approving_transaction" = "Approving Transaction";
 "asset_key" = "Kunci Aset";
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Asset not found.";
@@ -854,6 +857,8 @@
 "recent_searches" = "Carian terkini";
 "recipients" = "Recipients";
 "refresh" = "Segarkan";
+"reject_transaction" = "Reject Transaction";
+"rejecting_transaction" = "Rejecting Transaction";
 "release" = "Release";
 "reload" = "Muat semula";
 "remove_all" = "Keluarkan semua";
@@ -909,6 +914,7 @@
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "room_is_full" = "Room is full";
+"safe" = "SAFE";
 "save" = "Jimat";
 "save_image" = "Menyimpan imej";
 "save_to_camera_roll" = "Save to Camera Roll";
@@ -1039,7 +1045,7 @@
 "sign_with_emergency_contact" = "Log masuk dengan kenalan kecemasan";
 "sign_with_phone_number" = "Log masuk dengan nombor telefon";
 "signature_request" = "Signature Request";
-"signature_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
+"signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "LANGKAU";
 "slide_to_cancel" = "Slaid untuk Batal";
@@ -1123,10 +1129,12 @@
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";
 "transaction" = "Urus Niaga";
+"transaction_approved" = "Transaction Approved";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "Urus niaga Cincangan";
 "transaction_history" = "Transaction History";
 "transaction_id" = "Id Urus Niaga";
+"transaction_rejected" = "Transaction Rejected";
 "transaction_request" = "Transaction Request";
 "transaction_success" = "Transaction Success";
 "transaction_type" = "Jenis Transaksi";

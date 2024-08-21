@@ -101,6 +101,9 @@
 "app_update_tips" = "現在のバージョン(%@)はもう利用いただけません。App Storeで新しいバージョンを入手してください";
 "appearance" = "言語とテーマ";
 "apply" = "適用";
+"approve" = "Approve";
+"approve_transaction" = "Approve Transaction";
+"approving_transaction" = "Approving Transaction";
 "asset_key" = "資産のキー";
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "資産が存在しません";
@@ -853,6 +856,8 @@
 "recent_searches" = "最近の検索";
 "recipients" = "Recipients";
 "refresh" = "更新";
+"reject_transaction" = "Reject Transaction";
+"rejecting_transaction" = "Rejecting Transaction";
 "release" = "Release";
 "reload" = "リロード";
 "remove_all" = "全部クリア";
@@ -908,6 +913,7 @@
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "room_is_full" = "ルームが満員です";
+"safe" = "SAFE";
 "save" = "保存";
 "save_image" = "画像を保存する";
 "save_to_camera_roll" = "カメラロールに保存する";
@@ -1038,7 +1044,7 @@
 "sign_with_emergency_contact" = "緊急連絡先でログイン";
 "sign_with_phone_number" = "電話番号でログイン";
 "signature_request" = "Signature Request";
-"signature_request_from_mixin" = "This signature request is issued by Mixin Messenger.";
+"signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";
 "skip" = "スキップ";
 "slide_to_cancel" = "スライドしてキャンセル";
@@ -1122,10 +1128,12 @@
 "touch_id" = "指紋認証";
 "track_not_found" = "トラックが見つかりません";
 "transaction" = "トランザクション";
+"transaction_approved" = "Transaction Approved";
 "transaction_failed" = "Transaction Failed";
 "transaction_hash" = "トランザクションハッシュ";
 "transaction_history" = "Transaction History";
 "transaction_id" = "トランザクションID";
+"transaction_rejected" = "Transaction Rejected";
 "transaction_request" = "Transaction Request";
 "transaction_success" = "Transaction Success";
 "transaction_type" = "トランザクションタイプ";

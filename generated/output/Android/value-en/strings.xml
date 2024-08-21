@@ -127,6 +127,9 @@
 	<string name="App_version">App version</string>
 	<string name="Appearance">Appearance</string>
 	<string name="Apply">Apply</string>
+	<string name="Approve">Approve</string>
+	<string name="Approve_Transaction">Approve Transaction</string>
+	<string name="Approving_Transaction">Approving Transaction</string>
 	<string name="Asset_Key">Asset Key</string>
 	<string name="Asset_Migration">Network Upgrade</string>
 	<string name="asset_migration_hint">You have assets in the legacy network, please view here.</string>
@@ -1027,6 +1030,8 @@
 	<string name="Refresh">Refresh</string>
 	<string name="Refuse">Refuse</string>
 	<string name="Registering">Registering…</string>
+	<string name="Reject_Transaction">Reject Transaction</string>
+	<string name="Rejecting_Transaction">Rejecting Transaction</string>
 	<string name="Release">Release</string>
 	<string name="Reload">Reload</string>
 	<string name="Remove_all">Remove All</string>
@@ -1083,6 +1088,7 @@
 	<string name="Revoke_multisig_transaction">Revoke Multisig Transaction</string>
 	<string name="Revoking_Multisig_Failed">Revoking Multisig Failed</string>
 	<string name="Revoking_Multisig_Signature">Revoking Multisig Signature</string>
+	<string name="SAFE">SAFE</string>
 	<string name="Saturday">Saturday</string>
 	<string name="Save">Save</string>
 	<string name="Save_failure">Save failure</string>
@@ -1231,7 +1237,7 @@
 	<string name="Sign_with_emergency_contact">Sign in with emergency contact</string>
 	<string name="Sign_with_phone_number">Sign in with phone number</string>
 	<string name="signature_request">Signature Request</string>
-	<string name="signature_request_from_mixin">This signature request is issued by Mixin Messenger.</string>
+	<string name="signature_request_from">This signature request is issued by %1$s.</string>
 	<string name="signature_request_warning">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
 	<string name="signed_message">SIGNED MESSAGE</string>
 	<string name="Silence_Notification">Silence Notification</string>
@@ -1330,11 +1336,13 @@
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
 	<string name="Transaction">Transaction</string>
+	<string name="Transaction_Approved">Transaction Approved</string>
 	<string name="transaction_failed">Transaction Failed</string>
 	<string name="Transaction_Failed">Transaction Failed</string>
 	<string name="transaction_Hash">Transaction Hash</string>
 	<string name="Transaction_History">Transaction History</string>
 	<string name="Transaction_Id">Transaction Id</string>
+	<string name="Transaction_Rejected">Transaction Rejected</string>
 	<string name="transaction_request">Transaction Request</string>
 	<string name="Transaction_Success">Transaction Success</string>
 	<string name="Transaction_Type">Transaction Type</string>
