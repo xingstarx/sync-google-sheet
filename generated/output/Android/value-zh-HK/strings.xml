@@ -805,6 +805,7 @@
 	<string name="multisig_signed_description">您的簽名已成功</string>
 	<string name="multisig_signing_description">正在發送，請稍候。</string>
 	<string name="Multisig_Signing_Failed">多簽交易失敗</string>
+	<string name="multisig_state_paid">這筆交易已成功收集到足夠的簽名，當前簽名已被自動忽略。</string>
 	<string name="multisig_state_signed">您已經對這筆交易進行了簽名，您無法再次簽名。</string>
 	<string name="multisig_state_unlocked">這筆交易已經被其他人撤銷了，您無法再次撤銷。</string>
 	<string name="Multisig_Transaction">多重簽名交易</string>

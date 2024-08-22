@@ -665,6 +665,7 @@
 "multisig_signed_description" = "Signature successful";
 "multisig_signing_description" = "Requesting. Please wait a moment.";
 "multisig_signing_failed" = "Multisig Signing Failed";
+"multisig_state_paid" = "This transaction has already collected enough signatures; the current signature has been automatically ignored.";
 "multisig_state_signed" = "Este enlace multisig ya ha sido firmado por ti mismo, no puedes realizar una operación duplicada.";
 "multisig_state_unlocked" = "Este enlace multisig ya fue desbloqueado por alguien, no se puede hacer una operación duplicada.";
 "multisig_transaction" = "Transacción multigrado";

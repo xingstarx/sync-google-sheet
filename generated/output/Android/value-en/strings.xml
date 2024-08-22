@@ -823,6 +823,7 @@
 	<string name="multisig_signed_description">Signature successful</string>
 	<string name="multisig_signing_description">Requesting. Please wait a moment.</string>
 	<string name="Multisig_Signing_Failed">Multisig Signing Failed</string>
+	<string name="multisig_state_paid">This transaction has already collected enough signatures; the current signature has been automatically ignored.</string>
 	<string name="multisig_state_signed">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
 	<string name="multisig_state_unlocked">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
 	<string name="Multisig_Transaction">Multisig Transaction</string>

@@ -666,6 +666,7 @@
 "multisig_signed_description" = "Signature successful";
 "multisig_signing_description" = "Requesting. Please wait a moment.";
 "multisig_signing_failed" = "Multisig Signing Failed";
+"multisig_state_paid" = "This transaction has already collected enough signatures; the current signature has been automatically ignored.";
 "multisig_state_signed" = "Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua.";
 "multisig_state_unlocked" = "Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua.";
 "multisig_transaction" = "Transaksi Multisig";
