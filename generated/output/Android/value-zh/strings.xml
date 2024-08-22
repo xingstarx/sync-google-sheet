@@ -1015,6 +1015,7 @@
 	<string name="Refresh">刷新</string>
 	<string name="Refuse">拒绝</string>
 	<string name="Registering">注册中…</string>
+	<string name="Reject">拒绝</string>
 	<string name="Reject_Transaction">拒绝交易</string>
 	<string name="Rejecting_Transaction">正在拒绝</string>
 	<string name="Rejecting_Transaction_Failed">拒绝失败</string>

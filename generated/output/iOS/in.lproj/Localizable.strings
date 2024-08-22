@@ -860,6 +860,7 @@
 "recent_searches" = "Recent searches";
 "recipients" = "Recipients";
 "refresh" = "Muat ulang";
+"reject" = "Reject";
 "reject_transaction" = "Reject Transaction";
 "rejecting_transaction" = "Rejecting Transaction";
 "rejecting_transaction_failed" = "Rejecting Transaction Failed";

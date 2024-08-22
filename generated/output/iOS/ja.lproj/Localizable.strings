@@ -860,6 +860,7 @@
 "recent_searches" = "最近の検索";
 "recipients" = "Recipients";
 "refresh" = "更新";
+"reject" = "Reject";
 "reject_transaction" = "Reject Transaction";
 "rejecting_transaction" = "Rejecting Transaction";
 "rejecting_transaction_failed" = "Rejecting Transaction Failed";

@@ -861,6 +861,7 @@
 "recent_searches" = "Carian terkini";
 "recipients" = "Recipients";
 "refresh" = "Segarkan";
+"reject" = "Reject";
 "reject_transaction" = "Reject Transaction";
 "rejecting_transaction" = "Rejecting Transaction";
 "rejecting_transaction_failed" = "Rejecting Transaction Failed";

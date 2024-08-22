@@ -1034,6 +1034,7 @@
 	<string name="Refresh">Refresh</string>
 	<string name="Refuse">Refuse</string>
 	<string name="Registering">Registering…</string>
+	<string name="Reject">Reject</string>
 	<string name="Reject_Transaction">Reject Transaction</string>
 	<string name="Rejecting_Transaction">Rejecting Transaction</string>
 	<string name="Rejecting_Transaction_Failed">Rejecting Transaction Failed</string>

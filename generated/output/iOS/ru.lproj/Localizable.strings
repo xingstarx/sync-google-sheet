@@ -860,6 +860,7 @@
 "recent_searches" = "Недавние поиски";
 "recipients" = "Recipients";
 "refresh" = "Обновить";
+"reject" = "Reject";
 "reject_transaction" = "Reject Transaction";
 "rejecting_transaction" = "Rejecting Transaction";
 "rejecting_transaction_failed" = "Rejecting Transaction Failed";

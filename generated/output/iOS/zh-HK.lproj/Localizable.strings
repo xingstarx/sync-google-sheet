@@ -860,6 +860,7 @@
 "recent_searches" = "最近搜索";
 "recipients" = "收款人";
 "refresh" = "刷新";
+"reject" = "拒絕";
 "reject_transaction" = "拒絕交易";
 "rejecting_transaction" = "正在拒絕";
 "rejecting_transaction_failed" = "拒絕失敗";
