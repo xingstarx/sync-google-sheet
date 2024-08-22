@@ -104,6 +104,7 @@
 "approve" = "Approve";
 "approve_transaction" = "Approve Transaction";
 "approving_transaction" = "Approving Transaction";
+"approving_transaction_failed" = "Approving Transaction Failed";
 "asset_key" = "Clave de activo";
 "asset_migration_hint" = "You have assets in the legacy network, please view here.";
 "asset_not_found" = "Activo no encontrado.";
@@ -861,6 +862,7 @@
 "refresh" = "Actualizar";
 "reject_transaction" = "Reject Transaction";
 "rejecting_transaction" = "Rejecting Transaction";
+"rejecting_transaction_failed" = "Rejecting Transaction Failed";
 "release" = "Release";
 "reload" = "Recargar";
 "remove_all" = "Eliminar todo";
@@ -1127,6 +1129,7 @@
 "token" = "Token";
 "token_amount" = "Token Amount";
 "total" = "Total";
+"total_amount" = "Total Amount";
 "total_supply" = "Total Supply";
 "touch_id" = "identifición de toque";
 "track_not_found" = "Pista no encontrada";

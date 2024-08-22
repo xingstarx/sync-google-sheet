@@ -1979,4 +1979,7 @@
   <string name="Rejecting_Transaction" platform="android,iOS">正在拒絕</string>
   <string name="Transaction_Rejected" platform="android,iOS">拒絕成功</string>
   <string name="SAFE" platform="android,iOS">金庫</string>
+  <string name="Approving_Transaction_Failed" platform="android,iOS">批准失敗</string>
+  <string name="Rejecting_Transaction_Failed" platform="android,iOS">拒絕失敗</string>
+  <string name="Total_Amount" platform="android,iOS">總金額</string>
 </resources>

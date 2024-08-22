@@ -129,6 +129,7 @@
 	<string name="Approve">批准</string>
 	<string name="Approve_Transaction">批准交易</string>
 	<string name="Approving_Transaction">正在批准</string>
+	<string name="Approving_Transaction_Failed">批准失败</string>
 	<string name="Asset_Key">资产标识</string>
 	<string name="Asset_Migration">资产迁移</string>
 	<string name="asset_migration_hint">您还有资产在旧的 Mixin 网络，点击查看。</string>
@@ -1016,6 +1017,7 @@
 	<string name="Registering">注册中…</string>
 	<string name="Reject_Transaction">拒绝交易</string>
 	<string name="Rejecting_Transaction">正在拒绝</string>
+	<string name="Rejecting_Transaction_Failed">拒绝失败</string>
 	<string name="Release">分解</string>
 	<string name="Reload">重新载入</string>
 	<string name="Remove_all">全部删除</string>
@@ -1314,6 +1316,7 @@
 	<string name="Token">代币</string>
 	<string name="token_amount">代币总数</string>
 	<string name="total">共计</string>
+	<string name="Total_Amount">总金额</string>
 	<string name="Total_Supply">总量</string>
 	<string name="Touch_the_fingerprint_sensor">触摸指纹传感器</string>
 	<string name="Transaction">交易详情</string>

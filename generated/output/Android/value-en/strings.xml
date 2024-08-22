@@ -130,6 +130,7 @@
 	<string name="Approve">Approve</string>
 	<string name="Approve_Transaction">Approve Transaction</string>
 	<string name="Approving_Transaction">Approving Transaction</string>
+	<string name="Approving_Transaction_Failed">Approving Transaction Failed</string>
 	<string name="Asset_Key">Asset Key</string>
 	<string name="Asset_Migration">Network Upgrade</string>
 	<string name="asset_migration_hint">You have assets in the legacy network, please view here.</string>
@@ -1035,6 +1036,7 @@
 	<string name="Registering">Registering…</string>
 	<string name="Reject_Transaction">Reject Transaction</string>
 	<string name="Rejecting_Transaction">Rejecting Transaction</string>
+	<string name="Rejecting_Transaction_Failed">Rejecting Transaction Failed</string>
 	<string name="Release">Release</string>
 	<string name="Reload">Reload</string>
 	<string name="Remove_all">Remove All</string>
@@ -1335,6 +1337,7 @@
 	<string name="Token">Token</string>
 	<string name="token_amount">Token Amount</string>
 	<string name="total">Total</string>
+	<string name="Total_Amount">Total Amount</string>
 	<string name="Total_Supply">Total Supply</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
