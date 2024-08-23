@@ -1981,4 +1981,7 @@
   <string name="Rejecting_Transaction_Failed" platform="android,iOS">拒絕失敗</string>
   <string name="Total_Amount" platform="android,iOS">總金額</string>
   <string name="Reject" platform="android,iOS">拒絕</string>
+  <string name="New_Update_Available" platform="android,iOS">發現新版本</string>
+  <string name="New_Update_Available_desc" platform="android,iOS">我們定期更新應用程序，以便為您提供更好的服務</string>
+  <string name="Update_Now" platform="android,iOS">立即更新</string>
 </resources>
