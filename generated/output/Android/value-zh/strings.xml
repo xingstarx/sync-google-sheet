@@ -800,8 +800,6 @@
 	<string name="multisig_receiver">交易接收人</string>
 	<string name="multisig_receivers_threshold">交易接收人（%1$s）</string>
 	<string name="Multisig_Revoked">已撤销多签交易</string>
-	<string name="multisig_safe_state_signed">您已经批准了这笔交易，您无法再次批准。</string>
-	<string name="multisig_safe_state_unlocked">这笔交易已经被其他人拒绝，您无法再次拒绝。</string>
 	<string name="multisig_sender">交易发起人</string>
 	<string name="multisig_senders_threshold">交易发起人（%1$s）</string>
 	<string name="Multisig_Signed">多签交易签名成功</string>
