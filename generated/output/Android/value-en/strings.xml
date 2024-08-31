@@ -222,6 +222,8 @@
 	<string name="Change_Amount">Change Amount</string>
 	<string name="Change_emergency_contact">Change emergency contact</string>
 	<string name="Change_Number_Instead">Change Number Instead</string>
+	<string name="change_percent_period_day">%1$dD %%</string>
+	<string name="change_percent_period_hour">%1$dh %%</string>
 	<string name="Change_Phone_Number">Change Phone Number</string>
 	<string name="Change_PIN">Change PIN</string>
 	<string name="Change_PIN_successfully">Change PIN successfully</string>
@@ -476,6 +478,7 @@
 	<string name="Dismiss_as_Admin">Dismiss as Admin</string>
 	<string name="divide">, </string>
 	<string name="Documents">Documents</string>
+	<string name="Dominance">Dominance</string>
 	<string name="Done">Done</string>
 	<string name="Dont_have_assets">No assets</string>
 	<string name="Draw">Draw</string>
@@ -773,6 +776,7 @@
 	<string name="Lost_your_mobile_number">Lost your mobile number?</string>
 	<string name="low_24h">24H LOW</string>
 	<string name="Make_group_admin">Make group admin</string>
+	<string name="malicious_instruction_set_authority">This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.</string>
 	<string name="manage_all_your_bots">mange all your bots</string>
 	<string name="manage_all_your_circles">manage all your circles</string>
 	<string name="Manage_Bots">Manage Bots</string>
@@ -1338,6 +1342,7 @@
 	<string name="Today">Today</string>
 	<string name="Token">Token</string>
 	<string name="token_amount">Token Amount</string>
+	<string name="top_count">Top %1$d</string>
 	<string name="total">Total</string>
 	<string name="Total_Amount">Total Amount</string>
 	<string name="Total_Supply">Total Supply</string>
@@ -1480,6 +1485,7 @@
 	<string name="View_Wallet">View Wallet</string>
 	<string name="Voice_call">Voice call</string>
 	<string name="vol_24h">24H VOL(%1$s)</string>
+	<string name="volume_24h">24h Volume</string>
 	<string name="Waiting">Waiting</string>
 	<string name="Waiting_for_Other_Device">Waiting for Other Device…</string>
 	<string name="Waiting_for_Other_Device_Login">Log in to your current account on the new device and select the option to restore from another phone.</string>
@@ -1513,6 +1519,8 @@
 	<string name="wallet_withdrawal_changed">The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed with the request?</string>
 	<string name="wallet_withdrawal_not_in_addresses">%1$s This address is not in the white list of withdrawal addresses, please check the address carefully.</string>
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
+	<string name="Watchlist">Watchlist</string>
+	<string name="watchlist_empty">Your watchlist is empty</string>
 	<string name="web_cannot_reached_desc">%1$s took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page.</string>
 	<string name="web_cannot_reached_title">This webpage can\'t be reached</string>
 	<string name="web_floating_permission">You can\'t floating as Mixin isn\'t authorized to use floating windows</string>

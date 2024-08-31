@@ -175,6 +175,8 @@
 "change_name" = "修改名稱";
 "change_number" = "修改手機號";
 "change_number_instead" = "僅修改手機號碼";
+"change_percent_period_day" = "%d天 %%";
+"change_percent_period_hour" = "%d小時 %%";
 "change_phone_number" = "修改手機號";
 "change_pin" = "修改 PIN";
 "change_pin_interval_hint" = "輸入 PIN 修改使用間隔";
@@ -397,6 +399,7 @@
 "disconnected" = "已斷開";
 "disconnecting" = "正在斷開";
 "dismiss_as_admin" = "撤銷管理員身份";
+"dominance" = "市佔率";
 "done" = "完成";
 "dont_have_assets" = "沒有資產";
 "duplicate_transfer_confirmation" = "重複轉賬確認";
@@ -627,6 +630,7 @@
 "lost_your_mobile_number" = "手機丟失？";
 "low_24h" = "24 小時最低";
 "make_group_admin" = "設定為群組管理員";
+"malicious_instruction_set_authority" = "此交易將更改 SPL 代幣的所有者。這將允許新的所有者在未經您允許的情況下轉讓代幣。";
 "manage" = "管理";
 "manage_your_apps" = "管理你所有的機器人";
 "manage_your_circles" = "管理你所有的圈子";
@@ -1130,6 +1134,7 @@
 "today" = "今天";
 "token" = "代幣";
 "token_amount" = "代幣總數";
+"top_count" = "前 %d";
 "total" = "共計";
 "total_amount" = "總金額";
 "total_supply" = "總量";
@@ -1258,6 +1263,7 @@
 "voice_call_cancelled" = "對方已取消語音通話";
 "voice_call_has_been_declined" = "已拒絕通話";
 "vol_24h" = "24 小時交易量（%@）";
+"volume_24h" = "24 小時交易量";
 "waiting" = "等待中";
 "waiting_for_other_device" = "等待其他裝置...";
 "waiting_for_other_device_login" = "在新裝置上登入當前賬戶並選擇從其他手機恢復";
@@ -1279,6 +1285,8 @@
 "wallet_withdrawal_changed" = "手續費已從 %1$@ 變更為 %2$@，要更新手續費並繼續提現嗎？";
 "wallet_withdrawal_not_in_addresses" = "%@ 該地址不在提現地址白名單，請仔細核對地址。";
 "wallet_withdrawal_recent_tip" = "你已經在 %1$@ 前提現 %3$@ 到 %2$@，確認還要再提一次嗎？";
+"watchlist" = "自選列表";
+"watchlist_empty" = "您的自選列表為空";
 "web_cannot_reached_desc" = "無法訪問 %@，請檢查你的網路並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。";
 "web_cannot_reached_title" = "無法訪問此網頁";
 "web_suspicious_link_tips" = "該連結不在對應的機器人域名白名單內。";

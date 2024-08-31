@@ -175,6 +175,8 @@
 "change_name" = "Изменить имя";
 "change_number" = "Изменить номер";
 "change_number_instead" = "Вместо этого изменить номер";
+"change_percent_period_day" = "%dD %%";
+"change_percent_period_hour" = "%dh %%";
 "change_phone_number" = "Изменить номер телефона";
 "change_pin" = "Изменить PIN-код";
 "change_pin_interval_hint" = "Подтвердите PIN-код, чтобы изменить интервал";
@@ -397,6 +399,7 @@
 "disconnected" = "Disconnected";
 "disconnecting" = "Отключение";
 "dismiss_as_admin" = "Закрыть как администратор";
+"dominance" = "Dominance";
 "done" = "Сделано";
 "dont_have_assets" = "No assets";
 "duplicate_transfer_confirmation" = "Дубликат подтверждения перевода";
@@ -627,6 +630,7 @@
 "lost_your_mobile_number" = "Потеряли номер мобильного?";
 "low_24h" = "24H LOW";
 "make_group_admin" = "Сделать администратором группы";
+"malicious_instruction_set_authority" = "This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.";
 "manage" = "Управлять";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
@@ -1130,6 +1134,7 @@
 "today" = "Сегодня";
 "token" = "Token";
 "token_amount" = "Token Amount";
+"top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";
 "total_supply" = "Total Supply";
@@ -1258,6 +1263,7 @@
 "voice_call_cancelled" = "голосовой вызов отменен";
 "voice_call_has_been_declined" = "Голосовой вызов был отклонен";
 "vol_24h" = "24H VOL(%@)";
+"volume_24h" = "24h Volume";
 "waiting" = "Ожидание";
 "waiting_for_other_device" = "Waiting for Other Device...";
 "waiting_for_other_device_login" = "Log in to your current account on the new device and select the option to restore from another phone.";
@@ -1279,6 +1285,8 @@
 "wallet_withdrawal_changed" = "Комиссия за снятие средств была изменена с %1$@ на %2$@. Вы хотите продолжить обработку запроса?";
 "wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "Вы уже выводили %3$@ на %2$@ %1$@ назад. Хотите вывести еще раз?";
+"watchlist" = "Watchlist";
+"watchlist_empty" = "Your watchlist is empty";
 "web_cannot_reached_desc" = "%@ заняло слишком много времени для ответа. Пожалуйста, проверьте свою сеть и попробуйте переключить 4G, Wi-Fi или VPN, чтобы перезагрузить страницу.";
 "web_cannot_reached_title" = "Эта веб-страница недоступна";
 "web_suspicious_link_tips" = "Ссылки нет в соответствующих шаблонах ресурсов.";

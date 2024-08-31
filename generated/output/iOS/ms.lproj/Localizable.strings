@@ -175,6 +175,8 @@
 "change_name" = "Change name";
 "change_number" = "Change Number";
 "change_number_instead" = "Change Number Instead";
+"change_percent_period_day" = "%dD %%";
+"change_percent_period_hour" = "%dh %%";
 "change_phone_number" = "Tukar Nombor Telefon";
 "change_pin" = "Tukar PIN";
 "change_pin_interval_hint" = "Confirm PIN to change interval";
@@ -398,6 +400,7 @@
 "disconnected" = "Disconnected";
 "disconnecting" = "Disconnecting";
 "dismiss_as_admin" = "Ketepikan pentadbir";
+"dominance" = "Dominance";
 "done" = "Selesai";
 "dont_have_assets" = "No assets";
 "duplicate_transfer_confirmation" = "Pengesahan Pemindahan Pendua";
@@ -628,6 +631,7 @@
 "lost_your_mobile_number" = "Kehilangan nombor telefon bimbit anda?";
 "low_24h" = "24H LOW";
 "make_group_admin" = "Buat pentadbir kumpulan";
+"malicious_instruction_set_authority" = "This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.";
 "manage" = "Manage";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
@@ -1131,6 +1135,7 @@
 "today" = "Hari ini";
 "token" = "Token";
 "token_amount" = "Token Amount";
+"top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";
 "total_supply" = "Total Supply";
@@ -1259,6 +1264,7 @@
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";
 "vol_24h" = "24H VOL(%@)";
+"volume_24h" = "24h Volume";
 "waiting" = "Menunggu";
 "waiting_for_other_device" = "Waiting for Other Device...";
 "waiting_for_other_device_login" = "Log in to your current account on the new device and select the option to restore from another phone.";
@@ -1280,6 +1286,8 @@
 "wallet_withdrawal_changed" = "The withdrawal fee has been changed from %1$@ to %2$@, would you like to proceed with the request?";
 "wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "Anda telah menarik balik %3$@ ke %2$@ %1$@, Adakah anda mahu menariknya semula?";
+"watchlist" = "Watchlist";
+"watchlist_empty" = "Your watchlist is empty";
 "web_cannot_reached_desc" = "%@ mengambil masa terlalu lama untuk beri maklum balas. Sila periksa rangkaian anda dan cuba tukar 4G, Wi-Fi atau VPN untuk memuat semula halaman.";
 "web_cannot_reached_title" = "Laman web ini tidak dapat dicapai";
 "web_suspicious_link_tips" = "Pautan tidak terdapat dalam corak sumber yang sesuai.";

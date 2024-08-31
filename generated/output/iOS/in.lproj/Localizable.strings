@@ -175,6 +175,8 @@
 "change_name" = "Change name";
 "change_number" = "Change Number";
 "change_number_instead" = "Change Number Instead";
+"change_percent_period_day" = "%dD %%";
+"change_percent_period_hour" = "%dh %%";
 "change_phone_number" = "Ubah Nomor Telepon";
 "change_pin" = "Ubah PIN";
 "change_pin_interval_hint" = "Confirm PIN to change interval";
@@ -397,6 +399,7 @@
 "disconnected" = "Disconnected";
 "disconnecting" = "Disconnecting";
 "dismiss_as_admin" = "Singkirkan admin";
+"dominance" = "Dominance";
 "done" = "Selesai";
 "dont_have_assets" = "No assets";
 "duplicate_transfer_confirmation" = "Konfirmasi Transfer Ganda";
@@ -627,6 +630,7 @@
 "lost_your_mobile_number" = "Kehilangan nomor ponsel Anda?";
 "low_24h" = "24H LOW";
 "make_group_admin" = "Jadikan admin grup";
+"malicious_instruction_set_authority" = "This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.";
 "manage" = "Manage";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
@@ -1130,6 +1134,7 @@
 "today" = "Hari ini";
 "token" = "Token";
 "token_amount" = "Token Amount";
+"top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";
 "total_supply" = "Total Supply";
@@ -1258,6 +1263,7 @@
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";
 "vol_24h" = "24H VOL(%@)";
+"volume_24h" = "24h Volume";
 "waiting" = "Menunggu";
 "waiting_for_other_device" = "Waiting for Other Device...";
 "waiting_for_other_device_login" = "Log in to your current account on the new device and select the option to restore from another phone.";
@@ -1279,6 +1285,8 @@
 "wallet_withdrawal_changed" = "The withdrawal fee has been changed from %1$@ to %2$@, would you like to proceed with the request?";
 "wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "Anda telah menarik %3$@ ke %2$@ %1$@, Anda ingin menariknya lagi?";
+"watchlist" = "Watchlist";
+"watchlist_empty" = "Your watchlist is empty";
 "web_cannot_reached_desc" = "%@ took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page.";
 "web_cannot_reached_title" = "This webpage can't be reached";
 "web_suspicious_link_tips" = "Tautan tidak dalam pola sumber daya yang sesuai.";

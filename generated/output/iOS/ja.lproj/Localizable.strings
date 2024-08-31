@@ -175,6 +175,8 @@
 "change_name" = "名前を変更";
 "change_number" = "電話番号を変更";
 "change_number_instead" = "電話番号を変更";
+"change_percent_period_day" = "%dD %%";
+"change_percent_period_hour" = "%dh %%";
 "change_phone_number" = "電話番号を変更";
 "change_pin" = "PINコードを変更";
 "change_pin_interval_hint" = "設定を変更するためPINコードを入力してください";
@@ -397,6 +399,7 @@
 "disconnected" = "Disconnected";
 "disconnecting" = "切断";
 "dismiss_as_admin" = "管理者権限を解除";
+"dominance" = "Dominance";
 "done" = "完了";
 "dont_have_assets" = "No assets";
 "duplicate_transfer_confirmation" = "二重送金の確認";
@@ -627,6 +630,7 @@
 "lost_your_mobile_number" = "電話番号をお忘れですか？";
 "low_24h" = "24H LOW";
 "make_group_admin" = "管理者権限を付与";
+"malicious_instruction_set_authority" = "This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.";
 "manage" = "管理";
 "manage_your_apps" = "Manage your bots";
 "manage_your_circles" = "Manage your circles";
@@ -1130,6 +1134,7 @@
 "today" = "今日";
 "token" = "Token";
 "token_amount" = "Token Amount";
+"top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";
 "total_supply" = "Total Supply";
@@ -1258,6 +1263,7 @@
 "voice_call_cancelled" = "グループ通話がキャンセルされました";
 "voice_call_has_been_declined" = "権限不足です";
 "vol_24h" = "24H VOL(%@)";
+"volume_24h" = "24h Volume";
 "waiting" = "待機中";
 "waiting_for_other_device" = "Waiting for Other Device...";
 "waiting_for_other_device_login" = "Log in to your current account on the new device and select the option to restore from another phone.";
@@ -1279,6 +1285,8 @@
 "wallet_withdrawal_changed" = "出金手数料が%1$@から%2$@へ変更されました。このまま出金を行いますか？";
 "wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "あなたは%1$@に同額の出金を%2$@へ送っています。再度%3$@を出金しますか？";
+"watchlist" = "Watchlist";
+"watchlist_empty" = "Your watchlist is empty";
 "web_cannot_reached_desc" = "%@ 接続に時間がかかり過ぎています、ネットワーク設定を確認してページをリロードしてください。";
 "web_cannot_reached_title" = "アクセスできません";
 "web_suspicious_link_tips" = "リンクは対応するリソースパターンにありません。";
