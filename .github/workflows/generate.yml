@@ -2,7 +2,7 @@ name: Generate platform strings
 
 on:
   pull_request_target:
-    branches: 
+    branches:
       - master
     types:
       - closed
@@ -11,8 +11,8 @@ on:
       - master
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
+  generate:
+    if: github.event_name == 'pull_request_target' && github.event.pull_request.merged == true || github.event_name == 'push'
     runs-on: ubuntu-latest
 
     steps:
