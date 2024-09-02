@@ -770,6 +770,7 @@
 	<string name="Mark_as_read">標記為已讀</string>
 	<string name="Market">行情</string>
 	<string name="Market_Cap">市值</string>
+	<string name="Markets">行情</string>
 	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
 	<string name="Media">媒體</string>

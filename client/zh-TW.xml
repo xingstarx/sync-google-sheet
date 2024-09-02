@@ -1993,4 +1993,5 @@
   <string name="change_percent_period_day" platform="android,iOS">%1$d天 %%</string>
   <string name="watchlist_empty" platform="android,iOS">您的自選列表為空</string>
   <string name="Watchlist" platform="android,iOS">自選列表</string>
+  <string name="Markets" platform="android,iOS">行情</string>
 </resources>
