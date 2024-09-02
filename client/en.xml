@@ -2021,4 +2021,5 @@
   <string name="change_percent_period_day" platform="android,iOS">%1$dD %%</string>
   <string name="watchlist_empty" platform="android,iOS">Your watchlist is empty</string>
   <string name="Watchlist" platform="android,iOS">Watchlist</string>
+  <string name="Markets" platform="android,iOS">Markets</string>
 </resources>
