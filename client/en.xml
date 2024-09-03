@@ -2022,4 +2022,6 @@
   <string name="watchlist_empty" platform="android,iOS">Your watchlist is empty</string>
   <string name="Watchlist" platform="android,iOS">Watchlist</string>
   <string name="Markets" platform="android,iOS">Markets</string>
+  <string name="Choose_Token" platform="android,iOS">Choose %1$s Network</string>
+  <string name="choose_token_desc" platform="android,iOS">" %1$s is issued on multiple networks"</string>
 </resources>
