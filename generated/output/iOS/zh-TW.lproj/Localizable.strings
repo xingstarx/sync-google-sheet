@@ -216,6 +216,8 @@
 "choose_network" = "選擇充值網路";
 "choose_network_tip" = "請選擇 Mixin 支援的網路進行充值，否則您的充值將不會到賬。";
 "choose_photo" = "選擇照片";
+"choose_token" = "選擇 %@ 網路";
+"choose_token_desc" = "%@ 在多個網路上釋出";
 "circle_info" = "新建一個圈子可以過濾會話";
 "circle_no_conversation_hint" = "您可以新增聯絡人或者群組到當前圈子";
 "circle_subtitle" = "%d 會話";
