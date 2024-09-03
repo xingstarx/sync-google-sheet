@@ -1500,7 +1500,7 @@
 	<string name="wallet_withdrawal_changed">手續費已從 %1$s 變更為 %2$s，要更新手續費並繼續提現嗎？</string>
 	<string name="wallet_withdrawal_not_in_addresses">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
 	<string name="wallet_withdrawal_recent_tip">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
-	<string name="Watchlist">自選列表</string>
+	<string name="Watchlist">自選</string>
 	<string name="watchlist_empty">您的自選列表為空</string>
 	<string name="web_cannot_reached_desc">無法訪問 %1$s，請檢查你的網絡並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。</string>
 	<string name="web_cannot_reached_title">無法訪問此網頁</string>

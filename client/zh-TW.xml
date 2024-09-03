@@ -1992,7 +1992,7 @@
   <string name="change_percent_period_hour" platform="android,iOS">%1$d小時 %%</string>
   <string name="change_percent_period_day" platform="android,iOS">%1$d天 %%</string>
   <string name="watchlist_empty" platform="android,iOS">您的自選列表為空</string>
-  <string name="Watchlist" platform="android,iOS">自選列表</string>
+  <string name="Watchlist" platform="android,iOS">自選</string>
   <string name="Markets" platform="android,iOS">行情</string>
   <string name="Choose_Token" platform="android,iOS">選擇 %1$s 網路</string>
   <string name="choose_token_desc" platform="android,iOS">%1$s 在多個網路上釋出</string>
