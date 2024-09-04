@@ -642,6 +642,7 @@
 	<string name="From_Mixin_Wallet">從 Mixin 錢包轉入</string>
 	<string name="Generating_keys">正在建立金鑰…</string>
 	<string name="Get_a_new_wallet">建立錢包</string>
+	<string name="Global_Market_Cap">全球總市值</string>
 	<string name="Go">導航</string>
 	<string name="Go_settings">去設定</string>
 	<string name="Got_it">知道了</string>

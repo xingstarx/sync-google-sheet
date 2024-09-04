@@ -528,6 +528,7 @@
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
 "get_a_new_wallet" = "Get a new wallet";
+"global_market_cap" = "Market Cap";
 "got_it" = "OK";
 "group_call" = "Panggilan Grup";
 "group_call_end_with_duration" = "Panggilan grup berakhir, durasi: %@";
