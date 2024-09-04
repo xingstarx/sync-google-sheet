@@ -61,7 +61,6 @@
 	<string name="address_edited_description">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
 	<string name="address_editing_description">The request to edit the address is currently under verification by the Mixin server. Please wait a moment.</string>
 	<string name="address_validity_reminder">The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid.</string>
-	<string name="address_warning">Contract address is NOT a deposit address</string>
 	<string name="Admin">Admin</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>

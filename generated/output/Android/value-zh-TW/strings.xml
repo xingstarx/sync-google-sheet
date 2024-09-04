@@ -61,7 +61,6 @@
 	<string name="address_edited_description">您修改地址的請求已透過 Mixin 伺服器確認，您可以立刻使用該地址進行提現。</string>
 	<string name="address_editing_description">正在將修改地址的請求傳送到 Mixin 伺服器驗證，請稍候。</string>
 	<string name="address_validity_reminder">您已經超過 %3$s 天沒有使用地址 %1$s（%2$s），請注意檢查地址是否仍然有效。</string>
-	<string name="address_warning">合約地址不是充值地址</string>
 	<string name="Admin">管理員</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
