@@ -1291,6 +1291,7 @@
 "wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "Anda telah menarik balik %3$@ ke %2$@ %1$@, Adakah anda mahu menariknya semula?";
 "watchlist" = "Watchlist";
+"watchlist_add_desc" = "%@ is now on your watchlist";
 "watchlist_empty" = "Your watchlist is empty";
 "web_cannot_reached_desc" = "%@ mengambil masa terlalu lama untuk beri maklum balas. Sila periksa rangkaian anda dan cuba tukar 4G, Wi-Fi atau VPN untuk memuat semula halaman.";
 "web_cannot_reached_title" = "Laman web ini tidak dapat dicapai";

@@ -1290,6 +1290,7 @@
 "wallet_withdrawal_not_in_addresses" = "%@ This address is not in the white list of withdrawal addresses, please check the address carefully.";
 "wallet_withdrawal_recent_tip" = "Вы уже выводили %3$@ на %2$@ %1$@ назад. Хотите вывести еще раз?";
 "watchlist" = "Watchlist";
+"watchlist_add_desc" = "%@ is now on your watchlist";
 "watchlist_empty" = "Your watchlist is empty";
 "web_cannot_reached_desc" = "%@ заняло слишком много времени для ответа. Пожалуйста, проверьте свою сеть и попробуйте переключить 4G, Wi-Fi или VPN, чтобы перезагрузить страницу.";
 "web_cannot_reached_title" = "Эта веб-страница недоступна";

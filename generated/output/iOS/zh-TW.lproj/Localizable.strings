@@ -1290,6 +1290,7 @@
 "wallet_withdrawal_not_in_addresses" = "%@ 該地址不在提現地址白名單，請仔細核對地址。";
 "wallet_withdrawal_recent_tip" = "你已經在 %1$@ 前提現 %3$@ 到 %2$@，確認還要再提一次嗎？";
 "watchlist" = "自選";
+"watchlist_add_desc" = "%@ 已經加入自選";
 "watchlist_empty" = "您的自選列表為空";
 "web_cannot_reached_desc" = "無法訪問 %@，請檢查你的網路並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。";
 "web_cannot_reached_title" = "無法訪問此網頁";
