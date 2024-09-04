@@ -2025,4 +2025,5 @@
   <string name="Choose_Token" platform="android,iOS">Choose %1$s Network</string>
   <string name="choose_token_desc" platform="android,iOS">%1$s is issued on multiple networks</string>
   <string name="Global_Market_Cap" platform="android,iOS">Market Cap</string>
+  <string name="watchlist_add_desc" platform="android,iOS">%1$s is now on your watchlist</string>
 </resources>
