@@ -1597,9 +1597,9 @@
   <string name="Unrecognized_codes" platform="iOS">Unrecognized codes</string>
   <string name="Update" platform="android, iOS">Update</string>
   <string name="update_downloaded" platform="android">An update has just been downloaded.</string>
-  <string name="Update_Mixin" platform="android, iOS">Update Mixin</string>
-  <string name="update_mixin_description" platform="android">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
-  <string name="Upgrade" platform="android,iOS">Upgrade</string>
+  <string name="Update_Mixin" platform="android, iOS, Desktop">Update Mixin</string>
+  <string name="update_mixin_description" platform="android, Desktop">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
+  <string name="Upgrade" platform="android,iOS, Desktop">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
