@@ -1997,4 +1997,5 @@
   <string name="choose_token_desc" platform="android,iOS">%1$s 在多个网络上发布</string>
   <string name="Global_Market_Cap" platform="android,iOS">全球总市值</string>
   <string name="watchlist_add_desc" platform="android,iOS">%1$s 已经加入自选</string>
+  <string name="install_messenger_desc" platform="android,iOS">访问 mixin.one/mm 或扫描二维码安装</string>
 </resources>
