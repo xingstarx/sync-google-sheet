@@ -397,6 +397,7 @@
 	<string name="Creating_wallet_terminated_unexpectedly">Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation</string>
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
+	<string name="current_version">Version: %1$s</string>
 	<string name="Custom_Time">Custom Time</string>
 	<string name="dapp_description">This dApp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
 	<string name="Data_and_Storage_Usage">Data and Storage Usage</string>

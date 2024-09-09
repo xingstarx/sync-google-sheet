@@ -392,6 +392,7 @@
 	<string name="Creating_wallet_terminated_unexpectedly">創建錢包意外中止，點繼續完成錢包創建</string>
 	<string name="Crop">裁剪</string>
 	<string name="Currency">貨幣</string>
+	<string name="current_version">當前版本：%1$s</string>
 	<string name="Custom_Time">自定義時間</string>
 	<string name="dapp_description">此 dApp 已經與你的錢包連接，並被授權查看你的錢包餘額及活動，也可向你發出轉賬請求。</string>
 	<string name="Data_and_Storage_Usage">數據與存儲空間</string>
