@@ -1998,4 +1998,5 @@
   <string name="Global_Market_Cap" platform="android,iOS">全球总市值</string>
   <string name="watchlist_add_desc" platform="android,iOS">%1$s 已经加入自选</string>
   <string name="install_messenger_desc" platform="android,iOS">访问 mixin.one/mm 或扫描二维码安装</string>
+  <string name="current_version" platform="android,iOS">当前版本：%1$s</string>
 </resources>

@@ -2026,4 +2026,5 @@
   <string name="Global_Market_Cap" platform="android,iOS">Market Cap</string>
   <string name="watchlist_add_desc" platform="android,iOS">%1$s is now on your watchlist</string>
   <string name="install_messenger_desc" platform="android,iOS">Visit mixin.one/mm or scan the QR code to install</string>
+  <string name="current_version" platform="android,iOS">Version: %1$s</string>
 </resources>
