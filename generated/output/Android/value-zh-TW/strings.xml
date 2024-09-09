@@ -763,6 +763,7 @@
 	<string name="low_24h">24 小時最低</string>
 	<string name="Make_group_admin">設定為群組管理員</string>
 	<string name="malicious_instruction_set_authority">此交易將更改 SPL 代幣的所有者。這將允許新的所有者在未經您允許的情況下轉讓代幣。</string>
+	<string name="malicious_instruction_token_set_authority">此交易將更改 SPL 代幣的所有者。這將允許新的所有者在未經您允許的情況下轉讓代幣。</string>
 	<string name="manage_all_your_bots">管理你所有的機器人</string>
 	<string name="manage_all_your_circles">管理你所有的圈子</string>
 	<string name="Manage_Bots">管理機器人</string>
