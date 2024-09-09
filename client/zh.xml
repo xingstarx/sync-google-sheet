@@ -1998,4 +1998,5 @@
   <string name="Global_Market_Cap" platform="android,iOS">全球总市值</string>
   <string name="watchlist_add_desc" platform="android,iOS">%1$s 已经加入自选</string>
   <string name="install_messenger_desc" platform="android,iOS">访问 mixin.one/mm 或扫描二维码安装</string>
+  <string name="malicious_instruction_token_set_authority" platform="android,iOS">此交易将更改 SPL 代币的所有者。这将允许新的所有者在未经您允许的情况下转让代币。</string>
 </resources>
