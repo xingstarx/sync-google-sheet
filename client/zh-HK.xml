@@ -1984,7 +1984,7 @@
   <string name="New_Update_Available_desc" platform="android,iOS">我們定期更新應用程序，以便為您提供更好的服務</string>
   <string name="Update_Now" platform="android,iOS">立即更新</string>
   <string name="Note" platform="android,iOS">備註</string>
-  <string name="malicious_instruction_set_authority" platform="android,iOS">此交易將更改 SPL 代幣的所有者。這將允許新的所有者在未經您允許的情況下轉讓代幣。</string>
+  <string name="malicious_instruction_set_authority" platform="android,iOS">此交易將更改 SPL 代幣的所有者。這將允許新的所有者在未經您允許的情況下轉移代幣。</string>
   <string name="volume_24h" platform="android,iOS">24 小時交易量</string>
   <string name="Dominance" platform="android,iOS">市佔率</string>
   <string name="top_count" platform="android,iOS">前 %1$d</string>
