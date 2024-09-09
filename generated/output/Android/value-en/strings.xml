@@ -780,7 +780,6 @@
 	<string name="low_24h">24H LOW</string>
 	<string name="Make_group_admin">Make group admin</string>
 	<string name="malicious_instruction_set_authority">This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.</string>
-	<string name="malicious_instruction_token_set_authority">This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.</string>
 	<string name="manage_all_your_bots">mange all your bots</string>
 	<string name="manage_all_your_circles">manage all your circles</string>
 	<string name="Manage_Bots">Manage Bots</string>
