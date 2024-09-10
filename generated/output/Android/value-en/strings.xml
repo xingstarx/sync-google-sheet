@@ -659,6 +659,7 @@
 	<string name="Google_Pay_error">Google pay is not available</string>
 	<string name="Got_it">Got it</string>
 	<string name="got_it_count_down">Got it (%1$d)</string>
+	<string name="green_up_red_down">Green Up / Red Down</string>
 	<string name="group_already_in">You are already in the group.</string>
 	<string name="Group_Call">Group Call</string>
 	<string name="group_call_end_with_duration">Group call ended, duration: %1$s</string>
@@ -1011,6 +1012,7 @@
 	<string name="qr_code_camera_code">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
 	<string name="QR_Code_not_found">QR Code not found</string>
 	<string name="quote">quote</string>
+	<string name="quote_color">Quote Color</string>
 	<string name="Random_keyboard">Random keyboard</string>
 	<string name="Raw">Raw</string>
 	<string name="Raw_Transfer">Raw Transfer</string>
@@ -1041,6 +1043,7 @@
 	<string name="recent_chats">CHATS</string>
 	<string name="Recent_searches">Recent searches</string>
 	<string name="Recipients">Recipients</string>
+	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Refresh">Refresh</string>
 	<string name="Refuse">Refuse</string>
 	<string name="Registering">Registering…</string>

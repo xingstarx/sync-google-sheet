@@ -1999,4 +1999,7 @@
   <string name="watchlist_add_desc" platform="android,iOS">%1$s 已經加入自選</string>
   <string name="install_messenger_desc" platform="android,iOS">訪問 mixin.one/mm 或掃描二維碼安裝</string>
   <string name="current_version" platform="android,iOS">當前版本：%1$s</string>
+  <string name="quote_color" platform="android,iOS">漲跌顏色</string>
+  <string name="green_up_red_down" platform="android,iOS">綠漲紅跌</string>
+  <string name="red_up_green_down" platform="android,iOS">紅漲綠跌</string>
 </resources>

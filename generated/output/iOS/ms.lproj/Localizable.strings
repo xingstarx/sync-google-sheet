@@ -531,6 +531,7 @@
 "get_a_new_wallet" = "Get a new wallet";
 "global_market_cap" = "Market Cap";
 "got_it" = "Faham";
+"green_up_red_down" = "Green Up / Red Down";
 "group_call" = "Panggilan Berkumpulan";
 "group_call_end_with_duration" = "Panggilan kumpulan berakhir, tempoh: %@";
 "group_call_has_been_declined" = "Group call has been declined";
@@ -843,6 +844,7 @@
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
 "qr_code" = "kod QR";
 "qr_code_not_found" = "Kod Qr tidak dijumpai";
+"quote_color" = "Quote Color";
 "raw" = "Mentah";
 "read_assets" = "Baca Aset";
 "read_bots" = "Aplikasi baca";
@@ -870,6 +872,7 @@
 "recent_chats" = "SEMBANG";
 "recent_searches" = "Carian terkini";
 "recipients" = "Recipients";
+"red_up_green_down" = "Red Up / Green Down";
 "refresh" = "Segarkan";
 "reject" = "Reject";
 "reject_transaction" = "Reject Transaction";
