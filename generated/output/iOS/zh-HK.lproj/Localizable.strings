@@ -849,6 +849,7 @@
 "price" = "價格";
 "price_alert_notification_permission" = "價格預警需要開啓通知權限";
 "price_data_unavailable" = "價格數據不可用";
+"price_in_currency" = "價格（%@）";
 "privacy" = "隱私";
 "privacy_policy" = "隱私政策";
 "private_key_export_success_description" = "請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。";

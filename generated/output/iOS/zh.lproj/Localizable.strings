@@ -849,6 +849,7 @@
 "price" = "价格";
 "price_alert_notification_permission" = "价格预警需要开启通知权限";
 "price_data_unavailable" = "价格数据不可用";
+"price_in_currency" = "价格（%@）";
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
 "private_key_export_success_description" = "请把私钥写到一张纸上并存在保险柜或其他安全的地方。";

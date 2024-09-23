@@ -1014,6 +1014,7 @@
 	<string name="price_alert_notification_permission">Price alerts require notification permission to be enabled.</string>
 	<string name="Price_data_unavailable">Price data unavailable</string>
 	<string name="price_expired">Price Expired</string>
+	<string name="price_in_currency">Price (%1$s)</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
 	<string name="private_key_export_success_description">Please write down the private key on a piece of paper and secure it within a safe or other secure location.</string>

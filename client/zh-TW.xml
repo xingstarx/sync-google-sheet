@@ -2021,4 +2021,5 @@
   <string name="Resume" platform="android,iOS">恢復</string>
   <string name="Edit" platform="android,iOS">編輯</string>
   <string name="price_alert_notification_permission" platform="android,iOS">價格預警需要開啟通知許可權</string>
+  <string name="price_in_currency" platform="android,iOS">價格（%1$s）</string>
 </resources>
