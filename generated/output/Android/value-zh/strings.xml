@@ -26,6 +26,7 @@
 	<string name="Accounts">账户</string>
 	<string name="Add">添加</string>
 	<string name="Add_address">添加地址</string>
+	<string name="Add_Alert">添加价格预警</string>
 	<string name="Add_bot">添加机器人</string>
 	<string name="add_by_pin">通过 PIN 添加</string>
 	<string name="add_card">添加卡片</string>
@@ -65,6 +66,11 @@
 	<string name="After_1_minute">1分钟之后</string>
 	<string name="After_30_minutes">30分钟之后</string>
 	<string name="Agree_and_Continue">同意并继续</string>
+	<string name="Alert">价格预警</string>
+	<string name="Alert_Frequency">预警频率</string>
+	<string name="alert_frequency_daily">每日</string>
+	<string name="alert_frequency_every">每次</string>
+	<string name="alert_frequency_once">一次</string>
 	<string name="alert_key_contact_audio_call_message">发起了语音通话</string>
 	<string name="alert_key_contact_audio_message">发送一条语音</string>
 	<string name="alert_key_contact_collectible_message">发送一个藏品</string>
@@ -91,6 +97,12 @@
 	<string name="alert_key_group_text_message">%1$s发送一条消息</string>
 	<string name="alert_key_group_transcript_message">%1$s分享一个聊天记录</string>
 	<string name="alert_key_group_video_message">%1$s发送一个视频</string>
+	<string name="Alert_Type">预警类型</string>
+	<string name="alert_type_percentage_decreased">24小时跌幅</string>
+	<string name="alert_type_percentage_increased">24小时涨幅</string>
+	<string name="alert_type_price_decreased">价格跌倒</string>
+	<string name="alert_type_price_increased">价格涨到</string>
+	<string name="alert_type_price_reached">价格达到</string>
 	<string name="All">全部</string>
 	<string name="All_chats">所有聊天</string>
 	<string name="All_Conversations">所有会话</string>
@@ -392,6 +404,7 @@
 	<string name="Creating_wallet_terminated_unexpectedly">创建钱包意外中止，点继续完成钱包创建</string>
 	<string name="Crop">裁剪</string>
 	<string name="Currency">货币</string>
+	<string name="Current_price">当前价格：%1$s</string>
 	<string name="current_version">当前版本：%1$s</string>
 	<string name="Custom_Time">自定义时间</string>
 	<string name="dapp_description">此 dApp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
@@ -479,7 +492,9 @@
 	<string name="Duplicate_Withdraw_Confirmation">重复提现确认</string>
 	<string name="duplication_reminder">您已经在%2$s前给该收款人转账了 %1$s。</string>
 	<string name="Duration_is_too_short">时间太短</string>
+	<string name="Edit">编辑</string>
 	<string name="edit_address">修改 %1$s 地址</string>
+	<string name="Edit_Alert">编辑价格预警</string>
 	<string name="Edit_Biography">修改简介</string>
 	<string name="edit_by_pin">通过 PIN 修改</string>
 	<string name="Edit_Circle_Name">编辑名称</string>
@@ -851,6 +866,7 @@
 	<string name="New_Update_Available_desc">我们定期更新应用程序，以便为您提供更好的服务</string>
 	<string name="new_wallet_hint">创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。</string>
 	<string name="Next">下一步</string>
+	<string name="NO_ALERTS">没有价格预警</string>
 	<string name="NO_AUDIO">没有音频</string>
 	<string name="NO_AUTHORIZATIONS">没有授权任何机器人</string>
 	<string name="No_Available_Assets">没有可用资产</string>
@@ -976,6 +992,7 @@
 	<string name="preview_unavailable">预览不可用</string>
 	<string name="preview_unavailable_description">无法预览资产变化。请确保你信任此 dApp。</string>
 	<string name="Price">价格</string>
+	<string name="price_alert_notification_permission">价格预警需要开启通知权限</string>
 	<string name="Price_data_unavailable">价格数据不可用</string>
 	<string name="price_expired">报价已过期</string>
 	<string name="Privacy">隐私</string>
@@ -1075,6 +1092,7 @@
 	<string name="restore_path">备份路径：%1$s</string>
 	<string name="Restoring">正在恢复…</string>
 	<string name="Restoring_Chat_Progress">恢复聊天记录（%1$s%%）</string>
+	<string name="Resume">恢复</string>
 	<string name="Retry">重试</string>
 	<string name="Retry_upload_failed">重新上传失败。</string>
 	<string name="return_to_merchant_description">来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。</string>
@@ -1446,7 +1464,7 @@
 	<string name="user_deleted_hint">该用户已经删除了账号。</string>
 	<string name="User_not_found">找不到这个用户</string>
 	<string name="utxo_count_exceeded">该交易使用的 UTXO 数量过多，请尝试首先归集 UTXO 或者分批转账。</string>
-	<string name="Value">价值</string>
+	<string name="Value">数值</string>
 	<string name="value_descending">金额降序</string>
 	<string name="value_now">价值 %1$s</string>
 	<string name="value_then">当时价值 %1$s</string>

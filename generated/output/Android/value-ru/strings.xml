@@ -339,6 +339,7 @@
 	<string name="Duplicate_Transfer_Confirmation">Дубликат подтверждения перевода</string>
 	<string name="Duplicate_Withdraw_Confirmation">Дубликат подтверждения вывода средств</string>
 	<string name="Duration_is_too_short">Продолжительность слишком мала</string>
+	<string name="Edit">Редактировать</string>
 	<string name="edit_address">Изменить адрес %1$s</string>
 	<string name="Edit_Biography">Редактировать биографию</string>
 	<string name="Edit_Circle_Name">Изменить название круга</string>

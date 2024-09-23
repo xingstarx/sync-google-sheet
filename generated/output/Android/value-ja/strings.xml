@@ -333,6 +333,7 @@
 	<string name="Duplicate_Transfer_Confirmation">二重送金の確認</string>
 	<string name="Duplicate_Withdraw_Confirmation">二重出金の確認</string>
 	<string name="Duration_is_too_short">期間が短すぎます</string>
+	<string name="Edit">編集</string>
 	<string name="edit_address">%1$sアドレスを修正</string>
 	<string name="Edit_Biography">自己紹介文を変更</string>
 	<string name="Edit_Circle_Name">グループリスト名を編集</string>

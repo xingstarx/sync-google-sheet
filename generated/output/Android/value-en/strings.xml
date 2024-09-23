@@ -26,6 +26,7 @@
 	<string name="Accounts">Accounts</string>
 	<string name="Add">Add</string>
 	<string name="Add_address">Add address</string>
+	<string name="Add_Alert">Add Alert</string>
 	<string name="Add_bot">Add Bot</string>
 	<string name="add_by_pin">Add by PIN</string>
 	<string name="add_card">Add Card</string>
@@ -65,6 +66,11 @@
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
 	<string name="Agree_and_Continue">Agree &amp; Continue</string>
+	<string name="Alert">Alert</string>
+	<string name="Alert_Frequency">Frequency</string>
+	<string name="alert_frequency_daily">Daily</string>
+	<string name="alert_frequency_every">Every</string>
+	<string name="alert_frequency_once">Once</string>
 	<string name="alert_key_contact_audio_call_message">invites you to a voice call</string>
 	<string name="alert_key_contact_audio_message">sent you an audio</string>
 	<string name="alert_key_contact_collectible_message">sent you a collectible</string>
@@ -91,6 +97,12 @@
 	<string name="alert_key_group_text_message">%1$s sent a message</string>
 	<string name="alert_key_group_transcript_message">%1$s sent a transcript</string>
 	<string name="alert_key_group_video_message">%1$s sent a video</string>
+	<string name="Alert_Type">Alert Type</string>
+	<string name="alert_type_percentage_decreased">Percentage Decreased</string>
+	<string name="alert_type_percentage_increased">Percentage Increased</string>
+	<string name="alert_type_price_decreased">Price Decreased</string>
+	<string name="alert_type_price_increased">Price Increased</string>
+	<string name="alert_type_price_reached">Price Reached</string>
 	<string name="All">All</string>
 	<string name="All_chats">All chats</string>
 	<string name="All_Conversations">All Conversations</string>
@@ -397,6 +409,7 @@
 	<string name="Creating_wallet_terminated_unexpectedly">Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation</string>
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
+	<string name="Current_price">Current price: %1$s</string>
 	<string name="current_version">Version: %1$s</string>
 	<string name="Custom_Time">Custom Time</string>
 	<string name="dapp_description">This dApp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
@@ -488,7 +501,9 @@
 	<string name="Duplicate_Withdraw_Confirmation">Duplicate Withdraw Confirmation</string>
 	<string name="duplication_reminder">You transferred %1$s to the recipient %2$s ago.</string>
 	<string name="Duration_is_too_short">Duration is too short</string>
+	<string name="Edit">Edit</string>
 	<string name="edit_address">Edit %1$s Address</string>
+	<string name="Edit_Alert">Edit Alert</string>
 	<string name="Edit_Biography">Edit Biography</string>
 	<string name="edit_by_pin">Edit by PIN</string>
 	<string name="Edit_Circle_Name">Edit Circle Name</string>
@@ -514,6 +529,7 @@
 	<string name="Enter_new_anonymous_number">Enter your new anonymous number</string>
 	<string name="Enter_new_phone_number">Enter your new phone number</string>
 	<string name="Enter_PIN_to_delete_account">Enter your PIN to delete your account</string>
+	<string name="Enter_price">Enter price</string>
 	<string name="Enter_your_anonymous_number">Enter your anonymous number</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">Enter your emergency contact Mixin ID</string>
 	<string name="Enter_your_new_PIN">Enter your new PIN</string>
@@ -869,6 +885,7 @@
 	<string name="New_Update_Available_desc">We update the app regularly so we can make it better for you</string>
 	<string name="new_wallet_hint">Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.</string>
 	<string name="Next">Next</string>
+	<string name="NO_ALERTS">NO ALERTS</string>
 	<string name="NO_AUDIO">NO AUDIO</string>
 	<string name="NO_AUTHORIZATIONS">NO AUTHORIZATIONS</string>
 	<string name="No_Available_Assets">No Available Assets</string>
@@ -994,6 +1011,7 @@
 	<string name="preview_unavailable">Preview unavailable</string>
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
 	<string name="Price">Price</string>
+	<string name="price_alert_notification_permission">Price alerts require notification permission to be enabled.</string>
 	<string name="Price_data_unavailable">Price data unavailable</string>
 	<string name="price_expired">Price Expired</string>
 	<string name="Privacy">Privacy</string>
@@ -1094,6 +1112,7 @@
 	<string name="restore_path">Path: %1$s</string>
 	<string name="Restoring">Restoring…</string>
 	<string name="Restoring_Chat_Progress">Restoring Chat (%1$s%%)</string>
+	<string name="Resume">Resume</string>
 	<string name="Retry">Retry</string>
 	<string name="Retry_upload_failed">Retry upload failed.</string>
 	<string name="return_to_merchant_description">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>

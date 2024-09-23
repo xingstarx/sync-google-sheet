@@ -359,6 +359,7 @@
 	<string name="Duplicate_Transfer_Confirmation">Confirmación de transferencia duplicada</string>
 	<string name="Duplicate_Withdraw_Confirmation">Confirmación de retiro duplicado</string>
 	<string name="Duration_is_too_short">La duración es demasiado corta</string>
+	<string name="Edit">Editar</string>
 	<string name="edit_address">Editar dirección de %1$s</string>
 	<string name="Edit_Biography">Editar biografía</string>
 	<string name="Edit_Circle_Name">Editar nombre del círculo</string>

@@ -8,6 +8,7 @@
 "acknowledgements" = "Acknowledgements";
 "add" = "Add";
 "add_address" = "Tambah alamat";
+"add_alert" = "Add Alert";
 "add_bot" = "Tambah Bot";
 "add_by_id_or_phone_number" = "Add by Mixin ID or Phone number";
 "add_by_phone_contacts" = "Add by Phone Contacts";
@@ -39,6 +40,11 @@
 "admin" = "pentadbir";
 "agree_hint" = "By proceeding, you agree to the %@ and %@.";
 "albums" = "Albums";
+"alert" = "Alert";
+"alert_frequency" = "Frequency";
+"alert_frequency_daily" = "Daily";
+"alert_frequency_every" = "Every";
+"alert_frequency_once" = "Once";
 "alert_key_contact_audio_call_cancelled_message" = "voice call cancelled";
 "alert_key_contact_audio_call_message" = "tanya anda panggilan audio";
 "alert_key_contact_audio_message" = "hantar audio";
@@ -68,6 +74,12 @@
 "alert_key_group_text_message" = "%@ hantar mesej";
 "alert_key_group_transcript_message" = "%@ sent a transcript";
 "alert_key_group_video_message" = "%@ hantar video";
+"alert_type" = "Alert Type";
+"alert_type_percentage_decreased" = "Percentage Decreased";
+"alert_type_percentage_increased" = "Percentage Increased";
+"alert_type_price_decreased" = "Price Decreased";
+"alert_type_price_increased" = "Price Increased";
+"alert_type_price_reached" = "Price Reached";
 "all" = "Semua";
 "all_conversations" = "Semua Perbualan";
 "all_dates" = "All Dates";
@@ -328,6 +340,7 @@
 "currency_code" = "Code";
 "current_language" = "English";
 "current_location" = "Current Location";
+"current_price" = "Current price: %@";
 "current_selected" = "Current Selected";
 "current_version" = "Version: %@";
 "custom_time" = "Custom Time";
@@ -410,6 +423,7 @@
 "duplication_reminder" = "You transferred %1$@ to the recipient %2$@ ago.";
 "edit" = "Edit";
 "edit_address" = "Edit %@ Address";
+"edit_alert" = "Edit Alert";
 "edit_biography" = "Edit Biografi";
 "edit_circle_name" = "Edit Nama Lingkaran";
 "edit_conversations" = "Edit Perbualan";
@@ -431,6 +445,7 @@
 "enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Masukkan nombor telefon bimbit baharu anda";
 "enter_pin_to_delete_account" = "Enter your PIN to delete your account";
+"enter_price" = "Enter price";
 "enter_your_anonymous_number" = "Enter your anonymous number";
 "enter_your_emergency_contact_mixin_id" = "Masukkan ID Mixin kenalan kecemasan anda";
 "enter_your_new_pin" = "Enter your new PIN";
@@ -711,6 +726,7 @@
 "new_update_available_desc" = "We update the app regularly so we can make it better for you";
 "new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "next" = "Seterusnya";
+"no_alerts" = "NO ALERTS";
 "no_audio" = "TIADA AUDIO";
 "no_authorizations" = "Tiada aplikasi autentik";
 "no_blocked_users" = "Tiada pengguna yang disekat";
@@ -772,6 +788,7 @@
 "owner" = "pemilik";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
+"pause" = "Jeda sebentar";
 "pay" = "Pay";
 "pay_paid" = "Pautan pembayaran ini telah dibayar oleh seseorang, anda tidak boleh membuat pembayaran pendua.";
 "pay_with_biometry_type" = "Pay with %@";
@@ -831,6 +848,7 @@
 "preparing" = "Preparing...";
 "preparing_progress" = "Preparing...(%@)";
 "price" = "Price";
+"price_alert_notification_permission" = "Price alerts require notification permission to be enabled.";
 "price_data_unavailable" = "Price data unavailable";
 "privacy" = "Privasi";
 "privacy_policy" = "Dasar Privasi";
@@ -921,6 +939,7 @@
 "restoring" = "Restoring...";
 "restoring_chat_progress" = "Restoring Chat (%@%%)";
 "restoring_progress" = "Restoring %@";
+"resume" = "Resume";
 "retry" = "CUBA SEMULA";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";

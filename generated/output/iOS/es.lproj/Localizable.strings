@@ -8,6 +8,7 @@
 "acknowledgements" = "Agradecimientos";
 "add" = "Añadir";
 "add_address" = "Añadir dirección";
+"add_alert" = "Add Alert";
 "add_bot" = "Añadir Bot";
 "add_by_id_or_phone_number" = "Añadir por Mixin ID o número de teléfono";
 "add_by_phone_contacts" = "Añadir por contactos telefónicos";
@@ -39,6 +40,11 @@
 "admin" = "Administrador";
 "agree_hint" = "Al continuar, aceptas el %@ y el %@.";
 "albums" = "Álbumes";
+"alert" = "Alert";
+"alert_frequency" = "Frequency";
+"alert_frequency_daily" = "Daily";
+"alert_frequency_every" = "Every";
+"alert_frequency_once" = "Once";
 "alert_key_contact_audio_call_cancelled_message" = "llamada de voz cancelada";
 "alert_key_contact_audio_call_message" = "te invita a una llamada de voz";
 "alert_key_contact_audio_message" = "te ha enviado un audio";
@@ -68,6 +74,12 @@
 "alert_key_group_text_message" = "%@ ha enviado un mensaje";
 "alert_key_group_transcript_message" = "%@ ha enviado una transcripción";
 "alert_key_group_video_message" = "%@ ha enviado un vídeo";
+"alert_type" = "Alert Type";
+"alert_type_percentage_decreased" = "Percentage Decreased";
+"alert_type_percentage_increased" = "Percentage Increased";
+"alert_type_price_decreased" = "Price Decreased";
+"alert_type_price_increased" = "Price Increased";
+"alert_type_price_reached" = "Price Reached";
 "all" = "Todo";
 "all_conversations" = "Todas las conversaciones";
 "all_dates" = "All Dates";
@@ -327,6 +339,7 @@
 "currency_code" = "Código";
 "current_language" = "Inglés";
 "current_location" = "Ubicación actual";
+"current_price" = "Current price: %@";
 "current_selected" = "Seleccionado actual";
 "current_version" = "Version: %@";
 "custom_time" = "Hora personalizada";
@@ -409,6 +422,7 @@
 "duplication_reminder" = "You transferred %1$@ to the recipient %2$@ ago.";
 "edit" = "Editar";
 "edit_address" = "Editar dirección de %@";
+"edit_alert" = "Edit Alert";
 "edit_biography" = "Editar biografía";
 "edit_circle_name" = "Editar nombre del círculo";
 "edit_conversations" = "Editar conversaciones";
@@ -430,6 +444,7 @@
 "enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Introduce tu nuevo número de teléfono";
 "enter_pin_to_delete_account" = "Introduce tu PIN para eliminar tu cuenta";
+"enter_price" = "Enter price";
 "enter_your_anonymous_number" = "Enter your anonymous number";
 "enter_your_emergency_contact_mixin_id" = "Introduce tu contacto de emergencia Mixin ID";
 "enter_your_new_pin" = "Introduce tu nuevo PIN";
@@ -710,6 +725,7 @@
 "new_update_available_desc" = "We update the app regularly so we can make it better for you";
 "new_wallet_hint" = "Crea tu primera cartera digital, todos tus activos digitales en una cartera, envía y recibe fácilmente criptomonedas.";
 "next" = "Próximo";
+"no_alerts" = "NO ALERTS";
 "no_audio" = "SIN AUDIO";
 "no_authorizations" = "SIN AUTORIZACIONES";
 "no_blocked_users" = "Sin usuarios bloqueados";
@@ -771,6 +787,7 @@
 "owner" = "Propietario";
 "participants" = "Participantes";
 "participants_count" = "%@ PARTICIPANTES";
+"pause" = "Pausa";
 "pay" = "Pay";
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
 "pay_with_biometry_type" = "Pay with %@";
@@ -830,6 +847,7 @@
 "preparing" = "Preparando...";
 "preparing_progress" = "Preparando...(%@)";
 "price" = "Price";
+"price_alert_notification_permission" = "Price alerts require notification permission to be enabled.";
 "price_data_unavailable" = "Price data unavailable";
 "privacy" = "Privacidad";
 "privacy_policy" = "Política de privacidad";
@@ -920,6 +938,7 @@
 "restoring" = "Restaurando...";
 "restoring_chat_progress" = "Restoring Chat (%@%%)";
 "restoring_progress" = "Restaurando %@";
+"resume" = "Resume";
 "retry" = "Reintentar";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";

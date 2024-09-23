@@ -1049,7 +1049,7 @@
   <string name="participants_count" platform="iOS, Desktop">%@ 位羣組成員</string>
   <string name="passcode_incorrect" platform="Desktop">密碼不正確</string>
   <string name="password" platform="Desktop">密碼</string>
-  <string name="Pause" platform="android">暫停</string>
+  <string name="Pause" platform="android, iOS">暫停</string>
   <string name="pay_paid" platform="android, iOS">此付款鏈接已由某人支付，您無法進行重複付款。</string>
   <string name="Pay_with_Biometrics" platform="android">用生物識別支付</string>
   <string name="Pay_with_biometry_type" platform="iOS">%@支付</string>
@@ -2002,4 +2002,23 @@
   <string name="quote_color" platform="android,iOS">漲跌顏色</string>
   <string name="green_up_red_down" platform="android,iOS">綠漲紅跌</string>
   <string name="red_up_green_down" platform="android,iOS">紅漲綠跌</string>
+  <string name="Alert" platform="android,iOS">價格預警</string>
+  <string name="Edit_Alert" platform="android,iOS">編輯價格預警</string>
+  <string name="NO_ALERTS" platform="android,iOS">沒有價格預警</string>
+  <string name="Add_Alert" platform="android,iOS">添加價格預警</string>
+  <string name="Current_price" platform="android,iOS">當前價格：%1$s</string>
+  <string name="Alert_Type" platform="android,iOS">預警類型</string>
+  <string name="Alert_Frequency" platform="android,iOS">預警頻率</string>
+  <string name="alert_type_price_reached" platform="android,iOS">價格達到</string>
+  <string name="alert_type_price_increased" platform="android,iOS">價格漲到</string>
+  <string name="alert_type_price_decreased" platform="android,iOS">價格跌倒</string>
+  <string name="alert_type_percentage_increased" platform="android,iOS">24小時漲幅</string>
+  <string name="alert_type_percentage_decreased" platform="android,iOS">24小時跌幅</string>
+  <string name="alert_frequency_every" platform="android,iOS">每次</string>
+  <string name="alert_frequency_daily" platform="android,iOS">每日</string>
+  <string name="alert_frequency_once" platform="android,iOS">一次</string>
+  <string name="Value" platform="android,iOS">數值</string>
+  <string name="Resume" platform="android,iOS">恢復</string>
+  <string name="Edit" platform="android,iOS">編輯</string>
+  <string name="price_alert_notification_permission" platform="android,iOS">價格預警需要開啓通知權限</string>
 </resources>
