@@ -42,9 +42,9 @@
 "albums" = "相簿";
 "alert" = "價格預警";
 "alert_frequency" = "預警頻率";
-"alert_frequency_daily" = "每日";
-"alert_frequency_every" = "每次";
-"alert_frequency_once" = "一次";
+"alert_frequency_daily" = "每日一次";
+"alert_frequency_every" = "持續提醒";
+"alert_frequency_once" = "僅一次";
 "alert_key_contact_audio_call_cancelled_message" = "對方已取消語音通話";
 "alert_key_contact_audio_call_message" = "發起了語音通話";
 "alert_key_contact_audio_message" = "傳送一條語音";

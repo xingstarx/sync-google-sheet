@@ -42,9 +42,9 @@
 "albums" = "Álbumes";
 "alert" = "Alert";
 "alert_frequency" = "Frequency";
-"alert_frequency_daily" = "Daily";
-"alert_frequency_every" = "Every";
-"alert_frequency_once" = "Once";
+"alert_frequency_daily" = "Once a day";
+"alert_frequency_every" = "Continuously";
+"alert_frequency_once" = "Only once";
 "alert_key_contact_audio_call_cancelled_message" = "llamada de voz cancelada";
 "alert_key_contact_audio_call_message" = "te invita a una llamada de voz";
 "alert_key_contact_audio_message" = "te ha enviado un audio";

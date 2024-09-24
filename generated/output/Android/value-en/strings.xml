@@ -68,9 +68,9 @@
 	<string name="Agree_and_Continue">Agree &amp; Continue</string>
 	<string name="Alert">Alert</string>
 	<string name="Alert_Frequency">Frequency</string>
-	<string name="alert_frequency_daily">Daily</string>
-	<string name="alert_frequency_every">Every</string>
-	<string name="alert_frequency_once">Once</string>
+	<string name="alert_frequency_daily">Once a day</string>
+	<string name="alert_frequency_every">Continuously</string>
+	<string name="alert_frequency_once">Only once</string>
 	<string name="alert_key_contact_audio_call_message">invites you to a voice call</string>
 	<string name="alert_key_contact_audio_message">sent you an audio</string>
 	<string name="alert_key_contact_collectible_message">sent you a collectible</string>

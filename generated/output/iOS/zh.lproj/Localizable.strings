@@ -42,9 +42,9 @@
 "albums" = "相册";
 "alert" = "价格预警";
 "alert_frequency" = "预警频率";
-"alert_frequency_daily" = "每日";
-"alert_frequency_every" = "每次";
-"alert_frequency_once" = "一次";
+"alert_frequency_daily" = "每日一次";
+"alert_frequency_every" = "持续提醒";
+"alert_frequency_once" = "仅一次";
 "alert_key_contact_audio_call_cancelled_message" = "对方已取消语音通话";
 "alert_key_contact_audio_call_message" = "发起了语音通话";
 "alert_key_contact_audio_message" = "发送一条语音";

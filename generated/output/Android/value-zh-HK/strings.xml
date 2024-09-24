@@ -68,9 +68,9 @@
 	<string name="Agree_and_Continue">同意並繼續</string>
 	<string name="Alert">價格預警</string>
 	<string name="Alert_Frequency">預警頻率</string>
-	<string name="alert_frequency_daily">每日</string>
-	<string name="alert_frequency_every">每次</string>
-	<string name="alert_frequency_once">一次</string>
+	<string name="alert_frequency_daily">每日一次</string>
+	<string name="alert_frequency_every">持續提醒</string>
+	<string name="alert_frequency_once">僅一次</string>
 	<string name="alert_key_contact_audio_call_message">發起了語音通話</string>
 	<string name="alert_key_contact_audio_message">發送一條語音</string>
 	<string name="alert_key_contact_collectible_message">發送一個藏品</string>
