@@ -97,6 +97,8 @@
 	<string name="alert_key_group_text_message">%1$s sent a message</string>
 	<string name="alert_key_group_transcript_message">%1$s sent a transcript</string>
 	<string name="alert_key_group_video_message">%1$s sent a video</string>
+	<string name="alert_limit_exceeded">The total number of price alerts for all currencies cannot exceed %1$d.</string>
+	<string name="alert_per_asset_limit_exceeded">You can create a maximum of %1$d price alerts for each trading pair.</string>
 	<string name="Alert_Type">Alert Type</string>
 	<string name="alert_type_percentage_decreased">Percentage Decreased</string>
 	<string name="alert_type_percentage_increased">Percentage Increased</string>
@@ -960,6 +962,7 @@
 	<string name="parse_dns_result">Parse DNS result: </string>
 	<string name="Participants">Participants</string>
 	<string name="Pause">Pause</string>
+	<string name="Paused">Paused</string>
 	<string name="Pay">Pay</string>
 	<string name="pay_paid">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
 	<string name="Pay_with_Biometrics">Pay with Biometrics</string>

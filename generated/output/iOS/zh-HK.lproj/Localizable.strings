@@ -74,6 +74,8 @@
 "alert_key_group_text_message" = "%@發送一條消息";
 "alert_key_group_transcript_message" = "%@分享一個聊天記錄";
 "alert_key_group_video_message" = "%@發送一個視頻";
+"alert_limit_exceeded" = "所有幣種的價格提醒總數不得超過%d。";
+"alert_per_asset_limit_exceeded" = "每個交易對最多可創建%d個價格提醒。";
 "alert_type" = "預警類型";
 "alert_type_percentage_decreased" = "24小時跌幅";
 "alert_type_percentage_increased" = "24小時漲幅";
@@ -788,6 +790,7 @@
 "participants" = "成員";
 "participants_count" = "%@ 位羣組成員";
 "pause" = "暫停";
+"paused" = "已暫停";
 "pay" = "支付";
 "pay_paid" = "此付款鏈接已由某人支付，您無法進行重複付款。";
 "pay_with_biometry_type" = "%@支付";

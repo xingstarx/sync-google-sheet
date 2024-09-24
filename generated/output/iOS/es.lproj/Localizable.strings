@@ -74,6 +74,8 @@
 "alert_key_group_text_message" = "%@ ha enviado un mensaje";
 "alert_key_group_transcript_message" = "%@ ha enviado una transcripción";
 "alert_key_group_video_message" = "%@ ha enviado un vídeo";
+"alert_limit_exceeded" = "The total number of price alerts for all currencies cannot exceed %d.";
+"alert_per_asset_limit_exceeded" = "You can create a maximum of %d price alerts for each trading pair.";
 "alert_type" = "Alert Type";
 "alert_type_percentage_decreased" = "Percentage Decreased";
 "alert_type_percentage_increased" = "Percentage Increased";
@@ -788,6 +790,7 @@
 "participants" = "Participantes";
 "participants_count" = "%@ PARTICIPANTES";
 "pause" = "Pausa";
+"paused" = "Paused";
 "pay" = "Pay";
 "pay_paid" = "Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.";
 "pay_with_biometry_type" = "Pay with %@";

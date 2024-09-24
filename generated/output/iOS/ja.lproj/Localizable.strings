@@ -74,6 +74,8 @@
 "alert_key_group_text_message" = "%@がメッセージを送信しました";
 "alert_key_group_transcript_message" = "%@がメッセージ履歴を共有しました";
 "alert_key_group_video_message" = "%@が動画を送信しました";
+"alert_limit_exceeded" = "The total number of price alerts for all currencies cannot exceed %d.";
+"alert_per_asset_limit_exceeded" = "You can create a maximum of %d price alerts for each trading pair.";
 "alert_type" = "Alert Type";
 "alert_type_percentage_decreased" = "Percentage Decreased";
 "alert_type_percentage_increased" = "Percentage Increased";
@@ -788,6 +790,7 @@
 "participants" = "参加者";
 "participants_count" = "%@人のメンバー";
 "pause" = "一時停止";
+"paused" = "Paused";
 "pay" = "Pay";
 "pay_paid" = "この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。";
 "pay_with_biometry_type" = "%@で支払う";
