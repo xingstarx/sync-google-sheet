@@ -2042,9 +2042,9 @@
   <string name="alert_type_price_decreased" platform="android,iOS">Price Decreased</string>
   <string name="alert_type_percentage_increased" platform="android,iOS">Percentage Increased</string>
   <string name="alert_type_percentage_decreased" platform="android,iOS">Percentage Decreased</string>
-  <string name="alert_frequency_every" platform="android,iOS">Every</string>
-  <string name="alert_frequency_daily" platform="android,iOS">Daily</string>
-  <string name="alert_frequency_once" platform="android,iOS">Once</string>
+  <string name="alert_frequency_every" platform="android,iOS">Continuously</string>
+  <string name="alert_frequency_daily" platform="android,iOS">Once a day</string>
+  <string name="alert_frequency_once" platform="android,iOS">Only once</string>
   <string name="Enter_price" platform="android,iOS">Enter price</string>
   <string name="Value" platform="android,iOS">Value</string>
   <string name="Resume" platform="android,iOS">Resume</string>
