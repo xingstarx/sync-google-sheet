@@ -615,9 +615,9 @@
   <string name="error_card_holder_name_not_same" platform="android">ERROR 10608: Card anomaly, please try correct card later</string>
   <string name="error_expired_session" platform="android">ERROR 10609: Session expired</string>
   <string name="error_inconsistent_country" platform="android">ERROR 10610: Inconsistent country</string>
-  <string name="error_invalid_swap" platform="android, iOS">ERROR 10611: Invalid swap</string>
-  <string name="error_invalid_quote_amount" platform="android, iOS">ERROR 10614: Invalid quote amount</string>
-  <string name="error_no_available_quote" platform="android, iOS">ERROR 10615: No available quote</string>
+  <string name="error_invalid_swap" platform="android, iOS">ERROR 10611: No quotes available at the moment, please try again later.</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">ERROR 10614: The input amount is either too small or too large, please adjust the amount.</string>
+  <string name="error_no_available_quote" platform="android, iOS">ERROR 10615: This trading pair is currently not supported, please try switching to a different token.</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
@@ -2052,6 +2052,7 @@
   <string name="price_alert_notification_permission" platform="android,iOS">Price alerts require notification permission to be enabled.</string>
   <string name="price_in_currency" platform="android,iOS">Price (%1$s)</string>
   <string name="Paused" platform="android,iOS">Paused</string>
+  <string name="Resumed" platform="android,iOS">Resumed</string>
   <string name="alert_limit_exceeded" platform="android,iOS">The total number of price alerts for all currencies cannot exceed %1$d.</string>
   <string name="alert_per_asset_limit_exceeded" platform="android,iOS">You can create a maximum of %1$d price alerts for each trading pair.</string>
 </resources>
