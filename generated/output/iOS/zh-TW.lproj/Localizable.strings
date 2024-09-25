@@ -468,10 +468,10 @@
 "error_invalid_address_plain" = "錯誤 30102：地址格式錯誤。";
 "error_invalid_code_too_frequent" = "錯誤 20129：傳送驗證碼太頻繁，請稍後再試";
 "error_invalid_emergency_contact" = "錯誤 20130：緊急聯絡人不正確";
-"error_invalid_quote_amount" = "錯誤 10614: 數量無效";
-"error_invalid_swap" = "錯誤 10611: 交易無效";
+"error_invalid_quote_amount" = "錯誤 10614: 輸入金額太小或太大，請重新輸入。";
+"error_invalid_swap" = "錯誤 10611: 暫無報價，請稍後重試。";
 "error_network_task_failed" = "網路連線失敗。檢查或切換網路並重試";
-"error_no_available_quote" = "錯誤 10615: 沒有報價";
+"error_no_available_quote" = "錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。";
 "error_not_found" = "錯誤 404：沒有找到相應的資訊";
 "error_number_reached_limit" = "錯誤 20132： 已達到上限";
 "error_opponent_not_registered_to_safe" = "錯誤 10404: 對方客戶端版本過低，請提醒對方更新客戶端到最新版本";
@@ -943,6 +943,7 @@
 "restoring_chat_progress" = "恢復聊天記錄（%@%%）";
 "restoring_progress" = "正在恢復 %@";
 "resume" = "恢復";
+"resumed" = "已恢復";
 "retry" = "重試";
 "return_to_merchant_description" = "來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。";
 "review" = "預覽";

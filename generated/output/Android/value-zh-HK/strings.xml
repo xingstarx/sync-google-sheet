@@ -551,10 +551,10 @@
 	<string name="error_invalid_code_too_frequent">錯誤 20129：發送驗證碼太頻繁，請稍後再試</string>
 	<string name="error_invalid_emergency_contact">錯誤 20130：緊急聯繫人不正確</string>
 	<string name="error_invalid_pin_format">錯誤 20118：PIN 格式不正確</string>
-	<string name="error_invalid_quote_amount">錯誤 10614: 數量無效</string>
-	<string name="error_invalid_swap">錯誤 10611: 交易無效</string>
+	<string name="error_invalid_quote_amount">錯誤 10614: 輸入金額太小或太大，請重新輸入。</string>
+	<string name="error_invalid_swap">錯誤 10611: 暫無報價，請稍後重試。</string>
 	<string name="error_memo_too_long">Memo 字符超長，最多為 200</string>
-	<string name="error_no_available_quote">錯誤 10615: 沒有報價</string>
+	<string name="error_no_available_quote">錯誤 10615: 暫不支持該交易對，請嘗試切換幣種。</string>
 	<string name="error_not_approved_many_times">錯誤 10606: 未批准多次</string>
 	<string name="error_not_found">錯誤 404：沒有找到相應的信息</string>
 	<string name="error_not_support_card">錯誤 10604: 卡片異常，請稍後嘗試正確的卡片</string>
@@ -1097,6 +1097,7 @@
 	<string name="Restoring">正在恢復…</string>
 	<string name="Restoring_Chat_Progress">恢復聊天記錄（%1$s%%）</string>
 	<string name="Resume">恢復</string>
+	<string name="Resumed">已恢復</string>
 	<string name="Retry">重試</string>
 	<string name="Retry_upload_failed">重新上傳失敗。</string>
 	<string name="return_to_merchant_description">來自商家的支付已完成，您可以選擇返回商家或者停留在 Mixin。</string>

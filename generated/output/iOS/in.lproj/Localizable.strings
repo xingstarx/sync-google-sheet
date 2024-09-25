@@ -468,10 +468,10 @@
 "error_invalid_address_plain" = "KESALAHAN 30102: Format alamat tidak valid.";
 "error_invalid_code_too_frequent" = "KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti.";
 "error_invalid_emergency_contact" = "KESALAHAN 20130: Kontak darurat tidak valid";
-"error_invalid_quote_amount" = "ERROR 10614: Invalid quote amount";
-"error_invalid_swap" = "ERROR 10611: Invalid swap";
+"error_invalid_quote_amount" = "ERROR 10614: The input amount is either too small or too large, please adjust the amount.";
+"error_invalid_swap" = "ERROR 10611: No quotes available at the moment, please try again later.";
 "error_network_task_failed" = "Network connection failed. Check or switch your network and try again";
-"error_no_available_quote" = "ERROR 10615: No available quote";
+"error_no_available_quote" = "ERROR 10615: This trading pair is currently not supported, please try switching to a different token.";
 "error_not_found" = "KESALAHAN 404: Tidak ditemukan";
 "error_number_reached_limit" = "KESALAHAN 20132: Jumlahnya telah mencapai batas.";
 "error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
@@ -943,6 +943,7 @@
 "restoring_chat_progress" = "Restoring Chat (%@%%)";
 "restoring_progress" = "Restoring %@";
 "resume" = "Resume";
+"resumed" = "Resumed";
 "retry" = "COBA LAGI";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";

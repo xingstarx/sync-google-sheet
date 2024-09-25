@@ -469,10 +469,10 @@
 "error_invalid_address_plain" = "RALAT 30102: Format alamat tidak sah.";
 "error_invalid_code_too_frequent" = "RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.";
 "error_invalid_emergency_contact" = "RALAT 20130: Kenalan kecemasan tidak sah";
-"error_invalid_quote_amount" = "ERROR 10614: Invalid quote amount";
-"error_invalid_swap" = "ERROR 10611: Invalid swap";
+"error_invalid_quote_amount" = "ERROR 10614: The input amount is either too small or too large, please adjust the amount.";
+"error_invalid_swap" = "ERROR 10611: No quotes available at the moment, please try again later.";
 "error_network_task_failed" = "Network connection failed. Check or switch your network and try again";
-"error_no_available_quote" = "ERROR 10615: No available quote";
+"error_no_available_quote" = "ERROR 10615: This trading pair is currently not supported, please try switching to a different token.";
 "error_not_found" = "RALAT 404: Tidak ditemui";
 "error_number_reached_limit" = "RALAT 20132: Angka telah mencapai had.";
 "error_opponent_not_registered_to_safe" = "ERROR 10404: The opponent is using an earlier version, you can remind them to update";
@@ -944,6 +944,7 @@
 "restoring_chat_progress" = "Restoring Chat (%@%%)";
 "restoring_progress" = "Restoring %@";
 "resume" = "Resume";
+"resumed" = "Resumed";
 "retry" = "CUBA SEMULA";
 "return_to_merchant_description" = "Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.";
 "review" = "Review";
