@@ -851,6 +851,7 @@
 "preparing_progress" = "備份中...（%@）";
 "price" = "價格";
 "price_alert_notification_permission" = "價格預警需要開啟通知許可權";
+"price_cannot_be_current" = "設定價格不能是現價。";
 "price_data_unavailable" = "價格資料不可用";
 "price_in_currency" = "價格（%@）";
 "privacy" = "隱私";

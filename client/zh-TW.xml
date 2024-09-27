@@ -2026,4 +2026,5 @@
   <string name="Resumed" platform="android,iOS">已恢復</string>
   <string name="alert_limit_exceeded" platform="android,iOS">所有幣種的價格提醒總數不得超過%1$d。</string>
   <string name="alert_per_asset_limit_exceeded" platform="android,iOS">每個交易對最多可建立%1$d個價格提醒。</string>
+  <string name="price_cannot_be_current" platform="android,iOS">設定價格不能是現價。</string>
 </resources>

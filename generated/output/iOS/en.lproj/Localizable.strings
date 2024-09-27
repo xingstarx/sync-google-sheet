@@ -851,6 +851,7 @@
 "preparing_progress" = "Preparing...(%@)";
 "price" = "Price";
 "price_alert_notification_permission" = "Price alerts require notification permission to be enabled.";
+"price_cannot_be_current" = "The set price cannot be the current price.";
 "price_data_unavailable" = "Price data unavailable";
 "price_in_currency" = "Price (%@)";
 "privacy" = "Privacy";

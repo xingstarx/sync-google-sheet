@@ -996,6 +996,7 @@
 	<string name="preview_unavailable_description">无法预览资产变化。请确保你信任此 dApp。</string>
 	<string name="Price">价格</string>
 	<string name="price_alert_notification_permission">价格预警需要开启通知权限</string>
+	<string name="price_cannot_be_current">设定价格不能是现价。</string>
 	<string name="Price_data_unavailable">价格数据不可用</string>
 	<string name="price_expired">报价已过期</string>
 	<string name="price_in_currency">价格（%1$s）</string>

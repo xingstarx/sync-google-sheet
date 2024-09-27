@@ -851,6 +851,7 @@
 "preparing_progress" = "备份中...（%@）";
 "price" = "价格";
 "price_alert_notification_permission" = "价格预警需要开启通知权限";
+"price_cannot_be_current" = "设定价格不能是现价。";
 "price_data_unavailable" = "价格数据不可用";
 "price_in_currency" = "价格（%@）";
 "privacy" = "隐私";
