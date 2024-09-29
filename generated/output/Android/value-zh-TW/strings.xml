@@ -996,10 +996,14 @@
 	<string name="preview_unavailable_description">無法預覽資產變化。請確保你信任此 dApp。</string>
 	<string name="Price">價格</string>
 	<string name="price_alert_notification_permission">價格預警需要開啟通知許可權</string>
-	<string name="price_cannot_be_current">設定價格不能是現價。</string>
+	<string name="price_cannot_be_current">設定價格不能是現價</string>
 	<string name="Price_data_unavailable">價格資料不可用</string>
+	<string name="price_decrease_invalid">跌幅需大於1%且小於1000%</string>
 	<string name="price_expired">報價已過期</string>
 	<string name="price_in_currency">價格（%1$s）</string>
+	<string name="price_increase_invalid">漲幅需大於1%且小於1000%</string>
+	<string name="price_too_large">設定價格需小於現價的10倍</string>
+	<string name="price_too_less">設定價格需大於現價的1/10</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
 	<string name="private_key_export_success_description">請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。</string>
