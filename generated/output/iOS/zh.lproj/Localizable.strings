@@ -853,11 +853,13 @@
 "price_alert_notification_permission" = "价格预警需要开启通知权限";
 "price_cannot_be_current" = "设定价格不能是现价";
 "price_data_unavailable" = "价格数据不可用";
-"price_decrease_invalid" = "跌幅需大于1%且小于1000%";
+"price_decrease_invalid" = "跌幅需大于%1$@且小于%2$@";
 "price_in_currency" = "价格（%@）";
-"price_increase_invalid" = "涨幅需大于1%且小于1000%";
-"price_too_large" = "设定价格需小于现价的10倍";
-"price_too_less" = "设定价格需大于现价的1/10";
+"price_increase_invalid" = "涨幅需大于%1$@且小于%2$@";
+"price_must_greater_than_current" = "设定价格需大于现价";
+"price_must_less_than_current" = "设定价格需小于现价";
+"price_too_large" = "设定价格需小于现价的%@倍";
+"price_too_less" = "设定价格需大于现价的%@";
 "privacy" = "隐私";
 "privacy_policy" = "隐私政策";
 "private_key_export_success_description" = "请把私钥写到一张纸上并存在保险柜或其他安全的地方。";

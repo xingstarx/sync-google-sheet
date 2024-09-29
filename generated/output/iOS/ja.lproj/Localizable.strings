@@ -853,11 +853,13 @@
 "price_alert_notification_permission" = "Price alerts require notification permission to be enabled.";
 "price_cannot_be_current" = "The set price cannot be the current price";
 "price_data_unavailable" = "Price data unavailable";
-"price_decrease_invalid" = "The price decrease must be greater than 1% and less than 1000%";
+"price_decrease_invalid" = "The price decrease must be greater than %1$@ and less than %2$@";
 "price_in_currency" = "Price (%@)";
-"price_increase_invalid" = "The price increase must be greater than 1% and less than 1000%";
-"price_too_large" = "The set price must be less than 10 times the current price";
-"price_too_less" = "The set price must be greater than 1/10 of the current price";
+"price_increase_invalid" = "The price increase must be greater than %1$@ and less than %2$@";
+"price_must_greater_than_current" = "The set price must be greater than the current price";
+"price_must_less_than_current" = "The set price must be less than the current price";
+"price_too_large" = "The set price must be less than %@ times the current price";
+"price_too_less" = "The set price must be greater than %@ of the current price";
 "privacy" = "プライバシー";
 "privacy_policy" = "プライバシーポリシー";
 "private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
