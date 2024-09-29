@@ -2027,8 +2027,10 @@
   <string name="alert_limit_exceeded" platform="android,iOS">所有币种的价格提醒总数不得超过%1$d。</string>
   <string name="alert_per_asset_limit_exceeded" platform="android,iOS">每个交易对最多可创建%1$d个价格提醒。</string>
   <string name="price_cannot_be_current" platform="android,iOS">设定价格不能是现价</string>
-  <string name="price_too_less" platform="android,iOS">设定价格需大于现价的1/10</string>
-  <string name="price_too_large" platform="android,iOS">设定价格需小于现价的10倍</string>
-  <string name="price_increase_invalid" platform="android,iOS">涨幅需大于1%且小于1000%</string>
-  <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于1%且小于1000%</string>
+  <string name="price_must_less_than_current" platform="android,iOS">设定价格需小于现价</string>
+  <string name="price_must_greater_than_current" platform="android,iOS">设定价格需大于现价</string>
+  <string name="price_too_less" platform="android,iOS">设定价格需大于现价的%1$s</string>
+  <string name="price_too_large" platform="android,iOS">设定价格需小于现价的%1$s倍</string>
+  <string name="price_increase_invalid" platform="android,iOS">涨幅需大于%1$s且小于%2$s</string>
+  <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于%1$s且小于%2$s</string>
 </resources>
