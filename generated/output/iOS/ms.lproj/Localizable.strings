@@ -82,6 +82,7 @@
 "alert_type_price_decreased" = "Price Decreased";
 "alert_type_price_increased" = "Price Increased";
 "alert_type_price_reached" = "Price Reached";
+"alert_value" = "Value";
 "all" = "Semua";
 "all_conversations" = "Semua Perbualan";
 "all_dates" = "All Dates";

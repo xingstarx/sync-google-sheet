@@ -2017,7 +2017,7 @@
   <string name="alert_frequency_every" platform="android,iOS">持續提醒</string>
   <string name="alert_frequency_daily" platform="android,iOS">每日一次</string>
   <string name="alert_frequency_once" platform="android,iOS">僅一次</string>
-  <string name="Value" platform="android,iOS">數值</string>
+  <string name="alert_value" platform="android,iOS">數值</string>
   <string name="Resume" platform="android,iOS">恢復</string>
   <string name="Edit" platform="android,iOS">編輯</string>
   <string name="price_alert_notification_permission" platform="android,iOS">價格預警需要開啓通知權限</string>

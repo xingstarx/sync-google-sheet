@@ -82,6 +82,7 @@
 "alert_type_price_decreased" = "價格跌到";
 "alert_type_price_increased" = "價格漲到";
 "alert_type_price_reached" = "價格達到";
+"alert_value" = "數值";
 "all" = "全部";
 "all_conversations" = "所有會話";
 "all_dates" = "所有日期";
@@ -1281,7 +1282,7 @@
 "user_not_found" = "找不到這個用户";
 "utxo_count_exceeded" = "該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。";
 "validation_timed_out" = "驗證超時";
-"value" = "數值";
+"value" = "價值";
 "value_descending" = "金額降序";
 "value_now" = "價值 %@";
 "value_then" = "當時價值 %@";

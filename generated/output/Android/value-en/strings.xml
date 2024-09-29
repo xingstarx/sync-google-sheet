@@ -105,6 +105,7 @@
 	<string name="alert_type_price_decreased">Price Decreased</string>
 	<string name="alert_type_price_increased">Price Increased</string>
 	<string name="alert_type_price_reached">Price Reached</string>
+	<string name="alert_value">Value</string>
 	<string name="All">All</string>
 	<string name="All_chats">All chats</string>
 	<string name="All_Conversations">All Conversations</string>
