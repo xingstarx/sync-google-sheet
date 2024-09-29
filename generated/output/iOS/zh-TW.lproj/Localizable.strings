@@ -79,7 +79,7 @@
 "alert_type" = "預警型別";
 "alert_type_percentage_decreased" = "24小時跌幅";
 "alert_type_percentage_increased" = "24小時漲幅";
-"alert_type_price_decreased" = "價格跌倒";
+"alert_type_price_decreased" = "價格跌到";
 "alert_type_price_increased" = "價格漲到";
 "alert_type_price_reached" = "價格達到";
 "all" = "全部";

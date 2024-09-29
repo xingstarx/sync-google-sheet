@@ -102,7 +102,7 @@
 	<string name="Alert_Type">预警类型</string>
 	<string name="alert_type_percentage_decreased">24小时跌幅</string>
 	<string name="alert_type_percentage_increased">24小时涨幅</string>
-	<string name="alert_type_price_decreased">价格跌倒</string>
+	<string name="alert_type_price_decreased">价格跌到</string>
 	<string name="alert_type_price_increased">价格涨到</string>
 	<string name="alert_type_price_reached">价格达到</string>
 	<string name="All">全部</string>

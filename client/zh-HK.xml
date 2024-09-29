@@ -2011,7 +2011,7 @@
   <string name="Alert_Frequency" platform="android,iOS">預警頻率</string>
   <string name="alert_type_price_reached" platform="android,iOS">價格達到</string>
   <string name="alert_type_price_increased" platform="android,iOS">價格漲到</string>
-  <string name="alert_type_price_decreased" platform="android,iOS">價格跌倒</string>
+  <string name="alert_type_price_decreased" platform="android,iOS">價格跌到</string>
   <string name="alert_type_percentage_increased" platform="android,iOS">24小時漲幅</string>
   <string name="alert_type_percentage_decreased" platform="android,iOS">24小時跌幅</string>
   <string name="alert_frequency_every" platform="android,iOS">持續提醒</string>
