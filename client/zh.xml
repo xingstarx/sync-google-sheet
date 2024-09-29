@@ -2012,8 +2012,8 @@
   <string name="alert_type_price_reached" platform="android,iOS">价格达到</string>
   <string name="alert_type_price_increased" platform="android,iOS">价格涨到</string>
   <string name="alert_type_price_decreased" platform="android,iOS">价格跌到</string>
-  <string name="alert_type_percentage_increased" platform="android,iOS">24小时涨幅</string>
-  <string name="alert_type_percentage_decreased" platform="android,iOS">24小时跌幅</string>
+  <string name="alert_type_percentage_increased" platform="android,iOS">24 小时涨幅</string>
+  <string name="alert_type_percentage_decreased" platform="android,iOS">24 小时跌幅</string>
   <string name="alert_frequency_every" platform="android,iOS">持续提醒</string>
   <string name="alert_frequency_daily" platform="android,iOS">每日一次</string>
   <string name="alert_frequency_once" platform="android,iOS">仅一次</string>
@@ -2024,13 +2024,12 @@
   <string name="price_in_currency" platform="android,iOS">价格（%1$s）</string>
   <string name="Paused" platform="android,iOS">已暂停</string>
   <string name="Resumed" platform="android,iOS">已恢复</string>
-  <string name="alert_limit_exceeded" platform="android,iOS">所有币种的价格提醒总数不得超过%1$d。</string>
-  <string name="alert_per_asset_limit_exceeded" platform="android,iOS">每个交易对最多可创建%1$d个价格提醒。</string>
-  <string name="price_cannot_be_current" platform="android,iOS">设定价格不能是现价</string>
+  <string name="alert_limit_exceeded" platform="android,iOS">所有币种的价格提醒总数不得超过 %1$d。</string>
+  <string name="alert_per_asset_limit_exceeded" platform="android,iOS">每个交易对最多可创建 %1$d 个价格提醒。</string>
   <string name="price_must_less_than_current" platform="android,iOS">设定价格需小于现价</string>
   <string name="price_must_greater_than_current" platform="android,iOS">设定价格需大于现价</string>
-  <string name="price_too_less" platform="android,iOS">设定价格需大于现价的%1$s</string>
-  <string name="price_too_large" platform="android,iOS">设定价格需小于现价的%1$s倍</string>
-  <string name="price_increase_invalid" platform="android,iOS">涨幅需大于%1$s且小于%2$s</string>
-  <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于%1$s且小于%2$s</string>
+  <string name="price_too_less" platform="android,iOS">设定价格需大于现价的 %1$s</string>
+  <string name="price_too_large" platform="android,iOS">设定价格需小于现价的 %1$s 倍</string>
+  <string name="price_increase_invalid" platform="android,iOS">涨幅需大于 %1$s 且小于 %2$s</string>
+  <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于 %1$s 且小于 %2$s</string>
 </resources>
