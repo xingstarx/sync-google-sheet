@@ -97,8 +97,8 @@
 	<string name="alert_key_group_text_message">%1$s发送一条消息</string>
 	<string name="alert_key_group_transcript_message">%1$s分享一个聊天记录</string>
 	<string name="alert_key_group_video_message">%1$s发送一个视频</string>
-	<string name="alert_limit_exceeded">所有币种的价格提醒总数不得超过 %1$d 个。</string>
-	<string name="alert_per_asset_limit_exceeded">每个交易对最多可创建 %1$d 个价格提醒。</string>
+	<string name="alert_limit_exceeded">所有币种的价格预警总数不得超过 %1$d 个。</string>
+	<string name="alert_per_asset_limit_exceeded">每个交易对最多可创建 %1$d 个价格预警。</string>
 	<string name="Alert_Type">预警类型</string>
 	<string name="alert_type_percentage_decreased">24 小时跌幅</string>
 	<string name="alert_type_percentage_increased">24 小时涨幅</string>
