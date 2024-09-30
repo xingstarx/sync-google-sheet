@@ -2036,4 +2036,3 @@
   <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于 %1$s 且小于 %2$s</string>
   <string name="All_Alert">所有价格预警</string>
 </resources>
-</resources>
