@@ -936,6 +936,7 @@
 	<string name="Now_Playing">Now Playing</string>
 	<string name="number_of_assets">%1$d Assets</string>
 	<string name="number_of_days">%1$d Days</string>
+	<string name="number_of_opponents">%1$d Opponents</string>
 	<string name="number_of_recipients">%1$d Recipients</string>
 	<string name="number_reached_limit">The number has reached the limit</string>
 	<string name="Off">Off</string>
@@ -955,6 +956,7 @@
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
+	<string name="Opponents">Opponents</string>
 	<string name="order_confirm">Order Confirm</string>
 	<string name="OTHER">OTHER</string>
 	<string name="Overwrite">Overwrite</string>

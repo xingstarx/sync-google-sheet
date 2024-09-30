@@ -1926,10 +1926,10 @@
   <string name="sort_by_amount" platform="android,iOS">按金額排序</string>
   <string name="Assets" platform="android,iOS">資產</string>
   <string name="Recipients" platform="android,iOS">收款人</string>
-  <string name="Opponents">收發人</string>
+  <string name="Opponents" platform="android,iOS">收發人</string>
   <string name="number_of_assets" platform="android,iOS">%1$d 資產</string>
   <string name="number_of_recipients" platform="android,iOS">%1$d 收款人</string>
-  <string name="number_of_opponents">%1$d 收發人</string>
+  <string name="number_of_opponents" platform="android,iOS">%1$d 收發人</string>
   <string name="Select_LIMIT" platform="android,iOS">最多選擇 %1$d 個</string>
   <string name="balance_abbreviation" platform="android,iOS">餘額 %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">確認交易</string>

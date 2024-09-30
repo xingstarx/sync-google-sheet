@@ -918,6 +918,7 @@
 	<string name="Now_Playing">正在播放</string>
 	<string name="number_of_assets">%1$d 资产</string>
 	<string name="number_of_days">%1$d天</string>
+	<string name="number_of_opponents">%1$d 收发人</string>
 	<string name="number_of_recipients">%1$d 收款人</string>
 	<string name="number_reached_limit">已达到上限</string>
 	<string name="Off">关闭</string>
@@ -937,6 +938,7 @@
 	<string name="Open_Link">打开链接：%1$s</string>
 	<string name="Opening_Balance">期初余额</string>
 	<string name="Operator">运营商</string>
+	<string name="Opponents">收发人</string>
 	<string name="order_confirm">订单确认</string>
 	<string name="OTHER">其他</string>
 	<string name="Overwrite">覆盖</string>
