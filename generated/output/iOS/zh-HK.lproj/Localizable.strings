@@ -84,6 +84,7 @@
 "alert_type_price_reached" = "價格達到";
 "alert_value" = "數值";
 "all" = "全部";
+"all_alert" = "所有價格預警";
 "all_conversations" = "所有會話";
 "all_dates" = "所有日期";
 "all_networks" = "所有網絡";

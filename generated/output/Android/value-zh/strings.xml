@@ -107,6 +107,7 @@
 	<string name="alert_type_price_reached">价格达到</string>
 	<string name="alert_value">数值</string>
 	<string name="All">全部</string>
+	<string name="All_Alert">所有价格预警</string>
 	<string name="All_chats">所有聊天</string>
 	<string name="All_Conversations">所有会话</string>
 	<string name="All_dates">所有日期</string>
