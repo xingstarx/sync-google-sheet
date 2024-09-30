@@ -2034,5 +2034,5 @@
   <string name="price_too_large" platform="android,iOS">设定价格需小于现价的 %1$s 倍</string>
   <string name="price_increase_invalid" platform="android,iOS">涨幅需大于 %1$s 且小于 %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于 %1$s 且小于 %2$s</string>
-  <string name="All_Alert">所有价格预警</string>
+  <string name="All_Alert" platform="android,iOS">所有价格预警</string>
 </resources>
