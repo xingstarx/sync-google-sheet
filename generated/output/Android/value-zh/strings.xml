@@ -111,13 +111,13 @@
 	<string name="alert_type_percentage_increased_description">过去 24 小时内涨幅超过或等于设置比例时触发</string>
 	<string name="alert_type_price_decreased">价格跌到</string>
 	<string name="alert_type_price_decreased_description">最新价格小于或等于设置价格时触发</string>
-	<string name="alert_type_price_decreased_value">价格跌到 %1$d USD</string>
+	<string name="alert_type_price_decreased_value">价格跌到 %1$s</string>
 	<string name="alert_type_price_increased">价格涨到</string>
 	<string name="alert_type_price_increased_description">最新价格大于或等于设置价格时触发</string>
-	<string name="alert_type_price_increased_value">价格涨到 %1$d USD</string>
+	<string name="alert_type_price_increased_value">价格涨到 %1$s</string>
 	<string name="alert_type_price_reached">价格到达</string>
 	<string name="alert_type_price_reached_description">最新价格达到设置价格时触发</string>
-	<string name="alert_type_price_reached_value">价格达到 %1$d USD</string>
+	<string name="alert_type_price_reached_value">价格达到 %1$s</string>
 	<string name="alert_value">数值</string>
 	<string name="All">全部</string>
 	<string name="All_Alert">所有价格预警</string>

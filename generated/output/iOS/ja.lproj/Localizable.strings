@@ -88,13 +88,13 @@
 "alert_type_percentage_increased_description" = "Triggered when the 24h rise exceeds your set price change";
 "alert_type_price_decreased" = "Price drops to";
 "alert_type_price_decreased_description" = "Triggered when the last price drops to your set price";
-"alert_type_price_decreased_value" = "Price drops to %d USD";
+"alert_type_price_decreased_value" = "Price drops to %@";
 "alert_type_price_increased" = "Price rises above";
 "alert_type_price_increased_description" = "Triggered when the last price rises above your set price";
-"alert_type_price_increased_value" = "Price rises above %d USD";
+"alert_type_price_increased_value" = "Price rises above %@";
 "alert_type_price_reached" = "Price reaches";
 "alert_type_price_reached_description" = "Triggered when the last price reaches your set price";
-"alert_type_price_reached_value" = "Price reaches %d USD";
+"alert_type_price_reached_value" = "Price reaches %@";
 "alert_value" = "Value";
 "all" = "すべて";
 "all_alert" = "All Alert";

@@ -88,13 +88,13 @@
 "alert_type_percentage_increased_description" = "過去 24 小時內漲幅超過或等於設定比例時觸發";
 "alert_type_price_decreased" = "價格跌到";
 "alert_type_price_decreased_description" = "最新價格小於或等於設定價格時觸發";
-"alert_type_price_decreased_value" = "價格跌到 %d USD";
+"alert_type_price_decreased_value" = "價格跌到 %@";
 "alert_type_price_increased" = "價格漲到";
 "alert_type_price_increased_description" = "最新價格大於或等於設定價格時觸發";
-"alert_type_price_increased_value" = "價格漲到 %d USD";
+"alert_type_price_increased_value" = "價格漲到 %@";
 "alert_type_price_reached" = "價格到達";
 "alert_type_price_reached_description" = "最新價格達到設定價格時觸發";
-"alert_type_price_reached_value" = "價格達到 %d USD";
+"alert_type_price_reached_value" = "價格達到 %@";
 "alert_value" = "數值";
 "all" = "全部";
 "all_alert" = "所有價格預警";

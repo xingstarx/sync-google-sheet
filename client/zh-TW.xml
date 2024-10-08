@@ -2013,13 +2013,13 @@
   <string name="Alert_Frequency" platform="android,iOS">預警頻率</string>
   <string name="alert_type_price_reached" platform="android,iOS">價格到達</string>
   <string name="alert_type_price_reached_description" platform="android,iOS">最新價格達到設定價格時觸發</string>
-  <string name="alert_type_price_reached_value" platform="android,iOS">價格達到 %1$d USD</string>
+  <string name="alert_type_price_reached_value" platform="android,iOS">價格達到 %1$s</string>
   <string name="alert_type_price_increased" platform="android,iOS">價格漲到</string>
   <string name="alert_type_price_increased_description" platform="android,iOS">最新價格大於或等於設定價格時觸發</string>
-  <string name="alert_type_price_increased_value" platform="android,iOS">價格漲到 %1$d USD</string>
+  <string name="alert_type_price_increased_value" platform="android,iOS">價格漲到 %1$s</string>
   <string name="alert_type_price_decreased" platform="android,iOS">價格跌到</string>
   <string name="alert_type_price_decreased_description" platform="android,iOS">最新價格小於或等於設定價格時觸發</string>
-  <string name="alert_type_price_decreased_value" platform="android,iOS">價格跌到 %1$d USD</string>
+  <string name="alert_type_price_decreased_value" platform="android,iOS">價格跌到 %1$s</string>
   <string name="alert_type_percentage_increased" platform="android,iOS">24 小時漲幅超過</string>
   <string name="alert_type_percentage_increased_description" platform="android,iOS">過去 24 小時內漲幅超過或等於設定比例時觸發</string>
   <string name="alert_type_percentage_increased_decreased_value" platform="android,iOS">24 小時漲幅超過 %1$s</string>

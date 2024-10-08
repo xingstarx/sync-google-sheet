@@ -111,13 +111,13 @@
 	<string name="alert_type_percentage_increased_description">Triggered when the 24h rise exceeds your set price change</string>
 	<string name="alert_type_price_decreased">Price drops to</string>
 	<string name="alert_type_price_decreased_description">Triggered when the last price drops to your set price</string>
-	<string name="alert_type_price_decreased_value">Price drops to %1$d USD</string>
+	<string name="alert_type_price_decreased_value">Price drops to %1$s</string>
 	<string name="alert_type_price_increased">Price rises above</string>
 	<string name="alert_type_price_increased_description">Triggered when the last price rises above your set price</string>
-	<string name="alert_type_price_increased_value">Price rises above %1$d USD</string>
+	<string name="alert_type_price_increased_value">Price rises above %1$s</string>
 	<string name="alert_type_price_reached">Price reaches</string>
 	<string name="alert_type_price_reached_description">Triggered when the last price reaches your set price</string>
-	<string name="alert_type_price_reached_value">Price reaches %1$d USD</string>
+	<string name="alert_type_price_reached_value">Price reaches %1$s</string>
 	<string name="alert_value">Value</string>
 	<string name="All">All</string>
 	<string name="All_Alert">All Alert</string>
