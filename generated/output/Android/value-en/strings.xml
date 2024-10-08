@@ -104,11 +104,11 @@
 	<string name="alert_per_asset_limit_exceeded">You can create a maximum of %1$d price alerts for each trading pair.</string>
 	<string name="Alert_Type">Alert Type</string>
 	<string name="alert_type_percentage_decreased">24h fall exceeds</string>
-	<string name="alert_type_percentage_decreased_decreased_value">24h fall exceeds %1$s</string>
 	<string name="alert_type_percentage_decreased_description">Triggered when the 24h fall exceeds your set price change</string>
+	<string name="alert_type_percentage_decreased_value">24h fall exceeds %1$s</string>
 	<string name="alert_type_percentage_increased">24h rise exceeds</string>
-	<string name="alert_type_percentage_increased_decreased_value">24h rise exceeds %1$s</string>
 	<string name="alert_type_percentage_increased_description">Triggered when the 24h rise exceeds your set price change</string>
+	<string name="alert_type_percentage_increased_value">24h rise exceeds %1$s</string>
 	<string name="alert_type_price_decreased">Price drops to</string>
 	<string name="alert_type_price_decreased_description">Triggered when the last price drops to your set price</string>
 	<string name="alert_type_price_decreased_value">Price drops to %1$s</string>

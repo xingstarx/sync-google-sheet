@@ -104,11 +104,11 @@
 	<string name="alert_per_asset_limit_exceeded">每個交易對最多可創建 %1$d 個價格預警。</string>
 	<string name="Alert_Type">預警類型</string>
 	<string name="alert_type_percentage_decreased">24 小時跌幅超過</string>
-	<string name="alert_type_percentage_decreased_decreased_value">24 小時跌幅超過 %1$s</string>
 	<string name="alert_type_percentage_decreased_description">過去 24 小時內跌幅超過或等於設置比例時觸發</string>
+	<string name="alert_type_percentage_decreased_value">24 小時跌幅超過 %1$s</string>
 	<string name="alert_type_percentage_increased">24 小時漲幅超過</string>
-	<string name="alert_type_percentage_increased_decreased_value">24 小時漲幅超過 %1$s</string>
 	<string name="alert_type_percentage_increased_description">過去 24 小時內漲幅超過或等於設置比例時觸發</string>
+	<string name="alert_type_percentage_increased_value">24 小時漲幅超過 %1$s</string>
 	<string name="alert_type_price_decreased">價格跌到</string>
 	<string name="alert_type_price_decreased_description">最新價格小於或等於設置價格時觸發</string>
 	<string name="alert_type_price_decreased_value">價格跌到 %1$s</string>

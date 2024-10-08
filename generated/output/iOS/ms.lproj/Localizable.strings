@@ -81,11 +81,11 @@
 "alert_per_asset_limit_exceeded" = "You can create a maximum of %d price alerts for each trading pair.";
 "alert_type" = "Alert Type";
 "alert_type_percentage_decreased" = "24h fall exceeds";
-"alert_type_percentage_decreased_decreased_value" = "24h fall exceeds %@";
 "alert_type_percentage_decreased_description" = "Triggered when the 24h fall exceeds your set price change";
+"alert_type_percentage_decreased_value" = "24h fall exceeds %@";
 "alert_type_percentage_increased" = "24h rise exceeds";
-"alert_type_percentage_increased_decreased_value" = "24h rise exceeds %@";
 "alert_type_percentage_increased_description" = "Triggered when the 24h rise exceeds your set price change";
+"alert_type_percentage_increased_value" = "24h rise exceeds %@";
 "alert_type_price_decreased" = "Price drops to";
 "alert_type_price_decreased_description" = "Triggered when the last price drops to your set price";
 "alert_type_price_decreased_value" = "Price drops to %@";
