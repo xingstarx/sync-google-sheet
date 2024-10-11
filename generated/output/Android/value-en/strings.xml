@@ -111,11 +111,11 @@
 	<string name="alert_type_percentage_increased_value">24h gain exceeds %1$s</string>
 	<string name="alert_type_price_decreased">Price moves below</string>
 	<string name="alert_type_price_decreased_description">Triggered when the last price moves below your set price.</string>
-	<string name="alert_type_price_decreased_value">Price moves below to %1$s</string>
+	<string name="alert_type_price_decreased_value">Price moves below %1$s</string>
 	<string name="alert_type_price_increased">Price moves above</string>
 	<string name="alert_type_price_increased_description">Triggered when the last price moves above your set price.</string>
 	<string name="alert_type_price_increased_value">Price moves above %1$s</string>
-	<string name="alert_type_price_reached">Price moves above or below</string>
+	<string name="alert_type_price_reached">Price reaches</string>
 	<string name="alert_type_price_reached_description">Triggered when the last price moves above or below your set price.</string>
 	<string name="alert_type_price_reached_value">Price reaches %1$s</string>
 	<string name="alert_value">Value</string>
