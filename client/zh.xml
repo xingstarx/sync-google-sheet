@@ -2012,19 +2012,19 @@
   <string name="Alert_Type" platform="android,iOS">预警类型</string>
   <string name="Alert_Frequency" platform="android,iOS">预警频率</string>
   <string name="alert_type_price_reached" platform="android,iOS">价格到达</string>
-  <string name="alert_type_price_reached_description" platform="android,iOS">最新价格达到设置价格时触发</string>
+  <string name="alert_type_price_reached_description" platform="android,iOS">最新价格等于、超过或跌破设置价格时触发。</string>
   <string name="alert_type_price_reached_value" platform="android,iOS">价格达到 %1$s</string>
   <string name="alert_type_price_increased" platform="android,iOS">价格涨到</string>
-  <string name="alert_type_price_increased_description" platform="android,iOS">最新价格大于或等于设置价格时触发</string>
+  <string name="alert_type_price_increased_description" platform="android,iOS">最新价格大于或等于设置价格时触发。</string>
   <string name="alert_type_price_increased_value" platform="android,iOS">价格涨到 %1$s</string>
   <string name="alert_type_price_decreased" platform="android,iOS">价格跌到</string>
-  <string name="alert_type_price_decreased_description" platform="android,iOS">最新价格小于或等于设置价格时触发</string>
+  <string name="alert_type_price_decreased_description" platform="android,iOS">最新价格小于或等于设置价格时触发。</string>
   <string name="alert_type_price_decreased_value" platform="android,iOS">价格跌到 %1$s</string>
   <string name="alert_type_percentage_increased" platform="android,iOS">24 小时涨幅超过</string>
-  <string name="alert_type_percentage_increased_description" platform="android,iOS">过去 24 小时内涨幅超过或等于设置比例时触发</string>
+  <string name="alert_type_percentage_increased_description" platform="android,iOS">过去 24 小时内涨幅超过或等于设置比例时触发。</string>
   <string name="alert_type_percentage_increased_value" platform="android,iOS">24 小时涨幅超过 %1$s</string>
   <string name="alert_type_percentage_decreased" platform="android,iOS">24 小时跌幅超过</string>
-  <string name="alert_type_percentage_decreased_description" platform="android,iOS">过去 24 小时内跌幅超过或等于设置比例时触发</string>
+  <string name="alert_type_percentage_decreased_description" platform="android,iOS">过去 24 小时内跌幅超过或等于设置比例时触发。</string>
   <string name="alert_type_percentage_decreased_value" platform="android,iOS">24 小时跌幅超过 %1$s</string>
   <string name="alert_frequency_every" platform="android,iOS">重复提醒</string>
   <string name="alert_frequency_every_description" platform="android,iOS">每次触发都预警</string>
