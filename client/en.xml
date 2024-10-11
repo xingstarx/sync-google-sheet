@@ -2039,7 +2039,7 @@
   <string name="Current_price" platform="android,iOS">Current price: %1$s</string>
   <string name="Alert_Type" platform="android,iOS">Alert Type</string>
   <string name="Alert_Frequency" platform="android,iOS">Frequency</string>
-  <string name="alert_type_price_reached" platform="android,iOS">Price moves above or below</string>
+  <string name="alert_type_price_reached" platform="android,iOS">Price reaches</string>
   <string name="alert_type_price_reached_description" platform="android,iOS">Triggered when the last price moves above or below your set price.</string>
   <string name="alert_type_price_reached_value" platform="android,iOS">Price reaches %1$s</string>
   <string name="alert_type_price_increased" platform="android,iOS">Price moves above</string>
@@ -2047,7 +2047,7 @@
   <string name="alert_type_price_increased_value" platform="android,iOS">Price moves above %1$s</string>
   <string name="alert_type_price_decreased" platform="android,iOS">Price moves below</string>
   <string name="alert_type_price_decreased_description" platform="android,iOS">Triggered when the last price moves below your set price.</string>
-  <string name="alert_type_price_decreased_value" platform="android,iOS">Price moves below to %1$s</string>
+  <string name="alert_type_price_decreased_value" platform="android,iOS">Price moves below %1$s</string>
   <string name="alert_type_percentage_increased" platform="android,iOS">24h gain exceeds</string>
   <string name="alert_type_percentage_increased_description" platform="android,iOS">Triggered when the 24h gain exceeds your set price change. </string>
   <string name="alert_type_percentage_increased_value" platform="android,iOS">24h gain exceeds %1$s</string>
