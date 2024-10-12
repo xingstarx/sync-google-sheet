@@ -2026,7 +2026,7 @@
   <string name="alert_type_percentage_decreased" platform="android,iOS">24 小時跌幅超過</string>
   <string name="alert_type_percentage_decreased_description" platform="android,iOS">過去 24 小時內跌幅超過或等於設定比例時觸發。</string>
   <string name="alert_type_percentage_decreased_value" platform="android,iOS">24 小時跌幅超過 %1$s</string>
-  <string name="alert_frequency_every" platform="android,iOS">重複提醒</string>
+  <string name="alert_frequency_every" platform="android,iOS">持續提醒</string>
   <string name="alert_frequency_every_description" platform="android,iOS">每次觸發都預警</string>
   <string name="alert_frequency_daily" platform="android,iOS">每日一次</string>
   <string name="alert_frequency_daily_description" platform="android,iOS">僅每日首次觸發時預警</string>

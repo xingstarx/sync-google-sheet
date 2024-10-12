@@ -70,7 +70,7 @@
 	<string name="Alert_Frequency">Frequency</string>
 	<string name="alert_frequency_daily">Once a day</string>
 	<string name="alert_frequency_daily_description">Receive an alert once per day when the trigger event occurs</string>
-	<string name="alert_frequency_every">Continuously</string>
+	<string name="alert_frequency_every">Always</string>
 	<string name="alert_frequency_every_description">Receive an alert on every trigger event</string>
 	<string name="alert_frequency_once">Only once</string>
 	<string name="alert_frequency_once_description">Receive an alert only on first trigger event</string>
