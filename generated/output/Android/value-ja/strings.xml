@@ -433,7 +433,7 @@
 	<string name="Floating">フローティング</string>
 	<string name="Follow_system">システム設定に従う</string>
 	<string name="Follow_us_on_facebook">FacebookでMixinをフォロー</string>
-	<string name="Follow_us_on_twitter">TwitterでMixinをフォロー</string>
+	<string name="Follow_us_on_x">XでMixinをフォロー</string>
 	<string name="Format_not_supported">サポートされていないフォーマットです</string>
 	<string name="Forward">転送</string>
 	<string name="Forward_message">転送メッセージ</string>
