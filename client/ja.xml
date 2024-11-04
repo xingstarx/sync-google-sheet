@@ -557,7 +557,7 @@
   <string name="Floats_allows_up_to_count" platform="iOS">フロート数の上限 %d</string>
   <string name="Follow_system" platform="android, Desktop">システム設定に従う</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">FacebookでMixinをフォロー</string>
-  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">TwitterでMixinをフォロー</string>
+  <string name="Follow_us_on_x" platform="android, iOS, Desktop">XでMixinをフォロー</string>
   <string name="Format_not_supported" platform="android, Desktop">サポートされていないフォーマットです</string>
   <string name="Forward" platform="android, iOS, Desktop">転送</string>
   <string name="Forward_message" platform="android">転送メッセージ</string>

@@ -617,7 +617,7 @@
   <string name="Floats_allows_up_to_count" platform="iOS">Los flotadores permiten hasta %d unos</string>
   <string name="Follow_system" platform="android, Desktop">Seguir sistema</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">Síguenos en Facebook</string>
-  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">Síguenos en Twitter</string>
+  <string name="Follow_us_on_x" platform="android, iOS, Desktop">Síguenos en X</string>
   <string name="food_and_drink" platform="Desktop">Comida y bebida</string>
   <string name="Format_not_supported" platform="android, Desktop">Formato no compatible</string>
   <string name="Forward" platform="android, iOS, Desktop">Adelante</string>

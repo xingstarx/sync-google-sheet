@@ -298,7 +298,7 @@
   <string name="Floating" platform="android, iOS">Terapung</string>
   <string name="Follow_system" platform="android, Desktop">Ikut Sistem</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">Ikuti kami di Facebook</string>
-  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">Ikuti kami di Twitter</string>
+  <string name="Follow_us_on_x" platform="android, iOS, Desktop">Ikuti kami di X</string>
   <string name="Format_not_supported" platform="android, Desktop">Format tidak disokong</string>
   <string name="Forward" platform="android, iOS, Desktop">Ke hadapan</string>
   <string name="Forward_success" platform="android">kejayaan hadapan</string>

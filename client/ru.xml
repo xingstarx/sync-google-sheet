@@ -571,7 +571,7 @@
   <string name="Floats_allows_up_to_count" platform="iOS">Поплавки позволяют использовать до %d единиц.</string>
   <string name="Follow_system" platform="android, Desktop">Следуйте системе</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">Следите за нами на Фейсбуке</string>
-  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">Следите за нами на Twitter</string>
+  <string name="Follow_us_on_x" platform="android, iOS, Desktop">Следите за нами на X</string>
   <string name="Format_not_supported" platform="android, Desktop">Формат не поддерживается</string>
   <string name="Forward" platform="android, iOS, Desktop">Перенаправить</string>
   <string name="Forward_message" platform="android">Перенаправить сообщение</string>

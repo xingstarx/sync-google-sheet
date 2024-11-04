@@ -688,7 +688,7 @@
   <string name="Floats_allows_up_to_count" platform="iOS">最多支援 %d 個浮窗</string>
   <string name="Follow_system" platform="android, Desktop">跟隨系統</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">關注我們的 Facebook</string>
-  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">關注我們的 Twitter</string>
+  <string name="Follow_us_on_x" platform="android, iOS, Desktop">關注我們的 X</string>
   <string name="food_and_drink" platform="Desktop">食物與飲料</string>
   <string name="Format_not_supported" platform="android, Desktop">不支援該格式</string>
   <string name="Forward" platform="android, iOS, Desktop">轉發</string>

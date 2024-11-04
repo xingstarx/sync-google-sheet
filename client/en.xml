@@ -697,7 +697,7 @@
   <string name="Floats_allows_up_to_count" platform="iOS">Floats allows up to %d ones</string>
   <string name="Follow_system" platform="android, Desktop">Follow System</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">Follow us on Facebook</string>
-  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">Follow us on Twitter</string>
+  <string name="Follow_us_on_x" platform="android, iOS, Desktop">Follow us on X</string>
   <string name="food_and_drink" platform="Desktop">Food &amp; Drink</string>
   <string name="Format_not_supported" platform="android, Desktop">Format not supported</string>
   <string name="Forward" platform="android, iOS, Desktop">Forward</string>
