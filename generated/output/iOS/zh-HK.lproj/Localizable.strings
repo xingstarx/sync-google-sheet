@@ -1031,6 +1031,7 @@
 "send" = "發送";
 "send_as_file" = "發送為檔案";
 "send_as_files" = "發送為檔案";
+"send_collectible" = "發送藏品";
 "send_item" = "發送 1 項";
 "send_item_count" = "發送 %d 項";
 "send_message" = "發消息";

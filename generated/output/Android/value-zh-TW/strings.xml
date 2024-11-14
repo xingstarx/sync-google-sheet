@@ -1186,6 +1186,7 @@
 	<string name="Send">傳送</string>
 	<string name="Send_as_file">按檔案傳送</string>
 	<string name="send_by_pin">透過 PIN 傳送</string>
+	<string name="Send_Collectible">傳送藏品</string>
 	<string name="send_file_group">將 \"%1$s\" 傳送給 \"%2$s\"？</string>
 	<string name="Send_Message">發訊息</string>
 	<string name="send_signed_message_confirmation">此訊息已被簽名，點選下方按鈕以傳送或丟棄</string>

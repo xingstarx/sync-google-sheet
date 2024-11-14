@@ -2048,4 +2048,5 @@
   <string name="price_increase_invalid" platform="android,iOS">漲幅需大於 %1$s 且小於 %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">跌幅需大於 %1$s 且小於 %2$s</string>
   <string name="All_Alert" platform="android,iOS">所有價格預警</string>
+  <string name="Send_Collectible" platform="android,iOS">發送藏品</string>
 </resources>
