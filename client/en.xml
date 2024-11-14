@@ -2076,4 +2076,5 @@
   <string name="price_increase_invalid" platform="android,iOS">The price increase must be greater than %1$s and less than %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">The price decrease must be greater than %1$s and less than %2$s</string>
   <string name="All_Alert" platform="android,iOS">All Alert</string>
+  <string name="Send_Collectible" platform="android,iOS">Send Collectible</string>
 </resources>
