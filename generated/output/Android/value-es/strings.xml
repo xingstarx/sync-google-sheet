@@ -869,14 +869,7 @@
 	<string name="setting_desktop_logout_failed">El cierre de sesión del escritorio ha fallado.</string>
 	<string name="setting_duplicate_transfer_desc">Muestra un cuadro de diálogo de confirmación cuando transfieres la misma cantidad a la misma persona dentro de las 6 horas.</string>
 	<string name="setting_emergency_change_mobile">¿Quieres cambiar tu número de móvil ahora?</string>
-	<string name="setting_emergency_content">El contacto de emergencia está diseñado para ayudarte a iniciar sesión en tu cuenta si se pierde y no puede recuperar tu número de teléfono móvil.</string>
-	<string name="setting_emergency_create_success">Crear contacto de emergencia con éxito</string>
-	<string name="setting_emergency_desc">Cuando haya perdido tu número de teléfono móvil, comunícate con tu contacto de emergencia por teléfono u otros medios para obtener la ID de Mixin y el código de verificación. Lea nuestro contacto de emergencia para **aprender más**.</string>
-	<string name="setting_emergency_pin_tip">Tu contacto de emergencia está protegido por PIN</string>
 	<string name="setting_emergency_send_code">Introduce el código de 4 dígitos enviado a ID de Mixin: %1$s</string>
-	<string name="setting_emergency_set">Establecer contacto de emergencia</string>
-	<string name="setting_emergency_set_message">¿Quieres confirmar para configurar el ID de Mixin %1$s como tu contacto de emergencia? Ten en cuenta que la otra parte debe añadirte como contacto para configurarlo correctamente.</string>
-	<string name="setting_emergency_warning">Atención: el contacto de emergencia no puede ayudarte a recuperar el PIN</string>
 	<string name="setting_enable_biometric_pay">¿Habilitar pago biométrico?</string>
 	<string name="setting_incognito_prompt">Deshabilitar el aprendizaje personalizado del teclado</string>
 	<string name="setting_mobile_contact_warning">Esto eliminará tus contactos de los servidores de Mixin.</string>
