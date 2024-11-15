@@ -40,7 +40,6 @@
   <string name="Add_Contact" platform="android, iOS, Desktop">Добавить контакт</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Добавить контакт</string>
   <string name="Add_conversations" platform="android, iOS">Добавить беседы</string>
-  <string name="Add_emergency_contact" platform="android, iOS">Добавить экстренный контакт</string>
   <string name="add_file" platform="Desktop">Добавить файл</string>
   <string name="Add_group_description" platform="android, Desktop">Добавить описание группы</string>
   <string name="Add_memo" platform="android, iOS">добавить памятку</string>
@@ -206,7 +205,6 @@
   <string name="Chain" platform="android, iOS">Цепь</string>
   <string name="Change" platform="android, iOS, Desktop">Изменить</string>
   <string name="Change_Amount" platform="android, iOS">Изменить сумму</string>
-  <string name="Change_emergency_contact" platform="android, iOS">Изменить экстренный контакт</string>
   <string name="Change_name" platform="iOS">Изменить имя</string>
   <string name="Change_Number" platform="iOS">Изменить номер</string>
   <string name="Change_Number_Instead" platform="android, iOS">Вместо этого изменить номер</string>
@@ -389,7 +387,6 @@
   <string name="delete_chat_description" platform="Desktop">Удаление чата приведет к удалению сообщений только с этих устройств. Они не будут удалены с других устройств.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Удалить круг</string>
   <string name="delete_contact_chat_confirmation" platform="iOS">Удалить чат с %@?</string>
-  <string name="Delete_emergency_contact" platform="android, iOS">Удалить экстренный контакт</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">Удалить для всех</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">Удалить для меня</string>
   <string name="Delete_Group" platform="android, Desktop">Удалить группу</string>
@@ -461,12 +458,10 @@
   <string name="Edit_Name" platform="android, iOS, Desktop">Редактировать название</string>
   <string name="edit_profile" platform="Desktop">Редактировать профиль</string>
   <string name="Education" platform="iOS">Образование</string>
-  <string name="Emergency_Contact" platform="android, iOS">Экстренный контакт</string>
   <string name="Empty_address_book" platform="android">Пустая адресная книга</string>
   <string name="Enable_after_1_minute" platform="android">Включено через 1 минуту</string>
   <string name="Enable_after_30_minutes" platform="android">Включено через 30 минут</string>
   <string name="Enable_db_debug" platform="android">Включить отладку БД</string>
-  <string name="Enable_Emergency_Contact" platform="android, iOS">Включить экстренный контакт</string>
   <string name="enable_face_pay_hint" platform="iOS">Подтвердите PIN-код, чтобы включить Face Pay</string>
   <string name="Enable_immediately" platform="android">Включено немедленно</string>
   <string name="enable_pay" platform="iOS">Включить %@ Pay</string>
@@ -478,7 +473,6 @@
   <string name="English" platform="iOS">Английский</string>
   <string name="Enter_new_phone_number" platform="android">Введите новый номер телефона</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">Введите свой PIN-код, чтобы удалить свою учетную запись</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Введите свой контакт для экстренной связи Mixin ID</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Введите свой номер телефона</string>
   <string name="Enter_your_PIN" platform="android, iOS">Введите свой PIN-код</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS">Введите PIN-код, чтобы продолжить</string>
@@ -497,7 +491,6 @@
   <string name="error_invalid_address" platform="android, Desktop">ОШИБКА 30102: Недопустимый формат адреса. Пожалуйста, введите правильный адрес %1$s %2$s!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ОШИБКА 30102: Недопустимый формат адреса.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">ОШИБКА 20129: Код подтверждения отправляется слишком часто. Повторите попытку позже.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ОШИБКА 20130: Недопустимый экстренный контакт</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">ОШИБКА 20118: Неверный формат PIN-кода. </string>
   <string name="error_memo_too_long" platform="android">В памятке слишком много символов, максимум 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Не удалось подключиться к сети. Проверьте или переключите сеть и повторите попытку.</string>
@@ -978,9 +971,6 @@
   <string name="remove_chat_from_circle" platform="Desktop">Удалить чат из круга</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">Удалить контакт</string>
   <string name="remove_contact_hint" platform="iOS">Удалить друга? История чата останется на вашем устройстве</string>
-  <string name="Remove_emergency_contact" platform="android, iOS">Удалить экстренный контакт</string>
-  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">Удалить экстренный контакт?</string>
-  <string name="Remove_emergency_contact_for_sure" platform="iOS">Точно удалить экстренный контакт?</string>
   <string name="Remove_from_Group" platform="iOS">Удалить из группы</string>
   <string name="Remove_Participants" platform="android">Удалить участников</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">Удалить наклейки</string>
@@ -1055,7 +1045,6 @@
   <string name="Security" platform="android, iOS">Безопасность</string>
   <string name="Select" platform="android, iOS">Выбрать</string>
   <string name="Select_a_country_or_region" platform="iOS">Выберите страну или регион</string>
-  <string name="Select_Emergency_Contact" platform="android, iOS">Выберите экстренный контакт</string>
   <string name="Select_More_Photos" platform="iOS">Выберите больше фотографий</string>
   <string name="selected_count" platform="iOS">%@ Выбрано</string>
   <string name="selected_Item" platform="iOS">Выбрано 1 элемент</string>
@@ -1163,7 +1152,6 @@
   <string name="Sign_in" platform="android, iOS, Desktop">Войти</string>
   <string name="Sign_in_desktop_app" platform="android">Войти в настольное приложение</string>
   <string name="sign_out" platform="DesktoP">Выход</string>
-  <string name="Sign_with_emergency_contact" platform="android, iOS">Войти через контакт для экстренных случаев</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Войти через номер телефона</string>
   <string name="sign_with_qrcode" platform="Desktop">Войти с QrCode</string>
   <string name="Silence_Notification" platform="android">Беззвучное уведомление</string>
@@ -1314,7 +1302,6 @@
   <string name="Videos" platform="android, iOS, Desktop">Видео</string>
   <string name="View" platform="android">Вид</string>
   <string name="View_Authorization" platform="android, iOS">Просмотр авторизации</string>
-  <string name="View_emergency_contact" platform="android, iOS">Посмотреть экстренный контакт</string>
   <string name="View_Wallet" platform="android, iOS">Посмотреть кошелек</string>
   <string name="Voice_call" platform="android">Голосовой вызов</string>
   <string name="voice_call_cancelled" platform="iOS">голосовой вызов отменен</string>
@@ -1395,7 +1382,6 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Вы удалили это сообщение</string>
   <string name="You_have_a_new_message" platform="iOS">У вас новое сообщение</string>
   <string name="You_have_left_the_group" platform="android, iOS">Вы вышли из группы</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="iOS">Ваш экстренный контакт был изменен</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">Ваш номер телефона был изменен</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Ваш PIN-код был изменен</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Ваш PIN-код был создан</string>

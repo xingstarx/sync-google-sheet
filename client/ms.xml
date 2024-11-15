@@ -14,7 +14,6 @@
   <string name="Add_circle" platform="android, iOS">Tambah Lingkaran</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Tambah Kenalan</string>
   <string name="Add_conversations" platform="android, iOS">Tambah Perbualan</string>
-  <string name="Add_emergency_contact" platform="android, iOS">Tambahkan kenalan kecemasan</string>
   <string name="Add_group_description" platform="android, Desktop">Tambahkan keterangan kumpulan</string>
   <string name="Add_memo" platform="android, iOS">Tambah Memo</string>
   <string name="Add_participants" platform="android, iOS, Desktop">Tambah Peserta</string>
@@ -107,7 +106,6 @@
   <string name="Chain" platform="android, iOS">Rantai</string>
   <string name="Change" platform="android, iOS, Desktop">Ubah</string>
   <string name="Change_Amount" platform="android, iOS">Tukar Jumlah</string>
-  <string name="Change_emergency_contact" platform="android, iOS">Tukar kenalan kecemasan</string>
   <string name="Change_Phone_Number" platform="android, iOS">Tukar Nombor Telefon</string>
   <string name="Change_PIN" platform="android, iOS">Tukar PIN</string>
   <string name="Change_PIN_successfully" platform="android, iOS">Penukaran PIN berjaya</string>
@@ -197,7 +195,6 @@
   <string name="Declined" platform="android, iOS">Menolak</string>
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete_address" platform="android, iOS">Padamkan alamat</string>
-  <string name="Delete_emergency_contact" platform="android, iOS">Padamkan kenalan kecemasan</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">Padamkan untuk Semua Orang</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">Padamkan untuk saya</string>
   <string name="Delete_Group" platform="android, Desktop">Padam Kumpulan</string>
@@ -233,14 +230,11 @@
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">Edit keterangan kumpulan</string>
   <string name="Edit_group_name" platform="android, iOS, Desktop">Edit Nama</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">Edit Nama</string>
-  <string name="Emergency_Contact" platform="android, iOS">Kenalan kecemasan</string>
   <string name="Empty_address_book" platform="android">Kosongkan buku alamat</string>
   <string name="Enable_db_debug" platform="android">Bolehkan nyahpepijat db</string>
-  <string name="Enable_Emergency_Contact" platform="android, iOS">Bolehkan Kenalan Kecemasan</string>
   <string name="Enable_web_debug" platform="android">Bolehkan laman web nyahpepijat</string>
   <string name="End_to_End_Encryption" platform="android, iOS">Disulitkan</string>
   <string name="Enter_new_phone_number" platform="android, iOS">Masukkan nombor telefon bimbit baharu anda</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Masukkan ID Mixin kenalan kecemasan anda</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nombor telefon bimbit anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN anda</string>
   <string name="EOS_contract_address" platform="android">alamat kontrak EOS</string>
@@ -252,7 +246,6 @@
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">RALAT 20117: Baki tidak mencukupi</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">RALAT 30102: Format alamat tidak sah.</string>
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">RALAT 20130: Kenalan kecemasan tidak sah</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">RALAT 20118: Format PIN tidak sah</string>
   <string name="error_not_found" platform="android, iOS, Desktop">RALAT 404: Tidak ditemui</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak disokong format audio, sila buka oleh aplikasi lain.</string>
@@ -528,8 +521,6 @@
   <string name="Remove_all_floats" platform="android, iOS">Alih keluar semua apungan?</string>
   <string name="Remove_Bot" platform="android, iOS, Desktop">Keluarkan Bot</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">Buang kenalan</string>
-  <string name="Remove_emergency_contact" platform="android, iOS">Alih keluar kenalan kecemasan</string>
-  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">Alih keluar kenalan kecemasan?</string>
   <string name="Remove_Participants" platform="android">Keluarkan Peserta</string>
   <string name="Removing" platform="android">Mengalih keluar ...</string>
   <string name="Report" platform="android, iOS, Desktop">Lapor</string>
@@ -576,7 +567,6 @@
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Security" platform="android, iOS, Desktop">Keselamatan</string>
   <string name="Select" platform="android, iOS, Desktop">Pilih</string>
-  <string name="Select_Emergency_Contact" platform="android, iOS">Pilih Kenalan Kecemasan</string>
   <string name="Send" platform="android, iOS, Desktop">Hantar</string>
   <string name="send_file_group" platform="android">Hantar "%1$s" ke "%2$s"?</string>
   <string name="Send_Message" platform="android, iOS">Menghantar mesej</string>
@@ -631,7 +621,6 @@
   <string name="Shown" platform="android">Tunjukkan</string>
   <string name="Sign_in" platform="android, iOS, Desktop">Log masuk</string>
   <string name="Sign_in_desktop_app" platform="android">Log masuk aplikasi desktop</string>
-  <string name="Sign_with_emergency_contact" platform="android, iOS">Log masuk dengan kenalan kecemasan</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Log masuk dengan nombor telefon</string>
   <string name="Skip" platform="android, iOS">LANGKAU</string>
   <string name="Slide_to_cancel" platform="android, iOS">Slaid untuk Batal</string>
@@ -707,7 +696,6 @@
   <string name="Version_Update" platform="android, iOS">Kemas kini Versi</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>
   <string name="Videos" platform="android, iOS, Desktop">Video</string>
-  <string name="View_emergency_contact" platform="android, iOS">Lihat kenalan kecemasan</string>
   <string name="Voice_call" platform="android">Panggilan suara</string>
   <string name="Waiting" platform="android, iOS">Menunggu</string>
   <string name="Wallet" platform="android, iOS">Dompet</string>

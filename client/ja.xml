@@ -34,7 +34,6 @@
   <string name="Add_Contact" platform="android, iOS, Desktop">友だちを追加</string>
   <string name="add_contact_with_plus" platform="Desktop">友だちを追加</string>
   <string name="Add_conversations" platform="android, iOS">チャットルームを追加</string>
-  <string name="Add_emergency_contact" platform="android, iOS">緊急連絡先を追加</string>
   <string name="add_file" platform="Desktop">ファイルを追加</string>
   <string name="Add_group_description" platform="android, Desktop">グループアナウンス</string>
   <string name="Add_memo" platform="android, iOS">メモを追加</string>
@@ -195,7 +194,6 @@
   <string name="Chain" platform="android, iOS">チェーン</string>
   <string name="Change" platform="android, iOS, Desktop">変更</string>
   <string name="Change_Amount" platform="android, iOS">数量を変更</string>
-  <string name="Change_emergency_contact" platform="android, iOS">緊急連絡先を変更</string>
   <string name="Change_name" platform="iOS">名前を変更</string>
   <string name="Change_Number" platform="iOS, Desktop">電話番号を変更</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">電話番号を変更</string>
@@ -378,7 +376,6 @@
   <string name="delete_chat_description" platform="Desktop">チャットを削除すると、この端末のみからメッセージが削除されます。他の端末からは削除されません。</string>
   <string name="Delete_Circle" platform="iOS, Desktop">グループリストを削除</string>
   <string name="delete_contact_chat_confirmation" platform="iOS">"%@"からチャットを削除しますか?</string>
-  <string name="Delete_emergency_contact" platform="android, iOS">緊急連絡先を削除</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">全員のチャットから削除</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">あなたのチャットから削除</string>
   <string name="Delete_Group" platform="android, Desktop">グループを削除</string>
@@ -447,12 +444,10 @@
   <string name="edit_image_clear_warning" platform="Desktop">すべての変更が失われます。本当に終了しますか？</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">名前を変更</string>
   <string name="edit_profile" platform="Desktop">プロフィールを編集</string>
-  <string name="Emergency_Contact" platform="android, iOS">緊急連絡先</string>
   <string name="Empty_address_book" platform="android">アドレス帳になにもありません</string>
   <string name="Enable_after_1_minute" platform="android">1分後に有効化する</string>
   <string name="Enable_after_30_minutes" platform="android">30分後に有効化する</string>
   <string name="Enable_db_debug" platform="android">dbデバッグの有効化</string>
-  <string name="Enable_Emergency_Contact" platform="android, iOS">緊急連絡先を有効にする</string>
   <string name="enable_face_pay_hint" platform="iOS">PINコードを確認して顔認証を利用可能にしてください</string>
   <string name="Enable_immediately" platform="android">すぐに有効化する</string>
   <string name="enable_pay" platform="iOS">%@の支払いを有効化</string>
@@ -463,7 +458,6 @@
   <string name="End_to_End_Encryption" platform="android, iOS">E2E暗号化</string>
   <string name="Enter_new_phone_number" platform="android, iOS">新しい電話番号を入力してください</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">アカウントを削除するためにPINコードを入力してください</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">電話番号を入力してください</string>
   <string name="Enter_your_PIN" platform="android, iOS">PINコードを入力してください</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">PINコードを入力して、続けてください</string>
@@ -484,7 +478,6 @@
   <string name="error_invalid_address" platform="android, Desktop">エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">エラー30102：無効なアドレス形式です</string>
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">エラー 20130：無効な緊急連絡先です</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">エラー 20118：無効なPINフォーマットです</string>
   <string name="error_memo_too_long" platform="android">メモの上限文字数は200文字です</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。</string>
@@ -973,9 +966,6 @@
   <string name="remove_chat_from_circle" platform="Desktop">グループリストからチャットを削除</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">連絡先を削除</string>
   <string name="remove_contact_hint" platform="iOS">友達を削除しますか? トーク履歴はデバイスから削除されません</string>
-  <string name="Remove_emergency_contact" platform="android, iOS">緊急連絡先を削除する</string>
-  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">緊急連絡先を削除しますか？</string>
-  <string name="Remove_emergency_contact_for_sure" platform="iOS">本当に緊急連絡先を削除しますか?</string>
   <string name="Remove_from_Group" platform="iOS">グループから退会させる</string>
   <string name="Remove_Participants" platform="android">グループから退会させる</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">スタンプの削除</string>
@@ -1051,7 +1041,6 @@
   <string name="Security" platform="android, iOS, Desktop">セキュリティ</string>
   <string name="Select" platform="android, iOS, Desktop">選択</string>
   <string name="Select_a_country_or_region" platform="iOS">国と地域を選択</string>
-  <string name="Select_Emergency_Contact" platform="android, iOS">緊急連絡先を選択</string>
   <string name="Select_More_Photos" platform="iOS">さらに選択</string>
   <string name="selected_count" platform="iOS">%@を選択しています。</string>
   <string name="selected_Item" platform="iOS">選択されたアイテム</string>
@@ -1156,7 +1145,6 @@
   <string name="Sign_in" platform="android, iOS, Desktop">ログイン</string>
   <string name="Sign_in_desktop_app" platform="android">デスクトップにログイン</string>
   <string name="sign_out" platform="DesktoP">サインアウト</string>
-  <string name="Sign_with_emergency_contact" platform="android, iOS">緊急連絡先でログイン</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">電話番号でログイン</string>
   <string name="sign_with_qrcode" platform="Desktop">QRコードでログイン</string>
   <string name="Silence_Notification" platform="android">サイレント通知</string>
@@ -1300,7 +1288,6 @@
   <string name="Videos" platform="android, iOS, Desktop">動画</string>
   <string name="View" platform="android">閲覧権限</string>
   <string name="View_Authorization" platform="android, iOS">閲覧権限</string>
-  <string name="View_emergency_contact" platform="android, iOS">緊急連絡先を確認</string>
   <string name="View_Wallet" platform="android, iOS">ウォレットを確認</string>
   <string name="Voice_call" platform="android">音声通話</string>
   <string name="voice_call_cancelled" platform="iOS">グループ通話がキャンセルされました</string>
@@ -1378,7 +1365,6 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">このメッセージを削除しました。</string>
   <string name="You_have_a_new_message" platform="iOS">新しいメッセージがあります</string>
   <string name="You_have_left_the_group" platform="android, iOS">グループから退会しました</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">緊急連絡先が変更されました</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>

@@ -62,7 +62,6 @@
   <string name="Add_Contact" platform="android, iOS, Desktop">Añadir contacto</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Añadir contacto</string>
   <string name="Add_conversations" platform="android, iOS">Añadir conversaciones</string>
-  <string name="Add_emergency_contact" platform="android, iOS">Añadir contacto de emergencia</string>
   <string name="add_file" platform="Desktop">Añadir archivo</string>
   <string name="Add_group_description" platform="android, Desktop">Añadir descripción del grupo</string>
   <string name="Add_memo" platform="android, iOS">Añadir nota</string>
@@ -233,7 +232,6 @@
   <string name="Chain" platform="android, iOS">Cadena</string>
   <string name="Change" platform="android, iOS, Desktop">Cambiar</string>
   <string name="Change_Amount" platform="android, iOS">Cambiar cantidad</string>
-  <string name="Change_emergency_contact" platform="android, iOS">Cambiar contacto de emergencia</string>
   <string name="Change_name" platform="iOS">Cambiar nombre</string>
   <string name="Change_Number" platform="iOS, Desktop">Cambie el número</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">Cambiar número en su lugar</string>
@@ -427,7 +425,6 @@
   <string name="delete_chat_description" platform="Desktop">Eliminar el chat eliminará los mensajes de estos dispositivos únicamente. No se eliminarán de otros dispositivos.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Eliminar círculo</string>
   <string name="delete_contact_chat_confirmation" platform="iOS">¿Eliminar el chat con %@?</string>
-  <string name="Delete_emergency_contact" platform="android, iOS">Eliminar contacto de emergencia</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">Eliminar para todos</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">Eliminar para mí</string>
   <string name="Delete_Group" platform="android, Desktop">Eliminar grupo</string>
@@ -503,12 +500,10 @@
   <string name="Edit_Name" platform="android, iOS, Desktop">Editar nombre</string>
   <string name="edit_profile" platform="Desktop">Editar perfil</string>
   <string name="Education" platform="iOS">Educación</string>
-  <string name="Emergency_Contact" platform="android, iOS">Contacto de emergencia</string>
   <string name="Empty_address_book" platform="android">Libreta de direcciones vacía</string>
   <string name="Enable_after_1_minute" platform="android">Habilitado después de 1 minuto</string>
   <string name="Enable_after_30_minutes" platform="android">Habilitado después de 30 minutos</string>
   <string name="Enable_db_debug" platform="android">Habilitar depuración de base de datos</string>
-  <string name="Enable_Emergency_Contact" platform="android, iOS">Habilitar contacto de emergencia</string>
   <string name="enable_face_pay_hint" platform="iOS">Confirme el PIN para habilitar Face Pay</string>
   <string name="Enable_immediately" platform="android">Habilitado inmediatamente</string>
   <string name="enable_pay" platform="iOS">Habilitar %@ Pagar</string>
@@ -519,7 +514,6 @@
   <string name="End_to_End_Encryption" platform="android, iOS">Cifrado de extremo a extremo</string>
   <string name="Enter_new_phone_number" platform="android, iOS">Introduce tu nuevo número de teléfono</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Introduce tu PIN para eliminar tu cuenta</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Introduce tu contacto de emergencia Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Introduce tu nuevo PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Introduce tu antiguo PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Introduce tu número telefónico</string>
@@ -542,7 +536,6 @@
   <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: formato de dirección no válido. Introduce la dirección %1$s %2$s correcta.</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: formato de dirección no válido.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">ERROR 20129: enviar el código de verificación con demasiada frecuencia, inténtalo de nuevo más tarde.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Contacto de emergencia no válido</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Formato de PIN no válido. </string>
   <string name="error_memo_too_long" platform="android">Memo tiene demasiados caracteres, el máximo es 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">La conexión de red ha fallado. Comprueba o cambia tu red e inténtalo de nuevo</string>
@@ -1051,9 +1044,6 @@
   <string name="remove_chat_from_circle" platform="Desktop">Eliminar chat del círculo</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">Eliminar contacto</string>
   <string name="remove_contact_hint" platform="iOS">¿Eliminar amigo? El historial de chat permanecerá en tu dispositivo</string>
-  <string name="Remove_emergency_contact" platform="android, iOS">Eliminar contacto de emergencia</string>
-  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">¿Eliminar contacto de emergencia?</string>
-  <string name="Remove_emergency_contact_for_sure" platform="iOS">¿Eliminar contacto de emergencia seguro?</string>
   <string name="Remove_from_Group" platform="iOS">Eliminar del grupo</string>
   <string name="Remove_Participants" platform="android">Eliminar participantes</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">Eliminar pegatinas</string>
@@ -1130,7 +1120,6 @@
   <string name="Security" platform="android, iOS">Seguridad</string>
   <string name="Select" platform="android, iOS, Desktop">Seleccionar</string>
   <string name="Select_a_country_or_region" platform="iOS">Seleccionar un país o región</string>
-  <string name="Select_Emergency_Contact" platform="android, iOS">Seleccionar contacto de emergencia</string>
   <string name="Select_More_Photos" platform="iOS">Seleccionar más fotos</string>
   <string name="selected_count" platform="iOS">%@ Seleccionado</string>
   <string name="selected_Item" platform="iOS">1 artículo seleccionado</string>
@@ -1241,7 +1230,6 @@
   <string name="Sign_in" platform="android, iOS, Desktop">Iniciar sesión</string>
   <string name="Sign_in_desktop_app" platform="android">Iniciar sesión en la aplicación de escritorio</string>
   <string name="sign_out" platform="DesktoP">Cerrar sesión</string>
-  <string name="Sign_with_emergency_contact" platform="android, iOS">Iniciar sesión con contacto de emergencia</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Iniciar sesión con número de teléfono</string>
   <string name="sign_with_qrcode" platform="Desktop">Iniciar sesión con código QR</string>
   <string name="Silence_Notification" platform="android">Notificación de silencio</string>
@@ -1407,7 +1395,6 @@
   <string name="Videos" platform="android, iOS, Desktop">Vídeos</string>
   <string name="View" platform="android">Ver</string>
   <string name="View_Authorization" platform="android, iOS">Ver autorización</string>
-  <string name="View_emergency_contact" platform="android, iOS">Ver contacto de emergencia</string>
   <string name="View_Wallet" platform="android, iOS">Ver Cartera</string>
   <string name="Voice_call" platform="android">Llamada de voz</string>
   <string name="voice_call_cancelled" platform="iOS">llamada de voz cancelada</string>
@@ -1487,7 +1474,6 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">Has borrado este mensaje</string>
   <string name="You_have_a_new_message" platform="iOS">Tienes un nuevo mensaje</string>
   <string name="You_have_left_the_group" platform="android, iOS">Te has ido del grupo</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">Tu contacto de emergencia se ha cambiado</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">Tu número de teléfono se ha cambiado</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Tu PIN se ha cambiado</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Tu PIN se ha creado</string>

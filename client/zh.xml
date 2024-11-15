@@ -38,7 +38,7 @@
   <string name="add_contact_with_plus" platform="Desktop">+ 添加联系人</string>
   <string name="Add_conversations" platform="android, iOS">添加会话</string>
   <string name="add_credit_or_debit_card" platform="android">添加信用卡或借记卡</string>
-  <string name="Add_emergency_contact" platform="android, iOS">添加紧急联系人</string>
+  <string name="Add_emergency_contact" platform="android, iOS">添加恢复联系人</string>
   <string name="add_file" platform="Desktop">添加文件</string>
   <string name="Add_group_description" platform="android, Desktop">添加群公告</string>
   <string name="Add_memo" platform="android, iOS">点击添加 Memo（备注）</string>
@@ -239,7 +239,7 @@
   <string name="Chain" platform="android, iOS">所属公链</string>
   <string name="Change" platform="android, iOS, Desktop">更改</string>
   <string name="Change_Amount" platform="android, iOS">修改金额</string>
-  <string name="Change_emergency_contact" platform="android, iOS">修改紧急联系人</string>
+  <string name="Change_emergency_contact" platform="android, iOS">修改恢复联系人</string>
   <string name="Change_name" platform="iOS">修改名称</string>
   <string name="Change_Number" platform="iOS, Desktop">修改手机号</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">仅修改手机号码</string>
@@ -457,7 +457,7 @@
   <string name="delete_chat_description" platform="Desktop">删除会话只会删除此设备的聊天记录，不会影响其他设备。</string>
   <string name="Delete_Circle" platform="iOS, Desktop">删除圈子</string>
   <string name="delete_contact_chat_confirmation" platform="iOS">删除与"%@"的会话并清空聊天记录？</string>
-  <string name="Delete_emergency_contact" platform="android, iOS">删除紧急联系人</string>
+  <string name="Delete_emergency_contact" platform="android, iOS">删除恢复联系人</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">撤回</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">删除</string>
   <string name="Delete_Group" platform="android, Desktop">删除群组</string>
@@ -540,12 +540,12 @@
   <string name="edit_image_clear_warning" platform="Desktop">退出将会清除此次所有的改动。</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">修改昵称</string>
   <string name="edit_profile" platform="Desktop">编辑资料</string>
-  <string name="Emergency_Contact" platform="android, iOS">紧急联系人</string>
+  <string name="Emergency_Contact" platform="android, iOS">恢复联系人</string>
   <string name="Empty_address_book" platform="android">通讯录内容为空</string>
   <string name="Enable_after_1_minute" platform="android">在 1 分钟之后启动</string>
   <string name="Enable_after_30_minutes" platform="android">在 30 分钟后启动</string>
   <string name="Enable_db_debug" platform="android">已开启 db 调试</string>
-  <string name="Enable_Emergency_Contact" platform="android, iOS">启用紧急联系人</string>
+  <string name="Enable_Emergency_Contact" platform="android, iOS">启用恢复联系人</string>
   <string name="enable_face_pay_hint" platform="iOS">输入 PIN 启用面容支付</string>
   <string name="Enable_immediately" platform="android">立即启动</string>
   <string name="enable_pay" platform="iOS">启用%@支付</string>
@@ -560,7 +560,7 @@
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">输入你的 PIN 以注销你的账户</string>
   <string name="enter_to_send" platform="Desktop">按下回车 ⏎ 发送</string>
   <string name="Enter_your_anonymous_number" platform="android, iOS">输入你的匿名号码</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入紧急联系人的 Mixin ID</string>
+  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入恢复联系人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">输入你的新 PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">输入你的旧 PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">输入你的手机号码</string>
@@ -586,7 +586,7 @@
   <string name="error_invalid_address" platform="android, Desktop">错误 30102：地址格式错误。请输入正确的 %1$s %2$s 的地址！</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">错误 30102：地址格式错误。</string>
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">错误 20129：发送验证码太频繁，请稍后再试</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：紧急联系人不正确</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：恢复联系人不正确</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">错误 20118：PIN 格式不正确</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超长，最多为 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">网络连接失败。检查或切换网络并重试</string>
@@ -1185,9 +1185,9 @@
   <string name="remove_chat_from_circle" platform="Desktop">从圈子里移除对话</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">删除联系人</string>
   <string name="remove_contact_hint" platform="iOS">删除联系人？聊天记录将会保留</string>
-  <string name="Remove_emergency_contact" platform="android, iOS">移除紧急联系人</string>
-  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">确定移除紧急联系人？</string>
-  <string name="Remove_emergency_contact_for_sure" platform="iOS">确定删除紧急联系人？</string>
+  <string name="Remove_emergency_contact" platform="android, iOS">移除恢复联系人</string>
+  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">确定移除恢复联系人？</string>
+  <string name="Remove_emergency_contact_for_sure" platform="iOS">确定删除恢复联系人？</string>
   <string name="Remove_from_Group" platform="iOS">从群组中移除</string>
   <string name="Remove_Participants" platform="android">移除成员</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">移除所有表情</string>
@@ -1292,7 +1292,7 @@
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">选择支付手续费的币种</string>
   <string name="Select_All" platform="iOS,android">选择所有</string>
-  <string name="Select_Emergency_Contact" platform="android, iOS">选择紧急联系人</string>
+  <string name="Select_Emergency_Contact" platform="android, iOS">选择恢复联系人</string>
   <string name="Select_More_Photos" platform="iOS">选择更多照片</string>
   <string name="select_payment_method" platform="android, iOS">选择支付方式</string>
   <string name="selected_count" platform="iOS">选择了 %@ 个消息</string>
@@ -1334,7 +1334,7 @@
   <string name="session_not_found" platform="android, iOS">没有对应的连接</string>
   <string name="Set" platform="android, iOS, Desktop">设置</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s将限时消息设置为 %2$s</string>
-  <string name="Set_emergency_create_successfully" platform="android,iOS">设置紧急联系人成功</string>
+  <string name="Set_emergency_create_successfully" platform="android,iOS">设置恢复联系人成功</string>
   <string name="Set_new_PIN" platform="android, iOS">设置新的 PIN</string>
   <string name="Set_or_update_PIN_failed" platform="android,iOS">设置或更新 PIN 失败</string>
   <string name="set_passcode_desc" platform="Desktop">设置解锁密码</string>
@@ -1366,14 +1366,14 @@
   <string name="setting_desktop_logout_failed" platform="android">退出桌面端失败</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">立即修改手机号？</string>
-  <string name="setting_emergency_content" platform="android, iOS">紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。</string>
-  <string name="setting_emergency_create_success" platform="android">添加紧急联系人成功</string>
+  <string name="setting_emergency_content" platform="android, iOS">恢复联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。</string>
+  <string name="setting_emergency_create_success" platform="android">添加恢复联系人成功</string>
   <string name="setting_emergency_desc" platform="android, iOS">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档**了解更多**。</string>
-  <string name="setting_emergency_pin_tip" platform="android, iOS">紧急联系人受 PIN 加密保护</string>
+  <string name="setting_emergency_pin_tip" platform="android, iOS">恢复联系人受 PIN 加密保护</string>
   <string name="setting_emergency_send_code" platform="android, iOS">请输入发送至以下 Mixin ID 的 4 位验证码：%1$s</string>
-  <string name="setting_emergency_set" platform="android">设置紧急联系人</string>
-  <string name="setting_emergency_set_message" platform="android, iOS">确认设置 Mixin ID %1$s 为你的紧急联系人？注意双方必须互为联系人才能设置成功！</string>
-  <string name="setting_emergency_warning" platform="android, iOS">注意：紧急联系人无法帮助找回支付 PIN</string>
+  <string name="setting_emergency_set" platform="android">设置恢复联系人</string>
+  <string name="setting_emergency_set_message" platform="android, iOS">确认设置 Mixin ID %1$s 为你的恢复联系人？注意双方必须互为联系人才能设置成功！</string>
+  <string name="setting_emergency_warning" platform="android, iOS">注意：恢复联系人无法帮助找回支付 PIN</string>
   <string name="setting_enable_biometric_pay" platform="android">开启生物识别支付？</string>
   <string name="setting_incognito_prompt" platform="android">禁止键盘个性化学习。</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">确定删除已同步到 Mixin 服务器的通讯录？</string>
@@ -1411,7 +1411,7 @@
   <string name="Sign_in" platform="android, iOS, Desktop">登录</string>
   <string name="Sign_in_desktop_app" platform="android">登录桌面端</string>
   <string name="sign_out" platform="DesktoP">登出</string>
-  <string name="Sign_with_emergency_contact" platform="android, iOS">通过紧急联系人登录</string>
+  <string name="Sign_with_emergency_contact" platform="android, iOS">通过恢复联系人登录</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">通过手机号登录</string>
   <string name="sign_with_qrcode" platform="Desktop">通过二维码登录</string>
   <string name="signature_request" platform="android, iOS">签名确认</string>
@@ -1615,7 +1615,7 @@
   <string name="Videos" platform="android, iOS, Desktop">视频</string>
   <string name="View" platform="android">查看</string>
   <string name="View_Authorization" platform="android, iOS">查看授权</string>
-  <string name="View_emergency_contact" platform="android, iOS">查看紧急联系人</string>
+  <string name="View_emergency_contact" platform="android, iOS">查看恢复联系人</string>
   <string name="View_Storage" platform="iOS">查看存储空间</string>
   <string name="View_Wallet" platform="android, iOS">查看钱包</string>
   <string name="Voice_call" platform="android">语音通话</string>
@@ -1703,7 +1703,7 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">你撤回了一条消息</string>
   <string name="You_have_a_new_message" platform="iOS">你收到了一条消息</string>
   <string name="You_have_left_the_group" platform="android, iOS">你不在此群组</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">紧急联系人已更改</string>
+  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">恢复联系人已更改</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">更换手机号</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已创建</string>
