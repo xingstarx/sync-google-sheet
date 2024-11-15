@@ -16,7 +16,7 @@
 "add_circle" = "添加圈子";
 "add_contact" = "添加联系人";
 "add_conversations" = "添加会话";
-"add_emergency_contact" = "添加紧急联系人";
+"add_emergency_contact" = "添加恢复联系人";
 "add_memo" = "点击添加 Memo（备注）";
 "add_or_remove_favorite_bots" = "添加或删除收藏的机器人";
 "add_participants" = "添加成员";
@@ -198,7 +198,7 @@
 "chain" = "所属公链";
 "change" = "更改";
 "change_amount" = "修改金额";
-"change_emergency_contact" = "修改紧急联系人";
+"change_emergency_contact" = "修改恢复联系人";
 "change_name" = "修改名称";
 "change_number" = "修改手机号";
 "change_number_instead" = "仅修改手机号码";
@@ -381,7 +381,7 @@
 "delete_chat" = "删除聊天";
 "delete_circle" = "删除圈子";
 "delete_contact_chat_confirmation" = "删除与\"%@\"的会话并清空聊天记录？";
-"delete_emergency_contact" = "删除紧急联系人";
+"delete_emergency_contact" = "删除恢复联系人";
 "delete_for_everyone" = "撤回";
 "delete_for_me" = "删除";
 "delete_group_chat_confirmation" = "删除\"%@\"的聊天？";
@@ -447,10 +447,10 @@
 "edit_name" = "修改昵称";
 "editing_address" = "正在修改地址";
 "editing_address_failed" = "修改地址失败";
-"emergency_contact" = "紧急联系人";
+"emergency_contact" = "恢复联系人";
 "enable" = "启用";
 "enable_bioauth_description" = "想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。";
-"enable_emergency_contact" = "启用紧急联系人";
+"enable_emergency_contact" = "启用恢复联系人";
 "enable_face_pay_hint" = "输入 PIN 启用面容支付";
 "enable_pay" = "启用%@支付";
 "enable_pay_confirmation" = "启用%@支付？";
@@ -461,7 +461,7 @@
 "enter_new_phone_number" = "输入你的新手机号码";
 "enter_pin_to_delete_account" = "输入你的 PIN 以注销你的账户";
 "enter_your_anonymous_number" = "输入你的匿名号码";
-"enter_your_emergency_contact_mixin_id" = "请输入紧急联系人的 Mixin ID";
+"enter_your_emergency_contact_mixin_id" = "请输入恢复联系人的 Mixin ID";
 "enter_your_new_pin" = "输入你的新 PIN";
 "enter_your_old_pin" = "输入你的旧 PIN";
 "enter_your_phone_number" = "输入你的手机号码";
@@ -480,7 +480,7 @@
 "error_internal_with_msg" = "内部错误：%@";
 "error_invalid_address_plain" = "错误 30102：地址格式错误。";
 "error_invalid_code_too_frequent" = "错误 20129：发送验证码太频繁，请稍后再试";
-"error_invalid_emergency_contact" = "错误 20130：紧急联系人不正确";
+"error_invalid_emergency_contact" = "错误 20130：恢复联系人不正确";
 "error_invalid_quote_amount" = "错误 10614: 输入金额太小或太大，请重新输入。";
 "error_invalid_swap" = "错误 10611: 暂无报价，请稍后重试。";
 "error_network_task_failed" = "网络连接失败。检查或切换网络并重试";
@@ -929,9 +929,9 @@
 "remove_bot_hint" = "删除机器人？聊天记录将会保留";
 "remove_contact" = "删除联系人";
 "remove_contact_hint" = "删除联系人？聊天记录将会保留";
-"remove_emergency_contact" = "移除紧急联系人";
-"remove_emergency_contact_confirmation" = "确定移除紧急联系人？";
-"remove_emergency_contact_for_sure" = "确定删除紧急联系人？";
+"remove_emergency_contact" = "移除恢复联系人";
+"remove_emergency_contact_confirmation" = "确定移除恢复联系人？";
+"remove_emergency_contact_for_sure" = "确定删除恢复联系人？";
 "remove_from_group" = "从群组中移除";
 "remove_stickers" = "移除所有表情";
 "reply" = "回复";
@@ -1016,7 +1016,7 @@
 "select_a_token_for_the_fee" = "选择支付手续费的币种";
 "select_all" = "选择所有";
 "select_date" = "选择日期";
-"select_emergency_contact" = "选择紧急联系人";
+"select_emergency_contact" = "选择恢复联系人";
 "select_limit" = "最多选择 %d 个";
 "select_more_photos" = "选择更多照片";
 "select_payment_method" = "选择支付方式";
@@ -1062,7 +1062,7 @@
 "set" = "设置";
 "set_as_avatar" = "设置为头像";
 "set_disappearing_message_time_to" = "%1$@将限时消息设置为 %2$@";
-"set_emergency_create_successfully" = "设置紧急联系人成功";
+"set_emergency_create_successfully" = "设置恢复联系人成功";
 "set_new_pin" = "设置新的 PIN";
 "set_or_update_pin_failed" = "设置或更新 PIN 失败";
 "set_pin_successfully" = "PIN 设置成功";
@@ -1079,12 +1079,12 @@
 "setting_desktop_confirm" = "确认登录 Mixin Messenger 桌面端";
 "setting_duplicate_transfer_desc" = "当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。";
 "setting_emergency_change_mobile" = "立即修改手机号？";
-"setting_emergency_content" = "紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。";
+"setting_emergency_content" = "恢复联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。";
 "setting_emergency_desc" = "请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档了解更多。";
-"setting_emergency_pin_tip" = "紧急联系人受 PIN 加密保护";
+"setting_emergency_pin_tip" = "恢复联系人受 PIN 加密保护";
 "setting_emergency_send_code" = "请输入发送至以下 Mixin ID 的 4 位验证码：%@";
-"setting_emergency_set_message" = "确认设置 Mixin ID %@ 为你的紧急联系人？注意双方必须互为联系人才能设置成功！";
-"setting_emergency_warning" = "注意：紧急联系人无法帮助找回支付 PIN";
+"setting_emergency_set_message" = "确认设置 Mixin ID %@ 为你的恢复联系人？注意双方必须互为联系人才能设置成功！";
+"setting_emergency_warning" = "注意：恢复联系人无法帮助找回支付 PIN";
 "setting_mobile_contact_warning" = "确定删除已同步到 Mixin 服务器的通讯录？";
 "setting_notification_transfer_summary" = "收到不少于 %@ 转账时显示通知。";
 "setting_privacy_tip" = "谁可以给你发消息或邀请你加入群聊。";
@@ -1107,7 +1107,7 @@
 "show_in_chat" = "在聊天中展示";
 "show selected" = "显示选择（%@）";
 "sign_in" = "登录";
-"sign_with_emergency_contact" = "通过紧急联系人登录";
+"sign_with_emergency_contact" = "通过恢复联系人登录";
 "sign_with_phone_number" = "通过手机号登录";
 "signature_request" = "签名确认";
 "signature_request_from" = "该签名请求来自 %@。";
@@ -1309,7 +1309,7 @@
 "videos" = "视频";
 "view_all" = "查看全部";
 "view_authorization" = "查看授权";
-"view_emergency_contact" = "查看紧急联系人";
+"view_emergency_contact" = "查看恢复联系人";
 "view_on_explorer" = "在浏览器中查看";
 "view_on_marketplace" = "在市场中查看";
 "view_storage" = "查看存储空间";
@@ -1414,7 +1414,7 @@
 "you_deleted_this_message" = "你撤回了一条消息";
 "you_have_a_new_message" = "你收到了一条消息";
 "you_have_left_the_group" = "你不在此群组";
-"your_emergency_contact_has_been_changed" = "紧急联系人已更改";
+"your_emergency_contact_has_been_changed" = "恢复联系人已更改";
 "your_phone_number_has_been_changed" = "更换手机号";
 "your_pin_has_been_changed" = "修改 PIN";
 "your_pin_has_been_created" = "PIN 已创建";

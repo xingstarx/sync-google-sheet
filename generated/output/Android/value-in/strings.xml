@@ -12,7 +12,6 @@
 	<string name="Add_circle">Tambahkan Lingkaran</string>
 	<string name="Add_Contact">Tambahkan Kontak</string>
 	<string name="Add_conversations">Tambahkan Percakapan</string>
-	<string name="Add_emergency_contact">Tambahkan kontak darurat</string>
 	<string name="Add_group_description">Tambahkan deskripsi grup</string>
 	<string name="Add_memo">Tambahkan Memo</string>
 	<string name="Add_participants">Tambahkan Peserta</string>
@@ -101,7 +100,6 @@
 	<string name="Chain">Chain</string>
 	<string name="Change">Ubah</string>
 	<string name="Change_Amount">Ubah Jumlah</string>
-	<string name="Change_emergency_contact">Ubah kontak darurat</string>
 	<string name="Change_Phone_Number">Ubah Nomor Telepon</string>
 	<string name="Change_PIN">Ubah PIN</string>
 	<string name="Change_PIN_successfully">Berhasil mengubah PIN</string>
@@ -191,7 +189,6 @@
 	<string name="Declined">Ditolak</string>
 	<string name="default_time">00:00</string>
 	<string name="Delete_address">Hapus alamat</string>
-	<string name="Delete_emergency_contact">Hapus kontak darurat</string>
 	<string name="Delete_for_everyone">Hapus untuk Semua Orang</string>
 	<string name="Delete_for_me">Hapus untuk saya</string>
 	<string name="Delete_Group">Hapus Grup</string>
@@ -226,12 +223,9 @@
 	<string name="Edit_Group_Description">Edit deskripsi grup</string>
 	<string name="Edit_group_name">Edit Nama</string>
 	<string name="Edit_Name">Edit Nama</string>
-	<string name="Emergency_Contact">Kontak darurat</string>
 	<string name="Empty_address_book">Buku alamat kosong</string>
-	<string name="Enable_Emergency_Contact">Aktifkan Kontak Darurat</string>
 	<string name="End_to_End_Encryption">Terenkripsi end-to-end</string>
 	<string name="Enter_new_phone_number">Masukkan nomor ponsel baru Anda</string>
-	<string name="Enter_your_emergency_contact_Mixin_ID">Masukkan ID Mixin kontak darurat Anda</string>
 	<string name="Enter_your_phone_number">Masukkan nomor ponsel Anda</string>
 	<string name="Enter_your_PIN">Masukkan PIN Anda</string>
 	<string name="error_authentication">KESALAHAN 401: Masuk untuk melanjutkan</string>
@@ -242,7 +236,6 @@
 	<string name="error_insufficient_balance">KESALAHAN 20117: Saldo tidak cukup</string>
 	<string name="error_invalid_address_plain">KESALAHAN 30102: Format alamat tidak valid.</string>
 	<string name="error_invalid_code_too_frequent">KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti.</string>
-	<string name="error_invalid_emergency_contact">KESALAHAN 20130: Kontak darurat tidak valid</string>
 	<string name="error_invalid_pin_format">KESALAHAN 20118: Format PIN tidak valid</string>
 	<string name="error_not_found">KESALAHAN 404: Tidak ditemukan</string>
 	<string name="error_not_supported_audio_format">Tidak mendukung format audio, harap buka dengan aplikasi lain.</string>
@@ -506,8 +499,6 @@
 	<string name="Refuse">Tolak</string>
 	<string name="Remove_Bot">Hapus Bot</string>
 	<string name="Remove_Contact">Hapus kontak</string>
-	<string name="Remove_emergency_contact">Hapus kontak darurat</string>
-	<string name="Remove_emergency_contact_confirmation">Hapus kontak darurat?</string>
 	<string name="Remove_Participants">Hapus Peserta</string>
 	<string name="Removing">Menghapus…</string>
 	<string name="Report">Laporkan</string>
@@ -554,7 +545,6 @@
 	<string name="secret_url">https://mixin.one/pages/1000007</string>
 	<string name="Security">Keamanan</string>
 	<string name="Select">Pilih</string>
-	<string name="Select_Emergency_Contact">Pilih Kontak Darurat</string>
 	<string name="Send">Kirim</string>
 	<string name="send_file_group">Kirim \"%1$s\" ke \"%2$s\"?</string>
 	<string name="Send_Message">Kirim Pesan</string>
@@ -602,7 +592,6 @@
 	<string name="Shown">Ditampilkan</string>
 	<string name="Sign_in">Masuk</string>
 	<string name="Sign_in_desktop_app">Masuk aplikasi desktop</string>
-	<string name="Sign_with_emergency_contact">Masuk dengan kontak darurat</string>
 	<string name="Sign_with_phone_number">Masuk dengan nomor telepon</string>
 	<string name="Skip">LEWATI</string>
 	<string name="Slide_to_cancel">Geser untuk Membatalkan</string>
@@ -670,7 +659,6 @@
 	<string name="Version_Update">Periksa Pembaruan</string>
 	<string name="Video">Video</string>
 	<string name="Videos">Video</string>
-	<string name="View_emergency_contact">Lihat kontak darurat</string>
 	<string name="Voice_call">Panggilan suara</string>
 	<string name="Waiting">Menunggu</string>
 	<string name="Wallet">Wallet</string>

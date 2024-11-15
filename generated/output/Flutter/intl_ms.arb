@@ -67,7 +67,6 @@
 "errorInsufficientBalance" : "RALAT 20117: Baki tidak mencukupi",
 "errorInvalidAddressPlain" : "RALAT 30102: Format alamat tidak sah.",
 "errorInvalidCodeTooFrequent" : "RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.",
-"errorInvalidEmergencyContact" : "RALAT 20130: Kenalan kecemasan tidak sah",
 "errorInvalidPinFormat" : "RALAT 20118: Format PIN tidak sah",
 "errorNotFound" : "RALAT 404: Tidak ditemui",
 "errorNotSupportedAudioFormat" : "Tidak disokong format audio, sila buka oleh aplikasi lain.",

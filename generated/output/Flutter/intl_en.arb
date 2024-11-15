@@ -171,7 +171,7 @@
 "errorInvalidAddress" : "ERROR 30102: Invalid address format. Please enter the correct {arg0} {arg1} address!",
 "errorInvalidAddressPlain" : "ERROR 30102: Invalid address format.",
 "errorInvalidCodeTooFrequent" : "ERROR 20129: Send verification code too frequent, please try again later.",
-"errorInvalidEmergencyContact" : "ERROR 20130: Invalid emergency contact",
+"errorInvalidEmergencyContact" : "ERROR 20130: Invalid recovery contact",
 "errorInvalidPinFormat" : "ERROR 20118: Invalid PIN format.",
 "errorNetworkTaskFailed" : "Network connection failed. Check or switch your network and try again",
 "errorNoPinToken" : "No token, Please log in again and try this feature again.",

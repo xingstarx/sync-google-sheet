@@ -34,7 +34,7 @@
 	<string name="Add_Contact">添加聯繫人</string>
 	<string name="Add_conversations">添加會話</string>
 	<string name="add_credit_or_debit_card">添加信用卡或借記卡</string>
-	<string name="Add_emergency_contact">添加緊急聯繫人</string>
+	<string name="Add_emergency_contact">添加恢復聯繫人</string>
 	<string name="Add_group_description">添加羣公告</string>
 	<string name="Add_memo">點擊添加 Memo（備註）</string>
 	<string name="add_or_remove_favorite_bots">添加或刪除收藏的機器人</string>
@@ -245,7 +245,7 @@
 	<string name="Chain">所屬公鏈</string>
 	<string name="Change">更改</string>
 	<string name="Change_Amount">修改金額</string>
-	<string name="Change_emergency_contact">修改緊急聯繫人</string>
+	<string name="Change_emergency_contact">修改恢復聯繫人</string>
 	<string name="Change_Number_Instead">僅修改手機號碼</string>
 	<string name="change_percent_period_day">%1$d天 %%</string>
 	<string name="change_percent_period_hour">%1$d小時 %%</string>
@@ -444,7 +444,7 @@
 	<string name="Delete_address">刪除地址</string>
 	<string name="delete_address_description">確認刪除該地址嗎？</string>
 	<string name="delete_by_pin">通過 PIN 刪除</string>
-	<string name="Delete_emergency_contact">刪除緊急聯繫人</string>
+	<string name="Delete_emergency_contact">刪除恢復聯繫人</string>
 	<string name="Delete_for_everyone">撤回</string>
 	<string name="Delete_for_me">刪除</string>
 	<string name="Delete_Group">刪除羣組</string>
@@ -520,14 +520,14 @@
 	<string name="Edit_Name">修改暱稱</string>
 	<string name="Editing_Address">正在修改地址</string>
 	<string name="Editing_Address_Failed">修改地址失敗</string>
-	<string name="Emergency_Contact">緊急聯繫人</string>
+	<string name="Emergency_Contact">恢復聯繫人</string>
 	<string name="Empty_address_book">通訊錄內容為空</string>
 	<string name="Enable">啓用</string>
 	<string name="Enable_after_1_minute">在 1 分鐘之後啓動</string>
 	<string name="Enable_after_30_minutes">在 30 分鐘後啓動</string>
 	<string name="enable_biometric_description">想要啓用生物識別支付嗎？啓用後，轉賬時可通過生物識別快速完成付款。</string>
 	<string name="Enable_db_debug">已開啓 db 調試</string>
-	<string name="Enable_Emergency_Contact">啓用緊急聯繫人</string>
+	<string name="Enable_Emergency_Contact">啓用恢復聯繫人</string>
 	<string name="Enable_immediately">立即啓動</string>
 	<string name="Enable_web_debug">已開啓 Web 調試</string>
 	<string name="Encrypted">端到端加密</string>
@@ -537,7 +537,7 @@
 	<string name="Enter_new_phone_number">輸入你的新手機號碼</string>
 	<string name="Enter_PIN_to_delete_account">輸入你的 PIN 以註銷你的賬户</string>
 	<string name="Enter_your_anonymous_number">輸入你的匿名號碼</string>
-	<string name="Enter_your_emergency_contact_Mixin_ID">請輸入緊急聯繫人的 Mixin ID</string>
+	<string name="Enter_your_emergency_contact_Mixin_ID">請輸入恢復聯繫人的 Mixin ID</string>
 	<string name="Enter_your_new_PIN">輸入你的新 PIN</string>
 	<string name="Enter_your_old_PIN">輸入你的舊 PIN</string>
 	<string name="Enter_your_phone_number">輸入你的手機號碼</string>
@@ -563,7 +563,7 @@
 	<string name="error_invalid_address">錯誤 30102：地址格式錯誤。請輸入正確的 %1$s %2$s 的地址！</string>
 	<string name="error_invalid_address_plain">錯誤 30102：地址格式錯誤。</string>
 	<string name="error_invalid_code_too_frequent">錯誤 20129：發送驗證碼太頻繁，請稍後再試</string>
-	<string name="error_invalid_emergency_contact">錯誤 20130：緊急聯繫人不正確</string>
+	<string name="error_invalid_emergency_contact">錯誤 20130：恢復聯繫人不正確</string>
 	<string name="error_invalid_pin_format">錯誤 20118：PIN 格式不正確</string>
 	<string name="error_invalid_quote_amount">錯誤 10614: 輸入金額太小或太大，請重新輸入。</string>
 	<string name="error_invalid_swap">錯誤 10611: 暫無報價，請稍後重試。</string>
@@ -1082,8 +1082,8 @@
 	<string name="Remove_all_floats">確定刪除全部浮窗？</string>
 	<string name="Remove_Bot">刪除機器人</string>
 	<string name="Remove_Contact">刪除聯繫人</string>
-	<string name="Remove_emergency_contact">移除緊急聯繫人</string>
-	<string name="Remove_emergency_contact_confirmation">確定移除緊急聯繫人？</string>
+	<string name="Remove_emergency_contact">移除恢復聯繫人</string>
+	<string name="Remove_emergency_contact_confirmation">確定移除恢復聯繫人？</string>
 	<string name="Remove_Participants">移除成員</string>
 	<string name="Remove_Stickers">移除所有表情</string>
 	<string name="Removing">正在移除…</string>
@@ -1179,7 +1179,7 @@
 	<string name="select_a_token_for_the_fee">選擇支付手續費的幣種</string>
 	<string name="Select_All">選擇所有</string>
 	<string name="Select_Date">選擇日期</string>
-	<string name="Select_Emergency_Contact">選擇緊急聯繫人</string>
+	<string name="Select_Emergency_Contact">選擇恢復聯繫人</string>
 	<string name="Select_LIMIT">最多選擇 %1$d 個</string>
 	<string name="select_payment_method">選擇支付方式</string>
 	<string name="select_token">選擇代幣</string>
@@ -1212,7 +1212,7 @@
 	<string name="Set">設置</string>
 	<string name="Set_as_avatar">設置為頭像</string>
 	<string name="set_disappearing_message_time_to">%1$s將限時消息設置為 %2$s</string>
-	<string name="Set_emergency_create_successfully">設置緊急聯繫人成功</string>
+	<string name="Set_emergency_create_successfully">設置恢復聯繫人成功</string>
 	<string name="Set_new_PIN">設置新的 PIN</string>
 	<string name="Set_or_update_PIN_failed">設置或更新 PIN 失敗</string>
 	<string name="Set_PIN">設置 PIN</string>
@@ -1241,14 +1241,14 @@
 	<string name="setting_desktop_logout_failed">退出桌面端失敗</string>
 	<string name="setting_duplicate_transfer_desc">當你在 6 個小時內給相同的人轉相同的金額時顯示確認彈窗。</string>
 	<string name="setting_emergency_change_mobile">立即修改手機號？</string>
-	<string name="setting_emergency_content">緊急聯繫人旨在幫助你在丟失且無法找回手機號的情況下登錄你的賬號。</string>
-	<string name="setting_emergency_create_success">添加緊急聯繫人成功</string>
+	<string name="setting_emergency_content">恢復聯繫人旨在幫助你在丟失且無法找回手機號的情況下登錄你的賬號。</string>
+	<string name="setting_emergency_create_success">添加恢復聯繫人成功</string>
 	<string name="setting_emergency_desc">請放心，即使您的手機號丟失無法找回錢包資產也很安全，請牢記您的 PIN，閲讀文檔**瞭解更多**。</string>
-	<string name="setting_emergency_pin_tip">緊急聯繫人受 PIN 加密保護</string>
+	<string name="setting_emergency_pin_tip">恢復聯繫人受 PIN 加密保護</string>
 	<string name="setting_emergency_send_code">請輸入發送至以下 Mixin ID 的 4 位驗證碼：%1$s</string>
-	<string name="setting_emergency_set">設置緊急聯繫人</string>
-	<string name="setting_emergency_set_message">確認設置 Mixin ID %1$s 為你的緊急聯繫人？注意雙方必須互為聯繫人才能設置成功！</string>
-	<string name="setting_emergency_warning">注意：緊急聯繫人無法幫助找回支付 PIN</string>
+	<string name="setting_emergency_set">設置恢復聯繫人</string>
+	<string name="setting_emergency_set_message">確認設置 Mixin ID %1$s 為你的恢復聯繫人？注意雙方必須互為聯繫人才能設置成功！</string>
+	<string name="setting_emergency_warning">注意：恢復聯繫人無法幫助找回支付 PIN</string>
 	<string name="setting_enable_biometric_pay">開啓生物識別支付？</string>
 	<string name="setting_incognito_prompt">禁止鍵盤個性化學習。</string>
 	<string name="setting_mobile_contact_warning">確定刪除已同步到 Mixin 服務器的通訊錄？</string>
@@ -1279,7 +1279,7 @@
 	<string name="sign_by_pin">使用 PIN 簽名</string>
 	<string name="Sign_in">登錄</string>
 	<string name="Sign_in_desktop_app">登錄桌面端</string>
-	<string name="Sign_with_emergency_contact">通過緊急聯繫人登錄</string>
+	<string name="Sign_with_emergency_contact">通過恢復聯繫人登錄</string>
 	<string name="Sign_with_phone_number">通過手機號登錄</string>
 	<string name="signature_request">簽名確認</string>
 	<string name="signature_request_from">該簽名請求來自 %1$s。</string>
@@ -1511,7 +1511,7 @@
 	<string name="View">查看</string>
 	<string name="view_all">查看全部</string>
 	<string name="View_Authorization">查看授權</string>
-	<string name="View_emergency_contact">查看緊急聯繫人</string>
+	<string name="View_emergency_contact">查看恢復聯繫人</string>
 	<string name="view_on_explorer">在瀏覽器中查看</string>
 	<string name="View_on_Marketplace">在市場中查看</string>
 	<string name="View_Transaction">查看區塊鏈瀏覽器</string>
@@ -1638,7 +1638,7 @@
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一條消息</string>
 	<string name="You_have_left_the_group">你不在此羣組</string>
-	<string name="Your_emergency_contact_has_been_changed">緊急聯繫人已更改</string>
+	<string name="Your_emergency_contact_has_been_changed">恢復聯繫人已更改</string>
 	<string name="your_pin_has_been_created">PIN 已創建</string>
 	<string name="ytd">年初至今</string>
 </resources>

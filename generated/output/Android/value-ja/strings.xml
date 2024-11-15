@@ -27,7 +27,6 @@
 	<string name="Add_circle">グループリストを追加</string>
 	<string name="Add_Contact">友だちを追加</string>
 	<string name="Add_conversations">チャットルームを追加</string>
-	<string name="Add_emergency_contact">緊急連絡先を追加</string>
 	<string name="Add_group_description">グループアナウンス</string>
 	<string name="Add_memo">メモを追加</string>
 	<string name="Add_participants">メンバーを追加</string>
@@ -151,7 +150,6 @@
 	<string name="Chain">チェーン</string>
 	<string name="Change">変更</string>
 	<string name="Change_Amount">数量を変更</string>
-	<string name="Change_emergency_contact">緊急連絡先を変更</string>
 	<string name="Change_Number_Instead">電話番号を変更</string>
 	<string name="Change_Phone_Number">電話番号を変更</string>
 	<string name="Change_PIN">PINコードを変更</string>
@@ -283,7 +281,6 @@
 	<string name="Delete">削除</string>
 	<string name="delete_account_hint">アカウント情報とプロフィール画像を削除します</string>
 	<string name="Delete_address">アドレスを削除</string>
-	<string name="Delete_emergency_contact">緊急連絡先を削除</string>
 	<string name="Delete_for_everyone">全員のチャットから削除</string>
 	<string name="Delete_for_me">あなたのチャットから削除</string>
 	<string name="Delete_Group">グループを削除</string>
@@ -341,19 +338,16 @@
 	<string name="Edit_Group_Description">グループアナウンスを編集</string>
 	<string name="Edit_group_name">グループ名を編集</string>
 	<string name="Edit_Name">名前を変更</string>
-	<string name="Emergency_Contact">緊急連絡先</string>
 	<string name="Empty_address_book">アドレス帳になにもありません</string>
 	<string name="Enable_after_1_minute">1分後に有効化する</string>
 	<string name="Enable_after_30_minutes">30分後に有効化する</string>
 	<string name="Enable_db_debug">dbデバッグの有効化</string>
-	<string name="Enable_Emergency_Contact">緊急連絡先を有効にする</string>
 	<string name="Enable_immediately">すぐに有効化する</string>
 	<string name="Enable_web_debug">webデバッグの有効化</string>
 	<string name="Encrypted">暗号化</string>
 	<string name="End_to_End_Encryption">E2E暗号化</string>
 	<string name="Enter_new_phone_number">新しい電話番号を入力してください</string>
 	<string name="Enter_PIN_to_delete_account">アカウントを削除するためにPINコードを入力してください</string>
-	<string name="Enter_your_emergency_contact_Mixin_ID">あなたの緊急連絡先のMixin IDを入力してください</string>
 	<string name="Enter_your_phone_number">電話番号を入力してください</string>
 	<string name="Enter_your_PIN">PINコードを入力してください</string>
 	<string name="Enter_your_PIN_to_continue">PINコードを入力して、続けてください</string>
@@ -371,7 +365,6 @@
 	<string name="error_invalid_address">エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。</string>
 	<string name="error_invalid_address_plain">エラー30102：無効なアドレス形式です</string>
 	<string name="error_invalid_code_too_frequent">エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
-	<string name="error_invalid_emergency_contact">エラー 20130：無効な緊急連絡先です</string>
 	<string name="error_invalid_pin_format">エラー 20118：無効なPINフォーマットです</string>
 	<string name="error_memo_too_long">メモの上限文字数は200文字です</string>
 	<string name="error_not_found">エラー 404：結果なし</string>
@@ -727,8 +720,6 @@
 	<string name="Remove_all_floats">Floatを全部クリアしますか？</string>
 	<string name="Remove_Bot">Myミニアプリから削除</string>
 	<string name="Remove_Contact">連絡先を削除</string>
-	<string name="Remove_emergency_contact">緊急連絡先を削除する</string>
-	<string name="Remove_emergency_contact_confirmation">緊急連絡先を削除しますか？</string>
 	<string name="Remove_Participants">グループから退会させる</string>
 	<string name="Remove_Stickers">スタンプの削除</string>
 	<string name="Removing">削除中…</string>
@@ -788,7 +779,6 @@
 	<string name="secret_url">https://mixin.one/pages/1000007</string>
 	<string name="Security">セキュリティ</string>
 	<string name="Select">選択</string>
-	<string name="Select_Emergency_Contact">緊急連絡先を選択</string>
 	<string name="Send">送る</string>
 	<string name="Send_as_file">ファイルとして送信する</string>
 	<string name="send_file_group">\"%1$s\"を\"%2$s\"に送りますか？</string>
@@ -866,7 +856,6 @@
 	<string name="Shown">表示ずみ</string>
 	<string name="Sign_in">ログイン</string>
 	<string name="Sign_in_desktop_app">デスクトップにログイン</string>
-	<string name="Sign_with_emergency_contact">緊急連絡先でログイン</string>
 	<string name="Sign_with_phone_number">電話番号でログイン</string>
 	<string name="Silence_Notification">サイレント通知</string>
 	<string name="Size">サイズ</string>
@@ -991,7 +980,6 @@
 	<string name="Videos">動画</string>
 	<string name="View">閲覧権限</string>
 	<string name="View_Authorization">閲覧権限</string>
-	<string name="View_emergency_contact">緊急連絡先を確認</string>
 	<string name="View_Wallet">ウォレットを確認</string>
 	<string name="Voice_call">音声通話</string>
 	<string name="Waiting">待機中</string>
@@ -1057,6 +1045,5 @@
 	<string name="You">自分</string>
 	<string name="You_deleted_this_message">このメッセージを削除しました。</string>
 	<string name="You_have_left_the_group">グループから退会しました</string>
-	<string name="Your_emergency_contact_has_been_changed">緊急連絡先が変更されました</string>
 	<string name="your_pin_has_been_created">PINコードが生成されました</string>
 </resources>

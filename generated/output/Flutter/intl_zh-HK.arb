@@ -170,7 +170,7 @@
 "errorInvalidAddress" : "錯誤 30102：地址格式錯誤。請輸入正確的 {arg0} {arg1} 的地址！",
 "errorInvalidAddressPlain" : "錯誤 30102：地址格式錯誤。",
 "errorInvalidCodeTooFrequent" : "錯誤 20129：發送驗證碼太頻繁，請稍後再試",
-"errorInvalidEmergencyContact" : "錯誤 20130：緊急聯繫人不正確",
+"errorInvalidEmergencyContact" : "錯誤 20130：恢復聯繫人不正確",
 "errorInvalidPinFormat" : "錯誤 20118：PIN 格式不正確",
 "errorNetworkTaskFailed" : "網絡連接失敗。檢查或切換網絡並重試",
 "errorNoPinToken" : "缺少憑據，請重新登錄之後再嘗試使用此功能。",

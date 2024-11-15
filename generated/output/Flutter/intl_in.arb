@@ -66,7 +66,6 @@
 "errorInsufficientBalance" : "KESALAHAN 20117: Saldo tidak cukup",
 "errorInvalidAddressPlain" : "KESALAHAN 30102: Format alamat tidak valid.",
 "errorInvalidCodeTooFrequent" : "KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti.",
-"errorInvalidEmergencyContact" : "KESALAHAN 20130: Kontak darurat tidak valid",
 "errorInvalidPinFormat" : "KESALAHAN 20118: Format PIN tidak valid",
 "errorNotFound" : "KESALAHAN 404: Tidak ditemukan",
 "errorNotSupportedAudioFormat" : "Tidak mendukung format audio, harap buka dengan aplikasi lain.",

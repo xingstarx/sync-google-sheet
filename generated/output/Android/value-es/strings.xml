@@ -27,7 +27,6 @@
 	<string name="Add_circle">Añadir círculo</string>
 	<string name="Add_Contact">Añadir contacto</string>
 	<string name="Add_conversations">Añadir conversaciones</string>
-	<string name="Add_emergency_contact">Añadir contacto de emergencia</string>
 	<string name="Add_group_description">Añadir descripción del grupo</string>
 	<string name="Add_memo">Añadir nota</string>
 	<string name="Add_participants">Añadir participantes</string>
@@ -164,7 +163,6 @@
 	<string name="Chain">Cadena</string>
 	<string name="Change">Cambiar</string>
 	<string name="Change_Amount">Cambiar cantidad</string>
-	<string name="Change_emergency_contact">Cambiar contacto de emergencia</string>
 	<string name="Change_Number_Instead">Cambiar número en su lugar</string>
 	<string name="Change_Phone_Number">Cambiar número de teléfono</string>
 	<string name="Change_PIN">Cambiar PIN</string>
@@ -307,7 +305,6 @@
 	<string name="Delete">Borrar</string>
 	<string name="delete_account_hint">Eliminar la información de tu cuenta y la foto de perfil</string>
 	<string name="Delete_address">Eliminar dirección</string>
-	<string name="Delete_emergency_contact">Eliminar contacto de emergencia</string>
 	<string name="Delete_for_everyone">Eliminar para todos</string>
 	<string name="Delete_for_me">Eliminar para mí</string>
 	<string name="Delete_Group">Eliminar grupo</string>
@@ -367,19 +364,16 @@
 	<string name="Edit_Group_Description">Editar descripción del grupo</string>
 	<string name="Edit_group_name">Editar nombre de grupo</string>
 	<string name="Edit_Name">Editar nombre</string>
-	<string name="Emergency_Contact">Contacto de emergencia</string>
 	<string name="Empty_address_book">Libreta de direcciones vacía</string>
 	<string name="Enable_after_1_minute">Habilitado después de 1 minuto</string>
 	<string name="Enable_after_30_minutes">Habilitado después de 30 minutos</string>
 	<string name="Enable_db_debug">Habilitar depuración de base de datos</string>
-	<string name="Enable_Emergency_Contact">Habilitar contacto de emergencia</string>
 	<string name="Enable_immediately">Habilitado inmediatamente</string>
 	<string name="Enable_web_debug">Habilitar depuración web</string>
 	<string name="Encrypted">Encriptado</string>
 	<string name="End_to_End_Encryption">Cifrado de extremo a extremo</string>
 	<string name="Enter_new_phone_number">Introduce tu nuevo número de teléfono</string>
 	<string name="Enter_PIN_to_delete_account">Introduce tu PIN para eliminar tu cuenta</string>
-	<string name="Enter_your_emergency_contact_Mixin_ID">Introduce tu contacto de emergencia Mixin ID</string>
 	<string name="Enter_your_new_PIN">Introduce tu nuevo PIN</string>
 	<string name="Enter_your_old_PIN">Introduce tu antiguo PIN</string>
 	<string name="Enter_your_phone_number">Introduce tu número telefónico</string>
@@ -399,7 +393,6 @@
 	<string name="error_invalid_address">ERROR 30102: formato de dirección no válido. Introduce la dirección %1$s %2$s correcta.</string>
 	<string name="error_invalid_address_plain">ERROR 30102: formato de dirección no válido.</string>
 	<string name="error_invalid_code_too_frequent">ERROR 20129: enviar el código de verificación con demasiada frecuencia, inténtalo de nuevo más tarde.</string>
-	<string name="error_invalid_emergency_contact">ERROR 20130: Contacto de emergencia no válido</string>
 	<string name="error_invalid_pin_format">ERROR 20118: Formato de PIN no válido. </string>
 	<string name="error_memo_too_long">Memo tiene demasiados caracteres, el máximo es 200</string>
 	<string name="error_not_found">Error 404 no encontrado</string>
@@ -774,8 +767,6 @@
 	<string name="Remove_all_floats">¿Eliminar todos los flotadores?</string>
 	<string name="Remove_Bot">Eliminar Bot</string>
 	<string name="Remove_Contact">Eliminar contacto</string>
-	<string name="Remove_emergency_contact">Eliminar contacto de emergencia</string>
-	<string name="Remove_emergency_contact_confirmation">¿Eliminar contacto de emergencia?</string>
 	<string name="Remove_Participants">Eliminar participantes</string>
 	<string name="Remove_Stickers">Eliminar pegatinas</string>
 	<string name="Removing">Eliminando…</string>
@@ -837,7 +828,6 @@
 	<string name="Secured_by_TIP">Protegido por TIP</string>
 	<string name="Security">Seguridad</string>
 	<string name="Select">Seleccionar</string>
-	<string name="Select_Emergency_Contact">Seleccionar contacto de emergencia</string>
 	<string name="Send">Enviar</string>
 	<string name="Send_as_file">Enviar como archivo</string>
 	<string name="send_file_group">¿Enviar %1$s a %2$s?</string>
@@ -916,7 +906,6 @@
 	<string name="Shown">Mostrado</string>
 	<string name="Sign_in">Iniciar sesión</string>
 	<string name="Sign_in_desktop_app">Iniciar sesión en la aplicación de escritorio</string>
-	<string name="Sign_with_emergency_contact">Iniciar sesión con contacto de emergencia</string>
 	<string name="Sign_with_phone_number">Iniciar sesión con número de teléfono</string>
 	<string name="Silence_Notification">Notificación de silencio</string>
 	<string name="Size">Tamaño</string>
@@ -1054,7 +1043,6 @@
 	<string name="Videos">Vídeos</string>
 	<string name="View">Ver</string>
 	<string name="View_Authorization">Ver autorización</string>
-	<string name="View_emergency_contact">Ver contacto de emergencia</string>
 	<string name="View_Wallet">Ver Cartera</string>
 	<string name="Voice_call">Llamada de voz</string>
 	<string name="Waiting">Esperando</string>
@@ -1121,6 +1109,5 @@
 	<string name="You">Tú</string>
 	<string name="You_deleted_this_message">Has borrado este mensaje</string>
 	<string name="You_have_left_the_group">Te has ido del grupo</string>
-	<string name="Your_emergency_contact_has_been_changed">Tu contacto de emergencia se ha cambiado</string>
 	<string name="your_pin_has_been_created">Tu PIN se ha creado</string>
 </resources>

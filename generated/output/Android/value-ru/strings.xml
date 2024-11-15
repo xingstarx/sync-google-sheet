@@ -27,7 +27,6 @@
 	<string name="Add_circle">Добавить круг</string>
 	<string name="Add_Contact">Добавить контакт</string>
 	<string name="Add_conversations">Добавить беседы</string>
-	<string name="Add_emergency_contact">Добавить экстренный контакт</string>
 	<string name="Add_group_description">Добавить описание группы</string>
 	<string name="Add_memo">добавить памятку</string>
 	<string name="Add_participants">Добавить участников</string>
@@ -150,7 +149,6 @@
 	<string name="Chain">Цепь</string>
 	<string name="Change">Изменить</string>
 	<string name="Change_Amount">Изменить сумму</string>
-	<string name="Change_emergency_contact">Изменить экстренный контакт</string>
 	<string name="Change_Number_Instead">Вместо этого изменить номер</string>
 	<string name="Change_Phone_Number">Изменить номер телефона</string>
 	<string name="Change_PIN">Изменить PIN-код</string>
@@ -287,7 +285,6 @@
 	<string name="Delete">Удалить</string>
 	<string name="delete_account_hint">Удалить информацию об учетной записи и фото профиля</string>
 	<string name="Delete_address">Удалить адрес</string>
-	<string name="Delete_emergency_contact">Удалить экстренный контакт</string>
 	<string name="Delete_for_everyone">Удалить для всех</string>
 	<string name="Delete_for_me">Удалить для меня</string>
 	<string name="Delete_Group">Удалить группу</string>
@@ -347,19 +344,16 @@
 	<string name="Edit_Group_Description">Изменить описание группы</string>
 	<string name="Edit_group_name">Изменить имя группы</string>
 	<string name="Edit_Name">Редактировать название</string>
-	<string name="Emergency_Contact">Экстренный контакт</string>
 	<string name="Empty_address_book">Пустая адресная книга</string>
 	<string name="Enable_after_1_minute">Включено через 1 минуту</string>
 	<string name="Enable_after_30_minutes">Включено через 30 минут</string>
 	<string name="Enable_db_debug">Включить отладку БД</string>
-	<string name="Enable_Emergency_Contact">Включить экстренный контакт</string>
 	<string name="Enable_immediately">Включено немедленно</string>
 	<string name="Enable_web_debug">Включить веб-отладку</string>
 	<string name="Encrypted">Зашифровано</string>
 	<string name="End_to_End_Encryption">Сквозное шифрование</string>
 	<string name="Enter_new_phone_number">Введите новый номер телефона</string>
 	<string name="Enter_PIN_to_delete_account">Введите свой PIN-код, чтобы удалить свою учетную запись</string>
-	<string name="Enter_your_emergency_contact_Mixin_ID">Введите свой контакт для экстренной связи Mixin ID</string>
 	<string name="Enter_your_phone_number">Введите свой номер телефона</string>
 	<string name="Enter_your_PIN">Введите свой PIN-код</string>
 	<string name="Enter_your_PIN_to_continue">Введите PIN-код, чтобы продолжить</string>
@@ -377,7 +371,6 @@
 	<string name="error_invalid_address">ОШИБКА 30102: Недопустимый формат адреса. Пожалуйста, введите правильный адрес %1$s %2$s!</string>
 	<string name="error_invalid_address_plain">ОШИБКА 30102: Недопустимый формат адреса.</string>
 	<string name="error_invalid_code_too_frequent">ОШИБКА 20129: Код подтверждения отправляется слишком часто. Повторите попытку позже.</string>
-	<string name="error_invalid_emergency_contact">ОШИБКА 20130: Недопустимый экстренный контакт</string>
 	<string name="error_invalid_pin_format">ОШИБКА 20118: Неверный формат PIN-кода. </string>
 	<string name="error_memo_too_long">В памятке слишком много символов, максимум 200</string>
 	<string name="error_not_found">Ошибка 404: Не найдено</string>
@@ -742,8 +735,6 @@
 	<string name="Remove_all_floats">Удалить все поплавки?</string>
 	<string name="Remove_Bot">Удалить бота</string>
 	<string name="Remove_Contact">Удалить контакт</string>
-	<string name="Remove_emergency_contact">Удалить экстренный контакт</string>
-	<string name="Remove_emergency_contact_confirmation">Удалить экстренный контакт?</string>
 	<string name="Remove_Participants">Удалить участников</string>
 	<string name="Remove_Stickers">Удалить наклейки</string>
 	<string name="Removing">Удаление…</string>
@@ -804,7 +795,6 @@
 	<string name="secret_url">https://mixin.one/pages/1000007</string>
 	<string name="Security">Безопасность</string>
 	<string name="Select">Выбрать</string>
-	<string name="Select_Emergency_Contact">Выберите экстренный контакт</string>
 	<string name="Send">Отправить</string>
 	<string name="Send_as_file">Отправить как файл</string>
 	<string name="send_file_group">Отправить %1$s на %2$s?</string>
@@ -883,7 +873,6 @@
 	<string name="Shown">Показано</string>
 	<string name="Sign_in">Войти</string>
 	<string name="Sign_in_desktop_app">Войти в настольное приложение</string>
-	<string name="Sign_with_emergency_contact">Войти через контакт для экстренных случаев</string>
 	<string name="Sign_with_phone_number">Войти через номер телефона</string>
 	<string name="Silence_Notification">Беззвучное уведомление</string>
 	<string name="Size">Размер</string>
@@ -1018,7 +1007,6 @@
 	<string name="Videos">Видео</string>
 	<string name="View">Вид</string>
 	<string name="View_Authorization">Просмотр авторизации</string>
-	<string name="View_emergency_contact">Посмотреть экстренный контакт</string>
 	<string name="View_Wallet">Посмотреть кошелек</string>
 	<string name="Voice_call">Голосовой вызов</string>
 	<string name="Waiting">Ожидание</string>
@@ -1084,6 +1072,5 @@
 	<string name="You">Вы</string>
 	<string name="You_deleted_this_message">Вы удалили это сообщение</string>
 	<string name="You_have_left_the_group">Вы вышли из группы</string>
-	<string name="Your_emergency_contact_has_been_changed">Ваш экстренный контакт был изменен</string>
 	<string name="your_pin_has_been_created">Ваш PIN-код был создан</string>
 </resources>

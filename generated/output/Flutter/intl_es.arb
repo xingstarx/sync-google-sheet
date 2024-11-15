@@ -143,7 +143,6 @@
 "errorInvalidAddress" : "ERROR 30102: formato de dirección no válido. Introduce la dirección {arg0} {arg1} correcta.",
 "errorInvalidAddressPlain" : "ERROR 30102: formato de dirección no válido.",
 "errorInvalidCodeTooFrequent" : "ERROR 20129: enviar el código de verificación con demasiada frecuencia, inténtalo de nuevo más tarde.",
-"errorInvalidEmergencyContact" : "ERROR 20130: Contacto de emergencia no válido",
 "errorInvalidPinFormat" : "ERROR 20118: Formato de PIN no válido.",
 "errorNetworkTaskFailed" : "La conexión de red ha fallado. Comprueba o cambia tu red e inténtalo de nuevo",
 "errorNoPinToken" : "Sin token, vuelva a iniciar sesión e intenta esta función de nuevo.",

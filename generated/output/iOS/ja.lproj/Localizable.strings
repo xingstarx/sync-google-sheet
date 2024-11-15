@@ -16,7 +16,7 @@
 "add_circle" = "グループリストを追加";
 "add_contact" = "友だちを追加";
 "add_conversations" = "チャットルームを追加";
-"add_emergency_contact" = "緊急連絡先を追加";
+"add_emergency_contact" = "Add recovery contact";
 "add_memo" = "メモを追加";
 "add_or_remove_favorite_bots" = "Add or remove favorite bots";
 "add_participants" = "メンバーを追加";
@@ -198,7 +198,7 @@
 "chain" = "チェーン";
 "change" = "変更";
 "change_amount" = "数量を変更";
-"change_emergency_contact" = "緊急連絡先を変更";
+"change_emergency_contact" = "Change recovery contact";
 "change_name" = "名前を変更";
 "change_number" = "電話番号を変更";
 "change_number_instead" = "電話番号を変更";
@@ -381,7 +381,7 @@
 "delete_chat" = "チャットを削除";
 "delete_circle" = "グループリストを削除";
 "delete_contact_chat_confirmation" = "\"%@\"からチャットを削除しますか?";
-"delete_emergency_contact" = "緊急連絡先を削除";
+"delete_emergency_contact" = "Delete recovery contact";
 "delete_for_everyone" = "全員のチャットから削除";
 "delete_for_me" = "あなたのチャットから削除";
 "delete_group_chat_confirmation" = "\"%@\"のグループチャットを削除しますか?";
@@ -447,10 +447,10 @@
 "edit_name" = "名前を変更";
 "editing_address" = "Editing Address";
 "editing_address_failed" = "Editing Address Failed";
-"emergency_contact" = "緊急連絡先";
+"emergency_contact" = "Recovery Contact";
 "enable" = "Enable";
 "enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
-"enable_emergency_contact" = "緊急連絡先を有効にする";
+"enable_emergency_contact" = "Enable Recovery Contact";
 "enable_face_pay_hint" = "PINコードを確認して顔認証を利用可能にしてください";
 "enable_pay" = "%@の支払いを有効化";
 "enable_pay_confirmation" = "%@の支払いを有効化しますか？";
@@ -461,7 +461,7 @@
 "enter_new_phone_number" = "新しい電話番号を入力してください";
 "enter_pin_to_delete_account" = "アカウントを削除するためにPINコードを入力してください";
 "enter_your_anonymous_number" = "Enter your anonymous number";
-"enter_your_emergency_contact_mixin_id" = "あなたの緊急連絡先のMixin IDを入力してください";
+"enter_your_emergency_contact_mixin_id" = "Enter your recovery contact Mixin ID";
 "enter_your_new_pin" = "Enter your new PIN";
 "enter_your_old_pin" = "Enter your old PIN";
 "enter_your_phone_number" = "電話番号を入力してください";
@@ -480,7 +480,7 @@
 "error_internal_with_msg" = "内部エラー: %@";
 "error_invalid_address_plain" = "エラー30102：無効なアドレス形式です";
 "error_invalid_code_too_frequent" = "エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。";
-"error_invalid_emergency_contact" = "エラー 20130：無効な緊急連絡先です";
+"error_invalid_emergency_contact" = "ERROR 20130: Invalid recovery contact";
 "error_invalid_quote_amount" = "ERROR 10614: The input amount is either too small or too large, please adjust the amount.";
 "error_invalid_swap" = "ERROR 10611: No quotes available at the moment, please try again later.";
 "error_network_task_failed" = "ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。";
@@ -929,9 +929,9 @@
 "remove_bot_hint" = "ミニアプリを削除しますか? トーク履歴はデバイスから削除されません";
 "remove_contact" = "連絡先を削除";
 "remove_contact_hint" = "友達を削除しますか? トーク履歴はデバイスから削除されません";
-"remove_emergency_contact" = "緊急連絡先を削除する";
-"remove_emergency_contact_confirmation" = "緊急連絡先を削除しますか？";
-"remove_emergency_contact_for_sure" = "本当に緊急連絡先を削除しますか?";
+"remove_emergency_contact" = "Remove recovery contact";
+"remove_emergency_contact_confirmation" = "Remove recovery contact?";
+"remove_emergency_contact_for_sure" = "Remove recovery contact for sure?";
 "remove_from_group" = "グループから退会させる";
 "remove_stickers" = "スタンプの削除";
 "reply" = "返信";
@@ -1016,7 +1016,7 @@
 "select_a_token_for_the_fee" = "Select a token for the fee";
 "select_all" = "Select All";
 "select_date" = "Select Date";
-"select_emergency_contact" = "緊急連絡先を選択";
+"select_emergency_contact" = "Select Recovery Contact";
 "select_limit" = "Select up to %d";
 "select_more_photos" = "さらに選択";
 "select_payment_method" = "Select Payment Method";
@@ -1062,7 +1062,7 @@
 "set" = "設定";
 "set_as_avatar" = "Set as Avatar";
 "set_disappearing_message_time_to" = "1$sは、消えるメッセージの有効時間を%@に設定しました。";
-"set_emergency_create_successfully" = "Set emergency contact successfully";
+"set_emergency_create_successfully" = "Set recovery contact successfully";
 "set_new_pin" = "新しいPINコードを設定";
 "set_or_update_pin_failed" = "Set or update PIN failed";
 "set_pin_successfully" = "PINコードの設定が完了しました。";
@@ -1107,7 +1107,7 @@
 "show_in_chat" = "チャット内で表示";
 "show selected" = "Show Selected(%@)";
 "sign_in" = "ログイン";
-"sign_with_emergency_contact" = "緊急連絡先でログイン";
+"sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "電話番号でログイン";
 "signature_request" = "Signature Request";
 "signature_request_from" = "This signature request is issued by %@.";
@@ -1309,7 +1309,7 @@
 "videos" = "動画";
 "view_all" = "View All";
 "view_authorization" = "閲覧権限";
-"view_emergency_contact" = "緊急連絡先を確認";
+"view_emergency_contact" = "View recovery contact";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
 "view_storage" = "View Storage";
@@ -1414,7 +1414,7 @@
 "you_deleted_this_message" = "このメッセージを削除しました。";
 "you_have_a_new_message" = "新しいメッセージがあります";
 "you_have_left_the_group" = "グループから退会しました";
-"your_emergency_contact_has_been_changed" = "緊急連絡先が変更されました";
+"your_emergency_contact_has_been_changed" = "Your recovery contact has been changed";
 "your_phone_number_has_been_changed" = "電話番号が変更されました";
 "your_pin_has_been_changed" = "PINコードが変更されました";
 "your_pin_has_been_created" = "PINコードが生成されました";
