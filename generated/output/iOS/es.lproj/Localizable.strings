@@ -1062,7 +1062,7 @@
 "set" = "Establecer";
 "set_as_avatar" = "Set as Avatar";
 "set_disappearing_message_time_to" = "%1$@ ha establecido el tiempo de desaparición del mensaje a %2$@";
-"set_emergency_create_successfully" = "Se ha establecido el contacto de emergencia con éxito";
+"set_emergency_create_successfully" = "Set recovery contact successfully";
 "set_new_pin" = "Establecer un nuevo PIN";
 "set_or_update_pin_failed" = "Error al establecer o actualizar el PIN";
 "set_pin_successfully" = "Se ha establecido el PIN con éxito";

@@ -841,7 +841,6 @@
 	<string name="Senders">Remitentes</string>
 	<string name="Set">Establecer</string>
 	<string name="set_disappearing_message_time_to">%1$s ha establecido el tiempo de desaparición del mensaje a %2$s</string>
-	<string name="Set_emergency_create_successfully">Se ha establecido el contacto de emergencia con éxito</string>
 	<string name="Set_new_PIN">Establecer un nuevo PIN</string>
 	<string name="Set_or_update_PIN_failed">Error al establecer o actualizar el PIN</string>
 	<string name="Set_PIN">Establecer PIN</string>
