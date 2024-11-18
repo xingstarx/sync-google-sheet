@@ -1079,12 +1079,12 @@
 "setting_desktop_confirm" = " Sahkan log masuk ke Desktop Mixin Messenger";
 "setting_duplicate_transfer_desc" = "Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam";
 "setting_emergency_change_mobile" = "Adakah anda mahu menukar nombor telefon bimbit anda sekarang?";
-"setting_emergency_content" = "Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda.";
-"setting_emergency_desc" = "Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut.";
-"setting_emergency_pin_tip" = "Kenalan kecemasan anda dilindungi oleh PIN";
+"setting_emergency_content" = "The recovery contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.";
+"setting_emergency_desc" = "When your lost your mobile number, please contact your recovery contact by phone or other means to get the Mixin ID and verification code. Read our Recovery Contact to learn more.";
+"setting_emergency_pin_tip" = "Your recovery contact is protected by PIN";
 "setting_emergency_send_code" = "Masukkan kod 4 digit yang dihantar ke Mixin ID: %@";
-"setting_emergency_set_message" = "Sahkan untuk menetapkan Mixin ID %@ sebagai kenalan kecemasan anda? Sila maklum bahawa pihak lain mesti menambahkan anda sebagai kenalan untuk berjaya disiapkan.";
-"setting_emergency_warning" = "Perhatian: Kontak Kecemasan tidak dapat membantu anda memulih semula PIN";
+"setting_emergency_set_message" = "Confirm to set Mixin ID %@ as your recovery contact? Please note that the other party must add you as a contact to set up successfully.";
+"setting_emergency_warning" = "Attention: the Recovery Contact cannot help you to recover PIN";
 "setting_mobile_contact_warning" = "Ini akan mengalih keluar kenalan anda dari pelayan Mixin.";
 "setting_notification_transfer_summary" = "Display notifications when receiving a transfer greater than or equal to %@.";
 "setting_privacy_tip" = "Tukar siapa yang boleh menambahkan anda ke perbualan dan kumpulan.";

@@ -1079,12 +1079,12 @@
 "setting_desktop_confirm" = "Подтвердите вход в Mixin Messenger Desktop";
 "setting_duplicate_transfer_desc" = "Отображение диалогового окна подтверждения при переводе одной и той же суммы одному и тому же человеку в течение 6 часов.";
 "setting_emergency_change_mobile" = "Вы хотите изменить свой номер мобильного телефона сейчас?";
-"setting_emergency_content" = "Экстренный контакт предназначен для того, чтобы помочь вам войти в свою учетную запись, если вы потерялись и не можете восстановить свой номер мобильного телефона.";
-"setting_emergency_desc" = "Если вы потеряли свой номер мобильного телефона, свяжитесь со своим экстренным контактом по телефону или другим способом, чтобы получить Mixin ID и код подтверждения. Прочтите нашу контактную информацию для экстренных случаев, чтобы узнать больше.";
-"setting_emergency_pin_tip" = "Ваш экстренный контакт защищен PIN-кодом";
+"setting_emergency_content" = "The recovery contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.";
+"setting_emergency_desc" = "When your lost your mobile number, please contact your recovery contact by phone or other means to get the Mixin ID and verification code. Read our Recovery Contact to learn more.";
+"setting_emergency_pin_tip" = "Your recovery contact is protected by PIN";
 "setting_emergency_send_code" = "Введите 4-значный код, отправленный на Mixin ID: %@.";
-"setting_emergency_set_message" = "Подтвердить установку Mixin ID %@ в качестве контакта для экстренных случаев? Обратите внимание, что другая сторона должна добавить вас в качестве контакта для успешной настройки.";
-"setting_emergency_warning" = "Внимание: экстренный контакт не может помочь вам восстановить PIN-код";
+"setting_emergency_set_message" = "Confirm to set Mixin ID %@ as your recovery contact? Please note that the other party must add you as a contact to set up successfully.";
+"setting_emergency_warning" = "Attention: the Recovery Contact cannot help you to recover PIN";
 "setting_mobile_contact_warning" = "Это удалит ваши контакты с серверов Mixin.";
 "setting_notification_transfer_summary" = "Отображение уведомлений при получении перевода, превышающего или равного %@.";
 "setting_privacy_tip" = "Измените, кто может добавлять вас в беседу и группы.";

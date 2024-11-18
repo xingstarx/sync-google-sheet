@@ -1079,12 +1079,12 @@
 "setting_desktop_confirm" = "デスクトップ版Mixinへのログインを確認";
 "setting_duplicate_transfer_desc" = "6時間以内に同じ人に同額の送金を実行する際、確認を行う。";
 "setting_emergency_change_mobile" = "新しい電話番号の登録をしますか？";
-"setting_emergency_content" = "緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。";
-"setting_emergency_desc" = "登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは、こちらを確認してください。";
-"setting_emergency_pin_tip" = "あなたの緊急連絡先はPINコードにより保護されています。";
+"setting_emergency_content" = "The recovery contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.";
+"setting_emergency_desc" = "When your lost your mobile number, please contact your recovery contact by phone or other means to get the Mixin ID and verification code. Read our Recovery Contact to learn more.";
+"setting_emergency_pin_tip" = "Your recovery contact is protected by PIN";
 "setting_emergency_send_code" = "Mixin ID: %@に送信された4桁のコードを入力してください";
-"setting_emergency_set_message" = "（Mixin ID %@）を緊急連絡先として設定しますか？緊急連絡先登録の設定は相互の友だち登録が必要です。";
-"setting_emergency_warning" = "警告：緊急連絡先でもPINコードは復元できません 如何なる場合においてもご自身で管理してください";
+"setting_emergency_set_message" = "Confirm to set Mixin ID %@ as your recovery contact? Please note that the other party must add you as a contact to set up successfully.";
+"setting_emergency_warning" = "Attention: the Recovery Contact cannot help you to recover PIN";
 "setting_mobile_contact_warning" = "これにより、Mixinサーバーから連絡先が削除されます。";
 "setting_notification_transfer_summary" = "%@以上の金額を受け取った時に通知する";
 "setting_privacy_tip" = "あなたをチャットルームやグループに追加できる人を変更";
