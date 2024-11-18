@@ -635,7 +635,7 @@
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";
 "label" = "ラベル";
 "landing_delete_content" = "あなたのアカウントは(%@) 後に消去されます。ログインを継続する場合、あなたのアカウント消去はキャンセルされます。";
-"landing_have_account" = "Already have an account";
+"landing_have_account" = "I already have an account";
 "landing_validation_title" = "%@に送信された4桁のコードを入力してください";
 "language" = "言語";
 "large_amount_confirmation" = "送金時に通知を行う金額の設定";
@@ -1130,6 +1130,7 @@
 "show_in_chat" = "チャット内で表示";
 "show_mnemonic_phrase" = "Show Mnemonic Phrase";
 "sign_in" = "ログイン";
+"sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "電話番号でログイン";

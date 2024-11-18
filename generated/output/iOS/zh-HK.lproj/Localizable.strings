@@ -1130,6 +1130,7 @@
 "show_in_chat" = "在聊天中展示";
 "show_mnemonic_phrase" = "顯示助記詞";
 "sign_in" = "登錄";
+"sign_in_no_account" = "還沒有賬户？";
 "sign_in_with_mnemonic_phrase" = "使用助記詞登錄";
 "sign_with_emergency_contact" = "通過恢復聯繫人登錄";
 "sign_with_phone_number" = "通過手機號登錄";

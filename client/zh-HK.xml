@@ -2037,6 +2037,7 @@
   <string name="or" platform="android,iOS">或</string>
   <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">使用助記詞登錄</string>
   <string name="landing_have_account" platform="android,iOS">已有帳户</string>
+  <string name="sign_in_no_account" platform="android,iOS">還沒有賬户？</string>
   <string name="Create_Account" platform="android,iOS">創建帳户</string>
   <string name="Mobile_Phone" platform="android,iOS">手機</string>
   <string name="Mnemonic_Phrase" platform="android,iOS">助記詞</string>

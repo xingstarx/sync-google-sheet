@@ -635,7 +635,7 @@
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";
 "label" = "Этикетка";
 "landing_delete_content" = "Ваш аккаунт будет удален %@. Если вы продолжите входить в систему, запрос на удаление вашего аккаунта будет отменен.";
-"landing_have_account" = "Already have an account";
+"landing_have_account" = "I already have an account";
 "landing_validation_title" = "Введите 4-значный код, отправленный вам на %@.";
 "language" = "Язык";
 "large_amount_confirmation" = "Подтверждение крупной суммы";
@@ -1130,6 +1130,7 @@
 "show_in_chat" = "Показать в чате";
 "show_mnemonic_phrase" = "Show Mnemonic Phrase";
 "sign_in" = "Войти";
+"sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "Войти через номер телефона";

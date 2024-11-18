@@ -1334,6 +1334,7 @@
 	<string name="sign_by_pin">使用 PIN 签名</string>
 	<string name="Sign_in">登录</string>
 	<string name="Sign_in_desktop_app">登录桌面端</string>
+	<string name="sign_in_no_account">还没有账户？</string>
 	<string name="Sign_in_with_Mnemonic_Phrase">使用助记词登录</string>
 	<string name="Sign_with_emergency_contact">通过恢复联系人登录</string>
 	<string name="Sign_with_phone_number">通过手机号登录</string>

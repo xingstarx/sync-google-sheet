@@ -635,7 +635,7 @@
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";
 "label" = "Label";
 "landing_delete_content" = "Your account will be deleted on %@, if you continue to log in, the request to delete your account will be cancelled.";
-"landing_have_account" = "Already have an account";
+"landing_have_account" = "I already have an account";
 "landing_validation_title" = "Masukkan kode 4 digit yang dikirim kepada Anda di %@";
 "language" = "Bahasa";
 "large_amount_confirmation" = "Konfirmasi Jumlah Besar";
@@ -1130,6 +1130,7 @@
 "show_in_chat" = "Show in chat";
 "show_mnemonic_phrase" = "Show Mnemonic Phrase";
 "sign_in" = "Masuk";
+"sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "Masuk dengan nomor telepon";

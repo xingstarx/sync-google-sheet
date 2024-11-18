@@ -635,7 +635,7 @@
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";
 "label" = "Etiqueta";
 "landing_delete_content" = "Tu cuenta se eliminará el %@; si continúas iniciando sesión, se cancelará la solicitud para eliminar tu cuenta.";
-"landing_have_account" = "Already have an account";
+"landing_have_account" = "I already have an account";
 "landing_validation_title" = "Introduce el código de 4 dígitos que te enviamos a %@";
 "language" = "Idioma";
 "large_amount_confirmation" = "Confirmación de gran cantidad";
@@ -1130,6 +1130,7 @@
 "show_in_chat" = "Mostrar en el chat";
 "show_mnemonic_phrase" = "Show Mnemonic Phrase";
 "sign_in" = "Iniciar sesión";
+"sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "Iniciar sesión con número de teléfono";
