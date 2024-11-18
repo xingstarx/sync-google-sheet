@@ -129,7 +129,7 @@
   <string name="ANSWER" platform="android">RESPUESTA</string>
   <string name="app_card_share_disallow" platform="Desktop">No permitir compartir esta URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">La tarjeta se ha configurado para no permitir compartir</string>
-  <string name="file_shareable_false" platform="android, iOS">El archivo se ha configurado para no permitir compartir</string>
+  <string name="file_shareable_false" platform="android">El archivo se ha configurado para no permitir compartir</string>
   <string name="app_name" platform="android">Mixin</string>
   <string name="app_update_short_hint" platform="iOS">Actualiza Mixin desde App Store para continuar usando el servicio.</string>
   <string name="app_update_tips" platform="iOS">¡La versión actual (%@) ya no está disponible! Haz clic en Actualizar a continuación para actualizar a la última versión de la App Store.</string>
@@ -732,13 +732,13 @@
   <string name="Link_recognition_failure" platform="iOS">Error de reconocimiento de enlace</string>
   <string name="link_shareable_false" platform="iOS">El enlace se ha configurado para no permitir compartir</string>
   <string name="linked_device" platform="Desktop">dispositivo vinculado</string>
-  <string name="Links" platform="android, iOS">Enlaces</string>
+  <string name="Links" platform="android">Enlaces</string>
   <string name="Live" platform="android, iOS, Desktop">En vivo</string>
   <string name="live_permission" platform="android">Mixin necesita acceso para dibujar sobre otras aplicaciones para reproducir videos en modo Picture-in-Picture.</string>
   <string name="live_shareable_false" platform="android, iOS">El directo se ha configurado para no permitir compartir</string>
   <string name="audio_shareable_false" platform="android, iOS">El audio se ha configurado para no permitir compartir</string>
-  <string name="video_shareable_false" platform="android, iOS">El video se ha configurado para no permitir compartir</string>
-  <string name="image_shareable_false" platform="android, iOS">La imagen se ha configurado para no permitir compartir</string>
+  <string name="video_shareable_false" platform="android">El video se ha configurado para no permitir compartir</string>
+  <string name="image_shareable_false" platform="android">La imagen se ha configurado para no permitir compartir</string>
   <string name="live_stream" platform="iOS">transmisión en vivo</string>
   <string name="Loading" platform="iOS, Desktop">Cargando...</string>
   <string name="loading_time" platform="android, Desktop">La hora del sistema es inusual, continúa usándola nuevamente después de la corrección</string>
@@ -1018,12 +1018,12 @@
   <string name="Random_keyboard" platform="android">Teclado aleatorio</string>
   <string name="Raw" platform="android, iOS, Desktop">Sin procesar</string>
   <string name="Raw_Transfer" platform="android">Transferencia sin procesar</string>
-  <string name="Read_Assets" platform="android, iOS">Leer activos</string>
-  <string name="Read_Bots" platform="android, iOS">Leer Bots</string>
-  <string name="Read_Circles" platform="android, iOS">Leer círculos</string>
-  <string name="Read_Collectibles" platform="android, iOS">Leer coleccionables</string>
-  <string name="Read_Contacts" platform="android, iOS">Leer contactos</string>
-  <string name="Read_Snapshots" platform="android, iOS">Leer instantáneas</string>
+  <string name="Read_Assets" platform="android">Leer activos</string>
+  <string name="Read_Bots" platform="android">Leer Bots</string>
+  <string name="Read_Circles" platform="android">Leer círculos</string>
+  <string name="Read_Collectibles" platform="android">Leer coleccionables</string>
+  <string name="Read_Contacts" platform="android">Leer contactos</string>
+  <string name="Read_Snapshots" platform="android">Leer instantáneas</string>
   <string name="Rebate" platform="android, iOS, Desktop">Reembolso</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Tiempo de espera de recaptcha</string>
   <string name="Receive" platform="android">Recibir</string>
@@ -1419,7 +1419,7 @@
   <string name="wallet_transactions_asset_key_warning" platform="android, iOS">¡La clave de activo NO es una dirección de depósito!</string>
   <string name="wallet_transfer_recent_tip" platform="android, iOS">Ya has transferido %3$s a %2$s hace %1$s. ¿Quieres transferirlo de nuevo?</string>
   <string name="wallet_withdrawal_changed" platform="android, iOS">La tarifa de retiro se ha cambiado de %1$s a %2$s, ¿quieres continuar con la solicitud?</string>
-  <string name="wallet_withdrawal_not_in_addresses" platform="android, iOS">%1$s Esta dirección no está en la lista blanca de direcciones de retiro, verifíquela cuidadosamente.</string>
+  <string name="wallet_withdrawal_not_in_addresses" platform="android">%1$s Esta dirección no está en la lista blanca de direcciones de retiro, verifíquela cuidadosamente.</string>
   <string name="wallet_withdrawal_recent_tip" platform="android, iOS">Ya has retirado %3$s a %2$s hace %1$s, ¿quieres retirarlo de nuevo?</string>
   <string name="web_cannot_reached_desc" platform="android, iOS">%1$s ha tardado demasiado en responder. Verifica tu red e intenta cambiar 4G, Wi-Fi o VPN para recargar la página.</string>
   <string name="web_cannot_reached_title" platform="android, iOS">No se puede acceder a esta página web</string>

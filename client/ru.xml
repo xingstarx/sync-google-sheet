@@ -681,7 +681,7 @@
   <string name="Link_desktop_success" platform="android">Связать успех рабочего стола</string>
   <string name="Link_recognition_failure" platform="iOS">Сбой распознавания ссылки</string>
   <string name="link_shareable_false" platform="iOS">Ссылка была настроена так, чтобы не разрешать совместное использование</string>
-  <string name="Links" platform="android, iOS">Ссылки</string>
+  <string name="Links" platform="android">Ссылки</string>
   <string name="Live" platform="android, iOS, Desktop">Вживую</string>
   <string name="live_permission" platform="android">Mixin требуется доступ для рисования поверх других приложений для воспроизведения видео в режиме «Картинка в картинке».</string>
   <string name="live_shareable_false" platform="android, iOS">Прямая трансляция была настроена так, чтобы не разрешать делиться</string>
@@ -945,12 +945,12 @@
   <string name="quit_mixin" platform="Desktop">Выйти из Mixin</string>
   <string name="quote" platform="android">цитировать</string>
   <string name="Raw" platform="android, iOS">Исходный</string>
-  <string name="Read_Assets" platform="android, iOS">Чтение активов</string>
-  <string name="Read_Bots" platform="android, iOS">Чтение ботов</string>
-  <string name="Read_Circles" platform="android, iOS">Чтение кругов</string>
-  <string name="Read_Collectibles" platform="android, iOS">Чтение коллекционных предметов</string>
-  <string name="Read_Contacts" platform="android, iOS">Чтение контактов</string>
-  <string name="Read_Snapshots" platform="android, iOS">Чтение снимков</string>
+  <string name="Read_Assets" platform="android">Чтение активов</string>
+  <string name="Read_Bots" platform="android">Чтение ботов</string>
+  <string name="Read_Circles" platform="android">Чтение кругов</string>
+  <string name="Read_Collectibles" platform="android">Чтение коллекционных предметов</string>
+  <string name="Read_Contacts" platform="android">Чтение контактов</string>
+  <string name="Read_Snapshots" platform="android">Чтение снимков</string>
   <string name="Rebate" platform="android, iOS">Скидка</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Тайм-аут рекапчи</string>
   <string name="Receive" platform="android">Получить</string>

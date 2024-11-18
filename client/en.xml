@@ -120,7 +120,7 @@
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
   <string name="animals_and_nature" platform="Desktop">Animals &amp; Nature</string>
-  <string name="Anonymous" platform="android,iOS,Desktop">Anonymous</string>
+  <string name="Anonymous" platform="android,Desktop">Anonymous</string>
   <string name="Anonymous_Number" platform="Desktop, android, iOS">Anonymous Number</string>
   <string name="ANSWER" platform="android">ANSWER</string>
   <string name="app_card_share_disallow" platform="Desktop">Disallow sharing of this URL</string>
@@ -205,7 +205,6 @@
   <string name="buy_success" platform="android">Success</string>
   <string name="buy_success_description" platform="android">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
   <string name="buying_limitation" platform="android">Minimum %1$s, Maximum %2$s</string>
-  <string name="buying_unavailable_description" platform="iOS">Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note.</string>
   <string name="calculating" platform="android, iOS">Calculating…</string>
   <string name="Call" platform="android, iOS">Call</string>
   <string name="Call_declined" platform="android, iOS">Call declined</string>
@@ -351,7 +350,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
-  <string name="connected_dapps" platform="android, iOS">Connected dApps</string>
+  <string name="connected_dapps" platform="android">Connected dApps</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="connection_failed" platform="android, iOS">Connection Failed</string>
@@ -539,7 +538,6 @@
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">Duplicate Transfer Confirmation</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">Duplicate Withdraw Confirmation</string>
   <string name="Duration_is_too_short" platform="android, Desktop">Duration is too short</string>
-  <string name="Edit" platform="iOS, Desktop">Edit</string>
   <string name="edit_address" platform="android, iOS">Edit %1$s Address</string>
   <string name="Edit_Biography" platform="android, iOS">Edit Biography</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Edit Circle Name</string>
@@ -685,7 +683,7 @@
   <string name="File_chooser_error" platform="android, Desktop">File chooser error</string>
   <string name="File_does_not_exist" platform="android, Desktop">File does not exist</string>
   <string name="File_error" platform="android, Desktop">File error</string>
-  <string name="file_shareable_false" platform="android, iOS">The file has been set to not allow sharing</string>
+  <string name="file_shareable_false" platform="android">The file has been set to not allow sharing</string>
   <string name="Files" platform="android, iOS, Desktop">Files</string>
   <string name="Filter" platform="android, iOS">Filter</string>
   <string name="FILTER_BY" platform="android, iOS">FILTER BY</string>
@@ -760,7 +758,7 @@
   <string name="identity_verifying" platform="android">Identity Verifying</string>
   <string name="ignore_this_version" platform="Desktop">Ignore the new version</string>
   <string name="image" platform="iOS, Desktop">image</string>
-  <string name="image_shareable_false" platform="android, iOS">The image has been set to not allow sharing</string>
+  <string name="image_shareable_false" platform="android">The image has been set to not allow sharing</string>
   <string name="Immediately" platform="android, iOS">Immediately</string>
   <string name="Import" platform="android">Import</string>
   <string name="Importing_Chat_Progress" platform="iOS">Importing chat  (%1$s%)</string>
@@ -838,7 +836,7 @@
   <string name="Link_recognition_failure" platform="iOS">Link recognition failure</string>
   <string name="link_shareable_false" platform="iOS">The link has been set to not allow sharing</string>
   <string name="linked_device" platform="Desktop">linked device</string>
-  <string name="Links" platform="android, iOS">Links</string>
+  <string name="Links" platform="android">Links</string>
   <string name="Live" platform="android, iOS, Desktop">Live</string>
   <string name="live_permission" platform="android">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
   <string name="live_shareable_false" platform="android, iOS">The live has been set to not allow sharing</string>
@@ -965,7 +963,7 @@
   <string name="New_Group_Chat" platform="android, iOS">New Group Chat</string>
   <string name="new_group_name" platform="android">new group name</string>
   <string name="new_name" platform="iOS">new name</string>
-  <string name="new_price" platform="android, iOS">New Price</string>
+  <string name="new_price" platform="android">New Price</string>
   <string name="new_version_available" platform="Desktop">New version available</string>
   <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now?</string>
   <string name="new_wallet_hint" platform="android, iOS">Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.</string>
@@ -1146,7 +1144,7 @@
   <string name="Privacy" platform="android, iOS">Privacy</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Privacy Policy</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
-  <string name="processing" platform="android, iOS">Processing</string>
+  <string name="processing" platform="android">Processing</string>
   <string name="Profile" platform="iOS">Profile</string>
   <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
@@ -1167,12 +1165,12 @@
   <string name="Random_keyboard" platform="android">Random keyboard</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
-  <string name="Read_Assets" platform="android, iOS">Read Assets</string>
-  <string name="Read_Bots" platform="android, iOS">Read Bots</string>
-  <string name="Read_Circles" platform="android, iOS">Read Circles</string>
-  <string name="Read_Collectibles" platform="android, iOS">Read Collectibles</string>
-  <string name="Read_Contacts" platform="android, iOS">Read Contacts</string>
-  <string name="Read_Snapshots" platform="android, iOS">Read Snapshots</string>
+  <string name="Read_Assets" platform="android">Read Assets</string>
+  <string name="Read_Bots" platform="android">Read Bots</string>
+  <string name="Read_Circles" platform="android">Read Circles</string>
+  <string name="Read_Collectibles" platform="android">Read Collectibles</string>
+  <string name="Read_Contacts" platform="android">Read Contacts</string>
+  <string name="Read_Snapshots" platform="android">Read Snapshots</string>
   <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
   <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
   <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
@@ -1305,8 +1303,8 @@
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Secured_by_TIP" platform="android,iOS">Secured by TIP</string>
   <string name="Security" platform="android, iOS, Desktop">Security</string>
-  <string name="security_code" platform="android, iOS">Security code</string>
-  <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
+  <string name="security_code" platform="android">Security code</string>
+  <string name="security_code_error" platform="android">Please enter a valid security code</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
   <string name="select_a_card" platform="android">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
@@ -1314,7 +1312,7 @@
   <string name="Select_All" platform="iOS,android">Select All</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Recovery Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
-  <string name="select_payment_method" platform="android, iOS">Select Payment Method</string>
+  <string name="select_payment_method" platform="android">Select Payment Method</string>
   <string name="selected_count" platform="iOS">%@ Selected</string>
   <string name="selected_Item" platform="iOS">Selected 1 Item</string>
   <string name="selected_Item.count" platform="iOS">Selected %1$d Items</string>
@@ -1476,7 +1474,7 @@
   <string name="Sunday" platform="android">Sunday</string>
   <string name="suspended_deposit" platform="android, iOS">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
-  <string name="switch_payment_method" platform="android, iOS">Switch Payment Method</string>
+  <string name="switch_payment_method" platform="android">Switch Payment Method</string>
   <string name="Switching_currency" platform="android">Switching currency</string>
   <string name="Symbol" platform="android, iOS">Symbol</string>
   <string name="symbol_withdrawal" platform="android, iOS">%1$s Withdrawal</string>
@@ -1512,7 +1510,7 @@
   <string name="To" platform="android, iOS, Desktop">To</string>
   <string name="Today" platform="android, iOS, Desktop">Today</string>
   <string name="toggle_chat_info" platform="Desktop">Toggle chat info</string>
-  <string name="token_amount" platform="android, iOS">Token Amount</string>
+  <string name="token_amount" platform="android">Token Amount</string>
   <string name="Touch_ID" platform="iOS">Touch ID</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">Touch the fingerprint sensor</string>
   <string name="Trace" platform="android, Desktop">Trace</string>
@@ -1633,7 +1631,7 @@
   <string name="Verifying" platform="android">Verifying…</string>
   <string name="Version_Update" platform="android, iOS">Version Update</string>
   <string name="Video" platform="android, iOS, Desktop">Video</string>
-  <string name="video_shareable_false" platform="android, iOS">The video has been set to not allow sharing</string>
+  <string name="video_shareable_false" platform="android">The video has been set to not allow sharing</string>
   <string name="Videos" platform="android, iOS, Desktop">Videos</string>
   <string name="View" platform="android">View</string>
   <string name="View_Authorization" platform="android, iOS">View Authorization</string>
@@ -1676,7 +1674,7 @@
   <string name="wallet_transactions_asset_key_warning" platform="android, iOS">Asset key is NOT a deposit address!</string>
   <string name="wallet_transfer_recent_tip" platform="android, iOS">You have already transferred %3$s to %2$s %1$s ago. Do you want to transfer it again?</string>
   <string name="wallet_withdrawal_changed" platform="android, iOS">The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed with the request?</string>
-  <string name="wallet_withdrawal_not_in_addresses" platform="android, iOS">%1$s This address is not in the white list of withdrawal addresses, please check the address carefully.</string>
+  <string name="wallet_withdrawal_not_in_addresses" platform="android">%1$s This address is not in the white list of withdrawal addresses, please check the address carefully.</string>
   <string name="wallet_withdrawal_recent_tip" platform="android, iOS">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
   <string name="web_cannot_reached_desc" platform="android, iOS">%1$s took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page.</string>
   <string name="web_cannot_reached_title" platform="android, iOS">This webpage can't be reached</string>
@@ -1877,50 +1875,50 @@
   <string name="alert_key_contact_collectible_message" platform="android, iOS">sent you a collectible</string>
   <string name="Collectible_Hash" platform="android, iOS">Collectible Hash</string>
   <string name="Swap" platform="android,iOS">Swap</string>
-  <string name="Swapping" platform="android,iOS">Swapping</string>
+  <string name="Swapping" platform="android">Swapping</string>
   <string name="Pay" platform="android,iOS">Pay</string>
-  <string name="Received" platform="android,iOS">received</string>
+  <string name="Received" platform="android">received</string>
   <string name="Review_Order" platform="android">Review Order</string>
-  <string name="View_Transaction" platform="android,iOS">View Transaction</string>
+  <string name="View_Transaction" platform="android">View Transaction</string>
   <string name="Confirming_Transaction" platform="android">Confirming Transaction</string>
-  <string name="Transaction_Success" platform="android,iOS">Transaction Success</string>
+  <string name="Transaction_Success" platform="android">Transaction Success</string>
   <string name="Transaction_Failed" platform="android,iOS">Transaction Failed</string>
-  <string name="Best_price" platform="android,iOS">Best price</string>
+  <string name="Best_price" platform="android">Best price</string>
   <string name="Slippage" platform="android,iOS">Slippage</string>
-  <string name="slippage_auto" platform="android,iOS">Auto</string>
-  <string name="slippage_auto_desc" platform="android,iOS">Recommends the right slippage for different currencies to help you trade successfully</string>
-  <string name="slippage_custom" platform="android,iOS">Custom</string>
-  <string name="slippage_custom_desc" platform="android,iOS">Trades will be executed according to the slippage you set</string>
-  <string name="slippage_high_warning" platform="android,iOS">Your transaction may be frontrun and result in an unfavourable trade</string>
-  <string name="slippage_invalid" platform="android,iOS">Slippage cannot be greater than 50% and cannot be less than 0.1%</string>
+  <string name="slippage_auto" platform="android">Auto</string>
+  <string name="slippage_auto_desc" platform="android">Recommends the right slippage for different currencies to help you trade successfully</string>
+  <string name="slippage_custom" platform="android">Custom</string>
+  <string name="slippage_custom_desc" platform="android">Trades will be executed according to the slippage you set</string>
+  <string name="slippage_high_warning" platform="android">Your transaction may be frontrun and result in an unfavourable trade</string>
+  <string name="slippage_invalid" platform="android">Slippage cannot be greater than 50% and cannot be less than 0.1%</string>
   <string name="select_token" platform="android,iOS">Select Token</string>
-  <string name="Contract" platform="android,iOS">Contract</string>
+  <string name="Contract" platform="android">Contract</string>
   <string name="swap_desc" platform="android">%1$s will be deposited into your wallet once the transaction is complete</string>
   <string name="view_on_explorer" platform="android,iOS">View on Explorer</string>
-  <string name="search_swap_token" platform="android,iOS">Search by token or address</string>
-  <string name="Slippage_tolerance_exceeded" platform="android,iOS">Slippage tolerance exceeded</string>
+  <string name="search_swap_token" platform="android">Search by token or address</string>
+  <string name="Slippage_tolerance_exceeded" platform="android">Slippage tolerance exceeded</string>
   <string name="balance_max" platform="android,iOS">MAX</string>
   <string name="balance_half" platform="android,iOS">HALF</string>
-  <string name="web3_approve" platform="android,iOS">Approve</string>
-  <string name="web3_borrow" platform="android,iOS">Borrow</string>
-  <string name="web3_burn" platform="android,iOS">Burn</string>
-  <string name="web3_cancel" platform="android,iOS">Cancel</string>
-  <string name="web3_claim" platform="android,iOS">Claim</string>
-  <string name="web3_deploy" platform="android,iOS">Deploy</string>
-  <string name="web3_deposit" platform="android,iOS">Deposit</string>
-  <string name="web3_execute" platform="android,iOS">Execute</string>
-  <string name="web3_mint" platform="android,iOS">Mint</string>
-  <string name="web3_receive" platform="android,iOS">Receive</string>
-  <string name="web3_repay" platform="android,iOS">Repay</string>
-  <string name="web3_send" platform="android,iOS">Send</string>
-  <string name="web3_stake" platform="android,iOS">Stake</string>
-  <string name="web3_trade" platform="android,iOS">Trade</string>
-  <string name="web3_unstake" platform="android,iOS">Unstake</string>
-  <string name="web3_withdraw" platform="android,iOS">Withdraw</string>
-  <string name="web3_nft_mint" platform="android,iOS">NFT mint</string>
-  <string name="web3_nft_transfer" platform="android,iOS">NFT transfer</string>
-  <string name="web3_nft_burn" platform="android,iOS">NFT burn</string>
-  <string name="web3_unknown" platform="android,iOS">Unknown</string>
+  <string name="web3_approve" platform="android">Approve</string>
+  <string name="web3_borrow" platform="android">Borrow</string>
+  <string name="web3_burn" platform="android">Burn</string>
+  <string name="web3_cancel" platform="android">Cancel</string>
+  <string name="web3_claim" platform="android">Claim</string>
+  <string name="web3_deploy" platform="android">Deploy</string>
+  <string name="web3_deposit" platform="android">Deposit</string>
+  <string name="web3_execute" platform="android">Execute</string>
+  <string name="web3_mint" platform="android">Mint</string>
+  <string name="web3_receive" platform="android">Receive</string>
+  <string name="web3_repay" platform="android">Repay</string>
+  <string name="web3_send" platform="android">Send</string>
+  <string name="web3_stake" platform="android">Stake</string>
+  <string name="web3_trade" platform="android">Trade</string>
+  <string name="web3_unstake" platform="android">Unstake</string>
+  <string name="web3_withdraw" platform="android">Withdraw</string>
+  <string name="web3_nft_mint" platform="android">NFT mint</string>
+  <string name="web3_nft_transfer" platform="android">NFT transfer</string>
+  <string name="web3_nft_burn" platform="android">NFT burn</string>
+  <string name="web3_unknown" platform="android">Unknown</string>
   <string name="Release" platform="android,iOS">Release</string>
   <string name="collectible_releasing" platform="android,iOS">Releasing</string>
   <string name="collectible_releasing_description" platform="android,iOS">The collectible is being released, please wait.</string>
@@ -1934,7 +1932,7 @@
   <string name="Link" platform="android,iOS">Link</string>
   <string name="Set_as_avatar" platform="android,iOS">Set as Avatar</string>
   <string name="Alphabetical" platform="android,iOS">Alphabetical</string>
-  <string name="Floor_Price" platform="android,iOS">Floor Price</string>
+  <string name="Floor_Price" platform="android">Floor Price</string>
   <string name="Collection_collected" platform="android,iOS">%1$d collected</string>
   <string name="View_on_Marketplace" platform="android,iOS">View on Marketplace</string>
   <string name="content_type" platform="android,iOS">Content Type</string>
@@ -1945,8 +1943,8 @@
   <string name="copy_image" platform="desktop">Copy Image</string>
   <string name="copy_text" platform="desktop">Copy Text</string>
   <string name="Oldest" platform="android,iOS">Oldest</string>
-  <string name="amount_descending" platform="android,iOS">Amount Descending</string>
-  <string name="value_descending" platform="android,iOS">Value Descending</string>
+  <string name="amount_descending" platform="android">Amount Descending</string>
+  <string name="value_descending" platform="android">Value Descending</string>
   <string name="sort_by_recent" platform="android,iOS">Sort by Recent</string>
   <string name="sort_by_oldest" platform="android,iOS">Sort by Oldest</string>
   <string name="sort_by_value" platform="android,iOS">Sort by Value</string>
@@ -1957,7 +1955,7 @@
   <string name="number_of_assets" platform="android,iOS">%1$d Assets</string>
   <string name="number_of_recipients" platform="android,iOS">%1$d Recipients</string>
   <string name="number_of_opponents" platform="android,iOS">%1$d Opponents</string>
-  <string name="Select_LIMIT" platform="android,iOS">Select up to %1$d</string>
+  <string name="Select_LIMIT" platform="android">Select up to %1$d</string>
   <string name="balance_abbreviation" platform="android,iOS">Bal %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">Swap Confirmation</string>
   <string name="swap_failed" platform="android,iOS">Swap Failed</string>
@@ -1973,8 +1971,8 @@
   <string name="Market" platform="android,iOS">Market</string>
   <string name="view_all" platform="android,iOS">View All</string>
   <string name="My_Balance" platform="android,iOS">My Balance</string>
-  <string name="All_Networks" platform="android,iOS">All networks</string>
-  <string name="Introduction" platform="android,iOS">Introduction</string>
+  <string name="All_Networks" platform="android">All networks</string>
+  <string name="Introduction" platform="android">Introduction</string>
   <string name="Contract_Address" platform="android,iOS">Contract Address</string>
   <string name="All_Time_Low" platform="android,iOS">All Time Low</string>
   <string name="All_Time_High" platform="android,iOS">All Time High</string>
@@ -2061,7 +2059,7 @@
   <string name="alert_frequency_once_description" platform="android,iOS">Receive an alert only on first trigger event</string>
   <string name="alert_value" platform="android,iOS">Value</string>
   <string name="Resume" platform="android,iOS">Resume</string>
-  <string name="Edit" platform="android,iOS">Edit</string>
+  <string name="Edit" platform="android,iOS,Desktop">Edit</string>
   <string name="price_alert_notification_permission" platform="android,iOS">Price alerts require notification permission to be enabled.</string>
   <string name="price_in_currency" platform="android,iOS">Price (%1$s)</string>
   <string name="Paused" platform="android,iOS">Paused</string>

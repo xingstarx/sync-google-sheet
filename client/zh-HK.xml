@@ -203,7 +203,6 @@
   <string name="buy_success" platform="android">交易成功</string>
   <string name="buy_success_description" platform="android">成功支付 %1$s。%2$s 將直接轉入 Mixin 錢包。</string>
   <string name="buying_limitation" platform="android">最少 %1$s, 最多 %2$s</string>
-  <string name="buying_unavailable_description" platform="iOS">我們的團隊正在努力擴大影響，目標是在不久的將來為您所在的地區提供服務。 一旦我們準備好便會給您留言。</string>
   <string name="calculating" platform="android, iOS">正在計算…</string>
   <string name="Call" platform="android, iOS">語音</string>
   <string name="Call_declined" platform="android, iOS">對方已拒絕</string>
@@ -346,7 +345,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
   <string name="connect_wallet" platform="android">連接錢包</string>
   <string name="Connected" platform="iOS">已連接</string>
-  <string name="connected_dapps" platform="android, iOS">已連接的 dApp</string>
+  <string name="connected_dapps" platform="android">已連接的 dApp</string>
   <string name="Connecting" platform="android, iOS">正在連接</string>
   <string name="Connection_establishment_failed" platform="iOS">連接建立失敗</string>
   <string name="connection_failed" platform="android, iOS">連接失敗</string>
@@ -676,7 +675,7 @@
   <string name="File_chooser_error" platform="android, Desktop">檔案選擇錯誤</string>
   <string name="File_does_not_exist" platform="android, Desktop">檔案不存在</string>
   <string name="File_error" platform="android, Desktop">檔案錯誤</string>
-  <string name="file_shareable_false" platform="android, iOS">該檔案已被設置為不允許轉發</string>
+  <string name="file_shareable_false" platform="android">該檔案已被設置為不允許轉發</string>
   <string name="Files" platform="android, iOS, Desktop">文檔</string>
   <string name="Filter" platform="android, iOS">篩選</string>
   <string name="FILTER_BY" platform="android, iOS">篩選</string>
@@ -748,7 +747,7 @@
   <string name="identity_verifying" platform="android">正在審核</string>
   <string name="ignore_this_version" platform="Desktop">忽略這次版本更新</string>
   <string name="image" platform="iOS, Desktop">圖像</string>
-  <string name="image_shareable_false" platform="android, iOS">該圖片已被設置為不允許轉發</string>
+  <string name="image_shareable_false" platform="android">該圖片已被設置為不允許轉發</string>
   <string name="Immediately" platform="android, iOS">立刻</string>
   <string name="Import" platform="android">導入聊天記錄</string>
   <string name="Importing_Chat_Progress" platform="iOS">導入聊天記錄（%1$s%）</string>
@@ -822,7 +821,7 @@
   <string name="Link_recognition_failure" platform="iOS">鏈接識別失敗</string>
   <string name="link_shareable_false" platform="iOS">該鏈接已被設置為不允許分享</string>
   <string name="linked_device" platform="Desktop">連接的設備</string>
-  <string name="Links" platform="android, iOS">鏈接</string>
+  <string name="Links" platform="android">鏈接</string>
   <string name="Live" platform="android, iOS, Desktop">直播</string>
   <string name="live_permission" platform="android">Mixin 需要使用出現在其它應用上的權限以在畫中畫模式中播放視頻。</string>
   <string name="live_shareable_false" platform="android, iOS">該直播已被設置為不允許轉發</string>
@@ -947,7 +946,7 @@
   <string name="New_Group_Chat" platform="android, iOS">新羣聊</string>
   <string name="new_group_name" platform="android">新羣組名稱</string>
   <string name="new_name" platform="iOS">名稱</string>
-  <string name="new_price" platform="android, iOS">最新價格</string>
+  <string name="new_price" platform="android">最新價格</string>
   <string name="new_version_available" platform="Desktop">發現新版本</string>
   <string name="new_version_description" platform="Desktop">發現新版本 Mixin Messenger %1$s，當前版本為 %2$s。是否要下載最新的版本？</string>
   <string name="new_wallet_hint" platform="android, iOS">創建你的第一個數字錢包，所有資產都在一個錢包，收發加密資產簡單易用。</string>
@@ -1128,7 +1127,7 @@
   <string name="Privacy" platform="android, iOS">隱私</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">隱私政策</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
-  <string name="processing" platform="android, iOS">處理中</string>
+  <string name="processing" platform="android">處理中</string>
   <string name="Profile" platform="iOS">個人資料</string>
   <string name="profile_modify_number" platform="android">你想要修改手機號碼麼？</string>
   <string name="Profile_photo" platform="android, iOS">個人頭像</string>
@@ -1148,12 +1147,12 @@
   <string name="quote" platform="android">引用</string>
   <string name="Random_keyboard" platform="android">隨機鍵盤</string>
   <string name="Raw" platform="android, iOS, Desktop">其他</string>
-  <string name="Read_Assets" platform="android, iOS">查看資產</string>
-  <string name="Read_Bots" platform="android, iOS">查看應用</string>
-  <string name="Read_Circles" platform="android, iOS">查看圈子</string>
-  <string name="Read_Collectibles" platform="android, iOS">查看 NFT</string>
-  <string name="Read_Contacts" platform="android, iOS">查看聯繫人</string>
-  <string name="Read_Snapshots" platform="android, iOS">查看轉賬記錄</string>
+  <string name="Read_Assets" platform="android">查看資產</string>
+  <string name="Read_Bots" platform="android">查看應用</string>
+  <string name="Read_Circles" platform="android">查看圈子</string>
+  <string name="Read_Collectibles" platform="android">查看 NFT</string>
+  <string name="Read_Contacts" platform="android">查看聯繫人</string>
+  <string name="Read_Snapshots" platform="android">查看轉賬記錄</string>
   <string name="Read_your_apps" platform="android, iOS">讀取你的機器人列表</string>
   <string name="Read_your_assets" platform="android, iOS">讀取你的所有資產</string>
   <string name="Read_your_circles" platform="android, iOS">讀取你的圈子列表</string>
@@ -1285,8 +1284,8 @@
   <string name="Searching" platform="android">搜索中</string>
   <string name="Secured_by_TIP" platform="android,iOS">由 TIP 提供安全保障</string>
   <string name="Security" platform="android, iOS, Desktop">安全</string>
-  <string name="security_code" platform="android, iOS">安全碼</string>
-  <string name="security_code_error" platform="android, iOS">請輸入有效的安全碼</string>
+  <string name="security_code" platform="android">安全碼</string>
+  <string name="security_code_error" platform="android">請輸入有效的安全碼</string>
   <string name="Select" platform="android, iOS, Desktop">選擇</string>
   <string name="select_a_card" platform="android">選擇卡片</string>
   <string name="Select_a_country_or_region" platform="iOS">選擇一個國家或地區</string>
@@ -1294,7 +1293,7 @@
   <string name="Select_All" platform="iOS,android">選擇所有</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">選擇恢復聯繫人</string>
   <string name="Select_More_Photos" platform="iOS">選擇更多照片</string>
-  <string name="select_payment_method" platform="android, iOS">選擇支付方式</string>
+  <string name="select_payment_method" platform="android">選擇支付方式</string>
   <string name="selected_count" platform="iOS">選擇了 %@ 個消息</string>
   <string name="selected_Item" platform="iOS">已選擇 1 項</string>
   <string name="selected_Item.count" platform="iOS">已選擇 %1$d 項</string>
@@ -1455,7 +1454,7 @@
   <string name="Sunday" platform="android">星期日</string>
   <string name="suspended_deposit" platform="android, iOS">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網絡硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑鏈接</string>
-  <string name="switch_payment_method" platform="android, iOS">使用其他支付方式</string>
+  <string name="switch_payment_method" platform="android">使用其他支付方式</string>
   <string name="Switching_currency" platform="android">切換貨幣中</string>
   <string name="Symbol" platform="android, iOS">符號</string>
   <string name="symbol_withdrawal" platform="android, iOS">%1$s 提現</string>
@@ -1491,7 +1490,7 @@
   <string name="To" platform="android, iOS, Desktop">至</string>
   <string name="Today" platform="android, iOS, Desktop">今天</string>
   <string name="toggle_chat_info" platform="Desktop">展開/關閉會話信息</string>
-  <string name="token_amount" platform="android, iOS">代幣總數</string>
+  <string name="token_amount" platform="android">代幣總數</string>
   <string name="Touch_ID" platform="iOS">指紋</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">觸摸指紋傳感器</string>
   <string name="Track_not_found" platform="iOS">Track 無效</string>
@@ -1611,7 +1610,7 @@
   <string name="Verifying" platform="android">驗證中…</string>
   <string name="Version_Update" platform="android, iOS">版本更新</string>
   <string name="Video" platform="android, iOS, Desktop">視頻</string>
-  <string name="video_shareable_false" platform="android, iOS">該視頻已被設置為不允許轉發</string>
+  <string name="video_shareable_false" platform="android">該視頻已被設置為不允許轉發</string>
   <string name="Videos" platform="android, iOS, Desktop">視頻</string>
   <string name="View" platform="android">查看</string>
   <string name="View_Authorization" platform="android, iOS">查看授權</string>
@@ -1654,7 +1653,7 @@
   <string name="wallet_transactions_asset_key_warning" platform="android, iOS">資產標識不是充值地址！</string>
   <string name="wallet_transfer_recent_tip" platform="android, iOS">你已經在 %1$s 前給 %2$s 轉賬了 %3$s，確認還要再轉一次嗎？</string>
   <string name="wallet_withdrawal_changed" platform="android, iOS">手續費已從 %1$s 變更為 %2$s，要更新手續費並繼續提現嗎？</string>
-  <string name="wallet_withdrawal_not_in_addresses" platform="android, iOS">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
+  <string name="wallet_withdrawal_not_in_addresses" platform="android">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
   <string name="wallet_withdrawal_recent_tip" platform="android, iOS">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
   <string name="web_cannot_reached_desc" platform="android, iOS">無法訪問 %1$s，請檢查你的網絡並嘗試切換 4G、Wi-Fi 或 VPN 後重新載入頁面。</string>
   <string name="web_cannot_reached_title" platform="android, iOS">無法訪問此網頁</string>
@@ -1849,50 +1848,50 @@
   <string name="alert_key_contact_collectible_message" platform="android, iOS">發送一個藏品</string>
   <string name="Collectible_Hash" platform="android, iOS">藏品哈希</string>
   <string name="Swap" platform="android,iOS">交易</string>
-  <string name="Swapping" platform="android,iOS">兑換中</string>
+  <string name="Swapping" platform="android">兑換中</string>
   <string name="Pay" platform="android,iOS">支付</string>
-  <string name="Received" platform="android,iOS">收到</string>
+  <string name="Received" platform="android">收到</string>
   <string name="Review_Order" platform="android">預覽訂單</string>
-  <string name="View_Transaction" platform="android,iOS">查看區塊鏈瀏覽器</string>
+  <string name="View_Transaction" platform="android">查看區塊鏈瀏覽器</string>
   <string name="Confirming_Transaction" platform="android">正在確認交易</string>
-  <string name="Transaction_Success" platform="android,iOS">交易成功</string>
+  <string name="Transaction_Success" platform="android">交易成功</string>
   <string name="Transaction_Failed" platform="android,iOS">交易失敗</string>
-  <string name="Best_price" platform="android,iOS">最優價格</string>
+  <string name="Best_price" platform="android">最優價格</string>
   <string name="Slippage" platform="android,iOS">滑點</string>
-  <string name="slippage_auto" platform="android,iOS">自動</string>
-  <string name="slippage_auto_desc" platform="android,iOS">根據不同幣種推薦合適的滑點，幫助你交易成功</string>
-  <string name="slippage_custom" platform="android,iOS">自定義</string>
-  <string name="slippage_custom_desc" platform="android,iOS">將按照您設置的滑點執行交易</string>
-  <string name="slippage_high_warning" platform="android,iOS">您的交易可能會搶先交易並導致不利的交易</string>
-  <string name="slippage_invalid" platform="android,iOS">滑點不可大於 50% 且不可小於 0.1%</string>
+  <string name="slippage_auto" platform="android">自動</string>
+  <string name="slippage_auto_desc" platform="android">根據不同幣種推薦合適的滑點，幫助你交易成功</string>
+  <string name="slippage_custom" platform="android">自定義</string>
+  <string name="slippage_custom_desc" platform="android">將按照您設置的滑點執行交易</string>
+  <string name="slippage_high_warning" platform="android">您的交易可能會搶先交易並導致不利的交易</string>
+  <string name="slippage_invalid" platform="android">滑點不可大於 50% 且不可小於 0.1%</string>
   <string name="select_token" platform="android,iOS">選擇代幣</string>
-  <string name="Contract" platform="android,iOS">合約</string>
+  <string name="Contract" platform="android">合約</string>
   <string name="swap_desc" platform="android">%1$s 將會在交易完成後存入您的錢包</string>
   <string name="view_on_explorer" platform="android,iOS">在瀏覽器中查看</string>
-  <string name="search_swap_token" platform="android,iOS">按代幣或合約地址搜索</string>
-  <string name="Slippage_tolerance_exceeded" platform="android,iOS">超出滑點範圍</string>
+  <string name="search_swap_token" platform="android">按代幣或合約地址搜索</string>
+  <string name="Slippage_tolerance_exceeded" platform="android">超出滑點範圍</string>
   <string name="balance_max" platform="android,iOS">最大</string>
   <string name="balance_half" platform="android,iOS">取半</string>
-  <string name="web3_approve" platform="android,iOS">批准</string>
-  <string name="web3_borrow" platform="android,iOS">借款</string>
-  <string name="web3_burn" platform="android,iOS">燃燒</string>
-  <string name="web3_cancel" platform="android,iOS">取消</string>
-  <string name="web3_claim" platform="android,iOS">認領</string>
-  <string name="web3_deploy" platform="android,iOS">部署</string>
-  <string name="web3_deposit" platform="android,iOS">存款</string>
-  <string name="web3_execute" platform="android,iOS">執行</string>
-  <string name="web3_mint" platform="android,iOS">鑄造</string>
-  <string name="web3_receive" platform="android,iOS">接收</string>
-  <string name="web3_repay" platform="android,iOS">還款</string>
-  <string name="web3_send" platform="android,iOS">發送</string>
-  <string name="web3_stake" platform="android,iOS">質押</string>
-  <string name="web3_trade" platform="android,iOS">交易</string>
-  <string name="web3_unstake" platform="android,iOS">解押</string>
-  <string name="web3_withdraw" platform="android,iOS">提現</string>
-  <string name="web3_nft_mint" platform="android,iOS">NFT鑄造</string>
-  <string name="web3_nft_transfer" platform="android,iOS">NFT轉移</string>
-  <string name="web3_nft_burn" platform="android,iOS">NFT燃燒</string>
-  <string name="web3_unknown" platform="android,iOS">未知</string>
+  <string name="web3_approve" platform="android">批准</string>
+  <string name="web3_borrow" platform="android">借款</string>
+  <string name="web3_burn" platform="android">燃燒</string>
+  <string name="web3_cancel" platform="android">取消</string>
+  <string name="web3_claim" platform="android">認領</string>
+  <string name="web3_deploy" platform="android">部署</string>
+  <string name="web3_deposit" platform="android">存款</string>
+  <string name="web3_execute" platform="android">執行</string>
+  <string name="web3_mint" platform="android">鑄造</string>
+  <string name="web3_receive" platform="android">接收</string>
+  <string name="web3_repay" platform="android">還款</string>
+  <string name="web3_send" platform="android">發送</string>
+  <string name="web3_stake" platform="android">質押</string>
+  <string name="web3_trade" platform="android">交易</string>
+  <string name="web3_unstake" platform="android">解押</string>
+  <string name="web3_withdraw" platform="android">提現</string>
+  <string name="web3_nft_mint" platform="android">NFT鑄造</string>
+  <string name="web3_nft_transfer" platform="android">NFT轉移</string>
+  <string name="web3_nft_burn" platform="android">NFT燃燒</string>
+  <string name="web3_unknown" platform="android">未知</string>
   <string name="Release" platform="android,iOS">分解</string>
   <string name="collectible_releasing" platform="android,iOS">分解中</string>
   <string name="collectible_releasing_description" platform="android,iOS">正在分解藏品，請稍候。</string>
@@ -1906,7 +1905,7 @@
   <string name="Link" platform="android,iOS">鏈接</string>
   <string name="Set_as_avatar" platform="android,iOS">設置為頭像</string>
   <string name="Alphabetical" platform="android,iOS">按字母順序</string>
-  <string name="Floor_Price" platform="android,iOS">最低價格</string>
+  <string name="Floor_Price" platform="android">最低價格</string>
   <string name="Collection_collected" platform="android,iOS">已收藏 %1$d 件</string>
   <string name="View_on_Marketplace" platform="android,iOS">在市場中查看</string>
   <string name="content_type" platform="android,iOS">內容類型</string>
@@ -1917,8 +1916,8 @@
   <string name="copy_image" platform="desktop">複製圖片</string>
   <string name="copy_text" platform="desktop">複製文字</string>
   <string name="Oldest" platform="android,iOS">最早</string>
-  <string name="amount_descending" platform="android,iOS">價值降序</string>
-  <string name="value_descending" platform="android,iOS">金額降序</string>
+  <string name="amount_descending" platform="android">價值降序</string>
+  <string name="value_descending" platform="android">金額降序</string>
   <string name="sort_by_recent" platform="android,iOS">按最近排序</string>
   <string name="sort_by_oldest" platform="android,iOS">按最早排序</string>
   <string name="sort_by_value" platform="android,iOS">按價值排序</string>
@@ -1929,7 +1928,7 @@
   <string name="number_of_assets" platform="android,iOS">%1$d 資產</string>
   <string name="number_of_recipients" platform="android,iOS">%1$d 收款人</string>
   <string name="number_of_opponents" platform="android,iOS">%1$d 收發人</string>
-  <string name="Select_LIMIT" platform="android,iOS">最多選擇 %1$d 個</string>
+  <string name="Select_LIMIT" platform="android">最多選擇 %1$d 個</string>
   <string name="balance_abbreviation" platform="android,iOS">餘額 %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">確認交易</string>
   <string name="swap_failed" platform="android,iOS">交易失敗</string>
@@ -1945,8 +1944,8 @@
   <string name="Market" platform="android,iOS">行情</string>
   <string name="view_all" platform="android,iOS">查看全部</string>
   <string name="My_Balance" platform="android,iOS">我的餘額</string>
-  <string name="All_Networks" platform="android,iOS">所有網絡</string>
-  <string name="Introduction" platform="android,iOS">介紹</string>
+  <string name="All_Networks" platform="android">所有網絡</string>
+  <string name="Introduction" platform="android">介紹</string>
   <string name="Contract_Address" platform="android,iOS">合約地址</string>
   <string name="All_Time_Low" platform="android,iOS">歷史最低</string>
   <string name="All_Time_High" platform="android,iOS">歷史最高</string>

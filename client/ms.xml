@@ -359,7 +359,7 @@
   <string name="Line_busy_remote" platform="android, iOS">Talian sibuk</string>
   <string name="Link_desktop_failed" platform="android">Pautan desktop gagal</string>
   <string name="Link_desktop_success" platform="android">Pautan desktop berjaya</string>
-  <string name="Links" platform="android, iOS">Pautan</string>
+  <string name="Links" platform="android">Pautan</string>
   <string name="Live" platform="android, iOS, Desktop">Langsung</string>
   <string name="live_permission" platform="android">Mixin memerlukan akses untuk menarik di atas aplikasi lain untuk memainkan video dalam mod Gambar-dalam-Gambar.</string>
   <string name="loading_time" platform="android, Desktop">Waktu sistem tidak biasa, sila terus gunakan lagi selepas pembetulan</string>
@@ -502,11 +502,11 @@
   <string name="QR_Code_not_found" platform="android, iOS">Kod Qr tidak dijumpai</string>
   <string name="quote" platform="android">petikan</string>
   <string name="Raw" platform="android, iOS, Desktop">Mentah</string>
-  <string name="Read_Assets" platform="android, iOS">Baca Aset</string>
-  <string name="Read_Bots" platform="android, iOS">Aplikasi baca</string>
-  <string name="Read_Circles" platform="android, iOS">Lingkaran Baca</string>
-  <string name="Read_Contacts" platform="android, iOS">Baca Kenalan</string>
-  <string name="Read_Snapshots" platform="android, iOS">Baca Syot kilat</string>
+  <string name="Read_Assets" platform="android">Baca Aset</string>
+  <string name="Read_Bots" platform="android">Aplikasi baca</string>
+  <string name="Read_Circles" platform="android">Lingkaran Baca</string>
+  <string name="Read_Contacts" platform="android">Baca Kenalan</string>
+  <string name="Read_Snapshots" platform="android">Baca Syot kilat</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebat</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Tamat masa Recaptcha</string>
   <string name="RECEIVE" platform="android, iOS">Terima</string>
