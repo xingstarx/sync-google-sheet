@@ -567,7 +567,6 @@
 "id" = "ID";
 "image" = "image";
 "immediately" = "Immediately";
-"importing_chat_progress" = "Importing chat  (%@%)";
 "in_connecting" = "Connecting...";
 "include_files" = "Include Files";
 "include_videos" = "Include Videos";
@@ -1256,7 +1255,6 @@
 "view_emergency_contact" = "View recovery contact";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
-"view_storage" = "View Storage";
 "view_wallet" = "View Wallet";
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";

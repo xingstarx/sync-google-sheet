@@ -567,7 +567,6 @@
 "id" = "ID";
 "image" = "圖像";
 "immediately" = "立刻";
-"importing_chat_progress" = "導入聊天記錄（%@%）";
 "in_connecting" = "正在連接...";
 "include_files" = "包含檔案";
 "include_videos" = "包括視頻";
@@ -1256,7 +1255,6 @@
 "view_emergency_contact" = "查看恢復聯繫人";
 "view_on_explorer" = "在瀏覽器中查看";
 "view_on_marketplace" = "在市場中查看";
-"view_storage" = "查看存儲空間";
 "view_wallet" = "查看錢包";
 "voice_call_cancelled" = "對方已取消語音通話";
 "voice_call_has_been_declined" = "已拒絕通話";
