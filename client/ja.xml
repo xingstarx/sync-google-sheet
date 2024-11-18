@@ -1104,14 +1104,7 @@
   <string name="setting_desktop_logout_failed" platform="android">デスクトップ版からのログアウトに失敗しました</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">6時間以内に同じ人に同額の送金を実行する際、確認を行う。</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">新しい電話番号の登録をしますか？</string>
-  <string name="setting_emergency_content" platform="android, iOS">緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。</string>
-  <string name="setting_emergency_create_success" platform="android">緊急連絡先を作成しました</string>
-  <string name="setting_emergency_desc" platform="android, iOS">登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは、こちらを確認してください。</string>
-  <string name="setting_emergency_pin_tip" platform="android, iOS">あなたの緊急連絡先はPINコードにより保護されています。</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Mixin ID: %1$sに送信された4桁のコードを入力してください</string>
-  <string name="setting_emergency_set" platform="android">緊急連絡先を設定する</string>
-  <string name="setting_emergency_set_message" platform="android, iOS">（Mixin ID %1$s）を緊急連絡先として設定しますか？緊急連絡先登録の設定は相互の友だち登録が必要です。</string>
-  <string name="setting_emergency_warning" platform="android, iOS">警告：緊急連絡先でもPINコードは復元できません 如何なる場合においてもご自身で管理してください</string>
   <string name="setting_enable_biometric_pay" platform="android">生体認証を有効にしますか？</string>
   <string name="setting_incognito_prompt" platform="android">キーボードの自動学習を無効化</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">これにより、Mixinサーバーから連絡先が削除されます。</string>

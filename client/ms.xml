@@ -593,14 +593,7 @@
   <string name="setting_desktop_logout_failed" platform="android">Log keluar desktop gagal.</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">Adakah anda mahu menukar nombor telefon bimbit anda sekarang?</string>
-  <string name="setting_emergency_content" platform="android, iOS">Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda.</string>
-  <string name="setting_emergency_create_success" platform="android">Buat kenalan kecemasan berjaya</string>
-  <string name="setting_emergency_desc" platform="android, iOS">Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk **mengetahui lebih lanjut**.</string>
-  <string name="setting_emergency_pin_tip" platform="android, iOS">Kenalan kecemasan anda dilindungi oleh PIN</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s</string>
-  <string name="setting_emergency_set" platform="android">Tetapkan kenalan kecemasan</string>
-  <string name="setting_emergency_set_message" platform="android, iOS">Sahkan untuk menetapkan Mixin ID %1$s sebagai kenalan kecemasan anda? Sila maklum bahawa pihak lain mesti menambahkan anda sebagai kenalan untuk berjaya disiapkan.</string>
-  <string name="setting_emergency_warning" platform="android, iOS">Perhatian: Kontak Kecemasan tidak dapat membantu anda memulih semula PIN</string>
   <string name="setting_enable_biometric_pay" platform="android">Bolehkan Bayaran Biometrik?</string>
   <string name="setting_incognito_prompt" platform="android">Lumpuhkan pembelajaran peribadi papan kekunci</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">Ini akan mengalih keluar kenalan anda dari pelayan Mixin.</string>

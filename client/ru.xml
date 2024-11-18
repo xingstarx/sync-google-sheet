@@ -1109,14 +1109,7 @@
   <string name="setting_desktop_logout_failed" platform="android">Выход из рабочего стола не удался.</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">Отображение диалогового окна подтверждения при переводе одной и той же суммы одному и тому же человеку в течение 6 часов.</string>
   <string name="setting_emergency_change_mobile" platform="android">Вы хотите изменить свой номер мобильного телефона сейчас?</string>
-  <string name="setting_emergency_content" platform="android, iOS">Экстренный контакт предназначен для того, чтобы помочь вам войти в свою учетную запись, если вы потерялись и не можете восстановить свой номер мобильного телефона.</string>
-  <string name="setting_emergency_create_success" platform="android">Создать экстренный контакт успешно</string>
-  <string name="setting_emergency_desc" platform="android, iOS">Если вы потеряли свой номер мобильного телефона, свяжитесь со своим экстренным контактом по телефону или другим способом, чтобы получить Mixin ID и код подтверждения. Прочтите нашу контактную информацию для экстренных случаев, чтобы **узнать больше**.</string>
-  <string name="setting_emergency_pin_tip" platform="android, iOS">Ваш экстренный контакт защищен PIN-кодом</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Введите 4-значный код, отправленный на Mixin ID: %1$s.</string>
-  <string name="setting_emergency_set" platform="android">Установить экстренный контакт</string>
-  <string name="setting_emergency_set_message" platform="android, iOS">Подтвердить установку Mixin ID %1$s в качестве контакта для экстренных случаев? Обратите внимание, что другая сторона должна добавить вас в качестве контакта для успешной настройки.</string>
-  <string name="setting_emergency_warning" platform="android, iOS">Внимание: экстренный контакт не может помочь вам восстановить PIN-код</string>
   <string name="setting_enable_biometric_pay" platform="android">Включить биометрическую оплату?</string>
   <string name="setting_incognito_prompt" platform="android">Отключить персонализированное обучение с помощью клавиатуры</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">Это удалит ваши контакты с серверов Mixin.</string>
