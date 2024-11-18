@@ -157,7 +157,6 @@
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
 "balance_abbreviation" = "Bal %@";
-"balance_half" = "HALF";
 "balance_max" = "MAX";
 "block" = "Block";
 "block_hint" = "Blocked contacts will no longer be able to call you or send you messages";
@@ -398,8 +397,6 @@
 "deposit_tip_trx" = "This address supports all TRC-10 and TRC-20 tokens.";
 "depost_address_updated" = "%@ Deposit Address Updated";
 "depost_address_updated_description" = "Your %@ deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.";
-"deselect_all" = "Deselect All";
-"designated_time_period" = "Designated time period";
 "desktop_on_hint" = "You have your desktop logged in";
 "desktop_upgrade" = "Please upgrade Mixin Messenger Desktop to the latest version.";
 "detect_qr_tip" = "Detected a Mixin QR code, tap to recognize";
@@ -512,15 +509,6 @@
 "explore" = "Explore";
 "export" = "Export";
 "export_failed" = "Export failed";
-"export_private_key" = "Export Private Key";
-"export_private_key_confirmation" = "Export Private Key Confirmation";
-"export_private_key_description" = "Kindly confirm your ability to securely store the private key and your willingness to accept the potential risk of leakage.";
-"export_private_key_discouragement" = "Mixin Messenger's MPC wallet is built on the decentralized key protocol TIP. The complete key of the wallet only exists in the TEE secure environment of current device, with no risk of leakage. Neither us nor any third party can access the private key. We strongly advise non-professionals not to export the private key. Read the documentation to learn more.";
-"export_private_key_discouragement_1" = "The private key enables transfer of all assets within current wallet, without the need for SMS or PIN code verification.";
-"export_private_key_discouragement_2" = "Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed.";
-"export_private_key_discouragement_3" = "It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger.";
-"exporting_private_key" = "Exporting Private Key";
-"exporting_private_key_description" = "Exporting the private key of your Mixin wallet, please wait.";
 "face_id" = "Face ID";
 "failed_to_compose_avatar" = "Failed to compose avatar. Try another picture instead.";
 "failed_to_send_location" = "Failed to send location";
@@ -864,9 +852,6 @@
 "price_too_less" = "The set price must be greater than %@ of the current price";
 "privacy" = "Privacy";
 "privacy_policy" = "Privacy Policy";
-"private_key_export_success_description" = "Please write down the private key on a piece of paper and secure it within a safe or other secure location.";
-"private_key_export_success_warning" = "Do not take screenshots or share the key on the internet.";
-"private_key_export_successful" = "Private Key Export Successful";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
 "profile" = "Profile";
 "profile_photo" = "Profile Photo";
@@ -990,7 +975,6 @@
 "select" = "Select";
 "select_a_country_or_region" = "Select a Country or Region";
 "select_a_token_for_the_fee" = "Select a token for the fee";
-"select_all" = "Select All";
 "select_date" = "Select Date";
 "select_emergency_contact" = "Select Recovery Contact";
 "select_more_photos" = "Select More Photos";
@@ -1079,7 +1063,6 @@
 "show" = "Show";
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
-"show selected" = "Show Selected(%@)";
 "sign_in" = "Sign in";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "Sign in with phone number";

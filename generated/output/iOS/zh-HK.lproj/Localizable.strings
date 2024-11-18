@@ -157,7 +157,6 @@
 "backup_to_icloud" = "備份到 iCloud";
 "balance" = "餘額";
 "balance_abbreviation" = "餘額 %@";
-"balance_half" = "取半";
 "balance_max" = "最大";
 "block" = "屏蔽用户";
 "block_hint" = "屏蔽後對方無法向您撥打電話或發送消息";
@@ -398,8 +397,6 @@
 "deposit_tip_trx" = "支持 TRX 和所有符合 TRC-10、TRC-20 標準的代幣。";
 "depost_address_updated" = "%@ 充值地址已更新";
 "depost_address_updated_description" = "您的 %@ 充值地址已更新，充值地址將隨着系統或網絡升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。";
-"deselect_all" = "取消所有選擇";
-"designated_time_period" = "指定時間段";
 "desktop_on_hint" = "桌面版已登入。";
 "desktop_upgrade" = "請升級 Mixin Messenger 桌面端至最新版！";
 "detect_qr_tip" = "檢測到一個 Mixin 二維碼，點擊識別";
@@ -512,15 +509,6 @@
 "explore" = "探索";
 "export" = "導出";
 "export_failed" = "導出失敗";
-"export_private_key" = "導出私鑰";
-"export_private_key_confirmation" = "導出私鑰確認";
-"export_private_key_description" = "請確認您具備安全保管私鑰的能力，並且願意承擔導出私鑰可能帶來的泄漏風險。";
-"export_private_key_discouragement" = "Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，沒有泄漏風險，其他任何第三方包括我們均無法訪問該私鑰。我們強烈建議非專業人士不要手動導出備份私鑰，閲讀文檔瞭解更多。";
-"export_private_key_discouragement_1" = "私鑰可直接轉移當前賬號錢包裏所有的資產，不需要藉助手機短信或 PIN 碼。";
-"export_private_key_discouragement_2" = "Mixin Messenger 不支持私鑰導入，需要使用請通過主網工具來操作。";
-"export_private_key_discouragement_3" = "強烈不推薦在 Mixin Messenger 賬號可用情況下使用該私鑰，否則相關資產在 Mixin Messenger 可能無法繼續使用。";
-"exporting_private_key" = "正在導出私鑰";
-"exporting_private_key_description" = "正在將導出您 Mixin 錢包的私鑰，請稍候。";
 "face_id" = "面容";
 "failed_to_compose_avatar" = "頭像解析失敗，請嘗試使用其他圖片。";
 "failed_to_send_location" = "發送位置失敗，請稍後重試";
@@ -864,9 +852,6 @@
 "price_too_less" = "設定價格需大於現價的 %@";
 "privacy" = "隱私";
 "privacy_policy" = "隱私政策";
-"private_key_export_success_description" = "請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。";
-"private_key_export_success_warning" = "注意不要截屏或把密鑰分享到網絡上。";
-"private_key_export_successful" = "導出私鑰成功";
 "process_can_not_be_stop" = "流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入";
 "profile" = "個人資料";
 "profile_photo" = "個人頭像";
@@ -990,7 +975,6 @@
 "select" = "選擇";
 "select_a_country_or_region" = "選擇一個國家或地區";
 "select_a_token_for_the_fee" = "選擇支付手續費的幣種";
-"select_all" = "選擇所有";
 "select_date" = "選擇日期";
 "select_emergency_contact" = "選擇恢復聯繫人";
 "select_more_photos" = "選擇更多照片";
@@ -1079,7 +1063,6 @@
 "show" = "顯示";
 "show_asset" = "顯示資產";
 "show_in_chat" = "在聊天中展示";
-"show selected" = "顯示選擇（%@）";
 "sign_in" = "登錄";
 "sign_with_emergency_contact" = "通過恢復聯繫人登錄";
 "sign_with_phone_number" = "通過手機號登錄";

@@ -625,15 +625,6 @@
 	<string name="export_ip">出口 IP</string>
 	<string name="Export_Markdown">導出為 Markdown</string>
 	<string name="Export_PDF">導出為 PDF</string>
-	<string name="Export_Private_Key">導出私鑰</string>
-	<string name="Export_Private_Key_Confirmation">導出私鑰確認</string>
-	<string name="export_private_key_description">請確認您具備安全保管私鑰的能力，並且願意承擔導出私鑰可能帶來的泄漏風險。</string>
-	<string name="export_private_key_discouragement">Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，沒有泄漏風險，其他任何第三方包括我們均無法訪問該私鑰。我們強烈建議非專業人士不要手動導出備份私鑰，閲讀文檔瞭解更多。</string>
-	<string name="export_private_key_discouragement_1">私鑰可直接轉移當前賬號錢包裏所有的資產，不需要藉助手機短信或 PIN 碼。</string>
-	<string name="export_private_key_discouragement_2">Mixin Messenger 不支持私鑰導入，需要使用請通過主網工具來操作。</string>
-	<string name="export_private_key_discouragement_3">強烈不推薦在 Mixin Messenger 賬號可用情況下使用該私鑰，否則相關資產在 Mixin Messenger 可能無法繼續使用。</string>
-	<string name="Exporting_Private_Key">正在導出私鑰</string>
-	<string name="exporting_private_key_description">正在將導出您 Mixin 錢包的私鑰，請稍候。</string>
 	<string name="Extract_QR_Code">識別二維碼</string>
 	<string name="Failure">錯誤</string>
 	<string name="fast">快速</string>
@@ -1024,9 +1015,6 @@
 	<string name="price_too_less">設定價格需大於現價的 %1$s</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
-	<string name="private_key_export_success_description">請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。</string>
-	<string name="private_key_export_success_warning">注意不要截屏或把密鑰分享到網絡上。</string>
-	<string name="Private_Key_Export_Successful">導出私鑰成功</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
 	<string name="processing">處理中</string>
 	<string name="profile_modify_number">你想要修改手機號碼麼？</string>
