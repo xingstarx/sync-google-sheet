@@ -146,6 +146,7 @@
 "draft" : "Draft",
 "dragAndDropFileHere" : "Drag and drop files here",
 "durationIsTooShort" : "Duration is too short",
+"edit" : "Edit",
 "editCircleName" : "Edit Circle Name",
 "editConversations" : "Edit Conversations",
 "editGroupDescription" : "Edit Group Description",

@@ -120,7 +120,7 @@
   <string name="Amount" platform="android, iOS">金額</string>
   <string name="an_audio" platform="android">一條語音</string>
   <string name="animals_and_nature" platform="Desktop">動物與自然</string>
-  <string name="Anonymous" platform="android,iOS,Desktop">匿名</string>
+  <string name="Anonymous" platform="android,Desktop">匿名</string>
   <string name="Anonymous_Number" platform="Desktop, android, iOS">匿名號碼</string>
   <string name="ANSWER" platform="android">接聽</string>
   <string name="app_card_share_disallow" platform="Desktop">該鏈接已被設置為不允許分享</string>
@@ -529,7 +529,7 @@
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">重複轉賬確認</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">重複提現確認</string>
   <string name="Duration_is_too_short" platform="android, Desktop">時間太短</string>
-  <string name="Edit" platform="iOS, Desktop">編輯</string>
+  <string name="Edit" platform="android, iOS, Desktop">編輯</string>
   <string name="edit_address" platform="android, iOS">修改 %1$s 地址</string>
   <string name="Edit_Biography" platform="android, iOS">修改簡介</string>
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">編輯名稱</string>
@@ -2032,7 +2032,6 @@
   <string name="alert_frequency_once_description" platform="android,iOS">僅第一次觸發時預警</string>
   <string name="alert_value" platform="android,iOS">數值</string>
   <string name="Resume" platform="android,iOS">恢復</string>
-  <string name="Edit" platform="android,iOS">編輯</string>
   <string name="price_alert_notification_permission" platform="android,iOS">價格預警需要開啓通知權限</string>
   <string name="price_in_currency" platform="android,iOS">價格（%1$s）</string>
   <string name="Paused" platform="android,iOS">已暫停</string>
