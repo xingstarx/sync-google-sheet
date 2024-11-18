@@ -2064,7 +2064,8 @@
   <string name="Paste" platform="android,iOS">Paste</string>
   <string name="or" platform="android,iOS">or</string>
   <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">Sign in with Mnemonic Phrase</string>
-  <string name="landing_have_account" platform="android,iOS">Already have an account</string>
+  <string name="landing_have_account" platform="android,iOS">I already have an account</string>
+  <string name="sign_in_no_account" platform="android,iOS">Don’t have an account yet?</string>
   <string name="Create_Account" platform="android,iOS">Create Account</string>
   <string name="Mobile_Phone" platform="android,iOS">Mobile Phone</string>
   <string name="Mnemonic_Phrase" platform="android,iOS">Mnemonic Phrase</string>
