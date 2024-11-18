@@ -482,8 +482,8 @@
   <string name="deposit_tip_trx" platform="android, iOS">支援 TRX 和所有符合 TRC-10、TRC-20 標準的代幣。</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
   <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址將隨著系統或網路升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。</string>
-  <string name="Deselect_All" platform="iOS,android">取消所有選擇</string>
-  <string name="Designated_time_period" platform="iOS,android">指定時間段</string>
+  <string name="Deselect_All" platform="android">取消所有選擇</string>
+  <string name="Designated_time_period" platform="android">指定時間段</string>
   <string name="desktop" platform="android">桌面端</string>
   <string name="desktop_login_no_pin" platform="android">為了您的安全，登入桌面前請先設定 PIN 碼！</string>
   <string name="desktop_on_hint" platform="android, iOS">桌面版已登入。</string>
@@ -1290,7 +1290,7 @@
   <string name="select_a_card" platform="android">選擇卡片</string>
   <string name="Select_a_country_or_region" platform="iOS">選擇一個國家或地區</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">選擇支付手續費的幣種</string>
-  <string name="Select_All" platform="iOS,android">選擇所有</string>
+  <string name="Select_All" platform="android">選擇所有</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">選擇恢復聯絡人</string>
   <string name="Select_More_Photos" platform="iOS">選擇更多照片</string>
   <string name="select_payment_method" platform="android">選擇支付方式</string>
@@ -1399,7 +1399,7 @@
   <string name="Share_To" platform="iOS">分享到</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">媒體內容</string>
   <string name="Show" platform="android, iOS, Desktop">顯示</string>
-  <string name="Show Selected" platform="iOS,android">顯示選擇（%1$s）</string>
+  <string name="Show Selected" platform="android">顯示選擇（%1$s）</string>
   <string name="Show_asset" platform="iOS">顯示資產</string>
   <string name="show_avatar" platform="Desktop">顯示頭像</string>
   <string name="show_identity_number" platform="Desktop">顯示 ID</string>
@@ -1768,18 +1768,6 @@
   <string name="Not_Now" platform="android, iOS">現在不要</string>
   <string name="Sender" platform="android, iOS">交易發起人</string>
   <string name="total" platform="android, iOS">共計</string>
-  <string name="Export_Private_Key" platform="android, iOS">匯出私鑰</string>
-  <string name="Export_Private_Key_Confirmation" platform="android, iOS">匯出私鑰確認</string>
-  <string name="export_private_key_description" platform="android, iOS">請確認您具備安全保管私鑰的能力，並且願意承擔匯出私鑰可能帶來的洩漏風險。</string>
-  <string name="Exporting_Private_Key" platform="android, iOS">正在匯出私鑰</string>
-  <string name="exporting_private_key_description" platform="android, iOS">正在將匯出您 Mixin 錢包的私鑰，請稍候。</string>
-  <string name="Private_Key_Export_Successful" platform="android, iOS">匯出私鑰成功</string>
-  <string name="private_key_export_success_description" platform="android, iOS">請把私鑰寫到一張紙上並存在保險櫃或其他安全的地方。</string>
-  <string name="private_key_export_success_warning" platform="android, iOS">注意不要截圖或把金鑰分享到網路上。</string>
-  <string name="export_private_key_discouragement" platform="android, iOS">Mixin Messenger 的 MPC 錢包基於去中心化金鑰協議 TIP 構建，錢包完整的金鑰只存在當前裝置的 TEE 安全環境中，沒有洩漏風險，其他任何第三方包括我們均無法訪問該私鑰。我們強烈建議非專業人士不要手動匯出備份私鑰，閱讀檔案瞭解更多。</string>
-  <string name="export_private_key_discouragement_1" platform="android, iOS">私鑰可直接轉移當前賬號錢包裡所有的資產，不需要藉助手機簡訊或 PIN 碼。</string>
-  <string name="export_private_key_discouragement_2" platform="android, iOS">Mixin Messenger 不支援私鑰匯入，需要使用請透過主網工具來操作。</string>
-  <string name="export_private_key_discouragement_3" platform="android, iOS">強烈不推薦在 Mixin Messenger 賬號可用情況下使用該私鑰，否則相關資產在 Mixin Messenger 可能無法繼續使用。</string>
   <string name="continue_with_pin" platform="android, iOS">輸入 PIN 繼續</string>
   <string name="web3_account_network" platform="android, iOS">%1$s 賬戶</string>
   <string name="web3_account" platform="android, iOS">賬戶</string>
@@ -1871,7 +1859,7 @@
   <string name="search_swap_token" platform="android">按代幣或合約地址搜尋</string>
   <string name="Slippage_tolerance_exceeded" platform="android">超出滑點範圍</string>
   <string name="balance_max" platform="android,iOS">最大</string>
-  <string name="balance_half" platform="android,iOS">取半</string>
+  <string name="balance_half" platform="android">取半</string>
   <string name="web3_approve" platform="android">批准</string>
   <string name="web3_borrow" platform="android">借款</string>
   <string name="web3_burn" platform="android">燃燒</string>

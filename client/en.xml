@@ -490,8 +490,8 @@
   <string name="deposit_tip_trx" platform="android, iOS">This address supports all TRC-10 and TRC-20 tokens.</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
   <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
-  <string name="Deselect_All" platform="iOS,android">Deselect All</string>
-  <string name="Designated_time_period" platform="iOS,android">Designated time period</string>
+  <string name="Deselect_All" platform="android">Deselect All</string>
+  <string name="Designated_time_period" platform="android">Designated time period</string>
   <string name="desktop" platform="android">desktop</string>
   <string name="desktop_login_no_pin" platform="android">For your account security, please set up the PIN before logging into the desktop app.</string>
   <string name="desktop_on_hint" platform="android, iOS">You have your desktop logged in</string>
@@ -1309,7 +1309,7 @@
   <string name="select_a_card" platform="android">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
-  <string name="Select_All" platform="iOS,android">Select All</string>
+  <string name="Select_All" platform="android">Select All</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Recovery Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
   <string name="select_payment_method" platform="android">Select Payment Method</string>
@@ -1419,7 +1419,7 @@
   <string name="Share_To" platform="iOS">Share To</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Shared Media</string>
   <string name="Show" platform="android, iOS, Desktop">Show</string>
-  <string name="Show Selected" platform="iOS,android">Show Selected(%1$s)</string>
+  <string name="Show Selected" platform="android">Show Selected(%1$s)</string>
   <string name="Show_asset" platform="iOS">Show asset</string>
   <string name="show_avatar" platform="Desktop">Show avatar</string>
   <string name="show_identity_number" platform="Desktop">Show Identity Number</string>
@@ -1795,18 +1795,6 @@
   <string name="Not_Now" platform="android, iOS">Not Now</string>
   <string name="Sender" platform="android, iOS">Sender</string>
   <string name="total" platform="android, iOS">Total</string>
-  <string name="Export_Private_Key" platform="android, iOS">Export Private Key</string>
-  <string name="Export_Private_Key_Confirmation" platform="android, iOS">Export Private Key Confirmation</string>
-  <string name="export_private_key_description" platform="android, iOS">Kindly confirm your ability to securely store the private key and your willingness to accept the potential risk of leakage.</string>
-  <string name="Exporting_Private_Key" platform="android, iOS">Exporting Private Key</string>
-  <string name="exporting_private_key_description" platform="android, iOS">Exporting the private key of your Mixin wallet, please wait.</string>
-  <string name="Private_Key_Export_Successful" platform="android, iOS">Private Key Export Successful</string>
-  <string name="private_key_export_success_description" platform="android, iOS">Please write down the private key on a piece of paper and secure it within a safe or other secure location.</string>
-  <string name="private_key_export_success_warning" platform="android, iOS">Do not take screenshots or share the key on the internet.</string>
-  <string name="export_private_key_discouragement" platform="android, iOS">Mixin Messenger's MPC wallet is built on the decentralized key protocol TIP. The complete key of the wallet only exists in the TEE secure environment of current device, with no risk of leakage. Neither us nor any third party can access the private key. We strongly advise non-professionals not to export the private key. Read the documentation to learn more.</string>
-  <string name="export_private_key_discouragement_1" platform="android, iOS">The private key enables transfer of all assets within current wallet, without the need for SMS or PIN code verification.</string>
-  <string name="export_private_key_discouragement_2" platform="android, iOS">Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed.</string>
-  <string name="export_private_key_discouragement_3" platform="android, iOS">It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger.</string>
   <string name="continue_with_pin" platform="android, iOS">Continue with PIN</string>
   <string name="web3_account_network" platform="android, iOS">%1$s Account</string>
   <string name="web3_account" platform="android, iOS">Account</string>
@@ -1898,7 +1886,7 @@
   <string name="search_swap_token" platform="android">Search by token or address</string>
   <string name="Slippage_tolerance_exceeded" platform="android">Slippage tolerance exceeded</string>
   <string name="balance_max" platform="android,iOS">MAX</string>
-  <string name="balance_half" platform="android,iOS">HALF</string>
+  <string name="balance_half" platform="android">HALF</string>
   <string name="web3_approve" platform="android">Approve</string>
   <string name="web3_borrow" platform="android">Borrow</string>
   <string name="web3_burn" platform="android">Burn</string>
