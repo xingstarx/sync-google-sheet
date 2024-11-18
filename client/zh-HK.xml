@@ -750,7 +750,6 @@
   <string name="image_shareable_false" platform="android">該圖片已被設置為不允許轉發</string>
   <string name="Immediately" platform="android, iOS">立刻</string>
   <string name="Import" platform="android">導入聊天記錄</string>
-  <string name="Importing_Chat_Progress" platform="iOS">導入聊天記錄（%1$s%）</string>
   <string name="in_connecting" platform="android, iOS">正在連接…</string>
   <string name="Include_files" platform="iOS, Desktop">包含檔案</string>
   <string name="Include_videos" platform="iOS, Desktop">包括視頻</string>
@@ -1615,7 +1614,6 @@
   <string name="View" platform="android">查看</string>
   <string name="View_Authorization" platform="android, iOS">查看授權</string>
   <string name="View_emergency_contact" platform="android, iOS">查看恢復聯繫人</string>
-  <string name="View_Storage" platform="iOS">查看存儲空間</string>
   <string name="View_Wallet" platform="android, iOS">查看錢包</string>
   <string name="Voice_call" platform="android">語音通話</string>
   <string name="voice_call_cancelled" platform="iOS">對方已取消語音通話</string>
