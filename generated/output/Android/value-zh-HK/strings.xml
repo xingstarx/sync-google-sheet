@@ -814,7 +814,6 @@
 	<string name="location_kilometre">千米</string>
 	<string name="location_metre">米</string>
 	<string name="Log_in">登錄</string>
-	<string name="log_in_whit_mnemonic_phrase">助記詞登錄</string>
 	<string name="log_out_from_desktop">從桌面版退出</string>
 	<string name="login_and_abort_account_deletion">繼續登錄並放棄刪除賬户</string>
 	<string name="Login_desktop_first">請先登錄桌面端</string>
@@ -1338,7 +1337,7 @@
 	<string name="Sign_in">登錄</string>
 	<string name="Sign_in_desktop_app">登錄桌面端</string>
 	<string name="sign_in_no_account">還沒有賬户？</string>
-	<string name="Sign_in_with_Mnemonic_Phrase">使用助記詞登錄</string>
+	<string name="Sign_in_with_Mnemonic_Phrase">助記詞登錄</string>
 	<string name="sign_up_have_account">已有帳户?</string>
 	<string name="Sign_with_emergency_contact">通過恢復聯繫人登錄</string>
 	<string name="Sign_with_phone_number">通過手機號登錄</string>
@@ -1346,6 +1345,7 @@
 	<string name="signature_request_from">該簽名請求來自 %1$s。</string>
 	<string name="signature_request_warning">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
 	<string name="signed_message">簽名</string>
+	<string name="Signing_in_to_your_account">正在登錄賬户…</string>
 	<string name="Silence_Notification">靜音通知</string>
 	<string name="Size">大小</string>
 	<string name="Skip">跳過</string>

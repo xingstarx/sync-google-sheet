@@ -670,7 +670,6 @@
 "location_undetermined" = "目前无法确定位置，请稍候重试";
 "lock_with_biometric" = "%@锁定";
 "log_in" = "登录";
-"log_in_whit_mnemonic_phrase" = "助记词登录";
 "log_out_from_desktop" = "从桌面版退出";
 "login_and_abort_account_deletion" = "继续登录并放弃删除账户";
 "login_desktop_first" = "请先登录桌面端";
@@ -1134,13 +1133,14 @@
 "show_mnemonic_phrase" = "显示助记词";
 "sign_in" = "登录";
 "sign_in_no_account" = "还没有账户？";
-"sign_in_with_mnemonic_phrase" = "使用助记词登录";
+"sign_in_with_mnemonic_phrase" = "助记词登录";
 "sign_up_have_account" = "已有帐户?";
 "sign_with_emergency_contact" = "通过恢复联系人登录";
 "sign_with_phone_number" = "通过手机号登录";
 "signature_request" = "签名确认";
 "signature_request_from" = "该签名请求来自 %@。";
 "signed_message" = "签名";
+"signing_in_to_your_account" = "正在登录账户...";
 "skip" = "跳过";
 "slide_to_cancel" = "滑动取消";
 "slippage" = "滑点";

@@ -670,7 +670,6 @@
 "location_undetermined" = "Ваше местоположение еще не определено. Пожалуйста, попробуйте позже";
 "lock_with_biometric" = "Заблокировать с помощью %@";
 "log_in" = "Авторизоваться";
-"log_in_whit_mnemonic_phrase" = "Log in with Mnemonic Phrase";
 "log_out_from_desktop" = "Выйти с рабочего стола";
 "login_and_abort_account_deletion" = "Продолжить вход и отменить удаление учетной записи";
 "login_desktop_first" = "Please log in to the desktop first";
@@ -1141,6 +1140,7 @@
 "signature_request" = "Signature Request";
 "signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";
+"signing_in_to_your_account" = "Signing in to your account...";
 "skip" = "Пропустить";
 "slide_to_cancel" = "Сдвиньте, чтобы отменить";
 "slippage" = "Slippage";

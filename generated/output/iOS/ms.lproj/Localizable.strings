@@ -670,7 +670,6 @@
 "location_undetermined" = "Your location has yet to be determined. Please try again later";
 "lock_with_biometric" = "Lock with %@";
 "log_in" = "Log masuk";
-"log_in_whit_mnemonic_phrase" = "Log in with Mnemonic Phrase";
 "log_out_from_desktop" = "Log out from desktop";
 "login_and_abort_account_deletion" = "Continue to log in and abort account deletion";
 "login_desktop_first" = "Please log in to the desktop first";
@@ -1141,6 +1140,7 @@
 "signature_request" = "Signature Request";
 "signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";
+"signing_in_to_your_account" = "Signing in to your account...";
 "skip" = "LANGKAU";
 "slide_to_cancel" = "Slaid untuk Batal";
 "slippage" = "Slippage";

@@ -670,7 +670,6 @@
 "location_undetermined" = "Tu ubicación aún no se ha determinado. Por favor, inténtalo de nuevo más tarde";
 "lock_with_biometric" = "Bloquear con %@";
 "log_in" = "Iniciar sesión";
-"log_in_whit_mnemonic_phrase" = "Log in with Mnemonic Phrase";
 "log_out_from_desktop" = "Cerrar sesión desde el escritorio";
 "login_and_abort_account_deletion" = "Continuar para iniciar sesión y cancelar la eliminación de la cuenta";
 "login_desktop_first" = "Please log in to the desktop first";
@@ -1141,6 +1140,7 @@
 "signature_request" = "Signature Request";
 "signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";
+"signing_in_to_your_account" = "Signing in to your account...";
 "skip" = "Saltar";
 "slide_to_cancel" = "Deslizar para cancelar";
 "slippage" = "Slippage";

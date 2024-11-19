@@ -670,7 +670,6 @@
 "location_undetermined" = "目前無法確定位置，請稍候重試";
 "lock_with_biometric" = "%@鎖定";
 "log_in" = "登入";
-"log_in_whit_mnemonic_phrase" = "助記詞登入";
 "log_out_from_desktop" = "從桌面版退出";
 "login_and_abort_account_deletion" = "繼續登入並放棄刪除賬戶";
 "login_desktop_first" = "請先登入桌面端";
@@ -1134,13 +1133,14 @@
 "show_mnemonic_phrase" = "顯示助記詞";
 "sign_in" = "登入";
 "sign_in_no_account" = "還沒有賬戶？";
-"sign_in_with_mnemonic_phrase" = "使用助記詞登入";
+"sign_in_with_mnemonic_phrase" = "助記詞登入";
 "sign_up_have_account" = "已有帳戶?";
 "sign_with_emergency_contact" = "透過恢復聯絡人登入";
 "sign_with_phone_number" = "透過手機號登入";
 "signature_request" = "簽名確認";
 "signature_request_from" = "該簽名請求來自 %@。";
 "signed_message" = "簽名";
+"signing_in_to_your_account" = "正在登入賬戶...";
 "skip" = "跳過";
 "slide_to_cancel" = "滑動取消";
 "slippage" = "滑點";

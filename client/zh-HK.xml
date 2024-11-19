@@ -2035,7 +2035,7 @@
   <string name="Legacy_Network" platform="android,iOS">舊網絡</string>
   <string name="Paste" platform="android,iOS">粘貼</string>
   <string name="or" platform="android,iOS">或</string>
-  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">使用助記詞登錄</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">助記詞登錄</string>
   <string name="landing_have_account" platform="android,iOS">已有帳户</string>
   <string name="sign_in_no_account" platform="android,iOS">還沒有賬户？</string>
   <string name="sign_up_have_account" platform="android,iOS">已有帳户?</string>
@@ -2044,6 +2044,7 @@
   <string name="Mnemonic_Phrase" platform="android,iOS">助記詞</string>
   <string name="create_introduction" platform="android,iOS">MPC 錢包，%1$s，自我保管，社交恢復</string>
   <string name="Convenience" platform="android,iOS">便利</string>
+  <string name="Signing_in_to_your_account" platform="android,iOS">正在登錄賬户…</string>
   <string name="Creating_your_account" platform="android,iOS">正在創建賬户…</string>
   <string name="Set_up_Pin" platform="android,iOS">設置 PIN</string>
   <string name="Set_up_Pin_desc" platform="android,iOS">Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，PIN 是密鑰分片之一。錢包完整的密鑰只存在當前設備的 TEE 安全環境中。閲讀文檔以瞭解%1$s。</string>
