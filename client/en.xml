@@ -2072,6 +2072,7 @@
   <string name="Mnemonic_Phrase" platform="android,iOS">Mnemonic Phrase</string>
   <string name="create_introduction" platform="android,iOS">MPC Wallet, %1$s, Self-custody, Social Recovery</string>
   <string name="Convenience" platform="android,iOS">Convenience</string>
+  <string name="Signing_in_to_your_account" platform="android,iOS">Signing in to your account…</string>
   <string name="Creating_your_account" platform="android,iOS">Creating your account…</string>
   <string name="Set_up_Pin" platform="android,iOS">Set up PIN</string>
   <string name="Set_up_Pin_desc" platform="android,iOS">The MPC Wallet in Mixin Messenger is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
@@ -2108,7 +2109,6 @@
   <string name="Before_you_proceed_instruction_3" platform="android,iOS">Ensure that no one or surveillance cameras are watching your screen.</string>
   <string name="Show_Mnemonic_Phrase" platform="android,iOS">Show Mnemonic Phrase</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">Enter or paste your %1$d mnemonic words.</string>
-  <string name="log_in_whit_mnemonic_phrase" platform="android,iOS">Log in with Mnemonic Phrase</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">Write down your mnemonic phrase</string>
   <string name="check_mnemonic_phrase" platform="android,iOS">Check your mnemonic phrase</string>
   <string name="check_mnemonic_phrase_desc" platform="android,iOS">Select each word in the order it was presented to you.</string>

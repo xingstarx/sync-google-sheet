@@ -2035,7 +2035,7 @@
   <string name="Legacy_Network" platform="android,iOS">旧网络</string>
   <string name="Paste" platform="android,iOS">粘贴</string>
   <string name="or" platform="android,iOS">或</string>
-  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">使用助记词登录</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">助记词登录</string>
   <string name="landing_have_account" platform="android,iOS">已有帐户</string>
   <string name="sign_in_no_account" platform="android,iOS">还没有账户？</string>
   <string name="sign_up_have_account" platform="android,iOS">已有帐户?</string>
@@ -2044,6 +2044,7 @@
   <string name="Mnemonic_Phrase" platform="android,iOS">助记词</string>
   <string name="create_introduction" platform="android,iOS">MPC 钱包，%1$s，自我保管，社交恢复</string>
   <string name="Convenience" platform="android,iOS">便利</string>
+  <string name="Signing_in_to_your_account" platform="android,iOS">正在登录账户…</string>
   <string name="Creating_your_account" platform="android,iOS">正在创建账户…</string>
   <string name="Set_up_Pin" platform="android,iOS">设置 PIN</string>
   <string name="Set_up_Pin_desc" platform="android,iOS">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，PIN 是密钥分片之一。钱包完整的密钥只存在当前设备的 TEE 安全环境中。阅读文档以了解%1$s。</string>
@@ -2080,7 +2081,6 @@
   <string name="Before_you_proceed_instruction_3" platform="android,iOS">确保没有人或监控摄像头正在看您的屏幕。</string>
   <string name="Show_Mnemonic_Phrase" platform="android,iOS">显示助记词</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">输入或粘贴您的 %1$d 个助记词。</string>
-  <string name="log_in_whit_mnemonic_phrase" platform="android,iOS">助记词登录</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">写下您的助记词</string>
   <string name="check_mnemonic_phrase" platform="android,iOS">检查您的助记词</string>
   <string name="check_mnemonic_phrase_desc" platform="android,iOS">按照呈现给您的顺序选择每个单词。</string>

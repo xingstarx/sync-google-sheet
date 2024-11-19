@@ -2080,7 +2080,6 @@
   <string name="Before_you_proceed_instruction_3" platform="android,iOS">確保沒有人或監控攝像頭正在看您的螢幕。</string>
   <string name="Show_Mnemonic_Phrase" platform="android,iOS">顯示助記詞</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">輸入或貼上您的 %1$d 個助記詞。</string>
-  <string name="log_in_whit_mnemonic_phrase" platform="android,iOS">助記詞登入</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">寫下您的助記詞</string>
   <string name="check_mnemonic_phrase" platform="android,iOS">檢查您的助記詞</string>
   <string name="check_mnemonic_phrase_desc" platform="android,iOS">按照呈現給您的順序選擇每個單詞。</string>
