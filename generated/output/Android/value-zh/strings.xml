@@ -323,6 +323,7 @@
 	<string name="CHATS">会话</string>
 	<string name="Chats_Count">1 个聊天</string>
 	<string name="Chats_Counts">%1$s 个聊天</string>
+	<string name="Check_Backup">检查备份</string>
 	<string name="check_mnemonic_phrase">检查您的助记词</string>
 	<string name="check_mnemonic_phrase_desc">按照呈现给您的顺序选择每个单词。</string>
 	<string name="check_trace_failed">检查支付信息失败，请重试</string>

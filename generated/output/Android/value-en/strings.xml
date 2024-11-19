@@ -328,6 +328,7 @@
 	<string name="CHATS">CHATS</string>
 	<string name="Chats_Count">1 chat</string>
 	<string name="Chats_Counts">%1$s chats</string>
+	<string name="Check_Backup">Check Backup</string>
 	<string name="check_mnemonic_phrase">Check your mnemonic phrase</string>
 	<string name="check_mnemonic_phrase_desc">Select each word in the order it was presented to you.</string>
 	<string name="check_trace_failed">Check trace info failed, please try again</string>
@@ -1720,7 +1721,7 @@
 	<string name="withdrawal_with_biometric">Withdrawal with Biometric</string>
 	<string name="withdrawal_with_PIN">Withdrawal with PIN</string>
 	<string name="write_down_mnemonic_phrase">Write down your mnemonic phrase</string>
-	<string name="write_down_mnemonic_phrase_desc">Write it on a piece of paper and store it in a safe place.</string>
+	<string name="write_down_mnemonic_phrase_desc">Write it down on a piece of paper and keep it in a safe place.</string>
 	<string name="Year">Year</string>
 	<string name="you">you</string>
 	<string name="You">You</string>

@@ -260,6 +260,7 @@
 "chat_text_size" = "聊天字體大小";
 "chat_waiting" = "等待%1$@上線後建立加密會話。%2$@。";
 "chats" = "會話";
+"check_backup" = "檢查備份";
 "check_mnemonic_phrase" = "檢查您的助記詞";
 "check_mnemonic_phrase_desc" = "按照呈現給您的順序選擇每個單詞。";
 "choose_network" = "選擇充值網絡";
