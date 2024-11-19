@@ -810,6 +810,7 @@
 "ok" = "OK";
 "old_device_is_waiting" = "Make sure that the old device is still on the screen that says \"Waiting for Other Device...\" to ensure synchronization.";
 "oldest" = "Oldest";
+"onboarding_description" = "An open source crypto wallet with Signal messaging";
 "one_by_one_forward" = "One-by-One Forward";
 "one_hour" = "1 Hour";
 "one_week" = "1 Week";

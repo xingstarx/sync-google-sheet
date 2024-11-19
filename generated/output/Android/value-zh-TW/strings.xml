@@ -986,6 +986,7 @@
 	<string name="Old_PIN">驗證舊的 PIN</string>
 	<string name="old_price">過期價格</string>
 	<string name="Oldest">最早</string>
+	<string name="onboarding_description">帶有 Signal 訊息功能的開源加密錢包</string>
 	<string name="one_hour">1 小時</string>
 	<string name="one_week">1 星期</string>
 	<string name="one_year">1 年</string>

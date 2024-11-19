@@ -810,6 +810,7 @@
 "ok" = "好的";
 "old_device_is_waiting" = "確保舊的裝置已停留在同步等待掃碼的介面";
 "oldest" = "最早";
+"onboarding_description" = "帶有 Signal 訊息功能的開源加密錢包";
 "one_by_one_forward" = "逐條轉發";
 "one_hour" = "1 小時";
 "one_week" = "1 星期";
