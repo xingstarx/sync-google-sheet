@@ -2108,4 +2108,5 @@
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">要添加的恢復聯繫人已添加當前賬號（%1$s）為聯繫人，否則對方可能無法收到驗證碼。</string>
   <string name="Mixin_Support" platform="android,iOS">Mixin 服務</string>
   <string name="Ask_me_anything" platform="android,iOS">向我提問</string>
+  <string name="phone_as_key_shard" platform="android,iOS">手機號將關聯到由您管理的 MPC 錢包的一個密鑰分片</string>
 </resources>

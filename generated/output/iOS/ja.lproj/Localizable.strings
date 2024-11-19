@@ -847,6 +847,7 @@
 "permission_denied_network_hint" = "設定からワイヤレスデータの使用をMixinに許可してください";
 "permission_denied_photo_library" = "設定から画像ライブラリの使用をMixinに許可してください";
 "permissions" = "許可";
+"phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "通話";
 "phone_contact" = "連絡帳";
 "phone_contacts" = "連絡帳";

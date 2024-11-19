@@ -847,6 +847,7 @@
 "permission_denied_network_hint" = "Mixin no tiene permiso para usar datos inalámbricos. Toca Configuración para abrir la configuración del sistema.";
 "permission_denied_photo_library" = "Mixin no tiene permiso para usar tu biblioteca de fotos. Toca Configuración para abrir la configuración del sistema.";
 "permissions" = "Permisos";
+"phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "Llamada telefónica";
 "phone_contact" = "Contactos del teléfono";
 "phone_contacts" = "Contactos del teléfono";

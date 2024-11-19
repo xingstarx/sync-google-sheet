@@ -847,6 +847,7 @@
 "permission_denied_network_hint" = "У Mixin нет разрешения на использование беспроводных данных. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки";
 "permission_denied_photo_library" = "У Mixin нет разрешения на использование вашей библиотеки фотографий. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки";
 "permissions" = "Разрешения";
+"phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "Телефонный звонок";
 "phone_contact" = "Телефонные контакты";
 "phone_contacts" = "Телефонные контакты";

@@ -847,6 +847,7 @@
 "permission_denied_network_hint" = "Mixin doesn't have permission to use wireless data. Please tap Setting to open system settings.";
 "permission_denied_photo_library" = "Mixin doesn't have permission to use your photo library. Please tap Setting to open system settings.";
 "permissions" = "Kebenaran";
+"phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "Panggilan telefon";
 "phone_contact" = "Kenalan Telefon";
 "phone_contacts" = "Kenalan Telefon";

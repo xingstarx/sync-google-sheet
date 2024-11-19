@@ -1035,6 +1035,7 @@
 	<string name="permission_camera">Allow to take pictures?</string>
 	<string name="permission_video">Allow to record video?</string>
 	<string name="Permissions">Permissions</string>
+	<string name="phone_as_key_shard">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
 	<string name="Phone_call">Phone call</string>
 	<string name="Phone_Contact">Phone Contacts</string>
 	<string name="Phone_Contacts">Phone Contacts</string>

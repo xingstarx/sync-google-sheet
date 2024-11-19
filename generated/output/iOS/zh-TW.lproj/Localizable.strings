@@ -847,6 +847,7 @@
 "permission_denied_network_hint" = "Mixin 需要無線資料許可權，請點選'設定'開啟系統授權。";
 "permission_denied_photo_library" = "Mixin 需要相簿許可權，請點選'設定'開啟系統授權。";
 "permissions" = "許可權列表";
+"phone_as_key_shard" = "手機號將關聯到由您管理的 MPC 錢包的一個金鑰分片";
 "phone_call" = "電話呼叫";
 "phone_contact" = "手機聯絡人";
 "phone_contacts" = "手機通訊錄";
