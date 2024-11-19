@@ -752,7 +752,7 @@
 	<string name="Introduction">介紹</string>
 	<string name="Invalid_Address">無效的地址</string>
 	<string name="Invalid_Link">無效鏈接</string>
-	<string name="Invalid_mnemonic">無效助記詞</string>
+	<string name="Invalid_mnemonic_phrase">無效助記詞</string>
 	<string name="Invalid_payment_link">無效支付信息</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>
 	<string name="Invalid_sticker_format">貼紙格式不支持</string>

@@ -618,7 +618,7 @@
 "invalid_height" = "無効な高さ";
 "invalid_malformed_address_eos_hint" = "無効なアドレスです。MixinはEOSアドレスへの引き出しに対応していません。";
 "invalid_malformed_address_hint" = "無効なアドレスです。%@の有効なアドレスでもう一度試してください。";
-"invalid_mnemonic" = "Invalid mnemonic";
+"invalid_mnemonic_phrase" = "Invalid  mnemonic phrase";
 "invalid_parameters" = "無効なパラメータ";
 "invalid_payment_link" = "支払いが無効です";
 "invalid_qr_code" = "無効なQRコード";

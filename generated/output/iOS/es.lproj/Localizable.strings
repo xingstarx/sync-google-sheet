@@ -618,7 +618,7 @@
 "invalid_height" = "Altura inválida";
 "invalid_malformed_address_eos_hint" = "Formato de dirección inválido. ¡Mixin no admite el retiro a la dirección del contrato EOS!";
 "invalid_malformed_address_hint" = "Formato de dirección inválido. Vuelve a intentarlo con una dirección válida de %@";
-"invalid_mnemonic" = "Invalid mnemonic";
+"invalid_mnemonic_phrase" = "Invalid  mnemonic phrase";
 "invalid_parameters" = "Parámetros inválidos";
 "invalid_payment_link" = "Enlace de pago inválido";
 "invalid_qr_code" = "Código QR inválido";

@@ -764,7 +764,7 @@
 	<string name="Introduction">Introduction</string>
 	<string name="Invalid_Address">Invalid Address</string>
 	<string name="Invalid_Link">Invalid Link</string>
-	<string name="Invalid_mnemonic">Invalid mnemonic</string>
+	<string name="Invalid_mnemonic_phrase">Invalid  mnemonic phrase</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
 	<string name="Invalid_sticker_format">Invalid sticker format</string>
