@@ -2109,4 +2109,5 @@
   <string name="Mixin_Support" platform="android,iOS">Mixin 服务</string>
   <string name="Ask_me_anything" platform="android,iOS">向我提问</string>
   <string name="phone_as_key_shard" platform="android,iOS">手机号将关联到由您管理的 MPC 钱包的一个密钥分片</string>
+  <string name="Check_Backup" platform="android,iOS">检查备份</string>
 </resources>
