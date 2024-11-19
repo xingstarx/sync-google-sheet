@@ -2144,5 +2144,5 @@
   <string name="Backed_up" platform="android,iOS">Backed up</string>
   <string name="Not_Backed_up" platform="android,iOS">Not Backed Up</string>
   <string name="onboarding_description" platform="android,iOS">An open source crypto wallet with Signal messaging</string>
-  <string name="number_of_words" platform="android,iOS">%1$s words</string>
+  <string name="number_of_words" platform="android,iOS">%1$d words</string>
 </resources>
