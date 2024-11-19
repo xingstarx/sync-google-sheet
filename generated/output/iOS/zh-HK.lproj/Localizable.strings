@@ -144,6 +144,7 @@
 "approve_transaction" = "批准交易";
 "approving_transaction" = "正在批准";
 "approving_transaction_failed" = "批准失敗";
+"ask_me_anything" = "向我提問";
 "asset_key" = "資產標識";
 "asset_not_found" = "找不到該資產";
 "asset_type" = "資產類型";
@@ -705,6 +706,7 @@
 "mixin_locked" = "Mixin 已鎖定";
 "mixin_messenger_desktop" = "Mixin Messenger 桌面";
 "mixin_server_encounters_errors" = "服務器出錯，請稍後重試";
+"mixin_support" = "Mixin 服務";
 "mnemonic_phrase" = "助記詞";
 "mnemonic_phrase_instruction" = "你可以通過助記詞登錄你的賬號，當前助記詞已關聯到 MPC 錢包的密鑰分片，完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%@。";
 "mnemonic_phrase_instruction_1" = "創建賬號生成的 13 個助記詞僅用於 Mixin Network 相關產品。";

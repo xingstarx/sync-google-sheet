@@ -2105,4 +2105,6 @@
   <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要新增的恢復聯絡人已下載並登入了 Mixin Messenger。</string>
   <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">要新增的恢復聯絡人保持 Mixin Messenger 線上或者正在與您面對面。</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">要新增的恢復聯絡人已添加當前賬號（%1$s）為聯絡人，否則對方可能無法收到驗證碼。</string>
+  <string name="Mixin_Support" platform="android,iOS">Mixin 服務</string>
+  <string name="Ask_me_anything" platform="android,iOS">向我提問</string>
 </resources>
