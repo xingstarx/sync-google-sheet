@@ -2117,4 +2117,5 @@
   <string name="Not_Backed_up" platform="android,iOS">未备份</string>
   <string name="onboarding_description" platform="android,iOS">带有 Signal 消息功能的开源加密钱包</string>
   <string name="number_of_words" platform="android,iOS">%1$d 个词</string>
+  <string name="Recovery_Kit" platform="android,iOS">账号恢复</string>
 </resources>
