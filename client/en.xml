@@ -2133,4 +2133,6 @@
   <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">The recovery contact you want to add has downloaded and logged in to Mixin Messenger.</string>
   <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">The recovery contact you want to add keeps Mixin Messenger online or is meeting with you face-to-face.</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">The recovery contact you want to add has added the current account (%1$s) as a contact; otherwise, they may not receive the verification code.</string>
+  <string name="Mixin_Support" platform="android,iOS">Mixin Support</string>
+  <string name="Ask_me_anything" platform="android,iOS">Ask me anything</string>
 </resources>
