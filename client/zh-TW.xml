@@ -2034,7 +2034,7 @@
   <string name="Send_Collectible" platform="android,iOS">傳送藏品</string>
   <string name="Legacy_Network" platform="android,iOS">舊網路</string>
   <string name="Paste" platform="android,iOS">貼上</string>
-  <string name="or" platform="android,iOS">或</string>
+  <string name="or" platform="android,iOS">或者</string>
   <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">助記詞登入</string>
   <string name="landing_have_account" platform="android,iOS">已有帳戶</string>
   <string name="sign_in_no_account" platform="android,iOS">還沒有賬戶？</string>
@@ -2116,5 +2116,5 @@
   <string name="Backed_up" platform="android,iOS">已備份</string>
   <string name="Not_Backed_up" platform="android,iOS">未備份</string>
   <string name="onboarding_description" platform="android,iOS">帶有 Signal 訊息功能的開源加密錢包</string>
-  <string name="number_of_words" platform="android,iOS">%1$s 個詞</string>
+  <string name="number_of_words" platform="android,iOS">%1$d 個詞</string>
 </resources>

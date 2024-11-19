@@ -805,7 +805,7 @@
 "number_of_days" = "%d天";
 "number_of_opponents" = "%d 收发人";
 "number_of_recipients" = "%d 收款人";
-"number_of_words" = "%@ 个词";
+"number_of_words" = "%d 个词";
 "off" = "关闭";
 "ok" = "好的";
 "old_device_is_waiting" = "确保旧的设备已停留在同步等待扫码的界面";
@@ -829,7 +829,7 @@
 "opponents" = "收发人";
 "optimize_database" = "优化查询索引";
 "optimized" = "已优化";
-"or" = "或";
+"or" = "或者";
 "other" = "其他";
 "overwrite" = "覆盖";
 "owner" = "群主";

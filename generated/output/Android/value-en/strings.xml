@@ -997,7 +997,7 @@
 	<string name="number_of_days">%1$d Days</string>
 	<string name="number_of_opponents">%1$d Opponents</string>
 	<string name="number_of_recipients">%1$d Recipients</string>
-	<string name="number_of_words">%1$s words</string>
+	<string name="number_of_words">%1$d words</string>
 	<string name="number_reached_limit">The number has reached the limit</string>
 	<string name="Off">Off</string>
 	<string name="OK">OK</string>
