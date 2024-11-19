@@ -805,6 +805,7 @@
 "number_of_days" = "%d天";
 "number_of_opponents" = "%d 收發人";
 "number_of_recipients" = "%d 收款人";
+"number_of_words" = "%@ 個詞";
 "off" = "關閉";
 "ok" = "好的";
 "old_device_is_waiting" = "確保舊的設備已停留在同步等待掃碼的界面";

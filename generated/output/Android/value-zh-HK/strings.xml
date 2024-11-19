@@ -979,6 +979,7 @@
 	<string name="number_of_days">%1$d天</string>
 	<string name="number_of_opponents">%1$d 收發人</string>
 	<string name="number_of_recipients">%1$d 收款人</string>
+	<string name="number_of_words">%1$s 個詞</string>
 	<string name="number_reached_limit">已達到上限</string>
 	<string name="Off">關閉</string>
 	<string name="OK">好的</string>
