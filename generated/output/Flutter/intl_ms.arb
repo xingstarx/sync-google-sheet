@@ -193,7 +193,7 @@
 "sharedMedia" : "Media Berkongsi",
 "show" : "Tunjuk",
 "signIn" : "Log masuk",
-"signWithPhoneNumber" : "Log masuk dengan nombor telefon",
+"signWithMobileNumber" : "Log masuk dengan nombor telefon",
 "status" : "Status",
 "sticker" : "Pelekat",
 "stickerAddInvalidSize" : "Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px.",

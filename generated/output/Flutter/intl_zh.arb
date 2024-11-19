@@ -403,7 +403,7 @@
 "showMixin" : "显示 Mixin",
 "signIn" : "登录",
 "signOut" : "登出",
-"signWithPhoneNumber" : "通过手机号登录",
+"signWithMobileNumber" : "通过手机号登录",
 "signWithQrcode" : "通过二维码登录",
 "smileysAndPeople" : "表情符号与人物",
 "snapshotHash" : "快照哈希",

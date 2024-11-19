@@ -1347,7 +1347,7 @@
 	<string name="Sign_in_with_Mnemonic_Phrase">助記詞登入</string>
 	<string name="sign_up_have_account">已有帳戶?</string>
 	<string name="Sign_with_emergency_contact">透過恢復聯絡人登入</string>
-	<string name="Sign_with_phone_number">透過手機號登入</string>
+	<string name="sign_with_mobile_number">透過手機號登入</string>
 	<string name="signature_request">簽名確認</string>
 	<string name="signature_request_from">該簽名請求來自 %1$s。</string>
 	<string name="signature_request_warning">我們無法驗證此請求。簽名前請確認你信任此 App。</string>

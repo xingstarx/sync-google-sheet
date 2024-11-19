@@ -192,7 +192,7 @@
 "sharedMedia" : "Media Bersama",
 "show" : "Tampilkan",
 "signIn" : "Masuk",
-"signWithPhoneNumber" : "Masuk dengan nomor telepon",
+"signWithMobileNumber" : "Masuk dengan nomor telepon",
 "status" : "Status",
 "sticker" : "Stiker",
 "stickerAddInvalidSize" : "Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px.",

@@ -492,7 +492,6 @@
 "enter_your_emergency_contact_mixin_id" = "請輸入恢復聯繫人的 Mixin ID";
 "enter_your_new_pin" = "輸入你的新 PIN";
 "enter_your_old_pin" = "輸入你的舊 PIN";
-"enter_your_phone_number" = "輸入你的手機號碼";
 "enter_your_pin" = "輸入你的 PIN";
 "enter_your_pin_to_continue" = "輸入你的 PIN 以繼續";
 "error_bad_data" = "錯誤 10002：請求數據不合法";
@@ -1143,7 +1142,7 @@
 "sign_in_with_mnemonic_phrase" = "助記詞登錄";
 "sign_up_have_account" = "已有帳户?";
 "sign_with_emergency_contact" = "通過恢復聯繫人登錄";
-"sign_with_phone_number" = "通過手機號登錄";
+"sign_with_mobile_number" = "通過手機號登錄";
 "signature_request" = "簽名確認";
 "signature_request_from" = "該簽名請求來自 %@。";
 "signed_message" = "簽名";

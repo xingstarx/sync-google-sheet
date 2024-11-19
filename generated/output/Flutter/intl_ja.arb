@@ -336,7 +336,7 @@
 "showMixin" : "Mixinを表示",
 "signIn" : "ログイン",
 "signOut" : "サインアウト",
-"signWithPhoneNumber" : "電話番号でログイン",
+"signWithMobileNumber" : "電話番号でログイン",
 "signWithQrcode" : "QRコードでログイン",
 "status" : "ステータス",
 "sticker" : "スタンプ",

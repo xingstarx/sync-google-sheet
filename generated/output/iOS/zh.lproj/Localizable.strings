@@ -492,7 +492,6 @@
 "enter_your_emergency_contact_mixin_id" = "请输入恢复联系人的 Mixin ID";
 "enter_your_new_pin" = "输入你的新 PIN";
 "enter_your_old_pin" = "输入你的旧 PIN";
-"enter_your_phone_number" = "输入你的手机号码";
 "enter_your_pin" = "输入你的 PIN";
 "enter_your_pin_to_continue" = "输入你的 PIN 以继续";
 "error_bad_data" = "错误 10002：请求数据不合法";
@@ -1143,7 +1142,7 @@
 "sign_in_with_mnemonic_phrase" = "助记词登录";
 "sign_up_have_account" = "已有帐户?";
 "sign_with_emergency_contact" = "通过恢复联系人登录";
-"sign_with_phone_number" = "通过手机号登录";
+"sign_with_mobile_number" = "通过手机号登录";
 "signature_request" = "签名确认";
 "signature_request_from" = "该签名请求来自 %@。";
 "signed_message" = "签名";

@@ -849,7 +849,7 @@
 	<string name="Shown">表示ずみ</string>
 	<string name="Sign_in">ログイン</string>
 	<string name="Sign_in_desktop_app">デスクトップにログイン</string>
-	<string name="Sign_with_phone_number">電話番号でログイン</string>
+	<string name="sign_with_mobile_number">電話番号でログイン</string>
 	<string name="Silence_Notification">サイレント通知</string>
 	<string name="Size">サイズ</string>
 	<string name="Skip">スキップ</string>

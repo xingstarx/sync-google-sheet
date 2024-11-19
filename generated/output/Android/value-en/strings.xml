@@ -1368,7 +1368,7 @@
 	<string name="Sign_in_with_Mnemonic_Phrase">Sign in with Mnemonic Phrase</string>
 	<string name="sign_up_have_account">Already have an account?</string>
 	<string name="Sign_with_emergency_contact">Sign in with recovery contact</string>
-	<string name="Sign_with_phone_number">Sign in with phone number</string>
+	<string name="sign_with_mobile_number">Sign in with mobile number</string>
 	<string name="signature_request">Signature Request</string>
 	<string name="signature_request_from">This signature request is issued by %1$s.</string>
 	<string name="signature_request_warning">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>

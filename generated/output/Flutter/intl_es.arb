@@ -356,7 +356,7 @@
 "showMixin" : "Mostrar Mixin",
 "signIn" : "Iniciar sesión",
 "signOut" : "Cerrar sesión",
-"signWithPhoneNumber" : "Iniciar sesión con número de teléfono",
+"signWithMobileNumber" : "Iniciar sesión con número de teléfono",
 "signWithQrcode" : "Iniciar sesión con código QR",
 "smileysAndPeople" : "Emoticonos y personas",
 "status" : "Estado",

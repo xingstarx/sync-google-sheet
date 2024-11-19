@@ -406,7 +406,7 @@
 "showMixin" : "Show Mixin",
 "signIn" : "Sign in",
 "signOut" : "Sign Out",
-"signWithPhoneNumber" : "Sign in with phone number",
+"signWithMobileNumber" : "Sign in with mobile number",
 "signWithQrcode" : "Sign in with QR code",
 "smileysAndPeople" : "Smileys & People",
 "snapshotHash" : "Snapshot Hash",

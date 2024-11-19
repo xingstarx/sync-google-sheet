@@ -336,7 +336,7 @@
 "showMixin" : "Показать Mixin",
 "signIn" : "Войти",
 "signOut" : "Выход",
-"signWithPhoneNumber" : "Войти через номер телефона",
+"signWithMobileNumber" : "Войти через номер телефона",
 "signWithQrcode" : "Войти с QrCode",
 "status" : "Статус",
 "sticker" : "Наклейка",

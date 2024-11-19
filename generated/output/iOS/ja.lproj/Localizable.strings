@@ -492,7 +492,6 @@
 "enter_your_emergency_contact_mixin_id" = "Enter your recovery contact Mixin ID";
 "enter_your_new_pin" = "Enter your new PIN";
 "enter_your_old_pin" = "Enter your old PIN";
-"enter_your_phone_number" = "電話番号を入力してください";
 "enter_your_pin" = "PINコードを入力してください";
 "enter_your_pin_to_continue" = "PINコードを入力して、続けてください";
 "error_bad_data" = "エラー 10002：リクエストデータが無効です";
@@ -1143,7 +1142,7 @@
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
 "sign_up_have_account" = "Already have an account?";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
-"sign_with_phone_number" = "電話番号でログイン";
+"sign_with_mobile_number" = "電話番号でログイン";
 "signature_request" = "Signature Request";
 "signature_request_from" = "This signature request is issued by %@.";
 "signed_message" = "SIGNED MESSAGE";

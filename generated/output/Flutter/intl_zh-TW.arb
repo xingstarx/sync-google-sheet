@@ -403,7 +403,7 @@
 "showMixin" : "顯示 Mixin",
 "signIn" : "登入",
 "signOut" : "登出",
-"signWithPhoneNumber" : "透過手機號登入",
+"signWithMobileNumber" : "透過手機號登入",
 "signWithQrcode" : "透過二維碼登入",
 "smileysAndPeople" : "表情符號與人物",
 "snapshotHash" : "快照雜湊",
