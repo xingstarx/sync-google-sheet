@@ -562,7 +562,7 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入恢复联系人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">输入你的新 PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">输入你的旧 PIN</string>
-  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">输入你的手机号码</string>
+  <string name="Enter_your_phone_number" platform="android, Desktop">输入你的手机号码</string>
   <string name="Enter_your_PIN" platform="android, iOS">输入你的 PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">输入你的 PIN 以继续</string>
   <string name="Enter_your_PIN_to_verify" platform="android">输入你的 PIN 来验证</string>
@@ -1410,7 +1410,7 @@
   <string name="Sign_in_desktop_app" platform="android">登录桌面端</string>
   <string name="sign_out" platform="DesktoP">登出</string>
   <string name="Sign_with_emergency_contact" platform="android, iOS">通过恢复联系人登录</string>
-  <string name="Sign_with_phone_number" platform="android, iOS, Desktop">通过手机号登录</string>
+  <string name="sign_with_mobile_number" platform="android, iOS, Desktop">通过手机号登录</string>
   <string name="sign_with_qrcode" platform="Desktop">通过二维码登录</string>
   <string name="signature_request" platform="android, iOS">签名确认</string>
   <string name="signature_request_warning" platform="android">我们无法验证此请求。签名前请确认你信任此 App。</string>

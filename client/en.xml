@@ -570,7 +570,7 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your recovery contact Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
-  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
+  <string name="Enter_your_phone_number" platform="android, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
   <string name="Enter_your_PIN_to_verify" platform="android">Enter your PIN to verify</string>
@@ -1430,7 +1430,7 @@
   <string name="Sign_in_desktop_app" platform="android">Sign in desktop app</string>
   <string name="sign_out" platform="DesktoP">Sign Out</string>
   <string name="Sign_with_emergency_contact" platform="android, iOS">Sign in with recovery contact</string>
-  <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Sign in with phone number</string>
+  <string name="sign_with_mobile_number" platform="android, iOS, Desktop">Sign in with mobile number</string>
   <string name="sign_with_qrcode" platform="Desktop">Sign in with QR code</string>
   <string name="signature_request" platform="android, iOS">Signature Request</string>
   <string name="signature_request_warning" platform="android">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>

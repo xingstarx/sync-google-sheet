@@ -458,7 +458,7 @@
   <string name="End_to_End_Encryption" platform="android, iOS">E2E暗号化</string>
   <string name="Enter_new_phone_number" platform="android, iOS">新しい電話番号を入力してください</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">アカウントを削除するためにPINコードを入力してください</string>
-  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">電話番号を入力してください</string>
+  <string name="Enter_your_phone_number" platform="android, Desktop">電話番号を入力してください</string>
   <string name="Enter_your_PIN" platform="android, iOS">PINコードを入力してください</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">PINコードを入力して、続けてください</string>
   <string name="EOS_contract_address" platform="android">EOSアドレス</string>
@@ -1138,7 +1138,7 @@
   <string name="Sign_in" platform="android, iOS, Desktop">ログイン</string>
   <string name="Sign_in_desktop_app" platform="android">デスクトップにログイン</string>
   <string name="sign_out" platform="DesktoP">サインアウト</string>
-  <string name="Sign_with_phone_number" platform="android, iOS, Desktop">電話番号でログイン</string>
+  <string name="sign_with_mobile_number" platform="android, iOS, Desktop">電話番号でログイン</string>
   <string name="sign_with_qrcode" platform="Desktop">QRコードでログイン</string>
   <string name="Silence_Notification" platform="android">サイレント通知</string>
   <string name="Size" platform="android">サイズ</string>

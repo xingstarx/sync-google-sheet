@@ -1410,7 +1410,7 @@
   <string name="Sign_in_desktop_app" platform="android">登錄桌面端</string>
   <string name="sign_out" platform="DesktoP">登出</string>
   <string name="Sign_with_emergency_contact" platform="android, iOS">通過恢復聯繫人登錄</string>
-  <string name="Sign_with_phone_number" platform="android, iOS, Desktop">通過手機號登錄</string>
+  <string name="sign_with_mobile_number" platform="android, iOS, Desktop">通過手機號登錄</string>
   <string name="sign_with_qrcode" platform="Desktop">通過二維碼登錄</string>
   <string name="signature_request" platform="android, iOS">簽名確認</string>
   <string name="signature_request_warning" platform="android">我們無法驗證此請求。簽名前請確認你信任此 App。</string>
