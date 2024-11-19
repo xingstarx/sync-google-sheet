@@ -2136,4 +2136,5 @@
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">The recovery contact you want to add has added the current account (%1$s) as a contact; otherwise, they may not receive the verification code.</string>
   <string name="Mixin_Support" platform="android,iOS">Mixin Support</string>
   <string name="Ask_me_anything" platform="android,iOS">Ask me anything</string>
+  <string name="phone_as_key_shard" platform="android,iOS">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
 </resources>
