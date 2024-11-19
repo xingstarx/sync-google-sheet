@@ -172,6 +172,7 @@
 "backup_mnemonic_phrase" = "備份助記詞";
 "backup_mnemonic_phrase_desc" = "立即通過備份您的助記詞來保護您的資產。";
 "backup_mnemonic_phrase_warning" = "請立即備份您的助記詞。該助記詞為 MPC 錢包密鑰分片之一，一旦設備遺失或應用被卸載，若您沒有備份，將無法重新登錄當前 Mixin 賬號 (%@)。";
+"backup_mnemonic_successfully" = "成功備份助記詞";
 "backup_now" = "開始備份";
 "backup_to_icloud" = "備份到 iCloud";
 "balance" = "餘額";
@@ -300,6 +301,7 @@
 "collection" = "合集";
 "collection_collected" = "已收藏 %d 件";
 "combine_and_forward" = "合併轉發";
+"complete" = "完成";
 "compress_database" = "壓縮數據庫";
 "compressed" = "已壓縮";
 "confirm" = "確認";
@@ -714,6 +716,7 @@
 "mnemonic_phrase_take_long" = "這應該不會花太長時間。";
 "mnemonic_phrase_tip_1" = "·存放在金庫或安全地方";
 "mnemonic_phrase_tip_2" = "·不要在網絡上發送";
+"mnemonics_mismatched" = "助記詞不符";
 "mobile_contacts" = "通訊錄";
 "mobile_number" = "手機號碼";
 "mobile_phone" = "手機";

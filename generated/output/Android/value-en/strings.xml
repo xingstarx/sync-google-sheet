@@ -208,6 +208,7 @@
 	<string name="Backup_Mnemonic_Phrase">Backup Mnemonic Phrase</string>
 	<string name="Backup_Mnemonic_Phrase_desc">Protect your assets by backing up your mnemonic phrase now.</string>
 	<string name="Backup_Mnemonic_Phrase_Warning">Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven\'t backed it up, you won\'t be able to log back into the current Mixin account (%1$s).</string>
+	<string name="Backup_mnemonic_successfully">Backup mnemonic phrase successfully</string>
 	<string name="backup_no_available_memory">There are no available memory for backup.</string>
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
@@ -376,6 +377,7 @@
 	<string name="Collection_collected">%1$d collected</string>
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
+	<string name="Complete">Complete</string>
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_Adding_Address">Confirm Address</string>
 	<string name="Confirm_Deleting_Address">Delete Address</string>
@@ -888,6 +890,7 @@
 	<string name="mnemonic_phrase_take_long">This shouldn\'t take long.</string>
 	<string name="mnemonic_phrase_tip_1">· Store it in a vault or secure location</string>
 	<string name="mnemonic_phrase_tip_2">· Do not post it online</string>
+	<string name="Mnemonics_Mismatched">Mnemonics Mismatched</string>
 	<string name="Mobile_Number">Mobile Number</string>
 	<string name="Mobile_Phone">Mobile Phone</string>
 	<string name="Model">Model</string>

@@ -172,6 +172,7 @@
 "backup_mnemonic_phrase" = "备份助记词";
 "backup_mnemonic_phrase_desc" = "立即通过备份您的助记词来保护您的资产。";
 "backup_mnemonic_phrase_warning" = "请立即备份您的助记词。该助记词为 MPC 钱包密钥分片之一，一旦设备遗失或应用被卸载，若您没有备份，将无法重新登录当前 Mixin 账号 (%@)。";
+"backup_mnemonic_successfully" = "成功备份助记词";
 "backup_now" = "开始备份";
 "backup_to_icloud" = "备份到 iCloud";
 "balance" = "余额";
@@ -300,6 +301,7 @@
 "collection" = "合集";
 "collection_collected" = "已收藏 %d 件";
 "combine_and_forward" = "合并转发";
+"complete" = "完成";
 "compress_database" = "压缩数据库";
 "compressed" = "已压缩";
 "confirm" = "确认";
@@ -714,6 +716,7 @@
 "mnemonic_phrase_take_long" = "这应该不会花太长时间。";
 "mnemonic_phrase_tip_1" = "·存放在金库或安全地方";
 "mnemonic_phrase_tip_2" = "·不要在网络上发送";
+"mnemonics_mismatched" = "助记词不符";
 "mobile_contacts" = "通讯录";
 "mobile_number" = "手机号码";
 "mobile_phone" = "手机";
