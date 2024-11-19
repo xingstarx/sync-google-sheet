@@ -166,6 +166,7 @@
 "back_to_chat" = "返回聊天";
 "back_to_merchant" = "返回商家";
 "back_up_now" = "立即備份";
+"backed_up" = "已備份";
 "background_preview" = "背景預覽";
 "backing_up" = "正在備份...";
 "backup_disable_hint" = "需要登錄 iCloud 來備份你的聊天記錄。 設置 > iCloud > 打開 iCloud 雲碟。";
@@ -790,6 +791,7 @@
 "none" = "無";
 "normal" = "普通";
 "not_all_signer_success" = "有些節點失敗了";
+"not_backed_up" = "未備份";
 "not_enough_partials" = "沒有足夠的節點返回密鑰分片";
 "not_found" = "沒有找到相應的消息";
 "not_now" = "現在不要";

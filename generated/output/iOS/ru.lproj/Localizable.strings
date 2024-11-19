@@ -166,6 +166,7 @@
 "back_to_chat" = "Вернуться к чату";
 "back_to_merchant" = "Back to Merchant";
 "back_up_now" = "Резервное копирование сейчас";
+"backed_up" = "Backed up";
 "background_preview" = "Фоновый просмотр";
 "backing_up" = "Резервное копирование...";
 "backup_disable_hint" = "Войдите в iCloud, чтобы создать резервную копию своей истории. Настройки > iCloud > Включить iCloud Drive.";
@@ -790,6 +791,7 @@
 "none" = "Никто";
 "normal" = "Normal";
 "not_all_signer_success" = "Not all node success";
+"not_backed_up" = "Not Backed Up";
 "not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "Не найден";
 "not_now" = "Not Now";

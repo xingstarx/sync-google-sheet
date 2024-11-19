@@ -166,6 +166,7 @@
 "back_to_chat" = "チャットに戻る";
 "back_to_merchant" = "Back to Merchant";
 "back_up_now" = "今すぐバックアップ";
+"backed_up" = "Backed up";
 "background_preview" = "背景のプレビュー";
 "backing_up" = "バックアップしています...";
 "backup_disable_hint" = "履歴をバックアップするためにサインインしてください：設定＞ユーザー名＞iCloud＞iCloud Driveをオン";
@@ -790,6 +791,7 @@
 "none" = "なし";
 "normal" = "通常";
 "not_all_signer_success" = "Not all node success";
+"not_backed_up" = "Not Backed Up";
 "not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "見つかりません";
 "not_now" = "Not Now";

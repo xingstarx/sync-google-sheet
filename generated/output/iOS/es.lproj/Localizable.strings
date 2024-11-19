@@ -166,6 +166,7 @@
 "back_to_chat" = "Volver al chat";
 "back_to_merchant" = "Volver al comerciante";
 "back_up_now" = "Realiza copia. de seguridad ahora";
+"backed_up" = "Backed up";
 "background_preview" = "Vista previa de fondo";
 "backing_up" = "Realizando copia de seguridad...";
 "backup_disable_hint" = "Inicie sesión en iCloud para realizar una copia de seguridad de tu historial. Configuración > iCloud > Activar iCloud Drive.";
@@ -790,6 +791,7 @@
 "none" = "Ninguno";
 "normal" = "Normal";
 "not_all_signer_success" = "No todos los nodos tienen éxito";
+"not_backed_up" = "Not Backed Up";
 "not_enough_partials" = "No hay suficientes nodos que devuelvan fragmento de clave";
 "not_found" = "Extraviado";
 "not_now" = "Not Now";

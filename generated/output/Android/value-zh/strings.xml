@@ -190,6 +190,7 @@
 	<string name="Auto_Lock">自动锁定</string>
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="back_to_merchant">返回商家</string>
+	<string name="Backed_up">已备份</string>
 	<string name="Background_Preview">背景预览</string>
 	<string name="Backing_Up">正在备份…</string>
 	<string name="Backup">备份</string>
@@ -958,6 +959,7 @@
 	<string name="None">无</string>
 	<string name="normal">普通</string>
 	<string name="Not_all_signer_success">有些节点失败了</string>
+	<string name="Not_Backed_up">未备份</string>
 	<string name="Not_enough_partials">没有足够的节点返回密钥分片</string>
 	<string name="Not_found">没有找到相应的消息</string>
 	<string name="Not_logged_in">还没有登录</string>

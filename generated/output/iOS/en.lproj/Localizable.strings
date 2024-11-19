@@ -166,6 +166,7 @@
 "back_to_chat" = "Back To Chat";
 "back_to_merchant" = "Back to Merchant";
 "back_up_now" = "Back Up Now";
+"backed_up" = "Backed up";
 "background_preview" = "Background Preview";
 "backing_up" = "Backing Up...";
 "backup_disable_hint" = "Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive.";
@@ -790,6 +791,7 @@
 "none" = "None";
 "normal" = "Normal";
 "not_all_signer_success" = "Not all node success";
+"not_backed_up" = "Not Backed Up";
 "not_enough_partials" = "Not enough nodes return key shard";
 "not_found" = "Not found";
 "not_now" = "Not Now";

@@ -192,6 +192,7 @@
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Back To Chat</string>
 	<string name="back_to_merchant">Back to Merchant</string>
+	<string name="Backed_up">Backed up</string>
 	<string name="Background_Preview">Background Preview</string>
 	<string name="Backing_Up">Backing Up…</string>
 	<string name="Backup">Backup</string>
@@ -976,6 +977,7 @@
 	<string name="None">None</string>
 	<string name="normal">Normal</string>
 	<string name="Not_all_signer_success">Not all node success</string>
+	<string name="Not_Backed_up">Not Backed Up</string>
 	<string name="Not_enough_partials">Not enough nodes return key shard</string>
 	<string name="Not_found">Not found</string>
 	<string name="Not_logged_in">Not logged in</string>
