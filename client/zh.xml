@@ -2110,4 +2110,7 @@
   <string name="Ask_me_anything" platform="android,iOS">向我提问</string>
   <string name="phone_as_key_shard" platform="android,iOS">手机号将关联到由您管理的 MPC 钱包的一个密钥分片</string>
   <string name="Check_Backup" platform="android,iOS">检查备份</string>
+  <string name="Complete" platform="android,iOS">完成</string>
+  <string name="Backup_mnemonic_successfully" platform="android,iOS">成功备份助记词</string>
+  <string name="Mnemonics_Mismatched" platform="android,iOS">助记词不符</string>
 </resources>

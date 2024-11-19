@@ -2138,4 +2138,7 @@
   <string name="Ask_me_anything" platform="android,iOS">Ask me anything</string>
   <string name="phone_as_key_shard" platform="android,iOS">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
   <string name="Check_Backup" platform="android,iOS">Check Backup</string>
+  <string name="Complete" platform="android,iOS">Complete</string>
+  <string name="Backup_mnemonic_successfully" platform="android,iOS">Backup mnemonic phrase successfully</string>
+  <string name="Mnemonics_Mismatched" platform="android,iOS">Mnemonics Mismatched</string>
 </resources>
