@@ -2092,10 +2092,10 @@
   <string name="Add_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。手機號碼將與您MPC錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的TEE安全環境中。閲讀文檔以瞭解%1$s。</string>
   <string name="Change_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。當前手機號碼（%1$s）已與MPC錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的TEE安全環境中。閲讀文檔以瞭解%2$s。</string>
   <string name="Add_Mobile_Number" platform="android,iOS">添加手機號碼</string>
-  <string name="add_phone_instruction_1" platform="android,iOS">手機號碼和助記詞將鏈接到同一個密鑰片段。</string>
-  <string name="add_phone_instruction_2" platform="android,iOS">手機號碼和助記詞登錄到同一帳户。</string>
-  <string name="add_phone_instruction_3" platform="android,iOS">您無法添加註冊為Mixin Messenger帳户的手機號碼。</string>
-  <string name="add_phone_instruction_4" platform="android,iOS">綁定後無法刪除手機號碼。</string>
+  <string name="add_phone_instruction_1" platform="android,iOS">手機號和助記詞將鏈接到同一個密鑰分片。</string>
+  <string name="add_phone_instruction_2" platform="android,iOS">手機號和助記詞登錄的是同一個賬號。</string>
+  <string name="add_phone_instruction_3" platform="android,iOS">無法添加一個已註冊為 Mixin Messenger 賬號的手機號。</string>
+  <string name="add_phone_instruction_4" platform="android,iOS">手機號綁定後無法刪除。</string>
   <string name="Change_Mobile_Number" platform="android,iOS">更改手機號碼</string>
   <string name="Add_Recovery_Contact_desc" platform="android,iOS">恢復聯繫人旨在幫助您在丟失手機號碼或助記詞時登錄您的帳户。</string>
   <string name="add_recovery_contact_instruction_1" platform="android,iOS">添加您信任的人為恢復聯繫人，例如你的家人、朋友或同事。</string>

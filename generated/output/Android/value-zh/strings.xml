@@ -43,10 +43,10 @@
 	<string name="Add_people_hint">通过 Mixin ID 或手机号添加联系人</string>
 	<string name="add_people_search_hint">Mixin ID 或手机号</string>
 	<string name="Add_Phone_desc">您可以通过手机号码登录您的帐户。手机号码将与您MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEE安全环境中。阅读文档以了解%1$s。</string>
-	<string name="add_phone_instruction_1">手机号码和助记词将链接到同一个密钥片段。</string>
-	<string name="add_phone_instruction_2">手机号码和助记词登录到同一帐户。</string>
-	<string name="add_phone_instruction_3">您无法添加注册为Mixin Messenger帐户的手机号码。</string>
-	<string name="add_phone_instruction_4">绑定后无法删除手机号码。</string>
+	<string name="add_phone_instruction_1">手机号和助记词将链接到同一个密钥分片。</string>
+	<string name="add_phone_instruction_2">手机号和助记词登录的是同一个账号。</string>
+	<string name="add_phone_instruction_3">无法添加一个已注册为 Mixin Messenger 账号的手机号。</string>
+	<string name="add_phone_instruction_4">手机号绑定后无法删除。</string>
 	<string name="add_recovery_contact_before_instruction_1">要添加的恢复联系人已下载并登录了 Mixin Messenger。</string>
 	<string name="add_recovery_contact_before_instruction_2">要添加的恢复联系人保持 Mixin Messenger 在线或者正在与您面对面。</string>
 	<string name="add_recovery_contact_before_instruction_3">要添加的恢复联系人已添加当前账号（%1$s）为联系人，否则对方可能无法收到验证码。</string>
