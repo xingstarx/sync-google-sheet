@@ -2113,4 +2113,6 @@
   <string name="Complete" platform="android,iOS">完成</string>
   <string name="Backup_mnemonic_successfully" platform="android,iOS">成功备份助记词</string>
   <string name="Mnemonics_Mismatched" platform="android,iOS">助记词不符</string>
+  <string name="Backed_up" platform="android,iOS">已备份</string>
+  <string name="Not_Backed_up" platform="android,iOS">未备份</string>
 </resources>

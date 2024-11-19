@@ -2141,4 +2141,6 @@
   <string name="Complete" platform="android,iOS">Complete</string>
   <string name="Backup_mnemonic_successfully" platform="android,iOS">Backup mnemonic phrase successfully</string>
   <string name="Mnemonics_Mismatched" platform="android,iOS">Mnemonics Mismatched</string>
+  <string name="Backed_up" platform="android,iOS">Backed up</string>
+  <string name="Not_Backed_up" platform="android,iOS">Not Backed Up</string>
 </resources>
