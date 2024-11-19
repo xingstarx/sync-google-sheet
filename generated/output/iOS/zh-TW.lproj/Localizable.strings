@@ -937,6 +937,7 @@
 "recent_searches" = "最近搜尋";
 "recipients" = "收款人";
 "recovery_contact" = "恢復聯絡人";
+"recovery_kit" = "賬號恢復";
 "recovery_kit_attention" = "注意：Recovery Kit 無法幫助您恢復密碼";
 "recovery_kit_instruction" = "Mixin Messenger 的 MPC 錢包基於去中心化金鑰協議 TIP 構建，您可以透過手機號、助記詞或可信聯絡人登入恢復你的賬號，錢包完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%@。";
 "red_up_green_down" = "紅漲綠跌";

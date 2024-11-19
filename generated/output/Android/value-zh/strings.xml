@@ -1116,6 +1116,7 @@
 	<string name="Recent_searches">最近搜索</string>
 	<string name="Recipients">收款人</string>
 	<string name="Recovery_Contact">恢复联系人</string>
+	<string name="Recovery_Kit">账号恢复</string>
 	<string name="Recovery_Kit_Attention">注意：Recovery Kit 无法帮助您恢复密码</string>
 	<string name="Recovery_Kit_instruction">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，您可以通过手机号、助记词或可信联系人登录恢复你的账号，钱包完整的密钥只存在当前设备的 TEE 安全环境中，阅读文档以了解%1$s。</string>
 	<string name="red_up_green_down">红涨绿跌</string>

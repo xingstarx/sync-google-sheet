@@ -937,6 +937,7 @@
 "recent_searches" = "最近の検索";
 "recipients" = "Recipients";
 "recovery_contact" = "Recovery Contact";
+"recovery_kit" = "Recovery Kit";
 "recovery_kit_attention" = "Attention: The Recovery Kit cannot help you recover your PIN";
 "recovery_kit_instruction" = "The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %@.";
 "red_up_green_down" = "Red Up / Green Down";
