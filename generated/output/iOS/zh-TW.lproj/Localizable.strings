@@ -1134,6 +1134,7 @@
 "sign_in" = "登入";
 "sign_in_no_account" = "還沒有賬戶？";
 "sign_in_with_mnemonic_phrase" = "使用助記詞登入";
+"sign_up_have_account" = "已有帳戶?";
 "sign_with_emergency_contact" = "透過恢復聯絡人登入";
 "sign_with_phone_number" = "透過手機號登入";
 "signature_request" = "簽名確認";

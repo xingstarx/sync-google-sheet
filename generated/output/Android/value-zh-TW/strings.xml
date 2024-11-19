@@ -1338,6 +1338,7 @@
 	<string name="Sign_in_desktop_app">登入桌面端</string>
 	<string name="sign_in_no_account">還沒有賬戶？</string>
 	<string name="Sign_in_with_Mnemonic_Phrase">使用助記詞登入</string>
+	<string name="sign_up_have_account">已有帳戶?</string>
 	<string name="Sign_with_emergency_contact">透過恢復聯絡人登入</string>
 	<string name="Sign_with_phone_number">透過手機號登入</string>
 	<string name="signature_request">簽名確認</string>

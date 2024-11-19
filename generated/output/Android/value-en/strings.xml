@@ -1359,6 +1359,7 @@
 	<string name="Sign_in_desktop_app">Sign in desktop app</string>
 	<string name="sign_in_no_account">Don’t have an account yet?</string>
 	<string name="Sign_in_with_Mnemonic_Phrase">Sign in with Mnemonic Phrase</string>
+	<string name="sign_up_have_account">Already have an account?</string>
 	<string name="Sign_with_emergency_contact">Sign in with recovery contact</string>
 	<string name="Sign_with_phone_number">Sign in with phone number</string>
 	<string name="signature_request">Signature Request</string>

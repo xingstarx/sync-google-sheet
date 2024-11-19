@@ -1134,6 +1134,7 @@
 "sign_in" = "登录";
 "sign_in_no_account" = "还没有账户？";
 "sign_in_with_mnemonic_phrase" = "使用助记词登录";
+"sign_up_have_account" = "已有帐户?";
 "sign_with_emergency_contact" = "通过恢复联系人登录";
 "sign_with_phone_number" = "通过手机号登录";
 "signature_request" = "签名确认";

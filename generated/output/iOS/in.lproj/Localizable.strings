@@ -1134,6 +1134,7 @@
 "sign_in" = "Masuk";
 "sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
+"sign_up_have_account" = "Already have an account?";
 "sign_with_emergency_contact" = "Sign in with recovery contact";
 "sign_with_phone_number" = "Masuk dengan nomor telepon";
 "signature_request" = "Signature Request";
