@@ -2089,7 +2089,7 @@
   <string name="Mnemonic_Phrase_instruction" platform="android,iOS">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
   <string name="Backup_Mnemonic_Phrase_desc" platform="android,iOS">Protect your assets by backing up your mnemonic phrase now.</string>
   <string name="Backup_Mnemonic_Phrase_Warning" platform="android,iOS">Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven't backed it up, you won't be able to log back into the current Mixin account (%1$s).</string>
-  <string name="Invalid_mnemonic" platform="android,iOS">Invalid mnemonic</string>
+  <string name="Invalid_mnemonic_phrase" platform="android,iOS">Invalid  mnemonic phrase</string>
   <string name="Set_up_pin_warning" platform="android,iOS">Keep the app in the foreground while verifying the shard key and syncing to the TIP network. Do not force quit the app during the setup process.</string>
   <string name="Set_up_Pin_question" platform="android,iOS">What happens if I lose the PIN?</string>
   <string name="Set_up_Pin_answer_1" platform="android,iOS">I can recover my account later.</string>
