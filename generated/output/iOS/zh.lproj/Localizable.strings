@@ -1138,7 +1138,6 @@
 "show" = "显示";
 "show_asset" = "显示资产";
 "show_in_chat" = "在聊天中展示";
-"show_mnemonic_phrase" = "显示助记词";
 "sign_in" = "登录";
 "sign_in_no_account" = "还没有账户？";
 "sign_in_with_mnemonic_phrase" = "助记词登录";
