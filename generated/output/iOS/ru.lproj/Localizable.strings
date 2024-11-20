@@ -1138,6 +1138,7 @@
 "show" = "Показать";
 "show_asset" = "Показать актив";
 "show_in_chat" = "Показать в чате";
+"show_mnemonic_phrase" = "Show Mnemonic Phrase";
 "sign_in" = "Войти";
 "sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";
