@@ -2107,6 +2107,7 @@
   <string name="Before_you_proceed_instruction_1" platform="android,iOS">The 13 or 25 mnemonic words generated when creating an account are for Mixin Network-related products only.</string>
   <string name="Before_you_proceed_instruction_2" platform="android,iOS">The mnemonic phrase cannot help you recover your PIN.</string>
   <string name="Before_you_proceed_instruction_3" platform="android,iOS">Ensure that no one or surveillance cameras are watching your screen.</string>
+  <string name="Show_Mnemonic_Phrase" platform="android,iOS">Show Mnemonic Phrase</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">Enter or paste your %1$d mnemonic words.</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">Write down your mnemonic phrase</string>
   <string name="check_mnemonic_phrase" platform="android,iOS">Check your mnemonic phrase</string>
