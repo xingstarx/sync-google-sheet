@@ -21,7 +21,7 @@
 "add_mobile_number" = "添加手机号码";
 "add_or_remove_favorite_bots" = "添加或删除收藏的机器人";
 "add_participants" = "添加成员";
-"add_phone_desc" = "您可以通过手机号码登录您的帐户。手机号码将与您MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEE安全环境中。阅读文档以了解%@。";
+"add_phone_desc" = "您可以通过手机号码登录您的帐户。手机号码将与您 MPC 钱包的密钥片段关联。完整的密钥仅存在于当前设备的 TEE 安全环境中。阅读文档以了解%@。";
 "add_phone_instruction_1" = "手机号和助记词将链接到同一个密钥分片。";
 "add_phone_instruction_2" = "手机号和助记词登录的是同一个账号。";
 "add_phone_instruction_3" = "无法添加一个已注册为 Mixin Messenger 账号的手机号。";
@@ -225,7 +225,7 @@
 "change_number_instead" = "仅修改手机号码";
 "change_percent_period_day" = "%d天 %%";
 "change_percent_period_hour" = "%d小时 %%";
-"change_phone_desc" = "您可以通过手机号码登录您的帐户。当前手机号码（%1$@）已与MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEE安全环境中。阅读文档以了解%2$@。";
+"change_phone_desc" = "您可以通过手机号码登录您的帐户。当前手机号码（%1$@）已与MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEE 安全环境中。阅读文档以了解%2$@。";
 "change_phone_number" = "修改手机号";
 "change_pin" = "修改 PIN";
 "change_pin_interval_hint" = "输入 PIN 修改使用间隔";
@@ -1098,7 +1098,7 @@
 "set_up_pin_question" = "如果我丢失了 PIN 会发生什么？";
 "set_up_pin_tip_1" = "如果丢失 PIN 则无法恢复您的钱包。";
 "set_up_pin_tip_2" = "很少在其他地方看到三次确认，因此请记住，如果丢失 PIN 将无法恢复钱包。";
-"set_up_pin_warning" = "在验证碎片密钥并同步到TIP网络时，请将应用程序保留在前台；在设置过程中不要强制退出应用程序。";
+"set_up_pin_warning" = "在验证碎片密钥并同步到 TIP 网络时，请将应用程序保留在前台；在设置过程中不要强制退出应用程序。";
 "setting_appearance_language_alert_description" = "前往系统设置修改语言偏好";
 "setting_auth_access" = "授权时间：%1$@, 上次访问：%2$@";
 "setting_auth_search_hint" = "Mixin ID, 昵称";
