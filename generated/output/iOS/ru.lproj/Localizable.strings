@@ -621,7 +621,7 @@
 "invalid_height" = "Неверный рост";
 "invalid_malformed_address_eos_hint" = "Неверный формат адреса. Mixin не поддерживает вывод средств на адрес контракта EOS!";
 "invalid_malformed_address_hint" = "Неверный формат адреса. Повторите попытку с действительным адресом %@";
-"invalid_mnemonic_phrase" = "Invalid  mnemonic phrase";
+"invalid_mnemonic_phrase" = "Invalid mnemonic phrase";
 "invalid_parameters" = "Недопустимые параметры";
 "invalid_payment_link" = "Неверная ссылка для оплаты";
 "invalid_qr_code" = "Неверный QR-код";

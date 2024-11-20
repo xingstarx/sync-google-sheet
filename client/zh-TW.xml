@@ -2063,7 +2063,7 @@
   <string name="Mnemonic_Phrase_instruction" platform="android,iOS">你可以透過助記詞登入你的賬號，當前助記詞已關聯到 MPC 錢包的金鑰分片，完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%1$s。</string>
   <string name="Backup_Mnemonic_Phrase_desc" platform="android,iOS">立即透過備份您的助記詞來保護您的資產。</string>
   <string name="Backup_Mnemonic_Phrase_Warning" platform="android,iOS">請立即備份您的助記詞。該助記詞為 MPC 錢包金鑰分片之一，一旦裝置遺失或應用被解除安裝，若您沒有備份，將無法重新登入當前 Mixin 賬號 (%1$s)。</string>
-  <string name="Invalid_mnemonic_phrase" platform="android,iOS">無效助記詞</string>
+  <string name="Invalid_mnemonic_phrase" platform="android,iOS">助記詞無效</string>
   <string name="Set_up_pin_warning" platform="android,iOS">在驗證碎片金鑰並同步到TIP網路時，請將應用程式保留在前臺；在設定過程中不要強制退出應用程式。</string>
   <string name="Set_up_Pin_question" platform="android,iOS">如果我丟失了 PIN 會發生什麼？</string>
   <string name="Set_up_Pin_answer_1" platform="android,iOS">我可以稍後恢復我的帳戶。</string>

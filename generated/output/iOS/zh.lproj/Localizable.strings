@@ -621,7 +621,7 @@
 "invalid_height" = "高度无效";
 "invalid_malformed_address_eos_hint" = "地址格式错误。Mixin 不支持提现到 EOS 合约地址！";
 "invalid_malformed_address_hint" = "地址格式错误。请输入正确的 %@ 地址";
-"invalid_mnemonic_phrase" = "无效助记词";
+"invalid_mnemonic_phrase" = "助记词无效";
 "invalid_parameters" = "无效的参数";
 "invalid_payment_link" = "无效支付信息";
 "invalid_qr_code" = "无效的二维码";

@@ -621,7 +621,7 @@
 "invalid_height" = "Invalid height";
 "invalid_malformed_address_eos_hint" = "Invalid address format. Mixin does not support withdrawal to the EOS contract address!";
 "invalid_malformed_address_hint" = "Invalid address format. Try again with a valid address of %@";
-"invalid_mnemonic_phrase" = "Invalid  mnemonic phrase";
+"invalid_mnemonic_phrase" = "Invalid mnemonic phrase";
 "invalid_parameters" = "Invalid parameters";
 "invalid_payment_link" = "Pembayaran tidak valid";
 "invalid_qr_code" = "Invalid QR-Code";
