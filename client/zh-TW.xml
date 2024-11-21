@@ -2122,5 +2122,5 @@
   <string name="Log_out_Instead" platform="android,iOS">僅登出賬號</string>
   <string name="logout_confirmation" platform="android,iOS">你確定要登出賬號？</string>
   <string name="logout_title" platform="android,iOS">輸入 PIN 登出賬號</string>
-  <string name="logout_description" platform="android,iOS">退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解。</string>
+  <string name="logout_description" platform="android,iOS">退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解%1$s。</string>
 </resources>

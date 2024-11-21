@@ -827,7 +827,7 @@
 	<string name="Logined">已登入</string>
 	<string name="Logout">退出中…</string>
 	<string name="logout_confirmation">你確定要登出賬號？</string>
-	<string name="logout_description">退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解。</string>
+	<string name="logout_description">退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解%1$s。</string>
 	<string name="logout_title">輸入 PIN 登出賬號</string>
 	<string name="Logs">日誌</string>
 	<string name="Lost_your_mobile_number">手機丟失？</string>

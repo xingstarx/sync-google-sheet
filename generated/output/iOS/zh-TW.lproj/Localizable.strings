@@ -680,7 +680,7 @@
 "login_desktop_first" = "請先登入桌面端";
 "logined" = "已登入";
 "logout_confirmation" = "你確定要登出賬號？";
-"logout_description" = "退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解。";
+"logout_description" = "退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解%@。";
 "logout_title" = "輸入 PIN 登出賬號";
 "logs" = "日誌";
 "lost_your_mobile_number" = "手機丟失？";
