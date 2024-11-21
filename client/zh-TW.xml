@@ -1408,7 +1408,7 @@
   <string name="sign_by_pin" platform="android">使用 PIN 簽名</string>
   <string name="Sign_in" platform="android, iOS, Desktop">登入</string>
   <string name="Sign_in_desktop_app" platform="android">登入桌面端</string>
-  <string name="sign_out" platform="DesktoP">登出</string>
+  <string name="sign_out" platform="DesktoP">退出登入</string>
   <string name="Sign_with_emergency_contact" platform="android, iOS">透過恢復聯絡人登入</string>
   <string name="sign_with_mobile_number" platform="android, iOS, Desktop">透過手機號登入</string>
   <string name="sign_with_qrcode" platform="Desktop">透過二維碼登入</string>
@@ -2106,7 +2106,7 @@
   <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要新增的恢復聯絡人已下載並登入了 Mixin Messenger。</string>
   <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">要新增的恢復聯絡人保持 Mixin Messenger 線上或者正在與您面對面。</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">要新增的恢復聯絡人已添加當前賬號（%1$s）為聯絡人，否則對方可能無法收到驗證碼。</string>
-  <string name="Mixin_Support" platform="android,iOS">Mixin 服務</string>
+  <string name="Mixin_Support" platform="android,iOS">Mixin 客服</string>
   <string name="Ask_me_anything" platform="android,iOS">向我提問</string>
   <string name="phone_as_key_shard" platform="android,iOS">手機號將關聯到由您管理的 MPC 錢包的一個金鑰分片</string>
   <string name="Check_Backup" platform="android,iOS">檢查備份</string>
@@ -2115,12 +2115,12 @@
   <string name="Mnemonics_Mismatched" platform="android,iOS">助記詞不符</string>
   <string name="Backed_up" platform="android,iOS">已備份</string>
   <string name="Not_Backed_up" platform="android,iOS">未備份</string>
-  <string name="onboarding_description" platform="android,iOS">帶有 Signal 訊息功能的開源加密錢包</string>
+  <string name="onboarding_description" platform="android,iOS">帶有端對端加密訊息功能的開源加密錢包</string>
   <string name="number_of_words" platform="android,iOS">%1$d 個詞</string>
   <string name="Recovery_Kit" platform="android,iOS">賬號恢復</string>
-  <string name="Log_out" platform="android,iOS">登出</string>
-  <string name="Log_out_Instead" platform="android,iOS">僅登出賬號</string>
-  <string name="logout_confirmation" platform="android,iOS">你確定要登出賬號？</string>
-  <string name="logout_title" platform="android,iOS">輸入 PIN 登出賬號</string>
-  <string name="logout_description" platform="android,iOS">退出賬號不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解%1$s。</string>
+  <string name="Log_out" platform="android,iOS">退出登入</string>
+  <string name="Log_out_Instead" platform="android,iOS">僅退出登入</string>
+  <string name="logout_confirmation" platform="android,iOS">你確定要退出登入？</string>
+  <string name="logout_title" platform="android,iOS">輸入 PIN 退出登入</string>
+  <string name="logout_description" platform="android,iOS">退出登入不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解%1$s。</string>
 </resources>

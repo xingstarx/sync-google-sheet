@@ -402,7 +402,7 @@
 "showIdentityNumber" : "显示 ID",
 "showMixin" : "显示 Mixin",
 "signIn" : "登录",
-"signOut" : "登出",
+"signOut" : "退出登录",
 "signWithMobileNumber" : "通过手机号登录",
 "signWithQrcode" : "通过二维码登录",
 "smileysAndPeople" : "表情符号与人物",
