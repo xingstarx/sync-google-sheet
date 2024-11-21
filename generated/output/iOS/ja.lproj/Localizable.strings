@@ -673,10 +673,15 @@
 "location_undetermined" = "位置情報が特定できません。しばらくしてからやり直してください";
 "lock_with_biometric" = "%@を有効にする";
 "log_in" = "ログイン";
+"log_out" = "Log out";
 "log_out_from_desktop" = "デスクトップ版からログアウト";
+"log_out_instead" = "Log out Instead";
 "login_and_abort_account_deletion" = "そのままログインし、アカウント削除をキャンセルします";
 "login_desktop_first" = "Please log in to the desktop first";
 "logined" = "ログインしました";
+"logout_confirmation" = "Are you sure you want to log out?";
+"logout_description" = "Logging out will not affect your assets in Mixin wallet. Read the documentation to %@.";
+"logout_title" = "Enter your PIN to log out";
 "logs" = "ログ";
 "lost_your_mobile_number" = "電話番号をお忘れですか？";
 "low_24h" = "24H LOW";

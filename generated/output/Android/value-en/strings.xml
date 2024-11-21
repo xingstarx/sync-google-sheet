@@ -835,12 +835,17 @@
 	<string name="location_kilometre">km</string>
 	<string name="location_metre">m</string>
 	<string name="Log_in">Log in</string>
+	<string name="Log_out">Log out</string>
 	<string name="log_out_from_desktop">Log out from desktop</string>
+	<string name="Log_out_Instead">Log out Instead</string>
 	<string name="login_and_abort_account_deletion">Continue to log in and abort account deletion</string>
 	<string name="Login_desktop_first">Please log in to the desktop first</string>
 	<string name="Login_with_PIN">Login with PIN</string>
 	<string name="Logined">Logged in</string>
 	<string name="Logout">Logout…</string>
+	<string name="logout_confirmation">Are you sure you want to log out?</string>
+	<string name="logout_description">Logging out will not affect your assets in Mixin wallet. Read the documentation to %1$s.</string>
+	<string name="logout_title">Enter your PIN to log out</string>
 	<string name="Logs">Logs</string>
 	<string name="Lost_your_mobile_number">Lost your mobile number?</string>
 	<string name="low_24h">24H LOW</string>

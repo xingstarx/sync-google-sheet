@@ -818,12 +818,17 @@
 	<string name="location_kilometre">千米</string>
 	<string name="location_metre">米</string>
 	<string name="Log_in">登录</string>
+	<string name="Log_out">登出</string>
 	<string name="log_out_from_desktop">从桌面版退出</string>
+	<string name="Log_out_Instead">仅登出账号</string>
 	<string name="login_and_abort_account_deletion">继续登录并放弃删除账户</string>
 	<string name="Login_desktop_first">请先登录桌面端</string>
 	<string name="Login_with_PIN">用 PIN 来登录</string>
 	<string name="Logined">已登录</string>
 	<string name="Logout">退出中…</string>
+	<string name="logout_confirmation">你确定要登出账号？</string>
+	<string name="logout_description">退出账号不会影响您 Mixin 钱包的资产安全，阅读文档了解。</string>
+	<string name="logout_title">输入 PIN 登出账号</string>
 	<string name="Logs">日志</string>
 	<string name="Lost_your_mobile_number">手机丢失？</string>
 	<string name="low_24h">24 小时最低</string>

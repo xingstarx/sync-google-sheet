@@ -673,10 +673,15 @@
 "location_undetermined" = "目前无法确定位置，请稍候重试";
 "lock_with_biometric" = "%@锁定";
 "log_in" = "登录";
+"log_out" = "登出";
 "log_out_from_desktop" = "从桌面版退出";
+"log_out_instead" = "仅登出账号";
 "login_and_abort_account_deletion" = "继续登录并放弃删除账户";
 "login_desktop_first" = "请先登录桌面端";
 "logined" = "已登录";
+"logout_confirmation" = "你确定要登出账号？";
+"logout_description" = "退出账号不会影响您 Mixin 钱包的资产安全，阅读文档了解。";
+"logout_title" = "输入 PIN 登出账号";
 "logs" = "日志";
 "lost_your_mobile_number" = "手机丢失？";
 "low_24h" = "24 小时最低";

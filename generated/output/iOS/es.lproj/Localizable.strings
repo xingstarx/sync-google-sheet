@@ -673,10 +673,15 @@
 "location_undetermined" = "Tu ubicación aún no se ha determinado. Por favor, inténtalo de nuevo más tarde";
 "lock_with_biometric" = "Bloquear con %@";
 "log_in" = "Iniciar sesión";
+"log_out" = "Log out";
 "log_out_from_desktop" = "Cerrar sesión desde el escritorio";
+"log_out_instead" = "Log out Instead";
 "login_and_abort_account_deletion" = "Continuar para iniciar sesión y cancelar la eliminación de la cuenta";
 "login_desktop_first" = "Please log in to the desktop first";
 "logined" = "Sesión iniciada";
+"logout_confirmation" = "Are you sure you want to log out?";
+"logout_description" = "Logging out will not affect your assets in Mixin wallet. Read the documentation to %@.";
+"logout_title" = "Enter your PIN to log out";
 "logs" = "Registros";
 "lost_your_mobile_number" = "¿Has perdido tu número de móvil?";
 "low_24h" = "24H LOW";

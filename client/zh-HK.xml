@@ -2118,4 +2118,9 @@
   <string name="onboarding_description" platform="android,iOS">帶有 Signal 消息功能的開源加密錢包</string>
   <string name="number_of_words" platform="android,iOS">%1$d 個詞</string>
   <string name="Recovery_Kit" platform="android,iOS">賬號恢復</string>
+  <string name="Log_out" platform="android,iOS">登出</string>
+  <string name="Log_out_Instead" platform="android,iOS">僅登出賬號</string>
+  <string name="logout_confirmation" platform="android,iOS">你確定要登出賬號？</string>
+  <string name="logout_title" platform="android,iOS">輸入 PIN 登出賬號</string>
+  <string name="logout_description" platform="android,iOS">退出賬號不會影響您 Mixin 錢包的資產安全，閲讀文檔瞭解。</string>
 </resources>
