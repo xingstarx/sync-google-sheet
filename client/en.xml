@@ -2146,4 +2146,9 @@
   <string name="onboarding_description" platform="android,iOS">An open source crypto wallet with Signal messaging</string>
   <string name="number_of_words" platform="android,iOS">%1$d words</string>
   <string name="Recovery_Kit" platform="android,iOS">Recovery Kit</string>
+  <string name="Log_out" platform="android,iOS">Log out</string>
+  <string name="Log_out_Instead" platform="android,iOS">Log out Instead</string>
+  <string name="logout_confirmation" platform="android,iOS">Are you sure you want to log out?</string>
+  <string name="logout_title" platform="android,iOS">Enter your PIN to log out</string>
+  <string name="logout_description" platform="android,iOS">Logging out will not affect your assets in Mixin wallet. Read the documentation to %1$s.</string>
 </resources>
