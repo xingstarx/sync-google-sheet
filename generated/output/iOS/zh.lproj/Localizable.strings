@@ -225,7 +225,7 @@
 "change_number_instead" = "仅修改手机号码";
 "change_percent_period_day" = "%d天 %%";
 "change_percent_period_hour" = "%d小时 %%";
-"change_phone_desc" = "您可以通过手机号码登录您的帐户。当前手机号码（%1$@）已与MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEE 安全环境中。阅读文档以了解%2$@。";
+"change_phone_desc" = "您可以通过手机号码登录您的帐户。当前手机号码（%1$@）已与 MPC 钱包的密钥片段关联。完整的密钥仅存在于当前设备的 TEE 安全环境中。阅读文档以了解%2$@。";
 "change_phone_number" = "修改手机号";
 "change_pin" = "修改 PIN";
 "change_pin_interval_hint" = "输入 PIN 修改使用间隔";

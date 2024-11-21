@@ -276,7 +276,7 @@
 	<string name="Change_Number_Instead">仅修改手机号码</string>
 	<string name="change_percent_period_day">%1$d天 %%</string>
 	<string name="change_percent_period_hour">%1$d小时 %%</string>
-	<string name="Change_Phone_desc">您可以通过手机号码登录您的帐户。当前手机号码（%1$s）已与MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEE 安全环境中。阅读文档以了解%2$s。</string>
+	<string name="Change_Phone_desc">您可以通过手机号码登录您的帐户。当前手机号码（%1$s）已与 MPC 钱包的密钥片段关联。完整的密钥仅存在于当前设备的 TEE 安全环境中。阅读文档以了解%2$s。</string>
 	<string name="Change_Phone_Number">修改手机号</string>
 	<string name="Change_PIN">修改 PIN</string>
 	<string name="Change_PIN_successfully">PIN 修改成功</string>

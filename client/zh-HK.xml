@@ -2090,7 +2090,7 @@
   <string name="mnemonic_phrase_take_long" platform="android,iOS">這應該不會花太長時間。</string>
   <string name="Backup_Now" platform="android,iOS">開始備份</string>
   <string name="Add_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。手機號碼將與您 MPC 錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的 TEE 安全環境中。閲讀文檔以瞭解%1$s。</string>
-  <string name="Change_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。當前手機號碼（%1$s）已與MPC錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的TEE 安全環境中。閲讀文檔以瞭解%2$s。</string>
+  <string name="Change_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。當前手機號碼（%1$s）已與 MPC 錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的 TEE 安全環境中。閲讀文檔以瞭解%2$s。</string>
   <string name="Add_Mobile_Number" platform="android,iOS">添加手機號碼</string>
   <string name="add_phone_instruction_1" platform="android,iOS">手機號和助記詞將鏈接到同一個密鑰分片。</string>
   <string name="add_phone_instruction_2" platform="android,iOS">手機號和助記詞登錄的是同一個賬號。</string>
