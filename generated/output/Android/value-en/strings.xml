@@ -14,7 +14,7 @@
 	<string name="about_version">Version %1$s</string>
 	<string name="Accept">Accept</string>
 	<string name="accepted_cards">Accepted cards: %1$s</string>
-	<string name="access_dapps_defi_projects">Access dApps and DeFi projects.</string>
+	<string name="access_dapps_defi_projects">Access apps and DeFi projects.</string>
 	<string name="Access_denied">Access denied</string>
 	<string name="Access_to_Contacts">Access to Contacts</string>
 	<string name="access_your_bots_list">access your bots list</string>
@@ -155,8 +155,8 @@
 	<string name="Allow_bot_manage_bots">Allow bot to add or modify your bots.</string>
 	<string name="Allow_bot_manage_circles">Allow bot to add, modify and delete your circles.</string>
 	<string name="Allow_bot_send_messages">Allow bot to send messages represent of you.</string>
-	<string name="allow_dapp_access_public_address">Allow dApp to access your wallet balance and activity.</string>
-	<string name="allow_dapp_request_approval">Allow dApp to ask for your approval to make a transaction.</string>
+	<string name="allow_dapp_access_public_address">Allow app to access your wallet balance and activity.</string>
+	<string name="allow_dapp_request_approval">Allow app to ask for your approval to make a transaction.</string>
 	<string name="Alphabetical">Alphabetical</string>
 	<string name="Amount">Amount</string>
 	<string name="amount_descending">Amount Descending</string>
@@ -395,7 +395,7 @@
 	<string name="connect_wallet">Connect Wallet</string>
 	<string name="connect_web3_account_description">Allow the app to view your account address and ask for your approval to make a transaction.</string>
 	<string name="connect_your_account">Connect Your Account</string>
-	<string name="connected_dapps">Connected dApps</string>
+	<string name="connected_dapps">Connected apps</string>
 	<string name="Connecting">Connecting</string>
 	<string name="connection_failed">Connection Failed</string>
 	<string name="Connection_unstable">Connection unstable</string>
@@ -465,7 +465,7 @@
 	<string name="Current_price">Current price: %1$s</string>
 	<string name="current_version">Version: %1$s</string>
 	<string name="Custom_Time">Custom Time</string>
-	<string name="dapp_description">This dApp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
+	<string name="dapp_description">This app has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
 	<string name="Data_and_Storage_Usage">Data and Storage Usage</string>
 	<string name="Data_error">Data error</string>
 	<string name="Data_loading">Data loading, please wait…</string>
@@ -479,7 +479,7 @@
 	<string name="Debug_Tools">Debug Tools</string>
 	<string name="Decline">Decline</string>
 	<string name="Declined">Declined</string>
-	<string name="decode_transaction_failed">Unable to estimate asset changes. Be cautious and only sign transactions for dApps you trust.</string>
+	<string name="decode_transaction_failed">Unable to estimate asset changes. Be cautious and only sign transactions for apps you trust.</string>
 	<string name="deep_clean">Deep clean</string>
 	<string name="deep_cleaning">Cleaning up…</string>
 	<string name="deep_cleaning_deleted">Cleaning up, %1$s deleted</string>
@@ -953,7 +953,7 @@
 	<string name="NO_BOTS">NO BOTS</string>
 	<string name="No_camera">No camera</string>
 	<string name="no_collectibles">NO COLLECTIBLES</string>
-	<string name="NO_DAPP">NO DAPP</string>
+	<string name="NO_DAPP">NO APP</string>
 	<string name="No_deposits">No deposits</string>
 	<string name="No_fees">No fees</string>
 	<string name="NO_FILES">NO FILES</string>
@@ -1078,7 +1078,7 @@
 	<string name="powered_by_mixin_route_suffix">Mixin Route</string>
 	<string name="preauthorize_amount">Pre-authorize Amount</string>
 	<string name="preview_unavailable">Preview unavailable</string>
-	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
+	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this app.</string>
 	<string name="Price">Price</string>
 	<string name="price_alert_notification_permission">Price alerts require notification permission to be enabled.</string>
 	<string name="Price_data_unavailable">Price data unavailable</string>
@@ -1546,7 +1546,7 @@
 	<string name="unlimited_authorization_warning">This application can access all %3$s in your %1$s account (%2$s).</string>
 	<string name="Unlock">Unlock</string>
 	<string name="unlock_web3_account">Unlock %1$s Account</string>
-	<string name="unlock_web3_account_agreement">It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dApps are completed.</string>
+	<string name="unlock_web3_account_agreement">It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with apps are completed.</string>
 	<string name="unlock_web3_account_agreement_1">Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN.</string>
 	<string name="unlock_web3_account_agreement_2">Asset transfers between your %1$s account and Mixin wallet incur network fees.</string>
 	<string name="unlock_web3_account_agreement_3">Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others.</string>
@@ -1678,12 +1678,12 @@
 	<string name="web3_send_signature_description">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
 	<string name="web3_signing">Signing</string>
 	<string name="web3_signing_confirmation">Confirm Signing</string>
-	<string name="web3_signing_data_success">The data has been signed and sent successfully, please return to dApp to continue.</string>
+	<string name="web3_signing_data_success">The data has been signed and sent successfully, please return to app to continue.</string>
 	<string name="web3_signing_failed">Signing Failed</string>
-	<string name="web3_signing_message_success">The message has been signed and sent successfully, please return to dApp to continue.</string>
+	<string name="web3_signing_message_success">The message has been signed and sent successfully, please return to app to continue.</string>
 	<string name="web3_signing_success">Signing Success</string>
-	<string name="web3_signing_transaction_success">The transaction has been signed and sent successfully, please return to dApp to continue.</string>
-	<string name="web3_signing_warning">We cannot verify this request; please ensure you trust this dApp before proceeding with the request.</string>
+	<string name="web3_signing_transaction_success">The transaction has been signed and sent successfully, please return to app to continue.</string>
+	<string name="web3_signing_warning">We cannot verify this request; please ensure you trust this app before proceeding with the request.</string>
 	<string name="web3_stake">Stake</string>
 	<string name="web3_trade">Trade</string>
 	<string name="web3_transaction_request">Transaction Request</string>
@@ -1698,7 +1698,7 @@
 	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
 	<string name="withdraw_Address">Address</string>
-	<string name="withdraw_all_of_token_warning">This dApp can withdraw all your %1$s.</string>
+	<string name="withdraw_all_of_token_warning">This app can withdraw all your %1$s.</string>
 	<string name="Withdrawal">Withdraw</string>
 	<string name="withdrawal_addr_biometric_add">Use Biometric to save address</string>
 	<string name="withdrawal_addr_biometric_delete">Use Biometric to delete address</string>

@@ -14,7 +14,7 @@
 	<string name="about_version">版本 %1$s</string>
 	<string name="Accept">接聽</string>
 	<string name="accepted_cards">接受以下卡片: %1$s</string>
-	<string name="access_dapps_defi_projects">訪問 dApps 或 DeFi 項目</string>
+	<string name="access_dapps_defi_projects">訪問 apps 或 DeFi 項目</string>
 	<string name="Access_denied">禁止訪問</string>
 	<string name="Access_to_Contacts">訪問通訊錄</string>
 	<string name="access_your_bots_list">訪問你的機器人列表</string>
@@ -155,8 +155,8 @@
 	<string name="Allow_bot_manage_bots">允許機器人添加或修改你的機器人列表。</string>
 	<string name="Allow_bot_manage_circles">允許機器人添加、修改和刪除你所有的圈子。</string>
 	<string name="Allow_bot_send_messages">允許機器人代表你發消息。</string>
-	<string name="allow_dapp_access_public_address">允許 dApp 訪問你的錢包餘額及活動。</string>
-	<string name="allow_dapp_request_approval">允許 dApp 向你發送請求，如轉賬請求等</string>
+	<string name="allow_dapp_access_public_address">允許 app 訪問你的錢包餘額及活動。</string>
+	<string name="allow_dapp_request_approval">允許 app 向你發送請求，如轉賬請求等</string>
 	<string name="Alphabetical">按字母順序</string>
 	<string name="Amount">金額</string>
 	<string name="amount_descending">價值降序</string>
@@ -390,7 +390,7 @@
 	<string name="connect_wallet">連接錢包</string>
 	<string name="connect_web3_account_description">授權應用查看你的賬户地址，或者向你發送交易請求。</string>
 	<string name="connect_your_account">連接賬户</string>
-	<string name="connected_dapps">已連接的 dApp</string>
+	<string name="connected_dapps">已連接的 app</string>
 	<string name="Connecting">正在連接</string>
 	<string name="connection_failed">連接失敗</string>
 	<string name="Connection_unstable">當前通話網絡不佳</string>
@@ -460,7 +460,7 @@
 	<string name="Current_price">當前價格：%1$s</string>
 	<string name="current_version">當前版本：%1$s</string>
 	<string name="Custom_Time">自定義時間</string>
-	<string name="dapp_description">此 dApp 已經與你的錢包連接，並被授權查看你的錢包餘額及活動，也可向你發出轉賬請求。</string>
+	<string name="dapp_description">此 app 已經與你的錢包連接，並被授權查看你的錢包餘額及活動，也可向你發出轉賬請求。</string>
 	<string name="Data_and_Storage_Usage">數據與存儲空間</string>
 	<string name="Data_error">數據錯誤</string>
 	<string name="Data_loading">數據加載中，請稍後</string>
@@ -935,7 +935,7 @@
 	<string name="NO_BOTS">沒有機器人</string>
 	<string name="No_camera">沒有相機</string>
 	<string name="no_collectibles">沒有藏品</string>
-	<string name="NO_DAPP">沒有 dApp</string>
+	<string name="NO_DAPP">沒有 app</string>
 	<string name="No_deposits">暫無充值記錄</string>
 	<string name="No_fees">暫無手續費記錄</string>
 	<string name="NO_FILES">沒有檔案</string>
@@ -1060,7 +1060,7 @@
 	<string name="powered_by_mixin_route_suffix">Mixin Route 提供服務</string>
 	<string name="preauthorize_amount">預授權額度</string>
 	<string name="preview_unavailable">預覽不可用</string>
-	<string name="preview_unavailable_description">無法預覽資產變化。請確保你信任此 dApp。</string>
+	<string name="preview_unavailable_description">無法預覽資產變化。請確保你信任此 app。</string>
 	<string name="Price">價格</string>
 	<string name="price_alert_notification_permission">價格預警需要開啓通知權限</string>
 	<string name="Price_data_unavailable">暫無價格數據</string>
@@ -1656,11 +1656,11 @@
 	<string name="web3_send_signature_description">點發送按鈕立刻廣播消息或點丟棄按鈕丟棄已簽名的消息。</string>
 	<string name="web3_signing">正在簽名</string>
 	<string name="web3_signing_confirmation">簽名確認</string>
-	<string name="web3_signing_data_success">數據已簽名併發送成功，請返回 dApp 繼續操作。</string>
+	<string name="web3_signing_data_success">數據已簽名併發送成功，請返回 app 繼續操作。</string>
 	<string name="web3_signing_failed">簽名失敗</string>
-	<string name="web3_signing_message_success">消息已簽名併發送成功，請返回 dApp 繼續操作。</string>
+	<string name="web3_signing_message_success">消息已簽名併發送成功，請返回 app 繼續操作。</string>
 	<string name="web3_signing_success">簽名成功</string>
-	<string name="web3_signing_transaction_success">交易已簽名併發送成功，請返回 dApp 繼續操作。</string>
+	<string name="web3_signing_transaction_success">交易已簽名併發送成功，請返回 app 繼續操作。</string>
 	<string name="web3_signing_warning">我們無法驗證此請求，在發送此請求之前，請確保您信任此應用程序。</string>
 	<string name="web3_stake">質押</string>
 	<string name="web3_trade">交易</string>
