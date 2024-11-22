@@ -113,6 +113,7 @@
 	<string name="backup_no_available_memory">バックアップに使用できるメモリがありません</string>
 	<string name="backup_notification_content">バックアップの準備中…</string>
 	<string name="backup_notification_title">バックアップが進行中</string>
+	<string name="Backup_Now">今すぐバックアップ</string>
 	<string name="Backup_success">バックアップ成功</string>
 	<string name="Balance">残高</string>
 	<string name="Biometric_Payment">生体認証で支払う</string>

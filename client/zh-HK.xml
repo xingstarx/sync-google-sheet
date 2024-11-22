@@ -157,7 +157,7 @@
   <string name="avatar" platform="Desktop">頭像</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="back_to_merchant" platform="android, iOS">返回商家</string>
-  <string name="Backup_Now" platform="iOS">立即備份</string>
+  <string name="Backup_Now" platform="android, iOS">立即備份</string>
   <string name="Background_Preview" platform="android, iOS">背景預覽</string>
   <string name="Backing_Up" platform="android, iOS">正在備份...</string>
   <string name="Backup" platform="android">備份</string>

@@ -213,6 +213,7 @@
 	<string name="backup_no_available_memory">There are no available memory for backup.</string>
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
+	<string name="Backup_Now">Backup Now</string>
 	<string name="Backup_success">Backup success</string>
 	<string name="Balance">Balance</string>
 	<string name="balance_abbreviation">Bal %1$s</string>

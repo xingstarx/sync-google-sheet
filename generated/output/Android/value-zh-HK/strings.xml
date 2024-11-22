@@ -211,6 +211,7 @@
 	<string name="backup_no_available_memory">沒有足夠的空間來備份。</string>
 	<string name="backup_notification_content">正在準備備份…</string>
 	<string name="backup_notification_title">備份正在進行中</string>
+	<string name="Backup_Now">立即備份</string>
 	<string name="Backup_success">備份成功</string>
 	<string name="Balance">餘額</string>
 	<string name="balance_abbreviation">餘額 %1$s</string>

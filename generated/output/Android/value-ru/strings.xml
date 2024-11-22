@@ -112,6 +112,7 @@
 	<string name="backup_no_available_memory">Нет доступной памяти для резервного копирования.</string>
 	<string name="backup_notification_content">Подготовка резервного копирования…</string>
 	<string name="backup_notification_title">Выполняется резервное копирование</string>
+	<string name="Backup_Now">Резервное копирование сейчас</string>
 	<string name="Backup_success">Успешное резервное копирование</string>
 	<string name="Balance">Баланс</string>
 	<string name="Biometric_Payment">Биометрический платеж</string>
