@@ -213,7 +213,6 @@
 	<string name="backup_no_available_memory">There are no available memory for backup.</string>
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
-	<string name="Backup_Now">Start Backup</string>
 	<string name="Backup_success">Backup success</string>
 	<string name="Balance">Balance</string>
 	<string name="balance_abbreviation">Bal %1$s</string>
@@ -1400,6 +1399,7 @@
 	<string name="sort_by_recent">Sort by Recent</string>
 	<string name="sort_by_value">Sort by Value</string>
 	<string name="Start">Start</string>
+	<string name="Start_Backup">Start Backup</string>
 	<string name="Start_Messaging">Start Messaging</string>
 	<string name="Start_Migration">Start the migration</string>
 	<string name="Stats">Stats</string>

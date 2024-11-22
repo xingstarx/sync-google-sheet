@@ -165,7 +165,6 @@
 "automatic" = "Automático";
 "back_to_chat" = "Volver al chat";
 "back_to_merchant" = "Volver al comerciante";
-"back_up_now" = "Realiza copia. de seguridad ahora";
 "backed_up" = "Backed up";
 "background_preview" = "Vista previa de fondo";
 "backing_up" = "Realizando copia de seguridad...";
@@ -174,7 +173,7 @@
 "backup_mnemonic_phrase_desc" = "Protect your assets by backing up your mnemonic phrase now.";
 "backup_mnemonic_phrase_warning" = "Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven't backed it up, you won't be able to log back into the current Mixin account (%@).";
 "backup_mnemonic_successfully" = "Backup mnemonic phrase successfully";
-"backup_now" = "Start Backup";
+"backup_now" = "Backup Now";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "Balance";
 "balance_abbreviation" = "Bal %@";
@@ -1164,6 +1163,7 @@
 "sort_by_recent" = "Sort by Recent";
 "sort_by_value" = "Sort by Value";
 "start" = "Comenzar";
+"start_backup" = "Start Backup";
 "start_messaging" = "Empezar a enviar mensajes";
 "started_group_call" = "%@ ha iniciado una llamada de grupo";
 "stats" = "Stats";

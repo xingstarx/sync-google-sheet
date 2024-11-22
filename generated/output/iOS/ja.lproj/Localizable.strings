@@ -165,7 +165,6 @@
 "automatic" = "自動";
 "back_to_chat" = "チャットに戻る";
 "back_to_merchant" = "Back to Merchant";
-"back_up_now" = "今すぐバックアップ";
 "backed_up" = "Backed up";
 "background_preview" = "背景のプレビュー";
 "backing_up" = "バックアップしています...";
@@ -174,7 +173,7 @@
 "backup_mnemonic_phrase_desc" = "Protect your assets by backing up your mnemonic phrase now.";
 "backup_mnemonic_phrase_warning" = "Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven't backed it up, you won't be able to log back into the current Mixin account (%@).";
 "backup_mnemonic_successfully" = "Backup mnemonic phrase successfully";
-"backup_now" = "Start Backup";
+"backup_now" = "今すぐバックアップ";
 "backup_to_icloud" = "Backup to iCloud";
 "balance" = "残高";
 "balance_abbreviation" = "Bal %@";
@@ -1164,6 +1163,7 @@
 "sort_by_recent" = "Sort by Recent";
 "sort_by_value" = "Sort by Value";
 "start" = "Start";
+"start_backup" = "Start Backup";
 "start_messaging" = "メッセージを開始";
 "started_group_call" = "%@がグループ通話を開始しました";
 "stats" = "Stats";

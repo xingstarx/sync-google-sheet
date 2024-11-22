@@ -211,7 +211,6 @@
 	<string name="backup_no_available_memory">没有足够的空间来备份。</string>
 	<string name="backup_notification_content">正在准备备份…</string>
 	<string name="backup_notification_title">备份正在进行中</string>
-	<string name="Backup_Now">开始备份</string>
 	<string name="Backup_success">备份成功</string>
 	<string name="Balance">余额</string>
 	<string name="balance_abbreviation">余额 %1$s</string>
@@ -1379,6 +1378,7 @@
 	<string name="sort_by_recent">按最近排序</string>
 	<string name="sort_by_value">按价值排序</string>
 	<string name="Start">开始</string>
+	<string name="Start_Backup">开始备份</string>
 	<string name="Start_Messaging">开始聊天</string>
 	<string name="Start_Migration">开始迁移</string>
 	<string name="Stats">统计</string>

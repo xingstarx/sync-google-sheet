@@ -165,7 +165,6 @@
 "automatic" = "自动";
 "back_to_chat" = "返回聊天";
 "back_to_merchant" = "返回商家";
-"back_up_now" = "立即备份";
 "backed_up" = "已备份";
 "background_preview" = "背景预览";
 "backing_up" = "正在备份...";
@@ -174,7 +173,7 @@
 "backup_mnemonic_phrase_desc" = "立即通过备份您的助记词来保护您的资产。";
 "backup_mnemonic_phrase_warning" = "请立即备份您的助记词。该助记词为 MPC 钱包密钥分片之一，一旦设备遗失或应用被卸载，若您没有备份，将无法重新登录当前 Mixin 账号 (%@)。";
 "backup_mnemonic_successfully" = "成功备份助记词";
-"backup_now" = "开始备份";
+"backup_now" = "立即备份";
 "backup_to_icloud" = "备份到 iCloud";
 "balance" = "余额";
 "balance_abbreviation" = "余额 %@";
@@ -1164,6 +1163,7 @@
 "sort_by_recent" = "按最近排序";
 "sort_by_value" = "按价值排序";
 "start" = "开始";
+"start_backup" = "开始备份";
 "start_messaging" = "开始聊天";
 "started_group_call" = "%@ 开始了群通话";
 "stats" = "统计";
