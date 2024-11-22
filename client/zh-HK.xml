@@ -700,7 +700,6 @@
   <string name="from_with_colon" platform="Desktop">來自： </string>
   <string name="generating" platform="iOS">正在生成...</string>
   <string name="Generating_keys" platform="android,iOS">正在創建密鑰...</string>
-  <string name="Get_a_new_wallet" platform="android, iOS">創建錢包</string>
   <string name="Go" platform="android">導航</string>
   <string name="Go_settings" platform="android">去設置</string>
   <string name="Got_it" platform="android, iOS">知道了</string>
@@ -948,7 +947,6 @@
   <string name="new_price" platform="android">最新價格</string>
   <string name="new_version_available" platform="Desktop">發現新版本</string>
   <string name="new_version_description" platform="Desktop">發現新版本 Mixin Messenger %1$s，當前版本為 %2$s。是否要下載最新的版本？</string>
-  <string name="new_wallet_hint" platform="android, iOS">創建你的第一個數字錢包，所有資產都在一個錢包，收發加密資產簡單易用。</string>
   <string name="Next" platform="android, iOS, Desktop">下一步</string>
   <string name="next_conversation" platform="Desktop">下一個會話</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">沒有音頻</string>

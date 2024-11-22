@@ -573,7 +573,6 @@
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
-"get_a_new_wallet" = "新たなウォレットを作成";
 "global_market_cap" = "Market Cap";
 "got_it" = "確認";
 "green_up_red_down" = "Green Up / Red Down";
@@ -770,7 +769,6 @@
 "new_name" = "新しい名前";
 "new_update_available" = "New Update Available";
 "new_update_available_desc" = "We update the app regularly so we can make it better for you";
-"new_wallet_hint" = "簡単に仮想通貨をやり取りできるウォレットを作成しよう！";
 "next" = "次へ";
 "no_alerts" = "NO ALERTS";
 "no_audio" = "音声メッセージがありません";

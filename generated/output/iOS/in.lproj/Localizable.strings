@@ -573,7 +573,6 @@
 "from_mixin_wallet" = "From Mixin Wallet";
 "generating" = "Generating...";
 "generating_keys" = "Generating keys...";
-"get_a_new_wallet" = "Get a new wallet";
 "global_market_cap" = "Market Cap";
 "got_it" = "OK";
 "green_up_red_down" = "Green Up / Red Down";
@@ -770,7 +769,6 @@
 "new_name" = "new name";
 "new_update_available" = "New Update Available";
 "new_update_available_desc" = "We update the app regularly so we can make it better for you";
-"new_wallet_hint" = "Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.";
 "next" = "Berikutnya";
 "no_alerts" = "NO ALERTS";
 "no_audio" = "TIDAK ADA SUARA";

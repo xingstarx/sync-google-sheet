@@ -701,7 +701,6 @@
 	<string name="from_date">自%1$s</string>
 	<string name="From_Mixin_Wallet">从 Mixin 钱包转入</string>
 	<string name="Generating_keys">正在创建密钥…</string>
-	<string name="Get_a_new_wallet">创建钱包</string>
 	<string name="Global_Market_Cap">全球总市值</string>
 	<string name="Go">导航</string>
 	<string name="Go_settings">去设置</string>
@@ -930,7 +929,6 @@
 	<string name="new_price">最新价格</string>
 	<string name="New_Update_Available">发现新版本</string>
 	<string name="New_Update_Available_desc">我们定期更新应用程序，以便为您提供更好的服务</string>
-	<string name="new_wallet_hint">创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。</string>
 	<string name="Next">下一步</string>
 	<string name="NO_ALERTS">没有价格预警</string>
 	<string name="NO_AUDIO">没有音频</string>

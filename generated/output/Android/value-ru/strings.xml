@@ -442,7 +442,6 @@
 	<string name="fourth_pin_confirm_hint">Да, есть четвертое подтверждение PIN-кода, и я обещаю, что оно будет последним, чтобы убедиться, что вы запомнили свой PIN-код. PIN-код невозможно восстановить, если он утерян.</string>
 	<string name="Friday">Пятница</string>
 	<string name="From">От</string>
-	<string name="Get_a_new_wallet">Получить новый кошелек</string>
 	<string name="GIF">GIF</string>
 	<string name="Go">Перейти</string>
 	<string name="Go_settings">Перейти к настройкам</string>
@@ -602,7 +601,6 @@
 	<string name="New_Group">Новая группа</string>
 	<string name="New_Group_Chat">Новый групповой чат</string>
 	<string name="new_group_name">новое название группы</string>
-	<string name="new_wallet_hint">Создайте свой первый цифровой кошелек, все ваши цифровые активы в одном кошельке, легко отправляйте и получайте криптовалюту.</string>
 	<string name="Next">Следующий</string>
 	<string name="NO_AUDIO">НЕТ АУДИО</string>
 	<string name="NO_AUTHORIZATIONS">НЕТ РАЗРЕШЕНИЙ</string>

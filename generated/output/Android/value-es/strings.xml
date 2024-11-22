@@ -465,7 +465,6 @@
 	<string name="Friday">Viernes</string>
 	<string name="From">De</string>
 	<string name="Generating_keys">Generando claves…</string>
-	<string name="Get_a_new_wallet">Obtener una nueva cartera</string>
 	<string name="GIF">GIF</string>
 	<string name="Go">Ir</string>
 	<string name="Go_settings">Ir a la configuración</string>
@@ -622,7 +621,6 @@
 	<string name="New_Group">Nuevo grupo</string>
 	<string name="New_Group_Chat">Nuevo chat grupal</string>
 	<string name="new_group_name">nuevo nombre de grupo</string>
-	<string name="new_wallet_hint">Crea tu primera cartera digital, todos tus activos digitales en una cartera, envía y recibe fácilmente criptomonedas.</string>
 	<string name="Next">Próximo</string>
 	<string name="NO_AUDIO">SIN AUDIO</string>
 	<string name="NO_AUTHORIZATIONS">SIN AUTORIZACIONES</string>
