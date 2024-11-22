@@ -162,7 +162,6 @@
   <string name="back_to_merchant" platform="android, iOS">Volver al comerciante</string>
   <string name="stay_in_mixin" platform="android, iOS">Quédate en Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">Volver al chat</string>
-  <string name="Back_Up_Now" platform="iOS">Realiza copia. de seguridad ahora</string>
   <string name="Background_Preview" platform="iOS">Vista previa de fondo</string>
   <string name="Backing_Up" platform="android, iOS">Realizando copia de seguridad...</string>
   <string name="Backup" platform="android">Copia de seguridad</string>

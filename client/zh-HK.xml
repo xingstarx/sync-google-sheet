@@ -157,7 +157,7 @@
   <string name="avatar" platform="Desktop">頭像</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="back_to_merchant" platform="android, iOS">返回商家</string>
-  <string name="Back_Up_Now" platform="iOS">立即備份</string>
+  <string name="Backup_Now" platform="iOS">立即備份</string>
   <string name="Background_Preview" platform="android, iOS">背景預覽</string>
   <string name="Backing_Up" platform="android, iOS">正在備份...</string>
   <string name="Backup" platform="android">備份</string>
@@ -2086,7 +2086,7 @@
   <string name="mnemonic_phrase_tip_1" platform="android,iOS">·存放在金庫或安全地方</string>
   <string name="mnemonic_phrase_tip_2" platform="android,iOS">·不要在網絡上發送</string>
   <string name="mnemonic_phrase_take_long" platform="android,iOS">這應該不會花太長時間。</string>
-  <string name="Backup_Now" platform="android,iOS">開始備份</string>
+  <string name="Start_Backup" platform="android,iOS">開始備份</string>
   <string name="Add_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。手機號碼將與您 MPC 錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的 TEE 安全環境中。閲讀文檔以瞭解%1$s。</string>
   <string name="Change_Phone_desc" platform="android,iOS">您可以通過手機號碼登錄您的帳户。當前手機號碼（%1$s）已與 MPC 錢包的密鑰片段關聯。完整的密鑰僅存在於當前設備的 TEE 安全環境中。閲讀文檔以瞭解%2$s。</string>
   <string name="Add_Mobile_Number" platform="android,iOS">添加手機號碼</string>

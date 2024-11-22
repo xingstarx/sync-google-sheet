@@ -159,7 +159,7 @@
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">Back To Chat</string>
   <string name="back_to_merchant" platform="android, iOS">Back to Merchant</string>
-  <string name="Back_Up_Now" platform="iOS">Back Up Now</string>
+  <string name="Backup_Now" platform="iOS">Backup Now</string>
   <string name="Background_Preview" platform="android, iOS">Background Preview</string>
   <string name="Backing_Up" platform="android, iOS">Backing Up...</string>
   <string name="Backup" platform="android">Backup</string>
@@ -2114,7 +2114,7 @@
   <string name="mnemonic_phrase_tip_1" platform="android,iOS">· Store it in a vault or secure location</string>
   <string name="mnemonic_phrase_tip_2" platform="android,iOS">· Do not post it online</string>
   <string name="mnemonic_phrase_take_long" platform="android,iOS">This shouldn't take long.</string>
-  <string name="Backup_Now" platform="android,iOS">Start Backup</string>
+  <string name="Start_Backup" platform="android,iOS">Start Backup</string>
   <string name="Add_Phone_desc" platform="android,iOS">You can log in to your account using your mobile number. The mobile number will be associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %1$s.</string>
   <string name="Change_Phone_desc" platform="android,iOS">You can log in to your account using your mobile number. The current mobile number (%1$s) is associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %2$s.</string>
   <string name="Add_Mobile_Number" platform="android,iOS">Add Mobile Number</string>
