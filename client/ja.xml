@@ -128,7 +128,7 @@
   <string name="avatar" platform="Desktop">アバター</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">チャットに戻る</string>
-  <string name="Backup_Now" platform="iOS">今すぐバックアップ</string>
+  <string name="Backup_Now" platform="android, iOS">今すぐバックアップ</string>
   <string name="Background_Preview" platform="android, iOS">背景のプレビュー</string>
   <string name="Backing_Up" platform="android, iOS">バックアップしています...</string>
   <string name="Backup" platform="android">チャット履歴のバックアップ</string>

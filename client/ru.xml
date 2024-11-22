@@ -133,7 +133,7 @@
   <string name="avatar" platform="Desktop">Аватар</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">Вернуться к чату</string>
-  <string name="Backup_Now" platform="iOS">Резервное копирование сейчас</string>
+  <string name="Backup_Now" platform="android, iOS">Резервное копирование сейчас</string>
   <string name="Backing_Up" platform="android, iOS">Резервное копирование...</string>
   <string name="backup" platform="Desktop">Резервное копирование</string>
   <string name="Backup" platform="android">Резервное копирование</string>
