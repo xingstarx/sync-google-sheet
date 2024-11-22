@@ -560,7 +560,6 @@
   <string name="Friday" platform="android">金曜日</string>
   <string name="From" platform="android, iOS, Desktop">より</string>
   <string name="from_with_colon" platform="Desktop">アイコンより：</string>
-  <string name="Get_a_new_wallet" platform="android, iOS">新たなウォレットを作成</string>
   <string name="GIF" platform="android">GIF</string>
   <string name="Go" platform="android">移動</string>
   <string name="Go_settings" platform="android">設定へ移動</string>
@@ -776,7 +775,6 @@
   <string name="new_name" platform="iOS">新しい名前</string>
   <string name="new_version_available" platform="Desktop">最新版の公開</string>
   <string name="new_version_description" platform="Desktop">Mixin%1$sが利用可能です。今すぐアップデートしますか？</string>
-  <string name="new_wallet_hint" platform="android, iOS">簡単に仮想通貨をやり取りできるウォレットを作成しよう！</string>
   <string name="Next" platform="android, iOS, Desktop">次へ</string>
   <string name="next_conversation" platform="Desktop">次のチャットルーム</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">音声メッセージがありません</string>

@@ -623,7 +623,6 @@
   <string name="from_with_colon" platform="Desktop">De: </string>
   <string name="Games" platform="iOS">Juegos</string>
   <string name="Generating_keys" platform="android,iOS">Generando claves...</string>
-  <string name="Get_a_new_wallet" platform="android, iOS">Obtener una nueva cartera</string>
   <string name="GIF" platform="android">GIF</string>
   <string name="Go" platform="android">Ir</string>
   <string name="Go_settings" platform="android">Ir a la configuración</string>
@@ -845,7 +844,6 @@
   <string name="new_name" platform="iOS">nuevo nombre</string>
   <string name="new_version_available" platform="Desktop">Nueva versión disponible</string>
   <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s ya está disponible, tienes %2$s. ¿Te gustaría descargarlo ahora?</string>
-  <string name="new_wallet_hint" platform="android, iOS">Crea tu primera cartera digital, todos tus activos digitales en una cartera, envía y recibe fácilmente criptomonedas.</string>
   <string name="News" platform="iOS">Noticias</string>
   <string name="Next" platform="android, iOS, Desktop">Próximo</string>
   <string name="next_conversation" platform="Desktop">Próxima conversación</string>

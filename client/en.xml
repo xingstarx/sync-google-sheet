@@ -708,7 +708,6 @@
   <string name="from_with_colon" platform="Desktop">From: </string>
   <string name="generating" platform="iOS">Generating...</string>
   <string name="Generating_keys" platform="android,iOS">Generating keys...</string>
-  <string name="Get_a_new_wallet" platform="android, iOS">Get a new wallet</string>
   <string name="GIF" platform="android">GIF</string>
   <string name="Go" platform="android">Go</string>
   <string name="Go_settings" platform="android">Go settings</string>
@@ -965,7 +964,6 @@
   <string name="new_price" platform="android">New Price</string>
   <string name="new_version_available" platform="Desktop">New version available</string>
   <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now?</string>
-  <string name="new_wallet_hint" platform="android, iOS">Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency.</string>
   <string name="Next" platform="android, iOS, Desktop">Next</string>
   <string name="next_conversation" platform="Desktop">Next conversation</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">NO AUDIO</string>

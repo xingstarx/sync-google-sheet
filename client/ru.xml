@@ -575,7 +575,6 @@
   <string name="From" platform="android, iOS, Desktop">От</string>
   <string name="from_with_colon" platform="Desktop">От: </string>
   <string name="Games" platform="iOS">Игры</string>
-  <string name="Get_a_new_wallet" platform="android, iOS">Получить новый кошелек</string>
   <string name="GIF" platform="android">GIF</string>
   <string name="Go" platform="android">Перейти</string>
   <string name="Go_settings" platform="android">Перейти к настройкам</string>
@@ -789,7 +788,6 @@
   <string name="new_name" platform="iOS">новое название</string>
   <string name="new_version_available" platform="Desktop">Доступна новая версия</string>
   <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s теперь доступен, у вас есть %2$s. Вы хотите загрузить его сейчас?</string>
-  <string name="new_wallet_hint" platform="android, iOS">Создайте свой первый цифровой кошелек, все ваши цифровые активы в одном кошельке, легко отправляйте и получайте криптовалюту.</string>
   <string name="News" platform="iOS">Новости</string>
   <string name="Next" platform="android, iOS, Desktop">Следующий</string>
   <string name="next_conversation" platform="Desktop">Следующий разговор</string>
