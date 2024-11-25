@@ -433,6 +433,7 @@
 	<string name="Exit_Group">Salir del grupo</string>
 	<string name="exit_without_save">¿Salir sin guardar?</string>
 	<string name="Expired">Caducado</string>
+	<string name="Export">Exportar</string>
 	<string name="Export_Chat">Exportar chat</string>
 	<string name="Export_failed">Exportación fallida</string>
 	<string name="export_ip">IP de exportación</string>

@@ -413,6 +413,7 @@
 	<string name="Exit_Group">Выйти из группы</string>
 	<string name="exit_without_save">Выйти без сохранения?</string>
 	<string name="Expired">Истекший</string>
+	<string name="Export">Экспорт</string>
 	<string name="Export_Chat">Экспорт чата</string>
 	<string name="Export_failed">Не удалось экспортировать</string>
 	<string name="export_ip">Экспорт IP</string>

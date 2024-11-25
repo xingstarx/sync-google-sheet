@@ -405,6 +405,7 @@
 	<string name="Exit_Group">グループから退出</string>
 	<string name="exit_without_save">保存せずに退会しますか？</string>
 	<string name="Expired">期限切れ</string>
+	<string name="Export">エクスポート</string>
 	<string name="Export_Chat">チャットのエクスポート</string>
 	<string name="Export_failed">エクスポート失敗</string>
 	<string name="export_ip">IPのエクスポート</string>
