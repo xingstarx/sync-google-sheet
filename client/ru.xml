@@ -535,7 +535,7 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">Выйти из группы и сообщить о приглашении</string>
   <string name="exit_without_save" platform="android">Выйти без сохранения?</string>
   <string name="Expired" platform="android, iOS">Истекший</string>
-  <string name="Export" platform="iOS">Экспорт</string>
+  <string name="Export" platform="android,iOS">Экспорт</string>
   <string name="Export_Chat" platform="android">Экспорт чата</string>
   <string name="Export_failed" platform="android, iOS">Не удалось экспортировать</string>
   <string name="export_ip" platform="android">Экспорт IP</string>

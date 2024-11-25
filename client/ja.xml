@@ -520,7 +520,7 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">グループを退会し招待者を報告する</string>
   <string name="exit_without_save" platform="android">保存せずに退会しますか？</string>
   <string name="Expired" platform="android, iOS">期限切れ</string>
-  <string name="Export" platform="iOS">エクスポート</string>
+  <string name="Export" platform="android,iOS">エクスポート</string>
   <string name="Export_Chat" platform="android">チャットのエクスポート</string>
   <string name="Export_failed" platform="android, iOS">エクスポート失敗</string>
   <string name="export_ip" platform="android">IPのエクスポート</string>

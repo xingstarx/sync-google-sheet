@@ -579,7 +579,7 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">Salir del grupo e reportar persona que te ha invitado</string>
   <string name="exit_without_save" platform="android">¿Salir sin guardar?</string>
   <string name="Expired" platform="android, iOS">Caducado</string>
-  <string name="Export" platform="iOS">Exportar</string>
+  <string name="Export" platform="android,iOS">Exportar</string>
   <string name="Export_Chat" platform="android">Exportar chat</string>
   <string name="Export_failed" platform="android, iOS">Exportación fallida</string>
   <string name="export_ip" platform="android">IP de exportación</string>
