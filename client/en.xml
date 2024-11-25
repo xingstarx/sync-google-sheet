@@ -2149,4 +2149,6 @@
   <string name="logout_confirmation" platform="android,iOS">Are you sure you want to log out?</string>
   <string name="logout_title" platform="android,iOS">Enter your PIN to log out</string>
   <string name="logout_description" platform="android,iOS">Logging out will not affect your assets in Mixin wallet. Read the documentation to %1$s.</string>
+  <string name="Export_mnemonic_phrase" platform="android,iOS">Export mnemonic phrase</string>
+  <string name="Upgrade_safe" platform="android,iOS">Upgrade safe</string>
 </resources>
