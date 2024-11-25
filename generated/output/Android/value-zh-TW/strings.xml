@@ -219,7 +219,7 @@
 	<string name="balance_max">最大</string>
 	<string name="Before_you_proceed">請在繼續之前</string>
 	<string name="Before_you_proceed_desc">閱讀以下內容，然後安全儲存助記詞。</string>
-	<string name="Before_you_proceed_instruction_1">建立帳戶生成的13個或25個助記詞僅用於Mixin Network相關產品。</string>
+	<string name="Before_you_proceed_instruction_1">建立帳戶生成的 13 個或 25 個助記詞僅用於 Mixin Network 相關產品。</string>
 	<string name="Before_you_proceed_instruction_2">助記詞無法幫助您恢復您的 PIN。</string>
 	<string name="Before_you_proceed_instruction_3">確保沒有人或監控攝像頭正在看您的螢幕。</string>
 	<string name="Best_price">最優價格</string>
@@ -327,7 +327,7 @@
 	<string name="Chats_Counts">%1$s 個聊天</string>
 	<string name="Check_Backup">檢查備份</string>
 	<string name="check_mnemonic_phrase">檢查您的助記詞</string>
-	<string name="check_mnemonic_phrase_desc">按照呈現給您的順序選擇每個單詞。</string>
+	<string name="check_mnemonic_phrase_desc">按照呈現給您的順序輸入每個單詞。</string>
 	<string name="check_trace_failed">檢查支付資訊失敗，請重試</string>
 	<string name="Checking_link">正在檢查連結</string>
 	<string name="Checking_payment_info">請檢查支付資訊</string>
@@ -875,7 +875,7 @@
 	<string name="mnemonic_phrase_instruction_1">建立賬號生成的 13 個助記詞僅用於 Mixin Network 相關產品。</string>
 	<string name="mnemonic_phrase_instruction_2">助記詞將關聯到由您管理的 MPC 錢包的一個金鑰分片。</string>
 	<string name="mnemonic_phrase_take_long">這應該不會花太長時間。</string>
-	<string name="mnemonic_phrase_tip_1">·存放在金庫或安全地方</string>
+	<string name="mnemonic_phrase_tip_1">·存放在保險箱或安全的地方。</string>
 	<string name="mnemonic_phrase_tip_2">·不要在網路上傳送</string>
 	<string name="Mnemonics_Mismatched">助記詞不符</string>
 	<string name="Mobile_Number">手機號碼</string>
@@ -1120,7 +1120,7 @@
 	<string name="Recipients">收款人</string>
 	<string name="Recovery_Contact">恢復聯絡人</string>
 	<string name="Recovery_Kit">賬號恢復</string>
-	<string name="Recovery_Kit_Attention">注意：Recovery Kit 無法幫助您恢復密碼</string>
+	<string name="Recovery_Kit_Attention">注意：賬號恢復無法幫助您恢復 PIN</string>
 	<string name="Recovery_Kit_instruction">Mixin Messenger 的 MPC 錢包基於去中心化金鑰協議 TIP 構建，您可以透過手機號、助記詞或可信聯絡人登入恢復你的賬號，錢包完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%1$s。</string>
 	<string name="red_up_green_down">紅漲綠跌</string>
 	<string name="Refresh">重新整理</string>

@@ -332,7 +332,7 @@
 	<string name="Chats_Counts">%1$s chats</string>
 	<string name="Check_Backup">Check Backup</string>
 	<string name="check_mnemonic_phrase">Check your mnemonic phrase</string>
-	<string name="check_mnemonic_phrase_desc">Select each word in the order it was presented to you.</string>
+	<string name="check_mnemonic_phrase_desc">Input each word in the order it was presented to you.</string>
 	<string name="check_trace_failed">Check trace info failed, please try again</string>
 	<string name="Checking_link">Checking link</string>
 	<string name="Checking_payment_info">Checking payment info</string>
@@ -893,8 +893,8 @@
 	<string name="mnemonic_phrase_instruction_1">The 13 mnemonic phrases generated when creating an account are intended only for Mixin Network-related products.</string>
 	<string name="mnemonic_phrase_instruction_2">The mnemonic phrase will be associated with a key shard for your MPC wallet under your management.</string>
 	<string name="mnemonic_phrase_take_long">This shouldn\'t take long.</string>
-	<string name="mnemonic_phrase_tip_1">· Store it in a vault or secure location</string>
-	<string name="mnemonic_phrase_tip_2">· Do not post it online</string>
+	<string name="mnemonic_phrase_tip_1">· Store it in a vault or secure place</string>
+	<string name="mnemonic_phrase_tip_2">· Do not share it over the internet</string>
 	<string name="Mnemonics_Mismatched">Mnemonics Mismatched</string>
 	<string name="Mobile_Number">Mobile Number</string>
 	<string name="Mobile_Phone">Mobile Phone</string>
