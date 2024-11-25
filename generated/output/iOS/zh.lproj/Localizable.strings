@@ -545,6 +545,7 @@
 "explore" = "探索";
 "export" = "导出";
 "export_failed" = "导出失败";
+"export_mnemonic_phrase" = "导出助记词";
 "face_id" = "面容";
 "failed_to_compose_avatar" = "头像解析失败，请尝试使用其他图片。";
 "failed_to_send_location" = "发送位置失败，请稍后重试";
@@ -1311,6 +1312,7 @@
 "update_now" = "立即更新";
 "upgrade" = "升级";
 "upgrade_database" = "数据库升级";
+"upgrade_safe" = "升级 Safe";
 "upgrade_tip" = "升级 TIP";
 "upgrade_tip_successfully" = "TIP 升级成功";
 "upgrading" = "升级中...";

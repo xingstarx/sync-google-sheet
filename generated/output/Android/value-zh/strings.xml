@@ -662,6 +662,7 @@
 	<string name="Export_failed">导出失败</string>
 	<string name="export_ip">出口 IP</string>
 	<string name="Export_Markdown">导出为 Markdown</string>
+	<string name="Export_mnemonic_phrase">导出助记词</string>
 	<string name="Export_PDF">导出为 PDF</string>
 	<string name="Extract_QR_Code">识别二维码</string>
 	<string name="Failure">错误</string>
@@ -1554,6 +1555,7 @@
 	<string name="Upgrade">升级</string>
 	<string name="Upgrade_Database">数据库升级</string>
 	<string name="Upgrade_need_verify_your_PIN">升级需要验证你的 PIN</string>
+	<string name="Upgrade_safe">升级 Safe</string>
 	<string name="Upgrade_TIP">升级 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升级成功</string>
 	<string name="Upgrading">升级中…</string>

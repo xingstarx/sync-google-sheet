@@ -545,6 +545,7 @@
 "explore" = "Explore";
 "export" = "エクスポート";
 "export_failed" = "エクスポート失敗";
+"export_mnemonic_phrase" = "Export mnemonic phrase";
 "face_id" = "顔認証";
 "failed_to_compose_avatar" = "アバターの作成に失敗しました。別の画像を使ってください";
 "failed_to_send_location" = "位置情報を送信できませんでした";
@@ -1311,6 +1312,7 @@
 "update_now" = "Update Now";
 "upgrade" = "Upgrade";
 "upgrade_database" = "データベースをアップグレード";
+"upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Upgrade TIP";
 "upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "アップデート中";

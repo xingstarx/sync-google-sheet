@@ -545,6 +545,7 @@
 "explore" = "探索";
 "export" = "匯出";
 "export_failed" = "匯出失敗";
+"export_mnemonic_phrase" = "匯出助記詞";
 "face_id" = "面容";
 "failed_to_compose_avatar" = "頭像解析失敗，請嘗試使用其他圖片。";
 "failed_to_send_location" = "傳送位置失敗，請稍後重試";
@@ -1311,6 +1312,7 @@
 "update_now" = "立即更新";
 "upgrade" = "升級";
 "upgrade_database" = "資料庫升級";
+"upgrade_safe" = "升級 Safe";
 "upgrade_tip" = "升級 TIP";
 "upgrade_tip_successfully" = "TIP 升級成功";
 "upgrading" = "升級中...";

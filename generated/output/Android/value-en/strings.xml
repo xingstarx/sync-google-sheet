@@ -671,6 +671,7 @@
 	<string name="Export_failed">Export failed</string>
 	<string name="export_ip">Export IP</string>
 	<string name="Export_Markdown">Export Markdown</string>
+	<string name="Export_mnemonic_phrase">Export mnemonic phrase</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
 	<string name="Failure">Failure</string>
@@ -1576,6 +1577,7 @@
 	<string name="Upgrade">Upgrade</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
 	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
+	<string name="Upgrade_safe">Upgrade safe</string>
 	<string name="Upgrade_TIP">Upgrade TIP</string>
 	<string name="Upgrade_TIP_successfully">Upgrade TIP successfully</string>
 	<string name="Upgrading">Upgrading</string>

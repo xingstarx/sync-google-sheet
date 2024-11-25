@@ -2121,4 +2121,6 @@
   <string name="logout_confirmation" platform="android,iOS">你確定要退出登入？</string>
   <string name="logout_title" platform="android,iOS">輸入 PIN 退出登入</string>
   <string name="logout_description" platform="android,iOS">退出登入不會影響您 Mixin 錢包的資產安全，閱讀檔案瞭解%1$s。</string>
+  <string name="Export_mnemonic_phrase" platform="android,iOS">匯出助記詞</string>
+  <string name="Upgrade_safe" platform="android,iOS">升級 Safe</string>
 </resources>

@@ -545,6 +545,7 @@
 "explore" = "Explore";
 "export" = "Exportar";
 "export_failed" = "Exportación fallida";
+"export_mnemonic_phrase" = "Export mnemonic phrase";
 "face_id" = "ID facial";
 "failed_to_compose_avatar" = "No se ha podido componer el avatar. Prueba con otra imagen en su lugar.";
 "failed_to_send_location" = "No se ha podido enviar la ubicación";
@@ -1311,6 +1312,7 @@
 "update_now" = "Update Now";
 "upgrade" = "Mejora";
 "upgrade_database" = "Actualizar base de datos";
+"upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Actualizar TIP";
 "upgrade_tip_successfully" = "Actualizar TIP con éxito";
 "upgrading" = "Actualizando";

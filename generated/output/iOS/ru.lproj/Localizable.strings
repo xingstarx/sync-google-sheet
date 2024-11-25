@@ -545,6 +545,7 @@
 "explore" = "Explore";
 "export" = "Экспорт";
 "export_failed" = "Не удалось экспортировать";
+"export_mnemonic_phrase" = "Export mnemonic phrase";
 "face_id" = "Идентификатор лица";
 "failed_to_compose_avatar" = "Не удалось создать аватар. Вместо этого попробуйте другую картинку.";
 "failed_to_send_location" = "Не удалось отправить местоположение";
@@ -1311,6 +1312,7 @@
 "update_now" = "Update Now";
 "upgrade" = "Upgrade";
 "upgrade_database" = "Обновление базы данных";
+"upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Upgrade TIP";
 "upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "Обновление";
