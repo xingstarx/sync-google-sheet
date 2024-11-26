@@ -135,6 +135,7 @@
 	<string name="alert_value">数值</string>
 	<string name="All">全部</string>
 	<string name="All_Alert">所有价格预警</string>
+	<string name="All_assets_will_be_lost">所有资产将无法取回</string>
 	<string name="All_chats">所有聊天</string>
 	<string name="All_Conversations">所有会话</string>
 	<string name="All_dates">所有日期</string>
@@ -828,7 +829,7 @@
 	<string name="Logined">已登录</string>
 	<string name="Logout">退出中…</string>
 	<string name="logout_confirmation">你确定要退出登录？</string>
-	<string name="logout_description">退出登录不会影响您 Mixin 钱包的资产安全，阅读文档了解%1$s。</string>
+	<string name="logout_description">退出账号不会影响当前账号的资产安全，也不会删除当前账号的聊天记录。</string>
 	<string name="logout_title">输入 PIN 退出登录</string>
 	<string name="Logs">日志</string>
 	<string name="Lost_your_mobile_number">手机丢失？</string>
@@ -1279,7 +1280,7 @@
 	<string name="Set_up_Pin_answer_2">我将无法访问我的帐户和资金。</string>
 	<string name="Set_up_Pin_desc">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，PIN 是密钥分片之一。钱包完整的密钥只存在当前设备的 TEE 安全环境中。阅读文档以了解%1$s。</string>
 	<string name="Set_up_pin_desc_1">为您的钱包设置 6 位数的 PIN</string>
-	<string name="Set_up_pin_desc_2">请再次确认您的 6 位密码</string>
+	<string name="Set_up_pin_desc_2">请再次确认您的 6 位数的 PIN</string>
 	<string name="set_up_pin_instruction_1">请在稳定的网络环境下完成操作。</string>
 	<string name="set_up_pin_instruction_2">请保持应用在前台运行，设置过程中请勿强制退出。</string>
 	<string name="set_up_pin_instruction_3">该过程开始后无法取消。请记住 6 位数字 PIN，如果过程意外中止，请重新输入。</string>
