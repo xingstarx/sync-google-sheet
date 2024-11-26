@@ -2054,7 +2054,7 @@
   <string name="mnemonic_phrase_instruction_1" platform="android,iOS">创建账号生成的 13 个助记词仅用于 Mixin Network 相关产品。</string>
   <string name="mnemonic_phrase_instruction_2" platform="android,iOS">助记词将关联到由您管理的 MPC 钱包的一个密钥分片。</string>
   <string name="Set_up_pin_desc_1" platform="android,iOS">为您的钱包设置 6 位数的 PIN</string>
-  <string name="Set_up_pin_desc_2" platform="android,iOS">请再次确认您的 6 位密码</string>
+  <string name="Set_up_pin_desc_2" platform="android,iOS">请再次确认您的 6 位数的 PIN</string>
   <string name="Set_up_pin_tip_1" platform="android,iOS">如果丢失 PIN 则无法恢复您的钱包。</string>
   <string name="Set_up_pin_tip_2" platform="android,iOS">很少在其他地方看到三次确认，因此请记住，如果丢失 PIN 将无法恢复钱包。</string>
   <string name="Set_up" platform="android,iOS">设置</string>
@@ -2120,7 +2120,8 @@
   <string name="Log_out_Instead" platform="android,iOS">仅退出登录</string>
   <string name="logout_confirmation" platform="android,iOS">你确定要退出登录？</string>
   <string name="logout_title" platform="android,iOS">输入 PIN 退出登录</string>
-  <string name="logout_description" platform="android,iOS">退出登录不会影响您 Mixin 钱包的资产安全，阅读文档了解%1$s。</string>
+  <string name="logout_description" platform="android,iOS">退出账号不会影响当前账号的资产安全，也不会删除当前账号的聊天记录。</string>
   <string name="Export_mnemonic_phrase" platform="android,iOS">导出助记词</string>
   <string name="Upgrade_safe" platform="android,iOS">升级 Safe</string>
+  <string name="All_assets_will_be_lost" platform="android,iOS">所有资产将无法取回</string>
 </resources>
