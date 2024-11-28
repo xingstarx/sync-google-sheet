@@ -1162,7 +1162,7 @@
   <string name="Rebate" platform="android, iOS, Desktop">退款</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">验证超时</string>
   <string name="Receive" platform="android">转入</string>
-  <string name="RECEIVE" platform="android, iOS">转入</string>
+  <string name="RECEIVE" platform="android, iOS">充值</string>
   <string name="Receive_Money" platform="android, iOS">我的收款码</string>
   <string name="Receiver" platform="android, iOS, Desktop">至</string>
   <string name="Receivers" platform="iOS">交易接收人</string>
