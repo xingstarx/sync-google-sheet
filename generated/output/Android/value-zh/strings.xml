@@ -1112,7 +1112,7 @@
 	<string name="Rebate">退款</string>
 	<string name="Recaptcha_timeout">验证超时</string>
 	<string name="Receive">转入</string>
-	<string name="RECEIVE">转入</string>
+	<string name="RECEIVE">充值</string>
 	<string name="receive_from_address_description">从其他钱包或交易所转入</string>
 	<string name="Receive_Money">我的收款码</string>
 	<string name="Received">收到</string>
