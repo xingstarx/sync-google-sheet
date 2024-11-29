@@ -201,7 +201,7 @@
   <string name="buy_failed" platform="android">交易失敗</string>
   <string name="buy_failed_description" platform="android">該交易在處理中出現了問題，請稍後重試。</string>
   <string name="buy_success" platform="android">交易成功</string>
-  <string name="buy_success_description" platform="android">成功支付 %1$s。%2$s 將直接轉入 Mixin 錢包。</string>
+  <string name="buy_success_description" platform="android">成功支付 %1$s。%2$s 將直接 Mixin 錢包。</string>
   <string name="buying_limitation" platform="android">最少 %1$s, 最多 %2$s</string>
   <string name="calculating" platform="android, iOS">正在計算…</string>
   <string name="Call" platform="android, iOS">語音</string>
@@ -1161,7 +1161,7 @@
   <string name="Read_your_snapshots" platform="android, iOS">讀取你的轉賬記錄</string>
   <string name="Rebate" platform="android, iOS, Desktop">退款</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">驗證超時</string>
-  <string name="Receive" platform="android">轉入</string>
+  <string name="Receive" platform="android">充值</string>
   <string name="RECEIVE" platform="android, iOS">充值</string>
   <string name="Receive_Money" platform="android, iOS">我的收款碼</string>
   <string name="Receiver" platform="android, iOS, Desktop">至</string>
@@ -1865,7 +1865,7 @@
   <string name="web3_deposit" platform="android">存款</string>
   <string name="web3_execute" platform="android">執行</string>
   <string name="web3_mint" platform="android">鑄造</string>
-  <string name="web3_receive" platform="android">接收</string>
+  <string name="web3_receive" platform="android">充值</string>
   <string name="web3_repay" platform="android">還款</string>
   <string name="web3_send" platform="android">發送</string>
   <string name="web3_stake" platform="android">質押</string>
