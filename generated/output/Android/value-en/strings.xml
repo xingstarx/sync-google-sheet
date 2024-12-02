@@ -1436,7 +1436,6 @@
 	<string name="swap_invalid_amount">No available quote found. Please try a different amount.</string>
 	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
 	<string name="swap_no_available_quote">No available quote found. Please try a different token.</string>
-	<string name="swap_not_supported">%1$s swapping is not supported.</string>
 	<string name="swap_receive">Receive</string>
 	<string name="swap_send">Send</string>
 	<string name="Swapping">Swapping</string>
