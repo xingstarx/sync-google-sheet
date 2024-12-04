@@ -705,7 +705,6 @@
   <string name="Joined_in" platform="android, iOS, Desktop">Se ha unido en %1$s</string>
   <string name="Label" platform="android, iOS">Etiqueta</string>
   <string name="Landing_back" platform="android">Aterrizando de vuelta</string>
-  <string name="landing_delete_content" platform="android, iOS, Desktop">Tu cuenta se eliminará el %1$s; si continúas iniciando sesión, se cancelará la solicitud para eliminar tu cuenta.</string>
   <string name="landing_enter_mobile_tip" platform="android">Nunca mostraremos tu número de móvil públicamente.</string>
   <string name="landing_introduction" platform="android">Toca Aceptar y continuar para aceptar %1$s y %2$s.</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">Te enviaremos un código de 4 dígitos a tu número de teléfono %1$s. Introduce el código en la siguiente pantalla.</string>

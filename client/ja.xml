@@ -643,7 +643,6 @@
   <string name="Joined_in" platform="android, iOS, Desktop">%1$sからMixinを利用しています</string>
   <string name="Label" platform="android, iOS">ラベル</string>
   <string name="Landing_back" platform="android">ログイン</string>
-  <string name="landing_delete_content" platform="android, iOS, Desktop">あなたのアカウントは(%1$s) 後に消去されます。ログインを継続する場合、あなたのアカウント消去はキャンセルされます。</string>
   <string name="landing_enter_mobile_tip" platform="android">Mixin社はあなたの電話番号を決して公表しません</string>
   <string name="landing_introduction" platform="android">"同意して続ける"をタップして%1$sと%2$sを確認</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">4桁のコードを電話番号%1$sに送信します、次の画面でコードを入力してください</string>
