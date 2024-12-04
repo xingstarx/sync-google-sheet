@@ -203,7 +203,6 @@
 "inviteToGroupViaLink" : "リンクを使って招待する",
 "joinGroupWithPlus" : "グループに参加",
 "joinedIn" : "{arg0}からMixinを利用しています",
-"landingDeleteContent" : "あなたのアカウントは({arg0}) 後に消去されます。ログインを継続する場合、あなたのアカウント消去はキャンセルされます。",
 "landingInvitationDialogContent" : "4桁のコードを電話番号{arg0}に送信します、次の画面でコードを入力してください",
 "landingValidationTitle" : "{arg0}に送信された4桁のコードを入力してください",
 "learnMore" : "こちら",

@@ -216,7 +216,6 @@
 "inviteToGroupViaLink" : "Invitar al grupo a través de un enlace",
 "joinGroupWithPlus" : "+ Únete al grupo",
 "joinedIn" : "Se ha unido en {arg0}",
-"landingDeleteContent" : "Tu cuenta se eliminará el {arg0}; si continúas iniciando sesión, se cancelará la solicitud para eliminar tu cuenta.",
 "landingInvitationDialogContent" : "Te enviaremos un código de 4 dígitos a tu número de teléfono {arg0}. Introduce el código en la siguiente pantalla.",
 "landingValidationTitle" : "Introduce el código de 4 dígitos que te enviamos a {arg0}",
 "learnMore" : "Obtener más información",

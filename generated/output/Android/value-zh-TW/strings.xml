@@ -776,7 +776,7 @@
 	<string name="Keep_Running_Foreground">不要關閉螢幕並保持 Mixin 在前臺執行</string>
 	<string name="Label">標題</string>
 	<string name="landing_anonymous_dialog_content">我們將傳送4位驗證碼到匿名號碼 %1$s, 請在下一個頁面輸入</string>
-	<string name="landing_delete_content">您的賬戶將於 %1$s 被刪除，如果您繼續登入，刪除您賬戶的請求將被取消。</string>
+	<string name="landing_delete_content">您在 %1$s 申請了刪除賬號，賬號將於 %2$s 被刪除，如果您繼續登入，刪除您賬戶的請求將被取消。</string>
 	<string name="landing_enter_mobile_tip">我們不會公開你的手機號碼</string>
 	<string name="landing_have_account">已有帳戶</string>
 	<string name="landing_introduction">點選 \"同意並繼續\" 接受 Mixin %1$s和%2$s</string>

@@ -250,7 +250,7 @@
 "inviteToGroupViaLink" : "Invite to Group via Link",
 "joinGroupWithPlus" : "+ Join group",
 "joinedIn" : "Joined on {arg0}",
-"landingDeleteContent" : "Your account will be deleted on {arg0}, if you continue to log in, the request to delete your account will be cancelled.",
+"landingDeleteContent" : "You requested to delete your account on {arg0}. The account will be deleted on {arg1}. If you continue to login, your account deletion will be cancelled.",
 "landingInvitationDialogContent" : "We will send a 4-digit code to your phone number {arg0}, please enter the code in next screen.",
 "landingValidationTitle" : "Enter the 4-digit code sent to you at {arg0}",
 "learnMore" : "Learn More",
