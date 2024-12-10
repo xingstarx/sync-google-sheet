@@ -1358,7 +1358,6 @@
   <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">如果您繼續，您的個人資料和賬户信息將在%1$s被刪除。閲讀我們的文檔以**瞭解更多**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">我們將發送 4 位驗證碼到手機 %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 錢包還有一些資產，可以提現至其他錢包或交易所，賬户一旦註銷，這些資產將和錢包一起被棄用無法找回。</string>
-  <string name="setting_desktop_confirm" platform="android, iOS">確認登錄 Mixin Messenger 桌面端</string>
   <string name="setting_desktop_logout_failed" platform="android">退出桌面端失敗</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">當你在 6 個小時內給相同的人轉相同的金額時顯示確認彈窗。</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">立即修改手機號？</string>
@@ -2124,4 +2123,6 @@
   <string name="Export_mnemonic_phrase" platform="android,iOS">導出助記詞</string>
   <string name="Upgrade_safe" platform="android,iOS">升級 Safe</string>
   <string name="All_assets_will_be_lost" platform="android,iOS">所有資產將無法取回</string>
+  <string name="desktop_login" platform="android,iOS">登錄 Mixin Messenger 桌面端</string>
+  <string name="desktop_logout" platform="android,iOS">退出 Mixin Messenger 桌面端</string>
 </resources>

@@ -434,6 +434,8 @@
 "deposit_tip_trx" = "Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.";
 "depost_address_updated" = "%@ Deposit Address Updated";
 "depost_address_updated_description" = "Your %@ deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.";
+"desktop_login" = "Login to Mixin Messenger Desktop";
+"desktop_logout" = "Logout Mixin Messenger Desktop";
 "desktop_on_hint" = "You have your desktop logged in";
 "desktop_upgrade" = "Harap tingkatkan Mixin Messenger Desktop ke versi terbaru.";
 "detect_qr_tip" = "Mendeteksi kode QR Mixin, ketuk untuk mengenali";
@@ -1113,7 +1115,6 @@
 "setting_delete_account_pin_content" = "If you continue, your profile and account details will be delete on %@. read our document to learn more.";
 "setting_delete_account_send" = "We will send a 4-digit code to %@";
 "setting_delete_account_tip" = "Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be abandoned along with the wallet and cannot be recovered.";
-"setting_desktop_confirm" = "Konfirmasikan masuk ke Mixin Messenger Desktop";
 "setting_duplicate_transfer_desc" = "Display confirmation dialog when you transfer the same amount to the same person within 6 hours.";
 "setting_emergency_change_mobile" = "Ingin mengubah nomor ponsel Anda sekarang?";
 "setting_emergency_content" = "Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda.";
