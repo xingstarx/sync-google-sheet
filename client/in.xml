@@ -544,7 +544,6 @@
   <string name="setting_data_mobile" platform="android">Saat menggunakan data seluler</string>
   <string name="setting_data_title" platform="android">Download otomatis media</string>
   <string name="setting_data_wifi" platform="android">Saat tersambung melalui Wi-Fi</string>
-  <string name="setting_desktop_confirm" platform="android, iOS">Konfirmasikan masuk ke Mixin Messenger Desktop</string>
   <string name="setting_desktop_logout_failed" platform="android">Gagal keluar dari desktop.</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">Ingin mengubah nomor ponsel Anda sekarang?</string>
   <string name="setting_emergency_content" platform="android, iOS">Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda.</string>

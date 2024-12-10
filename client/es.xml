@@ -1178,7 +1178,6 @@
   <string name="setting_delete_account_send" platform="android, iOS">Enviaremos un código de 4 dígitos a %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">Tu cartera Mixin todavía tiene algunos activos que se pueden retirar a otras carteras o intercambios. Una vez que se cancele la cuenta, estos activos serán abandonados junto con la cartera y no podrán recuperarse.</string>
   <string name="setting_delete_account_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
-  <string name="setting_desktop_confirm" platform="android, iOS">Confirmar inicio de sesión en Mixin Messenger Desktop</string>
   <string name="setting_desktop_logout_failed" platform="android">El cierre de sesión del escritorio ha fallado.</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">Muestra un cuadro de diálogo de confirmación cuando transfieres la misma cantidad a la misma persona dentro de las 6 horas.</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">¿Quieres cambiar tu número de móvil ahora?</string>
