@@ -2127,4 +2127,11 @@
   <string name="desktop_logout" platform="android,iOS">退出 Mixin Messenger 桌面端</string>
   <string name="forget_pin" platform="android,iOS">忘记 PIN？</string>
   <string name="switch_account" platform="android,iOS">切换账号</string>
+  <string name="url_recovery_contact" platform="android,iOS">https://support.mixin.one/zh/article/5aac5l2v6k6572u57sn5ocl6igu57o75lq6-d2nssy/</string>
+  <string name="url_unsupported_message" platform="android,iOS">https://support.mixin.one/zh/article/mixin-h92cxa/</string>
+  <string name="url_delete_account" platform="android,iOS">https://support.mixin.one/zh/article/5aac5l2v5yig6zmk6lsm5y377yf-1uteq30/</string>
+  <string name="url_disappearing_message" platform="android,iOS">https://support.mixin.one/zh/article/5aac5l2v5bya5zcv6zmq5pe25rai5ogv77yf-18dzv5i/</string>
+  <string name="url_deposit" platform="android,iOS">https://support.mixin.one/zh/article/mixin-messenger-5ynqjm/</string>
+  <string name="url_deposit_suspended" platform="android,iOS">https://support.mixin.one/zh/article/5ywz5lqo5pq56en6lwe5lqn5lin5psv5oyb5ywf5yc855qe6k05pio-1sh1z50/</string>
+  <string name="url_forget_pin" platform="android,iOS">https://support.mixin.one/zh/article/pin-1vb2rc7/</string>
 </resources>

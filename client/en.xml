@@ -2155,4 +2155,11 @@
   <string name="desktop_logout" platform="android,iOS">Logout Mixin Messenger Desktop</string>
   <string name="forget_pin" platform="android,iOS">Forget PIN?</string>
   <string name="switch_account" platform="android,iOS">Switch Account</string>
+  <string name="url_recovery_contact" platform="android,iOS">https://support.mixin.one/en/article/how-to-set-up-an-emergency-contact-1kvd6g8/</string>
+  <string name="url_unsupported_message" platform="android,iOS">https://support.mixin.one/en/article/how-to-do-when-you-receive-a-message-like-this-this-type-of-message-is-not-supported-please-upgrade-mixin-17j1t3p/</string>
+  <string name="url_delete_account" platform="android,iOS">https://support.mixin.one/en/article/how-to-delete-my-account-19fkagl/</string>
+  <string name="url_disappearing_message" platform="android,iOS">https://support.mixin.one/en/article/how-to-enable-disappearing-messages-2nzaz8/</string>
+  <string name="url_deposit" platform="android,iOS">https://support.mixin.one/en/article/how-to-deposit-assets-to-mixin-messenger-1usvjod/</string>
+  <string name="url_deposit_suspended" platform="android,iOS">https://support.mixin.one/en/article/the-explanation-about-mixin-stopped-support-for-some-assets-deposits-1im32px/</string>
+  <string name="url_forget_pin" platform="android,iOS">https://support.mixin.one/en/article/how-to-do-if-i-forget-the-pin-g12pmo/</string>
 </resources>
