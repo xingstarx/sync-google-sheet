@@ -693,6 +693,7 @@
 	<string name="Follow_system">跟随系统</string>
 	<string name="Follow_us_on_facebook">关注我们的 Facebook</string>
 	<string name="Follow_us_on_x">关注我们的 X</string>
+	<string name="forget_pin">忘记 PIN？</string>
 	<string name="Format_not_supported">不支持该格式</string>
 	<string name="Forward">转发</string>
 	<string name="Forward_message">转发消息</string>
@@ -1420,6 +1421,7 @@
 	<string name="swap_receive">获得</string>
 	<string name="swap_send">支付</string>
 	<string name="Swapping">兑换中</string>
+	<string name="switch_account">切换账号</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
 	<string name="Switching_currency">切换货币中</string>
 	<string name="Symbol">符号</string>

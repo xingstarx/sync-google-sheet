@@ -702,6 +702,7 @@
 	<string name="Follow_system">Follow System</string>
 	<string name="Follow_us_on_facebook">Follow us on Facebook</string>
 	<string name="Follow_us_on_x">Follow us on X</string>
+	<string name="forget_pin">Forget PIN?</string>
 	<string name="Format_not_supported">Format not supported</string>
 	<string name="Forward">Forward</string>
 	<string name="Forward_message">Forward a message</string>
@@ -1441,6 +1442,7 @@
 	<string name="swap_receive">Receive</string>
 	<string name="swap_send">Send</string>
 	<string name="Swapping">Swapping</string>
+	<string name="switch_account">Switch Account</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
 	<string name="Switching_currency">Switching currency</string>
 	<string name="Symbol">Symbol</string>

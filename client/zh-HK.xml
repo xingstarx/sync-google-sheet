@@ -2125,4 +2125,6 @@
   <string name="All_assets_will_be_lost" platform="android,iOS">所有資產將無法取回</string>
   <string name="desktop_login" platform="android,iOS">登錄 Mixin Messenger 桌面端</string>
   <string name="desktop_logout" platform="android,iOS">退出 Mixin Messenger 桌面端</string>
+  <string name="forget_pin" platform="android,iOS">忘記 PIN？</string>
+  <string name="switch_account" platform="android,iOS">切換賬號</string>
 </resources>
