@@ -2153,4 +2153,6 @@
   <string name="All_assets_will_be_lost" platform="android,iOS">All assets will be lost</string>
   <string name="desktop_login" platform="android,iOS">Login to Mixin Messenger Desktop</string>
   <string name="desktop_logout" platform="android,iOS">Logout Mixin Messenger Desktop</string>
+  <string name="forget_pin" platform="android,iOS">Forget PIN?</string>
+  <string name="switch_account" platform="android,iOS">Switch Account</string>
 </resources>
