@@ -2163,5 +2163,6 @@
   <string name="url_deposit" platform="android,iOS">https://support.mixin.one/en/article/how-to-deposit-assets-to-mixin-messenger-1usvjod/</string>
   <string name="url_deposit_suspended" platform="android,iOS">https://support.mixin.one/en/article/the-explanation-about-mixin-stopped-support-for-some-assets-deposits-1im32px/</string>
   <string name="url_forget_pin" platform="android,iOS">https://support.mixin.one/en/article/how-to-do-if-i-forget-the-pin-g12pmo/</string>
+  <string name="url_api_upgrade" platform="android,iOS">https://support.mixin.one/en/article/mixin-api-upgrade-notification-1cfmdc9/</string>
   <string name="view_document" platform="android,iOS">View Document</string>
 </resources>
