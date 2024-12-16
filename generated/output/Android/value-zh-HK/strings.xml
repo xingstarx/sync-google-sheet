@@ -1600,6 +1600,7 @@
 	<string name="View">查看</string>
 	<string name="view_all">查看全部</string>
 	<string name="View_Authorization">查看授權</string>
+	<string name="view_document">查看文檔</string>
 	<string name="View_emergency_contact">查看恢復聯繫人</string>
 	<string name="view_on_explorer">在瀏覽器中查看</string>
 	<string name="View_on_Marketplace">在市場中查看</string>

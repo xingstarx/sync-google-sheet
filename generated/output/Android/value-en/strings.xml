@@ -1622,6 +1622,7 @@
 	<string name="View">View</string>
 	<string name="view_all">View All</string>
 	<string name="View_Authorization">View Authorization</string>
+	<string name="view_document">View Document</string>
 	<string name="View_emergency_contact">View recovery contact</string>
 	<string name="view_on_explorer">View on Explorer</string>
 	<string name="View_on_Marketplace">View on Marketplace</string>
