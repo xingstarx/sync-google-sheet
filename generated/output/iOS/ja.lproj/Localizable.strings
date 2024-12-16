@@ -1326,6 +1326,7 @@
 "upload_mobile_contacts" = "連絡先をアップロードする";
 "uploading" = "アップロードしています...";
 "uploading_progress" = "アップロード: %@ / %@ (%@)";
+"url_api_upgrade" = "https://support.mixin.one/en/article/mixin-api-upgrade-notification-1cfmdc9/";
 "url_delete_account" = "https://support.mixin.one/en/article/how-to-delete-my-account-19fkagl/";
 "url_deposit" = "https://support.mixin.one/en/article/how-to-deposit-assets-to-mixin-messenger-1usvjod/";
 "url_deposit_suspended" = "https://support.mixin.one/en/article/the-explanation-about-mixin-stopped-support-for-some-assets-deposits-1im32px/";

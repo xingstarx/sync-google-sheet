@@ -1590,6 +1590,7 @@
 	<string name="Upgrading_TIP_terminated_unexpectedly">Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade</string>
 	<string name="Upload_Mobile_Contacts">Upload Mobile Contacts</string>
 	<string name="Upload_timeout">Upload timeout</string>
+	<string name="url_api_upgrade">https://support.mixin.one/en/article/mixin-api-upgrade-notification-1cfmdc9/</string>
 	<string name="url_delete_account">https://support.mixin.one/en/article/how-to-delete-my-account-19fkagl/</string>
 	<string name="url_deposit">https://support.mixin.one/en/article/how-to-deposit-assets-to-mixin-messenger-1usvjod/</string>
 	<string name="url_deposit_suspended">https://support.mixin.one/en/article/the-explanation-about-mixin-stopped-support-for-some-assets-deposits-1im32px/</string>

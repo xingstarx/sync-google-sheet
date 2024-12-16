@@ -1568,6 +1568,7 @@
 	<string name="Upgrading_TIP_terminated_unexpectedly">升級 TIP 意外中止，點繼續完成 TIP 升級</string>
 	<string name="Upload_Mobile_Contacts">上傳通訊錄找好友</string>
 	<string name="Upload_timeout">上傳超時</string>
+	<string name="url_api_upgrade">https://support.mixin.one/zh/article/mixin-api-l4jruq/</string>
 	<string name="url_delete_account">https://support.mixin.one/zh/article/5aac5l2v5yig6zmk6lsm5y377yf-1uteq30/</string>
 	<string name="url_deposit">https://support.mixin.one/zh/article/mixin-messenger-5ynqjm/</string>
 	<string name="url_deposit_suspended">https://support.mixin.one/zh/article/5ywz5lqo5pq56en6lwe5lqn5lin5psv5oyb5ywf5yc855qe6k05pio-1sh1z50/</string>
