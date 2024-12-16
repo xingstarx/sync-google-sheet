@@ -587,7 +587,7 @@
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">错误 20129：发送验证码太频繁，请稍后再试</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：恢复联系人不正确</string>
   <string name="error_invalid_pin_format" platform="android, iOS, Desktop">错误 20118：PIN 格式不正确</string>
-  <string name="error_legacy_pin" platform="android, iOS, Desktop">错误 20118：为了加强 Mixin 网络的安全，Mixin API 现已暂停 D3M-PIN 升级到TIP，详情请查看文档并登记等待处理。</string>
+  <string name="error_legacy_pin" platform="android, iOS, Desktop">错误 20118：为了加强 Mixin 网络的安全，Mixin API 现已暂停 D3M-PIN 升级到 TIP，详情请查看文档并登记等待处理。</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超长，最多为 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">网络连接失败。检查或切换网络并重试</string>
   <string name="error_no_pin_token" platform="Desktop">缺少凭据，请重新登录之后再尝试使用此功能。</string>
