@@ -174,6 +174,7 @@
 "errorInvalidCodeTooFrequent" : "ERROR 20129: Send verification code too frequent, please try again later.",
 "errorInvalidEmergencyContact" : "ERROR 20130: Invalid recovery contact",
 "errorInvalidPinFormat" : "ERROR 20118: Invalid PIN format.",
+"errorLegacyPin" : "ERROR 20118: To enhance the security of the Mixin network, Mixin API has temporarily suspended the upgrading from D3M-PIN to TIP. Please refer to the documentation for details and register for processing.",
 "errorNetworkTaskFailed" : "Network connection failed. Check or switch your network and try again",
 "errorNoPinToken" : "No token, Please log in again and try this feature again.",
 "errorNotFound" : "ERROR 404: Not found",
