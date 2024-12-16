@@ -995,7 +995,7 @@
   <string name="Notice" platform="android">注意</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">通知和确认</string>
   <string name="notification_channel_description" platform="android">显示 Mixin Messenger 中正在播放的音乐</string>
-  <string name="notification_content" platform="android, iOS, Desktop">不再遗漏好友的消息。</string>
+  <string name="notification_content" platform="android, iOS, Desktop">启用推送通知以实时更新价格警报和消息。</string>
   <string name="notification_message_preview_description" platform="iOS">在推送通知中显示消息内容。</string>
   <string name="notification_permission_manually" platform="Desktop">未允许通知，请到通知设置开启。</string>
   <string name="Notifications" platform="android, Desktop">通知</string>
@@ -1531,7 +1531,7 @@
   <string name="Trying_connect_tip_network" platform="android,iOS">正在连接 TIP 网络</string>
   <string name="Trying_connect_tip_node" platform="android,iOS">正在连接节点…</string>
   <string name="Tuesday" platform="android">星期二</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">打开通知</string>
+  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">启用推送通知</string>
   <string name="Type_message" platform="android, Desktop">输入消息</string>
   <string name="unable_connect_to_desktop" platform="android, iOS">无法连接到桌面，请稍后重试</string>
   <string name="Unable_synced_between_different_account" platform="android, iOS">不同账户之间无法同步聊天记录</string>
