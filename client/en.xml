@@ -594,7 +594,8 @@
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: Invalid address format.</string>
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Invalid recovery contact</string>
-  <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Invalid PIN format. </string>
+  <string name="error_invalid_pin_format" platform="android, iOS, Desktop">ERROR 20118: Invalid PIN format.</string>
+  <string name="error_legacy_pin" platform="android, iOS, Desktop">ERROR 20118: To enhance the security of the Mixin network, Mixin API has temporarily suspended the upgrading from D3M-PIN to TIP. Please refer to the documentation for details and register for processing.</string>
   <string name="error_memo_too_long" platform="android">Memo has too many characters, maximum is 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Network connection failed. Check or switch your network and try again</string>
   <string name="error_no_pin_token" platform="Desktop">No token, Please log in again and try this feature again.</string>

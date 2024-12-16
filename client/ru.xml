@@ -491,7 +491,7 @@
   <string name="error_invalid_address" platform="android, Desktop">ОШИБКА 30102: Недопустимый формат адреса. Пожалуйста, введите правильный адрес %1$s %2$s!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ОШИБКА 30102: Недопустимый формат адреса.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">ОШИБКА 20129: Код подтверждения отправляется слишком часто. Повторите попытку позже.</string>
-  <string name="error_invalid_pin_format" platform="android, Desktop">ОШИБКА 20118: Неверный формат PIN-кода. </string>
+  <string name="error_invalid_pin_format" platform="android, iOS, Desktop">ОШИБКА 20118: Неверный формат PIN-кода. </string>
   <string name="error_memo_too_long" platform="android">В памятке слишком много символов, максимум 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Не удалось подключиться к сети. Проверьте или переключите сеть и повторите попытку.</string>
   <string name="error_not_found" platform="android, iOS, Desktop">Ошибка 404: Не найдено</string>
