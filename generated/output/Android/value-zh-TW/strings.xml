@@ -982,7 +982,7 @@
 	<string name="Notice">注意</string>
 	<string name="Notification_and_Confirmation">通知和確認</string>
 	<string name="notification_channel_description">顯示 Mixin Messenger 中正在播放的音樂</string>
-	<string name="notification_content">不再遺漏好友的訊息。</string>
+	<string name="notification_content">啟用推送通知以即時更新價格警報和訊息。</string>
 	<string name="Notifications">通知</string>
 	<string name="Now_Playing">正在播放</string>
 	<string name="number_of_assets">%1$d 資產</string>
@@ -1503,7 +1503,7 @@
 	<string name="Trying_connect_tip_network">正在連線 TIP 網路</string>
 	<string name="Trying_connect_tip_node">正在連線節點…</string>
 	<string name="Tuesday">星期二</string>
-	<string name="Turn_On_Notifications">開啟通知</string>
+	<string name="Turn_On_Notifications">啟用推送通知</string>
 	<string name="Type_message">輸入訊息</string>
 	<string name="unable_connect_to_desktop">無法連線到桌面，請稍後重試</string>
 	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>

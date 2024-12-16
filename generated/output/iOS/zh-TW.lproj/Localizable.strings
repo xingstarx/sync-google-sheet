@@ -807,7 +807,7 @@
 "not_turn_off_screen_hint" = "同步時請不要關閉螢幕並保持 Mixin 在前臺執行。";
 "note" = "備註";
 "notification_and_confirmation" = "通知和確認";
-"notification_content" = "不再遺漏好友的訊息。";
+"notification_content" = "啟用推送通知以即時更新價格警報和訊息。";
 "notification_message_preview_description" = "在推送通知中顯示訊息內容。";
 "now_an_addmin" = "%@現在是管理員";
 "number_of_assets" = "%d 資產";
@@ -1271,7 +1271,7 @@
 "try_again" = "請重試";
 "trying_connect_tip_network" = "正在連線 TIP 網路";
 "trying_connect_tip_node" = "正在連線節點...";
-"turn_on_notifications" = "開啟通知";
+"turn_on_notifications" = "啟用推送通知";
 "unable_connect_to_desktop" = "無法連線到桌面，請稍後重試";
 "unable_synced_between_different_account" = "不同賬戶之間無法同步聊天記錄";
 "unable_to_decode_the_request" = "無法解析請求: %@";

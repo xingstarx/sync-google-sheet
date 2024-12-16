@@ -807,7 +807,7 @@
 "not_turn_off_screen_hint" = "同步时请不要关闭屏幕并保持 Mixin 在前台运行。";
 "note" = "备注";
 "notification_and_confirmation" = "通知和确认";
-"notification_content" = "不再遗漏好友的消息。";
+"notification_content" = "启用推送通知以实时更新价格警报和消息。";
 "notification_message_preview_description" = "在推送通知中显示消息内容。";
 "now_an_addmin" = "%@现在是管理员";
 "number_of_assets" = "%d 资产";
@@ -1271,7 +1271,7 @@
 "try_again" = "请重试";
 "trying_connect_tip_network" = "正在连接 TIP 网络";
 "trying_connect_tip_node" = "正在连接节点...";
-"turn_on_notifications" = "打开通知";
+"turn_on_notifications" = "启用推送通知";
 "unable_connect_to_desktop" = "无法连接到桌面，请稍后重试";
 "unable_synced_between_different_account" = "不同账户之间无法同步聊天记录";
 "unable_to_decode_the_request" = "无法解析请求: %@";
