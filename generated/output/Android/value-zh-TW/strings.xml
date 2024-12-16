@@ -608,7 +608,7 @@
 	<string name="error_invalid_pin_format">錯誤 20118：PIN 格式不正確</string>
 	<string name="error_invalid_quote_amount">錯誤 10614: 輸入金額太小或太大，請重新輸入。</string>
 	<string name="error_invalid_swap">錯誤 10611: 暫無報價，請稍後重試。</string>
-	<string name="error_legacy_pin">錯誤 20118：為了加強 Mixin 網路的安全，Mixin API 現已暫停 D3M-PIN 升級到TIP，詳情請檢視檔案並登記等待處理。</string>
+	<string name="error_legacy_pin">錯誤 20118：為了加強 Mixin 網路的安全，Mixin API 現已暫停 D3M-PIN 升級到 TIP，詳情請檢視檔案並登記等待處理。</string>
 	<string name="error_memo_too_long">Memo 字元超長，最多為 200</string>
 	<string name="error_no_available_quote">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。</string>
 	<string name="error_not_approved_many_times">錯誤 10606: 未批准多次</string>
