@@ -1012,7 +1012,7 @@
   <string name="Notice" platform="android">Notice</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Notification and Confirmation</string>
   <string name="notification_channel_description" platform="android">Shows what music is currently playing in Mixin Messenger</string>
-  <string name="notification_content" platform="android, iOS, Desktop">Don't miss messages from your friends.</string>
+  <string name="notification_content" platform="android, iOS, Desktop">Enable push notifications to stay updated on price alerts and messages in real time.</string>
   <string name="notification_message_preview_description" platform="iOS">Preview message text inside new message notifications.</string>
   <string name="notification_permission_manually" platform="Desktop">Notifications are not allowed, please go to Notification Settings to turn on.</string>
   <string name="Notifications" platform="android, Desktop">Notifications</string>
@@ -1382,7 +1382,7 @@
   <string name="setting_desktop_logout_failed" platform="android">Logout of desktop failed.</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">Display confirmation dialog when you transfer the same amount to the same person within 6 hours.</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">Do you want to change your mobile number now?</string>
-  <string name="setting_emergency_content" platform="android, iOS">The recovery contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.</string>
+  <string name="setting_emergency_content" platform="android, iOS">The Recovery Contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number.</string>
   <string name="setting_emergency_create_success" platform="android">Create recovery contact successfully</string>
   <string name="setting_emergency_desc" platform="android, iOS">When your lost your mobile number, please contact your recovery contact by phone or other means to get the Mixin ID and verification code. Read our Recovery Contact to **learn more**.</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">Your recovery contact is protected by PIN</string>
@@ -1552,7 +1552,7 @@
   <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
   <string name="Trying_connect_tip_node" platform="android,iOS">Trying connect TIP node</string>
   <string name="Tuesday" platform="android">Tuesday</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Turn On Notifications</string>
+  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Enable push notification</string>
   <string name="Type_message" platform="android, Desktop">Type message</string>
   <string name="unable_connect_to_desktop" platform="android, iOS">Unable to connect to the desktop, please try again later</string>
   <string name="Unable_synced_between_different_account" platform="android, iOS">Chat history cannot be synced between different accounts</string>
