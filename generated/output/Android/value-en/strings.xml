@@ -578,6 +578,8 @@
 	<string name="Enable_db_debug">Enable db debug</string>
 	<string name="Enable_Emergency_Contact">Enable Recovery Contact</string>
 	<string name="Enable_immediately">Enabled immediately</string>
+	<string name="Enable_Notifications">Enable Notifications</string>
+	<string name="Enable_push_notification">Enable push notification</string>
 	<string name="Enable_web_debug">Enable web debug</string>
 	<string name="Encrypted">Encrypted</string>
 	<string name="End">End</string>
@@ -696,6 +698,8 @@
 	<string name="Files">Files</string>
 	<string name="Filter">Filter</string>
 	<string name="FILTER_BY">FILTER BY</string>
+	<string name="Find_Friends">Find Friends</string>
+	<string name="Find_Friends_description">Mixin uses the phone numbers in your address book to help you find your friends.</string>
 	<string name="fingerprint_lock">Fingerprint lock</string>
 	<string name="Flash_unit_not_available">Flash unit not available</string>
 	<string name="Floating">Floating</string>
@@ -1525,7 +1529,6 @@
 	<string name="Trying_connect_tip_network">Connecting the TIP network</string>
 	<string name="Trying_connect_tip_node">Trying connect TIP node</string>
 	<string name="Tuesday">Tuesday</string>
-	<string name="Turn_On_Notifications">Enable push notification</string>
 	<string name="Type_message">Type message</string>
 	<string name="unable_connect_to_desktop">Unable to connect to the desktop, please try again later</string>
 	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>

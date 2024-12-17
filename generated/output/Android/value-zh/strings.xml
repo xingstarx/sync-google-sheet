@@ -569,6 +569,8 @@
 	<string name="Enable_db_debug">已开启 db 调试</string>
 	<string name="Enable_Emergency_Contact">启用恢复联系人</string>
 	<string name="Enable_immediately">立即启动</string>
+	<string name="Enable_Notifications">启用通知</string>
+	<string name="Enable_push_notification">启用推送通知</string>
 	<string name="Enable_web_debug">已开启 Web 调试</string>
 	<string name="Encrypted">端到端加密</string>
 	<string name="End">结束</string>
@@ -687,6 +689,8 @@
 	<string name="Files">文档</string>
 	<string name="Filter">筛选</string>
 	<string name="FILTER_BY">筛选</string>
+	<string name="Find_Friends">找到朋友</string>
+	<string name="Find_Friends_description">Mixin 使用电话号码来为您找到朋友。</string>
 	<string name="fingerprint_lock">指纹锁定</string>
 	<string name="Flash_unit_not_available">闪光灯/手电筒硬件不可用</string>
 	<string name="Floating">浮窗</string>
@@ -1503,7 +1507,6 @@
 	<string name="Trying_connect_tip_network">正在连接 TIP 网络</string>
 	<string name="Trying_connect_tip_node">正在连接节点…</string>
 	<string name="Tuesday">星期二</string>
-	<string name="Turn_On_Notifications">启用推送通知</string>
 	<string name="Type_message">输入消息</string>
 	<string name="unable_connect_to_desktop">无法连接到桌面，请稍后重试</string>
 	<string name="Unable_synced_between_different_account">不同账户之间无法同步聊天记录</string>

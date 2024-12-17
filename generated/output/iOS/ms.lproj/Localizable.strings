@@ -481,8 +481,10 @@
 "enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
 "enable_emergency_contact" = "Enable Recovery Contact";
 "enable_face_pay_hint" = "Confirm PIN to enable Face Pay";
+"enable_notifications" = "Enable Notifications";
 "enable_pay" = "Enable %@ Pay";
 "enable_pay_confirmation" = "Enable %@ Pay?";
+"enable_push_notification" = "Hidupkan Pemberitahuan";
 "enable_touch_pay_hint" = "Confirm PIN to enable Touch Pay";
 "end" = "End";
 "end_to_end_encryption" = "Disulitkan";
@@ -565,6 +567,8 @@
 "files" = "Fail";
 "filter" = "Penapis";
 "filter_by" = "DITAPIS DENGAN";
+"find_friends" = "Find Friends";
+"find_friends_description" = "Mixin uses the phone numbers in your address book to help you find your friends.";
 "floating" = "Terapung";
 "floats_allows_up_to_count" = "Floats allows up to %d ones";
 "follow_us_on_facebook" = "Ikuti kami di Facebook";
@@ -1271,7 +1275,6 @@
 "try_again" = "Cuba lagi";
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
-"turn_on_notifications" = "Hidupkan Pemberitahuan";
 "unable_connect_to_desktop" = "Unable to connect to the desktop, please try again later";
 "unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";

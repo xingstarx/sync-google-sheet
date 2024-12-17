@@ -481,8 +481,10 @@
 "enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
 "enable_emergency_contact" = "Enable Recovery Contact";
 "enable_face_pay_hint" = "Подтвердите PIN-код, чтобы включить Face Pay";
+"enable_notifications" = "Enable Notifications";
 "enable_pay" = "Включить %@ Pay";
 "enable_pay_confirmation" = "Включить %@ Pay?";
+"enable_push_notification" = "Включить уведомления";
 "enable_touch_pay_hint" = "Подтвердите PIN-код, чтобы включить Touch Pay";
 "end" = "End";
 "end_to_end_encryption" = "Сквозное шифрование";
@@ -565,6 +567,8 @@
 "files" = "Файлы";
 "filter" = "Фильтр";
 "filter_by" = "СОРТИРОВАТЬ ПО";
+"find_friends" = "Find Friends";
+"find_friends_description" = "Mixin uses the phone numbers in your address book to help you find your friends.";
 "floating" = "Плавающий";
 "floats_allows_up_to_count" = "Поплавки позволяют использовать до %d единиц.";
 "follow_us_on_facebook" = "Следите за нами на Фейсбуке";
@@ -1271,7 +1275,6 @@
 "try_again" = "Попробуйте еще раз";
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
-"turn_on_notifications" = "Включить уведомления";
 "unable_connect_to_desktop" = "Unable to connect to the desktop, please try again later";
 "unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";

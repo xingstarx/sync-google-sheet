@@ -481,8 +481,10 @@
 "enable_bioauth_description" = "What about %@? Once enabled, you can expedite authentication with %@.";
 "enable_emergency_contact" = "Enable Recovery Contact";
 "enable_face_pay_hint" = "PINコードを確認して顔認証を利用可能にしてください";
+"enable_notifications" = "Enable Notifications";
 "enable_pay" = "%@の支払いを有効化";
 "enable_pay_confirmation" = "%@の支払いを有効化しますか？";
+"enable_push_notification" = "通知をオンにする";
 "enable_touch_pay_hint" = "PINコードを確認して指紋認証を利用可能にしてください";
 "end" = "End";
 "end_to_end_encryption" = "E2E暗号化";
@@ -565,6 +567,8 @@
 "files" = "ファイル";
 "filter" = "フィルター";
 "filter_by" = "絞り込み：";
+"find_friends" = "Find Friends";
+"find_friends_description" = "Mixin uses the phone numbers in your address book to help you find your friends.";
 "floating" = "フローティング";
 "floats_allows_up_to_count" = "フロート数の上限 %d";
 "follow_us_on_facebook" = "FacebookでMixinをフォロー";
@@ -1271,7 +1275,6 @@
 "try_again" = "もう一度試す";
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
-"turn_on_notifications" = "通知をオンにする";
 "unable_connect_to_desktop" = "Unable to connect to the desktop, please try again later";
 "unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";

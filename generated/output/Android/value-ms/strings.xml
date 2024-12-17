@@ -239,6 +239,7 @@
 	<string name="Edit_Name">Edit Nama</string>
 	<string name="Empty_address_book">Kosongkan buku alamat</string>
 	<string name="Enable_db_debug">Bolehkan nyahpepijat db</string>
+	<string name="Enable_push_notification">Hidupkan Pemberitahuan</string>
 	<string name="Enable_web_debug">Bolehkan laman web nyahpepijat</string>
 	<string name="End_to_End_Encryption">Disulitkan</string>
 	<string name="Enter_new_phone_number">Masukkan nombor telefon bimbit baharu anda</string>
@@ -680,7 +681,6 @@
 	<string name="Trending">Sohor Kini</string>
 	<string name="Try_Again">Cuba lagi</string>
 	<string name="Tuesday">Selasa</string>
-	<string name="Turn_On_Notifications">Hidupkan Pemberitahuan</string>
 	<string name="Type_message">Taipkan mesej</string>
 	<string name="Unblock">Buka sekatan</string>
 	<string name="UNDO">BUAT ASAL</string>

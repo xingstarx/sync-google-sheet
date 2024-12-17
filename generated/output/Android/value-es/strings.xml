@@ -369,6 +369,7 @@
 	<string name="Enable_after_30_minutes">Habilitado después de 30 minutos</string>
 	<string name="Enable_db_debug">Habilitar depuración de base de datos</string>
 	<string name="Enable_immediately">Habilitado inmediatamente</string>
+	<string name="Enable_push_notification">Activar las notificaciones</string>
 	<string name="Enable_web_debug">Habilitar depuración web</string>
 	<string name="Encrypted">Encriptado</string>
 	<string name="End_to_End_Encryption">Cifrado de extremo a extremo</string>
@@ -970,7 +971,6 @@
 	<string name="Trying_connect_tip_network">Conexión de la red TIP</string>
 	<string name="Trying_connect_tip_node">Intentando conectar el nodo TIP</string>
 	<string name="Tuesday">Martes</string>
-	<string name="Turn_On_Notifications">Activar las notificaciones</string>
 	<string name="Type_message">Escribe el mensaje</string>
 	<string name="Unblock">Desbloquear</string>
 	<string name="UNDO">DESHACER</string>

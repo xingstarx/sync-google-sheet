@@ -481,8 +481,10 @@
 "enable_bioauth_description" = "想要啓用%@支付嗎？啓用後，轉賬時可驗證%@快速完成付款。";
 "enable_emergency_contact" = "啓用恢復聯繫人";
 "enable_face_pay_hint" = "輸入 PIN 啓用面容支付";
+"enable_notifications" = "啓用通知";
 "enable_pay" = "啓用%@支付";
 "enable_pay_confirmation" = "啓用%@支付？";
+"enable_push_notification" = "啓用推送通知";
 "enable_touch_pay_hint" = "輸入 PIN 啓用指紋支付";
 "end" = "結束";
 "end_to_end_encryption" = "端到端加密";
@@ -565,6 +567,8 @@
 "files" = "文檔";
 "filter" = "篩選";
 "filter_by" = "篩選";
+"find_friends" = "找到朋友";
+"find_friends_description" = "Mixin 使用電話號碼來為您找到朋友。";
 "floating" = "浮窗";
 "floats_allows_up_to_count" = "最多支持 %d 個浮窗";
 "follow_us_on_facebook" = "關注我們的 Facebook";
@@ -1271,7 +1275,6 @@
 "try_again" = "請重試";
 "trying_connect_tip_network" = "正在連接 TIP 網絡";
 "trying_connect_tip_node" = "正在連接節點...";
-"turn_on_notifications" = "啓用推送通知";
 "unable_connect_to_desktop" = "無法連接到桌面，請稍後重試";
 "unable_synced_between_different_account" = "不同賬户之間無法同步聊天記錄";
 "unable_to_decode_the_request" = "無法解析請求: %@";

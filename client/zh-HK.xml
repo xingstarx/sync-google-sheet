@@ -2137,4 +2137,7 @@
   <string name="url_forget_pin" platform="android,iOS">https://support.mixin.one/zh/article/pin-1vb2rc7/</string>
   <string name="url_api_upgrade" platform="android,iOS">https://support.mixin.one/zh/article/mixin-api-l4jruq/</string>
   <string name="view_document" platform="android,iOS">查看文檔</string>
+  <string name="Enable_Notifications" platform="android,iOS">啓用通知</string>
+  <string name="Find_Friends" platform="android,iOS">找到朋友</string>
+  <string name="Find_Friends_description" platform="android,iOS">Mixin 使用電話號碼來為您找到朋友。</string>
 </resources>

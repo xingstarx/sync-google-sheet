@@ -350,6 +350,7 @@
 	<string name="Enable_after_30_minutes">Включено через 30 минут</string>
 	<string name="Enable_db_debug">Включить отладку БД</string>
 	<string name="Enable_immediately">Включено немедленно</string>
+	<string name="Enable_push_notification">Включить уведомления</string>
 	<string name="Enable_web_debug">Включить веб-отладку</string>
 	<string name="Encrypted">Зашифровано</string>
 	<string name="End_to_End_Encryption">Сквозное шифрование</string>
@@ -933,7 +934,6 @@
 	<string name="Trending">В тренде</string>
 	<string name="Try_Again">Попробуйте еще раз</string>
 	<string name="Tuesday">Вторник</string>
-	<string name="Turn_On_Notifications">Включить уведомления</string>
 	<string name="Type_message">Введите сообщение</string>
 	<string name="Unblock">Разблокировать</string>
 	<string name="UNDO">ОТМЕНИТЬ</string>

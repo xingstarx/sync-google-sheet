@@ -344,6 +344,7 @@
 	<string name="Enable_after_30_minutes">30分後に有効化する</string>
 	<string name="Enable_db_debug">dbデバッグの有効化</string>
 	<string name="Enable_immediately">すぐに有効化する</string>
+	<string name="Enable_push_notification">通知をオンにする</string>
 	<string name="Enable_web_debug">webデバッグの有効化</string>
 	<string name="Encrypted">暗号化</string>
 	<string name="End_to_End_Encryption">E2E暗号化</string>
@@ -916,7 +917,6 @@
 	<string name="Trending">トレンド</string>
 	<string name="Try_Again">もう一度試す</string>
 	<string name="Tuesday">火曜日</string>
-	<string name="Turn_On_Notifications">通知をオンにする</string>
 	<string name="Type_message">メッセージを入力</string>
 	<string name="Unblock">ブロックを解除</string>
 	<string name="UNDO">戻る</string>

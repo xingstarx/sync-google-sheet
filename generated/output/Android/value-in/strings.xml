@@ -224,6 +224,7 @@
 	<string name="Edit_group_name">Edit Nama</string>
 	<string name="Edit_Name">Edit Nama</string>
 	<string name="Empty_address_book">Buku alamat kosong</string>
+	<string name="Enable_push_notification">Aktifkan Notifikasi</string>
 	<string name="End_to_End_Encryption">Terenkripsi end-to-end</string>
 	<string name="Enter_new_phone_number">Masukkan nomor ponsel baru Anda</string>
 	<string name="Enter_your_phone_number">Masukkan nomor ponsel Anda</string>
@@ -635,7 +636,6 @@
 	<string name="transfer_without_pin">Anda harus membuat PIN untuk transfer</string>
 	<string name="Try_Again">Coba lagi</string>
 	<string name="Tuesday">Selasa</string>
-	<string name="Turn_On_Notifications">Aktifkan Notifikasi</string>
 	<string name="Unblock">Batal Blokir</string>
 	<string name="UNDO">URUNG</string>
 	<string name="Unknown">Tidak diketahui</string>
