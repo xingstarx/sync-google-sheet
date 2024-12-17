@@ -448,7 +448,6 @@
   <string name="Not_support" platform="android">Tidak sokong</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Pemberitahuan dan Pengesahan</string>
   <string name="notification_channel_description" platform="android">Tunjukkan muzik apa yang sedang dimainkan di Mixin Messenger</string>
-  <string name="notification_content" platform="android, iOS, Desktop">Jangan terlepas mesej daripada rakan anda.</string>
   <string name="Notifications" platform="android, Desktop">Pemberitahuan</string>
   <string name="Now_Playing" platform="android">Main sekarang</string>
   <string name="number_reached_limit" platform="android">Jumlahnya sudah mencapai had</string>

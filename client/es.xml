@@ -885,7 +885,6 @@
   <string name="Notice" platform="android">Aviso</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Notificación y Confirmación</string>
   <string name="notification_channel_description" platform="android">Muestra qué música se está reproduciendo actualmente en Mixin Messenger</string>
-  <string name="notification_content" platform="android, iOS, Desktop">No te pierdas los mensajes de tus amigos.</string>
   <string name="notification_message_preview_description" platform="iOS">Obtén una vista previa del texto del mensaje dentro de las notificaciones de mensajes nuevos.</string>
   <string name="notification_permission_manually" platform="Desktop">Las notificaciones no están permitidas, ve a Configuración de notificaciones para activarlas.</string>
   <string name="Notifications" platform="android, Desktop">Notificaciones</string>

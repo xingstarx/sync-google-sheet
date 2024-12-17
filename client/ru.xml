@@ -828,7 +828,6 @@
   <string name="Notice" platform="android">Уведомление</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Уведомление и подтверждение</string>
   <string name="notification_channel_description" platform="android">Показывает, какая музыка сейчас играет в мессенджере Mixin Messenger</string>
-  <string name="notification_content" platform="android, iOS, Desktop">Не пропустите сообщения от друзей.</string>
   <string name="notification_message_preview_description" platform="iOS">Предварительный просмотр текста сообщения в уведомлениях о новых сообщениях.</string>
   <string name="notification_permission_manually" platform="Desktop">Уведомления запрещены. Чтобы включить их, перейдите в настройки уведомлений.</string>
   <string name="Notifications" platform="android, Desktop">Уведомления</string>

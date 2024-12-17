@@ -815,7 +815,6 @@
   <string name="Notice" platform="android">お知らせ</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">通知・送金確認</string>
   <string name="notification_channel_description" platform="android">Mixinで再生中の音楽を表示</string>
-  <string name="notification_content" platform="android, iOS, Desktop">友達からのメッセージを見逃さないで！</string>
   <string name="notification_message_preview_description" platform="iOS">通知でメッセージ内容を表示する</string>
   <string name="notification_permission_manually" platform="Desktop">通知は許可されていませんので、通知設定から許可してください。</string>
   <string name="Notifications" platform="android, Desktop">通知</string>

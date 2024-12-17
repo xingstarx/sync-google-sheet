@@ -422,7 +422,6 @@
   <string name="Not_logged_in" platform="android">Belum masuk</string>
   <string name="Not_support" platform="android">Tidak didukung</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Notifikasi dan Konfirmasi</string>
-  <string name="notification_content" platform="android, iOS, Desktop">Jangan lewatkan pesan dari teman Anda.</string>
   <string name="Notifications" platform="android, Desktop">Notifikasi</string>
   <string name="number_reached_limit" platform="android">Jumlahnya sudah mencapai batas</string>
   <string name="OK" platform="android, iOS">OK</string>
