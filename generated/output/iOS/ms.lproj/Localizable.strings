@@ -807,7 +807,7 @@
 "not_turn_off_screen_hint" = "Please do not turn off the screen and keep Mixin in the foreground when synchronizing.";
 "note" = "Note";
 "notification_and_confirmation" = "Pemberitahuan dan Pengesahan";
-"notification_content" = "Jangan terlepas mesej daripada rakan anda.";
+"notification_content" = "Enable push notifications to stay updated on price alerts and messages in real time.";
 "notification_message_preview_description" = "Preview message text inside new message notifications.";
 "now_an_addmin" = "%@ now an admin";
 "number_of_assets" = "%d Assets";

@@ -249,7 +249,6 @@
 "noPosts" : "投稿がありません",
 "noResults" : "結果なし",
 "notFound" : "見つかりません",
-"notificationContent" : "友達からのメッセージを見逃さないで！",
 "notificationPermissionManually" : "通知は許可されていませんので、通知設定から許可してください。",
 "notifications" : "通知",
 "nowAnAddmin" : "{arg0}は管理者です",

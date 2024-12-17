@@ -637,7 +637,6 @@
 	<string name="Notice">Уведомление</string>
 	<string name="Notification_and_Confirmation">Уведомление и подтверждение</string>
 	<string name="notification_channel_description">Показывает, какая музыка сейчас играет в мессенджере Mixin Messenger</string>
-	<string name="notification_content">Не пропустите сообщения от друзей.</string>
 	<string name="Notifications">Уведомления</string>
 	<string name="Now_Playing">Сейчас играет</string>
 	<string name="number_reached_limit">Количество достигло предела</string>

@@ -248,7 +248,6 @@
 "noPosts" : "НЕТ СООБЩЕНИЙ",
 "noResults" : "НЕТ РЕЗУЛЬТАТОВ",
 "notFound" : "Не найден",
-"notificationContent" : "Не пропустите сообщения от друзей.",
 "notificationPermissionManually" : "Уведомления запрещены. Чтобы включить их, перейдите в настройки уведомлений.",
 "notifications" : "Уведомления",
 "nowAnAddmin" : "{arg0} теперь администратор",

@@ -626,7 +626,6 @@
 	<string name="Notice">お知らせ</string>
 	<string name="Notification_and_Confirmation">通知・送金確認</string>
 	<string name="notification_channel_description">Mixinで再生中の音楽を表示</string>
-	<string name="notification_content">友達からのメッセージを見逃さないで！</string>
 	<string name="Notifications">通知</string>
 	<string name="Now_Playing">再生中</string>
 	<string name="number_reached_limit">数が上限に達しました</string>

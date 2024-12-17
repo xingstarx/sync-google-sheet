@@ -658,7 +658,6 @@
 	<string name="Notice">Aviso</string>
 	<string name="Notification_and_Confirmation">Notificación y Confirmación</string>
 	<string name="notification_channel_description">Muestra qué música se está reproduciendo actualmente en Mixin Messenger</string>
-	<string name="notification_content">No te pierdas los mensajes de tus amigos.</string>
 	<string name="Notifications">Notificaciones</string>
 	<string name="Now_Playing">Reproduciendo ahora</string>
 	<string name="number_reached_limit">El número ha llegado al límite.</string>

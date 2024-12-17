@@ -266,7 +266,6 @@
 "noPosts" : "SIN PUBLICACIONES",
 "noResults" : "SIN RESULTADOS",
 "notFound" : "Extraviado",
-"notificationContent" : "No te pierdas los mensajes de tus amigos.",
 "notificationPermissionManually" : "Las notificaciones no están permitidas, ve a Configuración de notificaciones para activarlas.",
 "notifications" : "Notificaciones",
 "nowAnAddmin" : "{arg0} ahora es administrador",
