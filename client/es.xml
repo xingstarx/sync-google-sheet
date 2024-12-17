@@ -1312,7 +1312,7 @@
   <string name="Trying_connect_tip_network" platform="android,iOS">Conexión de la red TIP</string>
   <string name="Trying_connect_tip_node" platform="android,iOS">Intentando conectar el nodo TIP</string>
   <string name="Tuesday" platform="android">Martes</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Activar las notificaciones</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">Activar las notificaciones</string>
   <string name="Type_message" platform="android, Desktop">Escribe el mensaje</string>
   <string name="unable_to_open_file" platform="Desktop">No se puede abrir el archivo: %1$s</string>
   <string name="Unable_to_save_photo" platform="iOS">No se puede guardar la foto.</string>

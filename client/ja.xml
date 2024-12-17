@@ -1218,7 +1218,7 @@
   <string name="Trending" platform="android, iOS">トレンド</string>
   <string name="Try_Again" platform="android, iOS">もう一度試す</string>
   <string name="Tuesday" platform="android">火曜日</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">通知をオンにする</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">通知をオンにする</string>
   <string name="Type_message" platform="android, Desktop">メッセージを入力</string>
   <string name="unable_to_open_file" platform="Desktop">ファイルを開くことができません: %1$s</string>
   <string name="Unable_to_save_photo" platform="iOS">画像が保存できませんでした</string>

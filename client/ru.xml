@@ -1226,7 +1226,7 @@
   <string name="Trending" platform="android, iOS">В тренде</string>
   <string name="Try_Again" platform="android, iOS">Попробуйте еще раз</string>
   <string name="Tuesday" platform="android">Вторник</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Включить уведомления</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">Включить уведомления</string>
   <string name="Type_message" platform="android, Desktop">Введите сообщение</string>
   <string name="unable_to_open_file" platform="Desktop">Не удалось открыть файл: %1$s</string>
   <string name="Unable_to_save_photo" platform="iOS">Не удалось сохранить фото.</string>

@@ -1531,7 +1531,7 @@
   <string name="Trying_connect_tip_network" platform="android,iOS">正在連接 TIP 網絡</string>
   <string name="Trying_connect_tip_node" platform="android,iOS">正在連接節點…</string>
   <string name="Tuesday" platform="android">星期二</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">啓用推送通知</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">啓用推送通知</string>
   <string name="Type_message" platform="android, Desktop">輸入消息</string>
   <string name="unable_connect_to_desktop" platform="android, iOS">無法連接到桌面，請稍後重試</string>
   <string name="Unable_synced_between_different_account" platform="android, iOS">不同賬户之間無法同步聊天記錄</string>

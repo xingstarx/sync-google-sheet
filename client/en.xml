@@ -1552,7 +1552,7 @@
   <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
   <string name="Trying_connect_tip_node" platform="android,iOS">Trying connect TIP node</string>
   <string name="Tuesday" platform="android">Tuesday</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Enable push notification</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">Enable push notification</string>
   <string name="Type_message" platform="android, Desktop">Type message</string>
   <string name="unable_connect_to_desktop" platform="android, iOS">Unable to connect to the desktop, please try again later</string>
   <string name="Unable_synced_between_different_account" platform="android, iOS">Chat history cannot be synced between different accounts</string>
@@ -2165,4 +2165,7 @@
   <string name="url_forget_pin" platform="android,iOS">https://support.mixin.one/en/article/how-to-do-if-i-forget-the-pin-g12pmo/</string>
   <string name="url_api_upgrade" platform="android,iOS">https://support.mixin.one/en/article/mixin-api-upgrade-notification-1cfmdc9/</string>
   <string name="view_document" platform="android,iOS">View Document</string>
+  <string name="Enable_Notifications" platform="android,iOS">Enable Notifications</string>
+  <string name="Find_Friends" platform="android,iOS">Find Friends</string>
+  <string name="Find_Friends_description" platform="android,iOS">Mixin uses the phone numbers in your address book to help you find your friends.</string>
 </resources>

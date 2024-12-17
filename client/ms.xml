@@ -662,7 +662,7 @@
   <string name="Trending" platform="android, iOS">Sohor Kini</string>
   <string name="Try_Again" platform="android, iOS">Cuba lagi</string>
   <string name="Tuesday" platform="android">Selasa</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Hidupkan Pemberitahuan</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">Hidupkan Pemberitahuan</string>
   <string name="Type_message" platform="android, Desktop">Taipkan mesej</string>
   <string name="Unblock" platform="android, iOS, Desktop">Buka sekatan</string>
   <string name="UNDO" platform="android">BUAT ASAL</string>

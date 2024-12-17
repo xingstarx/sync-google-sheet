@@ -615,7 +615,7 @@
   <string name="transfer_without_pin" platform="android">Anda harus membuat PIN untuk transfer</string>
   <string name="Try_Again" platform="android, iOS">Coba lagi</string>
   <string name="Tuesday" platform="android">Selasa</string>
-  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Aktifkan Notifikasi</string>
+  <string name="Enable_push_notification" platform="android, iOS, Desktop">Aktifkan Notifikasi</string>
   <string name="Unblock" platform="android, iOS, Desktop">Batal Blokir</string>
   <string name="UNDO" platform="android">URUNG</string>
   <string name="Unknown" platform="android">Tidak diketahui</string>
