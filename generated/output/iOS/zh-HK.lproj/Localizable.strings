@@ -567,8 +567,6 @@
 "files" = "文檔";
 "filter" = "篩選";
 "filter_by" = "篩選";
-"find_friends" = "找到朋友";
-"find_friends_description" = "Mixin 使用電話號碼來為您找到朋友。";
 "floating" = "浮窗";
 "floats_allows_up_to_count" = "最多支持 %d 個浮窗";
 "follow_us_on_facebook" = "關注我們的 Facebook";

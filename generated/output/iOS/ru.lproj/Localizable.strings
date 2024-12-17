@@ -567,8 +567,6 @@
 "files" = "Файлы";
 "filter" = "Фильтр";
 "filter_by" = "СОРТИРОВАТЬ ПО";
-"find_friends" = "Find Friends";
-"find_friends_description" = "Mixin uses the phone numbers in your address book to help you find your friends.";
 "floating" = "Плавающий";
 "floats_allows_up_to_count" = "Поплавки позволяют использовать до %d единиц.";
 "follow_us_on_facebook" = "Следите за нами на Фейсбуке";

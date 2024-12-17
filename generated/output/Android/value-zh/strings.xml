@@ -689,8 +689,6 @@
 	<string name="Files">文档</string>
 	<string name="Filter">筛选</string>
 	<string name="FILTER_BY">筛选</string>
-	<string name="Find_Friends">找到朋友</string>
-	<string name="Find_Friends_description">Mixin 使用电话号码来为您找到朋友。</string>
 	<string name="fingerprint_lock">指纹锁定</string>
 	<string name="Flash_unit_not_available">闪光灯/手电筒硬件不可用</string>
 	<string name="Floating">浮窗</string>

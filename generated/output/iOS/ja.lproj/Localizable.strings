@@ -567,8 +567,6 @@
 "files" = "ファイル";
 "filter" = "フィルター";
 "filter_by" = "絞り込み：";
-"find_friends" = "Find Friends";
-"find_friends_description" = "Mixin uses the phone numbers in your address book to help you find your friends.";
 "floating" = "フローティング";
 "floats_allows_up_to_count" = "フロート数の上限 %d";
 "follow_us_on_facebook" = "FacebookでMixinをフォロー";

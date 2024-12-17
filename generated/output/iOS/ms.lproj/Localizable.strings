@@ -567,8 +567,6 @@
 "files" = "Fail";
 "filter" = "Penapis";
 "filter_by" = "DITAPIS DENGAN";
-"find_friends" = "Find Friends";
-"find_friends_description" = "Mixin uses the phone numbers in your address book to help you find your friends.";
 "floating" = "Terapung";
 "floats_allows_up_to_count" = "Floats allows up to %d ones";
 "follow_us_on_facebook" = "Ikuti kami di Facebook";

@@ -698,8 +698,6 @@
 	<string name="Files">Files</string>
 	<string name="Filter">Filter</string>
 	<string name="FILTER_BY">FILTER BY</string>
-	<string name="Find_Friends">Find Friends</string>
-	<string name="Find_Friends_description">Mixin uses the phone numbers in your address book to help you find your friends.</string>
 	<string name="fingerprint_lock">Fingerprint lock</string>
 	<string name="Flash_unit_not_available">Flash unit not available</string>
 	<string name="Floating">Floating</string>
