@@ -448,7 +448,7 @@
 	<string name="Copy_link">複製鏈接</string>
 	<string name="Create">創建</string>
 	<string name="Create_Account">創建帳户</string>
-	<string name="create_introduction">MPC 錢包，%1$s，自我保管，社交恢復</string>
+	<string name="create_introduction">MPC 錢包，2FA，%1$s，自我保管，社交恢復</string>
 	<string name="Create_Mnemonic_Phrase">創建助記詞</string>
 	<string name="Create_PIN">創建錢包</string>
 	<string name="Created">創建於 %1$s</string>

@@ -453,7 +453,7 @@
 	<string name="Copy_link">Copy Link</string>
 	<string name="Create">Create</string>
 	<string name="Create_Account">Create Account</string>
-	<string name="create_introduction">MPC Wallet, %1$s, Self-custody, Social Recovery</string>
+	<string name="create_introduction">MPC Wallet, 2FA, %1$s, Self-custody, Social Recovery</string>
 	<string name="Create_Mnemonic_Phrase">Create Mnemonic Phrase</string>
 	<string name="Create_PIN">Create PIN</string>
 	<string name="Created">Created %1$s</string>
