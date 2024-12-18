@@ -2068,7 +2068,7 @@
   <string name="Create_Account" platform="android,iOS">Create Account</string>
   <string name="Mobile_Phone" platform="android,iOS">Mobile Phone</string>
   <string name="Mnemonic_Phrase" platform="android,iOS">Mnemonic Phrase</string>
-  <string name="create_introduction" platform="android,iOS">MPC Wallet, %1$s, Self-custody, Social Recovery</string>
+  <string name="create_introduction" platform="android,iOS">MPC Wallet, 2FA, %1$s, Self-custody, Social Recovery</string>
   <string name="Convenience" platform="android,iOS">Convenience</string>
   <string name="Signing_in_to_your_account" platform="android,iOS">Signing in to your account…</string>
   <string name="Creating_your_account" platform="android,iOS">Creating your account…</string>

@@ -2040,7 +2040,7 @@
   <string name="Create_Account" platform="android,iOS">创建帐户</string>
   <string name="Mobile_Phone" platform="android,iOS">手机</string>
   <string name="Mnemonic_Phrase" platform="android,iOS">助记词</string>
-  <string name="create_introduction" platform="android,iOS">MPC 钱包，%1$s，自我保管，社交恢复</string>
+  <string name="create_introduction" platform="android,iOS">MPC 钱包，2FA，%1$s，自我保管，社交恢复</string>
   <string name="Convenience" platform="android,iOS">便利</string>
   <string name="Signing_in_to_your_account" platform="android,iOS">正在登录账户…</string>
   <string name="Creating_your_account" platform="android,iOS">正在创建账户…</string>
