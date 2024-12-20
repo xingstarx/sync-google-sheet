@@ -427,11 +427,13 @@
 "deposit_confirmation_count" = "Deposit akan tiba setelah sekurang-kurangnya %d pengesahan sekatan";
 "deposit_dust" = "Minimum deposit: %1$@ %2$@";
 "deposit_hash" = "Deposit Hash";
+"deposit_pending_confirmation" = "%@ Pending Confirmation";
 "deposit_tip_btc" = "Alamat ini hanya menyokong BTC.";
 "deposit_tip_common" = "Alamat ini hanya menyokong %@.";
 "deposit_tip_eos" = "Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll.";
 "deposit_tip_eth" = "Alamat ini menyokong semua token ERC-20, seperti ETH, XIN, dll.";
 "deposit_tip_trx" = "Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.";
+"deposits_pending_confirmation" = "%d Deposits Pending Confirmation";
 "depost_address_updated" = "%@ Deposit Address Updated";
 "depost_address_updated_description" = "Your %@ deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.";
 "desktop_login" = "Login to Mixin Messenger Desktop";

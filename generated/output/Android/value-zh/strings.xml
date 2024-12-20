@@ -502,11 +502,13 @@
 	<string name="deposit_hash">充值哈希</string>
 	<string name="deposit_memo_notice">充值时务必填写 Memo（备注），否则您会丢失您的数字币</string>
 	<string name="deposit_notice">地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。</string>
+	<string name="Deposit_Pending_Confirmation">%1$s 充值确认中</string>
 	<string name="deposit_tip_btc">该充值地址仅支持 BTC。</string>
 	<string name="deposit_tip_common">该充值地址仅支持 %1$s。</string>
 	<string name="deposit_tip_eos">支持所有基于 EOS 发行的代币。</string>
 	<string name="deposit_tip_eth">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
 	<string name="deposit_tip_trx">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
+	<string name="Deposits_Pending_Confirmation">有 %1$d 笔充值确认中</string>
 	<string name="depost_address_updated">%1$s 充值地址已更新</string>
 	<string name="depost_address_updated_description">您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。</string>
 	<string name="Deselect_All">取消所有选择</string>
