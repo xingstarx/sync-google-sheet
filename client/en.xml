@@ -1072,6 +1072,7 @@
   <string name="payment_method" platform="android">Payment Method</string>
   <string name="Peer_closed" platform="iOS">Peer closed</string>
   <string name="Peer_not_found" platform="iOS">Peer not found</string>
+  <string name="pending" platform="android, iOS">Pending</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmation</string>
   <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d confirmations</string>
   <string name="pending_confirmations" platform="iOS">%d/%d Confirmations</string>
