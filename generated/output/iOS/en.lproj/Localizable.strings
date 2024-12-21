@@ -858,6 +858,7 @@
 "pay_withdrawal_memo" = "Amount %@ %@\nFee %@ %@";
 "peer_closed" = "Peer closed";
 "peer_not_found" = "Peer not found";
+"pending" = "Pending";
 "pending_confirmation" = "%1$d/%2$d confirmation";
 "pending_confirmation_count" = "%1$d/%2$d confirmations";
 "pending_confirmations" = "%d/%d Confirmations";

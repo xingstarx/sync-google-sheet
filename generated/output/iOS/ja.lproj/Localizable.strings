@@ -858,6 +858,7 @@
 "pay_withdrawal_memo" = "額 %@ %@\n手数料 %@ %@";
 "peer_closed" = "ピアが閉じています";
 "peer_not_found" = "ピアが見つかりません";
+"pending" = "Pending";
 "pending_confirmation" = "%1$d/%2$d 承認";
 "pending_confirmation_count" = "%1$d/%2$d 承認";
 "pending_confirmations" = "%d/%d 承認";

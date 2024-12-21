@@ -1030,6 +1030,7 @@
 	<string name="Pay_with_PIN">用 PIN 支付</string>
 	<string name="Pay_with_PIN_interval">PIN 使用間隔</string>
 	<string name="payment_method">支付方式</string>
+	<string name="pending">確認中</string>
 	<plurals name="pending_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">%1$d/%2$d 區塊確認數</item>
 		<item quantity="other">%1$d/%2$d 區塊確認數</item>

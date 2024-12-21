@@ -858,6 +858,7 @@
 "pay_withdrawal_memo" = "數量 %@ %@\n手續費 %@ %@";
 "peer_closed" = "Peer 已關閉";
 "peer_not_found" = "Peer 無效";
+"pending" = "確認中";
 "pending_confirmation" = "%1$d/%2$d 區塊確認數";
 "pending_confirmation_count" = "%1$d/%2$d 區塊確認數";
 "pending_confirmations" = "%d/%d 區塊確認數";
