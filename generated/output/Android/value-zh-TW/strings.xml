@@ -1011,6 +1011,7 @@
 	<string name="Open_Home_page">開啟主頁</string>
 	<string name="Open_in_browser">在瀏覽器中開啟</string>
 	<string name="Open_Link">開啟連結：%1$s</string>
+	<string name="open_source">版權所有 Mixin Messenger\n根據 GPL-3.0 授權許可</string>
 	<string name="Opening_Balance">期初餘額</string>
 	<string name="Operator">運營商</string>
 	<string name="Opponents">收發人</string>

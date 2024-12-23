@@ -1029,6 +1029,7 @@
 	<string name="Open_Home_page">Open Home page</string>
 	<string name="Open_in_browser">Open in browser</string>
 	<string name="Open_Link">Open Link: %1$s</string>
+	<string name="open_source">Copyright Mixin Messenger\nLicensed under the GPLv3</string>
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
 	<string name="Opponents">Opponents</string>
