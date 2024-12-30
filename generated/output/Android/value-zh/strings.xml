@@ -1371,6 +1371,9 @@
 	<string name="signed_message">签名</string>
 	<string name="Signing_in_to_your_account">正在登录账户…</string>
 	<string name="Silence_Notification">静音通知</string>
+	<string name="single_transaction_should_be_between">金额范围 %1$s %2$s ~ %3$s %4$s</string>
+	<string name="single_transaction_should_be_greater_than">最低金额 %1$s %2$s</string>
+	<string name="single_transaction_should_be_less_than">最高金额 %1$s %2$s</string>
 	<string name="Size">大小</string>
 	<string name="Skip">跳过</string>
 	<string name="Slide_to_cancel">滑动取消</string>
