@@ -314,6 +314,7 @@
 "oneHour" : "1 小时",
 "oneWeek" : "1 星期",
 "oneYear" : "1 年",
+"open" : "打开",
 "openHomePage" : "打开主页",
 "openLink" : "打开链接：{arg0}",
 "openLogDirectory" : "打开日志文件夹",

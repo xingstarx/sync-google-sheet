@@ -315,6 +315,7 @@
 "oneHour" : "1 Hour",
 "oneWeek" : "1 Week",
 "oneYear" : "1 Year",
+"open" : "Open",
 "openHomePage" : "Open Home page",
 "openLink" : "Open Link: {arg0}",
 "openLogDirectory" : "open log directory",
