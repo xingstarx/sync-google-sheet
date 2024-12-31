@@ -2145,4 +2145,5 @@
   <string name="single_transaction_should_be_greater_than" platform="android,iOS">最低金额 %1$s %2$s</string>
   <string name="single_transaction_should_be_less_than" platform="android,iOS">最高金额 %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">金额范围 %1$s %2$s ~ %3$s %4$s</string>
+  <string name="open" platform="Desktop">打开</string>
 </resources>
