@@ -2173,4 +2173,5 @@
   <string name="single_transaction_should_be_greater_than" platform="android,iOS">Minimum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_less_than" platform="android,iOS">Maximum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">Amount range be %1$s %2$s ~ %3$s %4$s</string>
+  <string name="open" platform="Desktop">Open</string>
 </resources>
