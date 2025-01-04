@@ -175,6 +175,8 @@
 	<string name="Approving_Transaction">Approving Transaction</string>
 	<string name="Approving_Transaction_Failed">Approving Transaction Failed</string>
 	<string name="Ask_me_anything">Ask me anything</string>
+	<string name="asset_changes">Asset changes</string>
+	<string name="asset_changes_estimate">Asset changes (estimate)</string>
 	<string name="Asset_Key">Asset Key</string>
 	<string name="Asset_Migration">Network Upgrade</string>
 	<string name="Asset_not_found">Asset not found.</string>
@@ -1441,7 +1443,6 @@
 	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
-	<string name="swap_asset_change">Asset changes (estimate)</string>
 	<string name="swap_confirmation">Swap Confirmation</string>
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
 	<string name="swap_failed">Swap Failed</string>

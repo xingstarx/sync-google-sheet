@@ -174,6 +174,8 @@
 	<string name="Approving_Transaction">正在批准</string>
 	<string name="Approving_Transaction_Failed">批准失敗</string>
 	<string name="Ask_me_anything">向我提問</string>
+	<string name="asset_changes">資產變動</string>
+	<string name="asset_changes_estimate">資產變動（預估）</string>
 	<string name="Asset_Key">資產標識</string>
 	<string name="Asset_Migration">資產遷移</string>
 	<string name="Asset_not_found">找不到該資產</string>
@@ -1420,7 +1422,6 @@
 	<string name="suspended_deposit">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網路硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
 	<string name="Suspicious_Link">可疑連結</string>
 	<string name="Swap">交易</string>
-	<string name="swap_asset_change">資產變動（預估）</string>
 	<string name="swap_confirmation">確認交易</string>
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
 	<string name="swap_failed">交易失敗</string>

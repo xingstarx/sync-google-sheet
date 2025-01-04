@@ -174,6 +174,8 @@
 	<string name="Approving_Transaction">正在批准</string>
 	<string name="Approving_Transaction_Failed">批准失败</string>
 	<string name="Ask_me_anything">向我提问</string>
+	<string name="asset_changes">资产变动</string>
+	<string name="asset_changes_estimate">资产变动（预估）</string>
 	<string name="Asset_Key">资产标识</string>
 	<string name="Asset_Migration">资产迁移</string>
 	<string name="Asset_not_found">找不到该资产</string>
@@ -1420,7 +1422,6 @@
 	<string name="suspended_deposit">%1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。</string>
 	<string name="Suspicious_Link">可疑链接</string>
 	<string name="Swap">交易</string>
-	<string name="swap_asset_change">资产变动（预估）</string>
 	<string name="swap_confirmation">确认交易</string>
 	<string name="swap_desc">%1$s 将会在交易完成后存入您的钱包</string>
 	<string name="swap_failed">交易失败</string>
