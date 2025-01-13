@@ -23,4 +23,6 @@
   <string name="access_your_contacts_list" platform="android">訪問你的聯絡人列表</string>
   <string name="access_your_snapshots" platform="android">訪問你的轉賬記錄</string>
   <string name="Account" platform="android, iOS, Desktop">賬號</string>
+  <string name="Acknowledgements" platform="iOS">許可證</string>
+  <string name="activity" platform="Desktop">活動</string>
 </resources>

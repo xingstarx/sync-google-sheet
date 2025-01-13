@@ -2,5 +2,6 @@
 "aMessage" : "a message",
 "about" : "About",
 "accessDenied" : "Access denied",
-"account" : "Account"
+"account" : "Account",
+"activity" : "Activity"
 }
