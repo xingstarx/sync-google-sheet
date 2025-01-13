@@ -22,4 +22,5 @@
   <string name="access_your_contacts_list" platform="android">友達一覧へのアクセス</string>
   <string name="access_your_snapshots" platform="android">スナップショットへのアクセス</string>
   <string name="Account" platform="android, iOS, Desktop">アカウント</string>
+  <string name="Acknowledgements" platform="iOS">謝辞</string>
 </resources>
