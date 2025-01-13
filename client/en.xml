@@ -23,4 +23,6 @@
   <string name="access_your_contacts_list" platform="android">access your contacts list</string>
   <string name="access_your_snapshots" platform="android">access your snapshots</string>
   <string name="Account" platform="android, iOS, Desktop">Account</string>
+  <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
+  <string name="activity" platform="Desktop">Activity</string>
 </resources>

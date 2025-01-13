@@ -24,3 +24,5 @@
 | android | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
 | android | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
+| iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
+| Desktop | activity | Activity | 活动  |     |     |     |
