@@ -14,7 +14,7 @@ jobs:
         distribution: 'adopt'
         java-version: '11'
         check-latest: true
-     
+
     - name: setup python
       uses: actions/setup-python@v4
       with:
@@ -41,8 +41,8 @@ jobs:
 
     - name: Commit files
       run: |
-        git config --local user.email "touge1027@gmail.com"
-        git config --local user.name "tougee"
+        git config --local user.email "xxx823952375@gmail.com"
+        git config --local user.name "xingstarx"
         git add generated
         git commit -m "Update generated files" -a
     - name: Push changes
