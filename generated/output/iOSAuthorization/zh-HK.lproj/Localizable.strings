@@ -1,6 +1,0 @@
-"nscamerausagedescription" = "Mixin 需要訪問攝像頭的權限來設置頭像或在聊天室裏給你的聯繫人發送照片";
-"nscontactsusagedescription" = "將您的聯繫人上傳至 Mixin 的服務器，以便您更快速地與朋友們聯繫";
-"nsfaceidusagedescription" = "Mixin 使用面容識別來驗證支付";
-"nslocationwheninuseusagedescription" = "允許獲取位置讓您可以在對話中發送當前的位置或附近的地點";
-"nsmicrophoneusagedescription" = "Mixin 使用你的麥克風錄製語音消息發給你的聯繫人";
-"nsphotolibraryusagedescription" = "Mixin 需要訪問相冊的權限來設置頭像或在聊天室裏給你的聯繫人發送照片";
