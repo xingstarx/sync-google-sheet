@@ -26,6 +26,10 @@
 
 ## Google sheet 关联步骤
 
+[![Google sheet 到 Github同步的流程图](/image/processing.png "processing")](https://github.com/xingstarx/sync-google-sheet/blob/master/image/processing.png)
+
+
+
 创建 Google Sheet 到设置自动化的完整流程：
 
 ### 1. 创建 Google Sheet
